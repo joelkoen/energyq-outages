@@ -10,8 +10,8 @@
           {
             "type": "Point",
             "coordinates": [
-              151.627941,
-              -27.44484
+              152.37142,
+              -24.855787
             ]
           },
           {
@@ -19,56 +19,72 @@
             "coordinates": [
               [
                 [
-                  151.627039,
-                  -27.445956
+                  152.36578,
+                  -24.853191
                 ],
                 [
-                  151.628066,
-                  -27.446132
+                  152.369257,
+                  -24.861673
                 ],
                 [
-                  151.628596,
-                  -27.445917
+                  152.369709,
+                  -24.861965
                 ],
                 [
-                  151.629247,
-                  -27.444926
+                  152.373149,
+                  -24.862026
                 ],
                 [
-                  151.629204,
-                  -27.444416
+                  152.373186,
+                  -24.862025
                 ],
                 [
-                  151.628522,
-                  -27.443659
+                  152.3761,
+                  -24.86188
                 ],
                 [
-                  151.627885,
-                  -27.443547
+                  152.376547,
+                  -24.861556
                 ],
                 [
-                  151.627384,
-                  -27.443794
+                  152.37706,
+                  -24.859944
                 ],
                 [
-                  151.627256,
-                  -27.443883
+                  152.377051,
+                  -24.859669
                 ],
                 [
-                  151.626918,
-                  -27.44421
+                  152.374351,
+                  -24.852689
                 ],
                 [
-                  151.626789,
-                  -27.444453
+                  152.37427,
+                  -24.852557
                 ],
                 [
-                  151.626634,
-                  -27.445452
+                  152.374145,
+                  -24.852416
                 ],
                 [
-                  151.627039,
-                  -27.445956
+                  152.374073,
+                  -24.852349
+                ],
+                [
+                  152.370307,
+                  -24.849547
+                ],
+                [
+                  152.369662,
+                  -24.849564
+                ],
+                [
+                  152.365909,
+                  -24.852702
+                ],
+                [
+                  152.36578,
+                  -24.853191
                 ]
               ]
             ]
@@ -76,15 +92,15 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "24SW6074",
+        "EVENT_ID": "24WB3942",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "11",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews on route",
-        "START": "5:00AM 09 Mar 2024",
+        "CUSTOMERS_AFFECTED": "306",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews working on-site",
+        "START": "4:02AM 09 Mar 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "AJUGA CT, BROOKVALE PARK RD",
-        "SUBURBS": "JONDARYAN, OAKEY"
+        "STREETS": "AITKENHEAD ST, ALEXANDRA ST, ANN ST, AVENUE ST, BARRITT ST, BUNDA ST, COLLINS ST, DARNELL ST, EASTGATE ST, HILLS ST, JOHNSTON ST, JONES ST, MARY ST, MASSEY ST, OLSEN ST, ORR ST, PRINCESS ST, SCOTLAND ST, SKYRING ST, VICTORIA ST, WHITTRED ST",
+        "SUBURBS": "BUNDABERG, BUNDABERG EAST"
       }
     },
     {
@@ -338,107 +354,6 @@
           {
             "type": "Point",
             "coordinates": [
-              152.37142,
-              -24.855787
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.36578,
-                  -24.853191
-                ],
-                [
-                  152.369257,
-                  -24.861673
-                ],
-                [
-                  152.369709,
-                  -24.861965
-                ],
-                [
-                  152.373149,
-                  -24.862026
-                ],
-                [
-                  152.373186,
-                  -24.862025
-                ],
-                [
-                  152.3761,
-                  -24.86188
-                ],
-                [
-                  152.376547,
-                  -24.861556
-                ],
-                [
-                  152.37706,
-                  -24.859944
-                ],
-                [
-                  152.377051,
-                  -24.859669
-                ],
-                [
-                  152.374351,
-                  -24.852689
-                ],
-                [
-                  152.37427,
-                  -24.852557
-                ],
-                [
-                  152.374145,
-                  -24.852416
-                ],
-                [
-                  152.374073,
-                  -24.852349
-                ],
-                [
-                  152.370307,
-                  -24.849547
-                ],
-                [
-                  152.369662,
-                  -24.849564
-                ],
-                [
-                  152.365909,
-                  -24.852702
-                ],
-                [
-                  152.36578,
-                  -24.853191
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB3942",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "306",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
-        "START": "4:02AM 09 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "AITKENHEAD ST, ALEXANDRA ST, ANN ST, AVENUE ST, BARRITT ST, BUNDA ST, COLLINS ST, DARNELL ST, EASTGATE ST, HILLS ST, JOHNSTON ST, JONES ST, MARY ST, MASSEY ST, OLSEN ST, ORR ST, PRINCESS ST, SCOTLAND ST, SKYRING ST, VICTORIA ST, WHITTRED ST",
-        "SUBURBS": "BUNDABERG, BUNDABERG EAST"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               148.544245,
               -20.62317
             ]
@@ -570,6 +485,91 @@
         "EST_FIX_TIME": null,
         "STREETS": "BLOOMSBURY BACK RD, BOLLONS RD, BRUCE HWY, BUNDESEN AVE, BURTON ST, CAMPBELLS RD, CAPING RD, CARLISLE CRES, CASCADE CONDOS, CONDER PDE, CONDOR PDE, COWANS RD, DON HAUSKNECHT RD, DOUGHERTYS RD, GUNYARRA RD, HOLCOMBE RD, JACKSON ST, JIMMYS ROCK RD, KUNAPIPI RD, LAGUNA QUAYS RESORT ST, LAWSON ST, LELONA DR, LINDEMAN DR, LLEWELLYN RD, MAGEE RD, MALONEY RD, MARINE PDE, MCKELLAR ST, MCLEOD ST, MIDGE POINT RD, MITCHELLS RD, MOUNTAIN DR, NIELSEN PDE, O'DONNELLS RD, O'FLYNN CRES, PARK DR, PATTERSON ST, PETERS AVE, POWER BVD, PRIMARY THOR, REPULSE DR, SHANNON ST, SNOWGUM CT, STAFFORDS RD, STATION RD, THOMSETTS RD, THOOPARA RD, WHITSUNDAY DR",
         "SUBURBS": "ANDROMACHE, BLOOMSBURY, CRYSTAL BROOK, LAGUNA QUAYS, LETHEBROOK, MIDGE POINT, PROSERPINE, THOOPARA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.627941,
+              -27.44484
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.627039,
+                  -27.445956
+                ],
+                [
+                  151.628066,
+                  -27.446132
+                ],
+                [
+                  151.628596,
+                  -27.445917
+                ],
+                [
+                  151.629247,
+                  -27.444926
+                ],
+                [
+                  151.629204,
+                  -27.444416
+                ],
+                [
+                  151.628522,
+                  -27.443659
+                ],
+                [
+                  151.627885,
+                  -27.443547
+                ],
+                [
+                  151.627384,
+                  -27.443794
+                ],
+                [
+                  151.627256,
+                  -27.443883
+                ],
+                [
+                  151.626918,
+                  -27.44421
+                ],
+                [
+                  151.626789,
+                  -27.444453
+                ],
+                [
+                  151.626634,
+                  -27.445452
+                ],
+                [
+                  151.627039,
+                  -27.445956
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6074",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews on route",
+        "START": "5:00AM 09 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AJUGA CT, BROOKVALE PARK RD",
+        "SUBURBS": "JONDARYAN, OAKEY"
       }
     },
     {
@@ -769,5 +769,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709931900.90812"
+  "extracted": "1709932505.346555"
 }
