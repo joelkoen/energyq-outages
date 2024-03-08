@@ -10,71 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              149.244219,
-              -21.543584
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  149.23493,
-                  -21.537089
-                ],
-                [
-                  149.252785,
-                  -21.550778
-                ],
-                [
-                  149.253557,
-                  -21.550548
-                ],
-                [
-                  149.253577,
-                  -21.550479
-                ],
-                [
-                  149.253416,
-                  -21.550011
-                ],
-                [
-                  149.23554,
-                  -21.53639
-                ],
-                [
-                  149.234862,
-                  -21.536454
-                ],
-                [
-                  149.23493,
-                  -21.537089
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK2722",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "5",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
-        "START": "5:27PM 08 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "EAST INNESTON RD, NORTH INNESTON RD",
-        "SUBURBS": "KOUMALA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               151.082983,
               -27.57426
             ]
@@ -118,6 +53,75 @@
         "EST_FIX_TIME": "12:00PM 29 Mar 2024",
         "STREETS": "CECIL PLAINS-MOONIE RD",
         "SUBURBS": "DUNMORE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.462108,
+              -17.455363
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.459813,
+                  -17.454207
+                ],
+                [
+                  145.460288,
+                  -17.456263
+                ],
+                [
+                  145.460649,
+                  -17.456607
+                ],
+                [
+                  145.462638,
+                  -17.457013
+                ],
+                [
+                  145.462872,
+                  -17.457004
+                ],
+                [
+                  145.464314,
+                  -17.456585
+                ],
+                [
+                  145.464403,
+                  -17.455756
+                ],
+                [
+                  145.460498,
+                  -17.453712
+                ],
+                [
+                  145.459813,
+                  -17.454207
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3911",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
+        "STATUS": "Outage reported",
+        "START": "6:36PM 08 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "LONGLANDS GAP-HERBERTON RD, NICHOLSON RD",
+        "SUBURBS": "WONDECLA"
       }
     },
     {
@@ -188,9 +192,74 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              149.244219,
+              -21.543584
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.23493,
+                  -21.537089
+                ],
+                [
+                  149.252785,
+                  -21.550778
+                ],
+                [
+                  149.253557,
+                  -21.550548
+                ],
+                [
+                  149.253577,
+                  -21.550479
+                ],
+                [
+                  149.253416,
+                  -21.550011
+                ],
+                [
+                  149.23554,
+                  -21.53639
+                ],
+                [
+                  149.234862,
+                  -21.536454
+                ],
+                [
+                  149.23493,
+                  -21.537089
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2722",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews on route",
+        "START": "5:27PM 08 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "EAST INNESTON RD, NORTH INNESTON RD",
+        "SUBURBS": "KOUMALA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709887201.314462"
+  "extracted": "1709887506.031869"
 }
