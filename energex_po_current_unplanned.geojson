@@ -10,6 +10,79 @@
           {
             "type": "Point",
             "coordinates": [
+              153.099436,
+              -26.403003
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.097813,
+                  -26.404476
+                ],
+                [
+                  153.098415,
+                  -26.405578
+                ],
+                [
+                  153.099261,
+                  -26.405656
+                ],
+                [
+                  153.100985,
+                  -26.403658
+                ],
+                [
+                  153.101074,
+                  -26.403266
+                ],
+                [
+                  153.100319,
+                  -26.400685
+                ],
+                [
+                  153.099866,
+                  -26.40035
+                ],
+                [
+                  153.09937,
+                  -26.40063
+                ],
+                [
+                  153.097799,
+                  -26.404107
+                ],
+                [
+                  153.097813,
+                  -26.404476
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-746715-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "6:43PM 08 Mar 2024",
+        "EST_FIX_TIME": "8:30PM 08 Mar 2024",
+        "STREETS": "BICENTENNIAL DR, EENIE CREEK RD",
+        "SUBURBS": "NOOSA HEADS, SUNSHINE BEACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.703319,
               -27.56637
             ]
@@ -118,82 +191,9 @@
         "STREETS": "APPALOOSA PL, BAYLEY RD, BELMORE CT, BRAMERS RD, BRISBANE VALLEY HWY, CABERNET CRES, CALOOLA CT, CHABLIS PL, CHESTNUT DR, DESBROW ST, ELEAZAR DR, EVERGREEN LANE, FOUNTAIN RD, GABBINBAR CT, GLENROSS DR, GRACEMERE CRES, JOSETTE PL, KELY RD, KIRKSTON PL, LAMBTON PL, LIPIZZANER PL, MCINNES RD, MERLOT PL, PEPPER LANE, PINE MOUNTAIN QUARRY RD, PINOT PL, PINTO PL, POUINCRADDA ST, PRINGLE PL, REDHILL RD, SENNA CL, SHILOH CT, SPRESSER RD, VELVET ST, WAIRUNA CT, WARREGO HWY",
         "SUBURBS": "BLACKSOIL, BRASSALL, IRONBARK, KARRABIN, PINE MOUNTAIN, WALLOON"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              153.099436,
-              -26.403003
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.097813,
-                  -26.404476
-                ],
-                [
-                  153.098415,
-                  -26.405578
-                ],
-                [
-                  153.099261,
-                  -26.405656
-                ],
-                [
-                  153.100985,
-                  -26.403658
-                ],
-                [
-                  153.101074,
-                  -26.403266
-                ],
-                [
-                  153.100319,
-                  -26.400685
-                ],
-                [
-                  153.099866,
-                  -26.40035
-                ],
-                [
-                  153.09937,
-                  -26.40063
-                ],
-                [
-                  153.097799,
-                  -26.404107
-                ],
-                [
-                  153.097813,
-                  -26.404476
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-746715-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "7",
-        "REASON": "Under Investigation",
-        "STATUS": "In Progress",
-        "START": "6:43PM 08 Mar 2024",
-        "EST_FIX_TIME": "8:30PM 08 Mar 2024",
-        "STREETS": "BICENTENNIAL DR, EENIE CREEK RD",
-        "SUBURBS": "NOOSA HEADS, SUNSHINE BEACH"
-      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1709889305.820394"
+  "extracted": "1709889601.157711"
 }
