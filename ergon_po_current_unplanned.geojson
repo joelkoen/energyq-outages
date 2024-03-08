@@ -313,8 +313,8 @@
           {
             "type": "Point",
             "coordinates": [
-              152.375823,
-              -24.858534
+              152.37142,
+              -24.855787
             ]
           },
           {
@@ -322,68 +322,60 @@
             "coordinates": [
               [
                 [
-                  152.365751,
-                  -24.853068
+                  152.36578,
+                  -24.853191
                 ],
                 [
-                  152.366726,
-                  -24.864651
+                  152.369257,
+                  -24.861673
                 ],
                 [
-                  152.36702,
-                  -24.865028
+                  152.369709,
+                  -24.861965
                 ],
                 [
-                  152.373204,
-                  -24.867508
+                  152.373149,
+                  -24.862026
                 ],
                 [
-                  152.373454,
-                  -24.867544
+                  152.373186,
+                  -24.862025
                 ],
                 [
-                  152.385527,
-                  -24.866385
+                  152.3761,
+                  -24.86188
                 ],
                 [
-                  152.385896,
-                  -24.865702
+                  152.376547,
+                  -24.861556
                 ],
                 [
-                  152.378978,
-                  -24.855442
+                  152.37706,
+                  -24.859944
                 ],
                 [
-                  152.378917,
-                  -24.855369
+                  152.377051,
+                  -24.859669
                 ],
                 [
-                  152.378532,
-                  -24.854996
+                  152.374351,
+                  -24.852689
                 ],
                 [
-                  152.378517,
-                  -24.854981
+                  152.37427,
+                  -24.852557
                 ],
                 [
-                  152.377924,
-                  -24.854456
+                  152.374145,
+                  -24.852416
                 ],
                 [
-                  152.377905,
-                  -24.85444
+                  152.374073,
+                  -24.852349
                 ],
                 [
-                  152.377156,
-                  -24.853842
-                ],
-                [
-                  152.377111,
-                  -24.853809
-                ],
-                [
-                  152.370275,
-                  -24.849525
+                  152.370307,
+                  -24.849547
                 ],
                 [
                   152.369662,
@@ -394,8 +386,8 @@
                   -24.852702
                 ],
                 [
-                  152.365751,
-                  -24.853068
+                  152.36578,
+                  -24.853191
                 ]
               ]
             ]
@@ -405,13 +397,13 @@
       "properties": {
         "EVENT_ID": "24WB3942",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "697",
+        "CUSTOMERS_AFFECTED": "306",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Crews working on-site",
         "START": "4:02AM 09 Mar 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "AITKENHEAD ST, ALEXANDRA ST, AMESS ST, ANN ST, AVENUE ST, BALLANTYNE CT, BARGARA RD, BARRITT ST, BLOOMFIELD DR, BRAGG ST, BUNDA ST, CEDARGREEN CT, CHATSWOOD CT, COLLINS ST, DARNELL ST, DAWSON ST, EASTGATE ST, FE WALKER ST, GERRARD ST, HILLS ST, HOFER CT, JAMIESON ST, JOHNSTON ST, JONES ST, JUNE PL, LEIVESLEY ST, MARTIN ST, MARY ST, MASSEY ST, MELLIFONT ST, OLSEN ST, ORR ST, OVENS ST, PRINCESS ST, REDSHAW ST, SCOTLAND ST, SHERIDAN RD, SHERIDAN ST, SIMPSON CRES, SKYRING ST, STEINDL ST, STEPTOE ST, TELEGRAPH RD, TOOTELL CRES, VICTORIA ST, WHITTRED ST",
-        "SUBURBS": "BUNDABERG, BUNDABERG EAST, BUNDABERG SOUTH"
+        "STREETS": "AITKENHEAD ST, ALEXANDRA ST, ANN ST, AVENUE ST, BARRITT ST, BUNDA ST, COLLINS ST, DARNELL ST, EASTGATE ST, HILLS ST, JOHNSTON ST, JONES ST, MARY ST, MASSEY ST, OLSEN ST, ORR ST, PRINCESS ST, SCOTLAND ST, SKYRING ST, VICTORIA ST, WHITTRED ST",
+        "SUBURBS": "BUNDABERG, BUNDABERG EAST"
       }
     },
     {
@@ -497,75 +489,6 @@
         "EST_FIX_TIME": null,
         "STREETS": "AJUGA CT, BROOKVALE PARK RD",
         "SUBURBS": "JONDARYAN, OAKEY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              148.67154,
-              -20.608011
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  148.665361,
-                  -20.60642
-                ],
-                [
-                  148.666082,
-                  -20.610094
-                ],
-                [
-                  148.666717,
-                  -20.610437
-                ],
-                [
-                  148.677306,
-                  -20.606828
-                ],
-                [
-                  148.677603,
-                  -20.606532
-                ],
-                [
-                  148.677719,
-                  -20.606166
-                ],
-                [
-                  148.677246,
-                  -20.605586
-                ],
-                [
-                  148.66582,
-                  -20.605887
-                ],
-                [
-                  148.665361,
-                  -20.60642
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK2052",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is due to the operating of protective equipment. ",
-        "STATUS": "Crews working on-site",
-        "START": "3:24AM 14 Feb 2024",
-        "EST_FIX_TIME": "12:00PM 22 Mar 2024",
-        "STREETS": "KUNAPIPI RD, PRIMARY THOR",
-        "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
     },
     {
@@ -692,9 +615,78 @@
         "STREETS": "BUTLER DR, DANIEL PL, FERNTREE PL, GREGORY TCE",
         "SUBURBS": "KURANDA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.67154,
+              -20.608011
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.665361,
+                  -20.60642
+                ],
+                [
+                  148.666082,
+                  -20.610094
+                ],
+                [
+                  148.666717,
+                  -20.610437
+                ],
+                [
+                  148.677306,
+                  -20.606828
+                ],
+                [
+                  148.677603,
+                  -20.606532
+                ],
+                [
+                  148.677719,
+                  -20.606166
+                ],
+                [
+                  148.677246,
+                  -20.605586
+                ],
+                [
+                  148.66582,
+                  -20.605887
+                ],
+                [
+                  148.665361,
+                  -20.60642
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2052",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "STATUS": "Crews working on-site",
+        "START": "3:24AM 14 Feb 2024",
+        "EST_FIX_TIME": "12:00PM 22 Mar 2024",
+        "STREETS": "KUNAPIPI RD, PRIMARY THOR",
+        "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709931000.427827"
+  "extracted": "1709931301.196678"
 }
