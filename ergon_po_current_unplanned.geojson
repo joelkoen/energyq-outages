@@ -10,8 +10,8 @@
           {
             "type": "Point",
             "coordinates": [
-              145.63989,
-              -16.809467
+              146.067935,
+              -17.582573
             ]
           },
           {
@@ -19,96 +19,68 @@
             "coordinates": [
               [
                 [
-                  145.636572,
-                  -16.809808
+                  146.063921,
+                  -17.586607
                 ],
                 [
-                  145.636804,
-                  -16.810608
+                  146.071771,
+                  -17.584303
                 ],
                 [
-                  145.636862,
-                  -16.810731
+                  146.071906,
+                  -17.584239
                 ],
                 [
-                  145.637473,
-                  -16.811646
+                  146.072296,
+                  -17.583973
                 ],
                 [
-                  145.637475,
-                  -16.811648
+                  146.072476,
+                  -17.58348
                 ],
                 [
-                  145.638469,
-                  -16.813117
+                  146.071225,
+                  -17.579295
                 ],
                 [
-                  145.638536,
-                  -16.813195
+                  146.071204,
+                  -17.57924
                 ],
                 [
-                  145.639084,
-                  -16.813705
+                  146.071018,
+                  -17.578828
                 ],
                 [
-                  145.639209,
-                  -16.813788
+                  146.070933,
+                  -17.578703
                 ],
                 [
-                  145.641001,
-                  -16.814609
+                  146.070867,
+                  -17.578634
                 ],
                 [
-                  145.641661,
-                  -16.814295
+                  146.070299,
+                  -17.57854
                 ],
                 [
-                  145.643224,
-                  -16.80725
+                  146.068909,
+                  -17.579246
                 ],
                 [
-                  145.643154,
-                  -16.806903
+                  146.06876,
+                  -17.579366
                 ],
                 [
-                  145.642261,
-                  -16.805631
+                  146.063412,
+                  -17.585896
                 ],
                 [
-                  145.642017,
-                  -16.805454
+                  146.063394,
+                  -17.586431
                 ],
                 [
-                  145.639183,
-                  -16.804568
-                ],
-                [
-                  145.639109,
-                  -16.804551
-                ],
-                [
-                  145.637582,
-                  -16.804324
-                ],
-                [
-                  145.637085,
-                  -16.80458
-                ],
-                [
-                  145.636897,
-                  -16.80497
-                ],
-                [
-                  145.636854,
-                  -16.805132
-                ],
-                [
-                  145.636556,
-                  -16.809658
-                ],
-                [
-                  145.636572,
-                  -16.809808
+                  146.063921,
+                  -17.586607
                 ]
               ]
             ]
@@ -116,15 +88,15 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "24FN3917",
+        "EVENT_ID": "24FN3918",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "78",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
-        "START": "1:45AM 09 Mar 2024",
+        "CUSTOMERS_AFFECTED": "28",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:57AM 09 Mar 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "BUTLER DR, DANIEL PL, FERNTREE PL, GREGORY TCE",
-        "SUBURBS": "KURANDA"
+        "STREETS": "DANIEL CL, ETTY BAY RD, LA ROCCA CL, LYCHEE CL",
+        "SUBURBS": "ETTY BAY"
       }
     },
     {
@@ -178,6 +150,87 @@
         "EST_FIX_TIME": "12:00PM 29 Mar 2024",
         "STREETS": "CECIL PLAINS-MOONIE RD",
         "SUBURBS": "DUNMORE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              139.373002,
+              -20.610583
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  139.339786,
+                  -20.587993
+                ],
+                [
+                  139.340821,
+                  -20.589377
+                ],
+                [
+                  139.340902,
+                  -20.58946
+                ],
+                [
+                  139.378148,
+                  -20.619351
+                ],
+                [
+                  139.37817,
+                  -20.619367
+                ],
+                [
+                  139.405633,
+                  -20.63898
+                ],
+                [
+                  139.406285,
+                  -20.638911
+                ],
+                [
+                  139.406245,
+                  -20.638294
+                ],
+                [
+                  139.342105,
+                  -20.582186
+                ],
+                [
+                  139.341324,
+                  -20.58239
+                ],
+                [
+                  139.339718,
+                  -20.58761
+                ],
+                [
+                  139.339786,
+                  -20.587993
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5989",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "STATUS": "Outage reported",
+        "START": "7:00AM 09 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MAY DOWNS STATION",
+        "SUBURBS": "MOUNT ISA"
       }
     },
     {
@@ -290,7 +343,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "84",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "7:59AM 09 Mar 2024",
         "EST_FIX_TIME": null,
         "STREETS": "COOK ST, FERGUSON CRES, MELBOURNE ST, O'MALLEY ST, PERTH ST",
@@ -305,8 +358,8 @@
           {
             "type": "Point",
             "coordinates": [
-              139.373002,
-              -20.610583
+              144.200479,
+              -22.912703
             ]
           },
           {
@@ -314,52 +367,80 @@
             "coordinates": [
               [
                 [
-                  139.339786,
-                  -20.587993
+                  143.980886,
+                  -22.901743
                 ],
                 [
-                  139.340821,
-                  -20.589377
+                  144.096309,
+                  -23.205044
                 ],
                 [
-                  139.340902,
-                  -20.58946
+                  144.097129,
+                  -23.205199
                 ],
                 [
-                  139.378148,
-                  -20.619351
+                  144.135978,
+                  -23.166
                 ],
                 [
-                  139.37817,
-                  -20.619367
+                  144.136018,
+                  -23.165953
                 ],
                 [
-                  139.405633,
-                  -20.63898
+                  144.399448,
+                  -22.814741
                 ],
                 [
-                  139.406285,
-                  -20.638911
+                  144.39951,
+                  -22.814626
                 ],
                 [
-                  139.406245,
-                  -20.638294
+                  144.401325,
+                  -22.809582
                 ],
                 [
-                  139.342105,
-                  -20.582186
+                  144.401333,
+                  -22.809557
                 ],
                 [
-                  139.341324,
-                  -20.58239
+                  144.420087,
+                  -22.745635
                 ],
                 [
-                  139.339718,
-                  -20.58761
+                  144.419822,
+                  -22.745108
                 ],
                 [
-                  139.339786,
-                  -20.587993
+                  144.402009,
+                  -22.737445
+                ],
+                [
+                  144.401996,
+                  -22.737439
+                ],
+                [
+                  144.107751,
+                  -22.620206
+                ],
+                [
+                  144.10714,
+                  -22.620393
+                ],
+                [
+                  144.012825,
+                  -22.769772
+                ],
+                [
+                  144.01277,
+                  -22.769902
+                ],
+                [
+                  143.98087,
+                  -22.901495
+                ],
+                [
+                  143.980886,
+                  -22.901743
                 ]
               ]
             ]
@@ -367,15 +448,15 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "24NQ5989",
+        "EVENT_ID": "24CA4264",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "6",
-        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "CUSTOMERS_AFFECTED": "43",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Outage reported",
-        "START": "7:00AM 09 Mar 2024",
+        "START": "7:43AM 09 Mar 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "MAY DOWNS STATION",
-        "SUBURBS": "MOUNT ISA"
+        "STREETS": "CRAMSIE MUTTABURRA RD, DARR RIVER DOWNS RD, DARR-MUTTABURRA RD, MORELLA-MUTTABURRA RD, OFF MORELLA-MBURRA RD",
+        "SUBURBS": "LONGREACH, MORELLA"
       }
     },
     {
@@ -527,115 +608,6 @@
           {
             "type": "Point",
             "coordinates": [
-              144.200479,
-              -22.912703
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  143.980886,
-                  -22.901743
-                ],
-                [
-                  144.096309,
-                  -23.205044
-                ],
-                [
-                  144.097129,
-                  -23.205199
-                ],
-                [
-                  144.135978,
-                  -23.166
-                ],
-                [
-                  144.136018,
-                  -23.165953
-                ],
-                [
-                  144.399448,
-                  -22.814741
-                ],
-                [
-                  144.39951,
-                  -22.814626
-                ],
-                [
-                  144.401325,
-                  -22.809582
-                ],
-                [
-                  144.401333,
-                  -22.809557
-                ],
-                [
-                  144.420087,
-                  -22.745635
-                ],
-                [
-                  144.419822,
-                  -22.745108
-                ],
-                [
-                  144.402009,
-                  -22.737445
-                ],
-                [
-                  144.401996,
-                  -22.737439
-                ],
-                [
-                  144.107751,
-                  -22.620206
-                ],
-                [
-                  144.10714,
-                  -22.620393
-                ],
-                [
-                  144.012825,
-                  -22.769772
-                ],
-                [
-                  144.01277,
-                  -22.769902
-                ],
-                [
-                  143.98087,
-                  -22.901495
-                ],
-                [
-                  143.980886,
-                  -22.901743
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA4264",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "43",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
-        "START": "7:43AM 09 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "CRAMSIE MUTTABURRA RD, DARR RIVER DOWNS RD, DARR-MUTTABURRA RD, MORELLA-MUTTABURRA RD, OFF MORELLA-MBURRA RD",
-        "SUBURBS": "LONGREACH, MORELLA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               151.627941,
               -27.44484
             ]
@@ -721,103 +693,6 @@
           {
             "type": "Point",
             "coordinates": [
-              146.067935,
-              -17.582573
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  146.063921,
-                  -17.586607
-                ],
-                [
-                  146.071771,
-                  -17.584303
-                ],
-                [
-                  146.071906,
-                  -17.584239
-                ],
-                [
-                  146.072296,
-                  -17.583973
-                ],
-                [
-                  146.072476,
-                  -17.58348
-                ],
-                [
-                  146.071225,
-                  -17.579295
-                ],
-                [
-                  146.071204,
-                  -17.57924
-                ],
-                [
-                  146.071018,
-                  -17.578828
-                ],
-                [
-                  146.070933,
-                  -17.578703
-                ],
-                [
-                  146.070867,
-                  -17.578634
-                ],
-                [
-                  146.070299,
-                  -17.57854
-                ],
-                [
-                  146.068909,
-                  -17.579246
-                ],
-                [
-                  146.06876,
-                  -17.579366
-                ],
-                [
-                  146.063412,
-                  -17.585896
-                ],
-                [
-                  146.063394,
-                  -17.586431
-                ],
-                [
-                  146.063921,
-                  -17.586607
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN3918",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "28",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
-        "START": "6:57AM 09 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "DANIEL CL, ETTY BAY RD, LA ROCCA CL, LYCHEE CL",
-        "SUBURBS": "ETTY BAY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -878,9 +753,134 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.63989,
+              -16.809467
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.636572,
+                  -16.809808
+                ],
+                [
+                  145.636804,
+                  -16.810608
+                ],
+                [
+                  145.636862,
+                  -16.810731
+                ],
+                [
+                  145.637473,
+                  -16.811646
+                ],
+                [
+                  145.637475,
+                  -16.811648
+                ],
+                [
+                  145.638469,
+                  -16.813117
+                ],
+                [
+                  145.638536,
+                  -16.813195
+                ],
+                [
+                  145.639084,
+                  -16.813705
+                ],
+                [
+                  145.639209,
+                  -16.813788
+                ],
+                [
+                  145.641001,
+                  -16.814609
+                ],
+                [
+                  145.641661,
+                  -16.814295
+                ],
+                [
+                  145.643224,
+                  -16.80725
+                ],
+                [
+                  145.643154,
+                  -16.806903
+                ],
+                [
+                  145.642261,
+                  -16.805631
+                ],
+                [
+                  145.642017,
+                  -16.805454
+                ],
+                [
+                  145.639183,
+                  -16.804568
+                ],
+                [
+                  145.639109,
+                  -16.804551
+                ],
+                [
+                  145.637582,
+                  -16.804324
+                ],
+                [
+                  145.637085,
+                  -16.80458
+                ],
+                [
+                  145.636897,
+                  -16.80497
+                ],
+                [
+                  145.636854,
+                  -16.805132
+                ],
+                [
+                  145.636556,
+                  -16.809658
+                ],
+                [
+                  145.636572,
+                  -16.809808
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3917",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "78",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews working on-site",
+        "START": "1:45AM 09 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BUTLER DR, DANIEL PL, FERNTREE PL, GREGORY TCE",
+        "SUBURBS": "KURANDA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709937904.528688"
+  "extracted": "1709938201.334479"
 }
