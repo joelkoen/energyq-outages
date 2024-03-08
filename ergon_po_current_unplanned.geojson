@@ -10,8 +10,8 @@
           {
             "type": "Point",
             "coordinates": [
-              151.245294,
-              -23.856452
+              151.627941,
+              -27.44484
             ]
           },
           {
@@ -19,88 +19,56 @@
             "coordinates": [
               [
                 [
-                  151.242311,
-                  -23.855882
+                  151.627039,
+                  -27.445956
                 ],
                 [
-                  151.242377,
-                  -23.856562
+                  151.628066,
+                  -27.446132
                 ],
                 [
-                  151.242398,
-                  -23.856657
+                  151.628596,
+                  -27.445917
                 ],
                 [
-                  151.242437,
-                  -23.856773
+                  151.629247,
+                  -27.444926
                 ],
                 [
-                  151.242766,
-                  -23.85707
+                  151.629204,
+                  -27.444416
                 ],
                 [
-                  151.245208,
-                  -23.857733
+                  151.628522,
+                  -27.443659
                 ],
                 [
-                  151.245323,
-                  -23.857751
+                  151.627885,
+                  -27.443547
                 ],
                 [
-                  151.247233,
-                  -23.857838
+                  151.627384,
+                  -27.443794
                 ],
                 [
-                  151.247692,
-                  -23.857595
+                  151.627256,
+                  -27.443883
                 ],
                 [
-                  151.248223,
-                  -23.85665
+                  151.626918,
+                  -27.44421
                 ],
                 [
-                  151.248277,
-                  -23.856418
+                  151.626789,
+                  -27.444453
                 ],
                 [
-                  151.248261,
-                  -23.856168
+                  151.626634,
+                  -27.445452
                 ],
                 [
-                  151.24793,
-                  -23.855766
-                ],
-                [
-                  151.247762,
-                  -23.855713
-                ],
-                [
-                  151.247682,
-                  -23.855695
-                ],
-                [
-                  151.243425,
-                  -23.855065
-                ],
-                [
-                  151.243267,
-                  -23.855066
-                ],
-                [
-                  151.242757,
-                  -23.855144
-                ],
-                [
-                  151.242352,
-                  -23.855527
-                ],
-                [
-                  151.242314,
-                  -23.855781
-                ],
-                [
-                  151.242311,
-                  -23.855882
+                  151.627039,
+                  -27.445956
                 ]
               ]
             ]
@@ -108,15 +76,15 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "24CA4263",
+        "EVENT_ID": "24SW6074",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "84",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
-        "START": "7:59AM 09 Mar 2024",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews on route",
+        "START": "5:00AM 09 Mar 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "COOK ST, FERGUSON CRES, MELBOURNE ST, O'MALLEY ST, PERTH ST",
-        "SUBURBS": "WEST GLADSTONE"
+        "STREETS": "AJUGA CT, BROOKVALE PARK RD",
+        "SUBURBS": "JONDARYAN, OAKEY"
       }
     },
     {
@@ -251,6 +219,123 @@
         "EST_FIX_TIME": null,
         "STREETS": "MAY DOWNS STATION",
         "SUBURBS": "MOUNT ISA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.245294,
+              -23.856452
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.242311,
+                  -23.855882
+                ],
+                [
+                  151.242377,
+                  -23.856562
+                ],
+                [
+                  151.242398,
+                  -23.856657
+                ],
+                [
+                  151.242437,
+                  -23.856773
+                ],
+                [
+                  151.242766,
+                  -23.85707
+                ],
+                [
+                  151.245208,
+                  -23.857733
+                ],
+                [
+                  151.245323,
+                  -23.857751
+                ],
+                [
+                  151.247233,
+                  -23.857838
+                ],
+                [
+                  151.247692,
+                  -23.857595
+                ],
+                [
+                  151.248223,
+                  -23.85665
+                ],
+                [
+                  151.248277,
+                  -23.856418
+                ],
+                [
+                  151.248261,
+                  -23.856168
+                ],
+                [
+                  151.24793,
+                  -23.855766
+                ],
+                [
+                  151.247762,
+                  -23.855713
+                ],
+                [
+                  151.247682,
+                  -23.855695
+                ],
+                [
+                  151.243425,
+                  -23.855065
+                ],
+                [
+                  151.243267,
+                  -23.855066
+                ],
+                [
+                  151.242757,
+                  -23.855144
+                ],
+                [
+                  151.242352,
+                  -23.855527
+                ],
+                [
+                  151.242314,
+                  -23.855781
+                ],
+                [
+                  151.242311,
+                  -23.855882
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4263",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "84",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:59AM 09 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "COOK ST, FERGUSON CRES, MELBOURNE ST, O'MALLEY ST, PERTH ST",
+        "SUBURBS": "WEST GLADSTONE"
       }
     },
     {
@@ -499,91 +584,6 @@
           {
             "type": "Point",
             "coordinates": [
-              151.627941,
-              -27.44484
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.627039,
-                  -27.445956
-                ],
-                [
-                  151.628066,
-                  -27.446132
-                ],
-                [
-                  151.628596,
-                  -27.445917
-                ],
-                [
-                  151.629247,
-                  -27.444926
-                ],
-                [
-                  151.629204,
-                  -27.444416
-                ],
-                [
-                  151.628522,
-                  -27.443659
-                ],
-                [
-                  151.627885,
-                  -27.443547
-                ],
-                [
-                  151.627384,
-                  -27.443794
-                ],
-                [
-                  151.627256,
-                  -27.443883
-                ],
-                [
-                  151.626918,
-                  -27.44421
-                ],
-                [
-                  151.626789,
-                  -27.444453
-                ],
-                [
-                  151.626634,
-                  -27.445452
-                ],
-                [
-                  151.627039,
-                  -27.445956
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW6074",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "11",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews on route",
-        "START": "5:00AM 09 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "AJUGA CT, BROOKVALE PARK RD",
-        "SUBURBS": "JONDARYAN, OAKEY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -773,5 +773,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709936701.458201"
+  "extracted": "1709937007.243527"
 }
