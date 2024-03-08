@@ -10,6 +10,59 @@
           {
             "type": "Point",
             "coordinates": [
+              151.082983,
+              -27.57426
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.083489,
+                  -27.574245
+                ],
+                [
+                  151.082967,
+                  -27.57381
+                ],
+                [
+                  151.082478,
+                  -27.574275
+                ],
+                [
+                  151.083,
+                  -27.57471
+                ],
+                [
+                  151.083489,
+                  -27.574245
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "23SW21468",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Work delayed. Crew unable to continue.",
+        "START": "1:10PM 05 Dec 2023",
+        "EST_FIX_TIME": "12:00PM 29 Mar 2024",
+        "STREETS": "CECIL PLAINS-MOONIE RD",
+        "SUBURBS": "DUNMORE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               149.058387,
               -21.056283
             ]
@@ -103,184 +156,6 @@
           {
             "type": "Point",
             "coordinates": [
-              151.082983,
-              -27.57426
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.083489,
-                  -27.574245
-                ],
-                [
-                  151.082967,
-                  -27.57381
-                ],
-                [
-                  151.082478,
-                  -27.574275
-                ],
-                [
-                  151.083,
-                  -27.57471
-                ],
-                [
-                  151.083489,
-                  -27.574245
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "23SW21468",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Work delayed. Crew unable to continue.",
-        "START": "1:10PM 05 Dec 2023",
-        "EST_FIX_TIME": "12:00PM 29 Mar 2024",
-        "STREETS": "CECIL PLAINS-MOONIE RD",
-        "SUBURBS": "DUNMORE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              147.260092,
-              -19.559556
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  147.238029,
-                  -19.56186
-                ],
-                [
-                  147.247508,
-                  -19.569702
-                ],
-                [
-                  147.247721,
-                  -19.569804
-                ],
-                [
-                  147.257385,
-                  -19.571777
-                ],
-                [
-                  147.257462,
-                  -19.571786
-                ],
-                [
-                  147.277175,
-                  -19.572683
-                ],
-                [
-                  147.277614,
-                  -19.572452
-                ],
-                [
-                  147.280921,
-                  -19.566836
-                ],
-                [
-                  147.28097,
-                  -19.566716
-                ],
-                [
-                  147.281895,
-                  -19.562853
-                ],
-                [
-                  147.281905,
-                  -19.562789
-                ],
-                [
-                  147.282319,
-                  -19.557859
-                ],
-                [
-                  147.282295,
-                  -19.557676
-                ],
-                [
-                  147.278328,
-                  -19.546728
-                ],
-                [
-                  147.277809,
-                  -19.546428
-                ],
-                [
-                  147.251819,
-                  -19.549945
-                ],
-                [
-                  147.251591,
-                  -19.550037
-                ],
-                [
-                  147.239425,
-                  -19.5591
-                ],
-                [
-                  147.239319,
-                  -19.55921
-                ],
-                [
-                  147.237943,
-                  -19.561232
-                ],
-                [
-                  147.237868,
-                  -19.56146
-                ],
-                [
-                  147.237866,
-                  -19.561502
-                ],
-                [
-                  147.238029,
-                  -19.56186
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5976",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "22",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
-        "START": "2:39PM 08 Mar 2024",
-        "EST_FIX_TIME": "7:00PM 08 Mar 2024",
-        "STREETS": "BRUCE HWY, HUGHES RD, LOCHINVAR STATION",
-        "SUBURBS": "AYR, BRANDON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -345,5 +220,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709883601.496045"
+  "extracted": "1709883905.458194"
 }
