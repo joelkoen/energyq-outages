@@ -10,8 +10,8 @@
           {
             "type": "Point",
             "coordinates": [
-              151.082983,
-              -27.57426
+              148.67154,
+              -20.608011
             ]
           },
           {
@@ -19,24 +19,40 @@
             "coordinates": [
               [
                 [
-                  151.083489,
-                  -27.574245
+                  148.665361,
+                  -20.60642
                 ],
                 [
-                  151.082967,
-                  -27.57381
+                  148.666082,
+                  -20.610094
                 ],
                 [
-                  151.082478,
-                  -27.574275
+                  148.666717,
+                  -20.610437
                 ],
                 [
-                  151.083,
-                  -27.57471
+                  148.677306,
+                  -20.606828
                 ],
                 [
-                  151.083489,
-                  -27.574245
+                  148.677603,
+                  -20.606532
+                ],
+                [
+                  148.677719,
+                  -20.606166
+                ],
+                [
+                  148.677246,
+                  -20.605586
+                ],
+                [
+                  148.66582,
+                  -20.605887
+                ],
+                [
+                  148.665361,
+                  -20.60642
                 ]
               ]
             ]
@@ -44,15 +60,15 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "23SW21468",
+        "EVENT_ID": "24MK2052",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Work delayed. Crew unable to continue.",
-        "START": "1:10PM 05 Dec 2023",
-        "EST_FIX_TIME": "12:00PM 29 Mar 2024",
-        "STREETS": "CECIL PLAINS-MOONIE RD",
-        "SUBURBS": "DUNMORE"
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "STATUS": "Crews working on-site",
+        "START": "3:24AM 14 Feb 2024",
+        "EST_FIX_TIME": "12:00PM 22 Mar 2024",
+        "STREETS": "KUNAPIPI RD, PRIMARY THOR",
+        "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
     },
     {
@@ -156,8 +172,8 @@
           {
             "type": "Point",
             "coordinates": [
-              148.67154,
-              -20.608011
+              151.082983,
+              -27.57426
             ]
           },
           {
@@ -165,40 +181,24 @@
             "coordinates": [
               [
                 [
-                  148.665361,
-                  -20.60642
+                  151.083489,
+                  -27.574245
                 ],
                 [
-                  148.666082,
-                  -20.610094
+                  151.082967,
+                  -27.57381
                 ],
                 [
-                  148.666717,
-                  -20.610437
+                  151.082478,
+                  -27.574275
                 ],
                 [
-                  148.677306,
-                  -20.606828
+                  151.083,
+                  -27.57471
                 ],
                 [
-                  148.677603,
-                  -20.606532
-                ],
-                [
-                  148.677719,
-                  -20.606166
-                ],
-                [
-                  148.677246,
-                  -20.605586
-                ],
-                [
-                  148.66582,
-                  -20.605887
-                ],
-                [
-                  148.665361,
-                  -20.60642
+                  151.083489,
+                  -27.574245
                 ]
               ]
             ]
@@ -206,19 +206,84 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "24MK2052",
+        "EVENT_ID": "23SW21468",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is due to the operating of protective equipment. ",
-        "STATUS": "Crews working on-site",
-        "START": "3:24AM 14 Feb 2024",
-        "EST_FIX_TIME": "12:00PM 22 Mar 2024",
-        "STREETS": "KUNAPIPI RD, PRIMARY THOR",
-        "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Work delayed. Crew unable to continue.",
+        "START": "1:10PM 05 Dec 2023",
+        "EST_FIX_TIME": "12:00PM 29 Mar 2024",
+        "STREETS": "CECIL PLAINS-MOONIE RD",
+        "SUBURBS": "DUNMORE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              149.244219,
+              -21.543584
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.23493,
+                  -21.537089
+                ],
+                [
+                  149.252785,
+                  -21.550778
+                ],
+                [
+                  149.253557,
+                  -21.550548
+                ],
+                [
+                  149.253577,
+                  -21.550479
+                ],
+                [
+                  149.253416,
+                  -21.550011
+                ],
+                [
+                  149.23554,
+                  -21.53639
+                ],
+                [
+                  149.234862,
+                  -21.536454
+                ],
+                [
+                  149.23493,
+                  -21.537089
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2722",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews on route",
+        "START": "5:27PM 08 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "EAST INNESTON RD, NORTH INNESTON RD",
+        "SUBURBS": "KOUMALA"
       }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709883905.458194"
+  "extracted": "1709884201.755766"
 }
