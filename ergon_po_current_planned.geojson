@@ -7,20 +7,83 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.516969,
-          -23.382666
+          147.423472,
+          -19.52226
         ]
       },
       "properties": {
-        "EVENT_ID": "24CA3431",
+        "EVENT_ID": "24NQ5187",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Work scheduled",
+        "START": "9:00AM 09 Mar 2024",
+        "EST_FIX_TIME": "12:00PM 09 Mar 2024",
+        "STREETS": "BEACH RD",
+        "SUBURBS": "AYR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.008216,
+          -17.512312
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN2924",
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Work scheduled",
+        "START": "8:00AM 09 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 09 Mar 2024",
+        "STREETS": "DICKSON RD",
+        "SUBURBS": "GOONDI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.424222,
+          -19.539449
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5184",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Work scheduled",
+        "START": "8:00AM 09 Mar 2024",
+        "EST_FIX_TIME": "11:00AM 09 Mar 2024",
+        "STREETS": "BEACH RD, BURSTALL RD, HIBISCUS DR",
+        "SUBURBS": "AYR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.263038,
+          -21.608106
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2148",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:00AM 09 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 09 Mar 2024",
-        "STREETS": "EAST ST",
-        "SUBURBS": "ROCKHAMPTON CITY"
+        "EST_FIX_TIME": "2:00PM 09 Mar 2024",
+        "STREETS": "TEDLANDS RD",
+        "SUBURBS": "KOUMALA"
       }
     },
     {
@@ -70,27 +133,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          147.424222,
-          -19.539449
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5184",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "9",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "8:00AM 09 Mar 2024",
-        "EST_FIX_TIME": "11:00AM 09 Mar 2024",
-        "STREETS": "BEACH RD, BURSTALL RD, HIBISCUS DR",
-        "SUBURBS": "AYR"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           149.215843,
           -21.615866
         ]
@@ -112,20 +154,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.008216,
-          -17.512312
+          146.266072,
+          -20.064292
         ]
       },
       "properties": {
-        "EVENT_ID": "24FN2924",
+        "EVENT_ID": "24NQ4862",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "CUSTOMERS_AFFECTED": "140",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
         "STATUS": "Work scheduled",
-        "START": "8:00AM 09 Mar 2024",
-        "EST_FIX_TIME": "2:00PM 09 Mar 2024",
-        "STREETS": "DICKSON RD",
-        "SUBURBS": "GOONDI"
+        "START": "9:00AM 09 Mar 2024",
+        "EST_FIX_TIME": "1:00PM 09 Mar 2024",
+        "STREETS": "BAKER ST, BURDEKIN ST, CHURCHILL ST, DEIGHTON ST, HACKETT TCE, PLANT ST, PRIOR ST, RACECOURSE RD, WATER ST",
+        "SUBURBS": "CHARTERS TOWERS, RICHMOND HILL"
       }
     },
     {
@@ -175,66 +217,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.266072,
-          -20.064292
+          150.516969,
+          -23.382666
         ]
       },
       "properties": {
-        "EVENT_ID": "24NQ4862",
+        "EVENT_ID": "24CA3431",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "140",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
-        "START": "9:00AM 09 Mar 2024",
-        "EST_FIX_TIME": "1:00PM 09 Mar 2024",
-        "STREETS": "BAKER ST, BURDEKIN ST, CHURCHILL ST, DEIGHTON ST, HACKETT TCE, PLANT ST, PRIOR ST, RACECOURSE RD, WATER ST",
-        "SUBURBS": "CHARTERS TOWERS, RICHMOND HILL"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.263038,
-          -21.608106
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK2148",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
+        "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:00AM 09 Mar 2024",
-        "EST_FIX_TIME": "2:00PM 09 Mar 2024",
-        "STREETS": "TEDLANDS RD",
-        "SUBURBS": "KOUMALA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          147.423472,
-          -19.52226
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5187",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "9:00AM 09 Mar 2024",
-        "EST_FIX_TIME": "12:00PM 09 Mar 2024",
-        "STREETS": "BEACH RD",
-        "SUBURBS": "AYR"
+        "EST_FIX_TIME": "4:00PM 09 Mar 2024",
+        "STREETS": "EAST ST",
+        "SUBURBS": "ROCKHAMPTON CITY"
       }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709924405.777868"
+  "extracted": "1709925001.544632"
 }
