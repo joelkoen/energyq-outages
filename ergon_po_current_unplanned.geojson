@@ -10,8 +10,8 @@
           {
             "type": "Point",
             "coordinates": [
-              151.082983,
-              -27.57426
+              145.63989,
+              -16.809467
             ]
           },
           {
@@ -19,24 +19,96 @@
             "coordinates": [
               [
                 [
-                  151.083489,
-                  -27.574245
+                  145.636572,
+                  -16.809808
                 ],
                 [
-                  151.082967,
-                  -27.57381
+                  145.636804,
+                  -16.810608
                 ],
                 [
-                  151.082478,
-                  -27.574275
+                  145.636862,
+                  -16.810731
                 ],
                 [
-                  151.083,
-                  -27.57471
+                  145.637473,
+                  -16.811646
                 ],
                 [
-                  151.083489,
-                  -27.574245
+                  145.637475,
+                  -16.811648
+                ],
+                [
+                  145.638469,
+                  -16.813117
+                ],
+                [
+                  145.638536,
+                  -16.813195
+                ],
+                [
+                  145.639084,
+                  -16.813705
+                ],
+                [
+                  145.639209,
+                  -16.813788
+                ],
+                [
+                  145.641001,
+                  -16.814609
+                ],
+                [
+                  145.641661,
+                  -16.814295
+                ],
+                [
+                  145.643224,
+                  -16.80725
+                ],
+                [
+                  145.643154,
+                  -16.806903
+                ],
+                [
+                  145.642261,
+                  -16.805631
+                ],
+                [
+                  145.642017,
+                  -16.805454
+                ],
+                [
+                  145.639183,
+                  -16.804568
+                ],
+                [
+                  145.639109,
+                  -16.804551
+                ],
+                [
+                  145.637582,
+                  -16.804324
+                ],
+                [
+                  145.637085,
+                  -16.80458
+                ],
+                [
+                  145.636897,
+                  -16.80497
+                ],
+                [
+                  145.636854,
+                  -16.805132
+                ],
+                [
+                  145.636556,
+                  -16.809658
+                ],
+                [
+                  145.636572,
+                  -16.809808
                 ]
               ]
             ]
@@ -44,15 +116,15 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "23SW21468",
+        "EVENT_ID": "24FN3917",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Work delayed. Crew unable to continue.",
-        "START": "1:10PM 05 Dec 2023",
-        "EST_FIX_TIME": "12:00PM 29 Mar 2024",
-        "STREETS": "CECIL PLAINS-MOONIE RD",
-        "SUBURBS": "DUNMORE"
+        "CUSTOMERS_AFFECTED": "78",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Work delayed - crews unable to continue",
+        "START": "1:45AM 09 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BUTLER DR, DANIEL PL, FERNTREE PL, GREGORY TCE",
+        "SUBURBS": "KURANDA"
       }
     },
     {
@@ -146,6 +218,59 @@
         "EST_FIX_TIME": null,
         "STREETS": "ETNA CREEK RD",
         "SUBURBS": "ETNA CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.082983,
+              -27.57426
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.083489,
+                  -27.574245
+                ],
+                [
+                  151.082967,
+                  -27.57381
+                ],
+                [
+                  151.082478,
+                  -27.574275
+                ],
+                [
+                  151.083,
+                  -27.57471
+                ],
+                [
+                  151.083489,
+                  -27.574245
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "23SW21468",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Work delayed. Crew unable to continue.",
+        "START": "1:10PM 05 Dec 2023",
+        "EST_FIX_TIME": "12:00PM 29 Mar 2024",
+        "STREETS": "CECIL PLAINS-MOONIE RD",
+        "SUBURBS": "DUNMORE"
       }
     },
     {
@@ -378,6 +503,103 @@
           {
             "type": "Point",
             "coordinates": [
+              146.067935,
+              -17.582573
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.063921,
+                  -17.586607
+                ],
+                [
+                  146.071771,
+                  -17.584303
+                ],
+                [
+                  146.071906,
+                  -17.584239
+                ],
+                [
+                  146.072296,
+                  -17.583973
+                ],
+                [
+                  146.072476,
+                  -17.58348
+                ],
+                [
+                  146.071225,
+                  -17.579295
+                ],
+                [
+                  146.071204,
+                  -17.57924
+                ],
+                [
+                  146.071018,
+                  -17.578828
+                ],
+                [
+                  146.070933,
+                  -17.578703
+                ],
+                [
+                  146.070867,
+                  -17.578634
+                ],
+                [
+                  146.070299,
+                  -17.57854
+                ],
+                [
+                  146.068909,
+                  -17.579246
+                ],
+                [
+                  146.06876,
+                  -17.579366
+                ],
+                [
+                  146.063412,
+                  -17.585896
+                ],
+                [
+                  146.063394,
+                  -17.586431
+                ],
+                [
+                  146.063921,
+                  -17.586607
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3918",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "28",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:57AM 09 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DANIEL CL, ETTY BAY RD, LA ROCCA CL, LYCHEE CL",
+        "SUBURBS": "ETTY BAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.627941,
               -27.44484
             ]
@@ -523,134 +745,9 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              145.63989,
-              -16.809467
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  145.636572,
-                  -16.809808
-                ],
-                [
-                  145.636804,
-                  -16.810608
-                ],
-                [
-                  145.636862,
-                  -16.810731
-                ],
-                [
-                  145.637473,
-                  -16.811646
-                ],
-                [
-                  145.637475,
-                  -16.811648
-                ],
-                [
-                  145.638469,
-                  -16.813117
-                ],
-                [
-                  145.638536,
-                  -16.813195
-                ],
-                [
-                  145.639084,
-                  -16.813705
-                ],
-                [
-                  145.639209,
-                  -16.813788
-                ],
-                [
-                  145.641001,
-                  -16.814609
-                ],
-                [
-                  145.641661,
-                  -16.814295
-                ],
-                [
-                  145.643224,
-                  -16.80725
-                ],
-                [
-                  145.643154,
-                  -16.806903
-                ],
-                [
-                  145.642261,
-                  -16.805631
-                ],
-                [
-                  145.642017,
-                  -16.805454
-                ],
-                [
-                  145.639183,
-                  -16.804568
-                ],
-                [
-                  145.639109,
-                  -16.804551
-                ],
-                [
-                  145.637582,
-                  -16.804324
-                ],
-                [
-                  145.637085,
-                  -16.80458
-                ],
-                [
-                  145.636897,
-                  -16.80497
-                ],
-                [
-                  145.636854,
-                  -16.805132
-                ],
-                [
-                  145.636556,
-                  -16.809658
-                ],
-                [
-                  145.636572,
-                  -16.809808
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN3917",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "78",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Work delayed - crews unable to continue",
-        "START": "1:45AM 09 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "BUTLER DR, DANIEL PL, FERNTREE PL, GREGORY TCE",
-        "SUBURBS": "KURANDA"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709934901.304968"
+  "extracted": "1709935205.995553"
 }
