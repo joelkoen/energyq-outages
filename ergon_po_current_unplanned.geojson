@@ -10,99 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              151.836955,
-              -27.694185
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.815001,
-                  -27.682733
-                ],
-                [
-                  151.821967,
-                  -27.701917
-                ],
-                [
-                  151.822367,
-                  -27.702223
-                ],
-                [
-                  151.849916,
-                  -27.706205
-                ],
-                [
-                  151.850268,
-                  -27.70614
-                ],
-                [
-                  151.858303,
-                  -27.701584
-                ],
-                [
-                  151.858478,
-                  -27.701415
-                ],
-                [
-                  151.858909,
-                  -27.700689
-                ],
-                [
-                  151.858868,
-                  -27.700209
-                ],
-                [
-                  151.854382,
-                  -27.69486
-                ],
-                [
-                  151.854266,
-                  -27.69476
-                ],
-                [
-                  151.848894,
-                  -27.691428
-                ],
-                [
-                  151.848755,
-                  -27.691368
-                ],
-                [
-                  151.815633,
-                  -27.682165
-                ],
-                [
-                  151.815001,
-                  -27.682733
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW6073",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "22",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
-        "START": "4:13AM 09 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "CAMBOOYA FELTON RD, LYSAGHT RD, UTZ RD, WYREEMA CAMBOOYA RD",
-        "SUBURBS": "CAMBOOYA, WYREEMA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               145.687017,
               -16.825523
             ]
@@ -202,6 +109,75 @@
         "EST_FIX_TIME": "5:00AM 09 Mar 2024",
         "STREETS": "ANNE ST, DENNISON CT, JARDA ST, KRAKATOA CL, LYDIA ST, MARCIA CL",
         "SUBURBS": "SMITHFIELD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.67154,
+              -20.608011
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.665361,
+                  -20.60642
+                ],
+                [
+                  148.666082,
+                  -20.610094
+                ],
+                [
+                  148.666717,
+                  -20.610437
+                ],
+                [
+                  148.677306,
+                  -20.606828
+                ],
+                [
+                  148.677603,
+                  -20.606532
+                ],
+                [
+                  148.677719,
+                  -20.606166
+                ],
+                [
+                  148.677246,
+                  -20.605586
+                ],
+                [
+                  148.66582,
+                  -20.605887
+                ],
+                [
+                  148.665361,
+                  -20.60642
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2052",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "STATUS": "Crews working on-site",
+        "START": "3:24AM 14 Feb 2024",
+        "EST_FIX_TIME": "12:00PM 22 Mar 2024",
+        "STREETS": "KUNAPIPI RD, PRIMARY THOR",
+        "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
     },
     {
@@ -374,8 +350,8 @@
           {
             "type": "Point",
             "coordinates": [
-              148.67154,
-              -20.608011
+              151.836955,
+              -27.694185
             ]
           },
           {
@@ -383,40 +359,64 @@
             "coordinates": [
               [
                 [
-                  148.665361,
-                  -20.60642
+                  151.815001,
+                  -27.682733
                 ],
                 [
-                  148.666082,
-                  -20.610094
+                  151.821967,
+                  -27.701917
                 ],
                 [
-                  148.666717,
-                  -20.610437
+                  151.822367,
+                  -27.702223
                 ],
                 [
-                  148.677306,
-                  -20.606828
+                  151.849916,
+                  -27.706205
                 ],
                 [
-                  148.677603,
-                  -20.606532
+                  151.850268,
+                  -27.70614
                 ],
                 [
-                  148.677719,
-                  -20.606166
+                  151.858303,
+                  -27.701584
                 ],
                 [
-                  148.677246,
-                  -20.605586
+                  151.858478,
+                  -27.701415
                 ],
                 [
-                  148.66582,
-                  -20.605887
+                  151.858909,
+                  -27.700689
                 ],
                 [
-                  148.665361,
-                  -20.60642
+                  151.858868,
+                  -27.700209
+                ],
+                [
+                  151.854382,
+                  -27.69486
+                ],
+                [
+                  151.854266,
+                  -27.69476
+                ],
+                [
+                  151.848894,
+                  -27.691428
+                ],
+                [
+                  151.848755,
+                  -27.691368
+                ],
+                [
+                  151.815633,
+                  -27.682165
+                ],
+                [
+                  151.815001,
+                  -27.682733
                 ]
               ]
             ]
@@ -424,15 +424,15 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "24MK2052",
+        "EVENT_ID": "24SW6073",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is due to the operating of protective equipment. ",
-        "STATUS": "Crews working on-site",
-        "START": "3:24AM 14 Feb 2024",
-        "EST_FIX_TIME": "12:00PM 22 Mar 2024",
-        "STREETS": "KUNAPIPI RD, PRIMARY THOR",
-        "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
+        "CUSTOMERS_AFFECTED": "22",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:13AM 09 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CAMBOOYA FELTON RD, LYSAGHT RD, UTZ RD, WYREEMA CAMBOOYA RD",
+        "SUBURBS": "CAMBOOYA, WYREEMA"
       }
     },
     {
@@ -563,5 +563,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709923201.11357"
+  "extracted": "1709923505.214138"
 }
