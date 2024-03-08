@@ -10,179 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              152.699563,
-              -27.5684
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.694523,
-                  -27.568258
-                ],
-                [
-                  152.694678,
-                  -27.568619
-                ],
-                [
-                  152.694735,
-                  -27.568715
-                ],
-                [
-                  152.6951,
-                  -27.569185
-                ],
-                [
-                  152.695153,
-                  -27.569242
-                ],
-                [
-                  152.697287,
-                  -27.5712
-                ],
-                [
-                  152.697354,
-                  -27.571252
-                ],
-                [
-                  152.698391,
-                  -27.571916
-                ],
-                [
-                  152.698467,
-                  -27.571957
-                ],
-                [
-                  152.702646,
-                  -27.573747
-                ],
-                [
-                  152.703274,
-                  -27.573606
-                ],
-                [
-                  152.704573,
-                  -27.572021
-                ],
-                [
-                  152.704632,
-                  -27.571583
-                ],
-                [
-                  152.70257,
-                  -27.567113
-                ],
-                [
-                  152.702563,
-                  -27.567098
-                ],
-                [
-                  152.700879,
-                  -27.563777
-                ],
-                [
-                  152.700839,
-                  -27.563712
-                ],
-                [
-                  152.700719,
-                  -27.563552
-                ],
-                [
-                  152.700549,
-                  -27.563411
-                ],
-                [
-                  152.69985,
-                  -27.563053
-                ],
-                [
-                  152.69929,
-                  -27.563087
-                ],
-                [
-                  152.695407,
-                  -27.565737
-                ],
-                [
-                  152.695353,
-                  -27.565779
-                ],
-                [
-                  152.695007,
-                  -27.566093
-                ],
-                [
-                  152.69488,
-                  -27.566291
-                ],
-                [
-                  152.694798,
-                  -27.56656
-                ],
-                [
-                  152.694791,
-                  -27.566585
-                ],
-                [
-                  152.69467,
-                  -27.5671
-                ],
-                [
-                  152.694668,
-                  -27.567105
-                ],
-                [
-                  152.694585,
-                  -27.567481
-                ],
-                [
-                  152.694581,
-                  -27.567499
-                ],
-                [
-                  152.694541,
-                  -27.567728
-                ],
-                [
-                  152.694539,
-                  -27.567738
-                ],
-                [
-                  152.694494,
-                  -27.568037
-                ],
-                [
-                  152.694523,
-                  -27.568258
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-746711-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "109",
-        "REASON": "Damage due to severe weather",
-        "STATUS": "In Progress",
-        "START": "6:24PM 08 Mar 2024",
-        "EST_FIX_TIME": "12:00AM 09 Mar 2024",
-        "STREETS": "APPALOOSA PL, BAYLEY RD, CHESTNUT DR, JOSETTE PL, LIPIZZANER PL, PEPPER LANE, PINTO PL, POUINCRADDA ST, SENNA CL, SHILOH CT, VELVET ST",
-        "SUBURBS": "BLACKSOIL, PINE MOUNTAIN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               152.965857,
               -27.387224
             ]
@@ -323,9 +150,78 @@
         "STREETS": "ATRIUM WAY, BASAND ST, BUNYA RD, COLVILLEA CT, FRANCIS RD, GARFIELD TCE, HENDERSON RD, IRONBARK CCT, JOHN ST, LEMM ST, MONTAGUE CT, PEPPER RD, PETER ST N, PETER ST S, PIMELEA ST, RELF CT, SHORT ST, SOUTH PINE RD, TIMMS RD",
         "SUBURBS": "ARANA HILLS, EVERTON HILLS, EVERTON PARK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.702031,
+              -27.570384
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.69956,
+                  -27.571516
+                ],
+                [
+                  152.702545,
+                  -27.57369
+                ],
+                [
+                  152.703274,
+                  -27.573606
+                ],
+                [
+                  152.704573,
+                  -27.572021
+                ],
+                [
+                  152.704632,
+                  -27.571583
+                ],
+                [
+                  152.70257,
+                  -27.567113
+                ],
+                [
+                  152.70165,
+                  -27.567079
+                ],
+                [
+                  152.699429,
+                  -27.570962
+                ],
+                [
+                  152.69956,
+                  -27.571516
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-746711-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "26",
+        "REASON": "Damage due to severe weather",
+        "STATUS": "In Progress",
+        "START": "6:24PM 08 Mar 2024",
+        "EST_FIX_TIME": "12:00AM 09 Mar 2024",
+        "STREETS": "BAYLEY RD, POUINCRADDA ST, VELVET ST",
+        "SUBURBS": "BLACKSOIL, PINE MOUNTAIN"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1709902201.148412"
+  "extracted": "1709902501.848269"
 }
