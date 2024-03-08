@@ -10,6 +10,107 @@
           {
             "type": "Point",
             "coordinates": [
+              153.002392,
+              -27.423823
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.001087,
+                  -27.424048
+                ],
+                [
+                  153.001621,
+                  -27.42463
+                ],
+                [
+                  153.001738,
+                  -27.424723
+                ],
+                [
+                  153.002179,
+                  -27.424977
+                ],
+                [
+                  153.002754,
+                  -27.424961
+                ],
+                [
+                  153.003417,
+                  -27.424524
+                ],
+                [
+                  153.003575,
+                  -27.424351
+                ],
+                [
+                  153.003765,
+                  -27.423988
+                ],
+                [
+                  153.003789,
+                  -27.423661
+                ],
+                [
+                  153.003728,
+                  -27.423491
+                ],
+                [
+                  153.003434,
+                  -27.423208
+                ],
+                [
+                  153.00219,
+                  -27.422765
+                ],
+                [
+                  153.002161,
+                  -27.422755
+                ],
+                [
+                  153.001866,
+                  -27.422669
+                ],
+                [
+                  153.001224,
+                  -27.422964
+                ],
+                [
+                  153.000994,
+                  -27.423629
+                ],
+                [
+                  153.001087,
+                  -27.424048
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-746745-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "109",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "4:18AM 09 Mar 2024",
+        "EST_FIX_TIME": "6:00AM 09 Mar 2024",
+        "STREETS": "ALDERLEY AVE, HALL ST, HUDDART ST, PARK AVE",
+        "SUBURBS": "ALDERLEY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.122081,
               -27.752526
             ]
@@ -114,114 +215,13 @@
         "REASON": "Under Investigation",
         "STATUS": "In Progress",
         "START": "5:25AM 09 Mar 2024",
-        "EST_FIX_TIME": "8:00AM 09 Mar 2024",
+        "EST_FIX_TIME": "8:30AM 09 Mar 2024",
         "STREETS": "FRYAR RD, LAVELLE DR, LOG CREEK RD, STEGEMANN RD, TWILIGHT CT, WATERFORD-TAMBORINE RD",
         "SUBURBS": "BUCCAN, LOGAN VILLAGE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              153.002392,
-              -27.423823
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.001087,
-                  -27.424048
-                ],
-                [
-                  153.001621,
-                  -27.42463
-                ],
-                [
-                  153.001738,
-                  -27.424723
-                ],
-                [
-                  153.002179,
-                  -27.424977
-                ],
-                [
-                  153.002754,
-                  -27.424961
-                ],
-                [
-                  153.003417,
-                  -27.424524
-                ],
-                [
-                  153.003575,
-                  -27.424351
-                ],
-                [
-                  153.003765,
-                  -27.423988
-                ],
-                [
-                  153.003789,
-                  -27.423661
-                ],
-                [
-                  153.003728,
-                  -27.423491
-                ],
-                [
-                  153.003434,
-                  -27.423208
-                ],
-                [
-                  153.00219,
-                  -27.422765
-                ],
-                [
-                  153.002161,
-                  -27.422755
-                ],
-                [
-                  153.001866,
-                  -27.422669
-                ],
-                [
-                  153.001224,
-                  -27.422964
-                ],
-                [
-                  153.000994,
-                  -27.423629
-                ],
-                [
-                  153.001087,
-                  -27.424048
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-746745-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "109",
-        "REASON": "Under Investigation",
-        "STATUS": "In Progress",
-        "START": "4:18AM 09 Mar 2024",
-        "EST_FIX_TIME": "6:00AM 09 Mar 2024",
-        "STREETS": "ALDERLEY AVE, HALL ST, HUDDART ST, PARK AVE",
-        "SUBURBS": "ALDERLEY"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1709927104.983909"
+  "extracted": "1709927400.987448"
 }
