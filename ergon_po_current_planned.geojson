@@ -7,27 +7,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.263038,
-          -21.608106
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK2148",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "8:00AM 09 Mar 2024",
-        "EST_FIX_TIME": "2:00PM 09 Mar 2024",
-        "STREETS": "TEDLANDS RD",
-        "SUBURBS": "KOUMALA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           149.191039,
           -21.124789
         ]
@@ -42,48 +21,6 @@
         "EST_FIX_TIME": "12:00PM 09 Mar 2024",
         "STREETS": "BUNDESEN ST, CORNWALL ST, HARBOUR RD, HOWLAND ST, KELLER ST, PALMER ST, PARR ST, THORNBER ST",
         "SUBURBS": "NORTH MACKAY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.215843,
-          -21.615866
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK2151",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "5",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "8:00AM 09 Mar 2024",
-        "EST_FIX_TIME": "2:00PM 09 Mar 2024",
-        "STREETS": "BOLINGBROKE RD, PRATT RD",
-        "SUBURBS": "KOUMALA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.266072,
-          -20.064292
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ4862",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "140",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
-        "START": "9:00AM 09 Mar 2024",
-        "EST_FIX_TIME": "1:00PM 09 Mar 2024",
-        "STREETS": "BAKER ST, BURDEKIN ST, CHURCHILL ST, DEIGHTON ST, HACKETT TCE, PLANT ST, PRIOR ST, RACECOURSE RD, WATER ST",
-        "SUBURBS": "CHARTERS TOWERS, RICHMOND HILL"
       }
     },
     {
@@ -112,6 +49,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.26218,
+          -20.065834
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ4867",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "24",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "STATUS": "Work scheduled",
+        "START": "9:00AM 09 Mar 2024",
+        "EST_FIX_TIME": "1:00PM 09 Mar 2024",
+        "STREETS": "CHURCHILL ST, GORDON ST, HACKETT TCE, PARADISE ST",
+        "SUBURBS": "CHARTERS TOWERS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.983825,
           -26.668414
         ]
@@ -126,6 +84,27 @@
         "EST_FIX_TIME": "2:30PM 09 Mar 2024",
         "STREETS": "AVOCA PL, BOONENNE CT, COOYAR CT, HIBISCUS CT, MILLIS WAY, OLEANDER ST",
         "SUBURBS": "NANANGO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.008216,
+          -17.512312
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN2924",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Work scheduled",
+        "START": "8:00AM 09 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 09 Mar 2024",
+        "STREETS": "DICKSON RD",
+        "SUBURBS": "GOONDI"
       }
     },
     {
@@ -154,20 +133,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.26218,
-          -20.065834
+          149.263038,
+          -21.608106
         ]
       },
       "properties": {
-        "EVENT_ID": "24NQ4867",
+        "EVENT_ID": "24MK2148",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "24",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Work scheduled",
-        "START": "9:00AM 09 Mar 2024",
-        "EST_FIX_TIME": "1:00PM 09 Mar 2024",
-        "STREETS": "CHURCHILL ST, GORDON ST, HACKETT TCE, PARADISE ST",
-        "SUBURBS": "CHARTERS TOWERS"
+        "START": "8:00AM 09 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 09 Mar 2024",
+        "STREETS": "TEDLANDS RD",
+        "SUBURBS": "KOUMALA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.215843,
+          -21.615866
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2151",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Work scheduled",
+        "START": "8:00AM 09 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 09 Mar 2024",
+        "STREETS": "BOLINGBROKE RD, PRATT RD",
+        "SUBURBS": "KOUMALA"
       }
     },
     {
@@ -217,24 +217,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.008216,
-          -17.512312
+          146.266072,
+          -20.064292
         ]
       },
       "properties": {
-        "EVENT_ID": "24FN2924",
+        "EVENT_ID": "24NQ4862",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "CUSTOMERS_AFFECTED": "140",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
         "STATUS": "Work scheduled",
-        "START": "8:00AM 09 Mar 2024",
-        "EST_FIX_TIME": "2:00PM 09 Mar 2024",
-        "STREETS": "DICKSON RD",
-        "SUBURBS": "GOONDI"
+        "START": "9:00AM 09 Mar 2024",
+        "EST_FIX_TIME": "1:00PM 09 Mar 2024",
+        "STREETS": "BAKER ST, BURDEKIN ST, CHURCHILL ST, DEIGHTON ST, HACKETT TCE, PLANT ST, PRIOR ST, RACECOURSE RD, WATER ST",
+        "SUBURBS": "CHARTERS TOWERS, RICHMOND HILL"
       }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709908501.640069"
+  "extracted": "1709909105.212324"
 }
