@@ -10,6 +10,59 @@
           {
             "type": "Point",
             "coordinates": [
+              151.082983,
+              -27.57426
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.083489,
+                  -27.574245
+                ],
+                [
+                  151.082967,
+                  -27.57381
+                ],
+                [
+                  151.082478,
+                  -27.574275
+                ],
+                [
+                  151.083,
+                  -27.57471
+                ],
+                [
+                  151.083489,
+                  -27.574245
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "23SW21468",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Work delayed. Crew unable to continue.",
+        "START": "1:10PM 05 Dec 2023",
+        "EST_FIX_TIME": "12:00PM 29 Mar 2024",
+        "STREETS": "CECIL PLAINS-MOONIE RD",
+        "SUBURBS": "DUNMORE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.876287,
               -27.619215
             ]
@@ -119,8 +172,8 @@
           {
             "type": "Point",
             "coordinates": [
-              151.082983,
-              -27.57426
+              145.462108,
+              -17.455363
             ]
           },
           {
@@ -128,24 +181,40 @@
             "coordinates": [
               [
                 [
-                  151.083489,
-                  -27.574245
+                  145.459813,
+                  -17.454207
                 ],
                 [
-                  151.082967,
-                  -27.57381
+                  145.460288,
+                  -17.456263
                 ],
                 [
-                  151.082478,
-                  -27.574275
+                  145.460649,
+                  -17.456607
                 ],
                 [
-                  151.083,
-                  -27.57471
+                  145.462638,
+                  -17.457013
                 ],
                 [
-                  151.083489,
-                  -27.574245
+                  145.462872,
+                  -17.457004
+                ],
+                [
+                  145.464314,
+                  -17.456585
+                ],
+                [
+                  145.464403,
+                  -17.455756
+                ],
+                [
+                  145.460498,
+                  -17.453712
+                ],
+                [
+                  145.459813,
+                  -17.454207
                 ]
               ]
             ]
@@ -153,15 +222,15 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "23SW21468",
+        "EVENT_ID": "24FN3911",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Work delayed. Crew unable to continue.",
-        "START": "1:10PM 05 Dec 2023",
-        "EST_FIX_TIME": "12:00PM 29 Mar 2024",
-        "STREETS": "CECIL PLAINS-MOONIE RD",
-        "SUBURBS": "DUNMORE"
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
+        "STATUS": "Crews on route",
+        "START": "6:36PM 08 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "LONGLANDS GAP-HERBERTON RD, NICHOLSON RD",
+        "SUBURBS": "WONDECLA"
       }
     },
     {
@@ -273,75 +342,6 @@
           {
             "type": "Point",
             "coordinates": [
-              145.462108,
-              -17.455363
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  145.459813,
-                  -17.454207
-                ],
-                [
-                  145.460288,
-                  -17.456263
-                ],
-                [
-                  145.460649,
-                  -17.456607
-                ],
-                [
-                  145.462638,
-                  -17.457013
-                ],
-                [
-                  145.462872,
-                  -17.457004
-                ],
-                [
-                  145.464314,
-                  -17.456585
-                ],
-                [
-                  145.464403,
-                  -17.455756
-                ],
-                [
-                  145.460498,
-                  -17.453712
-                ],
-                [
-                  145.459813,
-                  -17.454207
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN3911",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "7",
-        "REASON": "The loss of supply is due to fallen power lines.  ",
-        "STATUS": "Crews on route",
-        "START": "6:36PM 08 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "LONGLANDS GAP-HERBERTON RD, NICHOLSON RD",
-        "SUBURBS": "WONDECLA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -406,5 +406,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709897406.32816"
+  "extracted": "1709898001.475626"
 }
