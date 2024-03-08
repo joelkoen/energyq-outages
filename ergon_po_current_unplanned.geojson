@@ -10,8 +10,8 @@
           {
             "type": "Point",
             "coordinates": [
-              148.67154,
-              -20.608011
+              151.082983,
+              -27.57426
             ]
           },
           {
@@ -19,40 +19,24 @@
             "coordinates": [
               [
                 [
-                  148.665361,
-                  -20.60642
+                  151.083489,
+                  -27.574245
                 ],
                 [
-                  148.666082,
-                  -20.610094
+                  151.082967,
+                  -27.57381
                 ],
                 [
-                  148.666717,
-                  -20.610437
+                  151.082478,
+                  -27.574275
                 ],
                 [
-                  148.677306,
-                  -20.606828
+                  151.083,
+                  -27.57471
                 ],
                 [
-                  148.677603,
-                  -20.606532
-                ],
-                [
-                  148.677719,
-                  -20.606166
-                ],
-                [
-                  148.677246,
-                  -20.605586
-                ],
-                [
-                  148.66582,
-                  -20.605887
-                ],
-                [
-                  148.665361,
-                  -20.60642
+                  151.083489,
+                  -27.574245
                 ]
               ]
             ]
@@ -60,15 +44,15 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "24MK2052",
+        "EVENT_ID": "23SW21468",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is due to the operating of protective equipment. ",
-        "STATUS": "Crews working on-site",
-        "START": "3:24AM 14 Feb 2024",
-        "EST_FIX_TIME": "12:00PM 22 Mar 2024",
-        "STREETS": "KUNAPIPI RD, PRIMARY THOR",
-        "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Work delayed. Crew unable to continue.",
+        "START": "1:10PM 05 Dec 2023",
+        "EST_FIX_TIME": "12:00PM 29 Mar 2024",
+        "STREETS": "CECIL PLAINS-MOONIE RD",
+        "SUBURBS": "DUNMORE"
       }
     },
     {
@@ -178,59 +162,6 @@
         "EST_FIX_TIME": "5:00AM 09 Mar 2024",
         "STREETS": "ANNE ST, DENNISON CT, JARDA ST, KRAKATOA CL, LYDIA ST, MARCIA CL",
         "SUBURBS": "SMITHFIELD"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.082983,
-              -27.57426
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.083489,
-                  -27.574245
-                ],
-                [
-                  151.082967,
-                  -27.57381
-                ],
-                [
-                  151.082478,
-                  -27.574275
-                ],
-                [
-                  151.083,
-                  -27.57471
-                ],
-                [
-                  151.083489,
-                  -27.574245
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "23SW21468",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Work delayed. Crew unable to continue.",
-        "START": "1:10PM 05 Dec 2023",
-        "EST_FIX_TIME": "12:00PM 29 Mar 2024",
-        "STREETS": "CECIL PLAINS-MOONIE RD",
-        "SUBURBS": "DUNMORE"
       }
     },
     {
@@ -357,9 +288,78 @@
         "STREETS": "BANGALOW PL, BLACK MOUNTAIN RD, BUTLER DR, COCONUT GR, DANIEL PL, FAN PALM PL, FERNTREE PL, GREENE LANE, GREGORY TCE, KENNEDY HWY, SADDLE MOUNTAIN RD, SALAMONE DR, SHIVA CL, SPEAR RD, UNKNOWN ST, VICTOR PL",
         "SUBURBS": "KURANDA, SADDLE MOUNTAIN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.67154,
+              -20.608011
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.665361,
+                  -20.60642
+                ],
+                [
+                  148.666082,
+                  -20.610094
+                ],
+                [
+                  148.666717,
+                  -20.610437
+                ],
+                [
+                  148.677306,
+                  -20.606828
+                ],
+                [
+                  148.677603,
+                  -20.606532
+                ],
+                [
+                  148.677719,
+                  -20.606166
+                ],
+                [
+                  148.677246,
+                  -20.605586
+                ],
+                [
+                  148.66582,
+                  -20.605887
+                ],
+                [
+                  148.665361,
+                  -20.60642
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2052",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "STATUS": "Crews working on-site",
+        "START": "3:24AM 14 Feb 2024",
+        "EST_FIX_TIME": "12:00PM 22 Mar 2024",
+        "STREETS": "KUNAPIPI RD, PRIMARY THOR",
+        "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709916001.059149"
+  "extracted": "1709916305.151771"
 }
