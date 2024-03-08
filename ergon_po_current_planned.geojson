@@ -7,6 +7,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.26218,
+          -20.065834
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ4867",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "24",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "STATUS": "Crews working on-site",
+        "START": "9:10AM 09 Mar 2024",
+        "EST_FIX_TIME": "1:00PM 09 Mar 2024",
+        "STREETS": "CHURCHILL ST, GORDON ST, HACKETT TCE, PARADISE ST",
+        "SUBURBS": "CHARTERS TOWERS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           147.424222,
           -19.539449
         ]
@@ -28,20 +49,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.26218,
-          -20.065834
+          147.423472,
+          -19.52226
         ]
       },
       "properties": {
-        "EVENT_ID": "24NQ4867",
+        "EVENT_ID": "24NQ5187",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "24",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "9:10AM 09 Mar 2024",
-        "EST_FIX_TIME": "1:00PM 09 Mar 2024",
-        "STREETS": "CHURCHILL ST, GORDON ST, HACKETT TCE, PARADISE ST",
-        "SUBURBS": "CHARTERS TOWERS"
+        "START": "9:00AM 09 Mar 2024",
+        "EST_FIX_TIME": "12:00PM 09 Mar 2024",
+        "STREETS": "BEACH RD",
+        "SUBURBS": "AYR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.008216,
+          -17.512312
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN2924",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:01AM 09 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 09 Mar 2024",
+        "STREETS": "DICKSON RD",
+        "SUBURBS": "GOONDI"
       }
     },
     {
@@ -91,27 +133,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          147.423472,
-          -19.52226
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5187",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "9:00AM 09 Mar 2024",
-        "EST_FIX_TIME": "12:00PM 09 Mar 2024",
-        "STREETS": "BEACH RD",
-        "SUBURBS": "AYR"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           149.191039,
           -21.124789
         ]
@@ -127,30 +148,9 @@
         "STREETS": "BUNDESEN ST, CORNWALL ST, HARBOUR RD, HOWLAND ST, KELLER ST, PALMER ST, PARR ST, THORNBER ST",
         "SUBURBS": "NORTH MACKAY"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.008216,
-          -17.512312
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN2924",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:01AM 09 Mar 2024",
-        "EST_FIX_TIME": "2:00PM 09 Mar 2024",
-        "STREETS": "DICKSON RD",
-        "SUBURBS": "GOONDI"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709940001.419153"
+  "extracted": "1709940301.48967"
 }
