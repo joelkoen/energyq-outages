@@ -204,6 +204,87 @@
           {
             "type": "Point",
             "coordinates": [
+              139.373002,
+              -20.610583
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  139.339786,
+                  -20.587993
+                ],
+                [
+                  139.340821,
+                  -20.589377
+                ],
+                [
+                  139.340902,
+                  -20.58946
+                ],
+                [
+                  139.378148,
+                  -20.619351
+                ],
+                [
+                  139.37817,
+                  -20.619367
+                ],
+                [
+                  139.405633,
+                  -20.63898
+                ],
+                [
+                  139.406285,
+                  -20.638911
+                ],
+                [
+                  139.406245,
+                  -20.638294
+                ],
+                [
+                  139.342105,
+                  -20.582186
+                ],
+                [
+                  139.341324,
+                  -20.58239
+                ],
+                [
+                  139.339718,
+                  -20.58761
+                ],
+                [
+                  139.339786,
+                  -20.587993
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5989",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "STATUS": "Outage reported",
+        "START": "7:00AM 09 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MAY DOWNS STATION",
+        "SUBURBS": "MOUNT ISA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.082983,
               -27.57426
             ]
@@ -688,5 +769,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709931605.550983"
+  "extracted": "1709931900.90812"
 }
