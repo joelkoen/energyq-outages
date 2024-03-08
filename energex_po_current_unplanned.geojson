@@ -10,6 +10,95 @@
           {
             "type": "Point",
             "coordinates": [
+              153.125046,
+              -27.747471
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.121818,
+                  -27.742614
+                ],
+                [
+                  153.121968,
+                  -27.744597
+                ],
+                [
+                  153.122034,
+                  -27.744792
+                ],
+                [
+                  153.127328,
+                  -27.752982
+                ],
+                [
+                  153.1279,
+                  -27.753193
+                ],
+                [
+                  153.128275,
+                  -27.752754
+                ],
+                [
+                  153.12821,
+                  -27.742884
+                ],
+                [
+                  153.127899,
+                  -27.74247
+                ],
+                [
+                  153.126051,
+                  -27.741782
+                ],
+                [
+                  153.125818,
+                  -27.741749
+                ],
+                [
+                  153.122453,
+                  -27.741969
+                ],
+                [
+                  153.122112,
+                  -27.742117
+                ],
+                [
+                  153.121946,
+                  -27.742282
+                ],
+                [
+                  153.121818,
+                  -27.742614
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-746746-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "18",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "5:25AM 09 Mar 2024",
+        "EST_FIX_TIME": "8:30AM 09 Mar 2024",
+        "STREETS": "STEGEMANN RD, TWILIGHT CT, WATERFORD-TAMBORINE RD",
+        "SUBURBS": "BUCCAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.813323,
               -27.075933
             ]
@@ -110,98 +199,9 @@
         "STREETS": "BASS RD, CAMPBELLS POCKET RD",
         "SUBURBS": "CAMPBELLS POCKET"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              153.125046,
-              -27.747471
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.121818,
-                  -27.742614
-                ],
-                [
-                  153.121968,
-                  -27.744597
-                ],
-                [
-                  153.122034,
-                  -27.744792
-                ],
-                [
-                  153.127328,
-                  -27.752982
-                ],
-                [
-                  153.1279,
-                  -27.753193
-                ],
-                [
-                  153.128275,
-                  -27.752754
-                ],
-                [
-                  153.12821,
-                  -27.742884
-                ],
-                [
-                  153.127899,
-                  -27.74247
-                ],
-                [
-                  153.126051,
-                  -27.741782
-                ],
-                [
-                  153.125818,
-                  -27.741749
-                ],
-                [
-                  153.122453,
-                  -27.741969
-                ],
-                [
-                  153.122112,
-                  -27.742117
-                ],
-                [
-                  153.121946,
-                  -27.742282
-                ],
-                [
-                  153.121818,
-                  -27.742614
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-746746-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "18",
-        "REASON": "Under Investigation",
-        "STATUS": "In Progress",
-        "START": "5:25AM 09 Mar 2024",
-        "EST_FIX_TIME": "8:30AM 09 Mar 2024",
-        "STREETS": "STEGEMANN RD, TWILIGHT CT, WATERFORD-TAMBORINE RD",
-        "SUBURBS": "BUCCAN"
-      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1709934001.596391"
+  "extracted": "1709934305.912504"
 }
