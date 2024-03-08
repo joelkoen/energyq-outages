@@ -10,6 +10,75 @@
           {
             "type": "Point",
             "coordinates": [
+              145.462108,
+              -17.455363
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.459813,
+                  -17.454207
+                ],
+                [
+                  145.460288,
+                  -17.456263
+                ],
+                [
+                  145.460649,
+                  -17.456607
+                ],
+                [
+                  145.462638,
+                  -17.457013
+                ],
+                [
+                  145.462872,
+                  -17.457004
+                ],
+                [
+                  145.464314,
+                  -17.456585
+                ],
+                [
+                  145.464403,
+                  -17.455756
+                ],
+                [
+                  145.460498,
+                  -17.453712
+                ],
+                [
+                  145.459813,
+                  -17.454207
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3911",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
+        "STATUS": "Crews on route",
+        "START": "6:36PM 08 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "LONGLANDS GAP-HERBERTON RD, NICHOLSON RD",
+        "SUBURBS": "WONDECLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.082983,
               -27.57426
             ]
@@ -172,75 +241,6 @@
           {
             "type": "Point",
             "coordinates": [
-              145.462108,
-              -17.455363
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  145.459813,
-                  -17.454207
-                ],
-                [
-                  145.460288,
-                  -17.456263
-                ],
-                [
-                  145.460649,
-                  -17.456607
-                ],
-                [
-                  145.462638,
-                  -17.457013
-                ],
-                [
-                  145.462872,
-                  -17.457004
-                ],
-                [
-                  145.464314,
-                  -17.456585
-                ],
-                [
-                  145.464403,
-                  -17.455756
-                ],
-                [
-                  145.460498,
-                  -17.453712
-                ],
-                [
-                  145.459813,
-                  -17.454207
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN3911",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "7",
-        "REASON": "The loss of supply is due to fallen power lines.  ",
-        "STATUS": "Crews on route",
-        "START": "6:36PM 08 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "LONGLANDS GAP-HERBERTON RD, NICHOLSON RD",
-        "SUBURBS": "WONDECLA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               149.789876,
               -23.747727
             ]
@@ -327,7 +327,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "52",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "7:50PM 08 Mar 2024",
         "EST_FIX_TIME": null,
         "STREETS": "ADAMS RD, ALSACE RD, AROONA RD, BOOLBURRA RD, BOOLBURRA-EDUNGALBA RD, CABARITA RD, CAPRICORN HWY, COOLIBAH ST, DUARINGA-BILOELA RD, EDUNGALBA RD, HORSPOOL RD, LAGUNA RD, MILLERS RD, MILLS RD, OFF CAPRICORN HWY, PROUDS RD, RIO RD, SHANDON RD, SPRINGS RD",
@@ -406,5 +406,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709898001.475626"
+  "extracted": "1709898601.346708"
 }
