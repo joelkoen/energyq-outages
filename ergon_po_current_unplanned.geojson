@@ -10,6 +10,75 @@
           {
             "type": "Point",
             "coordinates": [
+              148.67154,
+              -20.608011
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.665361,
+                  -20.60642
+                ],
+                [
+                  148.666082,
+                  -20.610094
+                ],
+                [
+                  148.666717,
+                  -20.610437
+                ],
+                [
+                  148.677306,
+                  -20.606828
+                ],
+                [
+                  148.677603,
+                  -20.606532
+                ],
+                [
+                  148.677719,
+                  -20.606166
+                ],
+                [
+                  148.677246,
+                  -20.605586
+                ],
+                [
+                  148.66582,
+                  -20.605887
+                ],
+                [
+                  148.665361,
+                  -20.60642
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2052",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "STATUS": "Crews working on-site",
+        "START": "3:24AM 14 Feb 2024",
+        "EST_FIX_TIME": "12:00PM 22 Mar 2024",
+        "STREETS": "KUNAPIPI RD, PRIMARY THOR",
+        "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               149.058387,
               -21.056283
             ]
@@ -156,75 +225,6 @@
           {
             "type": "Point",
             "coordinates": [
-              148.67154,
-              -20.608011
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  148.665361,
-                  -20.60642
-                ],
-                [
-                  148.666082,
-                  -20.610094
-                ],
-                [
-                  148.666717,
-                  -20.610437
-                ],
-                [
-                  148.677306,
-                  -20.606828
-                ],
-                [
-                  148.677603,
-                  -20.606532
-                ],
-                [
-                  148.677719,
-                  -20.606166
-                ],
-                [
-                  148.677246,
-                  -20.605586
-                ],
-                [
-                  148.66582,
-                  -20.605887
-                ],
-                [
-                  148.665361,
-                  -20.60642
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK2052",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is due to the operating of protective equipment. ",
-        "STATUS": "Crews working on-site",
-        "START": "3:24AM 14 Feb 2024",
-        "EST_FIX_TIME": "12:00PM 22 Mar 2024",
-        "STREETS": "KUNAPIPI RD, PRIMARY THOR",
-        "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               147.260092,
               -19.559556
             ]
@@ -345,5 +345,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709882700.966114"
+  "extracted": "1709883008.146088"
 }
