@@ -10,168 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              151.082983,
-              -27.57426
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.083489,
-                  -27.574245
-                ],
-                [
-                  151.082967,
-                  -27.57381
-                ],
-                [
-                  151.082478,
-                  -27.574275
-                ],
-                [
-                  151.083,
-                  -27.57471
-                ],
-                [
-                  151.083489,
-                  -27.574245
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "23SW21468",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Work delayed. Crew unable to continue.",
-        "START": "1:10PM 05 Dec 2023",
-        "EST_FIX_TIME": "12:00PM 29 Mar 2024",
-        "STREETS": "CECIL PLAINS-MOONIE RD",
-        "SUBURBS": "DUNMORE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              145.687017,
-              -16.825523
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  145.685028,
-                  -16.827285
-                ],
-                [
-                  145.68879,
-                  -16.828149
-                ],
-                [
-                  145.689364,
-                  -16.827648
-                ],
-                [
-                  145.688796,
-                  -16.823648
-                ],
-                [
-                  145.68847,
-                  -16.823278
-                ],
-                [
-                  145.688245,
-                  -16.823211
-                ],
-                [
-                  145.688187,
-                  -16.823197
-                ],
-                [
-                  145.687512,
-                  -16.823083
-                ],
-                [
-                  145.687502,
-                  -16.823081
-                ],
-                [
-                  145.687201,
-                  -16.823037
-                ],
-                [
-                  145.687192,
-                  -16.823035
-                ],
-                [
-                  145.686277,
-                  -16.822917
-                ],
-                [
-                  145.686227,
-                  -16.822913
-                ],
-                [
-                  145.685646,
-                  -16.822898
-                ],
-                [
-                  145.685227,
-                  -16.823122
-                ],
-                [
-                  145.685117,
-                  -16.823304
-                ],
-                [
-                  145.685057,
-                  -16.823481
-                ],
-                [
-                  145.68467,
-                  -16.826795
-                ],
-                [
-                  145.685028,
-                  -16.827285
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN3916",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "49",
-        "REASON": "The loss of supply is due to public safety concerns.",
-        "STATUS": "Crews working on-site",
-        "START": "10:33PM 08 Mar 2024",
-        "EST_FIX_TIME": "5:00AM 09 Mar 2024",
-        "STREETS": "ANNE ST, DENNISON CT, JARDA ST, KRAKATOA CL, LYDIA ST, MARCIA CL",
-        "SUBURBS": "SMITHFIELD"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               145.645745,
               -16.809864
             ]
@@ -297,6 +135,168 @@
           {
             "type": "Point",
             "coordinates": [
+              145.687017,
+              -16.825523
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.685028,
+                  -16.827285
+                ],
+                [
+                  145.68879,
+                  -16.828149
+                ],
+                [
+                  145.689364,
+                  -16.827648
+                ],
+                [
+                  145.688796,
+                  -16.823648
+                ],
+                [
+                  145.68847,
+                  -16.823278
+                ],
+                [
+                  145.688245,
+                  -16.823211
+                ],
+                [
+                  145.688187,
+                  -16.823197
+                ],
+                [
+                  145.687512,
+                  -16.823083
+                ],
+                [
+                  145.687502,
+                  -16.823081
+                ],
+                [
+                  145.687201,
+                  -16.823037
+                ],
+                [
+                  145.687192,
+                  -16.823035
+                ],
+                [
+                  145.686277,
+                  -16.822917
+                ],
+                [
+                  145.686227,
+                  -16.822913
+                ],
+                [
+                  145.685646,
+                  -16.822898
+                ],
+                [
+                  145.685227,
+                  -16.823122
+                ],
+                [
+                  145.685117,
+                  -16.823304
+                ],
+                [
+                  145.685057,
+                  -16.823481
+                ],
+                [
+                  145.68467,
+                  -16.826795
+                ],
+                [
+                  145.685028,
+                  -16.827285
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3916",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "49",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "10:33PM 08 Mar 2024",
+        "EST_FIX_TIME": "5:00AM 09 Mar 2024",
+        "STREETS": "ANNE ST, DENNISON CT, JARDA ST, KRAKATOA CL, LYDIA ST, MARCIA CL",
+        "SUBURBS": "SMITHFIELD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.082983,
+              -27.57426
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.083489,
+                  -27.574245
+                ],
+                [
+                  151.082967,
+                  -27.57381
+                ],
+                [
+                  151.082478,
+                  -27.574275
+                ],
+                [
+                  151.083,
+                  -27.57471
+                ],
+                [
+                  151.083489,
+                  -27.574245
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "23SW21468",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Work delayed. Crew unable to continue.",
+        "START": "1:10PM 05 Dec 2023",
+        "EST_FIX_TIME": "12:00PM 29 Mar 2024",
+        "STREETS": "CECIL PLAINS-MOONIE RD",
+        "SUBURBS": "DUNMORE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -361,5 +361,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709920201.544941"
+  "extracted": "1709920501.655777"
 }
