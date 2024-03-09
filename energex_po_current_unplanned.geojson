@@ -114,9 +114,102 @@
         "STREETS": "DAVES CREEK RD, HAYTERS RD, NATURAL BRIDGE RD, NERANG MURWILLUMBAH RD, STAFFORDS RD",
         "SUBURBS": "NATURAL BRIDGE, NUMINBAH VALLEY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.079242,
+              -27.567647
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.077188,
+                  -27.568843
+                ],
+                [
+                  153.077397,
+                  -27.569064
+                ],
+                [
+                  153.077918,
+                  -27.569209
+                ],
+                [
+                  153.081006,
+                  -27.568454
+                ],
+                [
+                  153.081366,
+                  -27.568116
+                ],
+                [
+                  153.081411,
+                  -27.567937
+                ],
+                [
+                  153.081167,
+                  -27.567447
+                ],
+                [
+                  153.07848,
+                  -27.566084
+                ],
+                [
+                  153.077951,
+                  -27.566099
+                ],
+                [
+                  153.077662,
+                  -27.566269
+                ],
+                [
+                  153.077447,
+                  -27.566544
+                ],
+                [
+                  153.077219,
+                  -27.567414
+                ],
+                [
+                  153.077209,
+                  -27.567464
+                ],
+                [
+                  153.077072,
+                  -27.568499
+                ],
+                [
+                  153.077188,
+                  -27.568843
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-746950-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "54",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "2:57AM 10 Mar 2024",
+        "EST_FIX_TIME": "11:00AM 10 Mar 2024",
+        "STREETS": "CRESTGARDEN ST, NEVERN ST, WADLEY ST",
+        "SUBURBS": "MACGREGOR"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710022801.742617"
+  "extracted": "1710023101.293168"
 }
