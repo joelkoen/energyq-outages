@@ -973,9 +973,82 @@
         "STREETS": "ARAGORN ST, ARWEN ST, BARCOOLA PL, BLANCK ST, BOONGALA TCE, BRADMAN AVE, BROADWATER AVE, BRUSHBOX CCT, COOINDA CRES, DAVID LOW WAY, DE VERE RD, DENNA ST, ELDERBERRY CT, ESPERANCE DR, FANTAIL PL, FRIARBIRD PL, GLENWOOD PL, GODFREYS AVE, GODFREYS RD, KARINYA PL, KOORINGA CT, LAKE VIEW DR, LAKEVIEW DR, MAINSAIL PL, MARINER PL, MAROOCHY WATERS DR, MAROOCHYDORE RD, MCKENZIE DR, MERKARA CRES, MIZZEN PL, MOORINGS CCT, NAUTILUS PL, NORTH BARCOOLA CT, OYSTER BANK RD, PARSONS BANK DR, PEATLING LANE, PLYMOUTH QY, PORTLAND QY, QUAY CT, RIDGE RD, RIVER EDGE CT, SAILS CT, SKIPPER PL, SOUTH BARCOOLA CT, SPINIFEX PL, STAYSAIL PL, STELLA WAY, STILLWATER DR, SUMMER DR, SUNORCHID PL, SUNVIEW DR, TASSEL PL, TEPEQUAR DR, TERRARA CT, TOOMBRA LANE, TUCKWELL CT, UNDANBI LANE, WATERFORD CT, WATERLILLY PL, WATERSIDE DR, WATERVIEW CRES, WATTLEBIRD DR, YINNI ST",
         "SUBURBS": "BLI BLI, MAROOCHYDORE, PACIFIC PARADISE, TWIN WATERS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.262022,
+              -27.91276
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.26053,
+                  -27.913745
+                ],
+                [
+                  153.260624,
+                  -27.913969
+                ],
+                [
+                  153.261477,
+                  -27.914114
+                ],
+                [
+                  153.26347,
+                  -27.912157
+                ],
+                [
+                  153.263543,
+                  -27.911646
+                ],
+                [
+                  153.26303,
+                  -27.911407
+                ],
+                [
+                  153.261096,
+                  -27.91162
+                ],
+                [
+                  153.260652,
+                  -27.912028
+                ],
+                [
+                  153.260501,
+                  -27.913548
+                ],
+                [
+                  153.26053,
+                  -27.913745
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-746870-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "Powerlines down",
+        "STATUS": "Awaiting",
+        "START": "2:48PM 09 Mar 2024",
+        "EST_FIX_TIME": "4:30PM 09 Mar 2024",
+        "STREETS": "MEMORIAL DR",
+        "SUBURBS": "UPPER COOMERA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1709959801.451915"
+  "extracted": "1709960101.125515"
 }
