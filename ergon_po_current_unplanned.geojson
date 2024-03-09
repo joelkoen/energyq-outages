@@ -10,8 +10,8 @@
           {
             "type": "Point",
             "coordinates": [
-              143.224468,
-              -20.728669
+              151.082983,
+              -27.57426
             ]
           },
           {
@@ -19,32 +19,24 @@
             "coordinates": [
               [
                 [
-                  143.239254,
-                  -20.73083
+                  151.083489,
+                  -27.574245
                 ],
                 [
-                  143.209859,
-                  -20.725622
+                  151.082967,
+                  -27.57381
                 ],
                 [
-                  143.209299,
-                  -20.725982
+                  151.082478,
+                  -27.574275
                 ],
                 [
-                  143.209681,
-                  -20.726508
+                  151.083,
+                  -27.57471
                 ],
                 [
-                  143.239077,
-                  -20.731716
-                ],
-                [
-                  143.239637,
-                  -20.731356
-                ],
-                [
-                  143.239254,
-                  -20.73083
+                  151.083489,
+                  -27.574245
                 ]
               ]
             ]
@@ -52,15 +44,140 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "24NQ5984",
+        "EVENT_ID": "23SW21468",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "9:19AM 09 Mar 2024",
-        "EST_FIX_TIME": "3:00PM 09 Mar 2024",
-        "STREETS": "ROWEENA STATION, SANDHILLS STATION",
-        "SUBURBS": "RICHMOND"
+        "STATUS": "Work delayed. Crew unable to continue.",
+        "START": "1:10PM 05 Dec 2023",
+        "EST_FIX_TIME": "12:00PM 29 Mar 2024",
+        "STREETS": "CECIL PLAINS-MOONIE RD",
+        "SUBURBS": "DUNMORE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.878633,
+              -27.569278
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.855094,
+                  -27.553951
+                ],
+                [
+                  151.855285,
+                  -27.554935
+                ],
+                [
+                  151.855308,
+                  -27.555012
+                ],
+                [
+                  151.856081,
+                  -27.556911
+                ],
+                [
+                  151.856083,
+                  -27.556914
+                ],
+                [
+                  151.868021,
+                  -27.585434
+                ],
+                [
+                  151.868272,
+                  -27.585681
+                ],
+                [
+                  151.875238,
+                  -27.588729
+                ],
+                [
+                  151.875483,
+                  -27.588775
+                ],
+                [
+                  151.884591,
+                  -27.588416
+                ],
+                [
+                  151.884991,
+                  -27.588214
+                ],
+                [
+                  151.900771,
+                  -27.566835
+                ],
+                [
+                  151.900838,
+                  -27.566702
+                ],
+                [
+                  151.902172,
+                  -27.562155
+                ],
+                [
+                  151.901958,
+                  -27.561664
+                ],
+                [
+                  151.889911,
+                  -27.554708
+                ],
+                [
+                  151.889847,
+                  -27.554677
+                ],
+                [
+                  151.880697,
+                  -27.550917
+                ],
+                [
+                  151.880513,
+                  -27.550877
+                ],
+                [
+                  151.857938,
+                  -27.549781
+                ],
+                [
+                  151.857471,
+                  -27.550008
+                ],
+                [
+                  151.855153,
+                  -27.553652
+                ],
+                [
+                  151.855094,
+                  -27.553951
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6087",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "538",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews on route",
+        "START": "10:13AM 09 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ACADEMY CT, ASH CT, BARKLA RD, BASALT CT, BOUNDARY RD, BOUNDARY ST, BRUNSWICK CT, CAMERON CRES, CAROLANN ST, CARYS RD, COOPERS RD, DANIEL ST, DEUBLE RD, DEVINE RD, DRAYTON WELLCAMP RD, E DREW RD, EUSTON RD, FAWNGROVE DR, FIGTREE CT, FOX CT, GLEN CT, GLENMORGAN CT, GLENVALE RD, GRACEMERE CT, HARVEY CT, HARVEY RD, HERITAGE CT, HURSLEY RD, JACQUELINE CT, KARINGAL CT, KOOKABURRA CRES, LANBAR CT, LAURA CT, LAUREN CT, MADISON CT, OESTREICH RD, PANORAMA DR, PIZZONI RD, RAMSAY RD, REBECCA ST, RIETHMULLER RD, SKYLINE DR, SYLVAN CT, TARRANGANDA CT, WARATAH CT, WARATAH ST, WINDORAH CL",
+        "SUBURBS": "CRANLEY, GLENVALE, NEWTOWN, TOOWOOMBA, TORRINGTON, WELLCAMP"
       }
     },
     {
@@ -212,59 +329,6 @@
           {
             "type": "Point",
             "coordinates": [
-              151.082983,
-              -27.57426
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.083489,
-                  -27.574245
-                ],
-                [
-                  151.082967,
-                  -27.57381
-                ],
-                [
-                  151.082478,
-                  -27.574275
-                ],
-                [
-                  151.083,
-                  -27.57471
-                ],
-                [
-                  151.083489,
-                  -27.574245
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "23SW21468",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Work delayed. Crew unable to continue.",
-        "START": "1:10PM 05 Dec 2023",
-        "EST_FIX_TIME": "12:00PM 29 Mar 2024",
-        "STREETS": "CECIL PLAINS-MOONIE RD",
-        "SUBURBS": "DUNMORE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               149.824646,
               -25.954158
             ]
@@ -364,131 +428,6 @@
         "EST_FIX_TIME": null,
         "STREETS": "GROSMONT RD, K RD, LEICHHARDT HWY, M1 RD, NO 4 RD, YEOVIL RD",
         "SUBURBS": "WANDOAN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.878633,
-              -27.569278
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.855094,
-                  -27.553951
-                ],
-                [
-                  151.855285,
-                  -27.554935
-                ],
-                [
-                  151.855308,
-                  -27.555012
-                ],
-                [
-                  151.856081,
-                  -27.556911
-                ],
-                [
-                  151.856083,
-                  -27.556914
-                ],
-                [
-                  151.868021,
-                  -27.585434
-                ],
-                [
-                  151.868272,
-                  -27.585681
-                ],
-                [
-                  151.875238,
-                  -27.588729
-                ],
-                [
-                  151.875483,
-                  -27.588775
-                ],
-                [
-                  151.884591,
-                  -27.588416
-                ],
-                [
-                  151.884991,
-                  -27.588214
-                ],
-                [
-                  151.900771,
-                  -27.566835
-                ],
-                [
-                  151.900838,
-                  -27.566702
-                ],
-                [
-                  151.902172,
-                  -27.562155
-                ],
-                [
-                  151.901958,
-                  -27.561664
-                ],
-                [
-                  151.889911,
-                  -27.554708
-                ],
-                [
-                  151.889847,
-                  -27.554677
-                ],
-                [
-                  151.880697,
-                  -27.550917
-                ],
-                [
-                  151.880513,
-                  -27.550877
-                ],
-                [
-                  151.857938,
-                  -27.549781
-                ],
-                [
-                  151.857471,
-                  -27.550008
-                ],
-                [
-                  151.855153,
-                  -27.553652
-                ],
-                [
-                  151.855094,
-                  -27.553951
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW6087",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "538",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
-        "START": "10:13AM 09 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "ACADEMY CT, ASH CT, BARKLA RD, BASALT CT, BOUNDARY RD, BOUNDARY ST, BRUNSWICK CT, CAMERON CRES, CAROLANN ST, CARYS RD, COOPERS RD, DANIEL ST, DEUBLE RD, DEVINE RD, DRAYTON WELLCAMP RD, E DREW RD, EUSTON RD, FAWNGROVE DR, FIGTREE CT, FOX CT, GLEN CT, GLENMORGAN CT, GLENVALE RD, GRACEMERE CT, HARVEY CT, HARVEY RD, HERITAGE CT, HURSLEY RD, JACQUELINE CT, KARINGAL CT, KOOKABURRA CRES, LANBAR CT, LAURA CT, LAUREN CT, MADISON CT, OESTREICH RD, PANORAMA DR, PIZZONI RD, RAMSAY RD, REBECCA ST, RIETHMULLER RD, SKYLINE DR, SYLVAN CT, TARRANGANDA CT, WARATAH CT, WARATAH ST, WINDORAH CL",
-        "SUBURBS": "CRANLEY, GLENVALE, NEWTOWN, TOOWOOMBA, TORRINGTON, WELLCAMP"
       }
     },
     {
@@ -701,6 +640,180 @@
           {
             "type": "Point",
             "coordinates": [
+              143.224468,
+              -20.728669
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  143.239254,
+                  -20.73083
+                ],
+                [
+                  143.209859,
+                  -20.725622
+                ],
+                [
+                  143.209299,
+                  -20.725982
+                ],
+                [
+                  143.209681,
+                  -20.726508
+                ],
+                [
+                  143.239077,
+                  -20.731716
+                ],
+                [
+                  143.239637,
+                  -20.731356
+                ],
+                [
+                  143.239254,
+                  -20.73083
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5984",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:19AM 09 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 09 Mar 2024",
+        "STREETS": "ROWEENA STATION, SANDHILLS STATION",
+        "SUBURBS": "RICHMOND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.644899,
+              -17.47344
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.618185,
+                  -17.491081
+                ],
+                [
+                  145.659843,
+                  -17.483015
+                ],
+                [
+                  145.659923,
+                  -17.482993
+                ],
+                [
+                  145.667288,
+                  -17.480191
+                ],
+                [
+                  145.667542,
+                  -17.479961
+                ],
+                [
+                  145.672101,
+                  -17.470522
+                ],
+                [
+                  145.672108,
+                  -17.470157
+                ],
+                [
+                  145.665946,
+                  -17.456073
+                ],
+                [
+                  145.665468,
+                  -17.455798
+                ],
+                [
+                  145.661981,
+                  -17.456113
+                ],
+                [
+                  145.661815,
+                  -17.456158
+                ],
+                [
+                  145.651125,
+                  -17.461274
+                ],
+                [
+                  145.651077,
+                  -17.4613
+                ],
+                [
+                  145.647246,
+                  -17.463715
+                ],
+                [
+                  145.647223,
+                  -17.46373
+                ],
+                [
+                  145.629287,
+                  -17.476516
+                ],
+                [
+                  145.629201,
+                  -17.476596
+                ],
+                [
+                  145.617724,
+                  -17.490356
+                ],
+                [
+                  145.61769,
+                  -17.490873
+                ],
+                [
+                  145.618185,
+                  -17.491081
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3921",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "32",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:22AM 09 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ELLINJAA RD, THERESA CREEK RD, WOOLLEYS RD",
+        "SUBURBS": "MILLAA MILLAA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -765,5 +878,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709944205.426365"
+  "extracted": "1709944501.835085"
 }
