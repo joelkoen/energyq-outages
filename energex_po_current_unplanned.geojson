@@ -247,9 +247,110 @@
         "STREETS": "HIGH CENTRAL RD, SENTOSA TCE, UDARA DR, ZELMA CT",
         "SUBURBS": "MACLEAY ISLAND"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.945885,
+              -26.911137
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.943144,
+                  -26.911272
+                ],
+                [
+                  152.943436,
+                  -26.912223
+                ],
+                [
+                  152.943679,
+                  -26.912499
+                ],
+                [
+                  152.945157,
+                  -26.913227
+                ],
+                [
+                  152.945664,
+                  -26.913216
+                ],
+                [
+                  152.947229,
+                  -26.912353
+                ],
+                [
+                  152.947257,
+                  -26.912336
+                ],
+                [
+                  152.948447,
+                  -26.911578
+                ],
+                [
+                  152.948627,
+                  -26.911052
+                ],
+                [
+                  152.948178,
+                  -26.909974
+                ],
+                [
+                  152.948165,
+                  -26.909945
+                ],
+                [
+                  152.947912,
+                  -26.909446
+                ],
+                [
+                  152.947909,
+                  -26.909442
+                ],
+                [
+                  152.947813,
+                  -26.909257
+                ],
+                [
+                  152.947128,
+                  -26.909046
+                ],
+                [
+                  152.943401,
+                  -26.91075
+                ],
+                [
+                  152.943144,
+                  -26.911272
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-746907-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "52",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:49PM 09 Mar 2024",
+        "EST_FIX_TIME": "8:30PM 09 Mar 2024",
+        "STREETS": "CRESTHAVEN CT, HILLSIDE RD, PARKVIEW RD, POOLE RD",
+        "SUBURBS": "GLASSHOUSE MOUNTAINS"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1709974807.283992"
+  "extracted": "1709975101.145166"
 }
