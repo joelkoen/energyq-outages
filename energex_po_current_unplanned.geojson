@@ -312,7 +312,7 @@
           {
             "type": "Point",
             "coordinates": [
-              153.068629,
+              153.068537,
               -26.644
             ]
           },
@@ -353,28 +353,20 @@
                   -26.655832
                 ],
                 [
-                  153.072835,
-                  -26.65583
+                  153.072927,
+                  -26.655806
                 ],
                 [
-                  153.080805,
-                  -26.654474
+                  153.074166,
+                  -26.655365
                 ],
                 [
-                  153.080864,
-                  -26.65446
+                  153.074266,
+                  -26.655317
                 ],
                 [
-                  153.081604,
-                  -26.654249
-                ],
-                [
-                  153.081954,
-                  -26.653799
-                ],
-                [
-                  153.08179,
-                  -26.650404
+                  153.081573,
+                  -26.650796
                 ],
                 [
                   153.081769,
@@ -420,86 +412,13 @@
       "properties": {
         "EVENT_ID": "INCD-746866-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "1140",
+        "CUSTOMERS_AFFECTED": "964",
         "REASON": "Powerlines down",
         "STATUS": "In Progress",
         "START": "2:27PM 09 Mar 2024",
         "EST_FIX_TIME": "7:30PM 09 Mar 2024",
-        "STREETS": "ARAGORN ST, ARWEN ST, BLANCK ST, BOONGALA TCE, BRADMAN AVE, BROADWATER AVE, COOINDA CRES, DENNA ST, GODFREYS AVE, GODFREYS RD, KOORINGA CT, MAROOCHY WATERS DR, MAROOCHYDORE RD, MCKENZIE DR, OYSTER BANK RD, PLYMOUTH QY, PORTLAND QY, RIDGE RD, STELLA WAY, SUMMER DR, TEPEQUAR DR, TERRARA CT, TUCKWELL CT, WATERFORD CT, WATERVIEW CRES, YINNI ST",
+        "STREETS": "ARAGORN ST, ARWEN ST, BLANCK ST, BOONGALA TCE, BRADMAN AVE, BROADWATER AVE, COOINDA CRES, DENNA ST, GODFREYS AVE, GODFREYS RD, MAROOCHY WATERS DR, MAROOCHYDORE RD, MCKENZIE DR, OYSTER BANK RD, PLYMOUTH QY, PORTLAND QY, STELLA WAY, SUMMER DR, TEPEQUAR DR, TERRARA CT, TUCKWELL CT, WATERFORD CT, WATERVIEW CRES, YINNI ST",
         "SUBURBS": "BLI BLI, MAROOCHYDORE, PACIFIC PARADISE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              153.262022,
-              -27.91276
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.26053,
-                  -27.913745
-                ],
-                [
-                  153.260624,
-                  -27.913969
-                ],
-                [
-                  153.261477,
-                  -27.914114
-                ],
-                [
-                  153.26347,
-                  -27.912157
-                ],
-                [
-                  153.263543,
-                  -27.911646
-                ],
-                [
-                  153.26303,
-                  -27.911407
-                ],
-                [
-                  153.261096,
-                  -27.91162
-                ],
-                [
-                  153.260652,
-                  -27.912028
-                ],
-                [
-                  153.260501,
-                  -27.913548
-                ],
-                [
-                  153.26053,
-                  -27.913745
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-746870-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "6",
-        "REASON": "Powerlines down",
-        "STATUS": "In Progress",
-        "START": "2:48PM 09 Mar 2024",
-        "EST_FIX_TIME": "7:30PM 09 Mar 2024",
-        "STREETS": "MEMORIAL DR",
-        "SUBURBS": "UPPER COOMERA"
       }
     },
     {
@@ -622,5 +541,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1709969405.453467"
+  "extracted": "1709969701.116412"
 }
