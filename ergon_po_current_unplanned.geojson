@@ -10,8 +10,8 @@
           {
             "type": "Point",
             "coordinates": [
-              144.200479,
-              -22.912703
+              151.082983,
+              -27.57426
             ]
           },
           {
@@ -19,80 +19,24 @@
             "coordinates": [
               [
                 [
-                  143.980886,
-                  -22.901743
+                  151.083489,
+                  -27.574245
                 ],
                 [
-                  144.096309,
-                  -23.205044
+                  151.082967,
+                  -27.57381
                 ],
                 [
-                  144.097129,
-                  -23.205199
+                  151.082478,
+                  -27.574275
                 ],
                 [
-                  144.135978,
-                  -23.166
+                  151.083,
+                  -27.57471
                 ],
                 [
-                  144.136018,
-                  -23.165953
-                ],
-                [
-                  144.399448,
-                  -22.814741
-                ],
-                [
-                  144.39951,
-                  -22.814626
-                ],
-                [
-                  144.401325,
-                  -22.809582
-                ],
-                [
-                  144.401333,
-                  -22.809557
-                ],
-                [
-                  144.420087,
-                  -22.745635
-                ],
-                [
-                  144.419822,
-                  -22.745108
-                ],
-                [
-                  144.402009,
-                  -22.737445
-                ],
-                [
-                  144.401996,
-                  -22.737439
-                ],
-                [
-                  144.107751,
-                  -22.620206
-                ],
-                [
-                  144.10714,
-                  -22.620393
-                ],
-                [
-                  144.012825,
-                  -22.769772
-                ],
-                [
-                  144.01277,
-                  -22.769902
-                ],
-                [
-                  143.98087,
-                  -22.901495
-                ],
-                [
-                  143.980886,
-                  -22.901743
+                  151.083489,
+                  -27.574245
                 ]
               ]
             ]
@@ -100,15 +44,15 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "24CA4264",
+        "EVENT_ID": "23SW21468",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "43",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
-        "START": "7:43AM 09 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "CRAMSIE MUTTABURRA RD, DARR RIVER DOWNS RD, DARR-MUTTABURRA RD, MORELLA-MUTTABURRA RD, OFF MORELLA-MBURRA RD",
-        "SUBURBS": "LONGREACH, MORELLA"
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Work delayed. Crew unable to continue.",
+        "START": "1:10PM 05 Dec 2023",
+        "EST_FIX_TIME": "12:00PM 29 Mar 2024",
+        "STREETS": "CECIL PLAINS-MOONIE RD",
+        "SUBURBS": "DUNMORE"
       }
     },
     {
@@ -260,59 +204,6 @@
           {
             "type": "Point",
             "coordinates": [
-              151.082983,
-              -27.57426
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.083489,
-                  -27.574245
-                ],
-                [
-                  151.082967,
-                  -27.57381
-                ],
-                [
-                  151.082478,
-                  -27.574275
-                ],
-                [
-                  151.083,
-                  -27.57471
-                ],
-                [
-                  151.083489,
-                  -27.574245
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "23SW21468",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Work delayed. Crew unable to continue.",
-        "START": "1:10PM 05 Dec 2023",
-        "EST_FIX_TIME": "12:00PM 29 Mar 2024",
-        "STREETS": "CECIL PLAINS-MOONIE RD",
-        "SUBURBS": "DUNMORE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               149.824646,
               -25.954158
             ]
@@ -412,6 +303,67 @@
         "EST_FIX_TIME": null,
         "STREETS": "GROSMONT RD, K RD, LEICHHARDT HWY, M1 RD, NO 4 RD, YEOVIL RD",
         "SUBURBS": "WANDOAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.328452,
+              -25.615381
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.330063,
+                  -25.614836
+                ],
+                [
+                  151.326779,
+                  -25.615025
+                ],
+                [
+                  151.326314,
+                  -25.615504
+                ],
+                [
+                  151.326841,
+                  -25.615925
+                ],
+                [
+                  151.330125,
+                  -25.615736
+                ],
+                [
+                  151.33059,
+                  -25.615257
+                ],
+                [
+                  151.330063,
+                  -25.614836
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB3934",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:50AM 09 Mar 2024",
+        "EST_FIX_TIME": "12:00PM 09 Mar 2024",
+        "STREETS": "OLD GAYNDAH RD",
+        "SUBURBS": "MUNDUBBERA"
       }
     },
     {
@@ -563,91 +515,6 @@
           {
             "type": "Point",
             "coordinates": [
-              151.627941,
-              -27.44484
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.627039,
-                  -27.445956
-                ],
-                [
-                  151.628066,
-                  -27.446132
-                ],
-                [
-                  151.628596,
-                  -27.445917
-                ],
-                [
-                  151.629247,
-                  -27.444926
-                ],
-                [
-                  151.629204,
-                  -27.444416
-                ],
-                [
-                  151.628522,
-                  -27.443659
-                ],
-                [
-                  151.627885,
-                  -27.443547
-                ],
-                [
-                  151.627384,
-                  -27.443794
-                ],
-                [
-                  151.627256,
-                  -27.443883
-                ],
-                [
-                  151.626918,
-                  -27.44421
-                ],
-                [
-                  151.626789,
-                  -27.444453
-                ],
-                [
-                  151.626634,
-                  -27.445452
-                ],
-                [
-                  151.627039,
-                  -27.445956
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW6074",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "11",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews working on-site",
-        "START": "5:00AM 09 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "AJUGA CT, BROOKVALE PARK RD",
-        "SUBURBS": "JONDARYAN, OAKEY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               143.224468,
               -20.728669
             ]
@@ -699,6 +566,91 @@
         "EST_FIX_TIME": null,
         "STREETS": "ROWEENA STATION, SANDHILLS STATION",
         "SUBURBS": "RICHMOND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.828675,
+              -19.272084
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.827562,
+                  -19.272074
+                ],
+                [
+                  146.828592,
+                  -19.273328
+                ],
+                [
+                  146.829084,
+                  -19.273488
+                ],
+                [
+                  146.829493,
+                  -19.27339
+                ],
+                [
+                  146.829829,
+                  -19.272812
+                ],
+                [
+                  146.829413,
+                  -19.271601
+                ],
+                [
+                  146.829384,
+                  -19.271534
+                ],
+                [
+                  146.829038,
+                  -19.270897
+                ],
+                [
+                  146.828453,
+                  -19.270679
+                ],
+                [
+                  146.828109,
+                  -19.270797
+                ],
+                [
+                  146.827854,
+                  -19.271004
+                ],
+                [
+                  146.827521,
+                  -19.271578
+                ],
+                [
+                  146.827562,
+                  -19.272074
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5990",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "20",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "9:54AM 09 Mar 2024",
+        "EST_FIX_TIME": "12:00PM 09 Mar 2024",
+        "STREETS": "CAPE ST, COMET ST, FIFTH AVE, SIXTH ST",
+        "SUBURBS": "SOUTH TOWNSVILLE"
       }
     },
     {
@@ -773,5 +725,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709941801.072569"
+  "extracted": "1709942404.940598"
 }
