@@ -245,6 +245,107 @@
           {
             "type": "Point",
             "coordinates": [
+              148.715379,
+              -20.265603
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.714472,
+                  -20.266091
+                ],
+                [
+                  148.714654,
+                  -20.266396
+                ],
+                [
+                  148.714869,
+                  -20.266584
+                ],
+                [
+                  148.71559,
+                  -20.266902
+                ],
+                [
+                  148.716265,
+                  -20.266566
+                ],
+                [
+                  148.716323,
+                  -20.266233
+                ],
+                [
+                  148.71633,
+                  -20.266168
+                ],
+                [
+                  148.716347,
+                  -20.265368
+                ],
+                [
+                  148.716324,
+                  -20.265218
+                ],
+                [
+                  148.716107,
+                  -20.264595
+                ],
+                [
+                  148.715516,
+                  -20.264303
+                ],
+                [
+                  148.71497,
+                  -20.264456
+                ],
+                [
+                  148.714646,
+                  -20.264765
+                ],
+                [
+                  148.714429,
+                  -20.265481
+                ],
+                [
+                  148.71441,
+                  -20.265606
+                ],
+                [
+                  148.714411,
+                  -20.265871
+                ],
+                [
+                  148.714472,
+                  -20.266091
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2730",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "10:32AM 09 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BROADWATER AVE, HILLCREST AVE, MAZLIN ST, OCEANVIEW AVE",
+        "SUBURBS": "AIRLIE BEACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               143.224468,
               -20.728669
             ]
@@ -666,7 +767,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "538",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "10:13AM 09 Mar 2024",
         "EST_FIX_TIME": null,
         "STREETS": "ACADEMY CT, ASH CT, BARKLA RD, BASALT CT, BOUNDARY RD, BOUNDARY ST, BRUNSWICK CT, CAMERON CRES, CAROLANN ST, CARYS RD, COOPERS RD, DANIEL ST, DEUBLE RD, DEVINE RD, DRAYTON WELLCAMP RD, E DREW RD, EUSTON RD, FAWNGROVE DR, FIGTREE CT, FOX CT, GLEN CT, GLENMORGAN CT, GLENVALE RD, GRACEMERE CT, HARVEY CT, HARVEY RD, HERITAGE CT, HURSLEY RD, JACQUELINE CT, KARINGAL CT, KOOKABURRA CRES, LANBAR CT, LAURA CT, LAUREN CT, MADISON CT, OESTREICH RD, PANORAMA DR, PIZZONI RD, RAMSAY RD, REBECCA ST, RIETHMULLER RD, SKYLINE DR, SYLVAN CT, TARRANGANDA CT, WARATAH CT, WARATAH ST, WINDORAH CL",
@@ -676,5 +777,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709947809.932084"
+  "extracted": "1709948101.337956"
 }
