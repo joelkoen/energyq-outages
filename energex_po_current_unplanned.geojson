@@ -243,9 +243,126 @@
         "STREETS": "CARTER RD, CHAMBERS FLAT RD, CHERRY RD, CHLOE DR, COOREEN RD, DALY ST, EDGEWATER DR, FERN RD, FRIAR ST, GAYNOR RD, GRASSWAY CT, GREENVALE RD, GREENWOOD RD, GREVILLEA RD, HOGAN ST, KINGS WAY, MAHOGANY RD, MT LINDESAY HWY, MYALL TCE, NORRIS CREEK RD, RIVERINA CT, ROSEWOOD RD, SHERIFF RD, TERESA DR",
         "SUBURBS": "CHAMBERS FLAT, MUNRUBEN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.986288,
+              -26.877897
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.966364,
+                  -26.883059
+                ],
+                [
+                  152.973506,
+                  -26.885451
+                ],
+                [
+                  152.973523,
+                  -26.885457
+                ],
+                [
+                  152.979337,
+                  -26.8872
+                ],
+                [
+                  152.97959,
+                  -26.887216
+                ],
+                [
+                  152.985797,
+                  -26.88617
+                ],
+                [
+                  152.985853,
+                  -26.886158
+                ],
+                [
+                  152.994662,
+                  -26.883705
+                ],
+                [
+                  152.994838,
+                  -26.883619
+                ],
+                [
+                  153.004719,
+                  -26.876148
+                ],
+                [
+                  153.004871,
+                  -26.875949
+                ],
+                [
+                  153.006534,
+                  -26.871591
+                ],
+                [
+                  153.006111,
+                  -26.870996
+                ],
+                [
+                  152.982089,
+                  -26.868679
+                ],
+                [
+                  152.982047,
+                  -26.868677
+                ],
+                [
+                  152.977263,
+                  -26.868577
+                ],
+                [
+                  152.976859,
+                  -26.868746
+                ],
+                [
+                  152.966451,
+                  -26.880361
+                ],
+                [
+                  152.966345,
+                  -26.880583
+                ],
+                [
+                  152.966042,
+                  -26.882575
+                ],
+                [
+                  152.966364,
+                  -26.883059
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-746797-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "89",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "10:57AM 09 Mar 2024",
+        "EST_FIX_TIME": "1:30PM 09 Mar 2024",
+        "STREETS": "BARRY RD, BASSETTS RD, BELL RD, BURYS RD, COOK RD, HOLT RD, KINGS RD, MAWSONS RD, SAND RD, SMITH LANE, WOOD RD",
+        "SUBURBS": "BEERWAH, GLASSHOUSE MOUNTAINS"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1709945701.348909"
+  "extracted": "1709946006.181214"
 }
