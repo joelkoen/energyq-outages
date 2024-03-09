@@ -136,6 +136,75 @@
           {
             "type": "Point",
             "coordinates": [
+              151.616503,
+              -24.404715
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.608799,
+                  -24.412153
+                ],
+                [
+                  151.624906,
+                  -24.397932
+                ],
+                [
+                  151.624926,
+                  -24.397302
+                ],
+                [
+                  151.624238,
+                  -24.397272
+                ],
+                [
+                  151.611967,
+                  -24.407281
+                ],
+                [
+                  151.611916,
+                  -24.407329
+                ],
+                [
+                  151.60808,
+                  -24.411541
+                ],
+                [
+                  151.608123,
+                  -24.412159
+                ],
+                [
+                  151.608799,
+                  -24.412153
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4280",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "1:22AM 10 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "LOWMEAD RD, WARD'S RD",
+        "SUBURBS": "MIRIAM VALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.37262,
               -16.597485
             ]
@@ -507,5 +576,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710015901.534003"
+  "extracted": "1710016207.699085"
 }
