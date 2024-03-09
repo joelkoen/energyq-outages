@@ -10,6 +10,115 @@
           {
             "type": "Point",
             "coordinates": [
+              152.813323,
+              -27.075933
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.805677,
+                  -27.078264
+                ],
+                [
+                  152.807096,
+                  -27.080114
+                ],
+                [
+                  152.807217,
+                  -27.080225
+                ],
+                [
+                  152.810862,
+                  -27.082576
+                ],
+                [
+                  152.811263,
+                  -27.082651
+                ],
+                [
+                  152.819456,
+                  -27.081075
+                ],
+                [
+                  152.819792,
+                  -27.080851
+                ],
+                [
+                  152.821044,
+                  -27.078809
+                ],
+                [
+                  152.821032,
+                  -27.078356
+                ],
+                [
+                  152.82069,
+                  -27.077856
+                ],
+                [
+                  152.820641,
+                  -27.077796
+                ],
+                [
+                  152.812416,
+                  -27.069296
+                ],
+                [
+                  152.811758,
+                  -27.069215
+                ],
+                [
+                  152.807539,
+                  -27.0717
+                ],
+                [
+                  152.807331,
+                  -27.071955
+                ],
+                [
+                  152.806272,
+                  -27.075346
+                ],
+                [
+                  152.806267,
+                  -27.075364
+                ],
+                [
+                  152.805602,
+                  -27.077906
+                ],
+                [
+                  152.805677,
+                  -27.078264
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-746747-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "21",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "5:37AM 09 Mar 2024",
+        "EST_FIX_TIME": "10:30AM 09 Mar 2024",
+        "STREETS": "BASS RD, CAMPBELLS POCKET RD",
+        "SUBURBS": "CAMPBELLS POCKET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.045164,
               -27.752997
             ]
@@ -134,118 +243,9 @@
         "STREETS": "CARTER RD, CHAMBERS FLAT RD, CHERRY RD, CHLOE DR, COOREEN RD, DALY ST, EDGEWATER DR, FERN RD, FRIAR ST, GAYNOR RD, GRASSWAY CT, GREENVALE RD, GREENWOOD RD, GREVILLEA RD, HOGAN ST, KINGS WAY, MAHOGANY RD, MT LINDESAY HWY, MYALL TCE, NORRIS CREEK RD, RIVERINA CT, ROSEWOOD RD, SHERIFF RD, TERESA DR",
         "SUBURBS": "CHAMBERS FLAT, MUNRUBEN"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              152.813323,
-              -27.075933
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.805677,
-                  -27.078264
-                ],
-                [
-                  152.807096,
-                  -27.080114
-                ],
-                [
-                  152.807217,
-                  -27.080225
-                ],
-                [
-                  152.810862,
-                  -27.082576
-                ],
-                [
-                  152.811263,
-                  -27.082651
-                ],
-                [
-                  152.819456,
-                  -27.081075
-                ],
-                [
-                  152.819792,
-                  -27.080851
-                ],
-                [
-                  152.821044,
-                  -27.078809
-                ],
-                [
-                  152.821032,
-                  -27.078356
-                ],
-                [
-                  152.82069,
-                  -27.077856
-                ],
-                [
-                  152.820641,
-                  -27.077796
-                ],
-                [
-                  152.812416,
-                  -27.069296
-                ],
-                [
-                  152.811758,
-                  -27.069215
-                ],
-                [
-                  152.807539,
-                  -27.0717
-                ],
-                [
-                  152.807331,
-                  -27.071955
-                ],
-                [
-                  152.806272,
-                  -27.075346
-                ],
-                [
-                  152.806267,
-                  -27.075364
-                ],
-                [
-                  152.805602,
-                  -27.077906
-                ],
-                [
-                  152.805677,
-                  -27.078264
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-746747-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "21",
-        "REASON": "Under Investigation",
-        "STATUS": "In Progress",
-        "START": "5:37AM 09 Mar 2024",
-        "EST_FIX_TIME": "10:30AM 09 Mar 2024",
-        "STREETS": "BASS RD, CAMPBELLS POCKET RD",
-        "SUBURBS": "CAMPBELLS POCKET"
-      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1709942406.318095"
+  "extracted": "1709942701.71808"
 }
