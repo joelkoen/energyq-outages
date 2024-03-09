@@ -602,9 +602,126 @@
         "STREETS": "ACACIA ST, ALKIRA LANE, BADEN POWELL ST, BARTON ST, BRAIDWOOD ST, BULLER ST, BURSARIA CT, BURSARIA ST, CALADENIA CT, CAMELIA AVE, CARAWATHA ST, CARCOAR ST, COOTHA ST, DROSERA ST, DUNDONALD ST, FORREST ST, FRANCISCEA ST, FRENCH ST, GALEOLA ST, GEARSIDE ST, GLENBROOK ST, GORDON PDE, GREVILLEA ST, GRIFFIN ST, HAKEA ST, HIBISCUS ST, HORNBY ST, HOVEA ST, HUNTER ST, ILLAWARRA ST, KAMBALA ST, KURRAJONG ST, LILY ST, LOMATIA ST, MCCONAGHY ST, MCILWRAITH ST, MITTA ST, NITAWILL ST, NYMPHAEA ST, OLEARIA ST E, PAVONIA ST, PULLEN RD, REEDAN ST, SALIGNA CT, SIZER ST, SOUTH PINE RD, STAFFORD RD, STELLMACH ST, STROMLO ST, TERALBA ST, VIOLET ST, WARREN LANE, WARRINGAH ST, WHITE ST",
         "SUBURBS": "EVERTON HILLS, EVERTON PARK, MITCHELTON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.31182,
+              -27.875966
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.310353,
+                  -27.877552
+                ],
+                [
+                  153.310507,
+                  -27.877573
+                ],
+                [
+                  153.310683,
+                  -27.877569
+                ],
+                [
+                  153.31197,
+                  -27.877338
+                ],
+                [
+                  153.312008,
+                  -27.87733
+                ],
+                [
+                  153.312521,
+                  -27.877201
+                ],
+                [
+                  153.312659,
+                  -27.877145
+                ],
+                [
+                  153.31294,
+                  -27.876983
+                ],
+                [
+                  153.31304,
+                  -27.876907
+                ],
+                [
+                  153.313557,
+                  -27.876399
+                ],
+                [
+                  153.313683,
+                  -27.87603
+                ],
+                [
+                  153.31356,
+                  -27.875295
+                ],
+                [
+                  153.313512,
+                  -27.87516
+                ],
+                [
+                  153.313207,
+                  -27.874618
+                ],
+                [
+                  153.312758,
+                  -27.874368
+                ],
+                [
+                  153.311775,
+                  -27.874359
+                ],
+                [
+                  153.31162,
+                  -27.874379
+                ],
+                [
+                  153.311276,
+                  -27.874473
+                ],
+                [
+                  153.310955,
+                  -27.874736
+                ],
+                [
+                  153.309957,
+                  -27.876937
+                ],
+                [
+                  153.310353,
+                  -27.877552
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-746821-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "136",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "12:01PM 09 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 09 Mar 2024",
+        "STREETS": "HEATHWOOD DR, KOALA TOWN RD",
+        "SUBURBS": "UPPER COOMERA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1709949605.985618"
+  "extracted": "1709949900.959661"
 }
