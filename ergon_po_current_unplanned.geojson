@@ -10,59 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              151.082983,
-              -27.57426
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.083489,
-                  -27.574245
-                ],
-                [
-                  151.082967,
-                  -27.57381
-                ],
-                [
-                  151.082478,
-                  -27.574275
-                ],
-                [
-                  151.083,
-                  -27.57471
-                ],
-                [
-                  151.083489,
-                  -27.574245
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "23SW21468",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Work delayed. Crew unable to continue.",
-        "START": "1:10PM 05 Dec 2023",
-        "EST_FIX_TIME": "12:00PM 29 Mar 2024",
-        "STREETS": "CECIL PLAINS-MOONIE RD",
-        "SUBURBS": "DUNMORE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               152.083221,
               -27.142323
             ]
@@ -194,6 +141,59 @@
         "EST_FIX_TIME": null,
         "STREETS": "ANDURAMBA RANGE RD, ANDURAMBA RD, ANGER RD, AUSTIN RD, BACK CREEK RD, BARKER LANE, BARNES RD, BAUSCH RD, BLUFF RD, BOWEN RD, BYER RD, BYERS RD, DEVONCOURT LANE, DEVONCOURT RD, FITCH RD, HAWKINS RD, HEATHER RD, JONES GULLY RD, MARIA CREEK RD, MARSHALL RD, MCGREEVY RD, MIDDLE RD, NUKINENDA RD, PETTIE RD, PIERCES CREEK RD, PIT RD, TIGELL RD, VOLL RD, VONHOFF RD, WATERHOLE GULLY RD, WOODLEA CT",
         "SUBURBS": "ANDURAMBA, CROWS NEST, JONES GULLY, NUKINENDA, PIERCES CREEK, PINELANDS, VIRGINIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.082983,
+              -27.57426
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.083489,
+                  -27.574245
+                ],
+                [
+                  151.082967,
+                  -27.57381
+                ],
+                [
+                  151.082478,
+                  -27.574275
+                ],
+                [
+                  151.083,
+                  -27.57471
+                ],
+                [
+                  151.083489,
+                  -27.574245
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "23SW21468",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Work delayed. Crew unable to continue.",
+        "START": "1:10PM 05 Dec 2023",
+        "EST_FIX_TIME": "12:00PM 29 Mar 2024",
+        "STREETS": "CECIL PLAINS-MOONIE RD",
+        "SUBURBS": "DUNMORE"
       }
     },
     {
@@ -563,7 +563,7 @@
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
         "STATUS": "Crews working on-site",
         "START": "9:19AM 09 Mar 2024",
-        "EST_FIX_TIME": null,
+        "EST_FIX_TIME": "3:00PM 09 Mar 2024",
         "STREETS": "ROWEENA STATION, SANDHILLS STATION",
         "SUBURBS": "RICHMOND"
       }
@@ -725,5 +725,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709942404.940598"
+  "extracted": "1709942701.034236"
 }
