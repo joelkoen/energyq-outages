@@ -196,6 +196,107 @@
           {
             "type": "Point",
             "coordinates": [
+              145.738223,
+              -17.980106
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.723398,
+                  -17.969734
+                ],
+                [
+                  145.729162,
+                  -18.009458
+                ],
+                [
+                  145.729517,
+                  -18.009835
+                ],
+                [
+                  145.735639,
+                  -18.011267
+                ],
+                [
+                  145.736143,
+                  -18.01108
+                ],
+                [
+                  145.741125,
+                  -18.003999
+                ],
+                [
+                  145.741165,
+                  -18.003929
+                ],
+                [
+                  145.746231,
+                  -17.992956
+                ],
+                [
+                  145.746263,
+                  -17.99286
+                ],
+                [
+                  145.753048,
+                  -17.959631
+                ],
+                [
+                  145.753023,
+                  -17.959376
+                ],
+                [
+                  145.750017,
+                  -17.952215
+                ],
+                [
+                  145.750007,
+                  -17.952193
+                ],
+                [
+                  145.748507,
+                  -17.949094
+                ],
+                [
+                  145.747767,
+                  -17.948945
+                ],
+                [
+                  145.723554,
+                  -17.969333
+                ],
+                [
+                  145.723398,
+                  -17.969734
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3933",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "31",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:22AM 10 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DAVIDSON RD, RANCH RD, SOUTH DAVIDSON RD",
+        "SUBURBS": "EURAMO, MUNRO PLAINS, RIVERSDALE, TULLY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -333,5 +434,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710008105.48113"
+  "extracted": "1710008701.12408"
 }
