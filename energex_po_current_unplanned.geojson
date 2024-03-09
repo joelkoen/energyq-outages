@@ -362,11 +362,104 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "135",
         "REASON": "Under Investigation",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "11:14AM 09 Mar 2024",
         "EST_FIX_TIME": "2:00PM 09 Mar 2024",
         "STREETS": "CAMPBELLS RD, CLIFFORD RD, COOTHARABA RD, DANDALOO DR, DANDALOO LANE, DAVIS RD, GILSONS RD, HEMPSALL RD, JUNCTION RD, KINMOND CREEK RD, LISTER LANE, LOUIS BAZZO DR, NAPIER RD, RICHARDS RD, SILVER ASH LANE, WALLACE RD",
         "SUBURBS": "BOREEN POINT, COOTHARABA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.963219,
+              -26.87903
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.960687,
+                  -26.879068
+                ],
+                [
+                  152.961795,
+                  -26.879908
+                ],
+                [
+                  152.96195,
+                  -26.879988
+                ],
+                [
+                  152.965204,
+                  -26.881038
+                ],
+                [
+                  152.965877,
+                  -26.880647
+                ],
+                [
+                  152.96593,
+                  -26.879999
+                ],
+                [
+                  152.965773,
+                  -26.879637
+                ],
+                [
+                  152.964743,
+                  -26.878768
+                ],
+                [
+                  152.9647,
+                  -26.878736
+                ],
+                [
+                  152.96215,
+                  -26.877022
+                ],
+                [
+                  152.961546,
+                  -26.877023
+                ],
+                [
+                  152.960743,
+                  -26.877564
+                ],
+                [
+                  152.960543,
+                  -26.877907
+                ],
+                [
+                  152.960509,
+                  -26.878706
+                ],
+                [
+                  152.960687,
+                  -26.879068
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-746805-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:39AM 09 Mar 2024",
+        "EST_FIX_TIME": "1:30PM 09 Mar 2024",
+        "STREETS": "BACK CREEK RD, BELL RD, STEVE IRWIN WAY",
+        "SUBURBS": "BEERWAH, GLASSHOUSE MOUNTAINS"
       }
     },
     {
@@ -505,7 +598,7 @@
         "REASON": "Under Investigation",
         "STATUS": "Awaiting",
         "START": "11:41AM 09 Mar 2024",
-        "EST_FIX_TIME": "2:30PM 09 Mar 2024",
+        "EST_FIX_TIME": "1:30PM 09 Mar 2024",
         "STREETS": "ACACIA ST, ALKIRA LANE, BADEN POWELL ST, BARTON ST, BRAIDWOOD ST, BULLER ST, BURSARIA CT, BURSARIA ST, CALADENIA CT, CAMELIA AVE, CARAWATHA ST, CARCOAR ST, COOTHA ST, DROSERA ST, DUNDONALD ST, FORREST ST, FRANCISCEA ST, FRENCH ST, GALEOLA ST, GEARSIDE ST, GLENBROOK ST, GORDON PDE, GREVILLEA ST, GRIFFIN ST, HAKEA ST, HIBISCUS ST, HORNBY ST, HOVEA ST, HUNTER ST, ILLAWARRA ST, KAMBALA ST, KURRAJONG ST, LILY ST, LOMATIA ST, MCCONAGHY ST, MCILWRAITH ST, MITTA ST, NITAWILL ST, NYMPHAEA ST, OLEARIA ST E, PAVONIA ST, PULLEN RD, REEDAN ST, SALIGNA CT, SIZER ST, SOUTH PINE RD, STAFFORD RD, STELLMACH ST, STROMLO ST, TERALBA ST, VIOLET ST, WARREN LANE, WARRINGAH ST, WHITE ST",
         "SUBURBS": "EVERTON HILLS, EVERTON PARK, MITCHELTON"
       }
@@ -513,5 +606,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1709949001.64752"
+  "extracted": "1709949301.32104"
 }
