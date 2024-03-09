@@ -10,6 +10,67 @@
           {
             "type": "Point",
             "coordinates": [
+              143.224468,
+              -20.728669
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  143.239254,
+                  -20.73083
+                ],
+                [
+                  143.209859,
+                  -20.725622
+                ],
+                [
+                  143.209299,
+                  -20.725982
+                ],
+                [
+                  143.209681,
+                  -20.726508
+                ],
+                [
+                  143.239077,
+                  -20.731716
+                ],
+                [
+                  143.239637,
+                  -20.731356
+                ],
+                [
+                  143.239254,
+                  -20.73083
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5984",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:19AM 09 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 09 Mar 2024",
+        "STREETS": "ROWEENA STATION, SANDHILLS STATION",
+        "SUBURBS": "RICHMOND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.083221,
               -27.142323
             ]
@@ -515,8 +576,8 @@
           {
             "type": "Point",
             "coordinates": [
-              143.224468,
-              -20.728669
+              146.828664,
+              -19.272559
             ]
           },
           {
@@ -524,117 +585,32 @@
             "coordinates": [
               [
                 [
-                  143.239254,
-                  -20.73083
+                  146.829378,
+                  -19.272822
                 ],
                 [
-                  143.209859,
-                  -20.725622
+                  146.828771,
+                  -19.271838
                 ],
                 [
-                  143.209299,
-                  -20.725982
+                  146.82812,
+                  -19.271677
                 ],
                 [
-                  143.209681,
-                  -20.726508
+                  146.82795,
+                  -19.272295
                 ],
                 [
-                  143.239077,
-                  -20.731716
+                  146.828557,
+                  -19.273279
                 ],
                 [
-                  143.239637,
-                  -20.731356
+                  146.829208,
+                  -19.27344
                 ],
                 [
-                  143.239254,
-                  -20.73083
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5984",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "9:19AM 09 Mar 2024",
-        "EST_FIX_TIME": "3:00PM 09 Mar 2024",
-        "STREETS": "ROWEENA STATION, SANDHILLS STATION",
-        "SUBURBS": "RICHMOND"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              146.828675,
-              -19.272084
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  146.827562,
-                  -19.272074
-                ],
-                [
-                  146.828592,
-                  -19.273328
-                ],
-                [
-                  146.829084,
-                  -19.273488
-                ],
-                [
-                  146.829493,
-                  -19.27339
-                ],
-                [
-                  146.829829,
-                  -19.272812
-                ],
-                [
-                  146.829413,
-                  -19.271601
-                ],
-                [
-                  146.829384,
-                  -19.271534
-                ],
-                [
-                  146.829038,
-                  -19.270897
-                ],
-                [
-                  146.828453,
-                  -19.270679
-                ],
-                [
-                  146.828109,
-                  -19.270797
-                ],
-                [
-                  146.827854,
-                  -19.271004
-                ],
-                [
-                  146.827521,
-                  -19.271578
-                ],
-                [
-                  146.827562,
-                  -19.272074
+                  146.829378,
+                  -19.272822
                 ]
               ]
             ]
@@ -644,12 +620,12 @@
       "properties": {
         "EVENT_ID": "24NQ5990",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "20",
+        "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is due to public safety concerns.",
         "STATUS": "Crews working on-site",
         "START": "9:54AM 09 Mar 2024",
-        "EST_FIX_TIME": "12:00PM 09 Mar 2024",
-        "STREETS": "CAPE ST, COMET ST, FIFTH AVE, SIXTH ST",
+        "EST_FIX_TIME": "3:00PM 10 Mar 2024",
+        "STREETS": "CAPE ST, FIFTH AVE",
         "SUBURBS": "SOUTH TOWNSVILLE"
       }
     },
@@ -725,5 +701,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709942701.034236"
+  "extracted": "1709943001.755869"
 }
