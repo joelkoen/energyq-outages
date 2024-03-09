@@ -63,6 +63,79 @@
           {
             "type": "Point",
             "coordinates": [
+              147.947451,
+              -23.615129
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.924613,
+                  -23.570869
+                ],
+                [
+                  147.956497,
+                  -23.672482
+                ],
+                [
+                  147.956996,
+                  -23.672808
+                ],
+                [
+                  147.957451,
+                  -23.672432
+                ],
+                [
+                  147.970288,
+                  -23.602217
+                ],
+                [
+                  147.970187,
+                  -23.601859
+                ],
+                [
+                  147.931468,
+                  -23.557449
+                ],
+                [
+                  147.930635,
+                  -23.557556
+                ],
+                [
+                  147.924633,
+                  -23.570567
+                ],
+                [
+                  147.924613,
+                  -23.570869
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4241",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "7:00AM 10 Mar 2024",
+        "EST_FIX_TIME": "10:00AM 10 Mar 2024",
+        "STREETS": "CAPRICORN HWY, WILGA DOWNS RD",
+        "SUBURBS": "EMERALD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.37262,
               -16.597485
             ]
@@ -434,5 +507,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710015304.800388"
+  "extracted": "1710015601.171816"
 }
