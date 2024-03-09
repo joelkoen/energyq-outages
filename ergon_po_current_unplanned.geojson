@@ -245,6 +245,91 @@
           {
             "type": "Point",
             "coordinates": [
+              149.251402,
+              -21.311483
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.249641,
+                  -21.311476
+                ],
+                [
+                  149.249672,
+                  -21.312233
+                ],
+                [
+                  149.24977,
+                  -21.31249
+                ],
+                [
+                  149.2499,
+                  -21.312649
+                ],
+                [
+                  149.250001,
+                  -21.312741
+                ],
+                [
+                  149.251236,
+                  -21.313578
+                ],
+                [
+                  149.251813,
+                  -21.313569
+                ],
+                [
+                  149.253031,
+                  -21.312686
+                ],
+                [
+                  149.253162,
+                  -21.312118
+                ],
+                [
+                  149.251633,
+                  -21.309395
+                ],
+                [
+                  149.250784,
+                  -21.309388
+                ],
+                [
+                  149.2497,
+                  -21.311241
+                ],
+                [
+                  149.249641,
+                  -21.311476
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2737",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "4:14PM 09 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "FENECH AVE",
+        "SUBURBS": "ALLIGATOR CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               149.854194,
               -25.930654
             ]
@@ -515,5 +600,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709967604.995961"
+  "extracted": "1709967901.329576"
 }
