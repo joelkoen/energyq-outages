@@ -245,6 +245,115 @@
           {
             "type": "Point",
             "coordinates": [
+              148.60877,
+              -20.492763
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.551606,
+                  -20.489394
+                ],
+                [
+                  148.566729,
+                  -20.51014
+                ],
+                [
+                  148.566829,
+                  -20.51024
+                ],
+                [
+                  148.625228,
+                  -20.553297
+                ],
+                [
+                  148.62555,
+                  -20.553392
+                ],
+                [
+                  148.656605,
+                  -20.551751
+                ],
+                [
+                  148.656848,
+                  -20.551673
+                ],
+                [
+                  148.664019,
+                  -20.547066
+                ],
+                [
+                  148.664216,
+                  -20.546792
+                ],
+                [
+                  148.665948,
+                  -20.539592
+                ],
+                [
+                  148.665878,
+                  -20.539239
+                ],
+                [
+                  148.590746,
+                  -20.434617
+                ],
+                [
+                  148.590743,
+                  -20.434612
+                ],
+                [
+                  148.58913,
+                  -20.432425
+                ],
+                [
+                  148.588928,
+                  -20.432268
+                ],
+                [
+                  148.588598,
+                  -20.432133
+                ],
+                [
+                  148.587997,
+                  -20.432313
+                ],
+                [
+                  148.551592,
+                  -20.488904
+                ],
+                [
+                  148.551606,
+                  -20.489394
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2738",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "95",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:09PM 09 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BELL RD, BRUCE HWY, CONWAY RD, COWAN RD, GREENWOOD RD, GUNYARRA RD, HINSCHEN ST, LASCELLES AVE, LETHEBROOK RD, MAGEE RD, SIR REGINALD ANSETT DR, WALSH RD",
+        "SUBURBS": "ANDROMACHE, CONWAY, GUNYARRA, LETHEBROOK, PROSERPINE, THOOPARA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.194681,
               -27.706568
             ]
@@ -305,5 +414,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1709971801.212439"
+  "extracted": "1709972105.407735"
 }
