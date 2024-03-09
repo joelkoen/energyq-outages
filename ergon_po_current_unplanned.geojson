@@ -63,6 +63,139 @@
           {
             "type": "Point",
             "coordinates": [
+              145.37262,
+              -16.597485
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.309375,
+                  -16.610854
+                ],
+                [
+                  145.324178,
+                  -16.654884
+                ],
+                [
+                  145.324533,
+                  -16.655188
+                ],
+                [
+                  145.346634,
+                  -16.659409
+                ],
+                [
+                  145.346899,
+                  -16.659385
+                ],
+                [
+                  145.386434,
+                  -16.644111
+                ],
+                [
+                  145.386584,
+                  -16.644019
+                ],
+                [
+                  145.435799,
+                  -16.598666
+                ],
+                [
+                  145.435865,
+                  -16.598089
+                ],
+                [
+                  145.417816,
+                  -16.57192
+                ],
+                [
+                  145.417793,
+                  -16.571889
+                ],
+                [
+                  145.395562,
+                  -16.544956
+                ],
+                [
+                  145.395556,
+                  -16.544949
+                ],
+                [
+                  145.388197,
+                  -16.536363
+                ],
+                [
+                  145.38788,
+                  -16.536201
+                ],
+                [
+                  145.380744,
+                  -16.535561
+                ],
+                [
+                  145.380481,
+                  -16.535611
+                ],
+                [
+                  145.365074,
+                  -16.543472
+                ],
+                [
+                  145.365065,
+                  -16.543476
+                ],
+                [
+                  145.343297,
+                  -16.555145
+                ],
+                [
+                  145.343201,
+                  -16.555213
+                ],
+                [
+                  145.324476,
+                  -16.5725
+                ],
+                [
+                  145.324362,
+                  -16.572665
+                ],
+                [
+                  145.309383,
+                  -16.610554
+                ],
+                [
+                  145.309375,
+                  -16.610854
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3932",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "478",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:11AM 10 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BLACK MOUNTAIN RD, BRADLEY RD, BUTCHERS CREEK, BUTTON CL, CAMERON CT, CARR RD, CHURCHILL CREEK RD, CLACHERTY RD, CLAYTON LANE, DEVIL DEVIL CL, DEVIL DEVIL CREEK, EDMONDS RD, ENGLISH RD, EULUMA CREEK RD, GADD CL, GARIOCH HEIGHTS RD, HIGHLAND DR, HILLVIEW RD, JIM WEIR RD, JORDISON RD, LOOP RD, MARY JANE DR, MCDOUGALL RD, MCKEAN RD, MCLEANS BRIDGE RD, MEADOW RD, MORRISH RD, MOSSMAN MOUNT MOLLOY RD, MOSSMAN MT MOLLOY RD, MOUNT KOOYONG RD, MOUNT LEWIS RD, MOUNT PERSERVERANCE RD, MT MOLLOY RD, NINE MILE RD, PASHEN RD, PINNACLE RD, RAINFOREST DR, RASMUSSEN RD, RENNIE CL, REX HWY, REX RANGE RD, RICHARDS RD, SALISBURY DR, SIDES RD, STEVENS RD, TRINITY CL, UNKNOWN ST, WESSELS RD, WETHERBY RD, WINDSOR VIEW RD",
+        "SUBURBS": "EULUMA CREEK, JULATTEN, MOUNT MOLLOY, RUMULA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -200,5 +333,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710007801.295752"
+  "extracted": "1710008105.48113"
 }
