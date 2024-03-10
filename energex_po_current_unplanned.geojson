@@ -495,147 +495,6 @@
           {
             "type": "Point",
             "coordinates": [
-              153.243089,
-              -27.778116
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.229543,
-                  -27.761999
-                ],
-                [
-                  153.230202,
-                  -27.770641
-                ],
-                [
-                  153.230229,
-                  -27.770757
-                ],
-                [
-                  153.232624,
-                  -27.776934
-                ],
-                [
-                  153.23273,
-                  -27.777093
-                ],
-                [
-                  153.250228,
-                  -27.793958
-                ],
-                [
-                  153.250252,
-                  -27.79398
-                ],
-                [
-                  153.250903,
-                  -27.794529
-                ],
-                [
-                  153.25096,
-                  -27.79457
-                ],
-                [
-                  153.251272,
-                  -27.794766
-                ],
-                [
-                  153.25169,
-                  -27.794834
-                ],
-                [
-                  153.254972,
-                  -27.794085
-                ],
-                [
-                  153.255276,
-                  -27.793887
-                ],
-                [
-                  153.256564,
-                  -27.792054
-                ],
-                [
-                  153.256635,
-                  -27.791743
-                ],
-                [
-                  153.255946,
-                  -27.78795
-                ],
-                [
-                  153.255917,
-                  -27.787856
-                ],
-                [
-                  153.250527,
-                  -27.775711
-                ],
-                [
-                  153.250521,
-                  -27.775697
-                ],
-                [
-                  153.250049,
-                  -27.774727
-                ],
-                [
-                  153.249917,
-                  -27.774566
-                ],
-                [
-                  153.233342,
-                  -27.761727
-                ],
-                [
-                  153.233067,
-                  -27.761619
-                ],
-                [
-                  153.230904,
-                  -27.761397
-                ],
-                [
-                  153.230759,
-                  -27.761401
-                ],
-                [
-                  153.229963,
-                  -27.761524
-                ],
-                [
-                  153.229543,
-                  -27.761999
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-747068-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "475",
-        "REASON": "Damage due to severe weather",
-        "STATUS": "Awaiting",
-        "START": "4:31PM 10 Mar 2024",
-        "EST_FIX_TIME": "7:00PM 10 Mar 2024",
-        "STREETS": "ALLOY ST, BEATON CT, BEAUSANG PL, CARBERRY PL, DOHERTY CT, EDWARDS PL, FOX CT, HEALY CT, JOHNSON PDE, LEAVER CT, LUCAS CRES, MAYES PL, METCALF CT, PASCOE RD, PEACHEY RD, PHILBEN DR, PHIPPS PL, QUINN CT, RENFORD CT, SCHABLON CL, VAUGHAN DR, WILLE CT, WINFIELD RD",
-        "SUBURBS": "ORMEAU, ORMEAU HILLS, YATALA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               153.257122,
               -27.573123
             ]
@@ -704,9 +563,102 @@
         "STREETS": "BOUNDARY RD, JESSIE CL, SPRINGACRE RD",
         "SUBURBS": "THORNLANDS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.882131,
+              -27.149248
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.880153,
+                  -27.151332
+                ],
+                [
+                  152.880395,
+                  -27.151479
+                ],
+                [
+                  152.880638,
+                  -27.151556
+                ],
+                [
+                  152.882989,
+                  -27.151723
+                ],
+                [
+                  152.883292,
+                  -27.151658
+                ],
+                [
+                  152.883858,
+                  -27.151348
+                ],
+                [
+                  152.884049,
+                  -27.15116
+                ],
+                [
+                  152.884331,
+                  -27.150639
+                ],
+                [
+                  152.884321,
+                  -27.150227
+                ],
+                [
+                  152.882706,
+                  -27.147566
+                ],
+                [
+                  152.882444,
+                  -27.14736
+                ],
+                [
+                  152.880736,
+                  -27.146774
+                ],
+                [
+                  152.880051,
+                  -27.147182
+                ],
+                [
+                  152.879931,
+                  -27.150946
+                ],
+                [
+                  152.880153,
+                  -27.151332
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747077-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "Damage due to severe weather",
+        "STATUS": "Awaiting",
+        "START": "5:10PM 10 Mar 2024",
+        "EST_FIX_TIME": "8:00PM 10 Mar 2024",
+        "STREETS": "MELBA ST, RALPH ST",
+        "SUBURBS": "MOORINA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710054601.057772"
+  "extracted": "1710054905.251809"
 }
