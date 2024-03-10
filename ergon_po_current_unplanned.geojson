@@ -123,9 +123,106 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.695962,
+              -20.27324
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.693345,
+                  -20.271369
+                ],
+                [
+                  148.694374,
+                  -20.274699
+                ],
+                [
+                  148.69439,
+                  -20.274743
+                ],
+                [
+                  148.694475,
+                  -20.274939
+                ],
+                [
+                  148.694572,
+                  -20.27508
+                ],
+                [
+                  148.694985,
+                  -20.275489
+                ],
+                [
+                  148.69539,
+                  -20.275626
+                ],
+                [
+                  148.696016,
+                  -20.275553
+                ],
+                [
+                  148.696182,
+                  -20.275504
+                ],
+                [
+                  148.697968,
+                  -20.274609
+                ],
+                [
+                  148.698089,
+                  -20.274522
+                ],
+                [
+                  148.69858,
+                  -20.274037
+                ],
+                [
+                  148.698478,
+                  -20.273337
+                ],
+                [
+                  148.694048,
+                  -20.270855
+                ],
+                [
+                  148.693511,
+                  -20.270886
+                ],
+                [
+                  148.693345,
+                  -20.271369
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2745",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "135",
+        "REASON": "The loss of supply is due to a vehicle accident.",
+        "STATUS": "Outage reported",
+        "START": "5:26PM 10 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BEACH RD, CORAL ESP, HERRING LANE, PALM DR, PLEASANT DR",
+        "SUBURBS": "CANNONVALE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710058505.684675"
+  "extracted": "1710058801.09485"
 }
