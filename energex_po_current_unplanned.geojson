@@ -203,9 +203,110 @@
         "STREETS": "CHALMETTE DR, CIBOLA DR, COLVILLE DR, SIERRA DR",
         "SUBURBS": "TAMBORINE MOUNTAIN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.428097,
+              -27.55938
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.406015,
+                  -27.552873
+                ],
+                [
+                  152.406199,
+                  -27.570059
+                ],
+                [
+                  152.406616,
+                  -27.570498
+                ],
+                [
+                  152.431692,
+                  -27.574519
+                ],
+                [
+                  152.43188,
+                  -27.574517
+                ],
+                [
+                  152.442238,
+                  -27.57269
+                ],
+                [
+                  152.442283,
+                  -27.57268
+                ],
+                [
+                  152.449737,
+                  -27.570719
+                ],
+                [
+                  152.4501,
+                  -27.570293
+                ],
+                [
+                  152.450179,
+                  -27.565592
+                ],
+                [
+                  152.45017,
+                  -27.565501
+                ],
+                [
+                  152.447804,
+                  -27.554445
+                ],
+                [
+                  152.447499,
+                  -27.554112
+                ],
+                [
+                  152.420486,
+                  -27.544241
+                ],
+                [
+                  152.420012,
+                  -27.544283
+                ],
+                [
+                  152.40624,
+                  -27.552493
+                ],
+                [
+                  152.406015,
+                  -27.552873
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747123-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "515",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "3:16AM 11 Mar 2024",
+        "EST_FIX_TIME": "5:30AM 11 Mar 2024",
+        "STREETS": "BARCOO DR, BARWON ST, BURDEKIN ST, CEMETERY RD, CRANE RD, CULGOA DR, EDGERTON DR, ENDEAVOUR WAY, FAITH AVE, FLINDERS CT, FOREST AVE, GASCOYNE ST, GEHRKE RD, HASTINGS AVE, LAIDLEY-PLAINLAND RD, LESCHKE RD, MAROSKE RD, MITCHELL CT, MOUNTAIN VIEW DR, NATHAN CT, OTTO RD, RICHMOND TCE, WARREGO HWY, WEIER RD, WOOLSHED CREEK RD, ZABEL DR, ZISCHKE RD",
+        "SUBURBS": "GLENORE GROVE, HATTON VALE, PLAINLAND, REGENCY DOWNS, SUMMERHOLM"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710090601.358747"
+  "extracted": "1710091201.111564"
 }
