@@ -688,6 +688,131 @@
           {
             "type": "Point",
             "coordinates": [
+              145.751629,
+              -16.973503
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.747689,
+                  -16.973983
+                ],
+                [
+                  145.747998,
+                  -16.97527
+                ],
+                [
+                  145.748022,
+                  -16.975342
+                ],
+                [
+                  145.749533,
+                  -16.978837
+                ],
+                [
+                  145.750233,
+                  -16.979035
+                ],
+                [
+                  145.755325,
+                  -16.975661
+                ],
+                [
+                  145.755507,
+                  -16.975426
+                ],
+                [
+                  145.755549,
+                  -16.975296
+                ],
+                [
+                  145.755571,
+                  -16.975163
+                ],
+                [
+                  145.755578,
+                  -16.974471
+                ],
+                [
+                  145.755578,
+                  -16.974463
+                ],
+                [
+                  145.755528,
+                  -16.969147
+                ],
+                [
+                  145.755436,
+                  -16.968883
+                ],
+                [
+                  145.75529,
+                  -16.968693
+                ],
+                [
+                  145.754963,
+                  -16.968512
+                ],
+                [
+                  145.752957,
+                  -16.9683
+                ],
+                [
+                  145.752951,
+                  -16.968299
+                ],
+                [
+                  145.751585,
+                  -16.968172
+                ],
+                [
+                  145.751576,
+                  -16.968172
+                ],
+                [
+                  145.748886,
+                  -16.96797
+                ],
+                [
+                  145.748383,
+                  -16.968365
+                ],
+                [
+                  145.747681,
+                  -16.973825
+                ],
+                [
+                  145.747689,
+                  -16.973983
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3936",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "558",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "12:01PM 10 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ACADEMY CL, ARUMA CL, BURTON CL, CARINA CL, CILENTO CL, GOLDWYN CL, HEPBURN ST, HOLLYWOOD BVD, KAMBARA ST, KOWINKA ST, MAKOO CL, MARVIN CL, MULGRAVE RD, PARTON CL, SHEEHY RD, SKULL RD, TRAVOLTA CL, UNIVERSAL CL, YANGOORA ST",
+        "SUBURBS": "WESTCOURT, WHITE ROCK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -950,5 +1075,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710035701.064742"
+  "extracted": "1710036301.059619"
 }

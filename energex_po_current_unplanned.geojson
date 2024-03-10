@@ -238,9 +238,9 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "33",
         "REASON": "Under Investigation",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "11:03AM 10 Mar 2024",
-        "EST_FIX_TIME": "1:30PM 10 Mar 2024",
+        "EST_FIX_TIME": "12:30PM 10 Mar 2024",
         "STREETS": "COURT ST, MEREDITH LANE, NICHOLAS ST, RODERICK ST",
         "SUBURBS": "IPSWICH"
       }
@@ -312,6 +312,131 @@
         "EST_FIX_TIME": "1:30PM 10 Mar 2024",
         "STREETS": "FIG TREE LANE, HAVEN RD",
         "SUBURBS": "UPPER BROOKFIELD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.094019,
+              -25.906234
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.092439,
+                  -25.905124
+                ],
+                [
+                  153.092772,
+                  -25.906415
+                ],
+                [
+                  153.092805,
+                  -25.906503
+                ],
+                [
+                  153.09308,
+                  -25.907036
+                ],
+                [
+                  153.093251,
+                  -25.907218
+                ],
+                [
+                  153.094487,
+                  -25.907983
+                ],
+                [
+                  153.09488,
+                  -25.90805
+                ],
+                [
+                  153.095232,
+                  -25.907977
+                ],
+                [
+                  153.095598,
+                  -25.907406
+                ],
+                [
+                  153.095538,
+                  -25.907227
+                ],
+                [
+                  153.095533,
+                  -25.907214
+                ],
+                [
+                  153.095467,
+                  -25.907037
+                ],
+                [
+                  153.09544,
+                  -25.906977
+                ],
+                [
+                  153.09526,
+                  -25.906655
+                ],
+                [
+                  153.095239,
+                  -25.906622
+                ],
+                [
+                  153.095129,
+                  -25.906461
+                ],
+                [
+                  153.095119,
+                  -25.906446
+                ],
+                [
+                  153.093797,
+                  -25.904667
+                ],
+                [
+                  153.093788,
+                  -25.904655
+                ],
+                [
+                  153.093622,
+                  -25.904445
+                ],
+                [
+                  153.092834,
+                  -25.904418
+                ],
+                [
+                  153.092543,
+                  -25.904731
+                ],
+                [
+                  153.092439,
+                  -25.905124
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-746986-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "37",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "11:48AM 10 Mar 2024",
+        "EST_FIX_TIME": "1:00PM 10 Mar 2024",
+        "STREETS": "CARLO CIR, CARLO RD, COOLOOLA DR",
+        "SUBURBS": "RAINBOW BEACH"
       }
     },
     {
@@ -450,5 +575,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710035701.119952"
+  "extracted": "1710036301.557047"
 }
