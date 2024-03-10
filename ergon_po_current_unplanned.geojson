@@ -121,11 +121,72 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "5",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "1:22AM 10 Mar 2024",
         "EST_FIX_TIME": null,
         "STREETS": "LOWMEAD RD, WARD'S RD",
         "SUBURBS": "MIRIAM VALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.36344,
+              -23.734075
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.364776,
+                  -23.735239
+                ],
+                [
+                  150.362944,
+                  -23.732445
+                ],
+                [
+                  150.362271,
+                  -23.732292
+                ],
+                [
+                  150.362105,
+                  -23.732911
+                ],
+                [
+                  150.363937,
+                  -23.735705
+                ],
+                [
+                  150.36461,
+                  -23.735858
+                ],
+                [
+                  150.364776,
+                  -23.735239
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4282",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews on route",
+        "START": "8:28AM 10 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BURNETT HWY",
+        "SUBURBS": "MOUNT MORGAN"
       }
     },
     {
@@ -488,7 +549,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "55",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "9:01AM 10 Mar 2024",
         "EST_FIX_TIME": null,
         "STREETS": "GAVIN ST, HELEN CL, KERRYANNE CL, KIMANNE CL, LESLEY ST, STANTON RD",
@@ -640,5 +701,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710028501.611154"
+  "extracted": "1710029101.247377"
 }
