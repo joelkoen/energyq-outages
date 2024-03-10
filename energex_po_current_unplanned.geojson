@@ -10,8 +10,8 @@
           {
             "type": "Point",
             "coordinates": [
-              153.234634,
-              -28.220113
+              153.234628,
+              -28.236254
             ]
           },
           {
@@ -19,20 +19,40 @@
             "coordinates": [
               [
                 [
-                  153.227088,
-                  -28.219413
+                  153.227075,
+                  -28.219353
                 ],
                 [
-                  153.228516,
-                  -28.224385
+                  153.23236,
+                  -28.260516
                 ],
                 [
-                  153.228795,
-                  -28.224683
+                  153.232369,
+                  -28.260561
                 ],
                 [
-                  153.24142,
-                  -28.229878
+                  153.232675,
+                  -28.261806
+                ],
+                [
+                  153.233136,
+                  -28.26216
+                ],
+                [
+                  153.23365,
+                  -28.261869
+                ],
+                [
+                  153.237507,
+                  -28.252796
+                ],
+                [
+                  153.237532,
+                  -28.252715
+                ],
+                [
+                  153.242137,
+                  -28.229547
                 ],
                 [
                   153.242144,
@@ -75,8 +95,8 @@
                   -28.219194
                 ],
                 [
-                  153.227088,
-                  -28.219413
+                  153.227075,
+                  -28.219353
                 ]
               ]
             ]
@@ -86,12 +106,12 @@
       "properties": {
         "EVENT_ID": "INCD-746946-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "29",
+        "CUSTOMERS_AFFECTED": "48",
         "REASON": "Damage due to severe weather",
         "STATUS": "Awaiting",
         "START": "7:54AM 10 Mar 2024",
         "EST_FIX_TIME": "4:30PM 10 Mar 2024",
-        "STREETS": "DAVES CREEK RD, NATURAL BRIDGE RD, NERANG MURWILLUMBAH RD",
+        "STREETS": "DAVES CREEK RD, HAYTERS RD, NATURAL BRIDGE RD, NERANG MURWILLUMBAH RD",
         "SUBURBS": "NATURAL BRIDGE, NUMINBAH VALLEY"
       }
     },
@@ -547,9 +567,90 @@
         "STREETS": "BRISBANE VALLEY HWY, LOCKYER VIEW RD, MACDONALDS RD, REIDS AVE, SHINES RD, WIVENHOE POCKET RD",
         "SUBURBS": "WIVENHOE POCKET"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.072645,
+              -27.466936
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.070478,
+                  -27.466446
+                ],
+                [
+                  153.072222,
+                  -27.467976
+                ],
+                [
+                  153.072486,
+                  -27.468099
+                ],
+                [
+                  153.073173,
+                  -27.46821
+                ],
+                [
+                  153.073549,
+                  -27.468138
+                ],
+                [
+                  153.074855,
+                  -27.467338
+                ],
+                [
+                  153.074926,
+                  -27.466647
+                ],
+                [
+                  153.073969,
+                  -27.465794
+                ],
+                [
+                  153.073609,
+                  -27.465662
+                ],
+                [
+                  153.070831,
+                  -27.465673
+                ],
+                [
+                  153.070364,
+                  -27.465954
+                ],
+                [
+                  153.070478,
+                  -27.466446
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747048-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "69",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "3:14PM 10 Mar 2024",
+        "EST_FIX_TIME": "5:30PM 10 Mar 2024",
+        "STREETS": "AGNES ST, BURRAI ST, THYNNE RD, WYNNUM RD",
+        "SUBURBS": "MORNINGSIDE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710047401.254415"
+  "extracted": "1710048001.119144"
 }
