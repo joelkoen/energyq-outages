@@ -313,6 +313,95 @@
           {
             "type": "Point",
             "coordinates": [
+              146.100429,
+              -17.77265
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.092059,
+                  -17.768827
+                ],
+                [
+                  146.107162,
+                  -17.777289
+                ],
+                [
+                  146.107788,
+                  -17.777157
+                ],
+                [
+                  146.108914,
+                  -17.7756
+                ],
+                [
+                  146.108989,
+                  -17.775256
+                ],
+                [
+                  146.108735,
+                  -17.77401
+                ],
+                [
+                  146.10857,
+                  -17.773746
+                ],
+                [
+                  146.108114,
+                  -17.773392
+                ],
+                [
+                  146.108044,
+                  -17.773346
+                ],
+                [
+                  146.107376,
+                  -17.772993
+                ],
+                [
+                  146.107303,
+                  -17.772962
+                ],
+                [
+                  146.092452,
+                  -17.768011
+                ],
+                [
+                  146.091869,
+                  -17.768248
+                ],
+                [
+                  146.092059,
+                  -17.768827
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3946",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "68",
+        "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
+        "STATUS": "Outage reported",
+        "START": "7:52AM 11 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BARDON CL, GOWLAND ST, HAWTHORNE DR, JACOBS RD, ROBERT JOHNSTONE PDE, ROWE ST, TAYLOR ST",
+        "SUBURBS": "KURRIMINE BEACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -474,118 +563,9 @@
         "STREETS": "CAPPER ST, GORGE RD, JOHNSTONS RD, THURGOODS RD, VAN HOUWENINGE RD",
         "SUBURBS": "FINCH HATTON, FINCH HATTON GORGE, GAYNDAH"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              152.820063,
-              -25.302425
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.817985,
-                  -25.303153
-                ],
-                [
-                  152.819359,
-                  -25.303572
-                ],
-                [
-                  152.819369,
-                  -25.303575
-                ],
-                [
-                  152.821418,
-                  -25.304156
-                ],
-                [
-                  152.821906,
-                  -25.304053
-                ],
-                [
-                  152.822322,
-                  -25.303693
-                ],
-                [
-                  152.822444,
-                  -25.30321
-                ],
-                [
-                  152.822382,
-                  -25.303059
-                ],
-                [
-                  152.822365,
-                  -25.303021
-                ],
-                [
-                  152.821545,
-                  -25.301474
-                ],
-                [
-                  152.821306,
-                  -25.301261
-                ],
-                [
-                  152.819952,
-                  -25.300694
-                ],
-                [
-                  152.819437,
-                  -25.30075
-                ],
-                [
-                  152.818788,
-                  -25.30122
-                ],
-                [
-                  152.818756,
-                  -25.301245
-                ],
-                [
-                  152.818025,
-                  -25.301874
-                ],
-                [
-                  152.817903,
-                  -25.302039
-                ],
-                [
-                  152.817681,
-                  -25.302565
-                ],
-                [
-                  152.817985,
-                  -25.303153
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB3959",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "34",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
-        "START": "6:07AM 11 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "HERSHEL CT, JABIRU CL, MADSEN RD, MAIKE DR",
-        "SUBURBS": "PIALBA, URRAWEEN"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710107701.280019"
+  "extracted": "1710108003.202621"
 }
