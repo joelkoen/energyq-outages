@@ -288,7 +288,7 @@
       "properties": {
         "EVENT_ID": "INCD-746986-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "37",
+        "CUSTOMERS_AFFECTED": "38",
         "REASON": "Powerlines down",
         "STATUS": "In Progress",
         "START": "11:48AM 10 Mar 2024",
@@ -305,8 +305,8 @@
           {
             "type": "Point",
             "coordinates": [
-              153.226707,
-              -27.828588
+              153.223969,
+              -27.829279
             ]
           },
           {
@@ -338,28 +338,28 @@
                   -27.850384
                 ],
                 [
-                  153.222781,
-                  -27.850185
+                  153.222785,
+                  -27.850172
                 ],
                 [
-                  153.236506,
-                  -27.808169
+                  153.229562,
+                  -27.826757
                 ],
                 [
-                  153.236373,
-                  -27.80772
+                  153.229576,
+                  -27.826681
                 ],
                 [
-                  153.23544,
-                  -27.806915
+                  153.231031,
+                  -27.810718
                 ],
                 [
-                  153.23502,
-                  -27.806791
+                  153.230684,
+                  -27.810253
                 ],
                 [
-                  153.22339,
-                  -27.808154
+                  153.223616,
+                  -27.808173
                 ],
                 [
                   153.222958,
@@ -389,13 +389,13 @@
       "properties": {
         "EVENT_ID": "INCD-746987-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "51",
+        "CUSTOMERS_AFFECTED": "38",
         "REASON": "Damage due to severe weather",
         "STATUS": "Awaiting",
         "START": "11:50AM 10 Mar 2024",
         "EST_FIX_TIME": "4:30PM 10 Mar 2024",
-        "STREETS": "BARRENJOEY DR, CLIFF BARRONS RD, DALGLEISH RD, HIDEAWAY RD, UPPER ORMEAU RD",
-        "SUBURBS": "KINGSHOLME, ORMEAU, ORMEAU HILLS"
+        "STREETS": "CLIFF BARRONS RD, HIDEAWAY RD, UPPER ORMEAU RD",
+        "SUBURBS": "KINGSHOLME, ORMEAU HILLS"
       }
     },
     {
@@ -648,9 +648,158 @@
         "STREETS": "CEYLON RD, OLD CEYLON RD",
         "SUBURBS": "BELLI PARK, COOROY, RIDGEWOOD"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.63877,
+              -27.440878
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.599638,
+                  -27.438826
+                ],
+                [
+                  152.606246,
+                  -27.469284
+                ],
+                [
+                  152.606505,
+                  -27.469597
+                ],
+                [
+                  152.618635,
+                  -27.47537
+                ],
+                [
+                  152.618677,
+                  -27.475388
+                ],
+                [
+                  152.622747,
+                  -27.476914
+                ],
+                [
+                  152.622792,
+                  -27.476929
+                ],
+                [
+                  152.631935,
+                  -27.47949
+                ],
+                [
+                  152.631939,
+                  -27.479491
+                ],
+                [
+                  152.6338,
+                  -27.479994
+                ],
+                [
+                  152.633899,
+                  -27.480012
+                ],
+                [
+                  152.637618,
+                  -27.480329
+                ],
+                [
+                  152.637751,
+                  -27.480325
+                ],
+                [
+                  152.670367,
+                  -27.475356
+                ],
+                [
+                  152.670738,
+                  -27.475107
+                ],
+                [
+                  152.672895,
+                  -27.4711
+                ],
+                [
+                  152.672943,
+                  -27.470948
+                ],
+                [
+                  152.677901,
+                  -27.425215
+                ],
+                [
+                  152.677897,
+                  -27.4251
+                ],
+                [
+                  152.676101,
+                  -27.415138
+                ],
+                [
+                  152.676075,
+                  -27.41505
+                ],
+                [
+                  152.672793,
+                  -27.407301
+                ],
+                [
+                  152.67238,
+                  -27.407013
+                ],
+                [
+                  152.620961,
+                  -27.401428
+                ],
+                [
+                  152.620636,
+                  -27.40149
+                ],
+                [
+                  152.608293,
+                  -27.408218
+                ],
+                [
+                  152.608065,
+                  -27.408494
+                ],
+                [
+                  152.599644,
+                  -27.438631
+                ],
+                [
+                  152.599638,
+                  -27.438826
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747032-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "737",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "2:31PM 10 Mar 2024",
+        "EST_FIX_TIME": "5:00PM 10 Mar 2024",
+        "STREETS": "ALLEN RD, APPLEWOODS LANE, BEESTON DR, BRISBANE VALLEY HWY, BROUFF RD, CHATHAM ST, CLIVE ST, COTTONWOOD CRES, DELETRAZ RD, DENNING ST, EMERALDWOOD ST, ENGLAND CREEK RD, ERSKINE ST, FAIRNEYVIEW FERNVALE RD, FAWNWOOD ST, FAY CT, FERNVALE RD, FIELDING RD, FOREST HILL FERNVALE RD, FOX ST, GOAN LANE, GOLDENWOOD CRES, GRAHAM RD, HARPENG RD, HARRIS RD, HONEYWOOD DR, IRONWOOD ST, JANET CL, KENNEDY RD, KNOX LANE S, LEATHERWOOD ST, LITTLEWOOD ST, LOCKYER VIEW RD, MACAULAY ST, MACDONALDS RD, MCCULKINS LANE, MEADOW VIEW RD, MILLAR RD, MUCKERTS LANE, MYRTLE CT, NATAN RD, NOBLEWOOD CRES, OGG RD, OLD FERNVALE RD, PHIPPS RD, POWELLS RD, REIDS AVE, RIDGEWOOD ST, ROBYN TCE, SCHROEDER LANE, SHADYWOOD DR, SHINES RD, SMALLWOODS RD, STONEYWOOD ST, SUNNYWOOD ST, TAREE RD, VALMA LANE, VERNOR RD, VOGLER RD, WERNOWSKIS RD, WIVENHOE POCKET RD",
+        "SUBURBS": "ENGLAND CREEK, FAIRNEY VIEW, FERNVALE, VERNOR, WIVENHOE POCKET"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710045006.066084"
+  "extracted": "1710045301.04465"
 }
