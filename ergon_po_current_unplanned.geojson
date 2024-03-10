@@ -63,119 +63,6 @@
           {
             "type": "Point",
             "coordinates": [
-              139.179378,
-              -16.665171
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  139.170133,
-                  -16.666817
-                ],
-                [
-                  139.184814,
-                  -16.66783
-                ],
-                [
-                  139.184958,
-                  -16.667818
-                ],
-                [
-                  139.185805,
-                  -16.667617
-                ],
-                [
-                  139.185925,
-                  -16.66757
-                ],
-                [
-                  139.187883,
-                  -16.666487
-                ],
-                [
-                  139.187956,
-                  -16.666437
-                ],
-                [
-                  139.188959,
-                  -16.6656
-                ],
-                [
-                  139.189047,
-                  -16.665021
-                ],
-                [
-                  139.188908,
-                  -16.66481
-                ],
-                [
-                  139.188863,
-                  -16.664752
-                ],
-                [
-                  139.186932,
-                  -16.662661
-                ],
-                [
-                  139.186554,
-                  -16.662512
-                ],
-                [
-                  139.177097,
-                  -16.663104
-                ],
-                [
-                  139.177089,
-                  -16.663104
-                ],
-                [
-                  139.176667,
-                  -16.663138
-                ],
-                [
-                  139.176518,
-                  -16.663175
-                ],
-                [
-                  139.169979,
-                  -16.66596
-                ],
-                [
-                  139.169709,
-                  -16.666447
-                ],
-                [
-                  139.170133,
-                  -16.666817
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN3944",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "176",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs.  ",
-        "STATUS": "Outage reported",
-        "START": "11:56AM 10 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "DAJBUKA ST, DUNGAH ST, GULTHAKNAD ST, JIMBARN ST, KARABAN ST, KIRDIKIR ST, KULTHANGARR ST, LARDIL ST, MAARNMAARN KATHA ST, MARNDATHARRKAN ST, MUKAKIYA ST, NGERRAWURN ST, WANJI CL, WARDIRRKAN ST, WENGKA ST, WURRULKU CRES, YARRABARKAN ST",
-        "SUBURBS": "GUNUNA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -337,9 +224,118 @@
         "STREETS": "CAPPER ST, GORGE RD, JOHNSTONS RD, THURGOODS RD, VAN HOUWENINGE RD",
         "SUBURBS": "FINCH HATTON, FINCH HATTON GORGE, GAYNDAH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.820063,
+              -25.302425
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.817985,
+                  -25.303153
+                ],
+                [
+                  152.819359,
+                  -25.303572
+                ],
+                [
+                  152.819369,
+                  -25.303575
+                ],
+                [
+                  152.821418,
+                  -25.304156
+                ],
+                [
+                  152.821906,
+                  -25.304053
+                ],
+                [
+                  152.822322,
+                  -25.303693
+                ],
+                [
+                  152.822444,
+                  -25.30321
+                ],
+                [
+                  152.822382,
+                  -25.303059
+                ],
+                [
+                  152.822365,
+                  -25.303021
+                ],
+                [
+                  152.821545,
+                  -25.301474
+                ],
+                [
+                  152.821306,
+                  -25.301261
+                ],
+                [
+                  152.819952,
+                  -25.300694
+                ],
+                [
+                  152.819437,
+                  -25.30075
+                ],
+                [
+                  152.818788,
+                  -25.30122
+                ],
+                [
+                  152.818756,
+                  -25.301245
+                ],
+                [
+                  152.818025,
+                  -25.301874
+                ],
+                [
+                  152.817903,
+                  -25.302039
+                ],
+                [
+                  152.817681,
+                  -25.302565
+                ],
+                [
+                  152.817985,
+                  -25.303153
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB3959",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "34",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:07AM 11 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "HERSHEL CT, JABIRU CL, MADSEN RD, MAIKE DR",
+        "SUBURBS": "PIALBA, URRAWEEN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710102901.310851"
+  "extracted": "1710103201.722163"
 }
