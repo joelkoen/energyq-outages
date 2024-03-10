@@ -124,6 +124,107 @@
           {
             "type": "Point",
             "coordinates": [
+              149.973693,
+              -24.570026
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.971159,
+                  -24.568931
+                ],
+                [
+                  149.971679,
+                  -24.569719
+                ],
+                [
+                  149.971731,
+                  -24.569784
+                ],
+                [
+                  149.972397,
+                  -24.570475
+                ],
+                [
+                  149.972404,
+                  -24.570482
+                ],
+                [
+                  149.974031,
+                  -24.572098
+                ],
+                [
+                  149.974464,
+                  -24.572239
+                ],
+                [
+                  149.975815,
+                  -24.572061
+                ],
+                [
+                  149.976228,
+                  -24.571522
+                ],
+                [
+                  149.975958,
+                  -24.570347
+                ],
+                [
+                  149.975853,
+                  -24.570149
+                ],
+                [
+                  149.97437,
+                  -24.568535
+                ],
+                [
+                  149.974152,
+                  -24.568398
+                ],
+                [
+                  149.972276,
+                  -24.567812
+                ],
+                [
+                  149.97178,
+                  -24.56791
+                ],
+                [
+                  149.971244,
+                  -24.568369
+                ],
+                [
+                  149.971159,
+                  -24.568931
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4284",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "39",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:53AM 10 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DAWSON HWY, GILCHRIST ST, MARSHALL ST, MCARTHUR ST, SHIRLEY ST",
+        "SUBURBS": "MOURA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.378405,
               -16.589828
             ]
@@ -628,5 +729,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710029401.619487"
+  "extracted": "1710030000.983221"
 }
