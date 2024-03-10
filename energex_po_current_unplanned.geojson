@@ -10,119 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              153.234628,
-              -28.236254
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.227075,
-                  -28.219353
-                ],
-                [
-                  153.23236,
-                  -28.260516
-                ],
-                [
-                  153.232369,
-                  -28.260561
-                ],
-                [
-                  153.232675,
-                  -28.261806
-                ],
-                [
-                  153.233136,
-                  -28.26216
-                ],
-                [
-                  153.23365,
-                  -28.261869
-                ],
-                [
-                  153.237507,
-                  -28.252796
-                ],
-                [
-                  153.237532,
-                  -28.252715
-                ],
-                [
-                  153.242137,
-                  -28.229547
-                ],
-                [
-                  153.242144,
-                  -28.229474
-                ],
-                [
-                  153.242181,
-                  -28.226657
-                ],
-                [
-                  153.242142,
-                  -28.226477
-                ],
-                [
-                  153.234643,
-                  -28.210624
-                ],
-                [
-                  153.234138,
-                  -28.210348
-                ],
-                [
-                  153.234098,
-                  -28.210351
-                ],
-                [
-                  153.233921,
-                  -28.21039
-                ],
-                [
-                  153.229205,
-                  -28.212298
-                ],
-                [
-                  153.228922,
-                  -28.2126
-                ],
-                [
-                  153.227087,
-                  -28.219194
-                ],
-                [
-                  153.227075,
-                  -28.219353
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-746946-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "48",
-        "REASON": "Damage due to severe weather",
-        "STATUS": "Awaiting",
-        "START": "7:54AM 10 Mar 2024",
-        "EST_FIX_TIME": "4:30PM 10 Mar 2024",
-        "STREETS": "DAVES CREEK RD, HAYTERS RD, NATURAL BRIDGE RD, NERANG MURWILLUMBAH RD",
-        "SUBURBS": "NATURAL BRIDGE, NUMINBAH VALLEY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               153.079534,
               -27.567763
             ]
@@ -789,9 +676,86 @@
         "STREETS": "ALDER CT, ALLSPICE ST, ASHLEY CT, ASHWOOD DR, BARNES RD, BLACKBUTT RD, BLUFF PKWY, BLUFF RD, BOONDARN CT, BOORAH RD, BOTTLEBRUSH DR, BREYNIA CT, BRUSHWOOD CRES, CADAGI CL, CARRON PL, CASSIA CT, CATHRYN CT, CEDAR GROVE RD, CEDAR VALE RD, CHAMPNEY CT, CHRISTOPHER PL, COOLIBAH RD, CORKWOOD CT, DELTORO RD, DENNIS RD, DRAPER CT, EARLY PL, EAST ST, EGRET CT, EYRE PL, FLEMING CT, GALEN CT, GILES CT, GREEN RIDGE RD, HARRISON RD, HERITAGE RD, HILLMAN ST, HUGHES RD, IBYANA CT, JARRAH RD, JOHN ST, JOY PL, JURD PL, KAMALA CT, KAURI CT, KURRAJONG RD, LEOPARDWOOD RD, LIGHTWOOD CT, LITTLE HAWK RD, LOGYARD CT, MAGGIE CT, MELALEUCA CT, MICHELLE DR, MILEY PL, MILLSTREAM RD, MILLWOOD CT, MT LINDESAY HWY, MYRTLE RD, NICHOLS ST, NORFOLK DR, ORION RD, PANITZ DR, PAPWORTH CT, PELSART PL, PEPPERTREE DR, PETA CT, PINDARI RD, PINKWOOD ST, PRENTICE PL, QUAIL ST, QUEEN ST, RAZORBACK RD, ROSE GUM CT, SILKY OAK CT, SOUTH ST, TAMARIND PL, TEA TREE CT, TREWIN RD N, TULIPWOOD RD, WARATAH PL, WENDY CT, WHITMAN RD",
         "SUBURBS": "CEDAR GROVE, CEDAR VALE, JIMBOOMBA, MUNDOOLUN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.005717,
+              -27.540572
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.004168,
+                  -27.541041
+                ],
+                [
+                  153.005966,
+                  -27.541748
+                ],
+                [
+                  153.00601,
+                  -27.541764
+                ],
+                [
+                  153.006717,
+                  -27.541974
+                ],
+                [
+                  153.007369,
+                  -27.541438
+                ],
+                [
+                  153.006822,
+                  -27.539451
+                ],
+                [
+                  153.006073,
+                  -27.53917
+                ],
+                [
+                  153.0044,
+                  -27.540046
+                ],
+                [
+                  153.00435,
+                  -27.540076
+                ],
+                [
+                  153.004065,
+                  -27.540269
+                ],
+                [
+                  153.004168,
+                  -27.541041
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747053-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "24",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "3:09PM 10 Mar 2024",
+        "EST_FIX_TIME": "6:30PM 10 Mar 2024",
+        "STREETS": "CARISBROOK ST, GOLF LINKS RD, MEDWAY ST, SHERWOOD RD",
+        "SUBURBS": "ROCKLEA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710048901.563454"
+  "extracted": "1710049200.975287"
 }
