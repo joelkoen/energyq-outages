@@ -180,6 +180,95 @@
           {
             "type": "Point",
             "coordinates": [
+              150.321184,
+              -23.488371
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.3167,
+                  -23.490507
+                ],
+                [
+                  150.32541,
+                  -23.488169
+                ],
+                [
+                  150.325588,
+                  -23.488081
+                ],
+                [
+                  150.326133,
+                  -23.487658
+                ],
+                [
+                  150.326265,
+                  -23.48713
+                ],
+                [
+                  150.32596,
+                  -23.486493
+                ],
+                [
+                  150.325409,
+                  -23.486235
+                ],
+                [
+                  150.324801,
+                  -23.486356
+                ],
+                [
+                  150.324748,
+                  -23.486369
+                ],
+                [
+                  150.323982,
+                  -23.486607
+                ],
+                [
+                  150.323943,
+                  -23.486621
+                ],
+                [
+                  150.316368,
+                  -23.48966
+                ],
+                [
+                  150.316104,
+                  -23.490227
+                ],
+                [
+                  150.3167,
+                  -23.490507
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4293",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:01PM 10 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CHONG ST, HENRY ST, MAIN ST, SACKVILLE ST",
+        "SUBURBS": "STANWELL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.378405,
               -16.589828
             ]
@@ -1022,5 +1111,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710048301.417216"
+  "extracted": "1710048901.579085"
 }
