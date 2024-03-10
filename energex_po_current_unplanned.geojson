@@ -640,9 +640,86 @@
         "STREETS": "HARDYS RD, MT OLIVE CT, RISING FAST RD",
         "SUBURBS": "MUDGEERABA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.868469,
+              -26.474037
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.866685,
+                  -26.473984
+                ],
+                [
+                  152.868906,
+                  -26.474747
+                ],
+                [
+                  152.868985,
+                  -26.474768
+                ],
+                [
+                  152.869977,
+                  -26.47495
+                ],
+                [
+                  152.870552,
+                  -26.474652
+                ],
+                [
+                  152.870296,
+                  -26.474101
+                ],
+                [
+                  152.869318,
+                  -26.473674
+                ],
+                [
+                  152.869224,
+                  -26.473643
+                ],
+                [
+                  152.866989,
+                  -26.473125
+                ],
+                [
+                  152.866386,
+                  -26.473425
+                ],
+                [
+                  152.866685,
+                  -26.473984
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747015-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "1:33PM 10 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 10 Mar 2024",
+        "STREETS": "CEYLON RD, OLD CEYLON RD",
+        "SUBURBS": "BELLI PARK, COOROY"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710041701.63562"
+  "extracted": "1710042001.245282"
 }
