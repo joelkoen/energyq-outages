@@ -447,8 +447,8 @@
           {
             "type": "Point",
             "coordinates": [
-              153.241329,
-              -27.820675
+              153.226707,
+              -27.828588
             ]
           },
           {
@@ -480,60 +480,28 @@
                   -27.850384
                 ],
                 [
-                  153.222614,
-                  -27.85041
+                  153.222781,
+                  -27.850185
                 ],
                 [
-                  153.244654,
-                  -27.834501
+                  153.236506,
+                  -27.808169
                 ],
                 [
-                  153.244717,
-                  -27.834447
+                  153.236373,
+                  -27.80772
                 ],
                 [
-                  153.265584,
-                  -27.813131
+                  153.23544,
+                  -27.806915
                 ],
                 [
-                  153.265708,
-                  -27.812841
+                  153.23502,
+                  -27.806791
                 ],
                 [
-                  153.265751,
-                  -27.810417
-                ],
-                [
-                  153.265572,
-                  -27.810067
-                ],
-                [
-                  153.240444,
-                  -27.791025
-                ],
-                [
-                  153.239956,
-                  -27.790939
-                ],
-                [
-                  153.237975,
-                  -27.791522
-                ],
-                [
-                  153.237877,
-                  -27.791561
-                ],
-                [
-                  153.229618,
-                  -27.795881
-                ],
-                [
-                  153.229414,
-                  -27.796081
-                ],
-                [
-                  153.222996,
-                  -27.808412
+                  153.22339,
+                  -27.808154
                 ],
                 [
                   153.222958,
@@ -563,12 +531,12 @@
       "properties": {
         "EVENT_ID": "INCD-746987-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "317",
+        "CUSTOMERS_AFFECTED": "51",
         "REASON": "Under Investigation",
         "STATUS": "Awaiting",
         "START": "11:50AM 10 Mar 2024",
         "EST_FIX_TIME": "2:30PM 10 Mar 2024",
-        "STREETS": "BARRENJOEY DR, BRIDLE CL, CLIFF BARRONS RD, COUNTRYVIEW ST, COUNTRYVIEW TCE, DALGLEISH RD, DRIFTWOOD CCT, ELM CL, HEREFORD CL, HERESFORD CRST, HERITAGE CT, HIDDEN CT, HIDEAWAY RD, HOLSTEIN CL, HOLSTEIN PL, HOMESTEAD CRES, MONTEGO HILLS DR, RED CEDAR CCT, SAWMILL CL, STAGE COACH DR, STOCKMAN ST, THE PLATEAU, THOMSONS RD, UPPER ORMEAU RD",
+        "STREETS": "BARRENJOEY DR, CLIFF BARRONS RD, DALGLEISH RD, HIDEAWAY RD, UPPER ORMEAU RD",
         "SUBURBS": "KINGSHOLME, ORMEAU, ORMEAU HILLS"
       }
     },
@@ -656,9 +624,94 @@
         "STREETS": "ALISTAIR CT, ASHTON ST, CAMENA ST, COWES ST, DUNCAN ST, EMITA ST, GLEN ST, HASTINGS TCE, MICHAEL ST",
         "SUBURBS": "MACLEAY ISLAND"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.359817,
+              -28.1044
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.356707,
+                  -28.103771
+                ],
+                [
+                  153.361959,
+                  -28.106919
+                ],
+                [
+                  153.362749,
+                  -28.106604
+                ],
+                [
+                  153.36305,
+                  -28.104597
+                ],
+                [
+                  153.362854,
+                  -28.104179
+                ],
+                [
+                  153.359529,
+                  -28.10193
+                ],
+                [
+                  153.359002,
+                  -28.101881
+                ],
+                [
+                  153.358295,
+                  -28.102177
+                ],
+                [
+                  153.358279,
+                  -28.102184
+                ],
+                [
+                  153.35692,
+                  -28.102805
+                ],
+                [
+                  153.356746,
+                  -28.102936
+                ],
+                [
+                  153.356585,
+                  -28.103127
+                ],
+                [
+                  153.356707,
+                  -28.103771
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747008-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "34",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "1:19PM 10 Mar 2024",
+        "EST_FIX_TIME": "4:30PM 10 Mar 2024",
+        "STREETS": "HARDYS RD, MT OLIVE CT, RISING FAST RD",
+        "SUBURBS": "MUDGEERABA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710040505.54476"
+  "extracted": "1710040800.606516"
 }
