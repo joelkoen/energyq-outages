@@ -510,7 +510,7 @@
         "REASON": "The loss of supply is due to fallen power lines.  ",
         "STATUS": "Crews working on-site",
         "START": "4:22AM 10 Mar 2024",
-        "EST_FIX_TIME": null,
+        "EST_FIX_TIME": "5:00PM 10 Mar 2024",
         "STREETS": "DAVIDSON RD, RANCH RD, SOUTH DAVIDSON RD",
         "SUBURBS": "EURAMO, MUNRO PLAINS, RIVERSDALE, TULLY"
       }
@@ -906,79 +906,6 @@
           {
             "type": "Point",
             "coordinates": [
-              148.598003,
-              -20.505241
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  148.588974,
-                  -20.512004
-                ],
-                [
-                  148.598217,
-                  -20.510391
-                ],
-                [
-                  148.598396,
-                  -20.510322
-                ],
-                [
-                  148.60735,
-                  -20.50467
-                ],
-                [
-                  148.607556,
-                  -20.504224
-                ],
-                [
-                  148.606628,
-                  -20.498762
-                ],
-                [
-                  148.605859,
-                  -20.498477
-                ],
-                [
-                  148.588591,
-                  -20.511204
-                ],
-                [
-                  148.588449,
-                  -20.511746
-                ],
-                [
-                  148.588974,
-                  -20.512004
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK2738",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "7",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
-        "START": "6:09PM 09 Mar 2024",
-        "EST_FIX_TIME": "2:44PM 10 Mar 2024",
-        "STREETS": "BRUCE HWY, GUNYARRA RD",
-        "SUBURBS": "ANDROMACHE, PROSERPINE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               148.756024,
               -21.099587
             ]
@@ -1204,5 +1131,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710046501.104148"
+  "extracted": "1710047101.04528"
 }
