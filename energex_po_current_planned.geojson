@@ -7,20 +7,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.994574,
-          -27.481431
+          153.040375,
+          -27.460239
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-730765-g",
+        "EVENT_ID": "INCD-737800-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
+        "CUSTOMERS_AFFECTED": "7",
         "REASON": "Planned Maintenance",
-        "STATUS": "Completed",
-        "START": "7:00AM 10 Mar 2024",
-        "EST_FIX_TIME": "2:00PM 10 Mar 2024",
-        "STREETS": "SYLVAN RD",
-        "SUBURBS": "TOOWONG"
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 11 Mar 2024",
+        "STREETS": "HARCOURT ST",
+        "SUBURBS": "NEW FARM"
       }
     },
     {
@@ -28,20 +28,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.427506,
-          -28.103828
+          153.083703,
+          -26.648765
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-738932-g",
+        "EVENT_ID": "INCD-737910-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "27",
+        "CUSTOMERS_AFFECTED": "347",
         "REASON": "Planned Maintenance",
-        "STATUS": "Completed",
-        "START": "8:30AM 10 Mar 2024",
-        "EST_FIX_TIME": "2:30PM 10 Mar 2024",
-        "STREETS": "DOVER DR, MATTHEW CL, PROSPER CRES",
-        "SUBURBS": "BURLEIGH HEADS"
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2024",
+        "STREETS": "ANN-MAREE ST, ANZAC AVE, BALL ST, BROADMEADOWS RD, GIBSON ST, HINLEY AVE, KATHERINE ST, KENEWIN AVE, KIRSTEN CT, NORMAN AVE, SWINBOURNE LANE",
+        "SUBURBS": "MAROOCHYDORE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.971867,
+          -27.30583
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-739250-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "32",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2024",
+        "STREETS": "MELALEUCA DR, TORELLIANA DR, ZINNIA ST",
+        "SUBURBS": "STRATHPINE"
       }
     },
     {
@@ -70,20 +91,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.057301,
-          -27.370038
+          153.023089,
+          -27.367238
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-739543-g",
+        "EVENT_ID": "INCD-740330-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "10",
+        "CUSTOMERS_AFFECTED": "43",
         "REASON": "Planned Maintenance",
-        "STATUS": "Completed",
-        "START": "7:30AM 10 Mar 2024",
-        "EST_FIX_TIME": "3:30PM 10 Mar 2024",
-        "STREETS": "BILSEN RD, ROBINSON RD, ROBINSON RD E",
-        "SUBURBS": "GEEBUNG, VIRGINIA"
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2024",
+        "EST_FIX_TIME": "3:30PM 11 Mar 2024",
+        "STREETS": "FERRIER ST, GOODCHAP ST, IBSEN ST, KROSHANNE ST, NEVIN ST",
+        "SUBURBS": "ASPLEY"
       }
     },
     {
@@ -91,20 +112,104 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.983152,
-          -27.569557
+          152.800501,
+          -27.615042
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-742501-g",
+        "EVENT_ID": "INCD-740639-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "18",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:30AM 11 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 11 Mar 2024",
+        "STREETS": "MILL ST, WEARNE ST",
+        "SUBURBS": "BOOVAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.227997,
+          -27.537154
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-740717-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "24",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2024",
+        "STREETS": "ALEXANDRA CCT, GARDEN ST, HANOVER DR",
+        "SUBURBS": "ALEXANDRA HILLS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.119157,
+          -26.812775
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-741227-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "174",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2024",
+        "STREETS": "BLAXLAND ST, BURKE ST, COOK ST, CORONATION AVE, EARNSHAW ST, ESPLANADE, GREGORY ST, HUME ST, PALMER AVE, TAYLOR AVE, WENTWORTH PDE, WILLS AVE",
+        "SUBURBS": "GOLDEN BEACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9336,
+          -27.289668
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-742521-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "111",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2024",
+        "STREETS": "ADAMS RD, EDITH CT, HAZLEMERE CT, JARVIS CT, LINDALE CT, SAMSONVALE RD, WHIP BIRD CT, WINN RD",
+        "SUBURBS": "CASHMERE, JOYNER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.857171,
+          -26.272015
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-742602-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "26",
         "REASON": "Planned Maintenance",
         "STATUS": "Cancelled",
-        "START": "6:30AM 10 Mar 2024",
-        "EST_FIX_TIME": "12:30PM 10 Mar 2024",
-        "STREETS": "BOUNDARY RD, FACTORY RD",
-        "SUBURBS": "OXLEY"
+        "START": "8:00AM 11 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2024",
+        "STREETS": "ARTHUR STUBBINS RD, PENDER CREEK RD, STRATTONS RD, UPPER PINBARREN CREEK RD, WESTERN BRANCH RD",
+        "SUBURBS": "KIN KIN, PINBARREN"
       }
     },
     {
@@ -112,20 +217,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.252643,
-          -27.726599
+          153.037554,
+          -27.902128
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-742575-g",
+        "EVENT_ID": "INCD-742603-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
+        "CUSTOMERS_AFFECTED": "6",
         "REASON": "Planned Maintenance",
-        "STATUS": "Completed",
-        "START": "7:00AM 10 Mar 2024",
-        "EST_FIX_TIME": "2:30PM 10 Mar 2024",
-        "STREETS": "STAPYLTON JACOBS WELL RD",
-        "SUBURBS": "STAPYLTON"
+        "STATUS": "Cancelled",
+        "START": "8:00AM 11 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2024",
+        "STREETS": "BARNES RD, TREWIN RD N",
+        "SUBURBS": "CEDAR VALE, MUNDOOLUN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.402617,
+          -27.641842
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-743573-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2024",
+        "EST_FIX_TIME": "3:30PM 11 Mar 2024",
+        "STREETS": "COATES ST, LEONARD ST",
+        "SUBURBS": "LAIDLEY"
       }
     },
     {
@@ -175,87 +301,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.095719,
-          -26.672307
+          153.194572,
+          -27.94467
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-743666-g",
+        "EVENT_ID": "INCD-744623-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "7",
+        "CUSTOMERS_AFFECTED": "12",
         "REASON": "Planned Maintenance",
-        "STATUS": "Completed",
-        "START": "8:00AM 10 Mar 2024",
-        "EST_FIX_TIME": "3:00PM 10 Mar 2024",
-        "STREETS": "SUGAR RD",
-        "SUBURBS": "ALEXANDRA HEADLAND, MAROOCHYDORE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.983152,
-          -27.569557
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-744121-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "16",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Completed",
-        "START": "6:30AM 10 Mar 2024",
-        "EST_FIX_TIME": "1:30PM 10 Mar 2024",
-        "STREETS": "BOUNDARY RD, FACTORY RD",
-        "SUBURBS": "OXLEY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.012636,
-          -27.43558
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-744594-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "9",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Completed",
-        "START": "8:00AM 10 Mar 2024",
-        "EST_FIX_TIME": "3:00PM 10 Mar 2024",
-        "STREETS": "NEWMARKET RD",
-        "SUBURBS": "NEWMARKET"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.061162,
-          -27.353299
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-745993-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "95",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Completed",
-        "START": "8:00AM 10 Mar 2024",
-        "EST_FIX_TIME": "3:30PM 10 Mar 2024",
-        "STREETS": "BEAMS RD, LEESON ST, LYNDHURST RD, SANDGATE RD, STANWORTH RD",
-        "SUBURBS": "BOONDALL"
+        "STATUS": "Cancelled",
+        "START": "8:00AM 11 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2024",
+        "STREETS": "CLIFF RD, ESME ST, LICUALA DR",
+        "SUBURBS": "TAMBORINE MOUNTAIN"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710078901.025722"
+  "extracted": "1710079206.457892"
 }
