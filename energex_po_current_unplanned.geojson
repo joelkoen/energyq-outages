@@ -175,9 +175,98 @@
         "STREETS": "CARSELDINE ST, HILLSIDE CRES",
         "SUBURBS": "KILCOY, SHEEP STATION CREEK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.486695,
+              -28.130888
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.486104,
+                  -28.130877
+                ],
+                [
+                  153.486113,
+                  -28.131274
+                ],
+                [
+                  153.486877,
+                  -28.131656
+                ],
+                [
+                  153.487016,
+                  -28.131584
+                ],
+                [
+                  153.48727,
+                  -28.131216
+                ],
+                [
+                  153.487285,
+                  -28.130931
+                ],
+                [
+                  153.487268,
+                  -28.130791
+                ],
+                [
+                  153.487198,
+                  -28.130562
+                ],
+                [
+                  153.48714,
+                  -28.130443
+                ],
+                [
+                  153.487053,
+                  -28.130318
+                ],
+                [
+                  153.486485,
+                  -28.13012
+                ],
+                [
+                  153.486111,
+                  -28.130547
+                ],
+                [
+                  153.486104,
+                  -28.13086
+                ],
+                [
+                  153.486104,
+                  -28.130877
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747133-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "6:12AM 11 Mar 2024",
+        "EST_FIX_TIME": "9:00AM 11 Mar 2024",
+        "STREETS": "BARKER ST",
+        "SUBURBS": "CURRUMBIN"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710101401.446304"
+  "extracted": "1710102001.474742"
 }
