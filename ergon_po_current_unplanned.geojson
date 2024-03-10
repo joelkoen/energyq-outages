@@ -220,9 +220,110 @@
         "STREETS": "BEACH RD, CORAL ESP, HERRING LANE, PALM DR, PLEASANT DR",
         "SUBURBS": "CANNONVALE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.634434,
+              -21.100092
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.627892,
+                  -21.086533
+                ],
+                [
+                  148.629167,
+                  -21.116056
+                ],
+                [
+                  148.629313,
+                  -21.116362
+                ],
+                [
+                  148.637827,
+                  -21.124111
+                ],
+                [
+                  148.638631,
+                  -21.123888
+                ],
+                [
+                  148.640965,
+                  -21.114334
+                ],
+                [
+                  148.640976,
+                  -21.114214
+                ],
+                [
+                  148.639635,
+                  -21.084406
+                ],
+                [
+                  148.639634,
+                  -21.084392
+                ],
+                [
+                  148.639185,
+                  -21.078735
+                ],
+                [
+                  148.639056,
+                  -21.07846
+                ],
+                [
+                  148.636801,
+                  -21.076201
+                ],
+                [
+                  148.636327,
+                  -21.076073
+                ],
+                [
+                  148.633896,
+                  -21.076675
+                ],
+                [
+                  148.633599,
+                  -21.07689
+                ],
+                [
+                  148.627953,
+                  -21.086293
+                ],
+                [
+                  148.627892,
+                  -21.086533
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2749",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "53",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "9:30PM 10 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CAPPER ST, GORGE RD, JOHNSTONS RD, THURGOODS RD, VAN HOUWENINGE RD",
+        "SUBURBS": "FINCH HATTON, FINCH HATTON GORGE, GAYNDAH"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710070208.314314"
+  "extracted": "1710070501.17551"
 }
