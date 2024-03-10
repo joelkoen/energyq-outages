@@ -63,6 +63,91 @@
           {
             "type": "Point",
             "coordinates": [
+              145.352741,
+              -16.457875
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.346123,
+                  -16.447005
+                ],
+                [
+                  145.346271,
+                  -16.461173
+                ],
+                [
+                  145.346272,
+                  -16.461202
+                ],
+                [
+                  145.34685,
+                  -16.46871
+                ],
+                [
+                  145.347488,
+                  -16.469096
+                ],
+                [
+                  145.355589,
+                  -16.466016
+                ],
+                [
+                  145.355795,
+                  -16.465862
+                ],
+                [
+                  145.35936,
+                  -16.461157
+                ],
+                [
+                  145.359354,
+                  -16.460616
+                ],
+                [
+                  145.350833,
+                  -16.449849
+                ],
+                [
+                  145.350761,
+                  -16.449776
+                ],
+                [
+                  145.346891,
+                  -16.446654
+                ],
+                [
+                  145.346123,
+                  -16.447005
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3945",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "22",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
+        "STATUS": "Outage reported",
+        "START": "6:26AM 11 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "FINLAYVALE RD, GORGE RD, SANTACATTERINA RD",
+        "SUBURBS": "FINLAYVALE, MOSSMAN GORGE, NORTH MOSSMAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -337,5 +422,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710104101.725629"
+  "extracted": "1710104701.439935"
 }
