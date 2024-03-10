@@ -63,79 +63,6 @@
           {
             "type": "Point",
             "coordinates": [
-              151.616437,
-              -24.402095
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.608799,
-                  -24.412153
-                ],
-                [
-                  151.624906,
-                  -24.397932
-                ],
-                [
-                  151.62478,
-                  -24.397203
-                ],
-                [
-                  151.613005,
-                  -24.391956
-                ],
-                [
-                  151.612509,
-                  -24.39199
-                ],
-                [
-                  151.609994,
-                  -24.393587
-                ],
-                [
-                  151.609784,
-                  -24.393915
-                ],
-                [
-                  151.607968,
-                  -24.411787
-                ],
-                [
-                  151.608245,
-                  -24.412235
-                ],
-                [
-                  151.608799,
-                  -24.412153
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA4280",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "5",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
-        "START": "1:22AM 10 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "LOWMEAD RD, WARD'S RD",
-        "SUBURBS": "MIRIAM VALE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               150.36344,
               -23.734075
             ]
@@ -182,7 +109,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "8:28AM 10 Mar 2024",
         "EST_FIX_TIME": null,
         "STREETS": "BURNETT HWY",
@@ -701,5 +628,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710029101.247377"
+  "extracted": "1710029401.619487"
 }
