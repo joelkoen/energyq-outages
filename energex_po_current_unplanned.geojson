@@ -309,7 +309,7 @@
         "REASON": "Under Investigation",
         "STATUS": "In Progress",
         "START": "11:33AM 10 Mar 2024",
-        "EST_FIX_TIME": "1:30PM 10 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 10 Mar 2024",
         "STREETS": "FIG TREE LANE, HAVEN RD",
         "SUBURBS": "UPPER BROOKFIELD"
       }
@@ -571,9 +571,94 @@
         "STREETS": "BARRENJOEY DR, BRIDLE CL, CLIFF BARRONS RD, COUNTRYVIEW ST, COUNTRYVIEW TCE, DALGLEISH RD, DRIFTWOOD CCT, ELM CL, HEREFORD CL, HERESFORD CRST, HERITAGE CT, HIDDEN CT, HIDEAWAY RD, HOLSTEIN CL, HOLSTEIN PL, HOMESTEAD CRES, MONTEGO HILLS DR, RED CEDAR CCT, SAWMILL CL, STAGE COACH DR, STOCKMAN ST, THE PLATEAU, THOMSONS RD, UPPER ORMEAU RD",
         "SUBURBS": "KINGSHOLME, ORMEAU, ORMEAU HILLS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.3677,
+              -27.625375
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.365526,
+                  -27.626238
+                ],
+                [
+                  153.366619,
+                  -27.627133
+                ],
+                [
+                  153.366797,
+                  -27.627228
+                ],
+                [
+                  153.368479,
+                  -27.627744
+                ],
+                [
+                  153.369023,
+                  -27.627617
+                ],
+                [
+                  153.369906,
+                  -27.626733
+                ],
+                [
+                  153.37003,
+                  -27.626377
+                ],
+                [
+                  153.369609,
+                  -27.6234
+                ],
+                [
+                  153.369076,
+                  -27.623006
+                ],
+                [
+                  153.36629,
+                  -27.623153
+                ],
+                [
+                  153.365821,
+                  -27.623526
+                ],
+                [
+                  153.36537,
+                  -27.625828
+                ],
+                [
+                  153.365526,
+                  -27.626238
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-746999-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "84",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "12:51PM 10 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 10 Mar 2024",
+        "STREETS": "ALISTAIR CT, ASHTON ST, CAMENA ST, COWES ST, DUNCAN ST, EMITA ST, GLEN ST, HASTINGS TCE, MICHAEL ST",
+        "SUBURBS": "MACLEAY ISLAND"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710039605.770445"
+  "extracted": "1710039901.332293"
 }
