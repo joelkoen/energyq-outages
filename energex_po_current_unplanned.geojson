@@ -308,9 +308,187 @@
         "STREETS": "ALGONA ST, BALOO ST, ESTATE PL, MESSINES RIDGE RD",
         "SUBURBS": "HOLLAND PARK WEST"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.005717,
+              -27.540572
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.004168,
+                  -27.541041
+                ],
+                [
+                  153.005966,
+                  -27.541748
+                ],
+                [
+                  153.00601,
+                  -27.541764
+                ],
+                [
+                  153.006717,
+                  -27.541974
+                ],
+                [
+                  153.007369,
+                  -27.541438
+                ],
+                [
+                  153.006822,
+                  -27.539451
+                ],
+                [
+                  153.006073,
+                  -27.53917
+                ],
+                [
+                  153.0044,
+                  -27.540046
+                ],
+                [
+                  153.00435,
+                  -27.540076
+                ],
+                [
+                  153.004065,
+                  -27.540269
+                ],
+                [
+                  153.004168,
+                  -27.541041
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747084-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "24",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:21PM 10 Mar 2024",
+        "EST_FIX_TIME": "9:30PM 10 Mar 2024",
+        "STREETS": "CARISBROOK ST, GOLF LINKS RD, MEDWAY ST, SHERWOOD RD",
+        "SUBURBS": "ROCKLEA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.357154,
+              -27.606471
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.355062,
+                  -27.604979
+                ],
+                [
+                  153.355581,
+                  -27.608237
+                ],
+                [
+                  153.356121,
+                  -27.608623
+                ],
+                [
+                  153.357427,
+                  -27.608535
+                ],
+                [
+                  153.357616,
+                  -27.608488
+                ],
+                [
+                  153.358854,
+                  -27.607935
+                ],
+                [
+                  153.359133,
+                  -27.607553
+                ],
+                [
+                  153.359246,
+                  -27.605376
+                ],
+                [
+                  153.359245,
+                  -27.605317
+                ],
+                [
+                  153.359231,
+                  -27.605167
+                ],
+                [
+                  153.358816,
+                  -27.60476
+                ],
+                [
+                  153.356349,
+                  -27.604365
+                ],
+                [
+                  153.356303,
+                  -27.604359
+                ],
+                [
+                  153.355791,
+                  -27.604319
+                ],
+                [
+                  153.355409,
+                  -27.604433
+                ],
+                [
+                  153.355225,
+                  -27.604579
+                ],
+                [
+                  153.355062,
+                  -27.604979
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747085-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "40",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "6:21PM 10 Mar 2024",
+        "EST_FIX_TIME": "9:00PM 10 Mar 2024",
+        "STREETS": "ACACIA CT, CABRIOLET CRES, KILTO LANE, NOONDOO ST, NUNKERI DR, ORE ST, WANDOO AVE, WEEROONA AVE",
+        "SUBURBS": "MACLEAY ISLAND"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710058801.545885"
+  "extracted": "1710059101.086501"
 }
