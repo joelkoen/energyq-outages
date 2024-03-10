@@ -664,9 +664,134 @@
         "STREETS": "BRUCE HWY, GUNYARRA RD",
         "SUBURBS": "ANDROMACHE, PROSERPINE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.816168,
+              -21.111529
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.74988,
+                  -21.104686
+                ],
+                [
+                  148.751875,
+                  -21.115441
+                ],
+                [
+                  148.752006,
+                  -21.11568
+                ],
+                [
+                  148.75267,
+                  -21.116315
+                ],
+                [
+                  148.75283,
+                  -21.116415
+                ],
+                [
+                  148.847881,
+                  -21.15323
+                ],
+                [
+                  148.848267,
+                  -21.153223
+                ],
+                [
+                  148.859959,
+                  -21.148151
+                ],
+                [
+                  148.860101,
+                  -21.148057
+                ],
+                [
+                  148.866131,
+                  -21.142267
+                ],
+                [
+                  148.866162,
+                  -21.142233
+                ],
+                [
+                  148.882403,
+                  -21.123205
+                ],
+                [
+                  148.882456,
+                  -21.122716
+                ],
+                [
+                  148.880178,
+                  -21.118553
+                ],
+                [
+                  148.880153,
+                  -21.118513
+                ],
+                [
+                  148.849477,
+                  -21.074396
+                ],
+                [
+                  148.849137,
+                  -21.074195
+                ],
+                [
+                  148.813864,
+                  -21.069827
+                ],
+                [
+                  148.813678,
+                  -21.069838
+                ],
+                [
+                  148.761564,
+                  -21.082747
+                ],
+                [
+                  148.761256,
+                  -21.082983
+                ],
+                [
+                  148.749923,
+                  -21.104407
+                ],
+                [
+                  148.74988,
+                  -21.104686
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2742",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "261",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
+        "STATUS": "Outage reported",
+        "START": "10:46AM 10 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOURKES RD, BRADSHAWS RD, COYNES RD, DEVEREUX CREEK RD, DOWS CREEK RD, GAKOWSKIS RD, GARNHAM MORROWS RD, GEEBERGA BUTHURRA RD, JENNERS RD, LANGDON LUMBURRA RD, MCFAULS RD, MCGREGOR CREEK RD, MCGREGORS RD, MIRANI MOUNT OSSA RD, MORRIS RD, MOUNT MARTIN GAP RD, MOUNT MARTIN LOOP RD, MOUNT MARTIN RD, MOUNT OSSA RD, MOUNT TOBY RD, SAMS RD, SUGARLOAF RD, THOMAS RD, WOODS RD",
+        "SUBURBS": "DEVEREUX CREEK, DOWS CREEK, KUNGURRI, KUTTABUL, MIRANI, MOUNT MARTIN, MOUNT OSSA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710031801.264666"
+  "extracted": "1710032102.597879"
 }
