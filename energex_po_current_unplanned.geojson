@@ -82,9 +82,110 @@
         "STREETS": "AGNES ST, BURRAI ST, THYNNE RD, WYNNUM RD",
         "SUBURBS": "MORNINGSIDE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.183185,
+              -27.919063
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.181383,
+                  -27.917323
+                ],
+                [
+                  153.18176,
+                  -27.918132
+                ],
+                [
+                  153.181761,
+                  -27.918134
+                ],
+                [
+                  153.182193,
+                  -27.919051
+                ],
+                [
+                  153.182219,
+                  -27.919098
+                ],
+                [
+                  153.182976,
+                  -27.92029
+                ],
+                [
+                  153.183007,
+                  -27.920333
+                ],
+                [
+                  153.183125,
+                  -27.920478
+                ],
+                [
+                  153.183196,
+                  -27.920548
+                ],
+                [
+                  153.184163,
+                  -27.921326
+                ],
+                [
+                  153.184782,
+                  -27.92137
+                ],
+                [
+                  153.184987,
+                  -27.92085
+                ],
+                [
+                  153.1846,
+                  -27.919815
+                ],
+                [
+                  153.184531,
+                  -27.919695
+                ],
+                [
+                  153.182265,
+                  -27.916887
+                ],
+                [
+                  153.181605,
+                  -27.916756
+                ],
+                [
+                  153.181383,
+                  -27.917323
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747101-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "9:12PM 10 Mar 2024",
+        "EST_FIX_TIME": "10:30PM 10 Mar 2024",
+        "STREETS": "KNOLL RD",
+        "SUBURBS": "TAMBORINE MOUNTAIN"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710069601.186347"
+  "extracted": "1710069901.482518"
 }
