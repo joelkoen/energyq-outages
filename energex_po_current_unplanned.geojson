@@ -94,9 +94,78 @@
         "STREETS": "FOREST OAK CT, TANAWHA RD, TANAWHA TOURIST DR",
         "SUBURBS": "TANAWHA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.030986,
+              -26.701713
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.028392,
+                  -26.699716
+                ],
+                [
+                  153.028644,
+                  -26.704077
+                ],
+                [
+                  153.029159,
+                  -26.704505
+                ],
+                [
+                  153.033112,
+                  -26.704413
+                ],
+                [
+                  153.03358,
+                  -26.703831
+                ],
+                [
+                  153.032029,
+                  -26.699236
+                ],
+                [
+                  153.03148,
+                  -26.69892
+                ],
+                [
+                  153.028826,
+                  -26.699245
+                ],
+                [
+                  153.028392,
+                  -26.699716
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747473-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "5:05AM 12 Mar 2024",
+        "EST_FIX_TIME": "7:30AM 12 Mar 2024",
+        "STREETS": "GLEN RD, GLENMOUNT RD, SERENE CL, TOPVIEW DR",
+        "SUBURBS": "MONS, TANAWHA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710183900.371273"
+  "extracted": "1710184201.445727"
 }
