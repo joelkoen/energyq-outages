@@ -462,9 +462,142 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.943631,
+              -28.746272
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.876211,
+                  -28.790924
+                ],
+                [
+                  151.87901,
+                  -28.799786
+                ],
+                [
+                  151.879095,
+                  -28.799937
+                ],
+                [
+                  151.883378,
+                  -28.804929
+                ],
+                [
+                  151.883428,
+                  -28.804979
+                ],
+                [
+                  151.889233,
+                  -28.809994
+                ],
+                [
+                  151.889602,
+                  -28.810123
+                ],
+                [
+                  151.999234,
+                  -28.807973
+                ],
+                [
+                  151.999726,
+                  -28.807602
+                ],
+                [
+                  152.002693,
+                  -28.792804
+                ],
+                [
+                  152.002693,
+                  -28.792803
+                ],
+                [
+                  152.011053,
+                  -28.750461
+                ],
+                [
+                  152.010898,
+                  -28.750055
+                ],
+                [
+                  151.929966,
+                  -28.683632
+                ],
+                [
+                  151.929741,
+                  -28.683525
+                ],
+                [
+                  151.925801,
+                  -28.682662
+                ],
+                [
+                  151.925794,
+                  -28.682661
+                ],
+                [
+                  151.924641,
+                  -28.682421
+                ],
+                [
+                  151.924338,
+                  -28.68244
+                ],
+                [
+                  151.912665,
+                  -28.686472
+                ],
+                [
+                  151.91238,
+                  -28.686717
+                ],
+                [
+                  151.899735,
+                  -28.713337
+                ],
+                [
+                  151.899712,
+                  -28.713394
+                ],
+                [
+                  151.876209,
+                  -28.790687
+                ],
+                [
+                  151.876211,
+                  -28.790924
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6131",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "232",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:12AM 11 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARMSTRONG LANE, BACK CREEK RD, BELFORD RD, BEVERLEY RD, BREENS RD, CARNELL RD, CAVALLARO LANE, DEUTSCHER RD, EUKEY RD, HAWKES LANE, KNIBB RD, KRATZMAN LANE, KURRAWA CRES, LAWER LANE, MARINIS RD, MOUNT TULLY RD, PARRISH LANE, PENWARN RD, PERKINS LANE, PYRAMIDS RD, RENE RD, SAVINA LANE, SEELEY LANE, THEA LANE, WATTERS RD, WEILAND RD, WHISKEY GULLY RD, WIELAND RD",
+        "SUBURBS": "BALLANDEAN, EUKEY, GLEN APLIN, GLENVALE, MOUNT TULLY, SEVERNLEA, STANTHORPE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710116105.546859"
+  "extracted": "1710116401.310168"
 }
