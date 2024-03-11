@@ -163,9 +163,70 @@
         "STREETS": "LAKE MACDONALD DR",
         "SUBURBS": "COOROY, LAKE MACDONALD"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.976472,
+              -27.149272
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.977644,
+                  -27.150316
+                ],
+                [
+                  152.976196,
+                  -27.147813
+                ],
+                [
+                  152.975516,
+                  -27.147619
+                ],
+                [
+                  152.975299,
+                  -27.148228
+                ],
+                [
+                  152.976747,
+                  -27.150731
+                ],
+                [
+                  152.977428,
+                  -27.150924
+                ],
+                [
+                  152.977644,
+                  -27.150316
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747454-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "10:26PM 11 Mar 2024",
+        "EST_FIX_TIME": "1:00AM 12 Mar 2024",
+        "STREETS": "MORAYFIELD RD",
+        "SUBURBS": "BURPENGARY"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710159901.114268"
+  "extracted": "1710160205.993471"
 }
