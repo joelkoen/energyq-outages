@@ -63,6 +63,99 @@
           {
             "type": "Point",
             "coordinates": [
+              149.661684,
+              -22.62955
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.655219,
+                  -22.64334
+                ],
+                [
+                  149.668147,
+                  -22.643608
+                ],
+                [
+                  149.668624,
+                  -22.643029
+                ],
+                [
+                  149.661316,
+                  -22.620149
+                ],
+                [
+                  149.661258,
+                  -22.620031
+                ],
+                [
+                  149.659038,
+                  -22.61686
+                ],
+                [
+                  149.658896,
+                  -22.616728
+                ],
+                [
+                  149.657209,
+                  -22.615705
+                ],
+                [
+                  149.657148,
+                  -22.615674
+                ],
+                [
+                  149.65673,
+                  -22.615492
+                ],
+                [
+                  149.656039,
+                  -22.615867
+                ],
+                [
+                  149.65585,
+                  -22.618191
+                ],
+                [
+                  149.655849,
+                  -22.618206
+                ],
+                [
+                  149.654744,
+                  -22.64287
+                ],
+                [
+                  149.655219,
+                  -22.64334
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4344",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "46",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:49PM 11 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BELAR ST, BRIGALOW ST, CARBON ST, CHARON ST, DEMPSEY ST, LINK LANE, MONTROSE ST, OFF MONTROSE ST, OGMORE KOOLTANDRA RD, OGMORE RD, WILANGI ST",
+        "SUBURBS": "OGMORE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -127,5 +220,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710187801.115527"
+  "extracted": "1710188401.493353"
 }
