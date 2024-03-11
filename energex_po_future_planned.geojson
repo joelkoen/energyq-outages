@@ -289,7 +289,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "5",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "8:00AM 12 Mar 2024",
         "EST_FIX_TIME": "3:30PM 12 Mar 2024",
         "STREETS": "CENTRAL ST, OLSEN AVE",
@@ -436,7 +436,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "24",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "8:00AM 12 Mar 2024",
         "EST_FIX_TIME": "3:30PM 12 Mar 2024",
         "STREETS": "BRUSHWOOD CRES, CEDAR GROVE RD, DELTORO RD, TAMARIND PL",
@@ -646,7 +646,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "20",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "8:00AM 12 Mar 2024",
         "EST_FIX_TIME": "1:00PM 12 Mar 2024",
         "STREETS": "COUNTRY VIEW DR",
@@ -709,7 +709,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "4",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "8:00AM 12 Mar 2024",
         "EST_FIX_TIME": "4:00PM 12 Mar 2024",
         "STREETS": "SANNO RD",
@@ -793,7 +793,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "8:00AM 12 Mar 2024",
         "EST_FIX_TIME": "3:00PM 12 Mar 2024",
         "STREETS": "BLANCHVIEW RD",
@@ -1003,7 +1003,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "8:00AM 12 Mar 2024",
         "EST_FIX_TIME": "3:00PM 12 Mar 2024",
         "STREETS": "CALLAGHAN WAY",
@@ -1087,7 +1087,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "19",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "8:00AM 12 Mar 2024",
         "EST_FIX_TIME": "3:00PM 12 Mar 2024",
         "STREETS": "EWING ST, MULLER RD",
@@ -1171,7 +1171,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "9",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "8:00AM 12 Mar 2024",
         "EST_FIX_TIME": "3:30PM 12 Mar 2024",
         "STREETS": "BRACKEN FERN RD, WAPPA FALLS RD",
@@ -1192,7 +1192,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "18",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "8:00AM 12 Mar 2024",
         "EST_FIX_TIME": "12:30PM 12 Mar 2024",
         "STREETS": "WAPPA FALLS RD",
@@ -1339,7 +1339,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "6",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "7:30AM 12 Mar 2024",
         "EST_FIX_TIME": "2:30PM 12 Mar 2024",
         "STREETS": "BALLANDEAN ST",
@@ -1423,7 +1423,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "8",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "8:00AM 12 Mar 2024",
         "EST_FIX_TIME": "3:00PM 12 Mar 2024",
         "STREETS": "BISHOP RD",
@@ -1498,27 +1498,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.095595,
-          -27.430824
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-742584-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
-        "START": "7:00AM 16 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 17 Mar 2024",
-        "STREETS": "FRENCH ST",
-        "SUBURBS": "EAGLE FARM"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.095391,
           -27.430995
         ]
@@ -1531,6 +1510,27 @@
         "STATUS": "Scheduled",
         "START": "7:00AM 16 Mar 2024",
         "EST_FIX_TIME": "4:00PM 16 Mar 2024",
+        "STREETS": "FRENCH ST",
+        "SUBURBS": "EAGLE FARM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.095595,
+          -27.430824
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-742584-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "7:00AM 16 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 17 Mar 2024",
         "STREETS": "FRENCH ST",
         "SUBURBS": "EAGLE FARM"
       }
@@ -2116,7 +2116,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "23",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "8:00AM 12 Mar 2024",
         "EST_FIX_TIME": "2:00PM 12 Mar 2024",
         "STREETS": "FRODO CT, ROHAN RISE",
@@ -2777,5 +2777,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1710190501.501703"
+  "extracted": "1710191101.200623"
 }
