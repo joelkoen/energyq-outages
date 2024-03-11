@@ -546,9 +546,126 @@
         "STREETS": "LAWER LANE, MOUNT TULLY RD",
         "SUBURBS": "EUKEY, MOUNT TULLY, STANTHORPE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.563278,
+              -25.327395
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.52361,
+                  -25.296071
+                ],
+                [
+                  152.533385,
+                  -25.360339
+                ],
+                [
+                  152.533477,
+                  -25.360545
+                ],
+                [
+                  152.54358,
+                  -25.372919
+                ],
+                [
+                  152.544092,
+                  -25.373089
+                ],
+                [
+                  152.592871,
+                  -25.362603
+                ],
+                [
+                  152.59301,
+                  -25.362552
+                ],
+                [
+                  152.596497,
+                  -25.360667
+                ],
+                [
+                  152.596619,
+                  -25.360574
+                ],
+                [
+                  152.59789,
+                  -25.359238
+                ],
+                [
+                  152.597906,
+                  -25.35922
+                ],
+                [
+                  152.599161,
+                  -25.357752
+                ],
+                [
+                  152.599194,
+                  -25.357709
+                ],
+                [
+                  152.602875,
+                  -25.352178
+                ],
+                [
+                  152.602946,
+                  -25.351934
+                ],
+                [
+                  152.602695,
+                  -25.34255
+                ],
+                [
+                  152.602624,
+                  -25.342327
+                ],
+                [
+                  152.562254,
+                  -25.281884
+                ],
+                [
+                  152.561645,
+                  -25.281701
+                ],
+                [
+                  152.523915,
+                  -25.295593
+                ],
+                [
+                  152.52361,
+                  -25.296071
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB3979",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1173",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:05PM 11 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AGNES ST, ALICE ST, ANNIE ST, ARTHUR ST, BAILEY ST, BEAUFORT ST, BELLEVUE ST, BLYTHE ST, BRANCH ST, BRENDA CT, BRUCE HWY, BURGOWAN RD, BURGOWAN ST, BURRUM RIVER RD, BURRUM ST, CASE RD, CHARLES ST, COAL ST, CRAWFORD ST, CREEK ST, DALKEITH ST, DIAMANTINA DR, DUCKINWILLA RD, EAST ST, EDITH ST, EGLINGTON ST, GEORGE ST, GLADSTONE ST, GOVERNMENT RD, GYMPIE ST, HARTLEY ST, HENRY ST, HOWARD HEIGHTS RD, HUNTER ST, HURLEY ST, JAMES ST, JOYNSONS RD, KENT PDE, KENT ST, KING ST, LOWER THOMAS ST, MADDERS RD, MARIA ST, MARTHA ST, MARY ST, MELINDA RD, NEWCASTLE ST, NOLANS RD, OLD BRUCE HWY, OLD COACH RD, PACIFIC HAVEN CCT, PACIFIC HAVEN DR, PHILIP ST, PIALBA RD, POWER HOUSE RD, PRAWLE ST, PROSPER ST, QUEEN ST, RITCHIE RD, RIVER RD, ROBERT ST, ROBERTS RD N, ROBERTS RD S, ROBERTSON ST, SLAUGHTERHOUSE RD, SOUTH UNION ST, SPRING ST, STELEY ST, TAMBAROORA ST, THOMAS ST, TODD ST, TOP END MINES RD, TORBANLEA PIALBA RD, TORBANLEA RD, TREMLIN DR, UNION ST, WALLSEND ST, WARD LANE, WATKINS ST, WHITBY ST, WHITE ST, WHITLEY ST, WILLIAM ST, WOODROW ST",
+        "SUBURBS": "BURGOWAN, BURRUM, BURRUM TOWN, HOWARD, PACIFIC HAVEN, TORBANLEA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710133800.480393"
+  "extracted": "1710134106.489"
 }
