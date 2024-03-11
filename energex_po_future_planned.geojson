@@ -142,7 +142,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "8",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "9:00AM 12 Mar 2024",
         "EST_FIX_TIME": "3:00PM 12 Mar 2024",
         "STREETS": "ALTER CT, BAYMILL CT, HIGHFIELD DR, TERRACE CT",
@@ -730,7 +730,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "8:30AM 12 Mar 2024",
         "EST_FIX_TIME": "3:00PM 12 Mar 2024",
         "STREETS": "DELAVAN ST",
@@ -1498,27 +1498,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.095391,
-          -27.430995
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-742584-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
-        "START": "7:00AM 16 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 16 Mar 2024",
-        "STREETS": "FRENCH ST",
-        "SUBURBS": "EAGLE FARM"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.095595,
           -27.430824
         ]
@@ -1531,6 +1510,27 @@
         "STATUS": "Scheduled",
         "START": "7:00AM 16 Mar 2024",
         "EST_FIX_TIME": "4:00PM 17 Mar 2024",
+        "STREETS": "FRENCH ST",
+        "SUBURBS": "EAGLE FARM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.095391,
+          -27.430995
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-742584-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "7:00AM 16 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 16 Mar 2024",
         "STREETS": "FRENCH ST",
         "SUBURBS": "EAGLE FARM"
       }
@@ -2777,5 +2777,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1710194101.559545"
+  "extracted": "1710194701.012744"
 }
