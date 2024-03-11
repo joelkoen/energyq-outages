@@ -163,9 +163,126 @@
         "STREETS": "GLEN RD, GLENMOUNT RD, SERENE CL, TOPVIEW DR",
         "SUBURBS": "MONS, TANAWHA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.823609,
+              -26.89737
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.770365,
+                  -26.889496
+                ],
+                [
+                  152.771352,
+                  -26.899546
+                ],
+                [
+                  152.771353,
+                  -26.899559
+                ],
+                [
+                  152.771948,
+                  -26.90415
+                ],
+                [
+                  152.77196,
+                  -26.904209
+                ],
+                [
+                  152.788498,
+                  -26.962698
+                ],
+                [
+                  152.789227,
+                  -26.962983
+                ],
+                [
+                  152.796326,
+                  -26.95952
+                ],
+                [
+                  152.79651,
+                  -26.959366
+                ],
+                [
+                  152.876853,
+                  -26.846389
+                ],
+                [
+                  152.876778,
+                  -26.845822
+                ],
+                [
+                  152.874515,
+                  -26.843862
+                ],
+                [
+                  152.874285,
+                  -26.843748
+                ],
+                [
+                  152.820108,
+                  -26.831769
+                ],
+                [
+                  152.819962,
+                  -26.831756
+                ],
+                [
+                  152.780237,
+                  -26.833499
+                ],
+                [
+                  152.779764,
+                  -26.833882
+                ],
+                [
+                  152.770692,
+                  -26.887462
+                ],
+                [
+                  152.770692,
+                  -26.887463
+                ],
+                [
+                  152.770369,
+                  -26.889389
+                ],
+                [
+                  152.770365,
+                  -26.889496
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747475-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "319",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:12AM 12 Mar 2024",
+        "EST_FIX_TIME": "8:00AM 12 Mar 2024",
+        "STREETS": "ARDWICK CT, BELLTHORPE RANGE RD, BURKE RD, CEDARTON DR, COMMISSIONERS FLAT RD, COVE RD, DOYLE RD, DUNNING LANE, FERRIS LANE, HILL RD, KILCOY-BEERWAH RD, LANGER ST, MALENY-STANLEY RIVER RD, MCCABE RD, NICKLAUS ST, NONMUS RD, PEACHESTER RD, PHILLIPS RD, RESERVE LANE, UNWIN RD, VIERITZ RD, WRIGHT RD",
+        "SUBURBS": "BOOROOBIN, CEDARTON, COMMISSIONERS FLAT, PEACHESTER, STANMORE, WOODFORD"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710184201.445727"
+  "extracted": "1710184801.69597"
 }
