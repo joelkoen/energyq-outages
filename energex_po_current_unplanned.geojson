@@ -269,16 +269,117 @@
         "EVENT_ID": "INCD-747248-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "80",
-        "REASON": "Emergency Repairs",
+        "REASON": "Damage due to severe weather",
         "STATUS": "Awaiting",
         "START": "12:03PM 11 Mar 2024",
         "EST_FIX_TIME": "2:30PM 11 Mar 2024",
         "STREETS": "DONNYBROOK RD, MELDALE RD, OLD TOORBUL POINT RD, PUMICESTONE RD",
         "SUBURBS": "CABOOLTURE, DONNYBROOK, MELDALE, TOORBUL"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.88128,
+              -26.412611
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.878964,
+                  -26.41383
+                ],
+                [
+                  152.880564,
+                  -26.414494
+                ],
+                [
+                  152.880636,
+                  -26.414518
+                ],
+                [
+                  152.882169,
+                  -26.414912
+                ],
+                [
+                  152.882329,
+                  -26.414929
+                ],
+                [
+                  152.883077,
+                  -26.414899
+                ],
+                [
+                  152.883546,
+                  -26.41454
+                ],
+                [
+                  152.883678,
+                  -26.413966
+                ],
+                [
+                  152.883688,
+                  -26.413891
+                ],
+                [
+                  152.883754,
+                  -26.412191
+                ],
+                [
+                  152.883743,
+                  -26.412076
+                ],
+                [
+                  152.883438,
+                  -26.410853
+                ],
+                [
+                  152.883068,
+                  -26.410513
+                ],
+                [
+                  152.88207,
+                  -26.410292
+                ],
+                [
+                  152.881583,
+                  -26.410423
+                ],
+                [
+                  152.878806,
+                  -26.413113
+                ],
+                [
+                  152.878964,
+                  -26.41383
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747252-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:55AM 11 Mar 2024",
+        "EST_FIX_TIME": "3:30PM 11 Mar 2024",
+        "STREETS": "BLACK MOUNTAIN RD, BOUGAINVILLEA DR",
+        "SUBURBS": "BLACK MOUNTAIN"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710123000.393953"
+  "extracted": "1710123303.065656"
 }
