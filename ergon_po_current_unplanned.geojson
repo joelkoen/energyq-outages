@@ -228,6 +228,75 @@
           {
             "type": "Point",
             "coordinates": [
+              150.166029,
+              -23.255438
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.137053,
+                  -23.253301
+                ],
+                [
+                  150.184958,
+                  -23.273849
+                ],
+                [
+                  150.185638,
+                  -23.273547
+                ],
+                [
+                  150.195205,
+                  -23.237568
+                ],
+                [
+                  150.194597,
+                  -23.237027
+                ],
+                [
+                  150.137369,
+                  -23.252122
+                ],
+                [
+                  150.137098,
+                  -23.252304
+                ],
+                [
+                  150.136853,
+                  -23.25264
+                ],
+                [
+                  150.137053,
+                  -23.253301
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4327",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "10:11AM 11 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANDY RD, HUNTER GULLY RD, MORINISH RD",
+        "SUBURBS": "MORINISH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -486,5 +555,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710128100.479043"
+  "extracted": "1710128401.374779"
 }
