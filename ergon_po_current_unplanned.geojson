@@ -204,7 +204,7 @@
         "EVENT_ID": "24FN4001",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "574",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "REASON": "The loss of supply is due to public safety concerns.",
         "STATUS": "Crews working on-site",
         "START": "8:53PM 11 Mar 2024",
         "EST_FIX_TIME": null,
@@ -280,102 +280,9 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              152.073632,
-              -24.991326
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.053412,
-                  -24.996132
-                ],
-                [
-                  152.055779,
-                  -25.001863
-                ],
-                [
-                  152.055971,
-                  -25.002081
-                ],
-                [
-                  152.083381,
-                  -25.018409
-                ],
-                [
-                  152.083706,
-                  -25.018479
-                ],
-                [
-                  152.093447,
-                  -25.017487
-                ],
-                [
-                  152.093884,
-                  -25.016999
-                ],
-                [
-                  152.088905,
-                  -24.96791
-                ],
-                [
-                  152.088548,
-                  -24.967518
-                ],
-                [
-                  152.075717,
-                  -24.964189
-                ],
-                [
-                  152.075579,
-                  -24.964172
-                ],
-                [
-                  152.054024,
-                  -24.964284
-                ],
-                [
-                  152.053533,
-                  -24.964732
-                ],
-                [
-                  152.05338,
-                  -24.995971
-                ],
-                [
-                  152.053412,
-                  -24.996132
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB3982",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "106",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
-        "START": "5:50PM 11 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "BUNGADOO RD, DELAN RD, GALEAS RD, GEARS RD, HAIRS RD, KLINTSTROMS RD, MAHES RD, RIVER RD, SHORT CUT RD, SHORTCUT RD, SNAKE CREEK RD, WALLAVILLE GOONDOON RD, WALLAVILLE RD, WARMINGTON RD, WILSONS RD",
-        "SUBURBS": "BULLYARD, BUNGADOO, DELAN, DRINAN, GIN GIN, WALLAVILLE"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710154501.41341"
+  "extracted": "1710154806.505847"
 }
