@@ -313,6 +313,103 @@
           {
             "type": "Point",
             "coordinates": [
+              145.604627,
+              -16.872189
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.600772,
+                  -16.875391
+                ],
+                [
+                  145.606476,
+                  -16.875043
+                ],
+                [
+                  145.606838,
+                  -16.87484
+                ],
+                [
+                  145.608512,
+                  -16.872395
+                ],
+                [
+                  145.608537,
+                  -16.872353
+                ],
+                [
+                  145.608935,
+                  -16.871611
+                ],
+                [
+                  145.608942,
+                  -16.871211
+                ],
+                [
+                  145.60861,
+                  -16.870535
+                ],
+                [
+                  145.60855,
+                  -16.870443
+                ],
+                [
+                  145.607367,
+                  -16.869039
+                ],
+                [
+                  145.606691,
+                  -16.868987
+                ],
+                [
+                  145.606358,
+                  -16.869273
+                ],
+                [
+                  145.60635,
+                  -16.86928
+                ],
+                [
+                  145.600422,
+                  -16.87461
+                ],
+                [
+                  145.600311,
+                  -16.875119
+                ],
+                [
+                  145.600772,
+                  -16.875391
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3967",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "11:10AM 11 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "WILLIAM SMITH DR",
+        "SUBURBS": "SPEEWAH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -510,5 +607,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710119101.348067"
+  "extracted": "1710119705.335361"
 }
