@@ -297,6 +297,59 @@
           {
             "type": "Point",
             "coordinates": [
+              148.143722,
+              -20.016744
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.1442,
+                  -20.016741
+                ],
+                [
+                  148.143719,
+                  -20.016292
+                ],
+                [
+                  148.143244,
+                  -20.016747
+                ],
+                [
+                  148.143725,
+                  -20.017196
+                ],
+                [
+                  148.1442,
+                  -20.016741
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6035",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "1:44PM 11 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRUCE HWY N",
+        "SUBURBS": "BOWEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.563278,
               -25.327395
             ]
@@ -409,5 +462,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710137401.052251"
+  "extracted": "1710137705.930814"
 }
