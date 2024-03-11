@@ -156,6 +156,87 @@
           {
             "type": "Point",
             "coordinates": [
+              145.732578,
+              -17.179195
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.724266,
+                  -17.176741
+                ],
+                [
+                  145.724942,
+                  -17.186136
+                ],
+                [
+                  145.724943,
+                  -17.186144
+                ],
+                [
+                  145.725463,
+                  -17.191915
+                ],
+                [
+                  145.725658,
+                  -17.192244
+                ],
+                [
+                  145.740153,
+                  -17.20217
+                ],
+                [
+                  145.740891,
+                  -17.201737
+                ],
+                [
+                  145.734092,
+                  -17.156602
+                ],
+                [
+                  145.733687,
+                  -17.156219
+                ],
+                [
+                  145.733194,
+                  -17.15649
+                ],
+                [
+                  145.724302,
+                  -17.176532
+                ],
+                [
+                  145.724266,
+                  -17.176741
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4004",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews working on-site",
+        "START": "5:19AM 12 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "GOLDSBOROUGH RD",
+        "SUBURBS": "GOLDSBOROUGH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -220,5 +301,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710193505.618424"
+  "extracted": "1710193801.463881"
 }
