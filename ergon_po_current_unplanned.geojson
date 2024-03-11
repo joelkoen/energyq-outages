@@ -405,9 +405,70 @@
         "STREETS": "LAWER LANE, MOUNT TULLY RD",
         "SUBURBS": "EUKEY, MOUNT TULLY, STANTHORPE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.559865,
+              -25.616529
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.560764,
+                  -25.616436
+                ],
+                [
+                  151.559413,
+                  -25.615818
+                ],
+                [
+                  151.558746,
+                  -25.616017
+                ],
+                [
+                  151.558966,
+                  -25.616622
+                ],
+                [
+                  151.560316,
+                  -25.61724
+                ],
+                [
+                  151.560983,
+                  -25.617041
+                ],
+                [
+                  151.560764,
+                  -25.616436
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB3972",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "12:22PM 11 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MORGANS RD",
+        "SUBURBS": "GAYNDAH"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710123600.50089"
+  "extracted": "1710123901.327993"
 }
