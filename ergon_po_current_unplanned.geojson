@@ -63,6 +63,99 @@
           {
             "type": "Point",
             "coordinates": [
+              150.389899,
+              -23.64712
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.387988,
+                  -23.64703
+                ],
+                [
+                  150.388508,
+                  -23.648395
+                ],
+                [
+                  150.38863,
+                  -23.648569
+                ],
+                [
+                  150.389128,
+                  -23.649013
+                ],
+                [
+                  150.389658,
+                  -23.649105
+                ],
+                [
+                  150.391292,
+                  -23.64847
+                ],
+                [
+                  150.391588,
+                  -23.648108
+                ],
+                [
+                  150.39181,
+                  -23.646389
+                ],
+                [
+                  150.39163,
+                  -23.645984
+                ],
+                [
+                  150.390757,
+                  -23.645341
+                ],
+                [
+                  150.390606,
+                  -23.645265
+                ],
+                [
+                  150.390186,
+                  -23.645136
+                ],
+                [
+                  150.389703,
+                  -23.64523
+                ],
+                [
+                  150.388122,
+                  -23.646547
+                ],
+                [
+                  150.387988,
+                  -23.64703
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4341",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "48",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:42PM 11 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CAMPION ST, EAST ST, GORDON ST, HALL ST, MORGAN ST",
+        "SUBURBS": "MOUNT MORGAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.845822,
               -17.128705
             ]
@@ -284,5 +377,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710157801.331087"
+  "extracted": "1710158101.344255"
 }
