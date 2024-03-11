@@ -1036,27 +1036,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.800501,
-          -27.615042
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-740639-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "19",
-        "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
-        "START": "8:30AM 11 Mar 2024",
-        "EST_FIX_TIME": "2:30PM 11 Mar 2024",
-        "STREETS": "MILL ST, WEARNE ST",
-        "SUBURBS": "BOOVAL"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.049784,
           -27.375707
         ]
@@ -2473,32 +2452,11 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "130",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "Cancelled",
         "START": "8:00AM 12 Mar 2024",
         "EST_FIX_TIME": "3:00PM 12 Mar 2024",
         "STREETS": "BROOKHAVEN CT, CANDLE VINE ST, GIBSON AVE, MAHOGANY PL, MALENY-STANLEY RIVER RD, MOUNTAIN VIEW RD, RIVER BIRCH LANE, TALLOWWOOD ST, TREEHAVEN WAY, WITHAM RD",
         "SUBURBS": "MALENY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.114004,
-          -27.62496
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-743993-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "11",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
-        "START": "8:00AM 12 Mar 2024",
-        "EST_FIX_TIME": "3:00PM 12 Mar 2024",
-        "STREETS": "RUDGE ST",
-        "SUBURBS": "WOODRIDGE"
       }
     },
     {
@@ -3134,5 +3092,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1710126301.227141"
+  "extracted": "1710126601.293372"
 }
