@@ -123,9 +123,118 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.609952,
+              -26.888095
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.591684,
+                  -26.891699
+                ],
+                [
+                  151.616951,
+                  -26.898787
+                ],
+                [
+                  151.617034,
+                  -26.898803
+                ],
+                [
+                  151.619422,
+                  -26.899091
+                ],
+                [
+                  151.619485,
+                  -26.899095
+                ],
+                [
+                  151.628119,
+                  -26.899157
+                ],
+                [
+                  151.628553,
+                  -26.898473
+                ],
+                [
+                  151.614207,
+                  -26.877248
+                ],
+                [
+                  151.613733,
+                  -26.877033
+                ],
+                [
+                  151.603359,
+                  -26.877869
+                ],
+                [
+                  151.603303,
+                  -26.877876
+                ],
+                [
+                  151.597891,
+                  -26.878871
+                ],
+                [
+                  151.597621,
+                  -26.879008
+                ],
+                [
+                  151.597141,
+                  -26.87948
+                ],
+                [
+                  151.597078,
+                  -26.879557
+                ],
+                [
+                  151.593225,
+                  -26.88548
+                ],
+                [
+                  151.593177,
+                  -26.88558
+                ],
+                [
+                  151.591352,
+                  -26.891142
+                ],
+                [
+                  151.591684,
+                  -26.891699
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6161",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "189",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:01AM 12 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BELL ST, BIDWILLI DR, BIDWILLII CRES, BOWERBIRD LANE, BUNYA AVE, BUNYA MOUNTAINS RD, BUNYA MT PARK RD, BUNYA MTS RD, BURTON ST, ENSOR ST, FIREFLY DR, LILLYPILLY AVE, LILLYPILLY PL, RAINFOREST DR, RAINFOREST RD, RINGTAIL LANE, TOLMIE ST, WARREGO HWY",
+        "SUBURBS": "BUNYA MOUNTAINS, DALBY, MOOLA, MOUNT MOWBULLAN, MOWBULLAN, YAMSION"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710172805.850273"
+  "extracted": "1710173100.93189"
 }
