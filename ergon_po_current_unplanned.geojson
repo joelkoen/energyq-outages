@@ -228,6 +228,71 @@
           {
             "type": "Point",
             "coordinates": [
+              145.915075,
+              -17.351313
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.913164,
+                  -17.353075
+                ],
+                [
+                  145.916923,
+                  -17.35351
+                ],
+                [
+                  145.917398,
+                  -17.353268
+                ],
+                [
+                  145.917326,
+                  -17.352756
+                ],
+                [
+                  145.913856,
+                  -17.349116
+                ],
+                [
+                  145.91304,
+                  -17.349383
+                ],
+                [
+                  145.912752,
+                  -17.352587
+                ],
+                [
+                  145.913164,
+                  -17.353075
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3979",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "12:45PM 11 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CATTALANO ACCS, POLLARD RD",
+        "SUBURBS": "BABINDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -470,5 +535,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710124800.41002"
+  "extracted": "1710125401.64642"
 }
