@@ -224,9 +224,118 @@
         "STREETS": "MORAYFIELD RD",
         "SUBURBS": "BURPENGARY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.895686,
+              -26.708097
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.886682,
+                  -26.70943
+                ],
+                [
+                  152.889396,
+                  -26.714584
+                ],
+                [
+                  152.889834,
+                  -26.714842
+                ],
+                [
+                  152.897515,
+                  -26.715067
+                ],
+                [
+                  152.897717,
+                  -26.715035
+                ],
+                [
+                  152.899887,
+                  -26.714262
+                ],
+                [
+                  152.900177,
+                  -26.71399
+                ],
+                [
+                  152.904369,
+                  -26.703076
+                ],
+                [
+                  152.904384,
+                  -26.70303
+                ],
+                [
+                  152.90469,
+                  -26.701837
+                ],
+                [
+                  152.904452,
+                  -26.701345
+                ],
+                [
+                  152.904144,
+                  -26.701184
+                ],
+                [
+                  152.903826,
+                  -26.701127
+                ],
+                [
+                  152.900661,
+                  -26.701499
+                ],
+                [
+                  152.900587,
+                  -26.701512
+                ],
+                [
+                  152.890172,
+                  -26.704201
+                ],
+                [
+                  152.889884,
+                  -26.704397
+                ],
+                [
+                  152.886709,
+                  -26.709
+                ],
+                [
+                  152.886682,
+                  -26.70943
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747460-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "125",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "12:40AM 12 Mar 2024",
+        "EST_FIX_TIME": "3:30AM 12 Mar 2024",
+        "STREETS": "BALMORAL RD, FRANGIPANNI CT, GLOVER CT, HILLFOOT LANE, HONEYSUCKLE DR, KAURI DR, KURRAJONG CT, MILL HILL RD, STRONG CT, TULIPWOOD CT",
+        "SUBURBS": "MONTVILLE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710168001.600044"
+  "extracted": "1710168305.827601"
 }
