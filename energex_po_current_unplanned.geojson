@@ -211,9 +211,90 @@
         "STREETS": "BLUE WATERS CRES, BOAT HARBOUR AVE, COTTON TREE AVE, ISLAND OTLK, PANDORA CT, VIEW OUTLOOK, WATERSIDE DR",
         "SUBURBS": "MACLEAY ISLAND"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.336048,
+              -27.921595
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.335392,
+                  -27.922645
+                ],
+                [
+                  153.33588,
+                  -27.922937
+                ],
+                [
+                  153.336576,
+                  -27.922827
+                ],
+                [
+                  153.336819,
+                  -27.922528
+                ],
+                [
+                  153.336916,
+                  -27.922274
+                ],
+                [
+                  153.336927,
+                  -27.921855
+                ],
+                [
+                  153.336884,
+                  -27.921663
+                ],
+                [
+                  153.336315,
+                  -27.920517
+                ],
+                [
+                  153.335769,
+                  -27.920254
+                ],
+                [
+                  153.335344,
+                  -27.920655
+                ],
+                [
+                  153.33517,
+                  -27.922226
+                ],
+                [
+                  153.335392,
+                  -27.922645
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747434-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "40",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "7:24PM 11 Mar 2024",
+        "EST_FIX_TIME": "10:00PM 11 Mar 2024",
+        "STREETS": "DISCOVERY DR, SIR JOHN OVERALL DR",
+        "SUBURBS": "HELENSVALE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710149101.04269"
+  "extracted": "1710149701.58346"
 }
