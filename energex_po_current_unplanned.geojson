@@ -107,16 +107,125 @@
         "EVENT_ID": "INCD-747619-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "94",
-        "REASON": "Under Investigation",
+        "REASON": "Damage due to severe weather",
         "STATUS": "In Progress",
         "START": "3:20PM 12 Mar 2024",
-        "EST_FIX_TIME": "7:30PM 12 Mar 2024",
+        "EST_FIX_TIME": "11:30PM 12 Mar 2024",
         "STREETS": "BEECHMONT RD, BOTTLETREE LANE, BRUSHBOX RD, FREEMANS RD, NORTH RD",
         "SUBURBS": "ADVANCETOWN, CLAGIRABA, LOWER BEECHMONT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.978767,
+              -27.505381
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.977042,
+                  -27.505764
+                ],
+                [
+                  152.977093,
+                  -27.505839
+                ],
+                [
+                  152.977264,
+                  -27.505992
+                ],
+                [
+                  152.978425,
+                  -27.506618
+                ],
+                [
+                  152.978582,
+                  -27.506673
+                ],
+                [
+                  152.978701,
+                  -27.506696
+                ],
+                [
+                  152.97893,
+                  -27.506693
+                ],
+                [
+                  152.980053,
+                  -27.506442
+                ],
+                [
+                  152.980429,
+                  -27.506083
+                ],
+                [
+                  152.98051,
+                  -27.505669
+                ],
+                [
+                  152.980517,
+                  -27.505612
+                ],
+                [
+                  152.980563,
+                  -27.504768
+                ],
+                [
+                  152.98013,
+                  -27.5043
+                ],
+                [
+                  152.979618,
+                  -27.504234
+                ],
+                [
+                  152.979593,
+                  -27.504231
+                ],
+                [
+                  152.977647,
+                  -27.504066
+                ],
+                [
+                  152.977095,
+                  -27.504467
+                ],
+                [
+                  152.976972,
+                  -27.505482
+                ],
+                [
+                  152.977042,
+                  -27.505764
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747697-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "49",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "11:18PM 12 Mar 2024",
+        "EST_FIX_TIME": "1:30AM 13 Mar 2024",
+        "STREETS": "GLASNEVIN ST, HUNTER ST, KEW ST, NEULANS RD, VOLGA CRES",
+        "SUBURBS": "INDOOROOPILLY"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710233401.843063"
+  "extracted": "1710251104.830138"
 }
