@@ -132,6 +132,115 @@
           {
             "type": "Point",
             "coordinates": [
+              146.812998,
+              -19.322485
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.811758,
+                  -19.32278
+                ],
+                [
+                  146.811861,
+                  -19.322965
+                ],
+                [
+                  146.811862,
+                  -19.322967
+                ],
+                [
+                  146.812022,
+                  -19.323251
+                ],
+                [
+                  146.812304,
+                  -19.323471
+                ],
+                [
+                  146.813023,
+                  -19.323677
+                ],
+                [
+                  146.813356,
+                  -19.323656
+                ],
+                [
+                  146.81369,
+                  -19.323514
+                ],
+                [
+                  146.813838,
+                  -19.323416
+                ],
+                [
+                  146.814292,
+                  -19.322968
+                ],
+                [
+                  146.814216,
+                  -19.32228
+                ],
+                [
+                  146.81297,
+                  -19.321482
+                ],
+                [
+                  146.812864,
+                  -19.321431
+                ],
+                [
+                  146.812455,
+                  -19.321293
+                ],
+                [
+                  146.811825,
+                  -19.321647
+                ],
+                [
+                  146.811739,
+                  -19.32216
+                ],
+                [
+                  146.811735,
+                  -19.322193
+                ],
+                [
+                  146.811705,
+                  -19.322531
+                ],
+                [
+                  146.811758,
+                  -19.32278
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6048",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "3:39PM 12 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DALTON ST, EDISON ST, GRAY CT",
+        "SUBURBS": "WULGURU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.805003,
               -28.388886
             ]
@@ -313,5 +422,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710221701.37794"
+  "extracted": "1710222001.759949"
 }
