@@ -415,7 +415,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "151",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "Cancelled",
         "START": "8:00AM 12 Mar 2024",
         "EST_FIX_TIME": "3:30PM 12 Mar 2024",
         "STREETS": "ANDREW CLARKE RD, BARNES RD, DAYBORO RD, HYDE RD, PATMAN RD, WHITESIDE RD",
@@ -604,7 +604,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "37",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "Cancelled",
         "START": "8:00AM 13 Mar 2024",
         "EST_FIX_TIME": "4:00PM 13 Mar 2024",
         "STREETS": "HERBERT ST, MAYFAIR ST, ORA CT, REYNTON ST",
@@ -1057,27 +1057,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.10327,
-          -27.457673
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-742356-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "6",
-        "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
-        "START": "7:30AM 12 Mar 2024",
-        "EST_FIX_TIME": "2:30PM 12 Mar 2024",
-        "STREETS": "BALLANDEAN ST",
-        "SUBURBS": "MURARRIE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.381814,
           -28.218542
         ]
@@ -1204,27 +1183,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.095595,
-          -27.430824
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-742584-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
-        "START": "7:00AM 16 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 17 Mar 2024",
-        "STREETS": "FRENCH ST",
-        "SUBURBS": "EAGLE FARM"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.095391,
           -27.430995
         ]
@@ -1237,6 +1195,27 @@
         "STATUS": "Scheduled",
         "START": "7:00AM 16 Mar 2024",
         "EST_FIX_TIME": "4:00PM 16 Mar 2024",
+        "STREETS": "FRENCH ST",
+        "SUBURBS": "EAGLE FARM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.095595,
+          -27.430824
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-742584-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "7:00AM 16 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 17 Mar 2024",
         "STREETS": "FRENCH ST",
         "SUBURBS": "EAGLE FARM"
       }
@@ -2441,5 +2420,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1710223501.46952"
+  "extracted": "1710223801.193594"
 }

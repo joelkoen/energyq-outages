@@ -58,7 +58,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "151",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "Cancelled",
         "START": "8:00AM 12 Mar 2024",
         "EST_FIX_TIME": "3:30PM 12 Mar 2024",
         "STREETS": "ANDREW CLARKE RD, BARNES RD, DAYBORO RD, HYDE RD, PATMAN RD, WHITESIDE RD",
@@ -105,27 +105,6 @@
         "EST_FIX_TIME": "4:00PM 12 Mar 2024",
         "STREETS": "SANNO RD",
         "SUBURBS": "MORAYFIELD"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.10327,
-          -27.457673
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-742356-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "6",
-        "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
-        "START": "7:30AM 12 Mar 2024",
-        "EST_FIX_TIME": "2:30PM 12 Mar 2024",
-        "STREETS": "BALLANDEAN ST",
-        "SUBURBS": "MURARRIE"
       }
     },
     {
@@ -341,5 +320,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710223501.46952"
+  "extracted": "1710223801.193594"
 }
