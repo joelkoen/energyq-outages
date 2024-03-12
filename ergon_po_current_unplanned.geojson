@@ -132,6 +132,83 @@
           {
             "type": "Point",
             "coordinates": [
+              151.805003,
+              -28.388886
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.771176,
+                  -28.402617
+                ],
+                [
+                  151.772671,
+                  -28.407444
+                ],
+                [
+                  151.772983,
+                  -28.407746
+                ],
+                [
+                  151.808211,
+                  -28.41947
+                ],
+                [
+                  151.808856,
+                  -28.419229
+                ],
+                [
+                  151.838829,
+                  -28.358921
+                ],
+                [
+                  151.838247,
+                  -28.358302
+                ],
+                [
+                  151.783356,
+                  -28.369773
+                ],
+                [
+                  151.782989,
+                  -28.370072
+                ],
+                [
+                  151.771183,
+                  -28.40236
+                ],
+                [
+                  151.771176,
+                  -28.402617
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6173",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:51AM 12 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "PALGROVE RD, PIKEDALE RD, VALHALLA RD",
+        "SUBURBS": "DALVEEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.142421,
               -26.079791
             ]
@@ -236,5 +313,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710216004.634012"
+  "extracted": "1710216300.463429"
 }
