@@ -239,9 +239,122 @@
         "STREETS": "ADAMSON ST, BONNEY AVE, HAMLEY ST, HUDSON RD, KEDRON ST, STOPFORD ST, VIEW ST, WOOLOOWIN AVE",
         "SUBURBS": "CLAYFIELD, WOOLOOWIN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.256932,
+              -28.031102
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.242744,
+                  -28.032449
+                ],
+                [
+                  153.243042,
+                  -28.035034
+                ],
+                [
+                  153.243292,
+                  -28.035379
+                ],
+                [
+                  153.252373,
+                  -28.040056
+                ],
+                [
+                  153.252427,
+                  -28.04008
+                ],
+                [
+                  153.255918,
+                  -28.04141
+                ],
+                [
+                  153.256109,
+                  -28.041446
+                ],
+                [
+                  153.256997,
+                  -28.041461
+                ],
+                [
+                  153.257441,
+                  -28.041246
+                ],
+                [
+                  153.27112,
+                  -28.021413
+                ],
+                [
+                  153.271091,
+                  -28.020904
+                ],
+                [
+                  153.270547,
+                  -28.020743
+                ],
+                [
+                  153.260774,
+                  -28.023217
+                ],
+                [
+                  153.260731,
+                  -28.02323
+                ],
+                [
+                  153.255687,
+                  -28.02495
+                ],
+                [
+                  153.255681,
+                  -28.024953
+                ],
+                [
+                  153.255582,
+                  -28.024988
+                ],
+                [
+                  153.255501,
+                  -28.025025
+                ],
+                [
+                  153.242979,
+                  -28.032021
+                ],
+                [
+                  153.242744,
+                  -28.032449
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747619-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "94",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "3:20PM 12 Mar 2024",
+        "EST_FIX_TIME": "6:00PM 12 Mar 2024",
+        "STREETS": "BEECHMONT RD, BOTTLETREE LANE, BRUSHBOX RD, FREEMANS RD, NORTH RD",
+        "SUBURBS": "ADVANCETOWN, CLAGIRABA, LOWER BEECHMONT"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710220801.307987"
+  "extracted": "1710221101.218668"
 }
