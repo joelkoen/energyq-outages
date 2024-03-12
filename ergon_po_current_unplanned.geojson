@@ -393,9 +393,74 @@
         "STREETS": "FABRELLAS RD, PEGGYS BOG RD, PYOTT RD",
         "SUBURBS": "AIRDMILLAN, AYR"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.731712,
+              -27.939606
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.728614,
+                  -27.93927
+                ],
+                [
+                  151.734206,
+                  -27.941132
+                ],
+                [
+                  151.734846,
+                  -27.940895
+                ],
+                [
+                  151.734621,
+                  -27.940313
+                ],
+                [
+                  151.729893,
+                  -27.93809
+                ],
+                [
+                  151.72944,
+                  -27.938081
+                ],
+                [
+                  151.728577,
+                  -27.938441
+                ],
+                [
+                  151.728614,
+                  -27.93927
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6204",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:34AM 13 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CLIFTON LEYBURN RD, MILLBROOK BACK PLAINS RD",
+        "SUBURBS": "ELLANGOWAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710286801.225562"
+  "extracted": "1710287105.36363"
 }
