@@ -224,9 +224,102 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              147.362515,
+              -19.634463
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.340174,
+                  -19.667666
+                ],
+                [
+                  147.355615,
+                  -19.657693
+                ],
+                [
+                  147.35563,
+                  -19.657684
+                ],
+                [
+                  147.377541,
+                  -19.642361
+                ],
+                [
+                  147.377718,
+                  -19.642118
+                ],
+                [
+                  147.385598,
+                  -19.615207
+                ],
+                [
+                  147.38557,
+                  -19.614893
+                ],
+                [
+                  147.37885,
+                  -19.601452
+                ],
+                [
+                  147.378169,
+                  -19.601261
+                ],
+                [
+                  147.364118,
+                  -19.60946
+                ],
+                [
+                  147.364012,
+                  -19.609545
+                ],
+                [
+                  147.344138,
+                  -19.630683
+                ],
+                [
+                  147.344021,
+                  -19.63093
+                ],
+                [
+                  147.339432,
+                  -19.667239
+                ],
+                [
+                  147.340174,
+                  -19.667666
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6059",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "111",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:01AM 13 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CLARE RD, DE DOMENICO RD, EY'S RD, GIDDY RD, LEIBRECHT RD, MAIDAVALE RD, MENSO RD, OLD CLARE RD, PORTER RD",
+        "SUBURBS": "AIRVILLE, AYR, MCDESME"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710266101.109792"
+  "extracted": "1710266701.137385"
 }
