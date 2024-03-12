@@ -415,7 +415,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "25",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "Cancelled",
         "START": "8:00AM 13 Mar 2024",
         "EST_FIX_TIME": "3:00PM 13 Mar 2024",
         "STREETS": "ALISON BOOKER CT, RAY BOOKER CT, WATSON RD",
@@ -583,7 +583,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "Cancelled",
         "START": "8:00AM 13 Mar 2024",
         "EST_FIX_TIME": "3:00PM 13 Mar 2024",
         "STREETS": "BASIN RD",
@@ -1225,27 +1225,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.095595,
-          -27.430824
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-742584-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
-        "START": "7:00AM 16 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 17 Mar 2024",
-        "STREETS": "FRENCH ST",
-        "SUBURBS": "EAGLE FARM"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.095391,
           -27.430995
         ]
@@ -1258,6 +1237,27 @@
         "STATUS": "Scheduled",
         "START": "7:00AM 16 Mar 2024",
         "EST_FIX_TIME": "4:00PM 16 Mar 2024",
+        "STREETS": "FRENCH ST",
+        "SUBURBS": "EAGLE FARM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.095595,
+          -27.430824
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-742584-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "7:00AM 16 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 17 Mar 2024",
         "STREETS": "FRENCH ST",
         "SUBURBS": "EAGLE FARM"
       }
@@ -1381,7 +1381,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "25",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "Cancelled",
         "START": "7:30AM 13 Mar 2024",
         "EST_FIX_TIME": "3:30PM 13 Mar 2024",
         "STREETS": "KNAPP CREEK RD",
@@ -1402,7 +1402,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "13",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "Cancelled",
         "START": "8:00AM 13 Mar 2024",
         "EST_FIX_TIME": "3:00PM 13 Mar 2024",
         "STREETS": "CUNNINGHAM HWY, RADFORD RD, WANTENAAR RD",
@@ -1717,7 +1717,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "35",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "Cancelled",
         "START": "8:30AM 13 Mar 2024",
         "EST_FIX_TIME": "1:30PM 13 Mar 2024",
         "STREETS": "BOLCARO RD, EAST DEEP CREEK RD, HOSE RD, RANDWICK RD, RICHARDSON RD, WILLIAMS RD",
@@ -1927,7 +1927,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "107",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "Cancelled",
         "START": "8:00AM 13 Mar 2024",
         "EST_FIX_TIME": "3:00PM 13 Mar 2024",
         "STREETS": "CUMNER LANE, FLESSER RD, MEADOW RD, REESVILLE RD, RUDDLE DR, WATSON LANE",
@@ -1948,7 +1948,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "110",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "Cancelled",
         "START": "8:00AM 13 Mar 2024",
         "EST_FIX_TIME": "3:00PM 13 Mar 2024",
         "STREETS": "BAGNALL RD, BLACKALL RANGE RD, CARRUTHERS RD, DULONG RD, HUNCHY SCHOOL RD, RUWOLDTS RD, SHEKINAH CT, SIMBA RD, TOWEN MOUNT RD",
@@ -2525,5 +2525,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1710282000.40818"
+  "extracted": "1710282300.498274"
 }
