@@ -318,6 +318,91 @@
           {
             "type": "Point",
             "coordinates": [
+              151.401717,
+              -27.607415
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.37675,
+                  -27.61084
+                ],
+                [
+                  151.38184,
+                  -27.619251
+                ],
+                [
+                  151.382267,
+                  -27.619488
+                ],
+                [
+                  151.394296,
+                  -27.619874
+                ],
+                [
+                  151.394515,
+                  -27.619837
+                ],
+                [
+                  151.426482,
+                  -27.607527
+                ],
+                [
+                  151.426683,
+                  -27.60684
+                ],
+                [
+                  151.420516,
+                  -27.599659
+                ],
+                [
+                  151.420195,
+                  -27.599488
+                ],
+                [
+                  151.388654,
+                  -27.594957
+                ],
+                [
+                  151.388153,
+                  -27.595152
+                ],
+                [
+                  151.376774,
+                  -27.610377
+                ],
+                [
+                  151.37675,
+                  -27.61084
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6174",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "4:00PM 12 Mar 2024",
+        "EST_FIX_TIME": "8:00PM 12 Mar 2024",
+        "STREETS": "CHAPMAN RD, CHAPMANS RD, OLES RD",
+        "SUBURBS": "BONGEEN, NORWIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.142421,
               -26.079791
             ]
@@ -422,5 +507,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710223206.852976"
+  "extracted": "1710223501.112364"
 }
