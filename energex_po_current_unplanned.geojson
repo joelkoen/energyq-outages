@@ -183,9 +183,142 @@
         "STREETS": "GLASNEVIN ST, HUNTER ST, KEW ST, NEULANS RD, VOLGA CRES",
         "SUBURBS": "INDOOROOPILLY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.725568,
+              -26.126013
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.680515,
+                  -26.128988
+                ],
+                [
+                  152.687886,
+                  -26.135706
+                ],
+                [
+                  152.687895,
+                  -26.135714
+                ],
+                [
+                  152.688534,
+                  -26.136267
+                ],
+                [
+                  152.68867,
+                  -26.136351
+                ],
+                [
+                  152.740531,
+                  -26.158042
+                ],
+                [
+                  152.740617,
+                  -26.15807
+                ],
+                [
+                  152.747186,
+                  -26.159583
+                ],
+                [
+                  152.747476,
+                  -26.159571
+                ],
+                [
+                  152.76269,
+                  -26.154741
+                ],
+                [
+                  152.762892,
+                  -26.154621
+                ],
+                [
+                  152.77034,
+                  -26.147327
+                ],
+                [
+                  152.77047,
+                  -26.14706
+                ],
+                [
+                  152.770705,
+                  -26.144641
+                ],
+                [
+                  152.770649,
+                  -26.144391
+                ],
+                [
+                  152.749201,
+                  -26.107638
+                ],
+                [
+                  152.749185,
+                  -26.107613
+                ],
+                [
+                  152.74567,
+                  -26.102413
+                ],
+                [
+                  152.745372,
+                  -26.102212
+                ],
+                [
+                  152.704909,
+                  -26.092444
+                ],
+                [
+                  152.704354,
+                  -26.092644
+                ],
+                [
+                  152.683266,
+                  -26.123755
+                ],
+                [
+                  152.683253,
+                  -26.123775
+                ],
+                [
+                  152.680431,
+                  -26.128454
+                ],
+                [
+                  152.680515,
+                  -26.128988
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747704-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "252",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "2:23AM 13 Mar 2024",
+        "EST_FIX_TIME": "5:00AM 13 Mar 2024",
+        "STREETS": "ARTHUR PORTAS DR, ASH RD, BATH RD, DIPPER RD, ENTERPRISE RD, GARDNER RD, GATE RD, GRIMLEY RD, HAY RD, HOOD RD, KIN KIN RD, KINEN LANE, KWALT RD, LANGLEY RD, LAUREL RD, LESHAAN RD, MACPHERSON RD, MEREDITH RD, MORLEY RD, NORTH DEEP CREEK RD, OLD COACH LANE, OLD GOOMBOORIAN RD, PHILLIPS RD, SANDY CREEK RD, STEELE RD, THOMPSON RD, TIN CAN BAY RD, WATTLE LANE, WEST BREAK RD, WILTON RD, WINDOW RD",
+        "SUBURBS": "CANINA, GOOMBOORIAN, GREENS CREEK, GYMPIE, NORTH DEEP CREEK, ROSS CREEK, VETERAN, WOLVI"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710260401.271959"
+  "extracted": "1710260701.187544"
 }
