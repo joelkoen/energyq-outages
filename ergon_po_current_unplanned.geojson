@@ -264,9 +264,138 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              147.475998,
+              -19.51587
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.456295,
+                  -19.532907
+                ],
+                [
+                  147.461333,
+                  -19.5303
+                ],
+                [
+                  147.46136,
+                  -19.530286
+                ],
+                [
+                  147.470204,
+                  -19.52498
+                ],
+                [
+                  147.470243,
+                  -19.524954
+                ],
+                [
+                  147.471862,
+                  -19.523754
+                ],
+                [
+                  147.4719,
+                  -19.523722
+                ],
+                [
+                  147.472889,
+                  -19.522812
+                ],
+                [
+                  147.472902,
+                  -19.5228
+                ],
+                [
+                  147.496336,
+                  -19.499581
+                ],
+                [
+                  147.496399,
+                  -19.499034
+                ],
+                [
+                  147.495858,
+                  -19.498834
+                ],
+                [
+                  147.465796,
+                  -19.507119
+                ],
+                [
+                  147.465584,
+                  -19.507241
+                ],
+                [
+                  147.4627,
+                  -19.510106
+                ],
+                [
+                  147.462637,
+                  -19.510184
+                ],
+                [
+                  147.460866,
+                  -19.512963
+                ],
+                [
+                  147.460848,
+                  -19.512994
+                ],
+                [
+                  147.460007,
+                  -19.514585
+                ],
+                [
+                  147.459972,
+                  -19.514676
+                ],
+                [
+                  147.456406,
+                  -19.527936
+                ],
+                [
+                  147.456398,
+                  -19.527972
+                ],
+                [
+                  147.455597,
+                  -19.532434
+                ],
+                [
+                  147.456295,
+                  -19.532907
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6065",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "35",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:20AM 13 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "FABRELLAS RD, PEGGYS BOG RD, PYOTT RD",
+        "SUBURBS": "AIRDMILLAN, AYR"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710285601.458139"
+  "extracted": "1710285900.677977"
 }

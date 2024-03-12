@@ -304,9 +304,78 @@
         "STREETS": "KIRBYS RD, LOWER LANDERSHUTE RD, PALMWOODS-MONTVILLE RD, REMINGTON SHUTE RD",
         "SUBURBS": "LANDERS SHOOT, MONTVILLE, PALMWOODS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.952563,
+              -26.470839
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.951789,
+                  -26.472447
+                ],
+                [
+                  152.954225,
+                  -26.469726
+                ],
+                [
+                  152.954161,
+                  -26.4691
+                ],
+                [
+                  152.953463,
+                  -26.469139
+                ],
+                [
+                  152.951083,
+                  -26.471501
+                ],
+                [
+                  152.950958,
+                  -26.471742
+                ],
+                [
+                  152.950902,
+                  -26.472101
+                ],
+                [
+                  152.951199,
+                  -26.472578
+                ],
+                [
+                  152.951789,
+                  -26.472447
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747750-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "9:20AM 13 Mar 2024",
+        "EST_FIX_TIME": "12:00PM 13 Mar 2024",
+        "STREETS": "COOK ST, EUMUNDI RANGE RD",
+        "SUBURBS": "EUMUNDI"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710285304.774247"
+  "extracted": "1710285901.316954"
 }
