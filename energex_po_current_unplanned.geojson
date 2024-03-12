@@ -98,9 +98,82 @@
         "STREETS": "ARDWICK CT, COVE RD, LANGER ST, MCCABE RD, NICKLAUS ST",
         "SUBURBS": "STANMORE, WOODFORD"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.099436,
+              -26.403003
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.097813,
+                  -26.404476
+                ],
+                [
+                  153.098415,
+                  -26.405578
+                ],
+                [
+                  153.099261,
+                  -26.405656
+                ],
+                [
+                  153.100985,
+                  -26.403658
+                ],
+                [
+                  153.101074,
+                  -26.403266
+                ],
+                [
+                  153.100319,
+                  -26.400685
+                ],
+                [
+                  153.099866,
+                  -26.40035
+                ],
+                [
+                  153.09937,
+                  -26.40063
+                ],
+                [
+                  153.097799,
+                  -26.404107
+                ],
+                [
+                  153.097813,
+                  -26.404476
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747499-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "Powerlines down",
+        "STATUS": "Awaiting",
+        "START": "8:30AM 12 Mar 2024",
+        "EST_FIX_TIME": "1:00PM 12 Mar 2024",
+        "STREETS": "BICENTENNIAL DR, EENIE CREEK RD",
+        "SUBURBS": "NOOSA HEADS, SUNSHINE BEACH"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710202505.860426"
+  "extracted": "1710202801.61561"
 }
