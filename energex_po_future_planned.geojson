@@ -1183,27 +1183,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.095391,
-          -27.430995
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-742584-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
-        "START": "7:00AM 16 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 16 Mar 2024",
-        "STREETS": "FRENCH ST",
-        "SUBURBS": "EAGLE FARM"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.095595,
           -27.430824
         ]
@@ -1216,6 +1195,27 @@
         "STATUS": "Scheduled",
         "START": "7:00AM 16 Mar 2024",
         "EST_FIX_TIME": "4:00PM 17 Mar 2024",
+        "STREETS": "FRENCH ST",
+        "SUBURBS": "EAGLE FARM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.095391,
+          -27.430995
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-742584-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "7:00AM 16 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 16 Mar 2024",
         "STREETS": "FRENCH ST",
         "SUBURBS": "EAGLE FARM"
       }
@@ -1612,7 +1612,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "41",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "Cancelled",
         "START": "8:00AM 12 Mar 2024",
         "EST_FIX_TIME": "3:00PM 12 Mar 2024",
         "STREETS": "BURRIDGE RD, HOSKINS RD, MEADS RD, TANDUR RD, TANDUR-TRAVESTON RD",
@@ -1780,7 +1780,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "78",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "Cancelled",
         "START": "8:00AM 12 Mar 2024",
         "EST_FIX_TIME": "3:30PM 12 Mar 2024",
         "STREETS": "BRACKEN FERN RD, CANE RD, COLEMANS FARM RD, GOBBERTS RD, HUTTON RD, PUMP STATION RD, SMALLWOOD RD, UPPER HUTTON RD, WAPPA FALLS RD, WAPPA PARK RD",
@@ -1990,7 +1990,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "43",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "Cancelled",
         "START": "7:30AM 12 Mar 2024",
         "EST_FIX_TIME": "3:30PM 12 Mar 2024",
         "STREETS": "DOHLES ROCKS RD, KORMAN RD",
@@ -2420,5 +2420,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1710223801.193594"
+  "extracted": "1710224401.575354"
 }
