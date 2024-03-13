@@ -235,9 +235,102 @@
         "STREETS": "CHILCOTT ST, DOROTHY ST",
         "SUBURBS": "SILKSTONE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.624527,
+              -27.888581
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.602784,
+                  -27.874283
+                ],
+                [
+                  152.617568,
+                  -27.914993
+                ],
+                [
+                  152.617582,
+                  -27.915027
+                ],
+                [
+                  152.617771,
+                  -27.915433
+                ],
+                [
+                  152.618641,
+                  -27.915539
+                ],
+                [
+                  152.646167,
+                  -27.884259
+                ],
+                [
+                  152.64627,
+                  -27.883922
+                ],
+                [
+                  152.643047,
+                  -27.862015
+                ],
+                [
+                  152.642514,
+                  -27.861623
+                ],
+                [
+                  152.628462,
+                  -27.862356
+                ],
+                [
+                  152.628297,
+                  -27.86239
+                ],
+                [
+                  152.607637,
+                  -27.86999
+                ],
+                [
+                  152.607487,
+                  -27.870075
+                ],
+                [
+                  152.602924,
+                  -27.873813
+                ],
+                [
+                  152.602784,
+                  -27.874283
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747924-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "76",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:33PM 13 Mar 2024",
+        "EST_FIX_TIME": "9:00PM 13 Mar 2024",
+        "STREETS": "CUNNINGHAM HWY, KELLY RD, KENGOON RD, KENTS LAGOON RD, LILY WATERHOLE RD, MACFARLANE RD, MUNBILLA RD, PRENZLER RD",
+        "SUBURBS": "KALBAR, KENTS LAGOON, MUNBILLA, SILVERDALE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710318605.253998"
+  "extracted": "1710318901.063174"
 }
