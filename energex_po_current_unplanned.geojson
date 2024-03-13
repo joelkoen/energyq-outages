@@ -142,9 +142,219 @@
         "STREETS": "ACACIA CL, ALLIRA CRES, APPLE GUM PL, ARAPALA CT, AZAHAR ST, AZALEA CRES, BALCARA AVE, BANGALORE ST, BEAMS RD, BIAMANGA LANE, BINARA CT, BLUE MOUNTAINS CRES, BORONIA PL, BOTTICELLI CL, BROADWATER LANE, CARNARVON CRES, CARSELGROVE AVE, CASCADE LANE, COCOPARRA PL, COLVILLEA CL, CONIMBLA ST, CORDOBA CT, COWIE RD, DAINTREE PARK WAY, DE LUCHI ST, DIAMANTINA CRES, DORRIGO PL, DORVILLE RD, FELICITY CT, FRANCESCA CL, GIBRALTAR CT, GIRRAWEEN LANE, HEATHCOTE LANE, HIBISCUS CCT, HINCHINBROOK AVE, IBIZA PL, IRIS PL, JARRAH PL, JENOLAN LANE, KALARA CT, KARRAWA CL, KONDALILLA PL, KULINDI PL, KURANDA PARK WAY, KURINGGAI PKWY, LAVENDER PL, MACDONALD PL, MARIGOLD CL, MATISSE ST, MATTHEW ST, MCCALLUM ST, MULKARRA PL, NEW ENGLAND LANE, NIGHTCAP LANE, NIKITA CL, NILKERIE ST, NOELA CL, NORTHMARQUE AVE, NUNGATTA CT, ORCHID CRES, PAIRA PL, PALMERSTON LANE, PANDALA CT, PETUNIA CL, PICASSO CRES, PRESIDENTS PL, PRESSLAND ST, PRIMROSE ST, PYRENEES ST, RAVENBOURNE ST, RAY ST, REMBRANDT CL, ROGHAN RD, ROSE CRES, SALIM CT, SILKYOAK CCT, SOMERSET DR, STELLA PL, SUEBY CL, TARRILLI PL, TOMAREE LANE, TULLAMORE ST, TYAGARAH LANE, UNDARA LANE, VIOLET CL, WARRUMBUNGLE PDE, WATARRKA AVE, WHITEHORSE ST, WOLLEMI LANE",
         "SUBURBS": "CARSELDINE, FITZGIBBON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.79633,
+              -27.621014
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.794147,
+                  -27.622804
+                ],
+                [
+                  152.795914,
+                  -27.623589
+                ],
+                [
+                  152.796451,
+                  -27.623541
+                ],
+                [
+                  152.798608,
+                  -27.622048
+                ],
+                [
+                  152.798782,
+                  -27.62156
+                ],
+                [
+                  152.798133,
+                  -27.619666
+                ],
+                [
+                  152.797978,
+                  -27.619455
+                ],
+                [
+                  152.79678,
+                  -27.618544
+                ],
+                [
+                  152.796385,
+                  -27.618439
+                ],
+                [
+                  152.795184,
+                  -27.618581
+                ],
+                [
+                  152.794756,
+                  -27.618926
+                ],
+                [
+                  152.793935,
+                  -27.622073
+                ],
+                [
+                  152.793934,
+                  -27.622078
+                ],
+                [
+                  152.793879,
+                  -27.622303
+                ],
+                [
+                  152.794147,
+                  -27.622804
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747914-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "119",
+        "REASON": "Powerlines down",
+        "STATUS": "Awaiting",
+        "START": "5:31PM 13 Mar 2024",
+        "EST_FIX_TIME": "8:30PM 13 Mar 2024",
+        "STREETS": "BLACKSTONE RD, CHILCOTT ST, CREEK ST, DOROTHY ST, JOHNSTON ST, MARGARET ST, SEALY ST, STAFFORD ST",
+        "SUBURBS": "SILKSTONE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.821937,
+              -26.356308
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.792659,
+                  -26.364733
+                ],
+                [
+                  152.797787,
+                  -26.385513
+                ],
+                [
+                  152.797801,
+                  -26.385558
+                ],
+                [
+                  152.799518,
+                  -26.390197
+                ],
+                [
+                  152.799857,
+                  -26.390489
+                ],
+                [
+                  152.837031,
+                  -26.399938
+                ],
+                [
+                  152.837128,
+                  -26.399953
+                ],
+                [
+                  152.838998,
+                  -26.400083
+                ],
+                [
+                  152.83953,
+                  -26.399712
+                ],
+                [
+                  152.851226,
+                  -26.340102
+                ],
+                [
+                  152.851194,
+                  -26.339848
+                ],
+                [
+                  152.841294,
+                  -26.31868
+                ],
+                [
+                  152.841031,
+                  -26.318441
+                ],
+                [
+                  152.825773,
+                  -26.312533
+                ],
+                [
+                  152.825339,
+                  -26.312549
+                ],
+                [
+                  152.797204,
+                  -26.326127
+                ],
+                [
+                  152.797191,
+                  -26.326134
+                ],
+                [
+                  152.795697,
+                  -26.326905
+                ],
+                [
+                  152.795446,
+                  -26.327266
+                ],
+                [
+                  152.792648,
+                  -26.364604
+                ],
+                [
+                  152.792659,
+                  -26.364733
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747916-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "795",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:33PM 13 Mar 2024",
+        "EST_FIX_TIME": "8:00PM 13 Mar 2024",
+        "STREETS": "AKUNA LANE, ALBERT ST, ALEXANDRA ST, ALICE ST, ANN ST, ARTHYS RD, BAKERS RD, BARINA CT, BREWERS RD, BRUCE HWY, BRUSH BOX LANE, BUNDERRA WAY, CASEY ST, CHARLES ST, COLES CREEK RD, DRIERS RD, EDWARD ST, ELIZABETH ST, ENCHELMAIER RD, FALLS CREEK RD, GARDNERS RD, GEORGE ST, GREENRIDGE PINBARREN RD, HENRY ST, HENSLEY LANE, JAMES ST, JAMPOT CREEK RD, KELLEHERS RD, KIAH CT, KING ST, LENSKE LANE, MAHERS RD, MARTIN LANE, MARTIN ST, MARY ST, MITCHELL CT, NIMOOLA LANE, NORTHMOUNT RD, OMAROO PL, POMONA CONNECTION RD, POMONA KIN KIN RD, PRINCE ST, PRINCESS ST, QUEEN ST, RAILWAY RD, RISLEY CT, ROYAL CT, SANKEYS RD, SAUNDERS DR, SCHREIBERS RD, TABLELANDS RD, TANDERRA DR, TRAVESTON COORAN RD, TRAVESTON RD, UHLMANNS RD, VICTORIA ST, WANGRAH LANE, WEEMILAH CT, WILLAWONG PL, WILLIAM ST, WIRRUNA DR",
+        "SUBURBS": "COLES CREEK, COORAN, FEDERAL, PINBARREN, POMONA, TRAVESTON"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710315005.146879"
+  "extracted": "1710315301.141612"
 }
