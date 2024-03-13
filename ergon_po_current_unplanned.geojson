@@ -63,115 +63,6 @@
           {
             "type": "Point",
             "coordinates": [
-              145.450284,
-              -17.047562
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  145.43425,
-                  -17.017318
-                ],
-                [
-                  145.435632,
-                  -17.034072
-                ],
-                [
-                  145.435676,
-                  -17.03423
-                ],
-                [
-                  145.45873,
-                  -17.080885
-                ],
-                [
-                  145.458799,
-                  -17.080986
-                ],
-                [
-                  145.463891,
-                  -17.086662
-                ],
-                [
-                  145.464715,
-                  -17.086402
-                ],
-                [
-                  145.466318,
-                  -17.066648
-                ],
-                [
-                  145.466302,
-                  -17.066489
-                ],
-                [
-                  145.451952,
-                  -17.017874
-                ],
-                [
-                  145.451897,
-                  -17.017756
-                ],
-                [
-                  145.450498,
-                  -17.015624
-                ],
-                [
-                  145.450494,
-                  -17.015618
-                ],
-                [
-                  145.447743,
-                  -17.011561
-                ],
-                [
-                  145.447732,
-                  -17.011546
-                ],
-                [
-                  145.445507,
-                  -17.008545
-                ],
-                [
-                  145.444822,
-                  -17.008462
-                ],
-                [
-                  145.434415,
-                  -17.016937
-                ],
-                [
-                  145.43425,
-                  -17.017318
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN4029",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "53",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
-        "START": "11:52AM 13 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "BRUNALLI RD, FICHERA RD, HENRY HANNAM DR, KENNEALLY RD, KENNEDY HWY, LOCKWOOD RD, MARINELLI DR, TORRISI RD",
-        "SUBURBS": "MAREEBA, TINAROO CREEK"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -308,6 +199,59 @@
         "EST_FIX_TIME": "2:30PM 13 Mar 2024",
         "STREETS": "FABRELLAS RD, PYOTT RD",
         "SUBURBS": "AIRDMILLAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.185073,
+              -27.396958
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.185577,
+                  -27.396943
+                ],
+                [
+                  151.185056,
+                  -27.396507
+                ],
+                [
+                  151.184569,
+                  -27.396973
+                ],
+                [
+                  151.18509,
+                  -27.397408
+                ],
+                [
+                  151.185577,
+                  -27.396943
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6193",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:46AM 13 Mar 2024",
+        "EST_FIX_TIME": "1:00PM 13 Mar 2024",
+        "STREETS": "NANDI-GRASSDALE RD",
+        "SUBURBS": "NANDI"
       }
     },
     {
@@ -463,5 +407,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710295207.44854"
+  "extracted": "1710295501.424308"
 }
