@@ -235,9 +235,86 @@
         "STREETS": "GUMBOIL RD, HAMERSLEY LANE, LAUREL LANE, SIVYERS RD",
         "SUBURBS": "COOROY, LAKE MACDONALD, TINBEERWAH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.61117,
+              -27.201811
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.587215,
+                  -27.204425
+                ],
+                [
+                  152.613525,
+                  -27.21807
+                ],
+                [
+                  152.614082,
+                  -27.218041
+                ],
+                [
+                  152.635317,
+                  -27.203773
+                ],
+                [
+                  152.63528,
+                  -27.203028
+                ],
+                [
+                  152.603868,
+                  -27.185552
+                ],
+                [
+                  152.603219,
+                  -27.185639
+                ],
+                [
+                  152.589392,
+                  -27.199919
+                ],
+                [
+                  152.589329,
+                  -27.200001
+                ],
+                [
+                  152.587024,
+                  -27.203821
+                ],
+                [
+                  152.587215,
+                  -27.204425
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747824-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "8:35AM 13 Mar 2024",
+        "EST_FIX_TIME": "3:30PM 13 Mar 2024",
+        "STREETS": "COOGAN RD, KILNER RD, TOOLOORUM RD, WOODGATE RD",
+        "SUBURBS": "BRYDEN, CROSSDALE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710299101.762793"
+  "extracted": "1710299401.535271"
 }
