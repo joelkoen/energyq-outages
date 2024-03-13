@@ -63,6 +63,115 @@
           {
             "type": "Point",
             "coordinates": [
+              145.450284,
+              -17.047562
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.43425,
+                  -17.017318
+                ],
+                [
+                  145.435632,
+                  -17.034072
+                ],
+                [
+                  145.435676,
+                  -17.03423
+                ],
+                [
+                  145.45873,
+                  -17.080885
+                ],
+                [
+                  145.458799,
+                  -17.080986
+                ],
+                [
+                  145.463891,
+                  -17.086662
+                ],
+                [
+                  145.464715,
+                  -17.086402
+                ],
+                [
+                  145.466318,
+                  -17.066648
+                ],
+                [
+                  145.466302,
+                  -17.066489
+                ],
+                [
+                  145.451952,
+                  -17.017874
+                ],
+                [
+                  145.451897,
+                  -17.017756
+                ],
+                [
+                  145.450498,
+                  -17.015624
+                ],
+                [
+                  145.450494,
+                  -17.015618
+                ],
+                [
+                  145.447743,
+                  -17.011561
+                ],
+                [
+                  145.447732,
+                  -17.011546
+                ],
+                [
+                  145.445507,
+                  -17.008545
+                ],
+                [
+                  145.444822,
+                  -17.008462
+                ],
+                [
+                  145.434415,
+                  -17.016937
+                ],
+                [
+                  145.43425,
+                  -17.017318
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4030",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "53",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "12:30PM 13 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 13 Mar 2024",
+        "STREETS": "BRUNALLI RD, FICHERA RD, HENRY HANNAM DR, KENNEALLY RD, KENNEDY HWY, LOCKWOOD RD, MARINELLI DR, TORRISI RD",
+        "SUBURBS": "MAREEBA, TINAROO CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -122,6 +231,75 @@
         "EST_FIX_TIME": "12:00PM 22 Mar 2024",
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.786657,
+              -20.901037
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.785903,
+                  -20.901929
+                ],
+                [
+                  148.786544,
+                  -20.901961
+                ],
+                [
+                  148.786938,
+                  -20.9018
+                ],
+                [
+                  148.787848,
+                  -20.900776
+                ],
+                [
+                  148.787835,
+                  -20.900183
+                ],
+                [
+                  148.787209,
+                  -20.900113
+                ],
+                [
+                  148.785658,
+                  -20.901105
+                ],
+                [
+                  148.785465,
+                  -20.901599
+                ],
+                [
+                  148.785903,
+                  -20.901929
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2814",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:10PM 13 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 13 Mar 2024",
+        "STREETS": "MCDERMOTTS RD",
+        "SUBURBS": "KOLIJO"
       }
     },
     {
@@ -407,5 +585,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710295801.670037"
+  "extracted": "1710296401.443366"
 }
