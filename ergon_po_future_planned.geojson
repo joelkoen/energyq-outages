@@ -1435,6 +1435,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.464365,
+          -17.258234
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3372",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 14 Mar 2024",
+        "EST_FIX_TIME": "12:00PM 14 Mar 2024",
+        "STREETS": "JESSOP RD",
+        "SUBURBS": "ATHERTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.063645,
           -17.17362
         ]
@@ -5507,5 +5528,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1710371100.390307"
+  "extracted": "1710371400.461968"
 }
