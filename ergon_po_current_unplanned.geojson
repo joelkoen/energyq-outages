@@ -123,9 +123,126 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.322235,
+              -25.079367
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.296502,
+                  -25.093899
+                ],
+                [
+                  152.296969,
+                  -25.098039
+                ],
+                [
+                  152.297529,
+                  -25.098439
+                ],
+                [
+                  152.312115,
+                  -25.09658
+                ],
+                [
+                  152.312231,
+                  -25.096551
+                ],
+                [
+                  152.315625,
+                  -25.095307
+                ],
+                [
+                  152.315799,
+                  -25.095199
+                ],
+                [
+                  152.325282,
+                  -25.086082
+                ],
+                [
+                  152.325292,
+                  -25.086072
+                ],
+                [
+                  152.346289,
+                  -25.064546
+                ],
+                [
+                  152.346325,
+                  -25.064504
+                ],
+                [
+                  152.347967,
+                  -25.062351
+                ],
+                [
+                  152.34785,
+                  -25.061729
+                ],
+                [
+                  152.34579,
+                  -25.06038
+                ],
+                [
+                  152.345492,
+                  -25.060296
+                ],
+                [
+                  152.30974,
+                  -25.060879
+                ],
+                [
+                  152.309288,
+                  -25.061168
+                ],
+                [
+                  152.298684,
+                  -25.086385
+                ],
+                [
+                  152.298668,
+                  -25.086429
+                ],
+                [
+                  152.296517,
+                  -25.093736
+                ],
+                [
+                  152.296502,
+                  -25.093899
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4041",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "48",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:13AM 14 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "FARNSFIELD RD, FOLEYS RD, GOODWOOD RD, HETHERINGTONS RD, JOHNSONS RD, PRANGES RD, STRANOS RD",
+        "SUBURBS": "CHILDERS, FARNSFIELD, KINKUNA, NORTH GREGORY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710364504.855714"
+  "extracted": "1710364801.576465"
 }
