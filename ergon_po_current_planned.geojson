@@ -322,6 +322,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          149.049631,
+          -21.017116
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2198",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 14 Mar 2024",
+        "EST_FIX_TIME": "10:00AM 14 Mar 2024",
+        "STREETS": "OLLETTS RD",
+        "SUBURBS": "HABANA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.199641,
+          -21.152411
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2374",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "131",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:41AM 14 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 14 Mar 2024",
+        "STREETS": "BINNINGTON ESP, CAMERON ST, HOEY ST, MARSH ST, MULHERIN ST, NOTT ST, PEARCE ST",
+        "SUBURBS": "EAST MACKAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.641447,
           -20.351501
         ]
@@ -950,5 +992,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710369600.523022"
+  "extracted": "1710369905.785348"
 }
