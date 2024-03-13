@@ -248,9 +248,90 @@
         "STREETS": "CUNNINGHAM HWY, KENGOON RD, KENTS LAGOON RD, LILY WATERHOLE RD, MACFARLANE RD, PRENZLER RD",
         "SUBURBS": "KALBAR, KENTS LAGOON, MUNBILLA, SILVERDALE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.191338,
+              -27.775409
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.187795,
+                  -27.776062
+                ],
+                [
+                  153.189593,
+                  -27.776594
+                ],
+                [
+                  153.189814,
+                  -27.776614
+                ],
+                [
+                  153.194975,
+                  -27.776057
+                ],
+                [
+                  153.195229,
+                  -27.775255
+                ],
+                [
+                  153.194176,
+                  -27.774514
+                ],
+                [
+                  153.193934,
+                  -27.774421
+                ],
+                [
+                  153.192254,
+                  -27.774204
+                ],
+                [
+                  153.192053,
+                  -27.774214
+                ],
+                [
+                  153.187826,
+                  -27.775197
+                ],
+                [
+                  153.187447,
+                  -27.775619
+                ],
+                [
+                  153.187795,
+                  -27.776062
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747938-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "7:54PM 13 Mar 2024",
+        "EST_FIX_TIME": "10:30PM 13 Mar 2024",
+        "STREETS": "STANMORE RD",
+        "SUBURBS": "LUSCOMBE, YATALA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710323401.201285"
+  "extracted": "1710323701.161282"
 }
