@@ -133,6 +133,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.494681,
+          -17.503982
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3173",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:18AM 14 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 14 Mar 2024",
+        "STREETS": "KELSO RD, KENNEDY HWY, KIDNER RD",
+        "SUBURBS": "EVELYN, EVELYN CENTRAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.935657,
           -18.236492
         ]
@@ -908,5 +929,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710371705.379013"
+  "extracted": "1710372000.492937"
 }
