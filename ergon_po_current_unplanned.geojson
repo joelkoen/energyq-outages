@@ -63,6 +63,83 @@
           {
             "type": "Point",
             "coordinates": [
+              145.380805,
+              -16.54446
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.377933,
+                  -16.548062
+                ],
+                [
+                  145.38267,
+                  -16.547161
+                ],
+                [
+                  145.383022,
+                  -16.546866
+                ],
+                [
+                  145.384198,
+                  -16.543599
+                ],
+                [
+                  145.384073,
+                  -16.543118
+                ],
+                [
+                  145.382673,
+                  -16.541876
+                ],
+                [
+                  145.382597,
+                  -16.541821
+                ],
+                [
+                  145.38093,
+                  -16.540858
+                ],
+                [
+                  145.380259,
+                  -16.541067
+                ],
+                [
+                  145.377412,
+                  -16.54744
+                ],
+                [
+                  145.377933,
+                  -16.548062
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4049",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
+        "STATUS": "Crews on route",
+        "START": "4:33PM 13 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CLAYTON LANE, DEVIL DEVIL CREEK, MOSSMAN MT MOLLOY RD, NINE MILE RD, REX HWY",
+        "SUBURBS": "JULATTEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -196,5 +273,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710316201.763844"
+  "extracted": "1710316501.796219"
 }
