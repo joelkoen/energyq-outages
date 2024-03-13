@@ -1129,7 +1129,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "18",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "Cancelled",
         "START": "8:00AM 14 Mar 2024",
         "EST_FIX_TIME": "3:30PM 14 Mar 2024",
         "STREETS": "BENT ST, GRENADE ST",
@@ -1225,27 +1225,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.095595,
-          -27.430824
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-742584-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
-        "START": "7:00AM 16 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 17 Mar 2024",
-        "STREETS": "FRENCH ST",
-        "SUBURBS": "EAGLE FARM"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.095391,
           -27.430995
         ]
@@ -1258,6 +1237,27 @@
         "STATUS": "Scheduled",
         "START": "7:00AM 16 Mar 2024",
         "EST_FIX_TIME": "4:00PM 16 Mar 2024",
+        "STREETS": "FRENCH ST",
+        "SUBURBS": "EAGLE FARM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.095595,
+          -27.430824
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-742584-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "7:00AM 16 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 17 Mar 2024",
         "STREETS": "FRENCH ST",
         "SUBURBS": "EAGLE FARM"
       }
@@ -2483,5 +2483,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1710302100.540597"
+  "extracted": "1710302404.739474"
 }
