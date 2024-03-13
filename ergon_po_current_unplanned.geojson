@@ -63,6 +63,99 @@
           {
             "type": "Point",
             "coordinates": [
+              150.6437,
+              -22.790287
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.608578,
+                  -22.762964
+                ],
+                [
+                  150.61935,
+                  -22.837979
+                ],
+                [
+                  150.619476,
+                  -22.838226
+                ],
+                [
+                  150.62149,
+                  -22.840232
+                ],
+                [
+                  150.621802,
+                  -22.840374
+                ],
+                [
+                  150.646413,
+                  -22.842458
+                ],
+                [
+                  150.646769,
+                  -22.842356
+                ],
+                [
+                  150.660089,
+                  -22.832059
+                ],
+                [
+                  150.660254,
+                  -22.831802
+                ],
+                [
+                  150.678821,
+                  -22.745938
+                ],
+                [
+                  150.678583,
+                  -22.745457
+                ],
+                [
+                  150.66453,
+                  -22.73813
+                ],
+                [
+                  150.664082,
+                  -22.738116
+                ],
+                [
+                  150.608851,
+                  -22.762497
+                ],
+                [
+                  150.608578,
+                  -22.762964
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4420",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "98",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:30AM 14 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BROUGHTON RD, BYFIELD RD, CAHILLS RD, CASTLE ROCK RD, JEALOUS RD, POLKA RD, RICHTERS RD, YAXLEYS RD",
+        "SUBURBS": "BYFIELD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -244,5 +337,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710365405.052272"
+  "extracted": "1710365700.493333"
 }
