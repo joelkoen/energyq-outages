@@ -297,6 +297,67 @@
           {
             "type": "Point",
             "coordinates": [
+              145.746055,
+              -16.860402
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.746958,
+                  -16.860221
+                ],
+                [
+                  145.745456,
+                  -16.859728
+                ],
+                [
+                  145.74486,
+                  -16.86001
+                ],
+                [
+                  145.745153,
+                  -16.860583
+                ],
+                [
+                  145.746654,
+                  -16.861076
+                ],
+                [
+                  145.74725,
+                  -16.860795
+                ],
+                [
+                  145.746958,
+                  -16.860221
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4039",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:19PM 13 Mar 2024",
+        "EST_FIX_TIME": "6:00PM 13 Mar 2024",
+        "STREETS": "BARRON RIVER ESP, UNKNOWN ST",
+        "SUBURBS": "MACHANS BEACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -515,5 +576,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710303601.606511"
+  "extracted": "1710303901.09096"
 }
