@@ -164,6 +164,139 @@
           {
             "type": "Point",
             "coordinates": [
+              152.635572,
+              -27.896996
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.602775,
+                  -27.874254
+                ],
+                [
+                  152.615798,
+                  -27.920559
+                ],
+                [
+                  152.615838,
+                  -27.920653
+                ],
+                [
+                  152.622275,
+                  -27.931949
+                ],
+                [
+                  152.622685,
+                  -27.932195
+                ],
+                [
+                  152.624967,
+                  -27.932371
+                ],
+                [
+                  152.625123,
+                  -27.932361
+                ],
+                [
+                  152.631697,
+                  -27.931044
+                ],
+                [
+                  152.631983,
+                  -27.930885
+                ],
+                [
+                  152.655473,
+                  -27.904599
+                ],
+                [
+                  152.655546,
+                  -27.904488
+                ],
+                [
+                  152.668332,
+                  -27.876498
+                ],
+                [
+                  152.668369,
+                  -27.876305
+                ],
+                [
+                  152.667603,
+                  -27.862976
+                ],
+                [
+                  152.667337,
+                  -27.862602
+                ],
+                [
+                  152.667021,
+                  -27.862451
+                ],
+                [
+                  152.666798,
+                  -27.862397
+                ],
+                [
+                  152.642562,
+                  -27.861622
+                ],
+                [
+                  152.642514,
+                  -27.861623
+                ],
+                [
+                  152.628462,
+                  -27.862356
+                ],
+                [
+                  152.628297,
+                  -27.86239
+                ],
+                [
+                  152.607637,
+                  -27.86999
+                ],
+                [
+                  152.607487,
+                  -27.870075
+                ],
+                [
+                  152.602924,
+                  -27.873813
+                ],
+                [
+                  152.602775,
+                  -27.874254
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747924-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "193",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "6:33PM 13 Mar 2024",
+        "EST_FIX_TIME": "10:00PM 13 Mar 2024",
+        "STREETS": "CUNNINGHAM HWY, GOETSCH RD, GREER RD, KALBAR-PEAK CROSSING RD, KELLY RD, KENGOON RD, KENTS LAGOON RD, KULGUN RD, LILY WATERHOLE RD, MACFARLANE RD, MILBONG-MUNBILLA RD, MUNBILLA RD, PEARSON RD, PRENZLER RD, SUNRISE PDE",
+        "SUBURBS": "KALBAR, KENTS LAGOON, MILORA, MUNBILLA, SILVERDALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.191338,
               -27.775409
             ]
@@ -393,5 +526,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710328801.200039"
+  "extracted": "1710329101.740786"
 }
