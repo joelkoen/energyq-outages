@@ -63,6 +63,131 @@
           {
             "type": "Point",
             "coordinates": [
+              150.712182,
+              -23.070941
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.658844,
+                  -23.029589
+                ],
+                [
+                  150.715957,
+                  -23.09653
+                ],
+                [
+                  150.716001,
+                  -23.096575
+                ],
+                [
+                  150.746116,
+                  -23.123523
+                ],
+                [
+                  150.746334,
+                  -23.123636
+                ],
+                [
+                  150.74725,
+                  -23.123853
+                ],
+                [
+                  150.747451,
+                  -23.123861
+                ],
+                [
+                  150.747832,
+                  -23.123802
+                ],
+                [
+                  150.747953,
+                  -23.123768
+                ],
+                [
+                  150.748604,
+                  -23.123496
+                ],
+                [
+                  150.74887,
+                  -23.123216
+                ],
+                [
+                  150.765477,
+                  -23.072835
+                ],
+                [
+                  150.765496,
+                  -23.072748
+                ],
+                [
+                  150.76552,
+                  -23.072521
+                ],
+                [
+                  150.765352,
+                  -23.072135
+                ],
+                [
+                  150.701978,
+                  -23.021944
+                ],
+                [
+                  150.701975,
+                  -23.021941
+                ],
+                [
+                  150.697055,
+                  -23.018117
+                ],
+                [
+                  150.696637,
+                  -23.018022
+                ],
+                [
+                  150.667408,
+                  -23.024002
+                ],
+                [
+                  150.667252,
+                  -23.024061
+                ],
+                [
+                  150.658965,
+                  -23.028929
+                ],
+                [
+                  150.658844,
+                  -23.029589
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4404",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1855",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "1:13PM 13 Mar 2024",
+        "EST_FIX_TIME": "3:30PM 13 Mar 2024",
+        "STREETS": "ADELAIDE PARK RD, ANDERSON ST, ARMSTRONG RD, ATHENA AVE, ATOLL CL, BARNES ST, BARRINGTON CT, BERNBOROUGH DR, BRADFORD AVE, BROADBEACH CT, BRODIE CT, BROWNS LANE, CAPE MANIFOLD AVE, CIVIC LANE, CLEARVIEW LANE, COKAS AVE, COLEMAN CRES, COLLINS RD, CONICAL ROCKS AVE, COOK AVE, CORBETT ST, COXWOLD PL, CRAYKE CT, CULGOA ST, DRUCES RD, EROS ST, FARNBOROUGH RD, FORD ST, FOUND ST, FRASER CRES, GORDON AVE, GREER ST, GUS MOORE ST, HEASLIP ST, HELLAS ST, HERMES ST, HERON CT, HINZ AVE, HOWES RD, ISLAND VIEW CRES, JARMAN ST, KEAN ST, KELLYS LANDING RD, KEPPEL ST, KEPPEL TCE, KERR ST, KIAMA AVE, LACEYS RD, LETCHFORD CT, LITTLE LANE, MACAULAY WAY, MACDONALD ST, MANA AVE, MARLIN ST, MAVIS CL, MEIKLEVILLE ST, MIAMI CRES, MILLVIEW RD, MIRRAWENA AVE, OCEAN CIR, OLYMPIA AVE, PACIFIC DR, PACIFIC HEIGHTS RD, PACIFIC VISTA CL, PALM CT, PANORAMA DR, PARADIGM RD, PITCAIRN CT, PORT CLINTON AVE, PRIORS PKT, ROBERTS RD, SALISBURY ST, SAMOA ST, SETU DR, SMITH ST, SOLOMON CT, STEVENSON ST, STONES RD, STROW ST, SWAINS AVE, SWEETMARIE RD, THE ESPLANADE, TODD AVE, TONGA CL, WARD LANE, WILD RD, WILSON ST, WOODBURY RD, WOODWIND VALLEY RD, YEARSLEY GR, ZEUS ST",
+        "SUBURBS": "BANGALEE, BARLOWS HILL, BUNGUNDARRA, FARNBOROUGH, MEIKLEVILLE HILL, PACIFIC HEIGHTS, WOODBURY, YEPPOON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.450284,
               -17.047562
             ]
@@ -467,5 +592,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710299401.564255"
+  "extracted": "1710300000.877024"
 }
