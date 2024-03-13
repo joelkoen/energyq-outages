@@ -142,9 +142,102 @@
         "STREETS": "BANDICOOT LANE, BANKSIA RD, BILBOROUGH CT, BOY-ULL RD, CANYON PDE, CARRICKS RD, EE-JUNG RD, FORESTRY RD, GWONGORELLA PDE, KURALBOO ST, LLOYDS RD, LYREBIRD RIDGE RD, MIMOSA RD, MUNDORA RD, OLD SCHOOL RD, REPEATER STATION RD, SPRINGBROOK RD, VELVET DOWNS RD, WATTLE GR",
         "SUBURBS": "CURRUMBIN VALLEY, SPRINGBROOK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.952279,
+              -26.394143
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.945,
+                  -26.391667
+                ],
+                [
+                  152.947231,
+                  -26.397292
+                ],
+                [
+                  152.947353,
+                  -26.397463
+                ],
+                [
+                  152.949454,
+                  -26.399314
+                ],
+                [
+                  152.949886,
+                  -26.399437
+                ],
+                [
+                  152.957749,
+                  -26.398273
+                ],
+                [
+                  152.958023,
+                  -26.398146
+                ],
+                [
+                  152.959379,
+                  -26.396913
+                ],
+                [
+                  152.959524,
+                  -26.396615
+                ],
+                [
+                  152.959557,
+                  -26.395943
+                ],
+                [
+                  152.959331,
+                  -26.395545
+                ],
+                [
+                  152.947952,
+                  -26.388849
+                ],
+                [
+                  152.947299,
+                  -26.388931
+                ],
+                [
+                  152.945093,
+                  -26.391219
+                ],
+                [
+                  152.945,
+                  -26.391667
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747823-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "20",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "12:56PM 13 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 13 Mar 2024",
+        "STREETS": "GUMBOIL RD, HAMERSLEY LANE, LAUREL LANE, SIVYERS RD",
+        "SUBURBS": "COOROY, LAKE MACDONALD, TINBEERWAH"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710298801.290559"
+  "extracted": "1710299101.762793"
 }
