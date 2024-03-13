@@ -458,9 +458,82 @@
         "STREETS": "CLIFTON LEYBURN RD, MILLBROOK BACK PLAINS RD",
         "SUBURBS": "ELLANGOWAN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.263003,
+              -27.075475
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.261601,
+                  -27.074371
+                ],
+                [
+                  151.261742,
+                  -27.076169
+                ],
+                [
+                  151.261949,
+                  -27.076503
+                ],
+                [
+                  151.262654,
+                  -27.07696
+                ],
+                [
+                  151.2631,
+                  -27.077025
+                ],
+                [
+                  151.264177,
+                  -27.076724
+                ],
+                [
+                  151.264404,
+                  -27.075996
+                ],
+                [
+                  151.262481,
+                  -27.074042
+                ],
+                [
+                  151.261909,
+                  -27.073924
+                ],
+                [
+                  151.261601,
+                  -27.074371
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6208",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:17AM 13 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "HUSTONS RD, WAMBO TCE",
+        "SUBURBS": "PIRRINUAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710287701.222882"
+  "extracted": "1710288006.047596"
 }
