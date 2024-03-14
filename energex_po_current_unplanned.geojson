@@ -130,9 +130,78 @@
         "STREETS": "HENDERSON ST, LOGANVIEW RD, MEADOW RD, ROSSMORE RD",
         "SUBURBS": "CHAMBERS FLAT, LOGAN RESERVE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.718761,
+              -26.847451
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.71697,
+                  -26.84701
+                ],
+                [
+                  152.720052,
+                  -26.848691
+                ],
+                [
+                  152.720737,
+                  -26.848549
+                ],
+                [
+                  152.720596,
+                  -26.847931
+                ],
+                [
+                  152.718398,
+                  -26.846596
+                ],
+                [
+                  152.718317,
+                  -26.846555
+                ],
+                [
+                  152.717432,
+                  -26.846211
+                ],
+                [
+                  152.716784,
+                  -26.846417
+                ],
+                [
+                  152.71697,
+                  -26.84701
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-748227-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "Powerlines down",
+        "STATUS": "Awaiting",
+        "START": "4:58PM 14 Mar 2024",
+        "EST_FIX_TIME": "7:30PM 14 Mar 2024",
+        "STREETS": "BELLTHORPE WEST RD",
+        "SUBURBS": "BELLTHORPE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710399301.051869"
+  "extracted": "1710399901.230479"
 }
