@@ -430,9 +430,110 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              140.506773,
+              -20.565013
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  140.166609,
+                  -20.309754
+                ],
+                [
+                  140.248048,
+                  -20.498022
+                ],
+                [
+                  140.248204,
+                  -20.498212
+                ],
+                [
+                  140.537432,
+                  -20.701599
+                ],
+                [
+                  140.537447,
+                  -20.701609
+                ],
+                [
+                  140.727559,
+                  -20.824389
+                ],
+                [
+                  140.728067,
+                  -20.824408
+                ],
+                [
+                  140.754236,
+                  -20.810242
+                ],
+                [
+                  140.754408,
+                  -20.810083
+                ],
+                [
+                  140.837427,
+                  -20.679354
+                ],
+                [
+                  140.837489,
+                  -20.679194
+                ],
+                [
+                  140.846938,
+                  -20.62335
+                ],
+                [
+                  140.846679,
+                  -20.622877
+                ],
+                [
+                  140.172543,
+                  -20.305618
+                ],
+                [
+                  140.172053,
+                  -20.305654
+                ],
+                [
+                  140.166773,
+                  -20.30922
+                ],
+                [
+                  140.166609,
+                  -20.309754
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6140",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "37",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "STATUS": "Outage reported",
+        "START": "12:11PM 14 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BURKE DEVELOPMENT RD, CARSLAND STATION, CASTLEREAGH STATION, DIPVALE STATION, DRYBURGH STATION, ELDER CREEK BORE, ELDER CREEK STATION, FISHERS CREEK, FLINDERS HWY, HILLSIDE STATION, ILKLEY STATION, JERSEY PLAINS STATION, JULIA CREEK RD, LANARK STATION, MAPPERLEY PARK STATION, MINDIE STATION, MT ROSEBY STATION, MUSGRAVE ST, NORMANTON RD, PYMURRA SDNG, THREE WAYS RD, WYNBERG STATION",
+        "SUBURBS": "CLONCURRY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710383405.959669"
+  "extracted": "1710384001.633357"
 }
