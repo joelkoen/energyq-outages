@@ -49,27 +49,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.047551,
-          -27.462653
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-737027-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "36",
-        "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
-        "START": "7:00AM 14 Mar 2024",
-        "EST_FIX_TIME": "2:30PM 14 Mar 2024",
-        "STREETS": "JAMES ST, VILLIERS ST",
-        "SUBURBS": "NEW FARM"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           152.899105,
           -27.630375
         ]
@@ -868,27 +847,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.095391,
-          -27.430995
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-742584-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
-        "START": "7:00AM 16 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 16 Mar 2024",
-        "STREETS": "FRENCH ST",
-        "SUBURBS": "EAGLE FARM"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.095595,
           -27.430824
         ]
@@ -901,6 +859,27 @@
         "STATUS": "Scheduled",
         "START": "7:00AM 16 Mar 2024",
         "EST_FIX_TIME": "4:00PM 17 Mar 2024",
+        "STREETS": "FRENCH ST",
+        "SUBURBS": "EAGLE FARM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.095391,
+          -27.430995
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-742584-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "7:00AM 16 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 16 Mar 2024",
         "STREETS": "FRENCH ST",
         "SUBURBS": "EAGLE FARM"
       }
@@ -1129,7 +1108,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "84",
         "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
+        "STATUS": "Completed",
         "START": "8:00AM 14 Mar 2024",
         "EST_FIX_TIME": "3:00PM 14 Mar 2024",
         "STREETS": "NORTH ST, RICKMAN PDE, THIRD AVE",
@@ -2189,5 +2168,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1710393304.415394"
+  "extracted": "1710393601.429666"
 }

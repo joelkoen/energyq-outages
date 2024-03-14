@@ -268,9 +268,110 @@
         "STREETS": "ANZAC PDE, ARGENTS RD, BAGLEY ST, BARCLAY ST, BEE CREEK RD, BLINES RD, CAPPER ST, CHELMER ST, COMERFORD ST, COOK ST, CUMMINGS ST, CUNNINGHAM ST, CURRAN ST, CURRANS GULLY RD, DALRYMPLE ST, DE BONIS RD, DREW ST, EUNGELLA DAM RD, FAUXS RD, GORGE RD, GRECHS RD, HANSEN ST, HOWIE ST, JACK CUNNINGHAM ST, JOHNSTONS RD, JONES RD, KOWARI GORGE RD, KOWARI RD, LETCHFORD ST, LUCAS PADDOCK RD, MACKAY EUNGELLA RD, MATTHEW ST, MCLEANS RD, MILL CT, NORTH ST, OKULOO RD, OWENS CREEK LOOP RD, OWENS CREEK RD, PEOPLES ST, PITTIONIS RD, PRIMROSES RD, RUSSELL CUNNINGHAM ST, SCHOOL RD, SENINIS RD, SONNY BOY CREEK RD, TANNALO GALEA RD, THORNES RD, THURGOODS RD, TRUEMAN DEPOT RD, VAN HOUWENINGE RD, WILSONS PADDOCK RD, ZAHMEL ST",
         "SUBURBS": "DALRYMPLE HEIGHTS, EUNGELLA, FINCH HATTON, FINCH HATTON GORGE, GAYNDAH, MACKAY, NETHERDALE, OWENS CREEK, PINNACLE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.789488,
+              -26.56968
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.787815,
+                  -26.570524
+                ],
+                [
+                  148.788468,
+                  -26.571607
+                ],
+                [
+                  148.788887,
+                  -26.571842
+                ],
+                [
+                  148.79014,
+                  -26.571892
+                ],
+                [
+                  148.790649,
+                  -26.571551
+                ],
+                [
+                  148.791203,
+                  -26.569563
+                ],
+                [
+                  148.791218,
+                  -26.56944
+                ],
+                [
+                  148.791166,
+                  -26.567804
+                ],
+                [
+                  148.790346,
+                  -26.567468
+                ],
+                [
+                  148.789494,
+                  -26.568095
+                ],
+                [
+                  148.789453,
+                  -26.568129
+                ],
+                [
+                  148.787997,
+                  -26.569468
+                ],
+                [
+                  148.787867,
+                  -26.569682
+                ],
+                [
+                  148.787818,
+                  -26.569874
+                ],
+                [
+                  148.78781,
+                  -26.569914
+                ],
+                [
+                  148.787759,
+                  -26.570248
+                ],
+                [
+                  148.787815,
+                  -26.570524
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6313",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "41",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "5:30PM 14 Mar 2024",
+        "EST_FIX_TIME": "10:00PM 14 Mar 2024",
+        "STREETS": "ARTHUR ST, BUNGIL ST, HAWTHORNE ST, MCDOWALL ST",
+        "SUBURBS": "ROMA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710393302.509099"
+  "extracted": "1710393600.633731"
 }
