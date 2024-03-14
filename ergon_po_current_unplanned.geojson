@@ -63,6 +63,67 @@
           {
             "type": "Point",
             "coordinates": [
+              145.524254,
+              -17.570114
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.524328,
+                  -17.569357
+                ],
+                [
+                  145.523478,
+                  -17.570269
+                ],
+                [
+                  145.523515,
+                  -17.570907
+                ],
+                [
+                  145.52418,
+                  -17.570871
+                ],
+                [
+                  145.52503,
+                  -17.569959
+                ],
+                [
+                  145.524993,
+                  -17.569321
+                ],
+                [
+                  145.524328,
+                  -17.569357
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4094",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:00AM 15 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "KENNEDY HWY",
+        "SUBURBS": "CHILVERTON, RAVENSHOE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -132,6 +193,71 @@
           {
             "type": "Point",
             "coordinates": [
+              149.230933,
+              -21.606567
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.230954,
+                  -21.607338
+                ],
+                [
+                  149.231686,
+                  -21.606613
+                ],
+                [
+                  149.231705,
+                  -21.606014
+                ],
+                [
+                  149.231451,
+                  -21.605728
+                ],
+                [
+                  149.230638,
+                  -21.605835
+                ],
+                [
+                  149.230161,
+                  -21.606846
+                ],
+                [
+                  149.230336,
+                  -21.607405
+                ],
+                [
+                  149.230954,
+                  -21.607338
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2879",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews working on-site",
+        "START": "7:22AM 15 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOLINGBROKE RD",
+        "SUBURBS": "KOUMALA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.128391,
               -20.110918
             ]
@@ -184,86 +310,9 @@
         "STREETS": "ABBOT POINT RD, PETER DELAMOTHE RD",
         "SUBURBS": "BOWEN"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              146.717454,
-              -19.399223
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  146.715938,
-                  -19.398885
-                ],
-                [
-                  146.716344,
-                  -19.399762
-                ],
-                [
-                  146.716632,
-                  -19.40001
-                ],
-                [
-                  146.718235,
-                  -19.400506
-                ],
-                [
-                  146.718857,
-                  -19.400112
-                ],
-                [
-                  146.71897,
-                  -19.398758
-                ],
-                [
-                  146.718713,
-                  -19.398321
-                ],
-                [
-                  146.718012,
-                  -19.397978
-                ],
-                [
-                  146.717684,
-                  -19.397941
-                ],
-                [
-                  146.716263,
-                  -19.398264
-                ],
-                [
-                  146.715938,
-                  -19.398885
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ6166",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "11",
-        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
-        "STATUS": "Outage reported",
-        "START": "11:27PM 14 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "TENNESSEE WAY",
-        "SUBURBS": "KELSO"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710430206.695502"
+  "extracted": "1710460201.253268"
 }
