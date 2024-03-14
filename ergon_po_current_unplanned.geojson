@@ -249,6 +249,127 @@
           {
             "type": "Point",
             "coordinates": [
+              145.669052,
+              -16.772271
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.659692,
+                  -16.756527
+                ],
+                [
+                  145.661009,
+                  -16.763168
+                ],
+                [
+                  145.661064,
+                  -16.763309
+                ],
+                [
+                  145.676747,
+                  -16.789522
+                ],
+                [
+                  145.677265,
+                  -16.789735
+                ],
+                [
+                  145.677622,
+                  -16.789314
+                ],
+                [
+                  145.678412,
+                  -16.770482
+                ],
+                [
+                  145.678375,
+                  -16.770287
+                ],
+                [
+                  145.673239,
+                  -16.758664
+                ],
+                [
+                  145.673237,
+                  -16.75866
+                ],
+                [
+                  145.672608,
+                  -16.757276
+                ],
+                [
+                  145.672558,
+                  -16.757191
+                ],
+                [
+                  145.672498,
+                  -16.757112
+                ],
+                [
+                  145.67249,
+                  -16.757102
+                ],
+                [
+                  145.672152,
+                  -16.756678
+                ],
+                [
+                  145.671861,
+                  -16.756509
+                ],
+                [
+                  145.661754,
+                  -16.754808
+                ],
+                [
+                  145.661387,
+                  -16.754895
+                ],
+                [
+                  145.660772,
+                  -16.755353
+                ],
+                [
+                  145.660757,
+                  -16.755364
+                ],
+                [
+                  145.659851,
+                  -16.756096
+                ],
+                [
+                  145.659692,
+                  -16.756527
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4071",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "645",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "12:09PM 14 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AGINCOURT CL, ALEXANDRA ST, BEAVER ST, BLIGH CL, BRAMBLE ST, CAPTAIN COOK HWY, CASTOR ST, EDDY ST, EGMONT CL, ELFORD ST, ELLISON ST, ENDEAVOUR RD, ESCAPE CL, FLORA CL, FRANKLIN CL, GIBSON CL, GUIDE ST, HAYCOCK ST, HELIX CL, HOPE ST, HOUSTON ST, ILSE CL, JUPITER CL, LEGRET CL, LENA CL, LINDEN ST, MICHAELMAS CL, MICHELIA ST, ONYX ST, OPAL REEF CT, OSTERLAND ST, PELLOWE ST, RIBBON CL, SATELLITE ST, SAUNDERS CT, SAVAII CL, SAXON ST, SEASCAPE CL, SPUR CL, ST CRISPIN ST, SUDBURY CL, THETFORD CL, TURTLE CL, TYDEMAN CRES, UPOLU ESP, WHITEHAVEN CT",
+        "SUBURBS": "CLIFTON BEACH, DEEP CREEK, PALM COVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -313,5 +434,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710382200.549513"
+  "extracted": "1710382505.909515"
 }
