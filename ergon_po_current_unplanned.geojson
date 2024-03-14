@@ -156,6 +156,99 @@
           {
             "type": "Point",
             "coordinates": [
+              147.645338,
+              -22.234179
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.536722,
+                  -22.156982
+                ],
+                [
+                  147.593356,
+                  -22.303125
+                ],
+                [
+                  147.593366,
+                  -22.303149
+                ],
+                [
+                  147.597271,
+                  -22.311699
+                ],
+                [
+                  147.597788,
+                  -22.311969
+                ],
+                [
+                  147.74231,
+                  -22.292244
+                ],
+                [
+                  147.742588,
+                  -22.292112
+                ],
+                [
+                  147.753954,
+                  -22.281195
+                ],
+                [
+                  147.753922,
+                  -22.280538
+                ],
+                [
+                  147.684037,
+                  -22.22473
+                ],
+                [
+                  147.683964,
+                  -22.224682
+                ],
+                [
+                  147.571591,
+                  -22.163805
+                ],
+                [
+                  147.571457,
+                  -22.163756
+                ],
+                [
+                  147.537288,
+                  -22.156389
+                ],
+                [
+                  147.536722,
+                  -22.156982
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4430",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "10:47AM 14 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DIAMOND DOWNS RD, KENLOGAN RD, OFF PEAK DOWNS HWY, WONDABAH RD",
+        "SUBURBS": "CLERMONT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -369,5 +462,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710377401.311716"
+  "extracted": "1710377700.468833"
 }
