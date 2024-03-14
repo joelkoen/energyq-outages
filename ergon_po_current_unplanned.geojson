@@ -63,99 +63,6 @@
           {
             "type": "Point",
             "coordinates": [
-              147.645338,
-              -22.234179
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  147.536722,
-                  -22.156982
-                ],
-                [
-                  147.593356,
-                  -22.303125
-                ],
-                [
-                  147.593366,
-                  -22.303149
-                ],
-                [
-                  147.597271,
-                  -22.311699
-                ],
-                [
-                  147.597788,
-                  -22.311969
-                ],
-                [
-                  147.74231,
-                  -22.292244
-                ],
-                [
-                  147.742588,
-                  -22.292112
-                ],
-                [
-                  147.753954,
-                  -22.281195
-                ],
-                [
-                  147.753922,
-                  -22.280538
-                ],
-                [
-                  147.684037,
-                  -22.22473
-                ],
-                [
-                  147.683964,
-                  -22.224682
-                ],
-                [
-                  147.571591,
-                  -22.163805
-                ],
-                [
-                  147.571457,
-                  -22.163756
-                ],
-                [
-                  147.537288,
-                  -22.156389
-                ],
-                [
-                  147.536722,
-                  -22.156982
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA4430",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "23",
-        "REASON": "The loss of supply is due to public safety concerns.",
-        "STATUS": "Crews working on-site",
-        "START": "10:47AM 14 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "DIAMOND DOWNS RD, KENLOGAN RD, OFF PEAK DOWNS HWY, WONDABAH RD",
-        "SUBURBS": "CLERMONT"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               148.272509,
               -22.427887
             ]
@@ -223,6 +130,123 @@
         "EST_FIX_TIME": "3:00PM 14 Mar 2024",
         "STREETS": "DYSART-MORANBAH RD, OFF DYSART-M'MOUNT RD, SARAJI RD",
         "SUBURBS": "DYSART"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.495431,
+              -23.403579
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.492999,
+                  -23.4038
+                ],
+                [
+                  150.493028,
+                  -23.403828
+                ],
+                [
+                  150.493117,
+                  -23.403896
+                ],
+                [
+                  150.494567,
+                  -23.404754
+                ],
+                [
+                  150.494714,
+                  -23.404812
+                ],
+                [
+                  150.495356,
+                  -23.404958
+                ],
+                [
+                  150.495385,
+                  -23.404964
+                ],
+                [
+                  150.49583,
+                  -23.40504
+                ],
+                [
+                  150.496001,
+                  -23.405041
+                ],
+                [
+                  150.497615,
+                  -23.404784
+                ],
+                [
+                  150.497983,
+                  -23.404165
+                ],
+                [
+                  150.497798,
+                  -23.403759
+                ],
+                [
+                  150.497751,
+                  -23.403679
+                ],
+                [
+                  150.497636,
+                  -23.403523
+                ],
+                [
+                  150.497404,
+                  -23.403356
+                ],
+                [
+                  150.49384,
+                  -23.402118
+                ],
+                [
+                  150.49321,
+                  -23.402383
+                ],
+                [
+                  150.493047,
+                  -23.402788
+                ],
+                [
+                  150.493032,
+                  -23.402832
+                ],
+                [
+                  150.492879,
+                  -23.403375
+                ],
+                [
+                  150.492999,
+                  -23.4038
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4448",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "52",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "1:38PM 14 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BISHOP ST, GILLINDER ST, HARTWIG ST, LAMINGTON ST, MACGREGOR ST",
+        "SUBURBS": "THE RANGE"
       }
     },
     {
@@ -398,5 +422,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710387903.102542"
+  "extracted": "1710388200.458659"
 }
