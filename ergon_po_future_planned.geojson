@@ -1633,7 +1633,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "89",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 16 Mar 2024",
         "EST_FIX_TIME": "2:30PM 16 Mar 2024",
         "STREETS": "BLACKMAN RD, MIDDLE MURRAY RD, MURRAY FALLS RD, MURRAY UPPER RD, NORTH MURRAY RD, RONLUND RD, WARRAMI RD",
@@ -4627,6 +4627,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.29522,
+          -27.349266
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW4848",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 16 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 16 Mar 2024",
+        "STREETS": "CECIL PLAINS RD, COSGROVES RD, VACY PLAINS RD",
+        "SUBURBS": "DALBY, ST RUTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.28962,
           -27.391488
         ]
@@ -6368,5 +6389,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1710540906.276186"
+  "extracted": "1710541204.338509"
 }
