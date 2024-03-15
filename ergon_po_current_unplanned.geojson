@@ -321,9 +321,102 @@
         "STREETS": "BOUNDARY CREEK, BOWEN DEVELOPMENT RD, BRIABA HILL, MT PLEASANT STATION, NORMANBY RD, PETER DELAMOTHE RD, REEDY CREEK STATION",
         "SUBURBS": "BINBEE, COLLINSVILLE, MERINDA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              139.546188,
+              -17.743188
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  139.543279,
+                  -17.741163
+                ],
+                [
+                  139.543228,
+                  -17.742527
+                ],
+                [
+                  139.543284,
+                  -17.742757
+                ],
+                [
+                  139.544768,
+                  -17.745375
+                ],
+                [
+                  139.545177,
+                  -17.745609
+                ],
+                [
+                  139.548592,
+                  -17.745626
+                ],
+                [
+                  139.549062,
+                  -17.745198
+                ],
+                [
+                  139.549149,
+                  -17.743422
+                ],
+                [
+                  139.548981,
+                  -17.743057
+                ],
+                [
+                  139.548006,
+                  -17.742277
+                ],
+                [
+                  139.547949,
+                  -17.742238
+                ],
+                [
+                  139.546977,
+                  -17.741675
+                ],
+                [
+                  139.546872,
+                  -17.74163
+                ],
+                [
+                  139.543884,
+                  -17.74075
+                ],
+                [
+                  139.543279,
+                  -17.741163
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6255",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "49",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:28AM 16 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BEAMES ST, BOWEN ST, GREGORY ST, LAGOON ST, MUSGRAVE ST, SLOMAN ST",
+        "SUBURBS": "BURKETOWN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710523807.732102"
+  "extracted": "1710524101.434534"
 }
