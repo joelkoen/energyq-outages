@@ -90,13 +90,98 @@
         "REASON": "Damage due to severe weather",
         "STATUS": "In Progress",
         "START": "10:01AM 15 Mar 2024",
-        "EST_FIX_TIME": "3:00PM 15 Mar 2024",
+        "EST_FIX_TIME": "5:00PM 15 Mar 2024",
         "STREETS": "ILUKA ST, KALANG DR",
         "SUBURBS": "WEST WOOMBYE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.863528,
+              -26.356185
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.862939,
+                  -26.357347
+                ],
+                [
+                  152.863346,
+                  -26.357176
+                ],
+                [
+                  152.863516,
+                  -26.35706
+                ],
+                [
+                  152.86476,
+                  -26.355743
+                ],
+                [
+                  152.864792,
+                  -26.355195
+                ],
+                [
+                  152.864214,
+                  -26.355023
+                ],
+                [
+                  152.863164,
+                  -26.355352
+                ],
+                [
+                  152.862898,
+                  -26.355547
+                ],
+                [
+                  152.86267,
+                  -26.35589
+                ],
+                [
+                  152.862637,
+                  -26.35595
+                ],
+                [
+                  152.862263,
+                  -26.356766
+                ],
+                [
+                  152.86238,
+                  -26.357265
+                ],
+                [
+                  152.862939,
+                  -26.357347
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-748384-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "1:31PM 15 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 15 Mar 2024",
+        "STREETS": "PAGE CT, SUMMIT RD",
+        "SUBURBS": "POMONA"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710476700.563935"
+  "extracted": "1710477301.037315"
 }

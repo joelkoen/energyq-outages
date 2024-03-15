@@ -431,9 +431,94 @@
         "STREETS": "ABBOT POINT RD, PETER DELAMOTHE RD",
         "SUBURBS": "BOWEN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.391983,
+              -25.986944
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.350858,
+                  -25.962914
+                ],
+                [
+                  152.378799,
+                  -26.01264
+                ],
+                [
+                  152.379227,
+                  -26.012886
+                ],
+                [
+                  152.387453,
+                  -26.013131
+                ],
+                [
+                  152.387838,
+                  -26.012983
+                ],
+                [
+                  152.417983,
+                  -25.982973
+                ],
+                [
+                  152.418008,
+                  -25.982946
+                ],
+                [
+                  152.433108,
+                  -25.965295
+                ],
+                [
+                  152.432914,
+                  -25.964608
+                ],
+                [
+                  152.423283,
+                  -25.960795
+                ],
+                [
+                  152.423071,
+                  -25.960757
+                ],
+                [
+                  152.351291,
+                  -25.962261
+                ],
+                [
+                  152.350858,
+                  -25.962914
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4123",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "36",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:44PM 15 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANDREW RD, BAUPLE WOOLOOGA RD, BROOWEENA WOOLOOGA RD, BROOYAR RD, CAHILL RD, CAYDE RD, GLENEAGLES DR, REILLY RD, ROGER RD",
+        "SUBURBS": "CURRA, MIVA, WOOLOOGA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710476701.77697"
+  "extracted": "1710477301.229081"
 }
