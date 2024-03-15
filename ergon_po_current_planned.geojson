@@ -16,7 +16,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "104",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:00AM 16 Mar 2024",
         "EST_FIX_TIME": "2:00PM 16 Mar 2024",
         "STREETS": "CRANE ST, GALAH ST, PARROT LANE, PLOVER ST, SPARROW LANE, SPARROW ST, SUNBIRD ST, SWALLOW ST",
@@ -259,6 +259,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.503017,
+          -20.576633
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2506",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "98",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Work scheduled",
+        "START": "8:00AM 16 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 16 Mar 2024",
+        "STREETS": "BRUCE HWY, CAPING RD, COWANS RD, GUNYARRA RD, HOLCOMBE RD, MAGEE RD, MALONEY RD, STATION RD, THOOPARA RD",
+        "SUBURBS": "ANDROMACHE, BLOOMSBURY, CRYSTAL BROOK, LETHEBROOK, PROSERPINE, THOOPARA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.226161,
           -19.972869
         ]
@@ -467,5 +488,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710536701.526203"
+  "extracted": "1710537001.426851"
 }
