@@ -204,9 +204,126 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              147.945672,
+              -20.357317
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.865571,
+                  -20.396961
+                ],
+                [
+                  147.86568,
+                  -20.39752
+                ],
+                [
+                  147.865904,
+                  -20.397826
+                ],
+                [
+                  147.866279,
+                  -20.398039
+                ],
+                [
+                  147.866316,
+                  -20.398057
+                ],
+                [
+                  147.87522,
+                  -20.402154
+                ],
+                [
+                  147.875352,
+                  -20.402194
+                ],
+                [
+                  148.025303,
+                  -20.425502
+                ],
+                [
+                  148.025772,
+                  -20.424796
+                ],
+                [
+                  147.948188,
+                  -20.32104
+                ],
+                [
+                  147.94815,
+                  -20.320995
+                ],
+                [
+                  147.938385,
+                  -20.310939
+                ],
+                [
+                  147.93836,
+                  -20.310915
+                ],
+                [
+                  147.936264,
+                  -20.309057
+                ],
+                [
+                  147.936243,
+                  -20.309039
+                ],
+                [
+                  147.911098,
+                  -20.289217
+                ],
+                [
+                  147.91065,
+                  -20.289132
+                ],
+                [
+                  147.906067,
+                  -20.290463
+                ],
+                [
+                  147.905757,
+                  -20.290743
+                ],
+                [
+                  147.865591,
+                  -20.396727
+                ],
+                [
+                  147.865571,
+                  -20.396961
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6253",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "36",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Work delayed - crews unable to continue",
+        "START": "2:30AM 16 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOUNDARY CREEK, BOWEN DEVELOPMENT RD, BRIABA HILL, MT PLEASANT STATION, NORMANBY RD, PETER DELAMOTHE RD, REEDY CREEK STATION",
+        "SUBURBS": "BINBEE, COLLINSVILLE, MERINDA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710520806.403153"
+  "extracted": "1710521401.311471"
 }
