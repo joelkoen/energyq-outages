@@ -360,6 +360,115 @@
         ]
       },
       "properties": {
+        "EVENT_ID": "24MK2890",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "33",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "1:22PM 15 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "FAIRCHILDS RD, GEEBERGA BUTHURRA RD, GIFFORDS RD, MCKAYS RD, STARKEYS RD",
+        "SUBURBS": "BUTHURRA, KUTTABUL, MOUNT CHARLTON, MOUNT OSSA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.823998,
+              -21.022131
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.798138,
+                  -21.040885
+                ],
+                [
+                  148.801496,
+                  -21.052724
+                ],
+                [
+                  148.802239,
+                  -21.052976
+                ],
+                [
+                  148.839319,
+                  -21.028268
+                ],
+                [
+                  148.839496,
+                  -21.028043
+                ],
+                [
+                  148.847514,
+                  -21.005597
+                ],
+                [
+                  148.847529,
+                  -21.005546
+                ],
+                [
+                  148.849859,
+                  -20.995143
+                ],
+                [
+                  148.849697,
+                  -20.994705
+                ],
+                [
+                  148.846114,
+                  -20.991882
+                ],
+                [
+                  148.845845,
+                  -20.991778
+                ],
+                [
+                  148.839595,
+                  -20.991287
+                ],
+                [
+                  148.839208,
+                  -20.991423
+                ],
+                [
+                  148.830298,
+                  -21.000118
+                ],
+                [
+                  148.830295,
+                  -21.000122
+                ],
+                [
+                  148.828406,
+                  -21.002007
+                ],
+                [
+                  148.828369,
+                  -21.002049
+                ],
+                [
+                  148.798215,
+                  -21.040501
+                ],
+                [
+                  148.798138,
+                  -21.040885
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
         "EVENT_ID": "24MK2891",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "33",
@@ -435,5 +544,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710473101.378027"
+  "extracted": "1710473407.379604"
 }
