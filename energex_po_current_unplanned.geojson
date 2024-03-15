@@ -10,8 +10,8 @@
           {
             "type": "Point",
             "coordinates": [
-              152.492406,
-              -27.417585
+              152.465365,
+              -27.427262
             ]
           },
           {
@@ -27,36 +27,56 @@
                   -27.447821
                 ],
                 [
-                  152.485599,
-                  -27.447825
+                  152.485698,
+                  -27.447726
                 ],
                 [
-                  152.552879,
-                  -27.397882
+                  152.498939,
+                  -27.429767
                 ],
                 [
-                  152.552848,
-                  -27.397167
+                  152.498898,
+                  -27.429223
                 ],
                 [
-                  152.538789,
-                  -27.388277
+                  152.49096,
+                  -27.421093
                 ],
                 [
-                  152.538506,
-                  -27.388194
+                  152.490899,
+                  -27.421041
                 ],
                 [
-                  152.486988,
-                  -27.387345
+                  152.482782,
+                  -27.415118
                 ],
                 [
-                  152.486792,
-                  -27.387377
+                  152.482661,
+                  -27.415053
                 ],
                 [
-                  152.432075,
-                  -27.406734
+                  152.469534,
+                  -27.410039
+                ],
+                [
+                  152.469428,
+                  -27.410011
+                ],
+                [
+                  152.456208,
+                  -27.40779
+                ],
+                [
+                  152.45614,
+                  -27.407783
+                ],
+                [
+                  152.432287,
+                  -27.406703
+                ],
+                [
+                  152.431791,
+                  -27.406987
                 ],
                 [
                   152.431933,
@@ -70,17 +90,222 @@
       "properties": {
         "EVENT_ID": "INCD-748474-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "374",
+        "CUSTOMERS_AFFECTED": "92",
         "REASON": "Under Investigation",
         "STATUS": "Awaiting",
         "START": "8:20PM 15 Mar 2024",
         "EST_FIX_TIME": "11:00PM 15 Mar 2024",
-        "STREETS": "ALLAMBIE RD, ATKINSONS DAM RD, BANFF LANE, BUNNEY RD, CLARENDON RD, CLOAKE ST, COOMINYA CONNECTION RD, CORNHILL ST, COTTAGE ST, FLANAGAN ST, FOX RD, GUTTERIDGE RD, HACIENDA CRES, HANRAHAN RD, LAKE ST, LINDE ST, MAHON RD, MAHONS RD, MAIN ST, NEUMAN ST W, NEWMAN ST, PENSACOLA PDE, RAILWAY ST, ROCKY GULLY RD, UNNAMED RD, VINE RD, VINEYARD RD, WEST RD, WILLS RD",
-        "SUBURBS": "ATKINSONS DAM, CLARENDON, COOMINYA, MOUNT TARAMPA, PATRICK ESTATE"
+        "STREETS": "ATKINSONS DAM RD, BANFF LANE, CLARENDON RD, COOMINYA CONNECTION RD, FOX RD, HANRAHAN RD, LAKE ST, ROCKY GULLY RD",
+        "SUBURBS": "ATKINSONS DAM, CLARENDON, COOMINYA, MOUNT TARAMPA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.145494,
+              -27.058391
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.135484,
+                  -27.053737
+                ],
+                [
+                  153.135755,
+                  -27.055153
+                ],
+                [
+                  153.135844,
+                  -27.055342
+                ],
+                [
+                  153.138809,
+                  -27.058997
+                ],
+                [
+                  153.138831,
+                  -27.059022
+                ],
+                [
+                  153.143625,
+                  -27.064152
+                ],
+                [
+                  153.143657,
+                  -27.064183
+                ],
+                [
+                  153.145373,
+                  -27.0657
+                ],
+                [
+                  153.145589,
+                  -27.065813
+                ],
+                [
+                  153.148924,
+                  -27.066667
+                ],
+                [
+                  153.149,
+                  -27.066681
+                ],
+                [
+                  153.14917,
+                  -27.0667
+                ],
+                [
+                  153.149347,
+                  -27.066692
+                ],
+                [
+                  153.152311,
+                  -27.066078
+                ],
+                [
+                  153.152604,
+                  -27.065905
+                ],
+                [
+                  153.154617,
+                  -27.063448
+                ],
+                [
+                  153.154708,
+                  -27.063254
+                ],
+                [
+                  153.15473,
+                  -27.063135
+                ],
+                [
+                  153.154733,
+                  -27.063114
+                ],
+                [
+                  153.155323,
+                  -27.058559
+                ],
+                [
+                  153.155325,
+                  -27.058537
+                ],
+                [
+                  153.155503,
+                  -27.056121
+                ],
+                [
+                  153.15529,
+                  -27.055722
+                ],
+                [
+                  153.15156,
+                  -27.053367
+                ],
+                [
+                  153.15155,
+                  -27.053361
+                ],
+                [
+                  153.148078,
+                  -27.051271
+                ],
+                [
+                  153.147984,
+                  -27.051227
+                ],
+                [
+                  153.144878,
+                  -27.050115
+                ],
+                [
+                  153.144683,
+                  -27.050082
+                ],
+                [
+                  153.141401,
+                  -27.050128
+                ],
+                [
+                  153.141312,
+                  -27.050137
+                ],
+                [
+                  153.141136,
+                  -27.050167
+                ],
+                [
+                  153.141067,
+                  -27.050184
+                ],
+                [
+                  153.140376,
+                  -27.050399
+                ],
+                [
+                  153.140311,
+                  -27.050424
+                ],
+                [
+                  153.140031,
+                  -27.050553
+                ],
+                [
+                  153.14002,
+                  -27.050559
+                ],
+                [
+                  153.139106,
+                  -27.051006
+                ],
+                [
+                  153.13905,
+                  -27.051038
+                ],
+                [
+                  153.135763,
+                  -27.053197
+                ],
+                [
+                  153.135653,
+                  -27.053297
+                ],
+                [
+                  153.135572,
+                  -27.053397
+                ],
+                [
+                  153.135484,
+                  -27.053737
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-748475-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2106",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "8:29PM 15 Mar 2024",
+        "EST_FIX_TIME": "11:00PM 15 Mar 2024",
+        "STREETS": "ACACIA ST, ARINYA AVE, BANDA AVE, BEAUFORT CIR, BELLARA ST, BENABROW AVE, BIBIMULYA ST, BORONIA DR, CASUARINA ST, CURRONG CRES, DANDAR AVE, ELCATA AVE, ELKHORN AVE, EUCALYPT ST, FARADAY ST, GREVILLEA ST, HARBOUR PROM, ILLAWARRA AVE, ILLOURA AVE, INDRA AVE, JABIRU ST, KAREE DR, LAROOL AVE, MARBRIN CL, MARINA BVD, MARINE PDE, MELROSE AVE, MIRREE AVE, MURRAWONG ST, NANNAWARRA AVE, NICHOLSON CL, NORTH POINT, NUNGO AVE, OOROOBA AVE, ORCHID ST, PANDANUS ST, PANDARA AVE, PARWAN AVE, PECTORAL PL, PELICAN ST, PUMICESTONE ST, QUAIL ST, SEABREEZE AVE, SEACREST CT, SEASIDE DR, SHEARWATER CRES, STEWART ST, SYLVAN BEACH ESP, TAROOKI ST, THE LANDING, THE PENINSULA, THE PROMONTORY, THE QUAY, THORNELY CL, TIMARI AVE, TRIPCONY ST, VERDONI ST, WALLIMBI AVE, WARRIGAL ST, WHITEHAVEN PL, YEENDA AVE",
+        "SUBURBS": "BANKSIA BEACH, BELLARA, BONGAREE"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710498301.082207"
+  "extracted": "1710498606.007436"
 }
