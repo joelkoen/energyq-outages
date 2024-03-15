@@ -124,6 +124,79 @@
           {
             "type": "Point",
             "coordinates": [
+              142.221537,
+              -10.229211
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  142.21964,
+                  -10.225392
+                ],
+                [
+                  142.219904,
+                  -10.232398
+                ],
+                [
+                  142.219912,
+                  -10.23247
+                ],
+                [
+                  142.220058,
+                  -10.233184
+                ],
+                [
+                  142.220733,
+                  -10.233484
+                ],
+                [
+                  142.22325,
+                  -10.232032
+                ],
+                [
+                  142.223434,
+                  -10.231453
+                ],
+                [
+                  142.220508,
+                  -10.225186
+                ],
+                [
+                  142.219989,
+                  -10.224937
+                ],
+                [
+                  142.21964,
+                  -10.225392
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4096",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "1:00PM 14 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AIRPORT RD, MEIMALGAU RD, MUALGAU RD, WAGALGAU RD",
+        "SUBURBS": "KUBIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -314,5 +387,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710461100.68998"
+  "extracted": "1710461401.618141"
 }
