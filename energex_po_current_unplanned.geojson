@@ -118,9 +118,118 @@
         "STREETS": "BAGNALL RD, BLACKALL RANGE RD, BRIGGS RD, CARRUTHERS RD, DULONG RD, GLENFERN RD, HUNCHY RD, ILUKA ST, JACKSONS RD, KALANG DR, MAYERS RD, PERIWINKLE LANE, PERWILLOWEN RD, RATCLIFFE RD, RUWOLDTS RD, SHEKINAH CT, SIMBA RD, SIMONS RD, SUNRISE LANE, THOMPSON RD, TOWEN MOUNT RD, TOWEN VIEW CT, WELKS RIDGE RD",
         "SUBURBS": "COES CREEK, DULONG, HUNCHY, PERWILLOWEN, TOWEN MOUNTAIN, WEST WOOMBYE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.064229,
+              -26.643355
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.062327,
+                  -26.643149
+                ],
+                [
+                  153.062698,
+                  -26.64383
+                ],
+                [
+                  153.062938,
+                  -26.644041
+                ],
+                [
+                  153.063525,
+                  -26.644287
+                ],
+                [
+                  153.063593,
+                  -26.64431
+                ],
+                [
+                  153.064779,
+                  -26.644627
+                ],
+                [
+                  153.065086,
+                  -26.644622
+                ],
+                [
+                  153.065589,
+                  -26.644467
+                ],
+                [
+                  153.065875,
+                  -26.644241
+                ],
+                [
+                  153.066131,
+                  -26.64378
+                ],
+                [
+                  153.065978,
+                  -26.643215
+                ],
+                [
+                  153.064724,
+                  -26.64239
+                ],
+                [
+                  153.064566,
+                  -26.64232
+                ],
+                [
+                  153.06442,
+                  -26.642283
+                ],
+                [
+                  153.063983,
+                  -26.64217
+                ],
+                [
+                  153.063643,
+                  -26.642082
+                ],
+                [
+                  153.063226,
+                  -26.642141
+                ],
+                [
+                  153.0625,
+                  -26.642575
+                ],
+                [
+                  153.062327,
+                  -26.643149
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-748334-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "85",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "10:53AM 15 Mar 2024",
+        "EST_FIX_TIME": "1:00PM 15 Mar 2024",
+        "STREETS": "BRADMAN AVE, BROADWATER AVE, BROADWATER AVE W, DIURA ST, KURAN ST",
+        "SUBURBS": "MAROOCHYDORE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710465901.604791"
+  "extracted": "1710466501.214516"
 }
