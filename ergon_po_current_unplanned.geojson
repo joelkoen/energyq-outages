@@ -63,6 +63,87 @@
           {
             "type": "Point",
             "coordinates": [
+              150.450633,
+              -24.468815
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.428481,
+                  -24.464489
+                ],
+                [
+                  150.443365,
+                  -24.473458
+                ],
+                [
+                  150.443412,
+                  -24.473483
+                ],
+                [
+                  150.45615,
+                  -24.479458
+                ],
+                [
+                  150.456239,
+                  -24.47949
+                ],
+                [
+                  150.472247,
+                  -24.483704
+                ],
+                [
+                  150.472801,
+                  -24.483509
+                ],
+                [
+                  150.472748,
+                  -24.482968
+                ],
+                [
+                  150.444071,
+                  -24.453989
+                ],
+                [
+                  150.443419,
+                  -24.453925
+                ],
+                [
+                  150.428465,
+                  -24.463746
+                ],
+                [
+                  150.428481,
+                  -24.464489
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4493",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "11:53PM 15 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CAMBOON RD, CROWSDALE RD, ZIEBARTHS RD",
+        "SUBURBS": "BILOELA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.007645,
               -17.471548
             ]
@@ -297,5 +378,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710511208.106496"
+  "extracted": "1710511501.664342"
 }
