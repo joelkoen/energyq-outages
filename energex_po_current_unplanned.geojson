@@ -1,8 +1,86 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.492406,
+              -27.417585
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.431933,
+                  -27.407497
+                ],
+                [
+                  152.484947,
+                  -27.447821
+                ],
+                [
+                  152.485599,
+                  -27.447825
+                ],
+                [
+                  152.552879,
+                  -27.397882
+                ],
+                [
+                  152.552848,
+                  -27.397167
+                ],
+                [
+                  152.538789,
+                  -27.388277
+                ],
+                [
+                  152.538506,
+                  -27.388194
+                ],
+                [
+                  152.486988,
+                  -27.387345
+                ],
+                [
+                  152.486792,
+                  -27.387377
+                ],
+                [
+                  152.432075,
+                  -27.406734
+                ],
+                [
+                  152.431933,
+                  -27.407497
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-748474-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "374",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "8:20PM 15 Mar 2024",
+        "EST_FIX_TIME": "11:00PM 15 Mar 2024",
+        "STREETS": "ALLAMBIE RD, ATKINSONS DAM RD, BANFF LANE, BUNNEY RD, CLARENDON RD, CLOAKE ST, COOMINYA CONNECTION RD, CORNHILL ST, COTTAGE ST, FLANAGAN ST, FOX RD, GUTTERIDGE RD, HACIENDA CRES, HANRAHAN RD, LAKE ST, LINDE ST, MAHON RD, MAHONS RD, MAIN ST, NEUMAN ST W, NEWMAN ST, PENSACOLA PDE, RAILWAY ST, ROCKY GULLY RD, UNNAMED RD, VINE RD, VINEYARD RD, WEST RD, WILLS RD",
+        "SUBURBS": "ATKINSONS DAM, CLARENDON, COOMINYA, MOUNT TARAMPA, PATRICK ESTATE"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710498001.222912"
+  "extracted": "1710498301.082207"
 }
