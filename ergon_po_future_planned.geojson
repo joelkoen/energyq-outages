@@ -1738,7 +1738,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "44",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 16 Mar 2024",
         "EST_FIX_TIME": "2:30PM 16 Mar 2024",
         "STREETS": "ELLINJAA RD, FRASER RD, JUBB RD, MOREGATTA RD, PURCELL RD, THERESA CREEK RD, WOOLLEYS RD",
@@ -3199,6 +3199,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          147.402248,
+          -19.575186
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5104",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "86",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 16 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 16 Mar 2024",
+        "STREETS": "CHARLES ST, GRAHAM ST, MACKENZIE ST, MUNRO ST, QUEEN ST, WILMINGTON ST, YOUNG ST",
+        "SUBURBS": "AYR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.725684,
           -19.336484
         ]
@@ -3255,6 +3276,27 @@
         "EST_FIX_TIME": "4:00PM 16 Mar 2024",
         "STREETS": "GEORGE ST",
         "SUBURBS": "BOWEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.817442,
+          -19.254977
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5125",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:24AM 16 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 16 Mar 2024",
+        "STREETS": "CLEVELAND TCE",
+        "SUBURBS": "NORTH WARD, TOWNSVILLE"
       }
     },
     {
@@ -6389,5 +6431,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1710541204.338509"
+  "extracted": "1710541501.242597"
 }
