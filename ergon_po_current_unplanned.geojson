@@ -193,6 +193,103 @@
           {
             "type": "Point",
             "coordinates": [
+              151.267006,
+              -27.188328
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.260185,
+                  -27.181787
+                ],
+                [
+                  151.269756,
+                  -27.192884
+                ],
+                [
+                  151.269769,
+                  -27.1929
+                ],
+                [
+                  151.271031,
+                  -27.194237
+                ],
+                [
+                  151.271035,
+                  -27.194241
+                ],
+                [
+                  151.27221,
+                  -27.195454
+                ],
+                [
+                  151.272938,
+                  -27.195486
+                ],
+                [
+                  151.27358,
+                  -27.19494
+                ],
+                [
+                  151.273699,
+                  -27.194784
+                ],
+                [
+                  151.273826,
+                  -27.194506
+                ],
+                [
+                  151.27381,
+                  -27.194136
+                ],
+                [
+                  151.272867,
+                  -27.192439
+                ],
+                [
+                  151.272781,
+                  -27.19233
+                ],
+                [
+                  151.260949,
+                  -27.181201
+                ],
+                [
+                  151.260257,
+                  -27.181169
+                ],
+                [
+                  151.260185,
+                  -27.181787
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6373",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "54",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:03PM 15 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DRAYTON ST, OWEN ST, PALMER ST",
+        "SUBURBS": "DALBY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.97625,
               -26.231391
             ]
@@ -261,5 +358,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710489606.617714"
+  "extracted": "1710489901.076859"
 }
