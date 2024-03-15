@@ -321,9 +321,94 @@
         "STREETS": "BOUNDARY CREEK, BOWEN DEVELOPMENT RD, BRIABA HILL, MT PLEASANT STATION, NORMANBY RD, PETER DELAMOTHE RD, REEDY CREEK STATION",
         "SUBURBS": "BINBEE, COLLINSVILLE, MERINDA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.538824,
+              -27.458595
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.455562,
+                  -27.437581
+                ],
+                [
+                  150.456313,
+                  -27.439038
+                ],
+                [
+                  150.456392,
+                  -27.439147
+                ],
+                [
+                  150.553012,
+                  -27.537162
+                ],
+                [
+                  150.553708,
+                  -27.537216
+                ],
+                [
+                  150.622024,
+                  -27.488308
+                ],
+                [
+                  150.622087,
+                  -27.487659
+                ],
+                [
+                  150.515769,
+                  -27.38009
+                ],
+                [
+                  150.515191,
+                  -27.379974
+                ],
+                [
+                  150.510637,
+                  -27.38172
+                ],
+                [
+                  150.510458,
+                  -27.381835
+                ],
+                [
+                  150.455643,
+                  -27.437094
+                ],
+                [
+                  150.455562,
+                  -27.437581
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6340",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 16 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 16 Mar 2024",
+        "STREETS": "BENNS RD, CAMBRIDGE CROSSING RD, CLARKS RD, SCHONROCKS RD",
+        "SUBURBS": "TARA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710539401.317618"
+  "extracted": "1710539701.760065"
 }
