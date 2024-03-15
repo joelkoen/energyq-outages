@@ -82,9 +82,102 @@
         "STREETS": "PALMWOODS-MONTVILLE RD, SHURVELL RD",
         "SUBURBS": "HUNCHY, MONTVILLE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.404649,
+              -28.010943
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.402547,
+                  -28.010196
+                ],
+                [
+                  153.402922,
+                  -28.011971
+                ],
+                [
+                  153.40302,
+                  -28.012164
+                ],
+                [
+                  153.403364,
+                  -28.012558
+                ],
+                [
+                  153.403889,
+                  -28.01272
+                ],
+                [
+                  153.404163,
+                  -28.012659
+                ],
+                [
+                  153.404341,
+                  -28.012585
+                ],
+                [
+                  153.40675,
+                  -28.011019
+                ],
+                [
+                  153.406642,
+                  -28.010237
+                ],
+                [
+                  153.404034,
+                  -28.009289
+                ],
+                [
+                  153.403931,
+                  -28.009262
+                ],
+                [
+                  153.403327,
+                  -28.009165
+                ],
+                [
+                  153.402755,
+                  -28.009466
+                ],
+                [
+                  153.402565,
+                  -28.00997
+                ],
+                [
+                  153.402547,
+                  -28.010196
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-748518-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "70",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "8:58AM 16 Mar 2024",
+        "EST_FIX_TIME": "10:30AM 16 Mar 2024",
+        "STREETS": "ASHMORE RD, CAMPBELL ST, IBIS CT, MEDLAND CT",
+        "SUBURBS": "BUNDALL"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710544502.281079"
+  "extracted": "1710544801.412815"
 }
