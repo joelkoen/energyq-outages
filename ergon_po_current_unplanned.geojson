@@ -124,6 +124,95 @@
           {
             "type": "Point",
             "coordinates": [
+              143.408458,
+              -9.751501
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  143.400189,
+                  -9.754606
+                ],
+                [
+                  143.414731,
+                  -9.752932
+                ],
+                [
+                  143.414855,
+                  -9.7529
+                ],
+                [
+                  143.417092,
+                  -9.751969
+                ],
+                [
+                  143.417221,
+                  -9.751217
+                ],
+                [
+                  143.414193,
+                  -9.748509
+                ],
+                [
+                  143.413843,
+                  -9.748396
+                ],
+                [
+                  143.412737,
+                  -9.748506
+                ],
+                [
+                  143.41265,
+                  -9.748523
+                ],
+                [
+                  143.412422,
+                  -9.748592
+                ],
+                [
+                  143.412379,
+                  -9.748607
+                ],
+                [
+                  143.399962,
+                  -9.753741
+                ],
+                [
+                  143.399696,
+                  -9.754271
+                ],
+                [
+                  143.400189,
+                  -9.754606
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4095",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "46",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "STATUS": "Outage reported",
+        "START": "7:10AM 15 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AOUS RD, BARNEYS RD, DANS RD, LAWRENCES RD, LOWATTA RD, NEW RD, STEVEN JEFF RD, UNKNOWN ST, YORKE ISLAND ST",
+        "SUBURBS": "YORKE ISLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -314,5 +403,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710460500.650161"
+  "extracted": "1710460801.634085"
 }
