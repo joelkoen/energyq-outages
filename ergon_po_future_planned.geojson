@@ -1528,7 +1528,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "7:30AM 16 Mar 2024",
         "EST_FIX_TIME": "4:30PM 16 Mar 2024",
         "STREETS": "CURTIS RD",
@@ -3276,6 +3276,27 @@
         "EST_FIX_TIME": "2:30PM 18 Mar 2024",
         "STREETS": "BROLGA CRES, DOVE ST, EGRET CRES, FLAMINGO AVE, PINNACLE DR, RIVERWAY DR, SKUA ST",
         "SUBURBS": "CONDON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.24154,
+          -20.010063
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5119",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:22AM 16 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 16 Mar 2024",
+        "STREETS": "KENNEDY ST",
+        "SUBURBS": "BOWEN"
       }
     },
     {
@@ -5614,6 +5635,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.330239,
+          -24.883325
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB2843",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:23AM 16 Mar 2024",
+        "EST_FIX_TIME": "5:00PM 16 Mar 2024",
+        "STREETS": "WATKIN ST, WILLIAMS RD",
+        "SUBURBS": "SVENSSON HEIGHTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.327671,
           -24.8842
         ]
@@ -6389,5 +6431,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1710537601.818077"
+  "extracted": "1710537901.886916"
 }
