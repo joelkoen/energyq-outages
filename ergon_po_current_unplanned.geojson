@@ -213,6 +213,107 @@
           {
             "type": "Point",
             "coordinates": [
+              143.769689,
+              -9.589313
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  143.756536,
+                  -9.590487
+                ],
+                [
+                  143.758037,
+                  -9.5946
+                ],
+                [
+                  143.758109,
+                  -9.594727
+                ],
+                [
+                  143.760244,
+                  -9.597393
+                ],
+                [
+                  143.760265,
+                  -9.597418
+                ],
+                [
+                  143.76163,
+                  -9.598889
+                ],
+                [
+                  143.761849,
+                  -9.59902
+                ],
+                [
+                  143.764008,
+                  -9.599582
+                ],
+                [
+                  143.764201,
+                  -9.59959
+                ],
+                [
+                  143.773367,
+                  -9.598019
+                ],
+                [
+                  143.773673,
+                  -9.597818
+                ],
+                [
+                  143.782841,
+                  -9.583641
+                ],
+                [
+                  143.782797,
+                  -9.583096
+                ],
+                [
+                  143.779235,
+                  -9.57914
+                ],
+                [
+                  143.778692,
+                  -9.579037
+                ],
+                [
+                  143.75676,
+                  -9.58993
+                ],
+                [
+                  143.756536,
+                  -9.590487
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4126",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "101",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "STATUS": "Outage reported",
+        "START": "9:20AM 16 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AIRPORT RD, DARNLEY PARK RD, ERUB ISLAND RD, GREEN HILL VILLAGE, MEDIGEE VILLAGE, MORGOR ST, ROAD NO 1, ROAD NO 11, ROAD NO 12, ROAD NO 5, ROAD NO 6, SAADI VILLAGE, SCHOOL ST, SEIM VILLAGE, UNKNOWN ST, WILLIAMS CRES",
+        "SUBURBS": "BAMAGA, DARNLEY ISLAND, ERUB ISLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -479,5 +580,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710545101.137823"
+  "extracted": "1710545701.46074"
 }
