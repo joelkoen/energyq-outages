@@ -282,6 +282,67 @@
           {
             "type": "Point",
             "coordinates": [
+              151.552836,
+              -27.398482
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.561714,
+                  -27.396815
+                ],
+                [
+                  151.543806,
+                  -27.39926
+                ],
+                [
+                  151.543384,
+                  -27.399773
+                ],
+                [
+                  151.543959,
+                  -27.40015
+                ],
+                [
+                  151.561866,
+                  -27.397705
+                ],
+                [
+                  151.562289,
+                  -27.397192
+                ],
+                [
+                  151.561714,
+                  -27.396815
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6375",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "5:40PM 15 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "JONDARYAN ST RUTH RD",
+        "SUBURBS": "JONDARYAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.97625,
               -26.231391
             ]
@@ -350,5 +411,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710496201.536127"
+  "extracted": "1710496501.376161"
 }
