@@ -331,7 +331,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "52",
         "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
+        "STATUS": "Completed",
         "START": "8:00AM 15 Mar 2024",
         "EST_FIX_TIME": "3:30PM 15 Mar 2024",
         "STREETS": "COOROY MOUNTAIN RD, ECHIDNA LANE, LUKES RD, MARTINS RD, TUNBA CT",
@@ -868,27 +868,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.095391,
-          -27.430995
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-742584-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
-        "START": "7:00AM 16 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 16 Mar 2024",
-        "STREETS": "FRENCH ST",
-        "SUBURBS": "EAGLE FARM"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.095595,
           -27.430824
         ]
@@ -901,6 +880,27 @@
         "STATUS": "Scheduled",
         "START": "7:00AM 16 Mar 2024",
         "EST_FIX_TIME": "4:00PM 17 Mar 2024",
+        "STREETS": "FRENCH ST",
+        "SUBURBS": "EAGLE FARM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.095391,
+          -27.430995
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-742584-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "7:00AM 16 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 16 Mar 2024",
         "STREETS": "FRENCH ST",
         "SUBURBS": "EAGLE FARM"
       }
@@ -945,27 +945,6 @@
         "EST_FIX_TIME": "3:00PM 15 Mar 2024",
         "STREETS": "ARTHUR ST, THIRD AVE",
         "SUBURBS": "CALOUNDRA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.930717,
-          -26.668468
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-742873-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "13",
-        "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
-        "START": "11:30AM 15 Mar 2024",
-        "EST_FIX_TIME": "3:00PM 15 Mar 2024",
-        "STREETS": "BLACKALL RANGE RD, CHRISTENSENS RD, HAMILTON RD",
-        "SUBURBS": "HUNCHY, WEST WOOMBYE"
       }
     },
     {
@@ -2189,5 +2168,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1710472506.091999"
+  "extracted": "1710472801.140315"
 }
