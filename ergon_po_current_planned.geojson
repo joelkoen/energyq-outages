@@ -154,6 +154,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.318427,
+          -17.609978
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3406",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "12:00PM 15 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 15 Mar 2024",
+        "STREETS": "TOBACCO RD",
+        "SUBURBS": "INNOT HOT SPRINGS, SILVER VALLEY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.310348,
           -17.61657
         ]
@@ -301,27 +322,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          147.239885,
-          -19.799971
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ4245",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "9",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:00AM 15 Mar 2024",
-        "EST_FIX_TIME": "2:00PM 15 Mar 2024",
-        "STREETS": "KIRKNIE RD",
-        "SUBURBS": "HOME HILL, OSBORNE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           148.159544,
           -20.281838
         ]
@@ -441,27 +441,6 @@
         "EST_FIX_TIME": "1:00PM 15 Mar 2024",
         "STREETS": "IRVING ST, STRATHDEE CT",
         "SUBURBS": "AYR"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.784732,
-          -26.503114
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW4421",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "25",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:35AM 15 Mar 2024",
-        "EST_FIX_TIME": "2:30PM 15 Mar 2024",
-        "STREETS": "CLARKE CREEK RD, CORBETTS RD, DULACCA NORTH RD, FRIZZELS RD, GLENLEA RD, HASLOP'S RD, HOME BUSH RD, HOMEBUSH RD, MANTOVAS RD, NORTH DULACCA HALL RD, NORTH DULACCA RD, WILLETS RD",
-        "SUBURBS": "DULACCA, NORTH DULACCA"
       }
     },
     {
@@ -656,5 +635,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710470400.541869"
+  "extracted": "1710471001.117828"
 }
