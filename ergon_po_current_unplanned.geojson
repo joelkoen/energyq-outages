@@ -184,9 +184,82 @@
         "STREETS": "ABBOT POINT RD, PETER DELAMOTHE RD",
         "SUBURBS": "BOWEN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.97625,
+              -26.231391
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.973482,
+                  -26.23522
+                ],
+                [
+                  151.979613,
+                  -26.230523
+                ],
+                [
+                  151.979769,
+                  -26.230055
+                ],
+                [
+                  151.979265,
+                  -26.228488
+                ],
+                [
+                  151.979099,
+                  -26.228263
+                ],
+                [
+                  151.978134,
+                  -26.227562
+                ],
+                [
+                  151.977394,
+                  -26.22768
+                ],
+                [
+                  151.972732,
+                  -26.234644
+                ],
+                [
+                  151.972836,
+                  -26.235219
+                ],
+                [
+                  151.973482,
+                  -26.23522
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4135",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "5:31PM 15 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANNINGS RD, ZERNERS RD",
+        "SUBURBS": "MANYUNG, MURGON"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710489301.110127"
+  "extracted": "1710489606.617714"
 }
