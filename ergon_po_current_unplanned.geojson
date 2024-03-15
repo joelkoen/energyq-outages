@@ -282,6 +282,95 @@
           {
             "type": "Point",
             "coordinates": [
+              146.100882,
+              -18.812612
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.094771,
+                  -18.805504
+                ],
+                [
+                  146.098263,
+                  -18.833779
+                ],
+                [
+                  146.098622,
+                  -18.834165
+                ],
+                [
+                  146.099127,
+                  -18.83398
+                ],
+                [
+                  146.10396,
+                  -18.827189
+                ],
+                [
+                  146.104025,
+                  -18.827054
+                ],
+                [
+                  146.105352,
+                  -18.822389
+                ],
+                [
+                  146.105367,
+                  -18.822293
+                ],
+                [
+                  146.106994,
+                  -18.791424
+                ],
+                [
+                  146.106209,
+                  -18.791059
+                ],
+                [
+                  146.10058,
+                  -18.795703
+                ],
+                [
+                  146.100479,
+                  -18.795821
+                ],
+                [
+                  146.09483,
+                  -18.805227
+                ],
+                [
+                  146.094771,
+                  -18.805504
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6250",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:23PM 15 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "FLAGSTONE CREEK RD, MILTON RD, PAPPINS RD",
+        "SUBURBS": "HELENS HILL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.552836,
               -27.398482
             ]
@@ -411,5 +500,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710498615.195681"
+  "extracted": "1710498901.173196"
 }
