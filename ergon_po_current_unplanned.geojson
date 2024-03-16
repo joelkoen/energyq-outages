@@ -87,6 +87,107 @@
           {
             "type": "Point",
             "coordinates": [
+              145.432944,
+              -16.886543
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.421109,
+                  -16.874571
+                ],
+                [
+                  145.421551,
+                  -16.886541
+                ],
+                [
+                  145.421638,
+                  -16.886788
+                ],
+                [
+                  145.431674,
+                  -16.900231
+                ],
+                [
+                  145.432478,
+                  -16.900163
+                ],
+                [
+                  145.440512,
+                  -16.884067
+                ],
+                [
+                  145.440522,
+                  -16.884046
+                ],
+                [
+                  145.444778,
+                  -16.874297
+                ],
+                [
+                  145.444431,
+                  -16.873678
+                ],
+                [
+                  145.441793,
+                  -16.873206
+                ],
+                [
+                  145.441764,
+                  -16.873202
+                ],
+                [
+                  145.440642,
+                  -16.87307
+                ],
+                [
+                  145.440628,
+                  -16.873068
+                ],
+                [
+                  145.438253,
+                  -16.872855
+                ],
+                [
+                  145.438172,
+                  -16.872855
+                ],
+                [
+                  145.421542,
+                  -16.874104
+                ],
+                [
+                  145.421109,
+                  -16.874571
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4129",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "76",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:14PM 16 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BILWON RD, CYPRESS RD, ORCHID CL, PINE CL, QUERIN RD, ROSING RD",
+        "SUBURBS": "BIBOOHRA, BILWON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -147,126 +248,9 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              147.925854,
-              -20.413139
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  147.825935,
-                  -20.511438
-                ],
-                [
-                  147.827947,
-                  -20.53294
-                ],
-                [
-                  147.827972,
-                  -20.533048
-                ],
-                [
-                  147.829397,
-                  -20.536909
-                ],
-                [
-                  147.830099,
-                  -20.537147
-                ],
-                [
-                  148.025629,
-                  -20.425442
-                ],
-                [
-                  148.025772,
-                  -20.424796
-                ],
-                [
-                  147.948188,
-                  -20.32104
-                ],
-                [
-                  147.94815,
-                  -20.320995
-                ],
-                [
-                  147.938385,
-                  -20.310939
-                ],
-                [
-                  147.93836,
-                  -20.310915
-                ],
-                [
-                  147.936264,
-                  -20.309057
-                ],
-                [
-                  147.936243,
-                  -20.309039
-                ],
-                [
-                  147.911098,
-                  -20.289217
-                ],
-                [
-                  147.91065,
-                  -20.289132
-                ],
-                [
-                  147.906067,
-                  -20.290463
-                ],
-                [
-                  147.905757,
-                  -20.290743
-                ],
-                [
-                  147.865591,
-                  -20.396727
-                ],
-                [
-                  147.865587,
-                  -20.396739
-                ],
-                [
-                  147.825957,
-                  -20.511259
-                ],
-                [
-                  147.825935,
-                  -20.511438
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ6253",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "49",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
-        "START": "2:30AM 16 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "BOUNDARY CREEK, BOWEN DEVELOPMENT RD, BRIABA HILL, MT DEVLIN, MT PLEASANT STATION, NORMANBY RD, PELICAN CREEK RD, PETER DELAMOTHE RD, REEDY CREEK STATION",
-        "SUBURBS": "BINBEE, COLLINSVILLE, MERINDA"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710563101.018383"
+  "extracted": "1710563701.32507"
 }
