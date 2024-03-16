@@ -248,9 +248,110 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.690061,
+              -21.685083
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.686596,
+                  -21.685563
+                ],
+                [
+                  148.687033,
+                  -21.687364
+                ],
+                [
+                  148.687532,
+                  -21.687716
+                ],
+                [
+                  148.689865,
+                  -21.687589
+                ],
+                [
+                  148.690043,
+                  -21.687547
+                ],
+                [
+                  148.693259,
+                  -21.686126
+                ],
+                [
+                  148.693526,
+                  -21.685631
+                ],
+                [
+                  148.693026,
+                  -21.683258
+                ],
+                [
+                  148.692818,
+                  -21.682968
+                ],
+                [
+                  148.69203,
+                  -21.682482
+                ],
+                [
+                  148.691556,
+                  -21.682451
+                ],
+                [
+                  148.687519,
+                  -21.684242
+                ],
+                [
+                  148.687395,
+                  -21.684322
+                ],
+                [
+                  148.686852,
+                  -21.6848
+                ],
+                [
+                  148.686724,
+                  -21.684989
+                ],
+                [
+                  148.686608,
+                  -21.685323
+                ],
+                [
+                  148.686596,
+                  -21.685563
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2918",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "54",
+        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+        "STATUS": "Outage reported",
+        "START": "4:50PM 16 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOWEN ST, DENISON ST, OXFORD ST, SUTTOR ST, WATER ST",
+        "SUBURBS": "NEBO"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710572103.812967"
+  "extracted": "1710572405.534757"
 }
