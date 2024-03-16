@@ -188,6 +188,115 @@
           {
             "type": "Point",
             "coordinates": [
+              145.763716,
+              -16.944915
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.755046,
+                  -16.947105
+                ],
+                [
+                  145.758005,
+                  -16.95135
+                ],
+                [
+                  145.758259,
+                  -16.95153
+                ],
+                [
+                  145.771162,
+                  -16.955292
+                ],
+                [
+                  145.771767,
+                  -16.954887
+                ],
+                [
+                  145.772442,
+                  -16.944181
+                ],
+                [
+                  145.772443,
+                  -16.94414
+                ],
+                [
+                  145.772429,
+                  -16.94368
+                ],
+                [
+                  145.772377,
+                  -16.943486
+                ],
+                [
+                  145.767825,
+                  -16.934955
+                ],
+                [
+                  145.767435,
+                  -16.93471
+                ],
+                [
+                  145.764417,
+                  -16.934539
+                ],
+                [
+                  145.764076,
+                  -16.934654
+                ],
+                [
+                  145.763491,
+                  -16.935159
+                ],
+                [
+                  145.763465,
+                  -16.935184
+                ],
+                [
+                  145.756606,
+                  -16.942109
+                ],
+                [
+                  145.7565,
+                  -16.94228
+                ],
+                [
+                  145.75499,
+                  -16.946712
+                ],
+                [
+                  145.755046,
+                  -16.947105
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4135",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "460",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:16PM 16 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AUMULLER ST, BRAMP CL, BUCHAN ST, COMPORT ST, COOK ST, ELPHINSTONE CL, HARTLEY ST, HASELL ST, HOLLINGSWORTH ST, KIDSTON ST, KNIGHT ST, LIBERTY ST, LYONS ST, MORRISON ST, MULGRAVE RD, NELSON ST, PALMER ST, PORT RD, REDDEN ST, SOUTHERN ACCESS RD, TINGIRA ST, TOOHEY ST, WALTERS ST, WASTE ST, WILLIAM ST",
+        "SUBURBS": "BUNGALOW, CAIRNS, PORTSMITH, WESTCOURT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -353,5 +462,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710587411.433027"
+  "extracted": "1710588002.375322"
 }
