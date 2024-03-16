@@ -245,6 +245,83 @@
           {
             "type": "Point",
             "coordinates": [
+              142.329416,
+              -10.904852
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  142.328011,
+                  -10.906269
+                ],
+                [
+                  142.329506,
+                  -10.906409
+                ],
+                [
+                  142.329629,
+                  -10.906404
+                ],
+                [
+                  142.330098,
+                  -10.906322
+                ],
+                [
+                  142.330411,
+                  -10.906107
+                ],
+                [
+                  142.331094,
+                  -10.904962
+                ],
+                [
+                  142.331112,
+                  -10.904537
+                ],
+                [
+                  142.33056,
+                  -10.903406
+                ],
+                [
+                  142.329816,
+                  -10.903294
+                ],
+                [
+                  142.327721,
+                  -10.905513
+                ],
+                [
+                  142.328011,
+                  -10.906269
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4128",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "9:32AM 16 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "APUDTHAMA ST, COBRA CL, PABLO ST, ROPEYARN HWY, SNAKE GLY, SNAKE GULLY RD, TAIPAN ALLY",
+        "SUBURBS": "INJINOO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -645,5 +722,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710552001.108733"
+  "extracted": "1710552607.209183"
 }
