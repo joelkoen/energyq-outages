@@ -3199,6 +3199,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.249197,
+          -20.014036
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5117",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "10:18AM 16 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 16 Mar 2024",
+        "STREETS": "GEORGE ST",
+        "SUBURBS": "BOWEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.725684,
           -19.336484
         ]
@@ -3213,27 +3234,6 @@
         "EST_FIX_TIME": "2:30PM 18 Mar 2024",
         "STREETS": "BROLGA CRES, DOVE ST, EGRET CRES, FLAMINGO AVE, PINNACLE DR, RIVERWAY DR, SKUA ST",
         "SUBURBS": "CONDON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.238664,
-          -20.01906
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5121",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "7:38AM 16 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 16 Mar 2024",
-        "STREETS": "GEORGE ST",
-        "SUBURBS": "BOWEN"
       }
     },
     {
@@ -6347,5 +6347,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1710547801.701927"
+  "extracted": "1710548401.109375"
 }
