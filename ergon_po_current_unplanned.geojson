@@ -406,9 +406,126 @@
         "STREETS": "HODEL RD, POOPOONBAH RD",
         "SUBURBS": "GIRU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.089936,
+              -18.591258
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.043963,
+                  -18.558896
+                ],
+                [
+                  146.044825,
+                  -18.578703
+                ],
+                [
+                  146.044981,
+                  -18.57902
+                ],
+                [
+                  146.058585,
+                  -18.590731
+                ],
+                [
+                  146.058609,
+                  -18.590749
+                ],
+                [
+                  146.093023,
+                  -18.616723
+                ],
+                [
+                  146.093133,
+                  -18.616786
+                ],
+                [
+                  146.116891,
+                  -18.626295
+                ],
+                [
+                  146.116975,
+                  -18.62632
+                ],
+                [
+                  146.125364,
+                  -18.628041
+                ],
+                [
+                  146.125474,
+                  -18.628051
+                ],
+                [
+                  146.135446,
+                  -18.627841
+                ],
+                [
+                  146.135908,
+                  -18.627363
+                ],
+                [
+                  146.134014,
+                  -18.596414
+                ],
+                [
+                  146.134014,
+                  -18.59641
+                ],
+                [
+                  146.133449,
+                  -18.588295
+                ],
+                [
+                  146.133155,
+                  -18.587907
+                ],
+                [
+                  146.047237,
+                  -18.554465
+                ],
+                [
+                  146.046656,
+                  -18.554643
+                ],
+                [
+                  146.044035,
+                  -18.558638
+                ],
+                [
+                  146.043963,
+                  -18.558896
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6271",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "112",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:16AM 17 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BIASIS RD, CRUICKSHANKS RD, CUNNINGHAMS RD, FABRIS RD, FALCOMERS RD, GANGEMIS RD, GORTONS RD, HAWKINS CREEK RD, PALMAS RD, PIPE GULLY RD, QUABBA'S RD, RUSSOS RD",
+        "SUBURBS": "BEMERSIDE, HAWKINS CREEK, INGHAM"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710616201.704581"
+  "extracted": "1710616801.703496"
 }
