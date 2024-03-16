@@ -102,9 +102,110 @@
         "STREETS": "CAMPBELL ST, IBIS CT, MEDLAND CT",
         "SUBURBS": "BUNDALL"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.623486,
+              -26.846116
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.60613,
+                  -26.858767
+                ],
+                [
+                  152.61179,
+                  -26.868709
+                ],
+                [
+                  152.611792,
+                  -26.868712
+                ],
+                [
+                  152.612537,
+                  -26.869991
+                ],
+                [
+                  152.612691,
+                  -26.870149
+                ],
+                [
+                  152.623552,
+                  -26.877082
+                ],
+                [
+                  152.62425,
+                  -26.876981
+                ],
+                [
+                  152.629357,
+                  -26.870744
+                ],
+                [
+                  152.629442,
+                  -26.870578
+                ],
+                [
+                  152.640872,
+                  -26.825867
+                ],
+                [
+                  152.640659,
+                  -26.825389
+                ],
+                [
+                  152.623339,
+                  -26.81515
+                ],
+                [
+                  152.622586,
+                  -26.81538
+                ],
+                [
+                  152.606566,
+                  -26.85716
+                ],
+                [
+                  152.606564,
+                  -26.857165
+                ],
+                [
+                  152.606101,
+                  -26.85842
+                ],
+                [
+                  152.60613,
+                  -26.858767
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-748536-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "89",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:38AM 16 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 16 Mar 2024",
+        "STREETS": "CEDARVALE RD, HUBNERS RD, KATHERINE DR, MCCAULEYS LANE, PERCY RD, RETSCHLAG RD, SANDY CREEK RD, SERAFINI DR, SINCLAIR RD, TRAVES RD",
+        "SUBURBS": "SANDY CREEK"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710552901.04255"
+  "extracted": "1710553201.75625"
 }
