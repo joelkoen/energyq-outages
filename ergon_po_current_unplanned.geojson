@@ -87,30 +87,14 @@
           {
             "type": "Point",
             "coordinates": [
-              145.764869,
-              -16.948782
+              145.770914,
+              -16.947854
             ]
           },
           {
             "type": "Polygon",
             "coordinates": [
               [
-                [
-                  145.758462,
-                  -16.951545
-                ],
-                [
-                  145.767186,
-                  -16.950326
-                ],
-                [
-                  145.767259,
-                  -16.95031
-                ],
-                [
-                  145.770626,
-                  -16.949299
-                ],
                 [
                   145.770921,
                   -16.949038
@@ -120,36 +104,32 @@
                   -16.946997
                 ],
                 [
-                  145.771393,
-                  -16.946376
+                  145.771553,
+                  -16.946417
                 ],
                 [
-                  145.767056,
-                  -16.946018
+                  145.770939,
+                  -16.946612
                 ],
                 [
-                  145.766812,
-                  -16.946062
+                  145.770514,
+                  -16.947374
                 ],
                 [
-                  145.765096,
-                  -16.946861
+                  145.770482,
+                  -16.947446
                 ],
                 [
-                  145.765067,
-                  -16.946876
+                  145.770041,
+                  -16.948725
                 ],
                 [
-                  145.758161,
-                  -16.950706
+                  145.770323,
+                  -16.949291
                 ],
                 [
-                  145.757951,
-                  -16.951246
-                ],
-                [
-                  145.758462,
-                  -16.951545
+                  145.770921,
+                  -16.949038
                 ]
               ]
             ]
@@ -159,12 +139,12 @@
       "properties": {
         "EVENT_ID": "24FN4135",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "23",
+        "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Crews on route",
         "START": "9:16PM 16 Mar 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "PORT RD, REDDEN ST, TINGIRA ST, WALTERS ST, WASTE ST",
+        "STREETS": "PORT RD, TINGIRA ST",
         "SUBURBS": "PORTSMITH"
       }
     },
@@ -299,7 +279,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is due to fallen power lines.  ",
-        "STATUS": "Crews working on-site",
+        "STATUS": "Work delayed - crews unable to continue",
         "START": "10:28PM 16 Mar 2024",
         "EST_FIX_TIME": null,
         "STREETS": "HODEL RD, POOPOONBAH RD",
@@ -309,5 +289,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710606301.034528"
+  "extracted": "1710606901.249041"
 }
