@@ -576,9 +576,78 @@
         "STREETS": "BENNS RD, CAMBRIDGE CROSSING RD, CLARKS RD, SCHONROCKS RD",
         "SUBURBS": "TARA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.633101,
+              -27.236725
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.627595,
+                  -27.235299
+                ],
+                [
+                  151.638242,
+                  -27.23899
+                ],
+                [
+                  151.638894,
+                  -27.238733
+                ],
+                [
+                  151.638608,
+                  -27.238151
+                ],
+                [
+                  151.634466,
+                  -27.236701
+                ],
+                [
+                  151.634463,
+                  -27.2367
+                ],
+                [
+                  151.627958,
+                  -27.234459
+                ],
+                [
+                  151.627307,
+                  -27.234717
+                ],
+                [
+                  151.627595,
+                  -27.235299
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6382",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:29PM 15 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "HOLSTEIN RD",
+        "SUBURBS": "BRYMAROO"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710548701.20419"
+  "extracted": "1710549007.054371"
 }
