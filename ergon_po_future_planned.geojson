@@ -961,7 +961,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "28",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 17 Mar 2024",
         "EST_FIX_TIME": "2:30PM 17 Mar 2024",
         "STREETS": "CLIFTON ST, MUSGRAVE ST",
@@ -982,7 +982,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "58",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 17 Mar 2024",
         "EST_FIX_TIME": "2:30PM 17 Mar 2024",
         "STREETS": "BENNETT ST, CLIFTON ST, ELDON ST, FORD ST, LEAMINGTON ST",
@@ -1288,27 +1288,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.974997,
-          -24.56947
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA4117",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "88",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "5:01AM 17 Mar 2024",
-        "EST_FIX_TIME": "9:00AM 17 Mar 2024",
-        "STREETS": "DAWSON HWY, GILCHRIST ST, GILLESPIE ST, MARSHALL ST, MCARTHUR ST, RAILWAY RES, YOUNG ST",
-        "SUBURBS": "MOURA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           149.97489,
           -24.567611
         ]
@@ -1318,8 +1297,8 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "10",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "9:00AM 17 Mar 2024",
+        "STATUS": "Crews working on-site",
+        "START": "8:05AM 17 Mar 2024",
         "EST_FIX_TIME": "2:00PM 17 Mar 2024",
         "STREETS": "GILLESPIE ST",
         "SUBURBS": "MOURA"
@@ -3061,7 +3040,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "146",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 17 Mar 2024",
         "EST_FIX_TIME": "1:30PM 17 Mar 2024",
         "STREETS": "CREAL ST, EAST GORDON ST, GABLE ST",
@@ -3082,7 +3061,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "8",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 17 Mar 2024",
         "EST_FIX_TIME": "3:00PM 17 Mar 2024",
         "STREETS": "ENDEAVOUR ST, INDUSTRIAL ST",
@@ -3682,17 +3661,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.248107,
-          -20.014179
+          148.249488,
+          -20.013022
         ]
       },
       "properties": {
-        "EVENT_ID": "24NQ5130",
+        "EVENT_ID": "24NQ5129",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
+        "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "7:16AM 17 Mar 2024",
+        "START": "8:12AM 17 Mar 2024",
         "EST_FIX_TIME": "4:00PM 17 Mar 2024",
         "STREETS": "GEORGE ST",
         "SUBURBS": "BOWEN"
@@ -4657,7 +4636,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "133",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 17 Mar 2024",
         "EST_FIX_TIME": "2:30PM 17 Mar 2024",
         "STREETS": "DALRYMPLE RD, KEANE ST, PUNARI ST, WOOLCOCK ST, YARROWEE ST",
@@ -7147,6 +7126,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.355467,
+          -24.871667
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB3569",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "124",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:02AM 17 Mar 2024",
+        "EST_FIX_TIME": "1:00PM 17 Mar 2024",
+        "STREETS": "BURNETT ST, GEORGE ST, NORMANBY ST, ROBERT ST, TANTITHA ST, WATER ST",
+        "SUBURBS": "BUNDABERG, BUNDABERG SOUTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.315591,
           -24.764878
         ]
@@ -7334,5 +7334,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1710627001.512965"
+  "extracted": "1710627601.575958"
 }
