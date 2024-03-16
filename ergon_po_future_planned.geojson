@@ -815,7 +815,7 @@
         "CUSTOMERS_AFFECTED": "85",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 17 Mar 2024",
+        "START": "8:33AM 17 Mar 2024",
         "EST_FIX_TIME": "2:30PM 17 Mar 2024",
         "STREETS": "BAKER ST, BRIEF ST, DUNDAS ST, HOSPITAL RD, LITTLE ST, OFF HOSPITAL RD, SHORT ST",
         "SUBURBS": "EMERALD"
@@ -962,7 +962,7 @@
         "CUSTOMERS_AFFECTED": "28",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 17 Mar 2024",
+        "START": "8:31AM 17 Mar 2024",
         "EST_FIX_TIME": "2:30PM 17 Mar 2024",
         "STREETS": "CLIFTON ST, MUSGRAVE ST",
         "SUBURBS": "BERSERKER"
@@ -5278,6 +5278,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.269625,
+          -27.16628
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW4874",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "168",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 17 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 17 Mar 2024",
+        "STREETS": "ACACIA AVE, AERODROME RD, BELL CT, COLLEGE CRES, KNIGHT ST, KOALA CT, MARGARET AVE, ORMONDE CT, ORSOVA CT, PEELS PL, RUSSELL ST, SWALLOW ST",
+        "SUBURBS": "DALBY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.112342,
           -27.123902
         ]
@@ -5817,6 +5838,27 @@
         "EST_FIX_TIME": "2:00PM 17 Mar 2024",
         "STREETS": "WARREGO HWY",
         "SUBURBS": "DALBY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.723131,
+          -27.449825
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW5553",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "303",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:34AM 17 Mar 2024",
+        "EST_FIX_TIME": "12:30PM 17 Mar 2024",
+        "STREETS": "BAUER ST, BOOTH CT, CECIL ST, DELRAY ST, HASS ST, MURRAY ST, PROPOSCH ST, ROBB ST, SHIRLEY ST, TOOWOOMBA RD, WEISE ST, WERTH ST, WRIGHT ST",
+        "SUBURBS": "OAKEY"
       }
     },
     {
@@ -7168,6 +7210,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.398176,
+          -25.152716
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB3606",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 17 Mar 2024",
+        "EST_FIX_TIME": "10:30AM 17 Mar 2024",
+        "STREETS": "OLIVERS RD",
+        "SUBURBS": "GOODWOOD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.364987,
           -24.973763
         ]
@@ -7250,5 +7313,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1710628205.767091"
+  "extracted": "1710628801.185307"
 }
