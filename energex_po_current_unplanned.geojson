@@ -203,9 +203,118 @@
         "STREETS": "CEDARVALE RD, HUBNERS RD, KATHERINE DR, MCCAULEYS LANE, PERCY RD, RETSCHLAG RD, SANDY CREEK RD, SERAFINI DR, SINCLAIR RD, TRAVES RD",
         "SUBURBS": "SANDY CREEK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.502064,
+              -28.153211
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.495689,
+                  -28.151176
+                ],
+                [
+                  153.496988,
+                  -28.152581
+                ],
+                [
+                  153.497083,
+                  -28.152662
+                ],
+                [
+                  153.505606,
+                  -28.158116
+                ],
+                [
+                  153.505618,
+                  -28.158123
+                ],
+                [
+                  153.506903,
+                  -28.158897
+                ],
+                [
+                  153.507557,
+                  -28.158835
+                ],
+                [
+                  153.508005,
+                  -28.15842
+                ],
+                [
+                  153.508137,
+                  -28.158193
+                ],
+                [
+                  153.508439,
+                  -28.156789
+                ],
+                [
+                  153.508349,
+                  -28.156436
+                ],
+                [
+                  153.507327,
+                  -28.155209
+                ],
+                [
+                  153.507311,
+                  -28.155191
+                ],
+                [
+                  153.500256,
+                  -28.147576
+                ],
+                [
+                  153.499523,
+                  -28.147526
+                ],
+                [
+                  153.495985,
+                  -28.150333
+                ],
+                [
+                  153.49596,
+                  -28.150355
+                ],
+                [
+                  153.495718,
+                  -28.150575
+                ],
+                [
+                  153.495689,
+                  -28.151176
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-748538-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "621",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:37AM 16 Mar 2024",
+        "EST_FIX_TIME": "1:30PM 16 Mar 2024",
+        "STREETS": "ADINA AVE, BOYD ST, COOLANGATTA RD, FOCH ST, GOLDEN FOUR DR, JOHN ST, LOONGANA AVE, MATTERS ST, MONASH ST, MORSHEAD ST, PACIFIC PDE, SAND ST, SEA ST, SURF ST, TUGUN ST",
+        "SUBURBS": "BILINGA, TUGUN"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710553201.75625"
+  "extracted": "1710553505.576395"
 }
