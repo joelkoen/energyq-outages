@@ -1582,20 +1582,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.805679,
-          -18.093261
+          145.803985,
+          -18.125632
         ]
       },
       "properties": {
         "EVENT_ID": "24FN3385",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "89",
+        "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
         "STATUS": "Crews working on-site",
         "START": "8:32AM 16 Mar 2024",
         "EST_FIX_TIME": "2:30PM 16 Mar 2024",
-        "STREETS": "BLACKMAN RD, MIDDLE MURRAY RD, MURRAY FALLS RD, MURRAY UPPER RD, NORTH MURRAY RD, RONLUND RD, WARRAMI RD",
-        "SUBURBS": "JUMBUN, MURRAY UPPER, TULLY, WARRAMI"
+        "STREETS": "MURRAY FALLS RD",
+        "SUBURBS": "JUMBUN"
       }
     },
     {
@@ -4533,7 +4533,7 @@
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
         "START": "8:00AM 16 Mar 2024",
-        "EST_FIX_TIME": "2:00PM 16 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 16 Mar 2024",
         "STREETS": "CECIL PLAINS RD, COSGROVES RD, VACY PLAINS RD",
         "SUBURBS": "DALBY, ST RUTH"
       }
@@ -4641,27 +4641,6 @@
         "EST_FIX_TIME": "2:00PM 20 Mar 2024",
         "STREETS": "DAANDINE SOLDIERS RD, MACALISTER WILKIE CREEK RD, WARREGO HWY",
         "SUBURBS": "DAANDINE, MACALISTER"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.525531,
-          -27.727579
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW4903",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Crews working on-site",
-        "START": "9:05AM 16 Mar 2024",
-        "EST_FIX_TIME": "3:00PM 16 Mar 2024",
-        "STREETS": "WATSON RD, YARRANLEA RD",
-        "SUBURBS": "YARRANLEA"
       }
     },
     {
@@ -5467,27 +5446,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.330239,
-          -24.883325
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB2843",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "10",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "7:23AM 16 Mar 2024",
-        "EST_FIX_TIME": "5:00PM 16 Mar 2024",
-        "STREETS": "WATKIN ST, WILLIAMS RD",
-        "SUBURBS": "SVENSSON HEIGHTS"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           152.327671,
           -24.8842
         ]
@@ -6263,5 +6221,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1710560401.572668"
+  "extracted": "1710561001.141394"
 }
