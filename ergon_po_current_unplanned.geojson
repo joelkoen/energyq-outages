@@ -406,6 +406,99 @@
           {
             "type": "Point",
             "coordinates": [
+              145.738299,
+              -16.876248
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.733989,
+                  -16.875263
+                ],
+                [
+                  145.742069,
+                  -16.878049
+                ],
+                [
+                  145.742162,
+                  -16.878071
+                ],
+                [
+                  145.742428,
+                  -16.878107
+                ],
+                [
+                  145.74291,
+                  -16.877868
+                ],
+                [
+                  145.742835,
+                  -16.87735
+                ],
+                [
+                  145.742271,
+                  -16.876772
+                ],
+                [
+                  145.742259,
+                  -16.876761
+                ],
+                [
+                  145.741519,
+                  -16.876055
+                ],
+                [
+                  145.741473,
+                  -16.876017
+                ],
+                [
+                  145.73997,
+                  -16.874912
+                ],
+                [
+                  145.739723,
+                  -16.874821
+                ],
+                [
+                  145.734185,
+                  -16.874388
+                ],
+                [
+                  145.733688,
+                  -16.874743
+                ],
+                [
+                  145.733989,
+                  -16.875263
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4149",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "11:38AM 17 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AEROGLEN DR, CAPTAIN COOK HWY, STRATFORD PDE",
+        "SUBURBS": "STRATFORD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -632,5 +725,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710645901.027392"
+  "extracted": "1710646501.170386"
 }
