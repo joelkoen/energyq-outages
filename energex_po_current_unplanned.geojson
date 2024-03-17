@@ -102,9 +102,94 @@
         "STREETS": "COWLEY RD, FINGLAS RD, FISCHERS RD, KERKIN RD N, NEW NORWELL RD, NORWELL LAKES RD, NORWELL RD, PIMPAMA JACOBS WELL RD, PIMPAMA-JACOBS WELL RD, STAPYLTON JACOBS WELL RD, STEWARTS RD",
         "SUBURBS": "GILBERTON, JACOBS WELL, NORWELL, PIMPAMA, WOONGOOLBA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.29125,
+              -27.812506
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.290907,
+                  -27.815533
+                ],
+                [
+                  153.291069,
+                  -27.815433
+                ],
+                [
+                  153.291095,
+                  -27.815416
+                ],
+                [
+                  153.291753,
+                  -27.814954
+                ],
+                [
+                  153.291945,
+                  -27.814637
+                ],
+                [
+                  153.292379,
+                  -27.809958
+                ],
+                [
+                  153.291948,
+                  -27.809475
+                ],
+                [
+                  153.291377,
+                  -27.809827
+                ],
+                [
+                  153.290463,
+                  -27.813622
+                ],
+                [
+                  153.290463,
+                  -27.813624
+                ],
+                [
+                  153.290121,
+                  -27.815069
+                ],
+                [
+                  153.290337,
+                  -27.815537
+                ],
+                [
+                  153.290907,
+                  -27.815533
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-748696-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "2:10AM 18 Mar 2024",
+        "EST_FIX_TIME": "4:30AM 18 Mar 2024",
+        "STREETS": "DEPOT RD, FAIRBOURNE TCE, PIMPAMA JACOBS WELL RD",
+        "SUBURBS": "PIMPAMA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710691801.470754"
+  "extracted": "1710692105.24703"
 }
