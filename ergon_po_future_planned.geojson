@@ -226,7 +226,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "17",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:00AM 18 Mar 2024",
         "EST_FIX_TIME": "2:00PM 18 Mar 2024",
         "STREETS": "EAGLE ST, RAILWAY RES",
@@ -2716,6 +2716,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.944641,
+          -17.643874
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4022",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Work scheduled",
+        "START": "8:30AM 22 Mar 2024",
+        "EST_FIX_TIME": "12:30PM 22 Mar 2024",
+        "STREETS": "BRINCAT RD, DONKIN RD",
+        "SUBURBS": "MENA CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.693616,
           -21.101341
         ]
@@ -3745,111 +3766,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.24542,
-          -20.006635
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5156",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "9",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "7:00AM 18 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 18 Mar 2024",
-        "STREETS": "KENNEDY ST, LIVINGSTONE ST",
-        "SUBURBS": "BOWEN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.238507,
-          -20.010628
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5157",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "7:00AM 18 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 18 Mar 2024",
-        "STREETS": "LIVINGSTONE ST",
-        "SUBURBS": "BOWEN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.241477,
-          -20.015847
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5158",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "12",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "7:00AM 18 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 18 Mar 2024",
-        "STREETS": "WILLIAMS ST",
-        "SUBURBS": "BOWEN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.240469,
-          -20.018444
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5164",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "6",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "7:00AM 18 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 18 Mar 2024",
-        "STREETS": "GEORGE ST",
-        "SUBURBS": "BOWEN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.786754,
-          -19.258539
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5166",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "7:00AM 18 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 18 Mar 2024",
-        "STREETS": "PERCY ST",
-        "SUBURBS": "WEST END"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           146.763977,
           -19.289103
         ]
@@ -3864,27 +3780,6 @@
         "EST_FIX_TIME": "12:30PM 22 Mar 2024",
         "STREETS": "BIGGS ST",
         "SUBURBS": "VINCENT"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.790673,
-          -19.258374
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5169",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "7:00AM 18 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 18 Mar 2024",
-        "STREETS": "STAGPOLE ST",
-        "SUBURBS": "WEST END"
       }
     },
     {
@@ -6286,48 +6181,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.329058,
-          -24.882846
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB2840",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "11",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "7:00AM 18 Mar 2024",
-        "EST_FIX_TIME": "5:00PM 18 Mar 2024",
-        "STREETS": "GAFFEL ST",
-        "SUBURBS": "SVENSSON HEIGHTS"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.328639,
-          -24.883762
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB2842",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "7:00AM 18 Mar 2024",
-        "EST_FIX_TIME": "5:00PM 18 Mar 2024",
-        "STREETS": "GAFFEL ST",
-        "SUBURBS": "SVENSSON HEIGHTS"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           152.331007,
           -24.880061
         ]
@@ -7355,5 +7208,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1710708900.515036"
+  "extracted": "1710709500.262904"
 }
