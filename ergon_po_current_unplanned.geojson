@@ -95,6 +95,83 @@
           {
             "type": "Point",
             "coordinates": [
+              145.194581,
+              -16.568078
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.183066,
+                  -16.577168
+                ],
+                [
+                  145.183595,
+                  -16.579584
+                ],
+                [
+                  145.184391,
+                  -16.579803
+                ],
+                [
+                  145.206095,
+                  -16.55794
+                ],
+                [
+                  145.205798,
+                  -16.557178
+                ],
+                [
+                  145.196125,
+                  -16.556352
+                ],
+                [
+                  145.195712,
+                  -16.556528
+                ],
+                [
+                  145.185658,
+                  -16.569226
+                ],
+                [
+                  145.185584,
+                  -16.569363
+                ],
+                [
+                  145.183078,
+                  -16.576937
+                ],
+                [
+                  145.183066,
+                  -16.577168
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4153",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "26",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:06AM 18 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BUTCHERS CREEK RD, EAST MARY RD, MULLIGAN HWY, PENINSULA DEVELOPMENT RD, WEST MARY RD",
+        "SUBURBS": "MARYFARMS, MOUNT CARBINE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -369,5 +446,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710704400.47273"
+  "extracted": "1710705001.294366"
 }
