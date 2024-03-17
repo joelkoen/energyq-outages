@@ -90,13 +90,74 @@
         "REASON": "Planned Maintenance",
         "STATUS": "Awaiting",
         "START": "8:06AM 17 Mar 2024",
-        "EST_FIX_TIME": "12:30PM 17 Mar 2024",
+        "EST_FIX_TIME": "1:00PM 17 Mar 2024",
         "STREETS": "ALF DOBSON RD, NEILSON RD, PRAISE MOUNTAIN RD, RAYNBIRD RD, ROBERTS RD, SCHULZ RD",
         "SUBURBS": "KURWONGBAH, NARANGBA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.161289,
+              -27.870785
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.162173,
+                  -27.869779
+                ],
+                [
+                  153.159878,
+                  -27.871019
+                ],
+                [
+                  153.159708,
+                  -27.871639
+                ],
+                [
+                  153.160406,
+                  -27.87179
+                ],
+                [
+                  153.162701,
+                  -27.870551
+                ],
+                [
+                  153.162871,
+                  -27.86993
+                ],
+                [
+                  153.162173,
+                  -27.869779
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-748626-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "11:48AM 17 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 17 Mar 2024",
+        "STREETS": "BEAUDESERT-BEENLEIGH RD",
+        "SUBURBS": "TAMBORINE"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710639904.935463"
+  "extracted": "1710640201.303539"
 }
