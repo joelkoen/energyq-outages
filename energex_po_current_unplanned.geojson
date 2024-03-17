@@ -159,9 +159,114 @@
         "STREETS": "ABELIA CRES, CENTAUR ST, NICHOLSON CT, TRILBY ST, WESTON ST",
         "SUBURBS": "KIPPA-RING, REDCLIFFE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.523664,
+              -28.168613
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.516975,
+                  -28.16386
+                ],
+                [
+                  153.520932,
+                  -28.169086
+                ],
+                [
+                  153.520934,
+                  -28.169089
+                ],
+                [
+                  153.523465,
+                  -28.172371
+                ],
+                [
+                  153.523677,
+                  -28.172529
+                ],
+                [
+                  153.524715,
+                  -28.172941
+                ],
+                [
+                  153.527141,
+                  -28.173903
+                ],
+                [
+                  153.52741,
+                  -28.17401
+                ],
+                [
+                  153.527769,
+                  -28.174029
+                ],
+                [
+                  153.52912,
+                  -28.173658
+                ],
+                [
+                  153.529466,
+                  -28.173326
+                ],
+                [
+                  153.530353,
+                  -28.169845
+                ],
+                [
+                  153.530324,
+                  -28.169569
+                ],
+                [
+                  153.529672,
+                  -28.16821
+                ],
+                [
+                  153.529415,
+                  -28.167977
+                ],
+                [
+                  153.517609,
+                  -28.163198
+                ],
+                [
+                  153.517009,
+                  -28.163317
+                ],
+                [
+                  153.516975,
+                  -28.16386
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-748656-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1235",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "4:36PM 17 Mar 2024",
+        "EST_FIX_TIME": "7:30PM 17 Mar 2024",
+        "STREETS": "APPEL ST, BINYA AVE, BOLTON ST, CHARLOTTE ST, COOLANGATTA RD, COYNE ST, CREEK ST, GALA GR, GOLD COAST HWY, GOLDEN FOUR DR, HAIG ST, KORINA AVE, LANG ST, LORD ST, MILES ST, MUSGRAVE ST, OCEAN ST, PACIFIC PDE, SIMPSON ST, SOUTH ST, STAPYLTON ST, WINSTON ST",
+        "SUBURBS": "BILINGA, COOLANGATTA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710657301.551202"
+  "extracted": "1710657601.110832"
 }
