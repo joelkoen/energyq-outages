@@ -248,6 +248,115 @@
           {
             "type": "Point",
             "coordinates": [
+              145.520342,
+              -17.648136
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.506424,
+                  -17.662613
+                ],
+                [
+                  145.509458,
+                  -17.681818
+                ],
+                [
+                  145.509964,
+                  -17.682201
+                ],
+                [
+                  145.522069,
+                  -17.681214
+                ],
+                [
+                  145.52243,
+                  -17.681002
+                ],
+                [
+                  145.532763,
+                  -17.66499
+                ],
+                [
+                  145.532771,
+                  -17.664979
+                ],
+                [
+                  145.534215,
+                  -17.662581
+                ],
+                [
+                  145.534265,
+                  -17.66225
+                ],
+                [
+                  145.527749,
+                  -17.636236
+                ],
+                [
+                  145.527746,
+                  -17.636223
+                ],
+                [
+                  145.522681,
+                  -17.618376
+                ],
+                [
+                  145.5225,
+                  -17.618127
+                ],
+                [
+                  145.516586,
+                  -17.61407
+                ],
+                [
+                  145.515992,
+                  -17.614106
+                ],
+                [
+                  145.507427,
+                  -17.621665
+                ],
+                [
+                  145.507275,
+                  -17.621988
+                ],
+                [
+                  145.506419,
+                  -17.662536
+                ],
+                [
+                  145.506424,
+                  -17.662613
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4144",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "157",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "10:52AM 17 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARTHUR BAILLIE RD, BELLVIEW DR, BELLVIEW DR W, BEW RD, COCKRAM RD, DIXON HILL RD, FERN TREE POCKET RD, GOLD COAST RD, KAYS RD, MCGIDIGAN RD, SOUTH ARM CL, SUNNYSIDE RD, TULLY FALLS RD",
+        "SUBURBS": "RAVENSHOE, VINE CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -381,5 +490,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710636601.743696"
+  "extracted": "1710636901.943835"
 }
