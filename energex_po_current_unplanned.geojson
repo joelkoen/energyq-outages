@@ -98,9 +98,126 @@
         "REASON": "Under Investigation",
         "STATUS": "Awaiting",
         "START": "9:40PM 17 Mar 2024",
-        "EST_FIX_TIME": "3:30AM 18 Mar 2024",
+        "EST_FIX_TIME": "5:00AM 18 Mar 2024",
         "STREETS": "COWLEY RD, FINGLAS RD, FISCHERS RD, KERKIN RD N, NEW NORWELL RD, NORWELL LAKES RD, NORWELL RD, PIMPAMA JACOBS WELL RD, PIMPAMA-JACOBS WELL RD, STAPYLTON JACOBS WELL RD, STEWARTS RD",
         "SUBURBS": "GILBERTON, JACOBS WELL, NORWELL, PIMPAMA, WOONGOOLBA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.80287,
+              -27.598993
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.796145,
+                  -27.602647
+                ],
+                [
+                  152.797783,
+                  -27.605415
+                ],
+                [
+                  152.798431,
+                  -27.60562
+                ],
+                [
+                  152.801701,
+                  -27.604369
+                ],
+                [
+                  152.801826,
+                  -27.604301
+                ],
+                [
+                  152.801976,
+                  -27.604189
+                ],
+                [
+                  152.80199,
+                  -27.604178
+                ],
+                [
+                  152.809648,
+                  -27.598015
+                ],
+                [
+                  152.809618,
+                  -27.597323
+                ],
+                [
+                  152.809098,
+                  -27.596965
+                ],
+                [
+                  152.809087,
+                  -27.596957
+                ],
+                [
+                  152.802116,
+                  -27.592409
+                ],
+                [
+                  152.801599,
+                  -27.592366
+                ],
+                [
+                  152.801379,
+                  -27.592459
+                ],
+                [
+                  152.801368,
+                  -27.592464
+                ],
+                [
+                  152.800428,
+                  -27.592887
+                ],
+                [
+                  152.800245,
+                  -27.593026
+                ],
+                [
+                  152.797067,
+                  -27.59696
+                ],
+                [
+                  152.796977,
+                  -27.597156
+                ],
+                [
+                  152.796093,
+                  -27.602369
+                ],
+                [
+                  152.796145,
+                  -27.602647
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-748691-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "363",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "1:22AM 18 Mar 2024",
+        "EST_FIX_TIME": "4:00AM 18 Mar 2024",
+        "STREETS": "ANDREW ST, BLACKHEATH ST, BURGOYNE ST, DAVID ST, DIANE CT, GLEDSON ST, HABBEN CT, HANRAN CT, HELEN ST, KIRK ST, NELSON ST, RULE DR, RUSH CT, SELWYN ST, STATHIS PL, STUBBIN ST, SUGARS PL",
+        "SUBURBS": "BUNDAMBA, NORTH BOOVAL"
       }
     },
     {
@@ -191,5 +308,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710693601.181637"
+  "extracted": "1710693905.193974"
 }
