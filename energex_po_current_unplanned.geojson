@@ -62,9 +62,106 @@
         "STREETS": "BEAUDESERT-BEENLEIGH RD",
         "SUBURBS": "TAMBORINE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.095628,
+              -27.233883
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.093653,
+                  -27.2339
+                ],
+                [
+                  153.093979,
+                  -27.234778
+                ],
+                [
+                  153.094376,
+                  -27.235081
+                ],
+                [
+                  153.095779,
+                  -27.235288
+                ],
+                [
+                  153.096179,
+                  -27.235348
+                ],
+                [
+                  153.096572,
+                  -27.235258
+                ],
+                [
+                  153.09672,
+                  -27.235155
+                ],
+                [
+                  153.096814,
+                  -27.23507
+                ],
+                [
+                  153.097556,
+                  -27.234184
+                ],
+                [
+                  153.097602,
+                  -27.23371
+                ],
+                [
+                  153.097074,
+                  -27.232776
+                ],
+                [
+                  153.096695,
+                  -27.232533
+                ],
+                [
+                  153.095795,
+                  -27.232418
+                ],
+                [
+                  153.095455,
+                  -27.232483
+                ],
+                [
+                  153.093864,
+                  -27.233375
+                ],
+                [
+                  153.093653,
+                  -27.2339
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-748644-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "64",
+        "REASON": "Emergency Repairs",
+        "STATUS": "In Progress",
+        "START": "2:47PM 17 Mar 2024",
+        "EST_FIX_TIME": "6:00PM 17 Mar 2024",
+        "STREETS": "ABELIA CRES, CENTAUR ST, NICHOLSON CT, TRILBY ST, WESTON ST",
+        "SUBURBS": "KIPPA-RING, REDCLIFFE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710657005.244732"
+  "extracted": "1710657301.551202"
 }
