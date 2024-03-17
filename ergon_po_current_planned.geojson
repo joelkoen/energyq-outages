@@ -133,6 +133,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.040079,
+          -25.281983
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA3679",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "24",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:04AM 18 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 18 Mar 2024",
+        "STREETS": "LANGLO RD, WARD RD",
+        "SUBURBS": "TAMBO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           149.333908,
           -23.993888
         ]
@@ -824,5 +845,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710714900.42849"
+  "extracted": "1710715203.931658"
 }
