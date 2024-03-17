@@ -216,9 +216,122 @@
         "STREETS": "HODEL RD, POOPOONBAH RD",
         "SUBURBS": "GIRU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.733872,
+              -19.302013
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.732303,
+                  -19.304635
+                ],
+                [
+                  146.735162,
+                  -19.302117
+                ],
+                [
+                  146.735203,
+                  -19.302075
+                ],
+                [
+                  146.735816,
+                  -19.301378
+                ],
+                [
+                  146.735848,
+                  -19.301337
+                ],
+                [
+                  146.736143,
+                  -19.300912
+                ],
+                [
+                  146.736205,
+                  -19.300547
+                ],
+                [
+                  146.735981,
+                  -19.299754
+                ],
+                [
+                  146.735561,
+                  -19.29942
+                ],
+                [
+                  146.734699,
+                  -19.299352
+                ],
+                [
+                  146.734653,
+                  -19.29935
+                ],
+                [
+                  146.734116,
+                  -19.299356
+                ],
+                [
+                  146.734038,
+                  -19.299363
+                ],
+                [
+                  146.733886,
+                  -19.299389
+                ],
+                [
+                  146.733552,
+                  -19.299619
+                ],
+                [
+                  146.733321,
+                  -19.300022
+                ],
+                [
+                  146.7333,
+                  -19.300066
+                ],
+                [
+                  146.731539,
+                  -19.304132
+                ],
+                [
+                  146.731708,
+                  -19.304675
+                ],
+                [
+                  146.732303,
+                  -19.304635
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6273",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "66",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "6:47PM 17 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BURNDA ST, CARLTON ST, CASTLEMAINE ST, THURINGOWA DR",
+        "SUBURBS": "KIRWAN, THURINGOWA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710665104.975199"
+  "extracted": "1710665401.070231"
 }
