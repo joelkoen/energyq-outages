@@ -10,91 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              153.29125,
-              -27.812506
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.290907,
-                  -27.815533
-                ],
-                [
-                  153.291069,
-                  -27.815433
-                ],
-                [
-                  153.291095,
-                  -27.815416
-                ],
-                [
-                  153.291753,
-                  -27.814954
-                ],
-                [
-                  153.291945,
-                  -27.814637
-                ],
-                [
-                  153.292379,
-                  -27.809958
-                ],
-                [
-                  153.291948,
-                  -27.809475
-                ],
-                [
-                  153.291377,
-                  -27.809827
-                ],
-                [
-                  153.290463,
-                  -27.813622
-                ],
-                [
-                  153.290463,
-                  -27.813624
-                ],
-                [
-                  153.290121,
-                  -27.815069
-                ],
-                [
-                  153.290337,
-                  -27.815537
-                ],
-                [
-                  153.290907,
-                  -27.815533
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-748696-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "7",
-        "REASON": "Powerlines down",
-        "STATUS": "Awaiting",
-        "START": "2:10AM 18 Mar 2024",
-        "EST_FIX_TIME": "6:30PM 18 Mar 2024",
-        "STREETS": "DEPOT RD, FAIRBOURNE TCE, PIMPAMA JACOBS WELL RD",
-        "SUBURBS": "PIMPAMA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               153.335754,
               -27.782886
             ]
@@ -159,9 +74,86 @@
         "STREETS": "BEHMS RD, PIMPAMA-JACOBS WELL RD",
         "SUBURBS": "JACOBS WELL, NORWELL"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.749157,
+              -26.143201
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.742278,
+                  -26.145164
+                ],
+                [
+                  152.756018,
+                  -26.145317
+                ],
+                [
+                  152.75651,
+                  -26.144976
+                ],
+                [
+                  152.756256,
+                  -26.144465
+                ],
+                [
+                  152.753967,
+                  -26.143387
+                ],
+                [
+                  152.753931,
+                  -26.143371
+                ],
+                [
+                  152.747936,
+                  -26.141085
+                ],
+                [
+                  152.747468,
+                  -26.141123
+                ],
+                [
+                  152.742011,
+                  -26.144334
+                ],
+                [
+                  152.741803,
+                  -26.144839
+                ],
+                [
+                  152.742278,
+                  -26.145164
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-748925-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "5:27PM 18 Mar 2024",
+        "EST_FIX_TIME": "8:00PM 18 Mar 2024",
+        "STREETS": "KINEN LANE",
+        "SUBURBS": "CANINA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710746701.047961"
+  "extracted": "1710747006.095629"
 }
