@@ -100,7 +100,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "4",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 19 Mar 2024",
         "EST_FIX_TIME": "2:30PM 19 Mar 2024",
         "STREETS": "CAPRICORN HWY, ROGER ST",
@@ -3661,6 +3661,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          147.404761,
+          -19.580931
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5489",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:08AM 19 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 19 Mar 2024",
+        "STREETS": "MACMILLAN ST, WICKHAM ST",
+        "SUBURBS": "AYR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.727713,
           -19.385525
         ]
@@ -3675,6 +3696,27 @@
         "EST_FIX_TIME": "2:30PM 20 Mar 2024",
         "STREETS": "CLINT ST, GLADYS ST, HARRY ST",
         "SUBURBS": "KELSO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.402169,
+          -19.583122
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5495",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:06AM 19 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 19 Mar 2024",
+        "STREETS": "LITTLE DRYSDALE ST, WICKHAM ST",
+        "SUBURBS": "AYR"
       }
     },
     {
@@ -5885,5 +5927,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1710799501.592992"
+  "extracted": "1710799801.468348"
 }
