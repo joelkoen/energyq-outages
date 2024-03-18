@@ -317,9 +317,78 @@
         "STREETS": "HODEL RD, POOPOONBAH RD",
         "SUBURBS": "GIRU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.287198,
+              -24.785092
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.285843,
+                  -24.785608
+                ],
+                [
+                  152.286248,
+                  -24.786267
+                ],
+                [
+                  152.286917,
+                  -24.78644
+                ],
+                [
+                  152.288392,
+                  -24.785692
+                ],
+                [
+                  152.288554,
+                  -24.785038
+                ],
+                [
+                  152.287545,
+                  -24.783744
+                ],
+                [
+                  152.286716,
+                  -24.783781
+                ],
+                [
+                  152.285846,
+                  -24.785164
+                ],
+                [
+                  152.285843,
+                  -24.785608
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4177",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "1:39PM 18 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MOORE PARK RD, ZAHNS RD",
+        "SUBURBS": "GOOBURRUM"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710737102.544714"
+  "extracted": "1710737700.741904"
 }
