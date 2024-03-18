@@ -157,7 +157,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "26",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "5:06AM 18 Mar 2024",
         "EST_FIX_TIME": null,
         "STREETS": "BUTCHERS CREEK RD, EAST MARY RD, MULLIGAN HWY, PENINSULA DEVELOPMENT RD, WEST MARY RD",
@@ -234,7 +234,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "38",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "8:29AM 18 Mar 2024",
         "EST_FIX_TIME": null,
         "STREETS": "EDITH ST, ERNEST ST, OWEN ST",
@@ -308,6 +308,131 @@
         "EST_FIX_TIME": "12:00PM 22 Mar 2024",
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.684462,
+              -20.294943
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.681966,
+                  -20.29455
+                ],
+                [
+                  148.682106,
+                  -20.294921
+                ],
+                [
+                  148.682197,
+                  -20.295067
+                ],
+                [
+                  148.682839,
+                  -20.295761
+                ],
+                [
+                  148.683112,
+                  -20.295908
+                ],
+                [
+                  148.68514,
+                  -20.296265
+                ],
+                [
+                  148.685159,
+                  -20.296268
+                ],
+                [
+                  148.685328,
+                  -20.296291
+                ],
+                [
+                  148.685339,
+                  -20.296292
+                ],
+                [
+                  148.685505,
+                  -20.296311
+                ],
+                [
+                  148.685669,
+                  -20.29633
+                ],
+                [
+                  148.685831,
+                  -20.296348
+                ],
+                [
+                  148.685847,
+                  -20.29635
+                ],
+                [
+                  148.686187,
+                  -20.296377
+                ],
+                [
+                  148.686215,
+                  -20.296379
+                ],
+                [
+                  148.686405,
+                  -20.296384
+                ],
+                [
+                  148.686894,
+                  -20.295982
+                ],
+                [
+                  148.686958,
+                  -20.295443
+                ],
+                [
+                  148.686673,
+                  -20.294978
+                ],
+                [
+                  148.683075,
+                  -20.293502
+                ],
+                [
+                  148.682531,
+                  -20.293612
+                ],
+                [
+                  148.682064,
+                  -20.294094
+                ],
+                [
+                  148.681966,
+                  -20.29455
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2942",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "55",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:00AM 18 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 18 Mar 2024",
+        "STREETS": "GREVILLEA PL, PARKER RD, TWIN CREEK CT",
+        "SUBURBS": "CANNONVALE"
       }
     },
     {
@@ -576,5 +701,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710722705.334457"
+  "extracted": "1710723300.413841"
 }
