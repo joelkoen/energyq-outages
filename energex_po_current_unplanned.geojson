@@ -159,9 +159,102 @@
         "STREETS": "BEHMS RD, PIMPAMA-JACOBS WELL RD",
         "SUBURBS": "JACOBS WELL, NORWELL"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.628245,
+              -27.475697
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.618677,
+                  -27.475388
+                ],
+                [
+                  152.622747,
+                  -27.476914
+                ],
+                [
+                  152.622792,
+                  -27.476929
+                ],
+                [
+                  152.631935,
+                  -27.47949
+                ],
+                [
+                  152.631939,
+                  -27.479491
+                ],
+                [
+                  152.6338,
+                  -27.479994
+                ],
+                [
+                  152.633899,
+                  -27.480012
+                ],
+                [
+                  152.637618,
+                  -27.480329
+                ],
+                [
+                  152.638122,
+                  -27.480076
+                ],
+                [
+                  152.638029,
+                  -27.479566
+                ],
+                [
+                  152.628888,
+                  -27.471169
+                ],
+                [
+                  152.628335,
+                  -27.471065
+                ],
+                [
+                  152.618683,
+                  -27.474553
+                ],
+                [
+                  152.618367,
+                  -27.474969
+                ],
+                [
+                  152.618677,
+                  -27.475388
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-748913-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "614",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "4:30PM 18 Mar 2024",
+        "EST_FIX_TIME": "7:00PM 18 Mar 2024",
+        "STREETS": "MUCKERTS LANE, OGG RD, SMALLWOODS RD, WERNOWSKIS RD",
+        "SUBURBS": "FAIRNEY VIEW, VERNOR"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710743101.712544"
+  "extracted": "1710743406.113064"
 }
