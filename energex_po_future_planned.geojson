@@ -2011,7 +2011,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "15",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "8:00AM 19 Mar 2024",
         "EST_FIX_TIME": "3:30PM 19 Mar 2024",
         "STREETS": "KROPPS RD, NEURUM RD, WESTVALE RD",
@@ -3340,9 +3340,30 @@
         "STREETS": "BIBY ST, TOOLONA ST",
         "SUBURBS": "TUGUN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.106931,
+          -27.660505
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-748984-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "9:00AM 19 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 19 Mar 2024",
+        "STREETS": "SAPIUM ST",
+        "SUBURBS": "KINGSTON"
+      }
     }
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1710800400.409986"
+  "extracted": "1710800700.448686"
 }
