@@ -310,6 +310,83 @@
           {
             "type": "Point",
             "coordinates": [
+              151.212434,
+              -27.366358
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.185141,
+                  -27.397404
+                ],
+                [
+                  151.228582,
+                  -27.392135
+                ],
+                [
+                  151.229,
+                  -27.391811
+                ],
+                [
+                  151.240267,
+                  -27.356172
+                ],
+                [
+                  151.240109,
+                  -27.355707
+                ],
+                [
+                  151.213321,
+                  -27.335311
+                ],
+                [
+                  151.212582,
+                  -27.335394
+                ],
+                [
+                  151.208036,
+                  -27.341131
+                ],
+                [
+                  151.207976,
+                  -27.341233
+                ],
+                [
+                  151.184601,
+                  -27.396799
+                ],
+                [
+                  151.185141,
+                  -27.397404
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6412",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "18",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "8:37AM 18 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ABERNETHY RD, GRASSDALE RD, NANDI-GRASSDALE RD, SPRINGVALE RD",
+        "SUBURBS": "DALBY, NANDI, ST RUTH, TIPTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.334901,
               -25.195276
             ]
@@ -422,5 +499,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710720601.496531"
+  "extracted": "1710720906.127364"
 }
