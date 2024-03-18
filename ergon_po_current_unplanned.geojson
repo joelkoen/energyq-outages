@@ -317,9 +317,70 @@
         "STREETS": "HODEL RD, POOPOONBAH RD",
         "SUBURBS": "GIRU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.174126,
+              -18.748636
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.179816,
+                  -18.750772
+                ],
+                [
+                  146.168852,
+                  -18.745687
+                ],
+                [
+                  146.168218,
+                  -18.745896
+                ],
+                [
+                  146.168437,
+                  -18.7465
+                ],
+                [
+                  146.1794,
+                  -18.751584
+                ],
+                [
+                  146.180034,
+                  -18.751376
+                ],
+                [
+                  146.179816,
+                  -18.750772
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6311",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews working on-site",
+        "START": "11:45AM 18 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 18 Mar 2024",
+        "STREETS": "HELENS HILL RD, PINNACLE HILL RD",
+        "SUBURBS": "HELENS HILL, TOOBANNA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710736500.570358"
+  "extracted": "1710736801.332237"
 }
