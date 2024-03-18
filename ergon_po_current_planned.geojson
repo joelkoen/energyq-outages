@@ -154,69 +154,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.705825,
-          -23.136089
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA3555",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "8",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "7:30AM 19 Mar 2024",
-        "EST_FIX_TIME": "4:30PM 19 Mar 2024",
-        "STREETS": "COOEE CT, EMU PDE",
-        "SUBURBS": "BARMARYEE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.709641,
-          -23.133621
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA3556",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "10",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "7:30AM 19 Mar 2024",
-        "EST_FIX_TIME": "4:30PM 19 Mar 2024",
-        "STREETS": "BARMARYEE RD, EMU PDE",
-        "SUBURBS": "BARMARYEE, YEPPOON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.709641,
-          -23.133621
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA3557",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "10",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "7:30AM 19 Mar 2024",
-        "EST_FIX_TIME": "4:30PM 19 Mar 2024",
-        "STREETS": "BARMARYEE RD, EMU PDE",
-        "SUBURBS": "BARMARYEE, YEPPOON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           147.780633,
           -22.654049
         ]
@@ -532,48 +469,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.091281,
-          -17.944742
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN3578",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "7:30AM 19 Mar 2024",
-        "EST_FIX_TIME": "4:30PM 19 Mar 2024",
-        "STREETS": "WALL ST",
-        "SUBURBS": "SOUTH MISSION BEACH"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.090853,
-          -17.946146
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN3579",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "7",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "7:30AM 19 Mar 2024",
-        "EST_FIX_TIME": "4:30PM 19 Mar 2024",
-        "STREETS": "WALL ST",
-        "SUBURBS": "SOUTH MISSION BEACH"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           146.014181,
           -18.247142
         ]
@@ -588,48 +483,6 @@
         "EST_FIX_TIME": "1:00PM 19 Mar 2024",
         "STREETS": "CORAL SEA DR, EDMONDSON CL, MCLAUGHLIN CT, WHITE ST",
         "SUBURBS": "CARDWELL"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.090635,
-          -17.935236
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN3702",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "6",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "7:30AM 19 Mar 2024",
-        "EST_FIX_TIME": "4:30PM 19 Mar 2024",
-        "STREETS": "MISSION DR",
-        "SUBURBS": "SOUTH MISSION BEACH"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.089496,
-          -17.93765
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN3711",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "6",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "7:30AM 19 Mar 2024",
-        "EST_FIX_TIME": "4:30PM 19 Mar 2024",
-        "STREETS": "ADMIRALTY ST",
-        "SUBURBS": "SOUTH MISSION BEACH"
       }
     },
     {
@@ -1702,9 +1555,30 @@
         "STREETS": "BARAMBAH RD, HAAGAR DR",
         "SUBURBS": "MOFFATDALE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.334273,
+          -24.885886
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB3588",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:26AM 19 Mar 2024",
+        "EST_FIX_TIME": "5:00PM 19 Mar 2024",
+        "STREETS": "DR MAYS RD",
+        "SUBURBS": "SVENSSON HEIGHTS"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710797101.385466"
+  "extracted": "1710797404.159935"
 }
