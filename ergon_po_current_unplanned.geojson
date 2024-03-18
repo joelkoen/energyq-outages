@@ -79,6 +79,103 @@
           {
             "type": "Point",
             "coordinates": [
+              148.87307,
+              -23.582291
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.871643,
+                  -23.584414
+                ],
+                [
+                  148.871652,
+                  -23.584785
+                ],
+                [
+                  148.872255,
+                  -23.585214
+                ],
+                [
+                  148.873818,
+                  -23.584871
+                ],
+                [
+                  148.874182,
+                  -23.584534
+                ],
+                [
+                  148.874497,
+                  -23.583286
+                ],
+                [
+                  148.874508,
+                  -23.583137
+                ],
+                [
+                  148.874129,
+                  -23.579811
+                ],
+                [
+                  148.873709,
+                  -23.579411
+                ],
+                [
+                  148.873374,
+                  -23.579368
+                ],
+                [
+                  148.872873,
+                  -23.579604
+                ],
+                [
+                  148.87169,
+                  -23.581663
+                ],
+                [
+                  148.871633,
+                  -23.581875
+                ],
+                [
+                  148.871634,
+                  -23.582056
+                ],
+                [
+                  148.871643,
+                  -23.584406
+                ],
+                [
+                  148.871643,
+                  -23.584414
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4611",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "76",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:19PM 18 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "FAY ST, LITTLEFIELD ST, LONG ST, OAK ST, WEY ST",
+        "SUBURBS": "BLACKWATER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.029163,
               -17.525216
             ]
@@ -390,5 +487,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710750001.254654"
+  "extracted": "1710750301.384794"
 }
