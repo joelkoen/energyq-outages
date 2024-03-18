@@ -86,9 +86,118 @@
         "STREETS": "DEPOT RD, FAIRBOURNE TCE, PIMPAMA JACOBS WELL RD",
         "SUBURBS": "PIMPAMA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.333217,
+              -27.62284
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.309483,
+                  -27.61967
+                ],
+                [
+                  152.326028,
+                  -27.651497
+                ],
+                [
+                  152.326565,
+                  -27.651753
+                ],
+                [
+                  152.334481,
+                  -27.650667
+                ],
+                [
+                  152.334805,
+                  -27.650497
+                ],
+                [
+                  152.348131,
+                  -27.635088
+                ],
+                [
+                  152.348166,
+                  -27.635042
+                ],
+                [
+                  152.353505,
+                  -27.626981
+                ],
+                [
+                  152.35357,
+                  -27.626817
+                ],
+                [
+                  152.356951,
+                  -27.606287
+                ],
+                [
+                  152.356947,
+                  -27.606136
+                ],
+                [
+                  152.355094,
+                  -27.597515
+                ],
+                [
+                  152.35481,
+                  -27.597191
+                ],
+                [
+                  152.347012,
+                  -27.593964
+                ],
+                [
+                  152.346721,
+                  -27.593927
+                ],
+                [
+                  152.322299,
+                  -27.597292
+                ],
+                [
+                  152.321925,
+                  -27.597534
+                ],
+                [
+                  152.309492,
+                  -27.619275
+                ],
+                [
+                  152.309483,
+                  -27.61967
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-748834-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "173",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "12:47PM 18 Mar 2024",
+        "EST_FIX_TIME": "3:30PM 18 Mar 2024",
+        "STREETS": "ALBERT JOSEPH DR, AUCHTER RD, BLENHEIM RD, CROWLEY RD, FOREST HILL BLENHEIM RD, FOREST HILL-WOODLANDS RD, GLEN CAIRN RD, HANLON CT, HUBNERS RD, MILES RD, MT BERRYMAN RD, OLD TOOWOOMBA RD, PITT RD, SALT SPRINGS RD, SANDY CT, SIPPEL RD, TREACEY RD, VAN DE WEYER RD, VICTORIA ST, WHITEWAY RD, WOODLANDS RD",
+        "SUBURBS": "BLENHEIM, FOREST HILL, GLEN CAIRN, LAIDLEY HEIGHTS"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710729901.425471"
+  "extracted": "1710730200.512234"
 }
