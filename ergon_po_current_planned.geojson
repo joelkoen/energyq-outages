@@ -133,6 +133,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.130115,
+          -24.47265
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA3513",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:30AM 19 Mar 2024",
+        "EST_FIX_TIME": "3:30PM 19 Mar 2024",
+        "STREETS": "BRAMSTON ST, MORIARTY ST",
+        "SUBURBS": "BANANA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.705825,
           -23.136089
         ]
@@ -837,7 +858,7 @@
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
         "START": "8:30AM 19 Mar 2024",
-        "EST_FIX_TIME": "2:30PM 19 Mar 2024",
+        "EST_FIX_TIME": "4:30PM 19 Mar 2024",
         "STREETS": "ARRARA STATION, BANJOURA STATION, BARRAGUNDA STATION, BIBIL STATION, BIRRICANNIA STATION, BRAEMAR STATION, CAMERON DOWNS STATION, EASTFIELD STATION, ELABE STATION, ELWELL STATION, ENSAY STATION, EVANDALE STATION, EVANDALE WEST STATION, GLENARIFF STATION, HOLMLEIGH STATION, HOMELEIGH STATION, HUGHENDEN STATION, INVERESK STATION, IONA STATION, JANEVILLE STATION, JIREENA STATION, KENTLE DNS STATION, LANDSBOROUGH STATION, LUDGATE STATION, MOKANA STATION, MT DEVLIN STATION, MT ETNA STATION, NEEDLEWOOD STATION, PERONNE STATION, REDCLIFFE STATION, STENHOUSE STATION, STRATHROY STATION, THORNTON STATION, WATERVIEW STATION, WEST EVANDALE STATION, ZARA STATION",
         "SUBURBS": "HUGHENDEN, MUTTABURRA, PRAIRIE"
       }
@@ -1370,5 +1391,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710805200.43696"
+  "extracted": "1710805507.072723"
 }
