@@ -257,6 +257,79 @@
           {
             "type": "Point",
             "coordinates": [
+              145.773914,
+              -16.935781
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.7732,
+                  -16.937131
+                ],
+                [
+                  145.774157,
+                  -16.936667
+                ],
+                [
+                  145.774259,
+                  -16.9366
+                ],
+                [
+                  145.775264,
+                  -16.935733
+                ],
+                [
+                  145.775185,
+                  -16.935005
+                ],
+                [
+                  145.774151,
+                  -16.934432
+                ],
+                [
+                  145.773492,
+                  -16.934631
+                ],
+                [
+                  145.772564,
+                  -16.936536
+                ],
+                [
+                  145.772662,
+                  -16.937052
+                ],
+                [
+                  145.7732,
+                  -16.937131
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4177",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "9:46AM 18 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "COMPORT ST",
+        "SUBURBS": "PORTSMITH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -709,5 +782,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710725101.32883"
+  "extracted": "1710725406.881941"
 }
