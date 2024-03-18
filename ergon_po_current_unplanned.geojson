@@ -10,6 +10,83 @@
           {
             "type": "Point",
             "coordinates": [
+              146.029163,
+              -17.525216
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.027407,
+                  -17.525182
+                ],
+                [
+                  146.0276,
+                  -17.525839
+                ],
+                [
+                  146.02773,
+                  -17.526045
+                ],
+                [
+                  146.028583,
+                  -17.52682
+                ],
+                [
+                  146.029304,
+                  -17.526734
+                ],
+                [
+                  146.030918,
+                  -17.524304
+                ],
+                [
+                  146.030461,
+                  -17.523613
+                ],
+                [
+                  146.02832,
+                  -17.523878
+                ],
+                [
+                  146.02799,
+                  -17.524072
+                ],
+                [
+                  146.027471,
+                  -17.524806
+                ],
+                [
+                  146.027407,
+                  -17.525182
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4171",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "38",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews working on-site",
+        "START": "8:29AM 18 Mar 2024",
+        "EST_FIX_TIME": "5:15PM 18 Mar 2024",
+        "STREETS": "EDITH ST, ERNEST ST, OWEN ST",
+        "SUBURBS": "INNISFAIL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.374777,
               -16.339836
             ]
@@ -381,5 +458,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710804606.377993"
+  "extracted": "1710804900.343403"
 }
