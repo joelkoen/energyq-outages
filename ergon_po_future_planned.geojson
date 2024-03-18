@@ -142,7 +142,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "209",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 19 Mar 2024",
         "EST_FIX_TIME": "2:30PM 19 Mar 2024",
         "STREETS": "BODERO RD, BRUCE HWY, BRUCE ST, BULL FROG LANE, BYCROFT RD, CHAPMAN LANE, COWIE RD, GOODSALL RD, HIGH ST, JOHN ST, KIRK RD, MAGAZINE RD, MILL ST, MOUNT HOPEFUL RD, OFF BRUCE HWY, OLD COACH RD, PORT ALMA RD, RAILWAY RES, ROBERTS RD, SCHOOL ST, SISALANA RD, SIX MILE RD, SOUTH ULAM RD, SPRINGS RD, TOONDA RD, TOONDA ST, ULAM CONNECTION RD, UPPER ULAM RD",
@@ -163,7 +163,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:00AM 19 Mar 2024",
         "EST_FIX_TIME": "2:00PM 19 Mar 2024",
         "STREETS": "EAGLE ST",
@@ -294,6 +294,48 @@
         "EST_FIX_TIME": "3:30PM 19 Mar 2024",
         "STREETS": "BRAMSTON ST, MORIARTY ST",
         "SUBURBS": "BANANA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.705825,
+          -23.136089
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA3555",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:31AM 19 Mar 2024",
+        "EST_FIX_TIME": "4:30PM 19 Mar 2024",
+        "STREETS": "COOEE CT, EMU PDE",
+        "SUBURBS": "BARMARYEE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.709641,
+          -23.133621
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA3557",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:30AM 19 Mar 2024",
+        "EST_FIX_TIME": "4:30PM 19 Mar 2024",
+        "STREETS": "BARMARYEE RD, EMU PDE",
+        "SUBURBS": "BARMARYEE, YEPPOON"
       }
     },
     {
@@ -1680,6 +1722,27 @@
         "EST_FIX_TIME": "2:30PM 22 Mar 2024",
         "STREETS": "CORIO CT, GENESTA CCT, HALIFAX DR, HYLAND CL",
         "SUBURBS": "REDLYNCH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.090635,
+          -17.935236
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3702",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:32AM 19 Mar 2024",
+        "EST_FIX_TIME": "4:30PM 19 Mar 2024",
+        "STREETS": "MISSION DR",
+        "SUBURBS": "SOUTH MISSION BEACH"
       }
     },
     {
@@ -4321,7 +4384,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "34",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:00AM 19 Mar 2024",
         "EST_FIX_TIME": "2:00PM 19 Mar 2024",
         "STREETS": "BROADWATER RD, MOONIE HWY, SCHULTZ RD",
@@ -6053,5 +6116,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1710797404.159935"
+  "extracted": "1710798001.468243"
 }
