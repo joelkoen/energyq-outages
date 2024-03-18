@@ -1393,6 +1393,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.711472,
+          -16.884983
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3187",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "233",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Work scheduled",
+        "START": "8:30AM 21 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 21 Mar 2024",
+        "STREETS": "BENFER CT, BLUE HILLS CRES, CORKILL ST, DUFFY ST, GRAY ST, LE GRANDE ST, MAREE ST, MORRIS ST, OLD SMITHFIELD RD, PETERSEN ST",
+        "SUBURBS": "FRESHWATER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.117958,
           -17.935057
         ]
@@ -1533,27 +1554,6 @@
         "EST_FIX_TIME": "2:30PM 21 Mar 2024",
         "STREETS": "REDLYNCH INTAKE RD",
         "SUBURBS": "REDLYNCH"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.063645,
-          -17.17362
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN3373",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:32AM 18 Mar 2024",
-        "EST_FIX_TIME": "1:00PM 18 Mar 2024",
-        "STREETS": "LEAFGOLD RD",
-        "SUBURBS": "LEAFGOLD"
       }
     },
     {
@@ -3465,27 +3465,6 @@
         "EST_FIX_TIME": "4:00PM 18 Mar 2024",
         "STREETS": "GEORGE ST",
         "SUBURBS": "BOWEN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.786754,
-          -19.258539
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5166",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "11:03AM 18 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 18 Mar 2024",
-        "STREETS": "PERCY ST",
-        "SUBURBS": "WEST END"
       }
     },
     {
@@ -6830,5 +6809,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1710726302.055842"
+  "extracted": "1710726901.256996"
 }
