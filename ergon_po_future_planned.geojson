@@ -1129,7 +1129,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "6",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 19 Mar 2024",
         "EST_FIX_TIME": "2:00PM 19 Mar 2024",
         "STREETS": "GULF DEVELOPMENT RD, UNKNOWN ST",
@@ -2200,7 +2200,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "231",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 19 Mar 2024",
         "EST_FIX_TIME": "2:30PM 19 Mar 2024",
         "STREETS": "BINNINGTON ESP, CAMERON ST, EVAN ST, HENDERSON ST, HOEY ST, ILUKA CT, MARSH ST, MULHERIN ST, NOTT ST, PEARCE ST, WEIR ST",
@@ -4459,6 +4459,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.023906,
+          -28.221304
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW5266",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:12AM 19 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 19 Mar 2024",
+        "STREETS": "PRATTEN ST, WANTLEY ST",
+        "SUBURBS": "WARWICK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.972978,
           -28.579792
         ]
@@ -5329,7 +5350,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "52",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 19 Mar 2024",
         "EST_FIX_TIME": "2:30PM 19 Mar 2024",
         "STREETS": "JANKE RD, POWER RD, UPPER WIDGEE RD",
@@ -5350,7 +5371,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "10",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:30AM 19 Mar 2024",
         "EST_FIX_TIME": "3:00PM 19 Mar 2024",
         "STREETS": "REDVALE RD",
@@ -5927,5 +5948,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1710799801.468348"
+  "extracted": "1710800105.878347"
 }
