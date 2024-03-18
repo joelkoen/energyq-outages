@@ -301,6 +301,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.092134,
+          -17.940567
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3545",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "11:42AM 18 Mar 2024",
+        "EST_FIX_TIME": "4:30PM 18 Mar 2024",
+        "STREETS": "SEAFARER ST",
+        "SUBURBS": "SOUTH MISSION BEACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.825916,
           -21.144102
         ]
@@ -419,6 +440,27 @@
         "START": "7:00AM 18 Mar 2024",
         "EST_FIX_TIME": "4:00PM 18 Mar 2024",
         "STREETS": "KENNEDY ST, LIVINGSTONE ST",
+        "SUBURBS": "BOWEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.238507,
+          -20.010628
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5157",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "11:43AM 18 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 18 Mar 2024",
+        "STREETS": "LIVINGSTONE ST",
         "SUBURBS": "BOWEN"
       }
     },
@@ -719,5 +761,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710726000.900963"
+  "extracted": "1710726302.055842"
 }

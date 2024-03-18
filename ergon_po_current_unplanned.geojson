@@ -10,6 +10,107 @@
           {
             "type": "Point",
             "coordinates": [
+              150.521017,
+              -23.391223
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.51256,
+                  -23.383438
+                ],
+                [
+                  150.513515,
+                  -23.387701
+                ],
+                [
+                  150.513626,
+                  -23.387906
+                ],
+                [
+                  150.526146,
+                  -23.401118
+                ],
+                [
+                  150.526965,
+                  -23.400993
+                ],
+                [
+                  150.529475,
+                  -23.395368
+                ],
+                [
+                  150.529412,
+                  -23.394922
+                ],
+                [
+                  150.52496,
+                  -23.389537
+                ],
+                [
+                  150.524958,
+                  -23.389534
+                ],
+                [
+                  150.520464,
+                  -23.384172
+                ],
+                [
+                  150.520448,
+                  -23.384154
+                ],
+                [
+                  150.518353,
+                  -23.381903
+                ],
+                [
+                  150.518124,
+                  -23.381766
+                ],
+                [
+                  150.51656,
+                  -23.381328
+                ],
+                [
+                  150.516197,
+                  -23.381358
+                ],
+                [
+                  150.512817,
+                  -23.382945
+                ],
+                [
+                  150.51256,
+                  -23.383438
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4562",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "411",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "11:37AM 18 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALMA LANE, ALMA ST, ARTHUR ST, BOLSOVER ST, DENISON ST, DERBY ST, EAST LANE, EAST ST, FRANCIS ST, LUCIUS ST, O'CONNELL ST, QUAY ST, SOUTH ST, STANLEY ST, WHARF ST, WOOD ST",
+        "SUBURBS": "DEPOT HILL, ROCKHAMPTON, ROCKHAMPTON CITY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.194581,
               -16.568078
             ]
@@ -891,5 +992,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710726000.900963"
+  "extracted": "1710726302.055842"
 }
