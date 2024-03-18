@@ -249,6 +249,99 @@
           {
             "type": "Point",
             "coordinates": [
+              145.376648,
+              -16.390077
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.374277,
+                  -16.389026
+                ],
+                [
+                  145.374993,
+                  -16.390201
+                ],
+                [
+                  145.375124,
+                  -16.390339
+                ],
+                [
+                  145.376362,
+                  -16.391197
+                ],
+                [
+                  145.376516,
+                  -16.391267
+                ],
+                [
+                  145.378512,
+                  -16.391773
+                ],
+                [
+                  145.379018,
+                  -16.391589
+                ],
+                [
+                  145.379006,
+                  -16.391066
+                ],
+                [
+                  145.378582,
+                  -16.390517
+                ],
+                [
+                  145.378463,
+                  -16.390409
+                ],
+                [
+                  145.375958,
+                  -16.388831
+                ],
+                [
+                  145.375883,
+                  -16.388793
+                ],
+                [
+                  145.37486,
+                  -16.38838
+                ],
+                [
+                  145.374327,
+                  -16.3885
+                ],
+                [
+                  145.374277,
+                  -16.389026
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4174",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "28",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "11:07AM 18 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 18 Mar 2024",
+        "STREETS": "DAINTREE RD, MIALLO BAMBOO CREEK RD, MIALLO RD, RUTHERFORD RD, TATI RD",
+        "SUBURBS": "MIALLO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -701,5 +794,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710723601.78625"
+  "extracted": "1710724201.308318"
 }
