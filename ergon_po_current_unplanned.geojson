@@ -180,6 +180,107 @@
           {
             "type": "Point",
             "coordinates": [
+              149.224762,
+              -21.303664
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.222996,
+                  -21.304794
+                ],
+                [
+                  149.223664,
+                  -21.305484
+                ],
+                [
+                  149.223679,
+                  -21.305499
+                ],
+                [
+                  149.224009,
+                  -21.305811
+                ],
+                [
+                  149.224761,
+                  -21.30573
+                ],
+                [
+                  149.225884,
+                  -21.304017
+                ],
+                [
+                  149.225899,
+                  -21.303992
+                ],
+                [
+                  149.226599,
+                  -21.302755
+                ],
+                [
+                  149.226653,
+                  -21.302502
+                ],
+                [
+                  149.226595,
+                  -21.301922
+                ],
+                [
+                  149.226049,
+                  -21.301517
+                ],
+                [
+                  149.224353,
+                  -21.301736
+                ],
+                [
+                  149.224058,
+                  -21.301884
+                ],
+                [
+                  149.223022,
+                  -21.302978
+                ],
+                [
+                  149.222901,
+                  -21.303268
+                ],
+                [
+                  149.222871,
+                  -21.304481
+                ],
+                [
+                  149.222996,
+                  -21.304794
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2951",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews on route",
+        "START": "7:10PM 18 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BALLY KEEL RD",
+        "SUBURBS": "ALLIGATOR CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               147.115265,
               -19.515998
             ]
@@ -244,5 +345,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710753601.466304"
+  "extracted": "1710753901.263184"
 }
