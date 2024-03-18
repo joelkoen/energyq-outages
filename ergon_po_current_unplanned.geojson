@@ -10,6 +10,75 @@
           {
             "type": "Point",
             "coordinates": [
+              150.495781,
+              -24.367724
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.493174,
+                  -24.372029
+                ],
+                [
+                  150.49926,
+                  -24.363965
+                ],
+                [
+                  150.499268,
+                  -24.363462
+                ],
+                [
+                  150.498763,
+                  -24.363266
+                ],
+                [
+                  150.494826,
+                  -24.363959
+                ],
+                [
+                  150.494443,
+                  -24.364285
+                ],
+                [
+                  150.492293,
+                  -24.371656
+                ],
+                [
+                  150.492562,
+                  -24.372182
+                ],
+                [
+                  150.493174,
+                  -24.372029
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4610",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:32PM 18 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DAKENBA RD, PAINES RD",
+        "SUBURBS": "BILOELA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.029163,
               -17.525216
             ]
@@ -321,5 +390,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710748807.830204"
+  "extracted": "1710749101.239635"
 }
