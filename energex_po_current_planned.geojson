@@ -448,6 +448,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          153.427451,
+          -27.938751
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-745162-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "In Progress",
+        "START": "7:00PM 18 Mar 2024",
+        "EST_FIX_TIME": "1:00AM 19 Mar 2024",
+        "STREETS": "SEAWORLD DR",
+        "SUBURBS": "MAIN BEACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           153.05578,
           -26.75884
         ]
@@ -551,5 +572,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710760201.255453"
+  "extracted": "1710760506.370395"
 }
