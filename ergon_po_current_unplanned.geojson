@@ -10,6 +10,79 @@
           {
             "type": "Point",
             "coordinates": [
+              148.028336,
+              -23.083178
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.025551,
+                  -23.085962
+                ],
+                [
+                  148.026585,
+                  -23.086775
+                ],
+                [
+                  148.026909,
+                  -23.086882
+                ],
+                [
+                  148.030897,
+                  -23.086821
+                ],
+                [
+                  148.031292,
+                  -23.086115
+                ],
+                [
+                  148.026516,
+                  -23.079654
+                ],
+                [
+                  148.025978,
+                  -23.079475
+                ],
+                [
+                  148.025625,
+                  -23.079891
+                ],
+                [
+                  148.025379,
+                  -23.0856
+                ],
+                [
+                  148.025551,
+                  -23.085962
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4644",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "26",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "1:00PM 19 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 19 Mar 2024",
+        "STREETS": "BURN ST, CONRAN ST",
+        "SUBURBS": "CAPELLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.029163,
               -17.525216
             ]
@@ -730,6 +803,123 @@
           {
             "type": "Point",
             "coordinates": [
+              146.793697,
+              -19.273765
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.792013,
+                  -19.275047
+                ],
+                [
+                  146.792408,
+                  -19.276169
+                ],
+                [
+                  146.792946,
+                  -19.27647
+                ],
+                [
+                  146.793466,
+                  -19.276378
+                ],
+                [
+                  146.793668,
+                  -19.276293
+                ],
+                [
+                  146.794673,
+                  -19.275564
+                ],
+                [
+                  146.794742,
+                  -19.275503
+                ],
+                [
+                  146.795197,
+                  -19.27501
+                ],
+                [
+                  146.795304,
+                  -19.274808
+                ],
+                [
+                  146.795398,
+                  -19.274398
+                ],
+                [
+                  146.795404,
+                  -19.274237
+                ],
+                [
+                  146.795341,
+                  -19.273822
+                ],
+                [
+                  146.795254,
+                  -19.273621
+                ],
+                [
+                  146.79447,
+                  -19.272597
+                ],
+                [
+                  146.794457,
+                  -19.27258
+                ],
+                [
+                  146.793176,
+                  -19.271061
+                ],
+                [
+                  146.792333,
+                  -19.271283
+                ],
+                [
+                  146.792134,
+                  -19.272686
+                ],
+                [
+                  146.79213,
+                  -19.272719
+                ],
+                [
+                  146.791989,
+                  -19.274876
+                ],
+                [
+                  146.792013,
+                  -19.275047
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6364",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "68",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "11:54AM 19 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALBANY RD, BARRYMAN ST, CUMMINS ST, DILLANE ST, KINGS RD, PORTLAND ST, VIRGIL ST, WESTBOURNE ST, WOOLCOCK ST",
+        "SUBURBS": "GARBUTT, HYDE PARK, PIMLICO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.069993,
               -26.797651
             ]
@@ -798,5 +988,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710816001.311541"
+  "extracted": "1710816601.261933"
 }
