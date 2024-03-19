@@ -10,79 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              141.901617,
-              -12.019686
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  141.900107,
-                  -12.020408
-                ],
-                [
-                  141.902895,
-                  -12.021303
-                ],
-                [
-                  141.903402,
-                  -12.021145
-                ],
-                [
-                  141.903415,
-                  -12.020622
-                ],
-                [
-                  141.902341,
-                  -12.019063
-                ],
-                [
-                  141.902249,
-                  -12.018965
-                ],
-                [
-                  141.90112,
-                  -12.01807
-                ],
-                [
-                  141.900404,
-                  -12.018265
-                ],
-                [
-                  141.899819,
-                  -12.019824
-                ],
-                [
-                  141.900107,
-                  -12.020408
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN4257",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "7",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
-        "START": "11:07PM 19 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "BOND ST, PAANJA ST, PARRY ST, WHEELER ST",
-        "SUBURBS": "MAPOON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               141.895937,
               -11.993441
             ]
@@ -263,6 +190,115 @@
         "EST_FIX_TIME": "12:00PM 22 Mar 2024",
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              149.177965,
+              -21.149136
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.175609,
+                  -21.149989
+                ],
+                [
+                  149.175818,
+                  -21.15142
+                ],
+                [
+                  149.176423,
+                  -21.151794
+                ],
+                [
+                  149.179868,
+                  -21.150904
+                ],
+                [
+                  149.18022,
+                  -21.150504
+                ],
+                [
+                  149.180322,
+                  -21.149279
+                ],
+                [
+                  149.180321,
+                  -21.149203
+                ],
+                [
+                  149.180274,
+                  -21.148723
+                ],
+                [
+                  149.180107,
+                  -21.14842
+                ],
+                [
+                  149.177991,
+                  -21.146729
+                ],
+                [
+                  149.177828,
+                  -21.146643
+                ],
+                [
+                  149.177287,
+                  -21.146478
+                ],
+                [
+                  149.176683,
+                  -21.146761
+                ],
+                [
+                  149.175768,
+                  -21.149263
+                ],
+                [
+                  149.175764,
+                  -21.149276
+                ],
+                [
+                  149.1757,
+                  -21.14947
+                ],
+                [
+                  149.175689,
+                  -21.149509
+                ],
+                [
+                  149.175615,
+                  -21.149833
+                ],
+                [
+                  149.175609,
+                  -21.149989
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2984",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "222",
+        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+        "STATUS": "Outage reported",
+        "START": "11:58PM 19 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "GEORGE ST, LUSCOMBE ST, MILTON ST, NORRIS ST, RIVER ST, WELLINGTON ST",
+        "SUBURBS": "MACKAY"
       }
     },
     {
@@ -487,5 +523,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710857401.820758"
+  "extracted": "1710858001.365588"
 }
