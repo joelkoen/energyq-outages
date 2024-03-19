@@ -343,6 +343,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.128726,
+          -24.472593
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA3430",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "26",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:37AM 20 Mar 2024",
+        "EST_FIX_TIME": "3:30PM 20 Mar 2024",
+        "STREETS": "BOWEN ST, BRAMSTON ST, CHARLES ST, MORIARTY ST, NICHOLSON ST",
+        "SUBURBS": "BANANA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.689854,
           -23.147878
         ]
@@ -1869,6 +1890,27 @@
         "EST_FIX_TIME": "6:00AM 22 Mar 2024",
         "STREETS": "CLAIRES RD, MARIAN ETON RD",
         "SUBURBS": "MARIAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.840067,
+          -21.008125
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2468",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "90",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:53AM 20 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 20 Mar 2024",
+        "STREETS": "BRUCE HWY, BUTHURRA STATION RD, FAIRCHILDS RD, GEEBERGA BUTHURRA RD, GIFFORDS RD, MCKAYS RD, MCLEANS RD, NARPI RD, PACES RD, STARKEYS RD, WATTS RD",
+        "SUBURBS": "BUTHURRA, KUTTABUL, MACKAY, MOUNT CHARLTON, MOUNT OSSA"
       }
     },
     {
@@ -4835,5 +4877,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1710892200.406329"
+  "extracted": "1710892500.374538"
 }
