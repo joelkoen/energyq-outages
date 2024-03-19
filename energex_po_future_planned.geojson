@@ -2065,6 +2065,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          153.098992,
+          -27.685515
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-745791-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "In Progress",
+        "START": "8:00AM 20 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 20 Mar 2024",
+        "STREETS": "KIM ST",
+        "SUBURBS": "MARSDEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           153.099625,
           -27.682464
         ]
@@ -2714,5 +2735,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1710888000.402541"
+  "extracted": "1710888302.642171"
 }
