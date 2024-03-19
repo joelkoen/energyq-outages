@@ -624,8 +624,8 @@
           {
             "type": "Point",
             "coordinates": [
-              151.148125,
-              -27.181807
+              151.050808,
+              -27.034483
             ]
           },
           {
@@ -633,56 +633,36 @@
             "coordinates": [
               [
                 [
-                  151.128113,
-                  -27.170873
+                  151.046047,
+                  -27.020839
                 ],
                 [
-                  151.14152,
-                  -27.186343
+                  151.049333,
+                  -27.048159
                 ],
                 [
-                  151.141728,
-                  -27.186484
+                  151.049809,
+                  -27.048561
                 ],
                 [
-                  151.167448,
-                  -27.195818
+                  151.050326,
+                  -27.048202
                 ],
                 [
-                  151.168138,
-                  -27.195348
+                  151.05557,
+                  -27.025513
                 ],
                 [
-                  151.167131,
-                  -27.187738
+                  151.055338,
+                  -27.025037
                 ],
                 [
-                  151.167123,
-                  -27.187693
+                  151.046808,
+                  -27.020406
                 ],
                 [
-                  151.165,
-                  -27.179148
-                ],
-                [
-                  151.164862,
-                  -27.178925
-                ],
-                [
-                  151.152449,
-                  -27.167925
-                ],
-                [
-                  151.152038,
-                  -27.167797
-                ],
-                [
-                  151.128455,
-                  -27.170149
-                ],
-                [
-                  151.128113,
-                  -27.170873
+                  151.046047,
+                  -27.020839
                 ]
               ]
             ]
@@ -690,15 +670,15 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "24SW6488",
+        "EVENT_ID": "24SW6476",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "9",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
         "STATUS": "Crews working on-site",
-        "START": "7:13AM 20 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "DAANDINE-NANDI RD, GREENBANK RD, HEREWARD RD, OLD WARREGO HWY",
-        "SUBURBS": "DAANDINE, DALBY, KUPUNN, RANGES BRIDGE"
+        "START": "9:05AM 20 Mar 2024",
+        "EST_FIX_TIME": "1:00PM 20 Mar 2024",
+        "STREETS": "MACALISTER WILKIE CREEK RD, WARREGO HWY",
+        "SUBURBS": "MACALISTER"
       }
     },
     {
@@ -878,9 +858,78 @@
         "STREETS": "ESPLANADE, HIBISCUS ST, JOHNSON ST, KING ST, PIER ST, PILOT ST, PRINCE ST, SHELL ST",
         "SUBURBS": "URANGAN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.403444,
+              -26.062562
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.401696,
+                  -26.062047
+                ],
+                [
+                  152.40469,
+                  -26.063866
+                ],
+                [
+                  152.405354,
+                  -26.063777
+                ],
+                [
+                  152.405316,
+                  -26.063172
+                ],
+                [
+                  152.403926,
+                  -26.061942
+                ],
+                [
+                  152.403766,
+                  -26.061847
+                ],
+                [
+                  152.402162,
+                  -26.061257
+                ],
+                [
+                  152.401534,
+                  -26.061463
+                ],
+                [
+                  152.401696,
+                  -26.062047
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4276",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:15AM 20 Mar 2024",
+        "EST_FIX_TIME": "11:30AM 20 Mar 2024",
+        "STREETS": "SELLEN RD",
+        "SUBURBS": "WOOLOOGA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710889500.298479"
+  "extracted": "1710889800.45245"
 }

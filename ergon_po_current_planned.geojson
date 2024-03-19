@@ -511,6 +511,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.262538,
+          -20.061765
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ4479",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 20 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 20 Mar 2024",
+        "STREETS": "PRIOR ST",
+        "SUBURBS": "CHARTERS TOWERS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.265518,
+          -20.064062
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ4480",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "82",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:05AM 20 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 20 Mar 2024",
+        "STREETS": "BAKER ST, BURDEKIN ST, CHURCHILL ST, DEIGHTON ST, HACKETT TCE, PRIOR ST",
+        "SUBURBS": "CHARTERS TOWERS, RICHMOND HILL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           144.2062,
           -20.834132
         ]
@@ -1181,5 +1223,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710889500.298479"
+  "extracted": "1710889800.45245"
 }
