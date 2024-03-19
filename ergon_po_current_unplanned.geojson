@@ -10,6 +10,131 @@
           {
             "type": "Point",
             "coordinates": [
+              150.524837,
+              -23.329846
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.522277,
+                  -23.329749
+                ],
+                [
+                  150.522453,
+                  -23.330152
+                ],
+                [
+                  150.522468,
+                  -23.330183
+                ],
+                [
+                  150.523067,
+                  -23.331305
+                ],
+                [
+                  150.523094,
+                  -23.331349
+                ],
+                [
+                  150.523721,
+                  -23.332252
+                ],
+                [
+                  150.523987,
+                  -23.332439
+                ],
+                [
+                  150.524093,
+                  -23.332469
+                ],
+                [
+                  150.524378,
+                  -23.33247
+                ],
+                [
+                  150.525869,
+                  -23.332057
+                ],
+                [
+                  150.52593,
+                  -23.332035
+                ],
+                [
+                  150.52641,
+                  -23.331835
+                ],
+                [
+                  150.526432,
+                  -23.331825
+                ],
+                [
+                  150.526802,
+                  -23.33165
+                ],
+                [
+                  150.526985,
+                  -23.331498
+                ],
+                [
+                  150.52732,
+                  -23.331032
+                ],
+                [
+                  150.527397,
+                  -23.330723
+                ],
+                [
+                  150.527042,
+                  -23.328261
+                ],
+                [
+                  150.527039,
+                  -23.328244
+                ],
+                [
+                  150.526907,
+                  -23.327537
+                ],
+                [
+                  150.526182,
+                  -23.327222
+                ],
+                [
+                  150.522486,
+                  -23.32919
+                ],
+                [
+                  150.522277,
+                  -23.329749
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4653",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "88",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:50PM 19 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRAMBLE ST, BUSHPEA CT, FOXGLOVE AVE, PLUMB DR, REDGUM CT, SNOW GUM ST",
+        "SUBURBS": "NORMAN GARDENS, NORTH ROCKHAMPTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.029163,
               -17.525216
             ]
@@ -281,6 +406,115 @@
           {
             "type": "Point",
             "coordinates": [
+              149.199641,
+              -21.152411
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.196487,
+                  -21.152634
+                ],
+                [
+                  149.196854,
+                  -21.152857
+                ],
+                [
+                  149.196889,
+                  -21.152876
+                ],
+                [
+                  149.201039,
+                  -21.154962
+                ],
+                [
+                  149.201623,
+                  -21.154867
+                ],
+                [
+                  149.202369,
+                  -21.154095
+                ],
+                [
+                  149.202428,
+                  -21.154019
+                ],
+                [
+                  149.202774,
+                  -21.153464
+                ],
+                [
+                  149.202795,
+                  -21.153425
+                ],
+                [
+                  149.202908,
+                  -21.153196
+                ],
+                [
+                  149.202855,
+                  -21.152736
+                ],
+                [
+                  149.200945,
+                  -21.150357
+                ],
+                [
+                  149.200891,
+                  -21.1503
+                ],
+                [
+                  149.200471,
+                  -21.149929
+                ],
+                [
+                  149.199912,
+                  -21.149861
+                ],
+                [
+                  149.196944,
+                  -21.151365
+                ],
+                [
+                  149.196798,
+                  -21.151479
+                ],
+                [
+                  149.196374,
+                  -21.151972
+                ],
+                [
+                  149.196487,
+                  -21.152634
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2972",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "131",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:42PM 19 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BINNINGTON ESP, CAMERON ST, HOEY ST, MARSH ST, MULHERIN ST, NOTT ST, PEARCE ST",
+        "SUBURBS": "EAST MACKAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               147.115265,
               -19.515998
             ]
@@ -507,5 +741,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710823801.302547"
+  "extracted": "1710824100.340937"
 }
