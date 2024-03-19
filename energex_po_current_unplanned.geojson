@@ -1,8 +1,70 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.653993,
+              -27.666598
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.653967,
+                  -27.666068
+                ],
+                [
+                  152.653449,
+                  -27.666383
+                ],
+                [
+                  152.653315,
+                  -27.66701
+                ],
+                [
+                  152.65402,
+                  -27.667129
+                ],
+                [
+                  152.654538,
+                  -27.666814
+                ],
+                [
+                  152.654671,
+                  -27.666187
+                ],
+                [
+                  152.653967,
+                  -27.666068
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749160-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "9:21PM 19 Mar 2024",
+        "EST_FIX_TIME": "2:00AM 20 Mar 2024",
+        "STREETS": "COOPERS RD",
+        "SUBURBS": "EBENEZER"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710858301.175879"
+  "extracted": "1710858605.934805"
 }
