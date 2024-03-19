@@ -70,27 +70,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.614131,
-          -28.199985
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "23SW21615",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "7",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "9:00AM 21 Mar 2024",
-        "EST_FIX_TIME": "2:00PM 21 Mar 2024",
-        "STREETS": "BALONNE HWY, MUNDA MUNDA RD, MURRA MURRA RD",
-        "SUBURBS": "CUNNAMULLA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           151.239825,
           -23.888668
         ]
@@ -945,6 +924,27 @@
         "EST_FIX_TIME": "2:30PM 21 Mar 2024",
         "STREETS": "BARTLE FRERE RD, BRAMSTON BEACH RD, BRUCE HWY, BUCKLANDS RD",
         "SUBURBS": "BARTLE FRERE, MIRRIWINNI, PAWNGILLY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.960241,
+          -17.572544
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN2657",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "20",
+        "REASON": "The loss of supply is to remove vegetation growing near powerlines",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 20 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 20 Mar 2024",
+        "STREETS": "BINDER RD, HENDERSON DR",
+        "SUBURBS": "PIN GIN HILL, WANGAN"
       }
     },
     {
@@ -4112,7 +4112,7 @@
         "CUSTOMERS_AFFECTED": "210",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 20 Mar 2024",
+        "START": "8:34AM 20 Mar 2024",
         "EST_FIX_TIME": "2:30PM 20 Mar 2024",
         "STREETS": "BARNETT RD, CASTLES RD, CORK RD, COUNTRY RD, DERNS DR, DUBLIN RD, FARMHILL PL, HOMESTEAD CL, HORNES RD, LEXY'S RD, MUNGOMERY RD, NEWFARM PL, ROLYS RD, SANCTUARY HILLS RD, SIMMOS RD, TAKURA HTS, TAKURA SCHOOL RD, TOOGOOM CANE RD, TOOGOOM RD, TORBANLEA PIALBA RD, WALKERS LANE",
         "SUBURBS": "CRAIGNISH, DUNDOWRAN, TAKURA, TOOGOOM"
@@ -4751,5 +4751,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1710889207.136549"
+  "extracted": "1710889500.298479"
 }
