@@ -523,6 +523,75 @@
           {
             "type": "Point",
             "coordinates": [
+              148.251646,
+              -19.998515
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.250587,
+                  -20.00046
+                ],
+                [
+                  148.252243,
+                  -20.000958
+                ],
+                [
+                  148.252866,
+                  -20.000544
+                ],
+                [
+                  148.253016,
+                  -19.996536
+                ],
+                [
+                  148.252489,
+                  -19.996071
+                ],
+                [
+                  148.251796,
+                  -19.99614
+                ],
+                [
+                  148.251389,
+                  -19.996457
+                ],
+                [
+                  148.250275,
+                  -19.999898
+                ],
+                [
+                  148.250587,
+                  -20.00046
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6341",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "9:56AM 19 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AVOCA RD",
+        "SUBURBS": "BOWEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.069993,
               -26.797651
             ]
@@ -591,5 +660,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710806101.172125"
+  "extracted": "1710806406.919639"
 }
