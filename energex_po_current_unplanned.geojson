@@ -1,8 +1,86 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.989226,
+              -27.460126
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.987571,
+                  -27.458444
+                ],
+                [
+                  152.987625,
+                  -27.460224
+                ],
+                [
+                  152.98781,
+                  -27.460562
+                ],
+                [
+                  152.990125,
+                  -27.462251
+                ],
+                [
+                  152.990776,
+                  -27.462244
+                ],
+                [
+                  152.99088,
+                  -27.461671
+                ],
+                [
+                  152.989466,
+                  -27.45955
+                ],
+                [
+                  152.989459,
+                  -27.45954
+                ],
+                [
+                  152.988505,
+                  -27.458191
+                ],
+                [
+                  152.98793,
+                  -27.458
+                ],
+                [
+                  152.987571,
+                  -27.458444
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749188-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "41",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:39AM 20 Mar 2024",
+        "EST_FIX_TIME": "9:30AM 20 Mar 2024",
+        "STREETS": "BRIGALOW ST, FERNBERG RD, LATROBE TCE, MACGREGOR TCE",
+        "SUBURBS": "BARDON, PADDINGTON"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710880500.444598"
+  "extracted": "1710880801.857473"
 }
