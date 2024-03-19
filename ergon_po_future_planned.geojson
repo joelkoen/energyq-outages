@@ -371,7 +371,7 @@
       "properties": {
         "EVENT_ID": "24CA3430",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "27",
+        "CUSTOMERS_AFFECTED": "26",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Work scheduled",
         "START": "9:30AM 20 Mar 2024",
@@ -896,7 +896,7 @@
       "properties": {
         "EVENT_ID": "24CA4208",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "102",
+        "CUSTOMERS_AFFECTED": "103",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:30AM 22 Mar 2024",
@@ -940,7 +940,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "7:30AM 20 Mar 2024",
         "EST_FIX_TIME": "4:30PM 20 Mar 2024",
         "STREETS": "KING ST",
@@ -1316,7 +1316,7 @@
       "properties": {
         "EVENT_ID": "24FN3432",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "179",
+        "CUSTOMERS_AFFECTED": "178",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:00AM 24 Mar 2024",
@@ -3542,7 +3542,7 @@
       "properties": {
         "EVENT_ID": "24NQ5662",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "243",
+        "CUSTOMERS_AFFECTED": "242",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:30AM 24 Mar 2024",
@@ -4438,6 +4438,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.338945,
+          -24.883019
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB2391",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:10AM 20 Mar 2024",
+        "EST_FIX_TIME": "5:00PM 20 Mar 2024",
+        "STREETS": "ALAMEIN ST, TOBRUK ST",
+        "SUBURBS": "SVENSSON HEIGHTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.701991,
           -25.313983
         ]
@@ -5150,5 +5171,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1710882601.140237"
+  "extracted": "1710883201.482378"
 }

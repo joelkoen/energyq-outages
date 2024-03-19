@@ -62,9 +62,70 @@
         "STREETS": "BRIGALOW ST",
         "SUBURBS": "PADDINGTON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.543042,
+              -27.705149
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.543654,
+                  -27.703261
+                ],
+                [
+                  152.541546,
+                  -27.706595
+                ],
+                [
+                  152.541739,
+                  -27.70721
+                ],
+                [
+                  152.54243,
+                  -27.707038
+                ],
+                [
+                  152.544538,
+                  -27.703704
+                ],
+                [
+                  152.544345,
+                  -27.703089
+                ],
+                [
+                  152.543654,
+                  -27.703261
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749192-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:57AM 20 Mar 2024",
+        "EST_FIX_TIME": "9:00AM 20 Mar 2024",
+        "STREETS": "MT WALKER WEST RD",
+        "SUBURBS": "LOWER MOUNT WALKER"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710882905.945409"
+  "extracted": "1710883201.451112"
 }
