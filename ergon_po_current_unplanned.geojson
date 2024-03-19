@@ -244,6 +244,115 @@
           {
             "type": "Point",
             "coordinates": [
+              145.693319,
+              -17.540189
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.665464,
+                  -17.541479
+                ],
+                [
+                  145.674511,
+                  -17.553632
+                ],
+                [
+                  145.674597,
+                  -17.55372
+                ],
+                [
+                  145.681226,
+                  -17.558897
+                ],
+                [
+                  145.681615,
+                  -17.55899
+                ],
+                [
+                  145.698409,
+                  -17.555788
+                ],
+                [
+                  145.698573,
+                  -17.555724
+                ],
+                [
+                  145.715631,
+                  -17.545097
+                ],
+                [
+                  145.715683,
+                  -17.545059
+                ],
+                [
+                  145.721173,
+                  -17.540473
+                ],
+                [
+                  145.721097,
+                  -17.53974
+                ],
+                [
+                  145.691334,
+                  -17.523451
+                ],
+                [
+                  145.691244,
+                  -17.523412
+                ],
+                [
+                  145.684643,
+                  -17.521401
+                ],
+                [
+                  145.684415,
+                  -17.521388
+                ],
+                [
+                  145.679934,
+                  -17.522184
+                ],
+                [
+                  145.67964,
+                  -17.522362
+                ],
+                [
+                  145.665467,
+                  -17.540949
+                ],
+                [
+                  145.665464,
+                  -17.541479
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4216",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "35",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:31AM 19 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BROOKS RD, CAMPBELL RD, JUNCTION RD, PALMERSTON HWY",
+        "SUBURBS": "MILLAA MILLAA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -644,5 +753,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710808208.320582"
+  "extracted": "1710808500.570342"
 }
