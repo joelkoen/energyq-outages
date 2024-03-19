@@ -814,7 +814,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "91",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 20 Mar 2024",
         "EST_FIX_TIME": "11:00AM 20 Mar 2024",
         "STREETS": "BOOMARRA CT, JENKINSON DR, MIRANDA CIR, MONA VALE PL, OONDOOROO CT, TIMARU CT, WILLIAM ANGLISS DR, WOODBINE DR",
@@ -1129,7 +1129,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "12",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 20 Mar 2024",
         "EST_FIX_TIME": "2:30PM 20 Mar 2024",
         "STREETS": "GLEN NIVEN RD, HOPGOOD LANE",
@@ -1176,6 +1176,27 @@
         "EST_FIX_TIME": "3:00PM 20 Mar 2024",
         "STREETS": "GREENHILLS RD, HARDINGS RD",
         "SUBURBS": "HANNAFORD, MEANDARRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.020656,
+          -28.222461
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW5602",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 20 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 20 Mar 2024",
+        "STREETS": "WILGA AVE",
+        "SUBURBS": "WARWICK"
       }
     },
     {
@@ -1454,5 +1475,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710886506.080831"
+  "extracted": "1710886801.816012"
 }
