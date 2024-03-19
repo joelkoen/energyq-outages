@@ -83,6 +83,131 @@
           {
             "type": "Point",
             "coordinates": [
+              150.524837,
+              -23.329846
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.522277,
+                  -23.329749
+                ],
+                [
+                  150.522453,
+                  -23.330152
+                ],
+                [
+                  150.522468,
+                  -23.330183
+                ],
+                [
+                  150.523067,
+                  -23.331305
+                ],
+                [
+                  150.523094,
+                  -23.331349
+                ],
+                [
+                  150.523721,
+                  -23.332252
+                ],
+                [
+                  150.523987,
+                  -23.332439
+                ],
+                [
+                  150.524093,
+                  -23.332469
+                ],
+                [
+                  150.524378,
+                  -23.33247
+                ],
+                [
+                  150.525869,
+                  -23.332057
+                ],
+                [
+                  150.52593,
+                  -23.332035
+                ],
+                [
+                  150.52641,
+                  -23.331835
+                ],
+                [
+                  150.526432,
+                  -23.331825
+                ],
+                [
+                  150.526802,
+                  -23.33165
+                ],
+                [
+                  150.526985,
+                  -23.331498
+                ],
+                [
+                  150.52732,
+                  -23.331032
+                ],
+                [
+                  150.527397,
+                  -23.330723
+                ],
+                [
+                  150.527042,
+                  -23.328261
+                ],
+                [
+                  150.527039,
+                  -23.328244
+                ],
+                [
+                  150.526907,
+                  -23.327537
+                ],
+                [
+                  150.526182,
+                  -23.327222
+                ],
+                [
+                  150.522486,
+                  -23.32919
+                ],
+                [
+                  150.522277,
+                  -23.329749
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4645",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "88",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:57PM 19 Mar 2024",
+        "EST_FIX_TIME": "5:00PM 19 Mar 2024",
+        "STREETS": "BRAMBLE ST, BUSHPEA CT, FOXGLOVE AVE, PLUMB DR, REDGUM CT, SNOW GUM ST",
+        "SUBURBS": "NORMAN GARDENS, NORTH ROCKHAMPTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.029163,
               -17.525216
             ]
@@ -803,123 +928,6 @@
           {
             "type": "Point",
             "coordinates": [
-              146.793697,
-              -19.273765
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  146.792013,
-                  -19.275047
-                ],
-                [
-                  146.792408,
-                  -19.276169
-                ],
-                [
-                  146.792946,
-                  -19.27647
-                ],
-                [
-                  146.793466,
-                  -19.276378
-                ],
-                [
-                  146.793668,
-                  -19.276293
-                ],
-                [
-                  146.794673,
-                  -19.275564
-                ],
-                [
-                  146.794742,
-                  -19.275503
-                ],
-                [
-                  146.795197,
-                  -19.27501
-                ],
-                [
-                  146.795304,
-                  -19.274808
-                ],
-                [
-                  146.795398,
-                  -19.274398
-                ],
-                [
-                  146.795404,
-                  -19.274237
-                ],
-                [
-                  146.795341,
-                  -19.273822
-                ],
-                [
-                  146.795254,
-                  -19.273621
-                ],
-                [
-                  146.79447,
-                  -19.272597
-                ],
-                [
-                  146.794457,
-                  -19.27258
-                ],
-                [
-                  146.793176,
-                  -19.271061
-                ],
-                [
-                  146.792333,
-                  -19.271283
-                ],
-                [
-                  146.792134,
-                  -19.272686
-                ],
-                [
-                  146.79213,
-                  -19.272719
-                ],
-                [
-                  146.791989,
-                  -19.274876
-                ],
-                [
-                  146.792013,
-                  -19.275047
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ6364",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "68",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
-        "START": "11:54AM 19 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "ALBANY RD, BARRYMAN ST, CUMMINS ST, DILLANE ST, KINGS RD, PORTLAND ST, VIRGIL ST, WESTBOURNE ST, WOOLCOCK ST",
-        "SUBURBS": "GARBUTT, HYDE PARK, PIMLICO"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               152.069993,
               -26.797651
             ]
@@ -988,5 +996,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710816900.44754"
+  "extracted": "1710817500.455099"
 }
