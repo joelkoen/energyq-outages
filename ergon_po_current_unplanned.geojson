@@ -200,6 +200,139 @@
           {
             "type": "Point",
             "coordinates": [
+              148.544245,
+              -20.62317
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.364715,
+                  -20.536204
+                ],
+                [
+                  148.413808,
+                  -20.617507
+                ],
+                [
+                  148.413907,
+                  -20.617622
+                ],
+                [
+                  148.508574,
+                  -20.696618
+                ],
+                [
+                  148.50881,
+                  -20.696725
+                ],
+                [
+                  148.595016,
+                  -20.71081
+                ],
+                [
+                  148.595262,
+                  -20.71079
+                ],
+                [
+                  148.630951,
+                  -20.698584
+                ],
+                [
+                  148.631012,
+                  -20.698559
+                ],
+                [
+                  148.720127,
+                  -20.654133
+                ],
+                [
+                  148.720315,
+                  -20.653964
+                ],
+                [
+                  148.720501,
+                  -20.653667
+                ],
+                [
+                  148.720512,
+                  -20.653649
+                ],
+                [
+                  148.723477,
+                  -20.648368
+                ],
+                [
+                  148.723525,
+                  -20.648235
+                ],
+                [
+                  148.72377,
+                  -20.646912
+                ],
+                [
+                  148.723775,
+                  -20.646792
+                ],
+                [
+                  148.722445,
+                  -20.63328
+                ],
+                [
+                  148.722294,
+                  -20.632991
+                ],
+                [
+                  148.639412,
+                  -20.56025
+                ],
+                [
+                  148.639222,
+                  -20.560147
+                ],
+                [
+                  148.612569,
+                  -20.552647
+                ],
+                [
+                  148.612467,
+                  -20.55263
+                ],
+                [
+                  148.365167,
+                  -20.53553
+                ],
+                [
+                  148.364715,
+                  -20.536204
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2986",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "926",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:21AM 20 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BLOOMSBURY BACK RD, BOLLONS RD, BRUCE HWY, BUNDESEN AVE, BURTON ST, CAMPBELLS RD, CAPING RD, CARLISLE CRES, CASCADE CONDOS, CONDER PDE, CONDOR PDE, COWANS RD, DON HAUSKNECHT RD, DOUGHERTYS RD, GUNYARRA RD, HOLCOMBE RD, JACKSON ST, JIMMYS ROCK RD, KUNAPIPI RD, LAGUNA QUAYS RESORT ST, LAWSON ST, LELONA DR, LINDEMAN DR, LLEWELLYN RD, MAGEE RD, MALONEY RD, MARINE PDE, MCKELLAR ST, MCLEOD ST, MIDGE POINT RD, MITCHELLS RD, MOUNTAIN DR, NIELSEN PDE, O'DONNELLS RD, O'FLYNN CRES, PARK DR, PATTERSON ST, PETERS AVE, POWER BVD, PRIMARY THOR, REPULSE DR, SHANNON ST, SNOWGUM CT, STAFFORDS RD, STATION RD, THOMSETTS RD, THOOPARA RD, WHITSUNDAY DR",
+        "SUBURBS": "ANDROMACHE, BLOOMSBURY, CRYSTAL BROOK, LAGUNA QUAYS, LETHEBROOK, MIDGE POINT, PROSERPINE, THOOPARA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               138.120457,
               -19.920677
             ]
@@ -482,5 +615,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710876901.35558"
+  "extracted": "1710877202.349775"
 }
