@@ -595,9 +595,118 @@
         "STREETS": "ALFORD ST, YOUNGMAN ST",
         "SUBURBS": "KINGAROY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.902381,
+              -25.283587
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.899804,
+                  -25.282761
+                ],
+                [
+                  152.899888,
+                  -25.284123
+                ],
+                [
+                  152.899923,
+                  -25.284266
+                ],
+                [
+                  152.900193,
+                  -25.284874
+                ],
+                [
+                  152.900379,
+                  -25.285082
+                ],
+                [
+                  152.900716,
+                  -25.285284
+                ],
+                [
+                  152.900958,
+                  -25.285357
+                ],
+                [
+                  152.90219,
+                  -25.285425
+                ],
+                [
+                  152.902313,
+                  -25.285418
+                ],
+                [
+                  152.903189,
+                  -25.285265
+                ],
+                [
+                  152.90326,
+                  -25.285247
+                ],
+                [
+                  152.904632,
+                  -25.284808
+                ],
+                [
+                  152.904957,
+                  -25.28432
+                ],
+                [
+                  152.904911,
+                  -25.284034
+                ],
+                [
+                  152.904771,
+                  -25.283779
+                ],
+                [
+                  152.902648,
+                  -25.28186
+                ],
+                [
+                  152.902154,
+                  -25.281749
+                ],
+                [
+                  152.900153,
+                  -25.282306
+                ],
+                [
+                  152.899804,
+                  -25.282761
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4271",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "138",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:09AM 20 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ESPLANADE, HIBISCUS ST, JOHNSON ST, KING ST, PIER ST, PILOT ST, PRINCE ST, SHELL ST",
+        "SUBURBS": "URANGAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710886801.816012"
+  "extracted": "1710887101.317589"
 }
