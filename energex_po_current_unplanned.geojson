@@ -150,9 +150,102 @@
         "STREETS": "ARTHUR ST, BINGERA TCE, BOMBALA TCE, BURWAH TCE, CANBERRA TCE, EDITH ST, KALINGA ST, KNOX AVE, MALOJA AVE, MALTMAN ST S, MARY ST, MINCHINTON ST, ORAMA AVE, ORMUZ AVE, ORONSAY AVE, ORSOVA TCE, OSTERLEY AVE, PARK ST, REGENT ST, WYREEMA TCE",
         "SUBURBS": "CALOUNDRA, KINGS BEACH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.046219,
+              -27.49327
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.044913,
+                  -27.492257
+                ],
+                [
+                  153.044969,
+                  -27.494228
+                ],
+                [
+                  153.045363,
+                  -27.494657
+                ],
+                [
+                  153.046175,
+                  -27.494821
+                ],
+                [
+                  153.046551,
+                  -27.494765
+                ],
+                [
+                  153.047168,
+                  -27.494428
+                ],
+                [
+                  153.047383,
+                  -27.494189
+                ],
+                [
+                  153.047523,
+                  -27.493821
+                ],
+                [
+                  153.047525,
+                  -27.493537
+                ],
+                [
+                  153.047056,
+                  -27.492243
+                ],
+                [
+                  153.046719,
+                  -27.491949
+                ],
+                [
+                  153.045857,
+                  -27.49172
+                ],
+                [
+                  153.045542,
+                  -27.491727
+                ],
+                [
+                  153.045249,
+                  -27.49182
+                ],
+                [
+                  153.044913,
+                  -27.492257
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749477-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "43",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:22AM 21 Mar 2024",
+        "EST_FIX_TIME": "9:30AM 21 Mar 2024",
+        "STREETS": "ANNIE ST, ATHERTON ST, DESHON ST, LEONARD ST",
+        "SUBURBS": "WOOLLOONGABBA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710966901.266742"
+  "extracted": "1710967201.914951"
 }
