@@ -86,9 +86,78 @@
         "STREETS": "JAMES ST, PARK AVE, WEST ST",
         "SUBURBS": "BURLEIGH HEADS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.52345,
+              -28.1669
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.521873,
+                  -28.166794
+                ],
+                [
+                  153.522147,
+                  -28.167308
+                ],
+                [
+                  153.522586,
+                  -28.167566
+                ],
+                [
+                  153.524627,
+                  -28.167642
+                ],
+                [
+                  153.525027,
+                  -28.16689
+                ],
+                [
+                  153.524768,
+                  -28.166634
+                ],
+                [
+                  153.524481,
+                  -28.166492
+                ],
+                [
+                  153.522425,
+                  -28.166157
+                ],
+                [
+                  153.521873,
+                  -28.166794
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749312-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "119",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:42AM 20 Mar 2024",
+        "EST_FIX_TIME": "1:00PM 20 Mar 2024",
+        "STREETS": "CREEK ST, GOLD COAST HWY, MUSGRAVE ST",
+        "SUBURBS": "BILINGA, COOLANGATTA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710898800.599679"
+  "extracted": "1710899103.051002"
 }
