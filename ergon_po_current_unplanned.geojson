@@ -250,7 +250,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "7",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Work delayed - crews unable to continue",
         "START": "12:03PM 20 Mar 2024",
         "EST_FIX_TIME": null,
         "STREETS": "COPLAND RD, FANTIN RD, KOAH RD, TWO CHAIN RD",
@@ -412,7 +412,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "410",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "5:19PM 20 Mar 2024",
         "EST_FIX_TIME": null,
         "STREETS": "ANDREWS RD, AUSTIN DR, BALL ST, BARRIER ST, BLUE MOUNTAIN RD, BORGS RD, BOUNDARY ST, BRIGHTLEY RD, BURGESS LANE, CHETCUTIS RD, CREEK ST, ELVINS RD, ETON DUMP RD, ETON HOMEBUSH RD, FLAHERTY ST, FRED GEORGE RD, HILL ST, HOLMES ST, HOWELLS RD, JOHN TEMPLE DR, KEMMIS ST, KINCHANT DAM RD, MACKAY ST, MIRANI ETON RD, OLLETTS RD, PEAK DOWNS HWY, PROSPECT ST, SORBELLOS RD, STEMM CT, STONY CREEK RD, TELEGRAPH ST, TREVETHANS RD, VASSALLOS RD, VICTORIA ST",
@@ -576,6 +576,91 @@
           {
             "type": "Point",
             "coordinates": [
+              148.784156,
+              -26.548888
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.770768,
+                  -26.548171
+                ],
+                [
+                  148.786388,
+                  -26.558298
+                ],
+                [
+                  148.787111,
+                  -26.558166
+                ],
+                [
+                  148.79762,
+                  -26.542575
+                ],
+                [
+                  148.79728,
+                  -26.541897
+                ],
+                [
+                  148.7851,
+                  -26.539918
+                ],
+                [
+                  148.785097,
+                  -26.539917
+                ],
+                [
+                  148.782292,
+                  -26.539477
+                ],
+                [
+                  148.782047,
+                  -26.539494
+                ],
+                [
+                  148.777552,
+                  -26.540848
+                ],
+                [
+                  148.777341,
+                  -26.540972
+                ],
+                [
+                  148.770691,
+                  -26.5475
+                ],
+                [
+                  148.770768,
+                  -26.548171
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6503",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "54",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "5:30PM 20 Mar 2024",
+        "EST_FIX_TIME": "7:30PM 20 Mar 2024",
+        "STREETS": "AIRPORT DR, HANGAR DR, MAIDEN ST, MARTIN ST, MCPHIE ST, NORTHERN RD, WEHL ST",
+        "SUBURBS": "ROMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.954626,
               -27.561547
             ]
@@ -721,5 +806,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710920703.245171"
+  "extracted": "1710921001.251119"
 }
