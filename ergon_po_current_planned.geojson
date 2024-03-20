@@ -133,6 +133,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.3519,
+          -22.589803
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4043",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "87",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:33AM 21 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 21 Mar 2024",
+        "STREETS": "BROWN ST, GILBERT CT, MACDONALD ST, MCCARTNEY ST, QUEEN ELIZABETH DR, ROPER CT, SHANNON CRES",
+        "SUBURBS": "DYSART"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.030933,
+          -24.793994
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4047",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:44AM 21 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 21 Mar 2024",
+        "STREETS": "BLACKALL-TAMBO RD, OFF LANDSBOROUGH HWY",
+        "SUBURBS": "TAMBO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.909486,
           -17.411373
         ]
@@ -1219,30 +1261,9 @@
         "STREETS": "FAIRYDALE RD, FAIRYMEAD RD, GOOBURRUM RD, GREGORY TCE, HILLS RD",
         "SUBURBS": "BUNDABERG, GOOBURRUM, MOORE PARK BEACH, WELCOME CREEK"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.273934,
-          -24.942161
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB3829",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "32",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:30AM 21 Mar 2024",
-        "EST_FIX_TIME": "11:00AM 21 Mar 2024",
-        "STREETS": "BERNBOROUGH BVD, GUNSYND GR, HYPERNO WAY",
-        "SUBURBS": "BRANYAN"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710977419.518432"
+  "extracted": "1710978000.616791"
 }
