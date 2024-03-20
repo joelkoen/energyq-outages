@@ -237,6 +237,155 @@
           {
             "type": "Point",
             "coordinates": [
+              145.931415,
+              -17.271073
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.891864,
+                  -17.194214
+                ],
+                [
+                  145.892154,
+                  -17.199535
+                ],
+                [
+                  145.892156,
+                  -17.199557
+                ],
+                [
+                  145.899563,
+                  -17.269964
+                ],
+                [
+                  145.899565,
+                  -17.269983
+                ],
+                [
+                  145.91092,
+                  -17.346169
+                ],
+                [
+                  145.910996,
+                  -17.346358
+                ],
+                [
+                  145.913155,
+                  -17.349433
+                ],
+                [
+                  145.913518,
+                  -17.349631
+                ],
+                [
+                  145.927232,
+                  -17.350405
+                ],
+                [
+                  145.927528,
+                  -17.350325
+                ],
+                [
+                  145.960244,
+                  -17.3285
+                ],
+                [
+                  145.960406,
+                  -17.328311
+                ],
+                [
+                  145.964681,
+                  -17.318982
+                ],
+                [
+                  145.964718,
+                  -17.318848
+                ],
+                [
+                  145.966418,
+                  -17.303534
+                ],
+                [
+                  145.96642,
+                  -17.303512
+                ],
+                [
+                  145.970967,
+                  -17.228317
+                ],
+                [
+                  145.970967,
+                  -17.228259
+                ],
+                [
+                  145.970946,
+                  -17.227976
+                ],
+                [
+                  145.970945,
+                  -17.227966
+                ],
+                [
+                  145.970926,
+                  -17.227766
+                ],
+                [
+                  145.970661,
+                  -17.227401
+                ],
+                [
+                  145.89349,
+                  -17.191741
+                ],
+                [
+                  145.893084,
+                  -17.191741
+                ],
+                [
+                  145.89219,
+                  -17.192151
+                ],
+                [
+                  145.891923,
+                  -17.192543
+                ],
+                [
+                  145.891864,
+                  -17.194174
+                ],
+                [
+                  145.891864,
+                  -17.194214
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4319",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "666",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:55AM 21 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BARBAGALLO RD, BOULDERS RD, BRADGAN RD, BRUCE HWY, CARRS LANE, CLYDE RD, COUNCIL LANE, DUCROT RD, EASTWOOD ST, ELLIS RD, FIG TREE DR, FRENCHMANS CREEK, HAREN RD, HARVEY CREEK RD, HOSPITAL ST, HOWARD KENNEDY DR, HOWARD KENNEDY HWY, JAGO ST, JUNCTION CREEK, KING ST, KNOWLES ST, KRUCKOW RD, LANDER CL, LEWIS RD, MARTIN ST, MILL ST, MUNRO RD, MUNRO ST, MUSTAFA RD, NELSON RD, OLD BRUCE HWY, PEEVER RD, POLLARD RD, ROSS RD, RUSSELL HEADS RES, RUSSELL RIVER RD, SCHOOL ST, SOUTH WOOLANMAROO RES, TELECOM RD, UNKNOWN ST, UNMETERED SUPPLY, WEAVER ST, WELSH RD, WILKIE ST, WOOLANMAROO RD",
+        "SUBURBS": "ALOOMBA, BABINDA, BELLENDEN KER, CAIRNS, CODFISH CREEK, CUCANIA, DEERAL, EAST RUSSELL, FIG TREE CREEK, FISHERY FALLS, FRENCHMANS CREEK, HARVEYS CREEK, MCDONNELLS CREEK, PALMA SIDING, RUSSELL HEADS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -378,5 +527,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710953701.315585"
+  "extracted": "1710954003.586027"
 }
