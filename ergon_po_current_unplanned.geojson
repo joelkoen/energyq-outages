@@ -669,9 +669,78 @@
         "STREETS": "SELLEN RD",
         "SUBURBS": "WOOLOOGA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.337522,
+              -25.251347
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.336791,
+                  -25.252655
+                ],
+                [
+                  152.338028,
+                  -25.252877
+                ],
+                [
+                  152.338617,
+                  -25.252402
+                ],
+                [
+                  152.338437,
+                  -25.250223
+                ],
+                [
+                  152.337838,
+                  -25.249817
+                ],
+                [
+                  152.337634,
+                  -25.249857
+                ],
+                [
+                  152.33728,
+                  -25.250128
+                ],
+                [
+                  152.336428,
+                  -25.252045
+                ],
+                [
+                  152.336791,
+                  -25.252655
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4288",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "8:57AM 20 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AERODROME RD, ISIS JUNCTION RD",
+        "SUBURBS": "CHILDERS, SOUTH ISIS"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710896101.534483"
+  "extracted": "1710896700.489084"
 }
