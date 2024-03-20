@@ -10,8 +10,8 @@
           {
             "type": "Point",
             "coordinates": [
-              145.027494,
-              -18.086407
+              144.576668,
+              -18.198678
             ]
           },
           {
@@ -19,72 +19,32 @@
             "coordinates": [
               [
                 [
-                  144.572053,
-                  -18.202131
+                  144.580603,
+                  -18.19513
                 ],
                 [
-                  144.737995,
-                  -18.427425
+                  144.572147,
+                  -18.201517
                 ],
                 [
-                  144.738284,
-                  -18.427606
+                  144.572069,
+                  -18.202151
                 ],
                 [
-                  145.036122,
-                  -18.487824
+                  144.572733,
+                  -18.202226
                 ],
                 [
-                  145.036295,
-                  -18.487828
+                  144.581189,
+                  -18.195838
                 ],
                 [
-                  145.310942,
-                  -18.445625
+                  144.581267,
+                  -18.195204
                 ],
                 [
-                  145.311183,
-                  -18.445514
-                ],
-                [
-                  145.482842,
-                  -18.297234
-                ],
-                [
-                  145.482936,
-                  -18.296676
-                ],
-                [
-                  145.120769,
-                  -17.685168
-                ],
-                [
-                  145.120146,
-                  -17.684987
-                ],
-                [
-                  145.080018,
-                  -17.704477
-                ],
-                [
-                  145.079991,
-                  -17.704491
-                ],
-                [
-                  145.001657,
-                  -17.748858
-                ],
-                [
-                  145.001548,
-                  -17.748944
-                ],
-                [
-                  144.57209,
-                  -18.201567
-                ],
-                [
-                  144.572053,
-                  -18.202131
+                  144.580603,
+                  -18.19513
                 ]
               ]
             ]
@@ -94,86 +54,13 @@
       "properties": {
         "EVENT_ID": "24FN4285",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "63",
+        "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is due to public safety concerns.",
         "STATUS": "Crews working on-site",
         "START": "12:02PM 20 Mar 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "GLEN DHU RD, GUNNAWARRA RD, HARRISON RD, KELLYS CREEK, KENNEDY HWY, LYND RVR, MT GARNET HILL, ONYX ST, UNKNOWN ST, WAIRUNA RD",
-        "SUBURBS": "MOUNT GARNET, MOUNT SURPRISE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              145.271305,
-              -15.755593
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  145.268177,
-                  -15.75447
-                ],
-                [
-                  145.271206,
-                  -15.757451
-                ],
-                [
-                  145.271837,
-                  -15.757482
-                ],
-                [
-                  145.274519,
-                  -15.755319
-                ],
-                [
-                  145.274293,
-                  -15.754525
-                ],
-                [
-                  145.270406,
-                  -15.753932
-                ],
-                [
-                  145.270392,
-                  -15.75393
-                ],
-                [
-                  145.268568,
-                  -15.753705
-                ],
-                [
-                  145.268091,
-                  -15.753952
-                ],
-                [
-                  145.268177,
-                  -15.75447
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN4286",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "19",
-        "REASON": "The loss of supply is due to fallen power lines.  ",
-        "STATUS": "Crews working on-site",
-        "START": "9:17AM 20 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "BLOOMFIELD RD, COLLINGWOOD RD, ROSSVILLE BLOOMFIELD RD, UNKNOWN ST",
-        "SUBURBS": "COOKTOWN, ROSSVILLE"
+        "STREETS": "UNKNOWN ST",
+        "SUBURBS": "MOUNT SURPRISE"
       }
     },
     {
@@ -624,5 +511,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710926102.780289"
+  "extracted": "1710926410.842821"
 }
