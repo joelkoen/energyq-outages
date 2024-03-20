@@ -220,6 +220,79 @@
           {
             "type": "Point",
             "coordinates": [
+              141.901617,
+              -12.019686
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  141.900107,
+                  -12.020408
+                ],
+                [
+                  141.902895,
+                  -12.021303
+                ],
+                [
+                  141.903402,
+                  -12.021145
+                ],
+                [
+                  141.903415,
+                  -12.020622
+                ],
+                [
+                  141.902341,
+                  -12.019063
+                ],
+                [
+                  141.902249,
+                  -12.018965
+                ],
+                [
+                  141.90112,
+                  -12.01807
+                ],
+                [
+                  141.900404,
+                  -12.018265
+                ],
+                [
+                  141.899819,
+                  -12.019824
+                ],
+                [
+                  141.900107,
+                  -12.020408
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4278",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:35AM 20 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOND ST, PAANJA ST, PARRY ST, WHEELER ST",
+        "SUBURBS": "MAPOON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -564,5 +637,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710894900.428994"
+  "extracted": "1710895502.321016"
 }
