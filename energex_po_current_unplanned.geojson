@@ -357,9 +357,86 @@
         "STREETS": "ALBRECHT CT, LEIGHTON DR, LINDAU ST",
         "SUBURBS": "EDENS LANDING"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.887918,
+              -27.489399
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.885294,
+                  -27.488606
+                ],
+                [
+                  152.885755,
+                  -27.491265
+                ],
+                [
+                  152.886367,
+                  -27.491637
+                ],
+                [
+                  152.887617,
+                  -27.491384
+                ],
+                [
+                  152.887652,
+                  -27.491376
+                ],
+                [
+                  152.890347,
+                  -27.490644
+                ],
+                [
+                  152.890542,
+                  -27.48988
+                ],
+                [
+                  152.887229,
+                  -27.487161
+                ],
+                [
+                  152.886517,
+                  -27.487185
+                ],
+                [
+                  152.885425,
+                  -27.488229
+                ],
+                [
+                  152.885294,
+                  -27.488606
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749279-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "10:10AM 20 Mar 2024",
+        "EST_FIX_TIME": "12:30PM 20 Mar 2024",
+        "STREETS": "HAVEN RD, UPPER BROOKFIELD RD",
+        "SUBURBS": "UPPER BROOKFIELD"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710893401.0598"
+  "extracted": "1710893705.435352"
 }
