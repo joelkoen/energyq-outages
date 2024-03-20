@@ -358,9 +358,94 @@
         "STREETS": "GIN GIN RD, LOGHOLE LANE, NORMANBY RANGE RD, SLAUGHTER YARD RD, SUNDAY CREEK RD, TOWNS CREEK RD",
         "SUBURBS": "MOUNT PERRY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.375244,
+              -24.789543
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.373028,
+                  -24.790647
+                ],
+                [
+                  152.373915,
+                  -24.795087
+                ],
+                [
+                  152.37436,
+                  -24.795454
+                ],
+                [
+                  152.374864,
+                  -24.795158
+                ],
+                [
+                  152.377436,
+                  -24.788601
+                ],
+                [
+                  152.37746,
+                  -24.78839
+                ],
+                [
+                  152.37699,
+                  -24.78517
+                ],
+                [
+                  152.376975,
+                  -24.785104
+                ],
+                [
+                  152.376612,
+                  -24.783957
+                ],
+                [
+                  152.376157,
+                  -24.783633
+                ],
+                [
+                  152.375676,
+                  -24.783926
+                ],
+                [
+                  152.373051,
+                  -24.79041
+                ],
+                [
+                  152.373028,
+                  -24.790647
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4311",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
+        "STATUS": "Outage reported",
+        "START": "8:36PM 20 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "FAIRYMEAD RD, GAHANS RD",
+        "SUBURBS": "BUNDABERG, FAIRYMEAD"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710930901.452278"
+  "extracted": "1710931201.822529"
 }
