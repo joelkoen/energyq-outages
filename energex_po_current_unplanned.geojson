@@ -195,9 +195,102 @@
         "STREETS": "BEAUDESERT-BEENLEIGH RD",
         "SUBURBS": "CEDAR CREEK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.170648,
+              -27.55602
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.152645,
+                  -27.557772
+                ],
+                [
+                  153.161627,
+                  -27.569531
+                ],
+                [
+                  153.162237,
+                  -27.569695
+                ],
+                [
+                  153.18751,
+                  -27.560502
+                ],
+                [
+                  153.18775,
+                  -27.560322
+                ],
+                [
+                  153.188706,
+                  -27.558946
+                ],
+                [
+                  153.188732,
+                  -27.558513
+                ],
+                [
+                  153.180141,
+                  -27.542563
+                ],
+                [
+                  153.179482,
+                  -27.542345
+                ],
+                [
+                  153.158549,
+                  -27.550466
+                ],
+                [
+                  153.15843,
+                  -27.55053
+                ],
+                [
+                  153.153206,
+                  -27.554348
+                ],
+                [
+                  153.153026,
+                  -27.554631
+                ],
+                [
+                  153.152563,
+                  -27.557452
+                ],
+                [
+                  153.152645,
+                  -27.557772
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749440-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "96",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "8:31PM 20 Mar 2024",
+        "EST_FIX_TIME": "11:00PM 20 Mar 2024",
+        "STREETS": "ALPERTON RD, BOORALIE ST, BUNYIP ST, CHERBON ST, COOEE ST, MT COTTON RD, UPFIELD ST, WILDSOET ST",
+        "SUBURBS": "BURBANK"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710930603.25636"
+  "extracted": "1710930900.909419"
 }
