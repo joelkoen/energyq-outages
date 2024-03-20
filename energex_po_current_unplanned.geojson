@@ -138,9 +138,118 @@
         "REASON": "Damage due to severe weather",
         "STATUS": "In Progress",
         "START": "2:14AM 21 Mar 2024",
-        "EST_FIX_TIME": "8:00AM 21 Mar 2024",
+        "EST_FIX_TIME": "8:30AM 21 Mar 2024",
         "STREETS": "ARTHUR ST, BINGERA TCE, BOMBALA TCE, BURWAH TCE, CANBERRA TCE, KALINGA ST, KNOX AVE, MALTMAN ST S, ORAMA AVE, ORMUZ AVE, ORONSAY AVE, OSTERLEY AVE, WYREEMA TCE",
         "SUBURBS": "CALOUNDRA, KINGS BEACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.045295,
+              -27.492601
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.044316,
+                  -27.492215
+                ],
+                [
+                  153.044678,
+                  -27.493485
+                ],
+                [
+                  153.044691,
+                  -27.493524
+                ],
+                [
+                  153.044862,
+                  -27.493955
+                ],
+                [
+                  153.045711,
+                  -27.494111
+                ],
+                [
+                  153.046061,
+                  -27.493773
+                ],
+                [
+                  153.046187,
+                  -27.493544
+                ],
+                [
+                  153.046205,
+                  -27.493455
+                ],
+                [
+                  153.046205,
+                  -27.493454
+                ],
+                [
+                  153.046222,
+                  -27.493365
+                ],
+                [
+                  153.046239,
+                  -27.493276
+                ],
+                [
+                  153.046257,
+                  -27.493186
+                ],
+                [
+                  153.046257,
+                  -27.493185
+                ],
+                [
+                  153.046274,
+                  -27.493095
+                ],
+                [
+                  153.046273,
+                  -27.492935
+                ],
+                [
+                  153.045919,
+                  -27.491274
+                ],
+                [
+                  153.045014,
+                  -27.49109
+                ],
+                [
+                  153.044399,
+                  -27.491837
+                ],
+                [
+                  153.044316,
+                  -27.492215
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749469-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "43",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "5:53AM 21 Mar 2024",
+        "EST_FIX_TIME": "8:00AM 21 Mar 2024",
+        "STREETS": "DESHON ST, LEAMINGTON ST, LEONARD ST, LERNA ST",
+        "SUBURBS": "WOOLLOONGABBA"
       }
     },
     {
@@ -239,5 +348,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710970501.188014"
+  "extracted": "1710970800.589074"
 }
