@@ -362,6 +362,99 @@
           {
             "type": "Point",
             "coordinates": [
+              148.914666,
+              -21.329639
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.850215,
+                  -21.242083
+                ],
+                [
+                  148.895398,
+                  -21.416668
+                ],
+                [
+                  148.895693,
+                  -21.416982
+                ],
+                [
+                  148.975566,
+                  -21.445888
+                ],
+                [
+                  148.976222,
+                  -21.445474
+                ],
+                [
+                  148.979117,
+                  -21.273894
+                ],
+                [
+                  148.979117,
+                  -21.273883
+                ],
+                [
+                  148.978956,
+                  -21.258743
+                ],
+                [
+                  148.978749,
+                  -21.258376
+                ],
+                [
+                  148.91299,
+                  -21.215619
+                ],
+                [
+                  148.912802,
+                  -21.215546
+                ],
+                [
+                  148.900332,
+                  -21.21339
+                ],
+                [
+                  148.899995,
+                  -21.213448
+                ],
+                [
+                  148.850434,
+                  -21.24159
+                ],
+                [
+                  148.850215,
+                  -21.242083
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3009",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "410",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:19PM 20 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANDREWS RD, AUSTIN DR, BALL ST, BARRIER ST, BLUE MOUNTAIN RD, BORGS RD, BOUNDARY ST, BRIGHTLEY RD, BURGESS LANE, CHETCUTIS RD, CREEK ST, ELVINS RD, ETON DUMP RD, ETON HOMEBUSH RD, FLAHERTY ST, FRED GEORGE RD, HILL ST, HOLMES ST, HOWELLS RD, JOHN TEMPLE DR, KEMMIS ST, KINCHANT DAM RD, MACKAY ST, MIRANI ETON RD, OLLETTS RD, PEAK DOWNS HWY, PROSPECT ST, SORBELLOS RD, STEMM CT, STONY CREEK RD, TELEGRAPH ST, TREVETHANS RD, VASSALLOS RD, VICTORIA ST",
+        "SUBURBS": "BLUE MOUNTAIN, BRIGHTLY, ETON, HAZLEDEAN, KINCHANT DAM, MIA MIA, MIRANI, NEBO, NORTH ETON, OAKENDEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.857919,
               -19.137765
             ]
@@ -656,5 +749,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710919201.882338"
+  "extracted": "1710919501.693226"
 }
