@@ -1,8 +1,174 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.137151,
+              -26.799335
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.130246,
+                  -26.801149
+                ],
+                [
+                  153.131003,
+                  -26.802721
+                ],
+                [
+                  153.131169,
+                  -26.802907
+                ],
+                [
+                  153.133696,
+                  -26.804557
+                ],
+                [
+                  153.133978,
+                  -26.804643
+                ],
+                [
+                  153.134631,
+                  -26.804659
+                ],
+                [
+                  153.134724,
+                  -26.804653
+                ],
+                [
+                  153.137195,
+                  -26.804297
+                ],
+                [
+                  153.137408,
+                  -26.804218
+                ],
+                [
+                  153.143656,
+                  -26.800209
+                ],
+                [
+                  153.143838,
+                  -26.799991
+                ],
+                [
+                  153.14405,
+                  -26.799445
+                ],
+                [
+                  153.144072,
+                  -26.799364
+                ],
+                [
+                  153.144097,
+                  -26.799219
+                ],
+                [
+                  153.144096,
+                  -26.79908
+                ],
+                [
+                  153.144002,
+                  -26.798559
+                ],
+                [
+                  153.143979,
+                  -26.798478
+                ],
+                [
+                  153.143716,
+                  -26.797823
+                ],
+                [
+                  153.143675,
+                  -26.797745
+                ],
+                [
+                  153.141587,
+                  -26.794591
+                ],
+                [
+                  153.141262,
+                  -26.79438
+                ],
+                [
+                  153.139361,
+                  -26.79401
+                ],
+                [
+                  153.139119,
+                  -26.794017
+                ],
+                [
+                  153.138893,
+                  -26.794073
+                ],
+                [
+                  153.138726,
+                  -26.794147
+                ],
+                [
+                  153.131504,
+                  -26.799021
+                ],
+                [
+                  153.131486,
+                  -26.799034
+                ],
+                [
+                  153.130685,
+                  -26.799628
+                ],
+                [
+                  153.130528,
+                  -26.799833
+                ],
+                [
+                  153.130238,
+                  -26.800617
+                ],
+                [
+                  153.130212,
+                  -26.800747
+                ],
+                [
+                  153.130205,
+                  -26.800957
+                ],
+                [
+                  153.130246,
+                  -26.801149
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749463-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1075",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "2:14AM 21 Mar 2024",
+        "EST_FIX_TIME": "4:30AM 21 Mar 2024",
+        "STREETS": "ARTHUR ST, BEAUSANG ST, BINGERA TCE, BOMBALA TCE, BORONIA CT, BURWAH TCE, CANBERRA TCE, EDITH ST, EDMUND ST, EDRIDGE ST, FURLONG DR, GREVILLEA CT, HODGENS ST, JACKMAN ST, KALINGA ST, KING ST, KNOX AVE, LETHBRIDGE CT, MALOJA AVE, MALTMAN ST S, MARLUA AVE, MARY ST, MELALEUCA ST, MINCHINTON ST, ORAMA AVE, ORMUZ AVE, ORONSAY AVE, ORSOVA TCE, OSTERLEY AVE, PARK ST, PRIOR RD, QUEEN ST, REGENT ST, SAMUEL CT, SYKES AVE, TURNER DR, VERNEY ST, WYREEMA TCE",
+        "SUBURBS": "CALOUNDRA, KINGS BEACH, MOFFAT BEACH, SHELLY BEACH"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710951001.306682"
+  "extracted": "1710951303.93093"
 }
