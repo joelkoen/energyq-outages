@@ -126,9 +126,78 @@
         "STREETS": "ABALONE AVE, BOWEN AVE, CALWOOD CRES, CASTLE WOOD CRES, DARWALLAH AVE, DUCAT DR, FENTON RD, FERNANDO RD, GLENFIELD AVE, HACKING RIDGE RD, HEMP HILL RD, MARTIN PL, TAHLIN DR",
         "SUBURBS": "RUSSELL ISLAND"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.176851,
+              -27.833872
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.177152,
+                  -27.835126
+                ],
+                [
+                  153.177559,
+                  -27.832747
+                ],
+                [
+                  153.177161,
+                  -27.832237
+                ],
+                [
+                  153.176567,
+                  -27.832563
+                ],
+                [
+                  153.176234,
+                  -27.833682
+                ],
+                [
+                  153.176218,
+                  -27.833773
+                ],
+                [
+                  153.176143,
+                  -27.835034
+                ],
+                [
+                  153.176598,
+                  -27.835507
+                ],
+                [
+                  153.177152,
+                  -27.835126
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749435-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "7:48PM 20 Mar 2024",
+        "EST_FIX_TIME": "9:30PM 20 Mar 2024",
+        "STREETS": "BEAUDESERT-BEENLEIGH RD",
+        "SUBURBS": "CEDAR CREEK"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710929401.160239"
+  "extracted": "1710929704.031742"
 }
