@@ -82,9 +82,78 @@
         "STREETS": "BLACKALL RANGE RD, JACKSONS RD, KALANG DR",
         "SUBURBS": "WEST WOOMBYE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.957759,
+              -26.958582
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.956447,
+                  -26.958842
+                ],
+                [
+                  152.957702,
+                  -26.960266
+                ],
+                [
+                  152.958594,
+                  -26.960059
+                ],
+                [
+                  152.959071,
+                  -26.95742
+                ],
+                [
+                  152.95856,
+                  -26.956897
+                ],
+                [
+                  152.957948,
+                  -26.956912
+                ],
+                [
+                  152.957576,
+                  -26.957074
+                ],
+                [
+                  152.956456,
+                  -26.958273
+                ],
+                [
+                  152.956447,
+                  -26.958842
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749510-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "8:57AM 21 Mar 2024",
+        "EST_FIX_TIME": "11:30AM 21 Mar 2024",
+        "STREETS": "ANZAC AVE, BEERBURRUM RD, CHURCH ST, HIBISCUS AVE",
+        "SUBURBS": "BEERBURRUM"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710975301.79221"
+  "extracted": "1710975601.544149"
 }
