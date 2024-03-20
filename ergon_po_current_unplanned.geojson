@@ -451,8 +451,77 @@
           {
             "type": "Point",
             "coordinates": [
-              138.120457,
-              -19.920677
+              138.122356,
+              -19.921641
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  138.121533,
+                  -19.922285
+                ],
+                [
+                  138.12318,
+                  -19.922263
+                ],
+                [
+                  138.123636,
+                  -19.921907
+                ],
+                [
+                  138.123366,
+                  -19.921408
+                ],
+                [
+                  138.122391,
+                  -19.920997
+                ],
+                [
+                  138.121932,
+                  -19.921035
+                ],
+                [
+                  138.12126,
+                  -19.921469
+                ],
+                [
+                  138.121076,
+                  -19.921973
+                ],
+                [
+                  138.121533,
+                  -19.922285
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6397",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews working on-site",
+        "START": "9:42PM 19 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BARKLY ST",
+        "SUBURBS": "CAMOOWEAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              138.119564,
+              -19.920658
             ]
           },
           {
@@ -468,20 +537,20 @@
                   -19.923234
                 ],
                 [
-                  138.119059,
-                  -19.923531
+                  138.11915,
+                  -19.923493
                 ],
                 [
-                  138.123317,
-                  -19.922242
+                  138.121508,
+                  -19.922217
                 ],
                 [
-                  138.123485,
-                  -19.921481
+                  138.1217,
+                  -19.921637
                 ],
                 [
-                  138.120204,
-                  -19.918753
+                  138.120318,
+                  -19.918896
                 ],
                 [
                   138.120169,
@@ -509,11 +578,11 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "24NQ6397",
+        "EVENT_ID": "24NQ6418",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "28",
+        "CUSTOMERS_AFFECTED": "24",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
+        "STATUS": "Outage reported",
         "START": "9:42PM 19 Mar 2024",
         "EST_FIX_TIME": null,
         "STREETS": "AUSTRAL ST, BARKLY ST, KENNEDY ST, NOWRANIE ST",
@@ -661,5 +730,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710901807.441583"
+  "extracted": "1710902400.813454"
 }
