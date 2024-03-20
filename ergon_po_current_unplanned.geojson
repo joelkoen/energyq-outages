@@ -119,6 +119,83 @@
           {
             "type": "Point",
             "coordinates": [
+              146.029163,
+              -17.525216
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.027407,
+                  -17.525182
+                ],
+                [
+                  146.0276,
+                  -17.525839
+                ],
+                [
+                  146.02773,
+                  -17.526045
+                ],
+                [
+                  146.028583,
+                  -17.52682
+                ],
+                [
+                  146.029304,
+                  -17.526734
+                ],
+                [
+                  146.030918,
+                  -17.524304
+                ],
+                [
+                  146.030461,
+                  -17.523613
+                ],
+                [
+                  146.02832,
+                  -17.523878
+                ],
+                [
+                  146.02799,
+                  -17.524072
+                ],
+                [
+                  146.027471,
+                  -17.524806
+                ],
+                [
+                  146.027407,
+                  -17.525182
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4171",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "38",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews working on-site",
+        "START": "8:29AM 18 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "EDITH ST, ERNEST ST, OWEN ST",
+        "SUBURBS": "INNISFAIL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               141.895937,
               -11.993441
             ]
@@ -388,6 +465,83 @@
         "EST_FIX_TIME": "12:00PM 22 Mar 2024",
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.997994,
+              -21.176511
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.995852,
+                  -21.17763
+                ],
+                [
+                  148.998198,
+                  -21.177667
+                ],
+                [
+                  148.998264,
+                  -21.177664
+                ],
+                [
+                  149.000157,
+                  -21.17745
+                ],
+                [
+                  149.00057,
+                  -21.17691
+                ],
+                [
+                  149.00048,
+                  -21.176505
+                ],
+                [
+                  149.000123,
+                  -21.176158
+                ],
+                [
+                  148.996606,
+                  -21.175354
+                ],
+                [
+                  148.99605,
+                  -21.175615
+                ],
+                [
+                  148.995417,
+                  -21.177001
+                ],
+                [
+                  148.995852,
+                  -21.17763
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2999",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "9:55AM 20 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ROCKY WATERHOLE WOLLINGFORD RD",
+        "SUBURBS": "PLEYSTOWE, WALKERSTON"
       }
     },
     {
@@ -742,5 +896,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710896700.489084"
+  "extracted": "1710897000.38926"
 }
