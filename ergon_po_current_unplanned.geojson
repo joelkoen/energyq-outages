@@ -611,9 +611,134 @@
         "STREETS": "BIASIS RD, CRUICKSHANKS RD, CUNNINGHAMS RD, FABRIS RD, FALCOMERS RD, GANGEMIS RD, GORTONS RD, HAWKINS CREEK RD, PALMAS RD, PIPE GULLY RD, QUABBA'S RD, RUSSOS RD",
         "SUBURBS": "BEMERSIDE, HAWKINS CREEK, INGHAM"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.367058,
+              -24.878042
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.364003,
+                  -24.876447
+                ],
+                [
+                  152.364686,
+                  -24.880012
+                ],
+                [
+                  152.365336,
+                  -24.880359
+                ],
+                [
+                  152.36607,
+                  -24.880123
+                ],
+                [
+                  152.366111,
+                  -24.880107
+                ],
+                [
+                  152.36708,
+                  -24.879703
+                ],
+                [
+                  152.367146,
+                  -24.87967
+                ],
+                [
+                  152.368558,
+                  -24.878823
+                ],
+                [
+                  152.368642,
+                  -24.87876
+                ],
+                [
+                  152.370113,
+                  -24.877371
+                ],
+                [
+                  152.369907,
+                  -24.876629
+                ],
+                [
+                  152.367277,
+                  -24.875868
+                ],
+                [
+                  152.367206,
+                  -24.875853
+                ],
+                [
+                  152.367094,
+                  -24.875837
+                ],
+                [
+                  152.36709,
+                  -24.875836
+                ],
+                [
+                  152.366919,
+                  -24.875812
+                ],
+                [
+                  152.366918,
+                  -24.875812
+                ],
+                [
+                  152.3663,
+                  -24.875727
+                ],
+                [
+                  152.36617,
+                  -24.875724
+                ],
+                [
+                  152.364591,
+                  -24.875889
+                ],
+                [
+                  152.364534,
+                  -24.875898
+                ],
+                [
+                  152.364376,
+                  -24.875932
+                ],
+                [
+                  152.364003,
+                  -24.876447
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4333",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "103",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:30PM 21 Mar 2024",
+        "EST_FIX_TIME": "3:30PM 21 Mar 2024",
+        "STREETS": "BRASCH ST, BRIGGENSHAW ST, DE GUNST ST, ELLIOTT HEADS RD, FARTHING CT, NIXON ST",
+        "SUBURBS": "KEPNOCK, WALKERVALE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710990601.157909"
+  "extracted": "1710991200.62927"
 }
