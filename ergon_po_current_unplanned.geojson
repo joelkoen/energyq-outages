@@ -10,6 +10,87 @@
           {
             "type": "Point",
             "coordinates": [
+              149.457837,
+              -24.128233
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.45657,
+                  -24.12999
+                ],
+                [
+                  149.458209,
+                  -24.130491
+                ],
+                [
+                  149.458781,
+                  -24.130302
+                ],
+                [
+                  149.459224,
+                  -24.129653
+                ],
+                [
+                  149.459293,
+                  -24.129481
+                ],
+                [
+                  149.459369,
+                  -24.129024
+                ],
+                [
+                  149.459374,
+                  -24.128927
+                ],
+                [
+                  149.459195,
+                  -24.126387
+                ],
+                [
+                  149.458816,
+                  -24.125976
+                ],
+                [
+                  149.458279,
+                  -24.12619
+                ],
+                [
+                  149.4563,
+                  -24.129336
+                ],
+                [
+                  149.45657,
+                  -24.12999
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4762",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "31",
+        "REASON": "The loss of supply is due to a pole fire.",
+        "STATUS": "Outage reported",
+        "START": "7:02PM 21 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MATE MATE ST, MUNNS DR, RICHARD CL",
+        "SUBURBS": "WOORABINDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -361,5 +442,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711018201.838298"
+  "extracted": "1711018502.221404"
 }
