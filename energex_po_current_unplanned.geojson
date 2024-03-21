@@ -1,8 +1,134 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.031901,
+              -27.476366
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.024116,
+                  -27.484119
+                ],
+                [
+                  153.025017,
+                  -27.484462
+                ],
+                [
+                  153.025049,
+                  -27.484473
+                ],
+                [
+                  153.032908,
+                  -27.486928
+                ],
+                [
+                  153.032969,
+                  -27.486943
+                ],
+                [
+                  153.038618,
+                  -27.488033
+                ],
+                [
+                  153.039164,
+                  -27.487815
+                ],
+                [
+                  153.039879,
+                  -27.486696
+                ],
+                [
+                  153.039943,
+                  -27.486425
+                ],
+                [
+                  153.037742,
+                  -27.467567
+                ],
+                [
+                  153.037741,
+                  -27.467557
+                ],
+                [
+                  153.037546,
+                  -27.466203
+                ],
+                [
+                  153.037415,
+                  -27.465953
+                ],
+                [
+                  153.037039,
+                  -27.465593
+                ],
+                [
+                  153.036903,
+                  -27.4655
+                ],
+                [
+                  153.035189,
+                  -27.4647
+                ],
+                [
+                  153.034634,
+                  -27.464751
+                ],
+                [
+                  153.033788,
+                  -27.465369
+                ],
+                [
+                  153.033768,
+                  -27.465384
+                ],
+                [
+                  153.033656,
+                  -27.465475
+                ],
+                [
+                  153.033541,
+                  -27.465612
+                ],
+                [
+                  153.023859,
+                  -27.483508
+                ],
+                [
+                  153.024116,
+                  -27.484119
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749923-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1253",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "8:43AM 22 Mar 2024",
+        "EST_FIX_TIME": "11:00AM 22 Mar 2024",
+        "STREETS": "AMESBURY ST, ANDERSON ST, ANNIE ST, BAILDON ST, BAINES ST, BELL ST, BRIGHT ST, DOCK ST, GRAHAM ST, HAMILTON ST, HOLMAN ST, LLEWELLYN ST, LOGAN RD, LOWER RIVER TCE, MACDONALD ST, MAIN ST, PATON ST, RAWLINS ST, RIVER TCE, SCOTT ST, SINCLAIR ST, STANLEY ST, VULTURE ST, WALMSLEY ST, WELLINGTON RD, WHARF ST, WICKLOW ST",
+        "SUBURBS": "EAST BRISBANE, KANGAROO POINT, SOUTH BRISBANE, WOOLLOONGABBA"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711060800.441315"
+  "extracted": "1711061102.816179"
 }
