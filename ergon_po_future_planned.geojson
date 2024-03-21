@@ -1897,6 +1897,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.244957,
+          -20.012327
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5202",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "12:42PM 21 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 21 Mar 2024",
+        "STREETS": "POWELL ST",
+        "SUBURBS": "BOWEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.245303,
           -20.004288
         ]
@@ -1910,27 +1931,6 @@
         "START": "7:00AM 21 Mar 2024",
         "EST_FIX_TIME": "4:00PM 21 Mar 2024",
         "STREETS": "REYNOLDS ST",
-        "SUBURBS": "BOWEN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.243247,
-          -20.013344
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5209",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "11:07AM 21 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 21 Mar 2024",
-        "STREETS": "POWELL ST",
         "SUBURBS": "BOWEN"
       }
     },
@@ -3273,7 +3273,7 @@
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
         "START": "9:04AM 21 Mar 2024",
-        "EST_FIX_TIME": "2:00PM 21 Mar 2024",
+        "EST_FIX_TIME": "12:19PM 21 Mar 2024",
         "STREETS": "AGNESVALE RD, BERRIES RD, BIGGENDEN RD, EUREKA RD, ISIS HWY, RENDALLS RD",
         "SUBURBS": "CHILDERS, EUREKA, GOLDEN FLEECE, KULLOGUM"
       }
@@ -3722,5 +3722,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1710988801.398082"
+  "extracted": "1710989101.575209"
 }
