@@ -10,6 +10,123 @@
           {
             "type": "Point",
             "coordinates": [
+              150.709308,
+              -23.133419
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.706139,
+                  -23.130122
+                ],
+                [
+                  150.707558,
+                  -23.136931
+                ],
+                [
+                  150.707704,
+                  -23.137176
+                ],
+                [
+                  150.708027,
+                  -23.137453
+                ],
+                [
+                  150.708434,
+                  -23.137569
+                ],
+                [
+                  150.709268,
+                  -23.137448
+                ],
+                [
+                  150.709394,
+                  -23.137413
+                ],
+                [
+                  150.71005,
+                  -23.137138
+                ],
+                [
+                  150.71013,
+                  -23.137095
+                ],
+                [
+                  150.710693,
+                  -23.136727
+                ],
+                [
+                  150.7108,
+                  -23.136631
+                ],
+                [
+                  150.711504,
+                  -23.135773
+                ],
+                [
+                  150.711585,
+                  -23.135625
+                ],
+                [
+                  150.712477,
+                  -23.132757
+                ],
+                [
+                  150.712412,
+                  -23.132379
+                ],
+                [
+                  150.710886,
+                  -23.130296
+                ],
+                [
+                  150.710783,
+                  -23.130194
+                ],
+                [
+                  150.709636,
+                  -23.129362
+                ],
+                [
+                  150.709274,
+                  -23.129269
+                ],
+                [
+                  150.706556,
+                  -23.12959
+                ],
+                [
+                  150.706139,
+                  -23.130122
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4776",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "36",
+        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+        "STATUS": "Crews on route",
+        "START": "8:57AM 22 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BARMARYEE RD, EMU PDE",
+        "SUBURBS": "BARMARYEE, YEPPOON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -134,6 +251,75 @@
         "EST_FIX_TIME": "11:30AM 22 Mar 2024",
         "STREETS": "BRANCH CREEK RD, CECIL PLAINS RD, DALBY-CECIL PLAINS RD",
         "SUBURBS": "DALBY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.223944,
+              -26.893869
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.215658,
+                  -26.918666
+                ],
+                [
+                  151.233206,
+                  -26.869315
+                ],
+                [
+                  151.232937,
+                  -26.868769
+                ],
+                [
+                  151.2323,
+                  -26.868942
+                ],
+                [
+                  151.219223,
+                  -26.887974
+                ],
+                [
+                  151.219153,
+                  -26.888151
+                ],
+                [
+                  151.214681,
+                  -26.91847
+                ],
+                [
+                  151.21507,
+                  -26.918969
+                ],
+                [
+                  151.215658,
+                  -26.918666
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6622",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 22 Mar 2024",
+        "EST_FIX_TIME": "1:00PM 22 Mar 2024",
+        "STREETS": "FLETCHERS RD, LYNDLEY LANE",
+        "SUBURBS": "JIMBOUR"
       }
     },
     {
@@ -528,5 +714,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711063500.514788"
+  "extracted": "1711064101.044131"
 }
