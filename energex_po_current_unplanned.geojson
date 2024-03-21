@@ -540,9 +540,9 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "1390",
         "REASON": "Under Investigation",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "11:04AM 21 Mar 2024",
-        "EST_FIX_TIME": "1:30PM 21 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 21 Mar 2024",
         "STREETS": "AUDREY ST, BIRNAM ST, BOURKE ST, BRAVO CT, CARNATION ST, CHAMBERS FLAT RD, CLEARVIEW ST, CUNNINGHAM ST, HOLLES ST, HYDRANGEA ST, JAMIESON CT, KINGSTON RD, LAKE AMAROO CT, LAKE BOGONG CT, LAKE BORUMBA ST, LAKE COOLOOLA CT, LAKE COOROIBAH ST, LAKE COOTHARABA PL, LAKE KURWONGBAH CT, LAKE MANCHESTER ST, LAKE SOMERSET CT, LAKE WIVENHOE CT, LAKEVIEW DR, LANSDOWN RD, LAVENDER ST, LOGAN RESERVE RD, MAAS CT, MARK LANE, MCGRATH ST, MOFFATT RD, MUCHOW RD, MYRTLE ST, OUTLOOK ST, PATRICK CT, PHLOX CT, SUNFLOWER ST, TAPLOW ST, WATERS ST, WUNBURRA ST",
         "SUBURBS": "LOGAN RESERVE, WATERFORD WEST"
       }
@@ -740,9 +740,163 @@
         "STREETS": "ARMELIE CT, BENTLEY RD, BESTMANN RD, BOXGUM CT, BRIBIE ISLAND RD, ESPLANADE, GREYGUM CT, LEVER CT, NINGI ESP, NINGI SHORES CCT, RANALD AVE, REBECCA AVE, REDONDO ST, REGINA AVE, REX LANE, ROBERT AVE, ROSE AVE, ROSS ST, ROWAN LANE, RUBY AVE, SEEANA CT, SELLENS CT, SINCLAIR PL, SNOWGUM CT, SUNNY CT, WATERVIEW CL",
         "SUBURBS": "BEACHMERE, GODWIN BEACH, NINGI"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.185312,
+              -27.600284
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.184331,
+                  -27.599979
+                ],
+                [
+                  153.185342,
+                  -27.601124
+                ],
+                [
+                  153.185892,
+                  -27.601276
+                ],
+                [
+                  153.186246,
+                  -27.600872
+                ],
+                [
+                  153.186293,
+                  -27.600175
+                ],
+                [
+                  153.186005,
+                  -27.59974
+                ],
+                [
+                  153.184947,
+                  -27.599292
+                ],
+                [
+                  153.184334,
+                  -27.599418
+                ],
+                [
+                  153.184331,
+                  -27.599979
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749608-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:51AM 21 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 21 Mar 2024",
+        "STREETS": "AVALON RD",
+        "SUBURBS": "SHELDON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.294121,
+              -28.042427
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.281526,
+                  -28.04548
+                ],
+                [
+                  153.300617,
+                  -28.055143
+                ],
+                [
+                  153.301366,
+                  -28.054849
+                ],
+                [
+                  153.306724,
+                  -28.033449
+                ],
+                [
+                  153.306736,
+                  -28.033379
+                ],
+                [
+                  153.306949,
+                  -28.030316
+                ],
+                [
+                  153.306554,
+                  -28.029848
+                ],
+                [
+                  153.305904,
+                  -28.029718
+                ],
+                [
+                  153.305719,
+                  -28.029712
+                ],
+                [
+                  153.286124,
+                  -28.032207
+                ],
+                [
+                  153.285712,
+                  -28.032518
+                ],
+                [
+                  153.281293,
+                  -28.044953
+                ],
+                [
+                  153.281526,
+                  -28.04548
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749610-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "74",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:52AM 21 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 21 Mar 2024",
+        "STREETS": "DUNCAN RD, GILSTON RD, MOTTEE CT, PRENDER CT, THE PANORAMA",
+        "SUBURBS": "ADVANCETOWN, GILSTON, TALLAI"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710985801.211209"
+  "extracted": "1710986100.36031"
 }

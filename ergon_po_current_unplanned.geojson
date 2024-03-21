@@ -10,6 +10,131 @@
           {
             "type": "Point",
             "coordinates": [
+              149.981352,
+              -24.581955
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.979065,
+                  -24.582849
+                ],
+                [
+                  149.980988,
+                  -24.583084
+                ],
+                [
+                  149.980989,
+                  -24.583084
+                ],
+                [
+                  149.981423,
+                  -24.583136
+                ],
+                [
+                  149.981431,
+                  -24.583137
+                ],
+                [
+                  149.982303,
+                  -24.583228
+                ],
+                [
+                  149.982576,
+                  -24.583184
+                ],
+                [
+                  149.983045,
+                  -24.582974
+                ],
+                [
+                  149.983145,
+                  -24.582914
+                ],
+                [
+                  149.983744,
+                  -24.582455
+                ],
+                [
+                  149.983837,
+                  -24.58236
+                ],
+                [
+                  149.984067,
+                  -24.582045
+                ],
+                [
+                  149.984048,
+                  -24.581519
+                ],
+                [
+                  149.983488,
+                  -24.580855
+                ],
+                [
+                  149.983036,
+                  -24.580683
+                ],
+                [
+                  149.982801,
+                  -24.580709
+                ],
+                [
+                  149.982799,
+                  -24.58071
+                ],
+                [
+                  149.980181,
+                  -24.581016
+                ],
+                [
+                  149.980139,
+                  -24.581023
+                ],
+                [
+                  149.97907,
+                  -24.581235
+                ],
+                [
+                  149.978683,
+                  -24.58165
+                ],
+                [
+                  149.978638,
+                  -24.582376
+                ],
+                [
+                  149.979065,
+                  -24.582849
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4728",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "48",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:45AM 21 Mar 2024",
+        "EST_FIX_TIME": "1:30PM 21 Mar 2024",
+        "STREETS": "AUSTIN CRES, HAYDEN PL, HOMER ST",
+        "SUBURBS": "MOURA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               144.576668,
               -18.198678
             ]
@@ -371,7 +496,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "1499",
         "REASON": "The loss of supply is due to the operating of protective equipment. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "11:38AM 21 Mar 2024",
         "EST_FIX_TIME": null,
         "STREETS": "ADELE CT, AMANDA DR, ANDERGROVE RD, ANDREW CT, APOLLO DR, BEACONSFIELD EAST RD, BEACONSFIELD RD, BEDFORD RD, BRIANNA CT, BRYAN ST, CAMPBELL ST, CARIBAEA CT, CHESTER CRES, COONEY ST, DALE CT, DAPPLEWOOD CL, DAVINELLE CL, DAVLYN DR, DEBORAH CT, DEGUARA DR, DELMA ST, DORIS ST, ELM DR, EUCALYPTUS DR, FATNOWNA ST, FERNGROVE LANE, FERNLEIGH AVE, FURLONG ST, GALWAY CT, GEMINI DR, GEOFFREY NOLAN DR, GLENDALE ST, GROVE CT, HI GROVE TCE, INGLEWOOD CL, INVESTIGATOR ST, IVY DR, JANELLE CT, JASMINE ST, KADDATZ ST, KARWIN DR, KATHERINE CT, KEAN ST, KEELEYS RD, KIMBERLEY CT, KRAUSE CT, LENESHA DR, LORRAINE CT, MAGUIRE ST, MALONE DR, MANZELMANN ST, MAPLE DR, MCGARRY ST, MCMAHON ST, MONIQUE CT, NICOLE CT, OAK ST, OSPREY CL, PEATEY ST, PETREA CT, POSSUM CL, RENAE ST, RHAPIS CT, RHONDA CT, SAMUEL CT, SHANE CT, SHELLEY CT, SKYLARK ST, SMALLEY ST, SMETHURST ST, SONG CL, STEFAN CT, SUNITA DR, TAMLEN CT, TANGLEWOOD AVE, THE BARONS DR, THORNBILL LANE, TIFFINY CT, TRAMONTANA ST, TROPICAL AVE, VAN ELDIK AVE, VERONICA CT, VICKY CT, WARRENER ST, WESTAWAY CRES, WHITNEY ST, WILLOW CT, ZAMIA CT",
@@ -708,5 +833,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710985501.464982"
+  "extracted": "1710985800.351837"
 }
