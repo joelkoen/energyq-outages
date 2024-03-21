@@ -111,79 +111,6 @@
           {
             "type": "Point",
             "coordinates": [
-              152.279651,
-              -27.510883
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.264594,
-                  -27.524452
-                ],
-                [
-                  152.271975,
-                  -27.524794
-                ],
-                [
-                  152.272156,
-                  -27.524773
-                ],
-                [
-                  152.287837,
-                  -27.520308
-                ],
-                [
-                  152.288171,
-                  -27.519997
-                ],
-                [
-                  152.295039,
-                  -27.497481
-                ],
-                [
-                  152.294805,
-                  -27.496972
-                ],
-                [
-                  152.294193,
-                  -27.497043
-                ],
-                [
-                  152.264262,
-                  -27.523682
-                ],
-                [
-                  152.264594,
-                  -27.524452
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-749572-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "16",
-        "REASON": "Under Investigation",
-        "STATUS": "In Progress",
-        "START": "10:54AM 21 Mar 2024",
-        "EST_FIX_TIME": "4:30PM 21 Mar 2024",
-        "STREETS": "ADARE RD, RANGER RD",
-        "SUBURBS": "ADARE, VINEGAR HILL"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               153.119305,
               -27.680607
             ]
@@ -866,9 +793,134 @@
         "STREETS": "CORKS POCKET RD, CUMNER LANE, ELAMAN CREEK RD, FLESSER RD, KELS LANE, MEADOW RD, OXENHAM LANE, REESVILLE RD, RIDLEY RD, WATSON LANE",
         "SUBURBS": "CONONDALE, ELAMAN CREEK, REESVILLE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.360794,
+              -28.113415
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.358204,
+                  -28.113514
+                ],
+                [
+                  153.359139,
+                  -28.11647
+                ],
+                [
+                  153.359811,
+                  -28.11677
+                ],
+                [
+                  153.361195,
+                  -28.116299
+                ],
+                [
+                  153.361445,
+                  -28.116117
+                ],
+                [
+                  153.361542,
+                  -28.115979
+                ],
+                [
+                  153.36158,
+                  -28.115915
+                ],
+                [
+                  153.363403,
+                  -28.112065
+                ],
+                [
+                  153.36338,
+                  -28.111674
+                ],
+                [
+                  153.362617,
+                  -28.110436
+                ],
+                [
+                  153.36235,
+                  -28.11023
+                ],
+                [
+                  153.362095,
+                  -28.110145
+                ],
+                [
+                  153.362028,
+                  -28.110127
+                ],
+                [
+                  153.361747,
+                  -28.110071
+                ],
+                [
+                  153.361628,
+                  -28.110059
+                ],
+                [
+                  153.360599,
+                  -28.11007
+                ],
+                [
+                  153.360183,
+                  -28.11027
+                ],
+                [
+                  153.360092,
+                  -28.110389
+                ],
+                [
+                  153.360084,
+                  -28.1104
+                ],
+                [
+                  153.358264,
+                  -28.112957
+                ],
+                [
+                  153.358186,
+                  -28.113197
+                ],
+                [
+                  153.358185,
+                  -28.113391
+                ],
+                [
+                  153.358204,
+                  -28.113514
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749748-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "58",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "3:28PM 21 Mar 2024",
+        "EST_FIX_TIME": "7:00PM 21 Mar 2024",
+        "STREETS": "BONNIE CT, CLANSMAN CT, GLENMORE DR, STIRLING CT, WINDEMERE DR",
+        "SUBURBS": "BONOGIN"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710999300.384492"
+  "extracted": "1710999601.289917"
 }
