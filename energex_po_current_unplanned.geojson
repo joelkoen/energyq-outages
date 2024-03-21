@@ -344,7 +344,7 @@
         "REASON": "Under Investigation",
         "STATUS": "Awaiting",
         "START": "11:10AM 21 Mar 2024",
-        "EST_FIX_TIME": "4:30PM 21 Mar 2024",
+        "EST_FIX_TIME": "5:30PM 21 Mar 2024",
         "STREETS": "SUNSET STRP, THE ESPLANADE, TREASURE ISLAND AVE",
         "SUBURBS": "KARRAGARRA ISLAND"
       }
@@ -413,7 +413,7 @@
         "REASON": "Emergency Repairs",
         "STATUS": "Awaiting",
         "START": "11:51AM 21 Mar 2024",
-        "EST_FIX_TIME": "4:30PM 21 Mar 2024",
+        "EST_FIX_TIME": "6:30PM 21 Mar 2024",
         "STREETS": "AVALON RD",
         "SUBURBS": "SHELDON"
       }
@@ -481,6 +481,87 @@
         "EST_FIX_TIME": "5:30PM 21 Mar 2024",
         "STREETS": "GOLD COAST-SPRINGBROOK RD, JOHNS RD, LITTLE NERANG RD",
         "SUBURBS": "MUDGEERABA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.945137,
+              -27.003842
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.943469,
+                  -27.004822
+                ],
+                [
+                  152.945959,
+                  -27.005197
+                ],
+                [
+                  152.946499,
+                  -27.004943
+                ],
+                [
+                  152.94694,
+                  -27.004099
+                ],
+                [
+                  152.946977,
+                  -27.003998
+                ],
+                [
+                  152.947208,
+                  -27.002986
+                ],
+                [
+                  152.947218,
+                  -27.002895
+                ],
+                [
+                  152.947218,
+                  -27.002888
+                ],
+                [
+                  152.94648,
+                  -27.002488
+                ],
+                [
+                  152.943318,
+                  -27.003977
+                ],
+                [
+                  152.943055,
+                  -27.004448
+                ],
+                [
+                  152.943469,
+                  -27.004822
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749687-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "2:10PM 21 Mar 2024",
+        "EST_FIX_TIME": "4:30PM 21 Mar 2024",
+        "STREETS": "BEERBURRUM RD",
+        "SUBURBS": "ELIMBAH"
       }
     },
     {
@@ -922,5 +1003,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710999903.157159"
+  "extracted": "1711000201.736531"
 }
