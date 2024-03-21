@@ -1,8 +1,86 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.927896,
+              -26.381082
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.926309,
+                  -26.38027
+                ],
+                [
+                  152.928344,
+                  -26.382568
+                ],
+                [
+                  152.929226,
+                  -26.382381
+                ],
+                [
+                  152.92931,
+                  -26.382027
+                ],
+                [
+                  152.929393,
+                  -26.381674
+                ],
+                [
+                  152.929395,
+                  -26.381665
+                ],
+                [
+                  152.929483,
+                  -26.381248
+                ],
+                [
+                  152.929239,
+                  -26.380771
+                ],
+                [
+                  152.926949,
+                  -26.379596
+                ],
+                [
+                  152.92632,
+                  -26.379695
+                ],
+                [
+                  152.926309,
+                  -26.38027
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749915-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "8:34AM 22 Mar 2024",
+        "EST_FIX_TIME": "11:30AM 22 Mar 2024",
+        "STREETS": "HIGHLAND DR, LAKE MACDONALD DR",
+        "SUBURBS": "LAKE MACDONALD"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711060204.038883"
+  "extracted": "1711060500.542696"
 }
