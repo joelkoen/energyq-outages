@@ -841,9 +841,126 @@
         "STREETS": "ALBERT ST, BEACHSIDE CT, BENNETT ST, CAMPBELL ST, CARLTON AVE, DERBY RD, EDMUND ST, GLADSTONE PDE, GRIGOR ST, MARKET PL, MOFFAT ST, NOTHLING ST, OCEAN CT, OLEANDER AVE, RINALDI ST, RODERICK ST, ROSE ST, RUSSELL ST, SEAVIEW TCE, SHELLY PARK, SIMPSON ST, STEWART WAY, VICTORIA TCE, WELLINGTON PDE, WILLIAM ST, WINDSOR AVE",
         "SUBURBS": "MOFFAT BEACH, SHELLY BEACH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.326061,
+              -27.903689
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.323056,
+                  -27.902701
+                ],
+                [
+                  153.323072,
+                  -27.903885
+                ],
+                [
+                  153.323125,
+                  -27.90408
+                ],
+                [
+                  153.323143,
+                  -27.904112
+                ],
+                [
+                  153.323259,
+                  -27.904247
+                ],
+                [
+                  153.32332,
+                  -27.904296
+                ],
+                [
+                  153.323458,
+                  -27.904373
+                ],
+                [
+                  153.326226,
+                  -27.905432
+                ],
+                [
+                  153.326554,
+                  -27.905454
+                ],
+                [
+                  153.32689,
+                  -27.905377
+                ],
+                [
+                  153.327071,
+                  -27.905299
+                ],
+                [
+                  153.328698,
+                  -27.904193
+                ],
+                [
+                  153.328844,
+                  -27.904037
+                ],
+                [
+                  153.329065,
+                  -27.903644
+                ],
+                [
+                  153.328757,
+                  -27.90301
+                ],
+                [
+                  153.324776,
+                  -27.901943
+                ],
+                [
+                  153.324615,
+                  -27.901924
+                ],
+                [
+                  153.324262,
+                  -27.901933
+                ],
+                [
+                  153.324053,
+                  -27.901979
+                ],
+                [
+                  153.32334,
+                  -27.902291
+                ],
+                [
+                  153.323056,
+                  -27.902701
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749862-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "71",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "7:57PM 21 Mar 2024",
+        "EST_FIX_TIME": "10:30PM 21 Mar 2024",
+        "STREETS": "ASHFORD RD, DISCOVERY DR, MINDEN CRES, NOWRA CT, SURREY CT, TAMWORTH DR",
+        "SUBURBS": "HELENSVALE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711014901.240108"
+  "extracted": "1711015204.409529"
 }
