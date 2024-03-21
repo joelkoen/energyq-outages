@@ -705,91 +705,6 @@
           {
             "type": "Point",
             "coordinates": [
-              153.294121,
-              -28.042427
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.281526,
-                  -28.04548
-                ],
-                [
-                  153.300617,
-                  -28.055143
-                ],
-                [
-                  153.301366,
-                  -28.054849
-                ],
-                [
-                  153.306724,
-                  -28.033449
-                ],
-                [
-                  153.306736,
-                  -28.033379
-                ],
-                [
-                  153.306949,
-                  -28.030316
-                ],
-                [
-                  153.306554,
-                  -28.029848
-                ],
-                [
-                  153.305904,
-                  -28.029718
-                ],
-                [
-                  153.305719,
-                  -28.029712
-                ],
-                [
-                  153.286124,
-                  -28.032207
-                ],
-                [
-                  153.285712,
-                  -28.032518
-                ],
-                [
-                  153.281293,
-                  -28.044953
-                ],
-                [
-                  153.281526,
-                  -28.04548
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-749610-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "74",
-        "REASON": "Under Investigation",
-        "STATUS": "In Progress",
-        "START": "11:52AM 21 Mar 2024",
-        "EST_FIX_TIME": "2:30PM 21 Mar 2024",
-        "STREETS": "DUNCAN RD, GILSTON RD, MOTTEE CT, PRENDER CT, THE PANORAMA",
-        "SUBURBS": "ADVANCETOWN, GILSTON, TALLAI"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               152.337129,
               -27.679214
             ]
@@ -914,9 +829,110 @@
         "STREETS": "ALBERT JOSEPH DR, ALLAN RD, AUCHTER RD, BEIN RD, BERLIN RD, BLENHEIM RD, BROWN CT, BURGESS RD, COLEMAN RD, COOPER ST, COOT PL, CROWLEY RD, CURLEW PL, DALTON RD, DART LANE, EGRET CT, FANTAIL DR, FOREST HILL BLENHEIM RD, FOREST HILL-WOODLANDS RD, GLEN CAIRN RD, GREBE CT, HANLON CT, HEDGES CT, HERON ST, HUBNERS RD, IBIS CT, JIMS RD, JIMS RD W, LAKES DR, MALLARD CT, MILES RD, MONTGOMERY RD, MOON RD, MT BERRYMAN RD, MULGOWIE RD, NELSON LANE, OLD TOOWOOMBA RD, PELICAN DR, PITT RD, PLOVER CT, POINT PIPER CL, RAY CT, ROBIN CT, ROPELEY RD, ROPELEY-ROCKSIDE RD, SALT SPRINGS RD, SANDY CT, SCHADWELL RD, SCHLUTER RD, SCHULTZ LOOKOUT RD, SERTIC RD, SIPPEL RD, STILT CT, THURLOW CT, TREACEY RD, VAN DE WEYER RD, VAUX ST, VICTORIA ST, WEEBILL CT, WEIERS RD, WHIPBIRD LANE, WHISTLER CT, WHITESIDE CT, WHITEWAY RD, WOODLANDS RD",
         "SUBURBS": "BLENHEIM, FOREST HILL, GLEN CAIRN, LAIDLEY, LAIDLEY CREEK WEST, LAIDLEY HEIGHTS, MOUNT BERRYMAN, MULGOWIE, ROCKSIDE, ROPELEY, THORNTON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.316982,
+              -28.097594
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.309315,
+                  -28.106918
+                ],
+                [
+                  153.323277,
+                  -28.101954
+                ],
+                [
+                  153.323566,
+                  -28.101689
+                ],
+                [
+                  153.325308,
+                  -28.097411
+                ],
+                [
+                  153.325338,
+                  -28.097253
+                ],
+                [
+                  153.325309,
+                  -28.094974
+                ],
+                [
+                  153.325239,
+                  -28.094751
+                ],
+                [
+                  153.324229,
+                  -28.093219
+                ],
+                [
+                  153.324116,
+                  -28.0931
+                ],
+                [
+                  153.320147,
+                  -28.09017
+                ],
+                [
+                  153.320025,
+                  -28.090103
+                ],
+                [
+                  153.315289,
+                  -28.088269
+                ],
+                [
+                  153.314604,
+                  -28.088534
+                ],
+                [
+                  153.309872,
+                  -28.100561
+                ],
+                [
+                  153.309852,
+                  -28.100626
+                ],
+                [
+                  153.308625,
+                  -28.106416
+                ],
+                [
+                  153.309315,
+                  -28.106918
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749651-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "82",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "1:04PM 21 Mar 2024",
+        "EST_FIX_TIME": "3:30PM 21 Mar 2024",
+        "STREETS": "ARKANA ST, GILWARD DR, GOLD COAST-SPRINGBROOK RD, HORSESHOE DR, JOHNS RD, LITTLE NERANG RD, PINETREE CT, RANGE RD, TYALGUM ST",
+        "SUBURBS": "MUDGEERABA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710990003.177331"
+  "extracted": "1710990301.098106"
 }
