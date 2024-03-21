@@ -56,9 +56,9 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is due to public safety concerns.",
-        "STATUS": "Work delayed. Crew unable to continue.",
+        "STATUS": "Crews working on-site",
         "START": "12:02PM 20 Mar 2024",
-        "EST_FIX_TIME": null,
+        "EST_FIX_TIME": "5:00PM 21 Mar 2024",
         "STREETS": "UNKNOWN ST",
         "SUBURBS": "MOUNT SURPRISE"
       }
@@ -221,6 +221,131 @@
           {
             "type": "Point",
             "coordinates": [
+              146.715917,
+              -19.2572
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.71108,
+                  -19.256033
+                ],
+                [
+                  146.711083,
+                  -19.257655
+                ],
+                [
+                  146.71109,
+                  -19.257728
+                ],
+                [
+                  146.711152,
+                  -19.258086
+                ],
+                [
+                  146.711288,
+                  -19.258335
+                ],
+                [
+                  146.714015,
+                  -19.260876
+                ],
+                [
+                  146.714047,
+                  -19.260903
+                ],
+                [
+                  146.717012,
+                  -19.263204
+                ],
+                [
+                  146.717764,
+                  -19.262998
+                ],
+                [
+                  146.719545,
+                  -19.257972
+                ],
+                [
+                  146.719562,
+                  -19.257909
+                ],
+                [
+                  146.720753,
+                  -19.25171
+                ],
+                [
+                  146.72015,
+                  -19.251195
+                ],
+                [
+                  146.714268,
+                  -19.25285
+                ],
+                [
+                  146.714146,
+                  -19.252903
+                ],
+                [
+                  146.712903,
+                  -19.253661
+                ],
+                [
+                  146.712862,
+                  -19.253689
+                ],
+                [
+                  146.712069,
+                  -19.254294
+                ],
+                [
+                  146.711966,
+                  -19.254402
+                ],
+                [
+                  146.711693,
+                  -19.254808
+                ],
+                [
+                  146.711672,
+                  -19.254843
+                ],
+                [
+                  146.711134,
+                  -19.255824
+                ],
+                [
+                  146.71108,
+                  -19.256033
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6486",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "51",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:09AM 21 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "COMMERCIAL AVE, ENTERPRISE ST, INDUSTRIAL AVE, INGHAM RD, INNOVATION AVE",
+        "SUBURBS": "BOHLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.631642,
               -25.16153
             ]
@@ -293,5 +418,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710979801.630809"
+  "extracted": "1710980102.083489"
 }
