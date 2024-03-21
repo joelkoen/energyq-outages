@@ -156,6 +156,91 @@
           {
             "type": "Point",
             "coordinates": [
+              143.340151,
+              -22.511677
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  143.039476,
+                  -22.513402
+                ],
+                [
+                  143.336218,
+                  -22.739475
+                ],
+                [
+                  143.336691,
+                  -22.73955
+                ],
+                [
+                  143.582787,
+                  -22.657109
+                ],
+                [
+                  143.5831,
+                  -22.656764
+                ],
+                [
+                  143.640826,
+                  -22.353457
+                ],
+                [
+                  143.640607,
+                  -22.352997
+                ],
+                [
+                  143.522877,
+                  -22.283832
+                ],
+                [
+                  143.522414,
+                  -22.283804
+                ],
+                [
+                  143.148724,
+                  -22.445031
+                ],
+                [
+                  143.148658,
+                  -22.445065
+                ],
+                [
+                  143.039515,
+                  -22.512678
+                ],
+                [
+                  143.039476,
+                  -22.513402
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6495",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "44",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "7:22AM 22 Mar 2024",
+        "EST_FIX_TIME": "12:00PM 22 Mar 2024",
+        "STREETS": "ALDINGHAM RD, APSLEY STATION, BLADENSBURG STATION, CHORREGON STATION, DAHLIA STATION, DINOSAUR DR, FAIRYMEAD STATION, KYWONG STATION, LESWALT STATION, LORRAINE STATION, MELROSE STATION, MOUNTAIN VIEW STATION, MT LANDSBOROUGH STATION, NEWLANDS STATION, TUCSON STATION, VINDEX STATION, WANDO STATION",
+        "SUBURBS": "LONGREACH, WINTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.245297,
               -26.399353
             ]
@@ -255,6 +340,79 @@
         "EST_FIX_TIME": null,
         "STREETS": "ALFRED ST, BURKE ST, EDWARD ST, GALATEA ST, WELL ST",
         "SUBURBS": "CHARLEVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.896103,
+              -27.930334
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.876969,
+                  -27.851145
+                ],
+                [
+                  146.899347,
+                  -27.995897
+                ],
+                [
+                  146.899482,
+                  -27.996147
+                ],
+                [
+                  146.914323,
+                  -28.009963
+                ],
+                [
+                  146.914971,
+                  -28.010028
+                ],
+                [
+                  146.915019,
+                  -28.01
+                ],
+                [
+                  146.915237,
+                  -28.009531
+                ],
+                [
+                  146.877969,
+                  -27.850992
+                ],
+                [
+                  146.877385,
+                  -27.850639
+                ],
+                [
+                  146.876969,
+                  -27.851145
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6649",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:57PM 21 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BALONNE HWY",
+        "SUBURBS": "BOLLON, CUNNAMULLA"
       }
     },
     {
@@ -571,5 +729,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711056000.511413"
+  "extracted": "1711056301.502441"
 }
