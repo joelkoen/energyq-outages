@@ -419,6 +419,75 @@
           {
             "type": "Point",
             "coordinates": [
+              151.906577,
+              -27.435856
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.903432,
+                  -27.435148
+                ],
+                [
+                  151.905572,
+                  -27.43863
+                ],
+                [
+                  151.9061,
+                  -27.438857
+                ],
+                [
+                  151.909385,
+                  -27.438353
+                ],
+                [
+                  151.909721,
+                  -27.437661
+                ],
+                [
+                  151.906211,
+                  -27.432921
+                ],
+                [
+                  151.905428,
+                  -27.432855
+                ],
+                [
+                  151.903513,
+                  -27.434618
+                ],
+                [
+                  151.903432,
+                  -27.435148
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6625",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "21",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "3:16PM 21 Mar 2024",
+        "EST_FIX_TIME": "6:00PM 21 Mar 2024",
+        "STREETS": "MERINGANDAN-SHIRLEY RD, PHIPPS DR",
+        "SUBURBS": "MERINGANDAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.367058,
               -24.878042
             ]
@@ -539,5 +608,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710998103.077268"
+  "extracted": "1710998400.602292"
 }
