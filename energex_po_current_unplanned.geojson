@@ -187,7 +187,7 @@
         "REASON": "Under Investigation",
         "STATUS": "Awaiting",
         "START": "3:28PM 21 Mar 2024",
-        "EST_FIX_TIME": "8:30PM 21 Mar 2024",
+        "EST_FIX_TIME": "9:30PM 21 Mar 2024",
         "STREETS": "BONNIE CT, CLANSMAN CT, GLENMORE DR, STIRLING CT, WINDEMERE DR",
         "SUBURBS": "BONOGIN"
       }
@@ -280,7 +280,7 @@
         "REASON": "Under Investigation",
         "STATUS": "Awaiting",
         "START": "4:05PM 21 Mar 2024",
-        "EST_FIX_TIME": "8:30PM 21 Mar 2024",
+        "EST_FIX_TIME": "9:30PM 21 Mar 2024",
         "STREETS": "TALLEBUDGERA CONNECTION RD",
         "SUBURBS": "TALLEBUDGERA"
       }
@@ -644,8 +644,81 @@
           {
             "type": "Point",
             "coordinates": [
+              152.894838,
+              -26.621384
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.892271,
+                  -26.61985
+                ],
+                [
+                  152.894911,
+                  -26.623419
+                ],
+                [
+                  152.895523,
+                  -26.623586
+                ],
+                [
+                  152.897137,
+                  -26.622979
+                ],
+                [
+                  152.897404,
+                  -26.622384
+                ],
+                [
+                  152.896578,
+                  -26.620657
+                ],
+                [
+                  152.896303,
+                  -26.620416
+                ],
+                [
+                  152.892876,
+                  -26.619181
+                ],
+                [
+                  152.892299,
+                  -26.619316
+                ],
+                [
+                  152.892271,
+                  -26.61985
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749812-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "4:57PM 21 Mar 2024",
+        "EST_FIX_TIME": "9:00PM 21 Mar 2024",
+        "STREETS": "NAMBOUR MAPLETON RD",
+        "SUBURBS": "KUREELPA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.143321,
-              -26.796194
+              -26.794769
             ]
           },
           {
@@ -661,44 +734,12 @@
                   -26.794321
                 ],
                 [
-                  153.137763,
-                  -26.794384
+                  153.137967,
+                  -26.794557
                 ],
                 [
-                  153.140362,
-                  -26.798364
-                ],
-                [
-                  153.140536,
-                  -26.798522
-                ],
-                [
-                  153.144224,
-                  -26.800526
-                ],
-                [
-                  153.144383,
-                  -26.800582
-                ],
-                [
-                  153.146693,
-                  -26.801009
-                ],
-                [
-                  153.146694,
-                  -26.80101
-                ],
-                [
-                  153.147277,
-                  -26.801117
-                ],
-                [
-                  153.147798,
-                  -26.800923
-                ],
-                [
-                  153.149056,
-                  -26.79921
+                  153.148406,
+                  -26.799363
                 ],
                 [
                   153.14913,
@@ -717,48 +758,60 @@
                   -26.793161
                 ],
                 [
-                  153.147429,
-                  -26.792854
+                  153.147568,
+                  -26.792915
                 ],
                 [
-                  153.146237,
-                  -26.792531
+                  153.144426,
+                  -26.790975
                 ],
                 [
-                  153.146203,
-                  -26.792523
+                  153.144414,
+                  -26.790968
                 ],
                 [
-                  153.140657,
-                  -26.791385
+                  153.14383,
+                  -26.790628
                 ],
                 [
-                  153.14062,
-                  -26.791379
+                  153.143707,
+                  -26.790576
                 ],
                 [
-                  153.140319,
-                  -26.791338
+                  153.142975,
+                  -26.790371
                 ],
                 [
-                  153.140119,
-                  -26.791311
+                  153.142922,
+                  -26.790359
                 ],
                 [
-                  153.140118,
-                  -26.791311
+                  153.141958,
+                  -26.790189
                 ],
                 [
-                  153.139844,
-                  -26.791275
+                  153.14192,
+                  -26.790184
                 ],
                 [
-                  153.139727,
-                  -26.791272
+                  153.141842,
+                  -26.790175
                 ],
                 [
-                  153.138974,
-                  -26.791331
+                  153.14164,
+                  -26.790191
+                ],
+                [
+                  153.140125,
+                  -26.790598
+                ],
+                [
+                  153.139989,
+                  -26.790655
+                ],
+                [
+                  153.138739,
+                  -26.791405
                 ],
                 [
                   153.138567,
@@ -780,17 +833,17 @@
       "properties": {
         "EVENT_ID": "INCD-749853-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "555",
+        "CUSTOMERS_AFFECTED": "428",
         "REASON": "Emergency Repairs",
         "STATUS": "Awaiting",
         "START": "7:13PM 21 Mar 2024",
         "EST_FIX_TIME": "9:30PM 21 Mar 2024",
-        "STREETS": "ACACIA AVE, ALBERT ST, ALFRED ST, BANKSIA ST, BARR AVE, BEACHSIDE CT, CAMPBELL ST, CARLTON AVE, DERBY RD, EDMUND ST, GLADSTONE PDE, GRIGOR ST, HEADLANDS CT, KING ST, MARKET PL, MARLUA AVE, OCEAN CT, OLEANDER AVE, QUEEN ST, ROSE ST, RUSSELL ST, SEAVIEW TCE, SHELLY PARK, SIMPSON ST, STEWART WAY, VICTORIA TCE, WELLINGTON PDE, WILLIAM ST",
-        "SUBURBS": "KINGS BEACH, MOFFAT BEACH, SHELLY BEACH"
+        "STREETS": "ALBERT ST, BEACHSIDE CT, BENNETT ST, CAMPBELL ST, CARLTON AVE, DERBY RD, EDMUND ST, GLADSTONE PDE, GRIGOR ST, MARKET PL, MOFFAT ST, NOTHLING ST, OCEAN CT, OLEANDER AVE, RINALDI ST, RODERICK ST, ROSE ST, RUSSELL ST, SEAVIEW TCE, SHELLY PARK, SIMPSON ST, STEWART WAY, VICTORIA TCE, WELLINGTON PDE, WILLIAM ST, WINDSOR AVE",
+        "SUBURBS": "MOFFAT BEACH, SHELLY BEACH"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711014001.585287"
+  "extracted": "1711014303.709247"
 }
