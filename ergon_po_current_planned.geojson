@@ -490,6 +490,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.249297,
+          -20.010862
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5205",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "1:29PM 21 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 21 Mar 2024",
+        "STREETS": "POWELL ST",
+        "SUBURBS": "BOWEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.241749,
           -20.005713
         ]
@@ -546,27 +567,6 @@
         "EST_FIX_TIME": "3:00PM 21 Mar 2024",
         "STREETS": "BLACK BRAES CT, CRAIGLEA ST, DONCASTER WAY, GAINSFORD PL, LORNSLEIGH ST, SAXBY CRES",
         "SUBURBS": "MOUNT LOUISA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.492312,
-          -20.741922
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5353",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "13",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Crews working on-site",
-        "START": "8:00AM 21 Mar 2024",
-        "EST_FIX_TIME": "3:04PM 21 Mar 2024",
-        "STREETS": "VIOLET ST, YALAMBEE RES",
-        "SUBURBS": "HEALY, MOUNT ISA"
       }
     },
     {
@@ -908,5 +908,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710991500.627289"
+  "extracted": "1710991804.829678"
 }
