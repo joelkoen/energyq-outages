@@ -391,7 +391,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "309",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "2:30PM 21 Mar 2024",
         "EST_FIX_TIME": null,
         "STREETS": "ANGUS GULLY RD, BANABILLA RD, BLOODWOOD RD, BLOOMFIELD CL, BLOOMFIELD COOKTOWN RD, BLOOMFIELD RD, BLOOMFIELD RIVER RD, BLOOMFIELD RVR, BROADWAY ST, BYERS CREEK RD, CAPE TRIBULATION BLOOMFIELD RD, CAPE TRIBULATION RD, CAPTAIN ST, CEDAR RD, CHINA CAMP RD, COLLINGWOOD RD, CREB TRK, DOUGLAS ST, DOWLING RD, EAST ST, EVERGREEN RD, FLORENCE ST, HARTWIG ST, HELENVALE RD, HEORLEIN ST, HOMERULE RD, HONEYFLOW DR, KLEIN ST, KOTZUR ST, LITTLE DOUGLAS ST, LOUIS ST, LOUISE CL, MUNGUMBY RD, PASCOE ST, RIVER RD, ROSSVILLE BLOOMFIELD RD, ROSSVILLE RD, SECOND ST, SHIPTONS FLAT RD, THIRD ST, UNKNOWN ST, WALLABY CREEK, WEARY BAY ESP, WEARY BAY RD, WEARY CREEK RD, WEST ST, YALANJI CL",
@@ -465,123 +465,6 @@
         "EST_FIX_TIME": "12:00PM 22 Mar 2024",
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.620543,
-              -27.584756
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.468244,
-                  -27.619571
-                ],
-                [
-                  151.471393,
-                  -27.652503
-                ],
-                [
-                  151.471506,
-                  -27.65275
-                ],
-                [
-                  151.506469,
-                  -27.690809
-                ],
-                [
-                  151.507066,
-                  -27.690935
-                ],
-                [
-                  151.730081,
-                  -27.602332
-                ],
-                [
-                  151.730147,
-                  -27.6023
-                ],
-                [
-                  151.756766,
-                  -27.587058
-                ],
-                [
-                  151.756964,
-                  -27.586843
-                ],
-                [
-                  151.772842,
-                  -27.550489
-                ],
-                [
-                  151.772815,
-                  -27.550111
-                ],
-                [
-                  151.771303,
-                  -27.547626
-                ],
-                [
-                  151.771148,
-                  -27.547471
-                ],
-                [
-                  151.686722,
-                  -27.494772
-                ],
-                [
-                  151.686632,
-                  -27.494727
-                ],
-                [
-                  151.644522,
-                  -27.478577
-                ],
-                [
-                  151.643991,
-                  -27.478651
-                ],
-                [
-                  151.632365,
-                  -27.487641
-                ],
-                [
-                  151.632358,
-                  -27.487647
-                ],
-                [
-                  151.46841,
-                  -27.619198
-                ],
-                [
-                  151.468244,
-                  -27.619571
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW6610",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "488",
-        "REASON": "The loss of supply is due to fallen power lines.  ",
-        "STATUS": "Outage reported",
-        "START": "1:19PM 21 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "ARMITAGE RD, AUBIGNY CHURCH RD, AUBIGNY-CROSSHILL RD, BANYARD RD, BARRON RD, BEAUARABA RD, BERGHOFER RD, BIDDESTON LINTHORPE RD, BIDDESTON SOUTHBROOK RD, CECIL PLAINS RD, CIESIOLKA RD, CLARK RD, CLARKE RD, COCKBURN RD, CRIGHTON RD, CRONIN RD, CROSSHILL-AUBIGNY RD, CROXLEY RD, EHRLICH RD, EVANSLEA RD, EVANSLEA-IRONGATE RD, F DREWS RD, GARTHE RD, GEITZEL RD, GROSE RD, GRUHLS RD, HARTH LANE, HIBBERT RD, HOGG RD, ILLING RD, IRONGATE RD, JACOB LANE, JOHN ST, JONDARYAN MOUNT TYSON RD, KENNEDY RD, KNUST RD, KOLBERGS RD, MAIN ST, MATHIES RD, MCCORMACK RD, MCGRATH RD, MCKEWIN RD, MONDAM RD, MONDAM-MT TYSON RD, MORAN RD, MOTLEY MOUNT TYSON RD, MOUNT TYSON RD, MT TYSON-PITTSWORTH RD, MURPHY RD, NIELSON RD, O'BRIEN RD, O'SHEA RD, OAKEY BIDDESTON RD, OAKEY CROSSHILL RD, OAKEY PITTSWORTH RD, OAKEY-PITTSWORTH RD, PETERSEN RD, REEN RD, ROBERTS RD, ROSSVALE RD E, ROSSVALE RD W, RUHLE RD, RYAN RD, SIDE ST, SOUTH ST, SOUTHBROOK-BIDDESTON RD, STONEHOUSE RD, TOOWOOMBA CECIL PLAINS RD, VON PINES RD, WALLINGFORD RD, WALSH RD, WILLIAM ST, WOODVIEW SCHOOL RD, YARRANLEA RD",
-        "SUBURBS": "ATHOL, AUBIGNY, BIDDESTON, IRONGATE, LINTHORPE, MOTLEY, MOUNT TYSON, PITTSWORTH, PURRAWUNDA, ROSSVALE, SPRINGSIDE, ST HELENS, YARGULLEN"
       }
     },
     {
@@ -850,5 +733,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1710996600.471772"
+  "extracted": "1710996901.198967"
 }
