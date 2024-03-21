@@ -87,6 +87,67 @@
           {
             "type": "Point",
             "coordinates": [
+              145.42057,
+              -16.488327
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.416887,
+                  -16.48911
+                ],
+                [
+                  145.423541,
+                  -16.49413
+                ],
+                [
+                  145.424297,
+                  -16.493751
+                ],
+                [
+                  145.423711,
+                  -16.482819
+                ],
+                [
+                  145.42291,
+                  -16.482524
+                ],
+                [
+                  145.416843,
+                  -16.488436
+                ],
+                [
+                  145.416887,
+                  -16.48911
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4358",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:07AM 22 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CAPTAIN COOK HWY, UNKNOWN ST",
+        "SUBURBS": "KILLALOE, MOSSMAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -571,5 +632,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711055400.398037"
+  "extracted": "1711055703.342797"
 }
