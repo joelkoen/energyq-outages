@@ -725,9 +725,62 @@
         "STREETS": "DIAMOND HILL RD",
         "SUBURBS": "ROSEDALE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.856313,
+              -26.592809
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.856813,
+                  -26.592792
+                ],
+                [
+                  151.856294,
+                  -26.592359
+                ],
+                [
+                  151.855812,
+                  -26.592826
+                ],
+                [
+                  151.856332,
+                  -26.593259
+                ],
+                [
+                  151.856813,
+                  -26.592792
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4359",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:25AM 22 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "COOLABUNIA-TAABINGA RD",
+        "SUBURBS": "COOLABUNIA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711058100.657111"
+  "extracted": "1711058401.391653"
 }
