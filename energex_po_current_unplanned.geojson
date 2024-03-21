@@ -595,9 +595,118 @@
         "STREETS": "ADVANCE CT, ASPEN CT, AUSTRALIA II DR, BENTLEY DR, BERTRAND AVE, BOND CT, CHALLENGE AVE, CRICKET RD, EILEEN CT, KINGFISHER CT, LEXCEN CT, SANDPIPER DR, THALLON RD",
         "SUBURBS": "BRIGHTVIEW, HATTON VALE, KENSINGTON GROVE, REGENCY DOWNS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.050896,
+              -27.409146
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.048786,
+                  -27.409299
+                ],
+                [
+                  153.049039,
+                  -27.409884
+                ],
+                [
+                  153.049248,
+                  -27.410108
+                ],
+                [
+                  153.050949,
+                  -27.411032
+                ],
+                [
+                  153.051606,
+                  -27.410929
+                ],
+                [
+                  153.052091,
+                  -27.410391
+                ],
+                [
+                  153.052134,
+                  -27.410335
+                ],
+                [
+                  153.052937,
+                  -27.4091
+                ],
+                [
+                  153.053006,
+                  -27.40886
+                ],
+                [
+                  153.052982,
+                  -27.408084
+                ],
+                [
+                  153.052762,
+                  -27.407724
+                ],
+                [
+                  153.052464,
+                  -27.407542
+                ],
+                [
+                  153.052346,
+                  -27.407488
+                ],
+                [
+                  153.051618,
+                  -27.40726
+                ],
+                [
+                  153.051232,
+                  -27.407279
+                ],
+                [
+                  153.049467,
+                  -27.408035
+                ],
+                [
+                  153.049242,
+                  -27.408225
+                ],
+                [
+                  153.048815,
+                  -27.40892
+                ],
+                [
+                  153.048786,
+                  -27.409299
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749869-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "80",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "10:52PM 21 Mar 2024",
+        "EST_FIX_TIME": "12:30AM 22 Mar 2024",
+        "STREETS": "BERTHA ST, EMMA ST, HENRY ST, KALINGA ST, LODGE RD, MCGREGOR ST, NELSON ST, PARK AVE",
+        "SUBURBS": "CLAYFIELD, KALINGA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711025701.486145"
+  "extracted": "1711026003.123965"
 }
