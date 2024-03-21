@@ -196,6 +196,115 @@
           {
             "type": "Point",
             "coordinates": [
+              148.474405,
+              -20.56057
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.343734,
+                  -20.504071
+                ],
+                [
+                  148.41381,
+                  -20.617511
+                ],
+                [
+                  148.414247,
+                  -20.617735
+                ],
+                [
+                  148.592489,
+                  -20.609973
+                ],
+                [
+                  148.59265,
+                  -20.609939
+                ],
+                [
+                  148.603053,
+                  -20.605903
+                ],
+                [
+                  148.603349,
+                  -20.605503
+                ],
+                [
+                  148.605057,
+                  -20.566171
+                ],
+                [
+                  148.605057,
+                  -20.566161
+                ],
+                [
+                  148.605076,
+                  -20.565148
+                ],
+                [
+                  148.605024,
+                  -20.564934
+                ],
+                [
+                  148.604178,
+                  -20.56338
+                ],
+                [
+                  148.603924,
+                  -20.563165
+                ],
+                [
+                  148.603668,
+                  -20.563072
+                ],
+                [
+                  148.603641,
+                  -20.563063
+                ],
+                [
+                  148.559624,
+                  -20.549855
+                ],
+                [
+                  148.559585,
+                  -20.549845
+                ],
+                [
+                  148.344256,
+                  -20.503404
+                ],
+                [
+                  148.343734,
+                  -20.504071
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3041",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "77",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:44AM 22 Mar 2024",
+        "EST_FIX_TIME": "1:00PM 22 Mar 2024",
+        "STREETS": "BRUCE HWY, CAPING RD, GUNYARRA RD, HOLCOMBE RD, MALONEY RD, STATION RD, THOOPARA RD",
+        "SUBURBS": "ANDROMACHE, BLOOMSBURY, CRYSTAL BROOK, THOOPARA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.269043,
               -27.236033
             ]
@@ -714,5 +823,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711064401.296682"
+  "extracted": "1711064703.80849"
 }
