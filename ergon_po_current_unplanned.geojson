@@ -232,6 +232,91 @@
           {
             "type": "Point",
             "coordinates": [
+              146.002264,
+              -17.809519
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.000902,
+                  -17.810494
+                ],
+                [
+                  146.001568,
+                  -17.81067
+                ],
+                [
+                  146.0016,
+                  -17.810678
+                ],
+                [
+                  146.002521,
+                  -17.810857
+                ],
+                [
+                  146.002633,
+                  -17.810866
+                ],
+                [
+                  146.003483,
+                  -17.810836
+                ],
+                [
+                  146.00388,
+                  -17.810169
+                ],
+                [
+                  146.002971,
+                  -17.80856
+                ],
+                [
+                  146.002794,
+                  -17.808385
+                ],
+                [
+                  146.002413,
+                  -17.808171
+                ],
+                [
+                  146.001794,
+                  -17.808294
+                ],
+                [
+                  146.000648,
+                  -17.809791
+                ],
+                [
+                  146.000902,
+                  -17.810494
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4352",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+        "STATUS": "Outage reported",
+        "START": "5:33PM 21 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CHAUVEL ST, GOLF COURSE ST, MONASH ST",
+        "SUBURBS": "EL ARISH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -360,75 +445,6 @@
         "EST_FIX_TIME": null,
         "STREETS": "INGLEWOOD RD, INVERARY RD, TEXAS RD",
         "SUBURBS": "PIKEDALE, PIKES CREEK"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.906577,
-              -27.435856
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.903432,
-                  -27.435148
-                ],
-                [
-                  151.905572,
-                  -27.43863
-                ],
-                [
-                  151.9061,
-                  -27.438857
-                ],
-                [
-                  151.909385,
-                  -27.438353
-                ],
-                [
-                  151.909721,
-                  -27.437661
-                ],
-                [
-                  151.906211,
-                  -27.432921
-                ],
-                [
-                  151.905428,
-                  -27.432855
-                ],
-                [
-                  151.903513,
-                  -27.434618
-                ],
-                [
-                  151.903432,
-                  -27.435148
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW6625",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "21",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "3:16PM 21 Mar 2024",
-        "EST_FIX_TIME": "6:00PM 21 Mar 2024",
-        "STREETS": "MERINGANDAN-SHIRLEY RD, PHIPPS DR",
-        "SUBURBS": "MERINGANDAN"
       }
     },
     {
@@ -692,5 +708,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711007103.397903"
+  "extracted": "1711007401.624133"
 }
