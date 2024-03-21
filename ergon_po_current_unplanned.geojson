@@ -261,6 +261,99 @@
           {
             "type": "Point",
             "coordinates": [
+              150.918375,
+              -26.930513
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.915058,
+                  -26.9333
+                ],
+                [
+                  150.918308,
+                  -26.932929
+                ],
+                [
+                  150.918353,
+                  -26.932922
+                ],
+                [
+                  150.921383,
+                  -26.932325
+                ],
+                [
+                  150.921654,
+                  -26.932181
+                ],
+                [
+                  150.922207,
+                  -26.931612
+                ],
+                [
+                  150.922257,
+                  -26.93108
+                ],
+                [
+                  150.92021,
+                  -26.928089
+                ],
+                [
+                  150.919852,
+                  -26.927878
+                ],
+                [
+                  150.918645,
+                  -26.927725
+                ],
+                [
+                  150.918193,
+                  -26.927877
+                ],
+                [
+                  150.914712,
+                  -26.931497
+                ],
+                [
+                  150.914591,
+                  -26.931754
+                ],
+                [
+                  150.914494,
+                  -26.932816
+                ],
+                [
+                  150.915058,
+                  -26.9333
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6661",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "38",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:25AM 22 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRYANT ST, KOGAN RD, LYTTON ST, ROBINSON ST, THORN ST, WARREGO HWY",
+        "SUBURBS": "WARRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.875717,
               -24.679608
             ]
@@ -370,5 +463,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711061401.207136"
+  "extracted": "1711061701.044077"
 }
