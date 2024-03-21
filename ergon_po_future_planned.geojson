@@ -877,7 +877,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "9",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 22 Mar 2024",
         "EST_FIX_TIME": "2:30PM 22 Mar 2024",
         "STREETS": "JOHN ST, LAW ST, SMITH ST",
@@ -1575,6 +1575,27 @@
         "EST_FIX_TIME": "5:00PM 26 Mar 2024",
         "STREETS": "EVAN ST",
         "SUBURBS": "SOUTH MACKAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.573383,
+          -20.30051
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2850",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to remove vegetation growing near powerlines",
+        "STATUS": "Crews working on-site",
+        "START": "8:22AM 22 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 22 Mar 2024",
+        "STREETS": "GREGORY CANNON VALLEY RD",
+        "SUBURBS": "GREGORY RIVER"
       }
     },
     {
@@ -3103,7 +3124,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "35",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 22 Mar 2024",
         "EST_FIX_TIME": "3:00PM 22 Mar 2024",
         "STREETS": "CECIL PLAINS RD, HUF RD, HUFF RD, LOCKWOOD RD, MILLMERRAN CECIL PLAINS RD, MILLMERRAN-CECIL PLAINS RD, OLD CECIL PLAINS RD, PAMPAS-HORRANE RD, WILKINS RD",
@@ -3608,7 +3629,7 @@
         "CUSTOMERS_AFFECTED": "47",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
         "STATUS": "Crews working on-site",
-        "START": "8:00AM 22 Mar 2024",
+        "START": "8:19AM 22 Mar 2024",
         "EST_FIX_TIME": "1:30PM 22 Mar 2024",
         "STREETS": "BACK ELECTRA RD, CURCHINS RD, HAIRS RD, MCEVOYS RD, PINE CREEK RD, RIVER RD, SNAKE CREEK RD, TWYFORDS-ASMUS RD",
         "SUBURBS": "BUNGADOO, ELECTRA"
@@ -4037,5 +4058,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1711059601.524745"
+  "extracted": "1711059900.55235"
 }
