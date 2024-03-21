@@ -196,6 +196,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.362135,
+          -23.999381
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA0677",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "30",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:49AM 22 Mar 2024",
+        "EST_FIX_TIME": "12:30PM 22 Mar 2024",
+        "STREETS": "ARCTURUS RD, KILMORE RD, SPRINGTON RD, UNKNOWN ST",
+        "SUBURBS": "SPRINGSURE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.256519,
           -23.843412
         ]
@@ -2578,7 +2599,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "12",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 22 Mar 2024",
         "EST_FIX_TIME": "1:00PM 22 Mar 2024",
         "STREETS": "CASTLEVIEW STATION, DESALIS STATION, GLEN ROCK STATION, STRATHALBYN RD, TONDARA RD",
@@ -3418,7 +3439,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "47",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 22 Mar 2024",
         "EST_FIX_TIME": "2:00PM 22 Mar 2024",
         "STREETS": "BRUCE HWY, BUTCHERS RD, COOKS RD, GELSOMINOS RD, JUNCTION MOUNTAIN RD, SMITHFIELD RD",
@@ -3570,27 +3591,6 @@
         "EST_FIX_TIME": "2:00PM 24 Mar 2024",
         "STREETS": "WEST WOOROOLIN RD",
         "SUBURBS": "WOOROOLIN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.980272,
-          -25.393876
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB3835",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "70",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
-        "START": "9:00AM 22 Mar 2024",
-        "EST_FIX_TIME": "3:00PM 22 Mar 2024",
-        "STREETS": "BIGGENDEN-GOOROOLBA RD, CORINGA HILLS RD, CORINGA RD, CURTIS RUSSELLS RD, DELLEYS RD, EMU CREEK RD, GRILLS RD, JUMP UP RD, KUKAR RD, LONGATONG RD, MOUNT SHAMROCK RD, NORTH DALLARNIL RD, NULLA CREEK RD, PARADISE DAM RD, PEARCES RD, RIVER RD, STEVENS RD",
-        "SUBURBS": "BIGGENDEN, CORINGA, DALLARNIL, DEGILBO"
       }
     },
     {
@@ -3932,5 +3932,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1711061701.044077"
+  "extracted": "1711062300.96926"
 }
