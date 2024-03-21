@@ -10,6 +10,115 @@
           {
             "type": "Point",
             "coordinates": [
+              148.360081,
+              -23.435987
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.266808,
+                  -23.418767
+                ],
+                [
+                  148.328236,
+                  -23.504424
+                ],
+                [
+                  148.328434,
+                  -23.504583
+                ],
+                [
+                  148.388554,
+                  -23.530857
+                ],
+                [
+                  148.388984,
+                  -23.530852
+                ],
+                [
+                  148.448786,
+                  -23.50295
+                ],
+                [
+                  148.449054,
+                  -23.502573
+                ],
+                [
+                  148.453354,
+                  -23.434654
+                ],
+                [
+                  148.453346,
+                  -23.43454
+                ],
+                [
+                  148.449507,
+                  -23.416517
+                ],
+                [
+                  148.449507,
+                  -23.416514
+                ],
+                [
+                  148.436321,
+                  -23.35682
+                ],
+                [
+                  148.436283,
+                  -23.356716
+                ],
+                [
+                  148.428351,
+                  -23.341358
+                ],
+                [
+                  148.427781,
+                  -23.341116
+                ],
+                [
+                  148.376254,
+                  -23.35403
+                ],
+                [
+                  148.37612,
+                  -23.354085
+                ],
+                [
+                  148.266954,
+                  -23.418137
+                ],
+                [
+                  148.266808,
+                  -23.418767
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4767",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "55",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:11AM 22 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BAUHINIA RD, BAUHINIAS RD, FOLEY RD, FOREST HILL RD, FRANCIS ACCESS RD, LOCHARBOR RD, LOCHLEES RD, OFF FOLEY RD, OLD LOCHLEES RD, WYUNA RD",
+        "SUBURBS": "EMERALD, WYUNA, YAMALA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -143,5 +252,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711040701.492122"
+  "extracted": "1711041302.694611"
 }
