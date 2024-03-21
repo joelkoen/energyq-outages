@@ -515,6 +515,91 @@
           {
             "type": "Point",
             "coordinates": [
+              153.277268,
+              -27.536613
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.275479,
+                  -27.536784
+                ],
+                [
+                  153.276454,
+                  -27.537426
+                ],
+                [
+                  153.276501,
+                  -27.537454
+                ],
+                [
+                  153.278503,
+                  -27.538486
+                ],
+                [
+                  153.279263,
+                  -27.538083
+                ],
+                [
+                  153.2792,
+                  -27.536068
+                ],
+                [
+                  153.278877,
+                  -27.53566
+                ],
+                [
+                  153.276228,
+                  -27.53474
+                ],
+                [
+                  153.275684,
+                  -27.534844
+                ],
+                [
+                  153.275494,
+                  -27.535015
+                ],
+                [
+                  153.275348,
+                  -27.535305
+                ],
+                [
+                  153.275274,
+                  -27.536394
+                ],
+                [
+                  153.275479,
+                  -27.536784
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749717-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "54",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "3:08PM 21 Mar 2024",
+        "EST_FIX_TIME": "6:00PM 21 Mar 2024",
+        "STREETS": "CHANNEL ST S, LONG ST, PASSAGE ST",
+        "SUBURBS": "CLEVELAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.788635,
               -26.747573
             ]
@@ -905,9 +990,142 @@
         "STREETS": "AZALEA ST, CONNORS KNOB RD, DAYMAR RD, DELICIA RD, EMU WALK, ESMAUREL CL, FALLS CREEK RD, FLAXTON DR, INALLS RD, JOHNSON RD, KARRI CT, MAPLETON FALLS RD, MAPLETON FOREST RD, MCLEOD RD, MEADOWOOD RISE, OBI OBI RD, PENCIL CREEK RD, PERIVALE CT, POST OFFICE RD, SHAY LANE, SOMMER RD, SUSES POCKET RD, THE PARKWAY PL, WANDOO CT",
         "SUBURBS": "MAPLETON, OBI OBI"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.037405,
+              -27.627663
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.03508,
+                  -27.627222
+                ],
+                [
+                  153.036125,
+                  -27.628757
+                ],
+                [
+                  153.036451,
+                  -27.628964
+                ],
+                [
+                  153.037444,
+                  -27.629156
+                ],
+                [
+                  153.037458,
+                  -27.629159
+                ],
+                [
+                  153.038801,
+                  -27.629385
+                ],
+                [
+                  153.039143,
+                  -27.629334
+                ],
+                [
+                  153.039219,
+                  -27.629296
+                ],
+                [
+                  153.039435,
+                  -27.629084
+                ],
+                [
+                  153.039755,
+                  -27.628434
+                ],
+                [
+                  153.039797,
+                  -27.628229
+                ],
+                [
+                  153.039784,
+                  -27.627997
+                ],
+                [
+                  153.039706,
+                  -27.627778
+                ],
+                [
+                  153.039315,
+                  -27.627231
+                ],
+                [
+                  153.039148,
+                  -27.627086
+                ],
+                [
+                  153.03768,
+                  -27.626301
+                ],
+                [
+                  153.037522,
+                  -27.626246
+                ],
+                [
+                  153.03736,
+                  -27.626216
+                ],
+                [
+                  153.037357,
+                  -27.626216
+                ],
+                [
+                  153.03582,
+                  -27.625942
+                ],
+                [
+                  153.035311,
+                  -27.626119
+                ],
+                [
+                  153.035184,
+                  -27.626274
+                ],
+                [
+                  153.035093,
+                  -27.626468
+                ],
+                [
+                  153.035013,
+                  -27.626917
+                ],
+                [
+                  153.03508,
+                  -27.627222
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749780-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "133",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "3:44PM 21 Mar 2024",
+        "EST_FIX_TIME": "7:30PM 21 Mar 2024",
+        "STREETS": "ASTER PL, HIGHGROVE ST, LAMBERT DR, MENSER ST",
+        "SUBURBS": "CALAMVALE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711001401.201921"
+  "extracted": "1711001703.527567"
 }

@@ -10,6 +10,103 @@
           {
             "type": "Point",
             "coordinates": [
+              145.874989,
+              -16.929403
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.871046,
+                  -16.926955
+                ],
+                [
+                  145.871837,
+                  -16.927795
+                ],
+                [
+                  145.871852,
+                  -16.927811
+                ],
+                [
+                  145.878239,
+                  -16.933961
+                ],
+                [
+                  145.878845,
+                  -16.934009
+                ],
+                [
+                  145.878991,
+                  -16.933441
+                ],
+                [
+                  145.874668,
+                  -16.925078
+                ],
+                [
+                  145.874274,
+                  -16.924828
+                ],
+                [
+                  145.873683,
+                  -16.924797
+                ],
+                [
+                  145.873512,
+                  -16.924818
+                ],
+                [
+                  145.871822,
+                  -16.925349
+                ],
+                [
+                  145.871581,
+                  -16.925521
+                ],
+                [
+                  145.871266,
+                  -16.925959
+                ],
+                [
+                  145.871245,
+                  -16.925993
+                ],
+                [
+                  145.870986,
+                  -16.926428
+                ],
+                [
+                  145.871046,
+                  -16.926955
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3781",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "58",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "6:16PM 05 Mar 2024",
+        "EST_FIX_TIME": "12:07AM 06 Mar 2024",
+        "STREETS": "BACK BEACH RD, CONNOLLY CL, DABAH CL, G CL, HYDE ST, MAJOR CL, STONEWIG CL, WALKER CL",
+        "SUBURBS": "YARRABAH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               144.576668,
               -18.198678
             ]
@@ -527,5 +624,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711001401.226864"
+  "extracted": "1711001701.624128"
 }
