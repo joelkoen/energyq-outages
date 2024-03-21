@@ -111,79 +111,6 @@
           {
             "type": "Point",
             "coordinates": [
-              152.443349,
-              -27.248296
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.44024,
-                  -27.248202
-                ],
-                [
-                  152.443684,
-                  -27.249116
-                ],
-                [
-                  152.443796,
-                  -27.249134
-                ],
-                [
-                  152.446357,
-                  -27.249275
-                ],
-                [
-                  152.446812,
-                  -27.24858
-                ],
-                [
-                  152.44617,
-                  -27.24769
-                ],
-                [
-                  152.445763,
-                  -27.247483
-                ],
-                [
-                  152.440401,
-                  -27.247318
-                ],
-                [
-                  152.439885,
-                  -27.247696
-                ],
-                [
-                  152.44024,
-                  -27.248202
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-749546-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "5",
-        "REASON": "Under Investigation",
-        "STATUS": "In Progress",
-        "START": "10:04AM 21 Mar 2024",
-        "EST_FIX_TIME": "5:00PM 21 Mar 2024",
-        "STREETS": "BRISBANE VALLEY HWY, CHAILLE RD",
-        "SUBURBS": "ESK, GLEN ESK"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               152.279651,
               -27.510883
             ]
@@ -822,9 +749,150 @@
         "STREETS": "ROSS ST",
         "SUBURBS": "COOCHIEMUDLO ISLAND"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.775858,
+              -26.719517
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.734321,
+                  -26.690539
+                ],
+                [
+                  152.752351,
+                  -26.735814
+                ],
+                [
+                  152.752388,
+                  -26.735886
+                ],
+                [
+                  152.759887,
+                  -26.747641
+                ],
+                [
+                  152.759957,
+                  -26.747726
+                ],
+                [
+                  152.770912,
+                  -26.758199
+                ],
+                [
+                  152.771217,
+                  -26.758338
+                ],
+                [
+                  152.802769,
+                  -26.761812
+                ],
+                [
+                  152.802924,
+                  -26.761808
+                ],
+                [
+                  152.817064,
+                  -26.759394
+                ],
+                [
+                  152.817424,
+                  -26.758757
+                ],
+                [
+                  152.778299,
+                  -26.684876
+                ],
+                [
+                  152.778243,
+                  -26.684795
+                ],
+                [
+                  152.777901,
+                  -26.684395
+                ],
+                [
+                  152.777682,
+                  -26.684248
+                ],
+                [
+                  152.75724,
+                  -26.677246
+                ],
+                [
+                  152.756991,
+                  -26.677221
+                ],
+                [
+                  152.742349,
+                  -26.679069
+                ],
+                [
+                  152.74206,
+                  -26.679199
+                ],
+                [
+                  152.736736,
+                  -26.684065
+                ],
+                [
+                  152.736632,
+                  -26.684203
+                ],
+                [
+                  152.735084,
+                  -26.687442
+                ],
+                [
+                  152.735057,
+                  -26.687513
+                ],
+                [
+                  152.734306,
+                  -26.69028
+                ],
+                [
+                  152.734291,
+                  -26.690386
+                ],
+                [
+                  152.734291,
+                  -26.690386
+                ],
+                [
+                  152.734321,
+                  -26.690539
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749718-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "218",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "3:09PM 21 Mar 2024",
+        "EST_FIX_TIME": "5:30PM 21 Mar 2024",
+        "STREETS": "CORKS POCKET RD, CUMNER LANE, CURRAMORE RD, EKERT RD, ELAMAN CREEK RD, FLESSER RD, GRANITE LANE, HUMPHRIES RD, KELS LANE, MALENY-KENILWORTH RD, MEADOW RD, OXENHAM LANE, REESVILLE RD, RIDLEY RD, THOMPSON RD, THORNE RD, UPPER CEDAR CREEK RD, WATSON LANE",
+        "SUBURBS": "CONONDALE, CURRAMORE, ELAMAN CREEK, KIDAMAN CREEK, REESVILLE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710997500.605682"
+  "extracted": "1710997801.116893"
 }
