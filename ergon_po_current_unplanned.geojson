@@ -79,6 +79,79 @@
           {
             "type": "Point",
             "coordinates": [
+              149.245723,
+              -21.449585
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.239947,
+                  -21.447373
+                ],
+                [
+                  149.246629,
+                  -21.459162
+                ],
+                [
+                  149.24726,
+                  -21.459359
+                ],
+                [
+                  149.251288,
+                  -21.457581
+                ],
+                [
+                  149.251524,
+                  -21.456991
+                ],
+                [
+                  149.243591,
+                  -21.44008
+                ],
+                [
+                  149.243137,
+                  -21.439811
+                ],
+                [
+                  149.242698,
+                  -21.440103
+                ],
+                [
+                  149.239922,
+                  -21.447002
+                ],
+                [
+                  149.239947,
+                  -21.447373
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3037",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "11:53PM 21 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "GURNETT RD",
+        "SUBURBS": "SARINA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.594186,
               -28.63341
             ]
@@ -143,5 +216,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711032901.899329"
+  "extracted": "1711033204.539581"
 }
