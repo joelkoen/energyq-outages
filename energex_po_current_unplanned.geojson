@@ -276,9 +276,74 @@
         "STREETS": "BRISBANE VALLEY HWY, CHAILLE RD, FALLS RD, GREGOR RD, IPSWICH ST",
         "SUBURBS": "ESK, GLEN ESK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.537725,
+              -27.654433
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.536463,
+                  -27.655357
+                ],
+                [
+                  152.539456,
+                  -27.654642
+                ],
+                [
+                  152.539597,
+                  -27.653825
+                ],
+                [
+                  152.53909,
+                  -27.653539
+                ],
+                [
+                  152.53861,
+                  -27.653509
+                ],
+                [
+                  152.536123,
+                  -27.65451
+                ],
+                [
+                  152.535854,
+                  -27.655073
+                ],
+                [
+                  152.536463,
+                  -27.655357
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749559-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "10:28AM 21 Mar 2024",
+        "EST_FIX_TIME": "1:00PM 21 Mar 2024",
+        "STREETS": "BUNNEY RD, ROSEWOOD LAIDLEY RD",
+        "SUBURBS": "CALVERT"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1710980700.304372"
+  "extracted": "1710981003.996632"
 }
