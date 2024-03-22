@@ -66,7 +66,7 @@
         "REASON": "Under Investigation",
         "STATUS": "In Progress",
         "START": "8:18AM 22 Mar 2024",
-        "EST_FIX_TIME": "2:00PM 22 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 22 Mar 2024",
         "STREETS": "ENSBEY RD",
         "SUBURBS": "FLAXTON"
       }
@@ -195,9 +195,110 @@
         "STREETS": "MCANALLY DR, SEAVIEW TCE",
         "SUBURBS": "SUNSHINE BEACH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.053072,
+              -26.665645
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.050294,
+                  -26.665773
+                ],
+                [
+                  153.051386,
+                  -26.667068
+                ],
+                [
+                  153.051455,
+                  -26.667135
+                ],
+                [
+                  153.052057,
+                  -26.66761
+                ],
+                [
+                  153.052447,
+                  -26.667719
+                ],
+                [
+                  153.053522,
+                  -26.667606
+                ],
+                [
+                  153.053566,
+                  -26.6676
+                ],
+                [
+                  153.055573,
+                  -26.667225
+                ],
+                [
+                  153.055924,
+                  -26.666589
+                ],
+                [
+                  153.055796,
+                  -26.666348
+                ],
+                [
+                  153.055681,
+                  -26.666209
+                ],
+                [
+                  153.052587,
+                  -26.663678
+                ],
+                [
+                  153.05214,
+                  -26.663571
+                ],
+                [
+                  153.051066,
+                  -26.663785
+                ],
+                [
+                  153.050699,
+                  -26.664081
+                ],
+                [
+                  153.050219,
+                  -26.665355
+                ],
+                [
+                  153.050294,
+                  -26.665773
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750058-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "56",
+        "REASON": "Damage due to severe weather",
+        "STATUS": "Awaiting",
+        "START": "1:41PM 22 Mar 2024",
+        "EST_FIX_TIME": "4:30PM 22 Mar 2024",
+        "STREETS": "JONES RD, KERENJON AVE, PITTARDS RD",
+        "SUBURBS": "BUDERIM"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711078800.346702"
+  "extracted": "1711079102.905377"
 }
