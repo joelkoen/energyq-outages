@@ -1,8 +1,70 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.127468,
+              -27.446069
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.126993,
+                  -27.445913
+                ],
+                [
+                  153.126983,
+                  -27.44594
+                ],
+                [
+                  153.127304,
+                  -27.446511
+                ],
+                [
+                  153.127943,
+                  -27.446225
+                ],
+                [
+                  153.127953,
+                  -27.446198
+                ],
+                [
+                  153.127633,
+                  -27.445627
+                ],
+                [
+                  153.126993,
+                  -27.445913
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750118-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "4:28PM 22 Mar 2024",
+        "EST_FIX_TIME": "7:00PM 22 Mar 2024",
+        "STREETS": "OREGON ST",
+        "SUBURBS": "HEMMANT"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711088701.080388"
+  "extracted": "1711089002.628536"
 }
