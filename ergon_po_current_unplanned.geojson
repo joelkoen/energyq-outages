@@ -588,9 +588,90 @@
         "STREETS": "BRYANT ST, KOGAN RD, LYTTON ST, ROBINSON ST, THORN ST, WARREGO HWY",
         "SUBURBS": "WARRA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              147.967632,
+              -26.489136
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.965746,
+                  -26.489868
+                ],
+                [
+                  147.966763,
+                  -26.490491
+                ],
+                [
+                  147.967246,
+                  -26.490531
+                ],
+                [
+                  147.96932,
+                  -26.489713
+                ],
+                [
+                  147.969615,
+                  -26.489239
+                ],
+                [
+                  147.969441,
+                  -26.488095
+                ],
+                [
+                  147.968745,
+                  -26.487741
+                ],
+                [
+                  147.968275,
+                  -26.487925
+                ],
+                [
+                  147.966141,
+                  -26.488757
+                ],
+                [
+                  147.965962,
+                  -26.488875
+                ],
+                [
+                  147.965649,
+                  -26.489199
+                ],
+                [
+                  147.965746,
+                  -26.489868
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6675",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "10:47AM 22 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CAROLINE ST, CATHERINE ST, OXFORD ST, SOPHIA ST",
+        "SUBURBS": "MITCHELL"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711069203.596348"
+  "extracted": "1711069500.301256"
 }
