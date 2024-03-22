@@ -1,8 +1,94 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.955379,
+              -27.544474
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.954256,
+                  -27.543756
+                ],
+                [
+                  152.954485,
+                  -27.545382
+                ],
+                [
+                  152.954636,
+                  -27.54565
+                ],
+                [
+                  152.954881,
+                  -27.545861
+                ],
+                [
+                  152.955025,
+                  -27.545948
+                ],
+                [
+                  152.95537,
+                  -27.546086
+                ],
+                [
+                  152.955665,
+                  -27.546119
+                ],
+                [
+                  152.956095,
+                  -27.546052
+                ],
+                [
+                  152.956502,
+                  -27.54551
+                ],
+                [
+                  152.9559,
+                  -27.543062
+                ],
+                [
+                  152.955059,
+                  -27.54283
+                ],
+                [
+                  152.954412,
+                  -27.54337
+                ],
+                [
+                  152.954256,
+                  -27.543756
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750125-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "34",
+        "REASON": "Damage due to severe weather",
+        "STATUS": "Awaiting",
+        "START": "5:12PM 22 Mar 2024",
+        "EST_FIX_TIME": "12:30AM 23 Mar 2024",
+        "STREETS": "HASP ST, OLDFIELD RD",
+        "SUBURBS": "SEVENTEEN MILE ROCKS"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711113901.227638"
+  "extracted": "1711114203.529914"
 }
