@@ -10,91 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              147.792744,
-              -23.206276
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  147.688815,
-                  -23.239047
-                ],
-                [
-                  147.757312,
-                  -23.297813
-                ],
-                [
-                  147.757539,
-                  -23.297922
-                ],
-                [
-                  147.874879,
-                  -23.321976
-                ],
-                [
-                  147.875282,
-                  -23.321894
-                ],
-                [
-                  147.887001,
-                  -23.313598
-                ],
-                [
-                  147.887191,
-                  -23.313271
-                ],
-                [
-                  147.896763,
-                  -23.185402
-                ],
-                [
-                  147.896601,
-                  -23.185034
-                ],
-                [
-                  147.782546,
-                  -23.090576
-                ],
-                [
-                  147.781798,
-                  -23.090685
-                ],
-                [
-                  147.688726,
-                  -23.238489
-                ],
-                [
-                  147.688815,
-                  -23.239047
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA4793",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "21",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "7:00AM 23 Mar 2024",
-        "EST_FIX_TIME": "1:00PM 23 Mar 2024",
-        "STREETS": "ACCESS RD, GREGORY HWY, MAGENTA RD, MALTHOID RD, NUTHOLM RD, OFF RUBYVALE RD, RUBYVALE RD",
-        "SUBURBS": "CAPELLA, CLERMONT"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               145.332255,
               -16.255652
             ]
@@ -164,7 +79,7 @@
         "EVENT_ID": "24FN4396",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "42",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
         "STATUS": "Crews on route",
         "START": "8:40AM 23 Mar 2024",
         "EST_FIX_TIME": null,
@@ -321,5 +236,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711148101.296752"
+  "extracted": "1711148404.062976"
 }
