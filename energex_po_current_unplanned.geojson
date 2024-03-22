@@ -10,8 +10,8 @@
           {
             "type": "Point",
             "coordinates": [
-              153.035739,
-              -27.477547
+              152.862182,
+              -26.640393
             ]
           },
           {
@@ -19,44 +19,117 @@
             "coordinates": [
               [
                 [
-                  153.032419,
-                  -27.481145
+                  152.860371,
+                  -26.639974
                 ],
                 [
-                  153.032592,
-                  -27.48173
+                  152.863566,
+                  -26.64165
                 ],
                 [
-                  153.032665,
-                  -27.481871
+                  152.864215,
+                  -26.641538
                 ],
                 [
-                  153.032831,
-                  -27.482086
+                  152.864179,
+                  -26.640945
                 ],
                 [
-                  153.033272,
-                  -27.48228
+                  152.862561,
+                  -26.639447
                 ],
                 [
-                  153.037635,
-                  -27.482094
+                  152.862262,
+                  -26.639313
                 ],
                 [
-                  153.038046,
-                  -27.481873
+                  152.860687,
+                  -26.639136
                 ],
                 [
-                  153.039027,
-                  -27.480393
+                  152.860148,
+                  -26.63944
                 ],
                 [
-                  153.039062,
-                  -27.479996
+                  152.860371,
+                  -26.639974
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749909-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "8:18AM 22 Mar 2024",
+        "EST_FIX_TIME": "11:30AM 22 Mar 2024",
+        "STREETS": "ENSBEY RD",
+        "SUBURBS": "FLAXTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.035499,
+              -27.475763
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.033874,
+                  -27.478077
                 ],
                 [
-                  153.035864,
-                  -27.472829
+                  153.033983,
+                  -27.478772
+                ],
+                [
+                  153.034888,
+                  -27.478981
+                ],
+                [
+                  153.036268,
+                  -27.477354
+                ],
+                [
+                  153.036287,
+                  -27.47733
+                ],
+                [
+                  153.037044,
+                  -27.476303
+                ],
+                [
+                  153.037128,
+                  -27.476055
+                ],
+                [
+                  153.037128,
+                  -27.476046
+                ],
+                [
+                  153.037098,
+                  -27.475893
+                ],
+                [
+                  153.03587,
+                  -27.472844
+                ],
+                [
+                  153.035412,
+                  -27.472545
                 ],
                 [
                   153.034931,
@@ -67,16 +140,16 @@
                   -27.474486
                 ],
                 [
-                  153.034077,
-                  -27.474565
+                  153.034064,
+                  -27.474644
                 ],
                 [
-                  153.032415,
-                  -27.480928
+                  153.03387,
+                  -27.477991
                 ],
                 [
-                  153.032419,
-                  -27.481145
+                  153.033874,
+                  -27.478077
                 ]
               ]
             ]
@@ -86,12 +159,12 @@
       "properties": {
         "EVENT_ID": "INCD-749923-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "553",
+        "CUSTOMERS_AFFECTED": "86",
         "REASON": "Under Investigation",
         "STATUS": "In Progress",
         "START": "8:43AM 22 Mar 2024",
         "EST_FIX_TIME": "11:00AM 22 Mar 2024",
-        "STREETS": "AMESBURY ST, BAINES ST, BELL ST, LLEWELLYN ST, MAIN ST, PATON ST, RAWLINS ST, RIVER TCE, SINCLAIR ST, WALMSLEY ST",
+        "STREETS": "AMESBURY ST, MAIN ST, RIVER TCE",
         "SUBURBS": "KANGAROO POINT"
       }
     },
@@ -204,7 +277,7 @@
         "EVENT_ID": "INCD-749959-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "190",
-        "REASON": "Emergency Repairs",
+        "REASON": "Damage due to severe weather",
         "STATUS": "Awaiting",
         "START": "10:18AM 22 Mar 2024",
         "EST_FIX_TIME": "1:00PM 22 Mar 2024",
@@ -215,5 +288,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711067101.177056"
+  "extracted": "1711067700.497096"
 }
