@@ -588,9 +588,70 @@
         "STREETS": "BRYANT ST, KOGAN RD, LYTTON ST, ROBINSON ST, THORN ST, WARREGO HWY",
         "SUBURBS": "WARRA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.853328,
+              -28.639
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.856705,
+                  -28.650059
+                ],
+                [
+                  148.850949,
+                  -28.627741
+                ],
+                [
+                  148.850337,
+                  -28.627401
+                ],
+                [
+                  148.849951,
+                  -28.627941
+                ],
+                [
+                  148.855707,
+                  -28.650259
+                ],
+                [
+                  148.856319,
+                  -28.650599
+                ],
+                [
+                  148.856705,
+                  -28.650059
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6669",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:12AM 22 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CARNARVON HWY, DUNWINNIE RD",
+        "SUBURBS": "THALLON"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711066200.430487"
+  "extracted": "1711066502.319988"
 }
