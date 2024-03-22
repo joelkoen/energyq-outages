@@ -126,9 +126,126 @@
         "STREETS": "AMESBURY ST, ANDERSON ST, ANNIE ST, BAILDON ST, BAINES ST, BELL ST, BRIGHT ST, HAMILTON ST, HOLMAN ST, LLEWELLYN ST, MACDONALD ST, MAIN ST, PATON ST, RAWLINS ST, RIVER TCE, SCOTT ST, SINCLAIR ST, WALMSLEY ST, WHARF ST, WICKLOW ST",
         "SUBURBS": "KANGAROO POINT"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.132936,
+              -27.683308
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.130645,
+                  -27.687044
+                ],
+                [
+                  153.131234,
+                  -27.687123
+                ],
+                [
+                  153.131236,
+                  -27.687123
+                ],
+                [
+                  153.131268,
+                  -27.687127
+                ],
+                [
+                  153.132296,
+                  -27.68726
+                ],
+                [
+                  153.132413,
+                  -27.687263
+                ],
+                [
+                  153.132939,
+                  -27.687223
+                ],
+                [
+                  153.133024,
+                  -27.687209
+                ],
+                [
+                  153.134762,
+                  -27.686803
+                ],
+                [
+                  153.135105,
+                  -27.686531
+                ],
+                [
+                  153.135291,
+                  -27.686108
+                ],
+                [
+                  153.135303,
+                  -27.686078
+                ],
+                [
+                  153.13566,
+                  -27.685059
+                ],
+                [
+                  153.135591,
+                  -27.684666
+                ],
+                [
+                  153.131553,
+                  -27.679529
+                ],
+                [
+                  153.131,
+                  -27.679353
+                ],
+                [
+                  153.130631,
+                  -27.679759
+                ],
+                [
+                  153.130226,
+                  -27.6854
+                ],
+                [
+                  153.130225,
+                  -27.685425
+                ],
+                [
+                  153.130213,
+                  -27.686593
+                ],
+                [
+                  153.130645,
+                  -27.687044
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-749959-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "190",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "10:18AM 22 Mar 2024",
+        "EST_FIX_TIME": "1:00PM 22 Mar 2024",
+        "STREETS": "HAIG RD, MOORE ST, PHIE ST, RHODES ST, ROSELLA ST, SHORT ST, SPARROW LANE, STARLING ST",
+        "SUBURBS": "LOGANLEA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711066502.283521"
+  "extracted": "1711066800.767092"
 }
