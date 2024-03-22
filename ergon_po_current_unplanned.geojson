@@ -95,6 +95,91 @@
           {
             "type": "Point",
             "coordinates": [
+              145.335581,
+              -16.258024
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.326288,
+                  -16.254042
+                ],
+                [
+                  145.32893,
+                  -16.257992
+                ],
+                [
+                  145.328956,
+                  -16.258028
+                ],
+                [
+                  145.331345,
+                  -16.260939
+                ],
+                [
+                  145.331599,
+                  -16.261097
+                ],
+                [
+                  145.341639,
+                  -16.263511
+                ],
+                [
+                  145.342123,
+                  -16.263347
+                ],
+                [
+                  145.344874,
+                  -16.259883
+                ],
+                [
+                  145.344683,
+                  -16.259191
+                ],
+                [
+                  145.328092,
+                  -16.252537
+                ],
+                [
+                  145.327642,
+                  -16.252585
+                ],
+                [
+                  145.326411,
+                  -16.253428
+                ],
+                [
+                  145.326288,
+                  -16.254042
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4396",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:40AM 23 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DAINTREE RD, MOSSMAN DAINTREE RD",
+        "SUBURBS": "DAINTREE, WONGA BEACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -236,5 +321,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711147201.549055"
+  "extracted": "1711147504.480084"
 }
