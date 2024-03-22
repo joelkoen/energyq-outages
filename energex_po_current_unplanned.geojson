@@ -10,6 +10,67 @@
           {
             "type": "Point",
             "coordinates": [
+              152.439032,
+              -27.078285
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.443653,
+                  -27.076615
+                ],
+                [
+                  152.43413,
+                  -27.079087
+                ],
+                [
+                  152.433786,
+                  -27.079646
+                ],
+                [
+                  152.434411,
+                  -27.079954
+                ],
+                [
+                  152.443934,
+                  -27.077482
+                ],
+                [
+                  152.444278,
+                  -27.076923
+                ],
+                [
+                  152.443653,
+                  -27.076615
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750085-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Emergency Repairs",
+        "STATUS": "In Progress",
+        "START": "2:31PM 22 Mar 2024",
+        "EST_FIX_TIME": "6:30PM 22 Mar 2024",
+        "STREETS": "NORWOODS LANE",
+        "SUBURBS": "CRESSBROOK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.127468,
               -27.446069
             ]
@@ -66,5 +127,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711089904.17134"
+  "extracted": "1711090201.136171"
 }
