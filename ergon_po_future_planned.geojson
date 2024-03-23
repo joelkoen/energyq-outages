@@ -1255,7 +1255,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "66",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:00AM 24 Mar 2024",
         "EST_FIX_TIME": "12:00PM 24 Mar 2024",
         "STREETS": "CONSTANCE ST, EGAN ST, HERBERTON ST, LANGTON AVE, MOLLOY ST",
@@ -2926,6 +2926,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.788,
+          -19.251534
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5323",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:37AM 24 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 24 Mar 2024",
+        "STREETS": "BUNDOCK ST, OLD COMMON RD, PARRAMATTA ST",
+        "SUBURBS": "BELGIAN GARDENS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.678019,
           -19.241654
         ]
@@ -4242,27 +4263,6 @@
         "EST_FIX_TIME": "3:00PM 27 Mar 2024",
         "STREETS": "CARINYA RD, DJUAN RD, EDSER RD, EMU CREEK HALL RD, EMU CREEK RD, GENRICH RD, HADEN-CROWS NEST RD, KRUGER RD, MADDERN RD, MORAN RD, MOUNTAIN CAMP RD, NEW ENGLAND HWY, O'CONNOR RD, OLD EMU CREEK RD, PERINA RD, PIERCES CREEK RD, PIT RD, SCHMIDT RD, UPPER PINELANDS RD, VOLL RD",
         "SUBURBS": "CROWS NEST, DJUAN, EMU CREEK, GLENAVEN, JONES GULLY, PINELANDS, UPPER PINELANDS"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.28392,
-          -27.789694
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW5236",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
-        "START": "9:00AM 24 Mar 2024",
-        "EST_FIX_TIME": "3:00PM 24 Mar 2024",
-        "STREETS": "BOSTOCK RD",
-        "SUBURBS": "LEMONTREE"
       }
     },
     {
@@ -6179,5 +6179,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1711229701.147501"
+  "extracted": "1711230001.204135"
 }
