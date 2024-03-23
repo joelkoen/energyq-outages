@@ -192,6 +192,91 @@
           {
             "type": "Point",
             "coordinates": [
+              143.201927,
+              -13.941213
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  143.198683,
+                  -13.940174
+                ],
+                [
+                  143.201456,
+                  -13.943836
+                ],
+                [
+                  143.20148,
+                  -13.943865
+                ],
+                [
+                  143.20185,
+                  -13.944279
+                ],
+                [
+                  143.201951,
+                  -13.944364
+                ],
+                [
+                  143.203112,
+                  -13.945079
+                ],
+                [
+                  143.203796,
+                  -13.944844
+                ],
+                [
+                  143.205172,
+                  -13.940929
+                ],
+                [
+                  143.205103,
+                  -13.940509
+                ],
+                [
+                  143.202721,
+                  -13.937447
+                ],
+                [
+                  143.202094,
+                  -13.937346
+                ],
+                [
+                  143.198795,
+                  -13.939532
+                ],
+                [
+                  143.198683,
+                  -13.940174
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4409",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "39",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "STATUS": "Outage reported",
+        "START": "11:18PM 23 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CAPE YORK DEVELOPMENT RD, COLMAN CL, KAANJU ST, LANKELLY DR, OLKALA ST, PENINSULA DEVELOPMENT RD, REGENT ST, RESERVOIR RD, TAYLOR ST",
+        "SUBURBS": "COEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -317,5 +402,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711229101.085763"
+  "extracted": "1711229405.824307"
 }
