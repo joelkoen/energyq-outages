@@ -175,6 +175,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.256519,
+          -23.843412
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA0703",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "16",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 24 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 24 Mar 2024",
+        "STREETS": "GOONDOON ST, WILLIAM ST",
+        "SUBURBS": "GLADSTONE, GLADSTONE CENTRAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.504296,
           -23.352176
         ]
@@ -547,9 +568,30 @@
         "STREETS": "ALBERT ST, ALICE ST, ALLEENA ST, BERGIN RD, ISABELLA CT, KILROY CT, LARA ST, MARLYNDA AVE, PARNELL CT, ROSSITER ST",
         "SUBURBS": "CRANBROOK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.104896,
+          -27.120016
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW5909",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "72",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 24 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 24 Mar 2024",
+        "STREETS": "ANDURAMBA RANGE RD, ANDURAMBA RD, AUSTIN RD, BARNES RD, BLUFF RD, BOWEN RD, HAWKINS RD, HEATHER RD, JONES GULLY RD, MARIA CREEK RD, MARSHALL RD, MCGREEVY RD, MIDDLE RD, NUKINENDA RD, PETTIE RD, PIERCES CREEK RD, VONHOFF RD, WATERHOLE GULLY RD",
+        "SUBURBS": "ANDURAMBA, CROWS NEST, NUKINENDA, PIERCES CREEK, VIRGINIA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711234803.507583"
+  "extracted": "1711235101.552763"
 }
