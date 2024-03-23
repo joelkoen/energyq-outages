@@ -1,8 +1,78 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.056402,
+              -26.47008
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.053407,
+                  -26.470274
+                ],
+                [
+                  153.059302,
+                  -26.470786
+                ],
+                [
+                  153.059848,
+                  -26.470394
+                ],
+                [
+                  153.059428,
+                  -26.469891
+                ],
+                [
+                  153.056631,
+                  -26.469495
+                ],
+                [
+                  153.056574,
+                  -26.46949
+                ],
+                [
+                  153.053477,
+                  -26.469373
+                ],
+                [
+                  153.052955,
+                  -26.469793
+                ],
+                [
+                  153.053407,
+                  -26.470274
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750199-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "12:22PM 23 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 23 Mar 2024",
+        "STREETS": "MONAK RD",
+        "SUBURBS": "PEREGIAN BEACH"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711166404.186958"
+  "extracted": "1711166701.55894"
 }
