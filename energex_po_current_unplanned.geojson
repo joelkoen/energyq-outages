@@ -1,8 +1,74 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.928323,
+              -26.745864
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.925206,
+                  -26.744883
+                ],
+                [
+                  152.925565,
+                  -26.746982
+                ],
+                [
+                  152.926175,
+                  -26.747353
+                ],
+                [
+                  152.931052,
+                  -26.746336
+                ],
+                [
+                  152.931441,
+                  -26.745896
+                ],
+                [
+                  152.931051,
+                  -26.745456
+                ],
+                [
+                  152.925816,
+                  -26.744375
+                ],
+                [
+                  152.925206,
+                  -26.744883
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750258-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "8:42AM 24 Mar 2024",
+        "EST_FIX_TIME": "11:30AM 24 Mar 2024",
+        "STREETS": "NEILL RD",
+        "SUBURBS": "DIAMOND VALLEY"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711233601.10514"
+  "extracted": "1711233904.29695"
 }

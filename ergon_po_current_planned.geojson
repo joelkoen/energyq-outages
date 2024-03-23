@@ -133,6 +133,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.207066,
+          -23.997592
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA0325",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "39",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 24 Mar 2024",
+        "EST_FIX_TIME": "12:00PM 24 Mar 2024",
+        "STREETS": "BEATLE PDE, DRYNAN DR, ELLIOT DR, HANNAH ST, SYBIL CT",
+        "SUBURBS": "CALLIOPE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.197635,
           -24.003495
         ]
@@ -593,5 +614,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711233602.147615"
+  "extracted": "1711233903.95912"
 }
