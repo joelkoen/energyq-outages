@@ -70,9 +70,118 @@
         "STREETS": "MONAK RD",
         "SUBURBS": "PEREGIAN BEACH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.415183,
+              -28.01749
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.41318,
+                  -28.018221
+                ],
+                [
+                  153.414585,
+                  -28.018565
+                ],
+                [
+                  153.414653,
+                  -28.018577
+                ],
+                [
+                  153.416255,
+                  -28.018769
+                ],
+                [
+                  153.416447,
+                  -28.018759
+                ],
+                [
+                  153.416547,
+                  -28.018737
+                ],
+                [
+                  153.41686,
+                  -28.01853
+                ],
+                [
+                  153.417455,
+                  -28.017641
+                ],
+                [
+                  153.417521,
+                  -28.017476
+                ],
+                [
+                  153.417558,
+                  -28.017252
+                ],
+                [
+                  153.417148,
+                  -28.016743
+                ],
+                [
+                  153.415842,
+                  -28.016527
+                ],
+                [
+                  153.415097,
+                  -28.016403
+                ],
+                [
+                  153.413933,
+                  -28.01621
+                ],
+                [
+                  153.413673,
+                  -28.016227
+                ],
+                [
+                  153.413187,
+                  -28.016377
+                ],
+                [
+                  153.412846,
+                  -28.016788
+                ],
+                [
+                  153.412807,
+                  -28.01777
+                ],
+                [
+                  153.41318,
+                  -28.018221
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750212-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "76",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "2:31PM 23 Mar 2024",
+        "EST_FIX_TIME": "5:00PM 23 Mar 2024",
+        "STREETS": "MONACO ST, MONTEREY CT, PACIFIC BVD, PASADENA CT",
+        "SUBURBS": "BROADBEACH WATERS"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711168204.520208"
+  "extracted": "1711168502.160426"
 }
