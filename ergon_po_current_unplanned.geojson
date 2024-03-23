@@ -10,6 +10,99 @@
           {
             "type": "Point",
             "coordinates": [
+              148.563861,
+              -23.330066
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.382065,
+                  -23.231661
+                ],
+                [
+                  148.616259,
+                  -23.461372
+                ],
+                [
+                  148.61627,
+                  -23.461382
+                ],
+                [
+                  148.682182,
+                  -23.521781
+                ],
+                [
+                  148.682743,
+                  -23.521866
+                ],
+                [
+                  148.745613,
+                  -23.493326
+                ],
+                [
+                  148.745772,
+                  -23.492632
+                ],
+                [
+                  148.425928,
+                  -23.138417
+                ],
+                [
+                  148.425441,
+                  -23.138266
+                ],
+                [
+                  148.424079,
+                  -23.138563
+                ],
+                [
+                  148.423795,
+                  -23.138738
+                ],
+                [
+                  148.400601,
+                  -23.168423
+                ],
+                [
+                  148.400526,
+                  -23.168568
+                ],
+                [
+                  148.381949,
+                  -23.231233
+                ],
+                [
+                  148.382065,
+                  -23.231661
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4814",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:47AM 24 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CUDDERSON RD, FAIRHILL RD, GREGORY BRANCH RAILWAY, LILYVALE RD, OFF CAPRICORN HWY, OFF GREGORY MINE RD, OFF LURLINE RD, UNKNOWN ST, YACKAM RD, YAN YAN RD",
+        "SUBURBS": "BLACKWATER, CAPELLA, COMET, LILYVALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -135,5 +228,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711224904.300791"
+  "extracted": "1711225201.746002"
 }
