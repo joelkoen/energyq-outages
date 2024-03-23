@@ -131,9 +131,70 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.620883,
+              -27.669207
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.622203,
+                  -27.669102
+                ],
+                [
+                  151.619862,
+                  -27.668453
+                ],
+                [
+                  151.619229,
+                  -27.668749
+                ],
+                [
+                  151.619562,
+                  -27.669313
+                ],
+                [
+                  151.621903,
+                  -27.669961
+                ],
+                [
+                  151.622536,
+                  -27.669665
+                ],
+                [
+                  151.622203,
+                  -27.669102
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6727",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews on route",
+        "START": "9:44PM 23 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "WEIER LANE",
+        "SUBURBS": "STONELEIGH"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711202101.553363"
+  "extracted": "1711202405.302675"
 }
