@@ -70,9 +70,70 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.489307,
+              -27.937811
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.50146,
+                  -27.920009
+                ],
+                [
+                  151.476299,
+                  -27.95513
+                ],
+                [
+                  151.476455,
+                  -27.955752
+                ],
+                [
+                  151.477155,
+                  -27.955614
+                ],
+                [
+                  151.502316,
+                  -27.920493
+                ],
+                [
+                  151.50216,
+                  -27.919871
+                ],
+                [
+                  151.50146,
+                  -27.920009
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW4365",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:15PM 04 Feb 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
+        "SUBURBS": "LEYBURN, YANDILLA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711178104.333297"
+  "extracted": "1711178401.773315"
 }
