@@ -28,6 +28,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.239825,
+          -23.888668
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA0201",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "101",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "1:27PM 24 Mar 2024",
+        "EST_FIX_TIME": "4:30PM 24 Mar 2024",
+        "STREETS": "CRAIGMOOR CT, EMMADALE DR, HUNTINGTON CT, ROTHBURY PL, SAXONVALE CT, WILLESPIE PL",
+        "SUBURBS": "NEW AUCKLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.197635,
           -24.003495
         ]
@@ -102,7 +123,7 @@
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
         "STATUS": "Crews working on-site",
         "START": "8:30AM 24 Mar 2024",
-        "EST_FIX_TIME": "2:30PM 24 Mar 2024",
+        "EST_FIX_TIME": "3:30PM 24 Mar 2024",
         "STREETS": "DENISON RD, MARSHALL RD, OFF SELMA RD, ROCKHOUND RD, SELMA RD",
         "SUBURBS": "EMERALD, SAPPHIRE CENTRAL"
       }
@@ -215,5 +236,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711254001.112266"
+  "extracted": "1711254301.052782"
 }
