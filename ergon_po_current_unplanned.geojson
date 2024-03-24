@@ -451,6 +451,99 @@
           {
             "type": "Point",
             "coordinates": [
+              147.198612,
+              -19.616072
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.168895,
+                  -19.611893
+                ],
+                [
+                  147.173205,
+                  -19.62836
+                ],
+                [
+                  147.173341,
+                  -19.628581
+                ],
+                [
+                  147.173669,
+                  -19.628873
+                ],
+                [
+                  147.173984,
+                  -19.628996
+                ],
+                [
+                  147.213992,
+                  -19.629966
+                ],
+                [
+                  147.214414,
+                  -19.629744
+                ],
+                [
+                  147.222654,
+                  -19.616567
+                ],
+                [
+                  147.222667,
+                  -19.616545
+                ],
+                [
+                  147.228328,
+                  -19.606204
+                ],
+                [
+                  147.228253,
+                  -19.605686
+                ],
+                [
+                  147.224908,
+                  -19.602314
+                ],
+                [
+                  147.224478,
+                  -19.602178
+                ],
+                [
+                  147.169276,
+                  -19.611339
+                ],
+                [
+                  147.168895,
+                  -19.611893
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6600",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "5:49PM 24 Mar 2024",
+        "EST_FIX_TIME": "8:30PM 24 Mar 2024",
+        "STREETS": "ALLEN RD, ROSS RD",
+        "SUBURBS": "AYR, GIRU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -903,5 +996,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711266303.53075"
+  "extracted": "1711266601.262233"
 }
