@@ -28,6 +28,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.197635,
+          -24.003495
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA0368",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "142",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "12:31PM 24 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 24 Mar 2024",
+        "STREETS": "ARCHER ST, ASHLEY CT, ELLIS ST, KIRKPATRICK CT, NORTH RIDGE DR, STOCKBRIDGE CT",
+        "SUBURBS": "CALLIOPE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.257402,
           -23.843267
         ]
@@ -63,27 +84,6 @@
         "EST_FIX_TIME": "3:00PM 24 Mar 2024",
         "STREETS": "GOONDOON ST, WILLIAM ST",
         "SUBURBS": "GLADSTONE, GLADSTONE CENTRAL"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.504296,
-          -23.352176
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA3963",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "382",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:30AM 24 Mar 2024",
-        "EST_FIX_TIME": "2:30PM 24 Mar 2024",
-        "STREETS": "BALL CT, BIRKBECK ST, CHURCHILL ST, DALTON AVE, HARDY AVE, HARRIETTE ST, HAYNES ST, HOLLINGSWORTH ST, INGRAM ST, JOMARANT PL, MACALISTER ST, MCKEAGUE PL, RICHARDSON RD, SNELLING ST, SYMONS ST, THOMPSON ST, WACKFORD ST, WILMINGTON ST",
-        "SUBURBS": "KAWANA, NORTH ROCKHAMPTON, PARK AVENUE"
       }
     },
     {
@@ -175,27 +175,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          147.407597,
-          -19.572217
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5228",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "55",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:00AM 24 Mar 2024",
-        "EST_FIX_TIME": "2:00PM 24 Mar 2024",
-        "STREETS": "GRAHAM ST, PARKER ST, QUEEN ST",
-        "SUBURBS": "AYR"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           148.247867,
           -20.009639
         ]
@@ -236,5 +215,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711253401.14772"
+  "extracted": "1711253703.71963"
 }
