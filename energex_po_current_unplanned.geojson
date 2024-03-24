@@ -10,6 +10,91 @@
           {
             "type": "Point",
             "coordinates": [
+              153.095744,
+              -26.579092
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.09506,
+                  -26.579117
+                ],
+                [
+                  153.095092,
+                  -26.579246
+                ],
+                [
+                  153.095271,
+                  -26.5795
+                ],
+                [
+                  153.095561,
+                  -26.579707
+                ],
+                [
+                  153.096298,
+                  -26.579592
+                ],
+                [
+                  153.096427,
+                  -26.579406
+                ],
+                [
+                  153.096381,
+                  -26.578871
+                ],
+                [
+                  153.096162,
+                  -26.578644
+                ],
+                [
+                  153.095835,
+                  -26.57849
+                ],
+                [
+                  153.095703,
+                  -26.578478
+                ],
+                [
+                  153.095295,
+                  -26.578608
+                ],
+                [
+                  153.095194,
+                  -26.578699
+                ],
+                [
+                  153.09506,
+                  -26.579117
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750369-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "8:21AM 25 Mar 2024",
+        "EST_FIX_TIME": "11:00AM 25 Mar 2024",
+        "STREETS": "MAGNOLIA ST",
+        "SUBURBS": "MARCOOLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.98096,
               -26.273516
             ]
@@ -92,104 +177,19 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-750364-g",
+        "EVENT_ID": "INCD-750394-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "16",
         "REASON": "Emergency Repairs",
         "STATUS": "Awaiting",
-        "START": "8:02AM 25 Mar 2024",
+        "START": "9:52AM 25 Mar 2024",
         "EST_FIX_TIME": "12:30PM 25 Mar 2024",
         "STREETS": "LAKE FLAT RD",
         "SUBURBS": "BOREEN POINT, COOTHARABA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              153.095744,
-              -26.579092
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.09506,
-                  -26.579117
-                ],
-                [
-                  153.095092,
-                  -26.579246
-                ],
-                [
-                  153.095271,
-                  -26.5795
-                ],
-                [
-                  153.095561,
-                  -26.579707
-                ],
-                [
-                  153.096298,
-                  -26.579592
-                ],
-                [
-                  153.096427,
-                  -26.579406
-                ],
-                [
-                  153.096381,
-                  -26.578871
-                ],
-                [
-                  153.096162,
-                  -26.578644
-                ],
-                [
-                  153.095835,
-                  -26.57849
-                ],
-                [
-                  153.095703,
-                  -26.578478
-                ],
-                [
-                  153.095295,
-                  -26.578608
-                ],
-                [
-                  153.095194,
-                  -26.578699
-                ],
-                [
-                  153.09506,
-                  -26.579117
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-750369-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "7",
-        "REASON": "Emergency Repairs",
-        "STATUS": "Awaiting",
-        "START": "8:21AM 25 Mar 2024",
-        "EST_FIX_TIME": "11:00AM 25 Mar 2024",
-        "STREETS": "MAGNOLIA ST",
-        "SUBURBS": "MARCOOLA"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711324200.365618"
+  "extracted": "1711324501.684205"
 }
