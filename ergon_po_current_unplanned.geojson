@@ -920,6 +920,123 @@
           {
             "type": "Point",
             "coordinates": [
+              151.97563,
+              -27.571752
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.973101,
+                  -27.572064
+                ],
+                [
+                  151.973308,
+                  -27.57303
+                ],
+                [
+                  151.973446,
+                  -27.573263
+                ],
+                [
+                  151.97382,
+                  -27.573597
+                ],
+                [
+                  151.9741,
+                  -27.573724
+                ],
+                [
+                  151.974639,
+                  -27.573798
+                ],
+                [
+                  151.974965,
+                  -27.573745
+                ],
+                [
+                  151.977011,
+                  -27.572713
+                ],
+                [
+                  151.977139,
+                  -27.572621
+                ],
+                [
+                  151.977855,
+                  -27.571907
+                ],
+                [
+                  151.977958,
+                  -27.571751
+                ],
+                [
+                  151.978159,
+                  -27.571219
+                ],
+                [
+                  151.978157,
+                  -27.570927
+                ],
+                [
+                  151.977867,
+                  -27.570186
+                ],
+                [
+                  151.977438,
+                  -27.569886
+                ],
+                [
+                  151.975316,
+                  -27.569705
+                ],
+                [
+                  151.975034,
+                  -27.569754
+                ],
+                [
+                  151.974423,
+                  -27.570039
+                ],
+                [
+                  151.974226,
+                  -27.570203
+                ],
+                [
+                  151.973166,
+                  -27.571745
+                ],
+                [
+                  151.973101,
+                  -27.572064
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6765",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "53",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "6:35PM 24 Mar 2024",
+        "EST_FIX_TIME": "8:30PM 24 Mar 2024",
+        "STREETS": "ADINA ST, BURKE ST, COHOE ST, IPSWICH ST, JAMES ST, RUTHVEN ST, TOURIST RD",
+        "SUBURBS": "EAST TOOWOOMBA, RANGEVILLE, TOOWOOMBA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.551431,
               -25.507059
             ]
@@ -1004,5 +1121,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711269301.073033"
+  "extracted": "1711269601.742742"
 }
