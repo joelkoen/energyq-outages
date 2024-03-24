@@ -653,9 +653,86 @@
         "STREETS": "BULLAWARRA STATION RD, BULLOO RIVER RD, JACKSON RD",
         "SUBURBS": "THARGOMINDAH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.822121,
+              -25.67272
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.675555,
+                  -25.796145
+                ],
+                [
+                  146.746041,
+                  -25.807176
+                ],
+                [
+                  146.746396,
+                  -25.80711
+                ],
+                [
+                  146.968971,
+                  -25.677032
+                ],
+                [
+                  146.969081,
+                  -25.676361
+                ],
+                [
+                  146.873161,
+                  -25.573705
+                ],
+                [
+                  146.87294,
+                  -25.573569
+                ],
+                [
+                  146.757312,
+                  -25.538264
+                ],
+                [
+                  146.756674,
+                  -25.538567
+                ],
+                [
+                  146.67516,
+                  -25.795575
+                ],
+                [
+                  146.675555,
+                  -25.796145
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6741",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:47AM 24 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BARNGO RD, BURENDA RD, KHYBER RD, WATERFORD RD",
+        "SUBURBS": "AUGATHELLA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711238101.110184"
+  "extracted": "1711238701.115308"
 }
