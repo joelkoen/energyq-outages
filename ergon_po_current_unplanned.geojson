@@ -358,9 +358,94 @@
         "STREETS": "BULLOO RIVER RD, JACKSON RD",
         "SUBURBS": "THARGOMINDAH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              149.280446,
+              -27.149795
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.114313,
+                  -27.078428
+                ],
+                [
+                  149.150255,
+                  -27.106244
+                ],
+                [
+                  149.150334,
+                  -27.106294
+                ],
+                [
+                  149.436845,
+                  -27.253311
+                ],
+                [
+                  149.437599,
+                  -27.252951
+                ],
+                [
+                  149.446579,
+                  -27.135564
+                ],
+                [
+                  149.446473,
+                  -27.135256
+                ],
+                [
+                  149.38757,
+                  -27.067646
+                ],
+                [
+                  149.387538,
+                  -27.067613
+                ],
+                [
+                  149.365141,
+                  -27.046415
+                ],
+                [
+                  149.364705,
+                  -27.046279
+                ],
+                [
+                  149.114574,
+                  -27.07764
+                ],
+                [
+                  149.114313,
+                  -27.078428
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6755",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:49PM 24 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "FROGMOOR RD, NELLYBRI RD, OVERSTONE RD, RIVER RD, RUSSELL PARK RD, SURAT DEVELOPMENT RD, TEELBA RD",
+        "SUBURBS": "GLENMORGAN, SURAT"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711255801.206265"
+  "extracted": "1711256101.177513"
 }
