@@ -3388,6 +3388,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.807934,
+          -19.255488
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6040",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Work scheduled",
+        "START": "8:00AM 29 Mar 2024",
+        "EST_FIX_TIME": "5:00PM 29 Mar 2024",
+        "STREETS": "STANLEY ST",
+        "SUBURBS": "NORTH WARD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.486923,
           -20.738729
         ]
@@ -5423,5 +5444,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1711288501.148328"
+  "extracted": "1711288806.04564"
 }
