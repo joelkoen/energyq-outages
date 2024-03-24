@@ -553,6 +553,139 @@
           {
             "type": "Point",
             "coordinates": [
+              151.813779,
+              -27.330744
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.747336,
+                  -27.314537
+                ],
+                [
+                  151.773672,
+                  -27.407328
+                ],
+                [
+                  151.773781,
+                  -27.407514
+                ],
+                [
+                  151.78545,
+                  -27.419399
+                ],
+                [
+                  151.786171,
+                  -27.419433
+                ],
+                [
+                  151.805308,
+                  -27.403683
+                ],
+                [
+                  151.805334,
+                  -27.40366
+                ],
+                [
+                  151.812466,
+                  -27.396886
+                ],
+                [
+                  151.812501,
+                  -27.396849
+                ],
+                [
+                  151.860029,
+                  -27.340578
+                ],
+                [
+                  151.860049,
+                  -27.340551
+                ],
+                [
+                  151.866101,
+                  -27.332188
+                ],
+                [
+                  151.866149,
+                  -27.332103
+                ],
+                [
+                  151.880192,
+                  -27.298894
+                ],
+                [
+                  151.880221,
+                  -27.298686
+                ],
+                [
+                  151.873309,
+                  -27.242699
+                ],
+                [
+                  151.872822,
+                  -27.242299
+                ],
+                [
+                  151.862573,
+                  -27.242055
+                ],
+                [
+                  151.86248,
+                  -27.24206
+                ],
+                [
+                  151.81262,
+                  -27.249257
+                ],
+                [
+                  151.812618,
+                  -27.249257
+                ],
+                [
+                  151.773909,
+                  -27.254964
+                ],
+                [
+                  151.773523,
+                  -27.255242
+                ],
+                [
+                  151.747356,
+                  -27.314261
+                ],
+                [
+                  151.747336,
+                  -27.314537
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6761",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "569",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:16PM 24 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ACLAND SILVERLEIGH RD, ALBERT ST, ANVIL CT, BARKER ST, CEMETERY RD, CENTENARY RD, CLEWLEYS RD, COLEMANS RD, COOKE ST, DAHER ST, EDWARD ST, FRANK LEBSANFTS RD, FRENE CT, GEORGE ST, GOLF COURSE RD, GOOMBUNGEE DAM RD, GOOMBUNGEE KILBURNIE RD, GOOMBUNGEE MERINGANDAN RD, GOOMBUNGEE MOUNT DARRY RD, GOOMBUNGEE-HADEN RD, GOOMBUNGEE-MT DARRY RD, GRIINKES RD, HARTH ST, HARTHS RD, HARTWIG ST, HIGHLAND PLAIN RD, HILLCREST RD, INDUSTRIAL AVE, JAMES RD, JOHN ST, KAMPF'S RD, KANN ST, KEATS RD, KELVINHAUGH BOODUA RD, KILBURNIE RD, KING ST, KINGSTHORPE HADEN RD, KINGSTHORPE SILVERLEIGH RD, KUDO SILVERLEIGH RD, LAU ST, LEBSANFT ST, LEBSANFTS RD, LEWIS RD, LILLY ST, LUCK'S RD, MARKET ST, MCDONALDS RD, MOCATTA ST, MT DARRY RD, MURRS RD, NARA-BOAH WATERHOLE RD, NICHOLAS ST, NOLLER'S RD, ODASSA ST, PECHEY MACLAGAN RD, PETER ST, PETERS ST, RUMMELLS RD, TONSCHECKS RD, VICTORIA ST, VONHOFFS RD, WILLIAM ST, WILTHORN KELVINHAUGH RD",
+        "SUBURBS": "BOODUA, GOOMBUNGEE, HADEN, HIGHLAND PLAINS, KELVINHAUGH, KILBIRNIE, KINGSTHORPE, OAKEY, SILVERLEIGH, YALANGUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.551431,
               -25.507059
             ]
@@ -637,5 +770,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711260903.195053"
+  "extracted": "1711261201.322568"
 }
