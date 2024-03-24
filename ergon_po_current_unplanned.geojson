@@ -79,6 +79,91 @@
           {
             "type": "Point",
             "coordinates": [
+              145.257416,
+              -22.837757
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.096626,
+                  -22.857988
+                ],
+                [
+                  145.230548,
+                  -22.939151
+                ],
+                [
+                  145.230798,
+                  -22.939225
+                ],
+                [
+                  145.417829,
+                  -22.945258
+                ],
+                [
+                  145.418334,
+                  -22.9448
+                ],
+                [
+                  145.414858,
+                  -22.730701
+                ],
+                [
+                  145.414367,
+                  -22.730257
+                ],
+                [
+                  145.196469,
+                  -22.731848
+                ],
+                [
+                  145.196279,
+                  -22.731886
+                ],
+                [
+                  145.194142,
+                  -22.732744
+                ],
+                [
+                  145.193942,
+                  -22.732893
+                ],
+                [
+                  145.096499,
+                  -22.857345
+                ],
+                [
+                  145.096626,
+                  -22.857988
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4822",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "1:46AM 25 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARAMAC-FLEETWOOD RD, ARAMAC-MUTTABURRA RD, JERICHO-ARAMAC RD, THE LAKE RD",
+        "SUBURBS": "ARAMAC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -354,5 +439,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711295103.947926"
+  "extracted": "1711295401.378877"
 }
