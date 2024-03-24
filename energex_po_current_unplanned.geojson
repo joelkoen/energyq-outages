@@ -134,9 +134,74 @@
         "STREETS": "CUTTS ST, DUNBAR ST, EVELINE ST, LEONARD ST, OXLEY AVE",
         "SUBURBS": "MARGATE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.919268,
+              -28.06434
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.916335,
+                  -28.062545
+                ],
+                [
+                  152.920126,
+                  -28.066638
+                ],
+                [
+                  152.920696,
+                  -28.066774
+                ],
+                [
+                  152.922061,
+                  -28.066325
+                ],
+                [
+                  152.922202,
+                  -28.065549
+                ],
+                [
+                  152.917045,
+                  -28.061906
+                ],
+                [
+                  152.916366,
+                  -28.061942
+                ],
+                [
+                  152.916335,
+                  -28.062545
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750287-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "12:09PM 24 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 24 Mar 2024",
+        "STREETS": "ROUND MOUNTAIN RD",
+        "SUBURBS": "LARAVALE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711245901.270413"
+  "extracted": "1711246200.387195"
 }
