@@ -2632,6 +2632,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.247867,
+          -20.009639
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5318",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "1:35PM 24 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 24 Mar 2024",
+        "STREETS": "GORDON ST",
+        "SUBURBS": "BOWEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.678019,
           -19.241654
         ]
@@ -3234,27 +3255,6 @@
         "EST_FIX_TIME": "3:00PM 28 Mar 2024",
         "STREETS": "GREENWOOD DR, SULLIVAN PL, TREMBATH CRES",
         "SUBURBS": "KIRWAN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.773227,
-          -19.264048
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5641",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "67",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:34AM 24 Mar 2024",
-        "EST_FIX_TIME": "2:30PM 24 Mar 2024",
-        "STREETS": "CROWDER ST, GORDEN ST, INGHAM RD, LONERGANNE ST, MEENAN ST, PEEL ST",
-        "SUBURBS": "GARBUTT"
       }
     },
     {
@@ -5717,5 +5717,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1711251301.362805"
+  "extracted": "1711251600.47373"
 }
