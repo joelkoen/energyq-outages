@@ -131,8 +131,8 @@
           {
             "type": "Point",
             "coordinates": [
-              152.934711,
-              -27.355593
+              152.927553,
+              -27.356164
             ]
           },
           {
@@ -168,76 +168,44 @@
                   -27.374754
                 ],
                 [
-                  152.935595,
-                  -27.374667
+                  152.93567,
+                  -27.374464
                 ],
                 [
-                  152.952356,
-                  -27.350601
+                  152.938726,
+                  -27.339609
                 ],
                 [
-                  152.952381,
-                  -27.350561
+                  152.938724,
+                  -27.339525
                 ],
                 [
-                  152.952537,
-                  -27.350275
+                  152.938634,
+                  -27.338774
                 ],
                 [
-                  152.952538,
-                  -27.350274
+                  152.938438,
+                  -27.338463
                 ],
                 [
-                  152.952639,
-                  -27.350089
+                  152.937228,
+                  -27.337638
                 ],
                 [
-                  152.952648,
-                  -27.350071
+                  152.936997,
+                  -27.33755
                 ],
                 [
-                  152.952826,
-                  -27.349704
+                  152.935074,
+                  -27.337292
                 ],
                 [
-                  152.952849,
-                  -27.349646
+                  152.934976,
+                  -27.337287
                 ],
                 [
-                  152.952912,
-                  -27.349443
-                ],
-                [
-                  152.952912,
-                  -27.349442
-                ],
-                [
-                  152.95304,
-                  -27.349027
-                ],
-                [
-                  152.952944,
-                  -27.348621
-                ],
-                [
-                  152.941638,
-                  -27.336311
-                ],
-                [
-                  152.941207,
-                  -27.336147
-                ],
-                [
-                  152.937366,
-                  -27.336423
-                ],
-                [
-                  152.937327,
-                  -27.336427
-                ],
-                [
-                  152.929832,
-                  -27.337496
+                  152.929889,
+                  -27.337491
                 ],
                 [
                   152.929677,
@@ -283,17 +251,171 @@
       "properties": {
         "EVENT_ID": "INCD-750325-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "705",
+        "CUSTOMERS_AFFECTED": "440",
         "REASON": "Under Investigation",
         "STATUS": "In Progress",
         "START": "6:56PM 24 Mar 2024",
         "EST_FIX_TIME": "9:30PM 24 Mar 2024",
-        "STREETS": "ALLEN RD, ASHLEIGH CT, BARTON CT, BEND CT, BIRDSONG PL, BLUE HILLS DR, BREEN DR, BUNYA CROSSING RD, BUNYA PINE CT, BUNYA RD, CARTER CT, CHURCH RD, CLAPHAM CT, CONFLUENCE CT, COOLUM CT, CORYMBIA LANE, CROSSING DR, DELTA ST, DRAPERS RD, DUDLEY CT, DUNN CT, EDDY CT, EDENDERRY CT, FARM RD, FLETCHERS RD, GLEN EATON ST, GREER CT, HARLEY CT, HIDDEN VALLEY DR, HILL GROVE CL, HOARE CT, MAILMANS TRK, MANCHESTER CT, MONTEGO CT, POWERFUL OWL CT, PRASADA CT, RAINBIRD CL, REACH PL, RETREAT CT, RINN AVE, RIVER OAKS DR, RIVERGUM DR, SANCTUARY CT, SHALLOWS CT, TAMMY CT, TRIBUTARY CT, WEBB CT, WILGA DR, WILLEM DR, WINDSONG ST",
+        "STREETS": "ALLEN RD, ASHLEIGH CT, BIRDSONG PL, BLUE HILLS DR, BREEN DR, BUNYA RD, CARTER CT, CHURCH RD, CLAPHAM CT, COOLUM CT, CORYMBIA LANE, DUDLEY CT, DUNN CT, EDENDERRY CT, FARM RD, GLEN EATON ST, GREER CT, HARLEY CT, HIDDEN VALLEY DR, HILL GROVE CL, HOARE CT, MAILMANS TRK, MONTEGO CT, POWERFUL OWL CT, PRASADA CT, RAINBIRD CL, RETREAT CT, RINN AVE, RIVER OAKS DR, WEBB CT, WILGA DR, WILLEM DR, WINDSONG ST",
         "SUBURBS": "BUNYA, DRAPER, EATONS HILL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.393339,
+              -27.653408
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.391318,
+                  -27.653392
+                ],
+                [
+                  152.395132,
+                  -27.65443
+                ],
+                [
+                  152.395718,
+                  -27.654225
+                ],
+                [
+                  152.395627,
+                  -27.65367
+                ],
+                [
+                  152.394404,
+                  -27.652645
+                ],
+                [
+                  152.394094,
+                  -27.652523
+                ],
+                [
+                  152.392,
+                  -27.652387
+                ],
+                [
+                  152.391827,
+                  -27.652402
+                ],
+                [
+                  152.39133,
+                  -27.652526
+                ],
+                [
+                  152.39096,
+                  -27.652955
+                ],
+                [
+                  152.391318,
+                  -27.653392
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750331-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "7:42PM 24 Mar 2024",
+        "EST_FIX_TIME": "9:00PM 24 Mar 2024",
+        "STREETS": "MILNE ST",
+        "SUBURBS": "LAIDLEY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.393339,
+              -27.653408
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.391318,
+                  -27.653392
+                ],
+                [
+                  152.395132,
+                  -27.65443
+                ],
+                [
+                  152.395718,
+                  -27.654225
+                ],
+                [
+                  152.395627,
+                  -27.65367
+                ],
+                [
+                  152.394404,
+                  -27.652645
+                ],
+                [
+                  152.394094,
+                  -27.652523
+                ],
+                [
+                  152.392,
+                  -27.652387
+                ],
+                [
+                  152.391827,
+                  -27.652402
+                ],
+                [
+                  152.39133,
+                  -27.652526
+                ],
+                [
+                  152.39096,
+                  -27.652955
+                ],
+                [
+                  152.391318,
+                  -27.653392
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750332-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "8:58PM 24 Mar 2024",
+        "EST_FIX_TIME": "11:30PM 24 Mar 2024",
+        "STREETS": "MILNE ST",
+        "SUBURBS": "LAIDLEY"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711277701.567738"
+  "extracted": "1711278003.34701"
 }
