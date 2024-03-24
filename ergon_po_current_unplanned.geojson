@@ -188,6 +188,83 @@
           {
             "type": "Point",
             "coordinates": [
+              145.734439,
+              -17.144783
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.732916,
+                  -17.144554
+                ],
+                [
+                  145.734352,
+                  -17.146049
+                ],
+                [
+                  145.734587,
+                  -17.146182
+                ],
+                [
+                  145.735374,
+                  -17.146365
+                ],
+                [
+                  145.735949,
+                  -17.145995
+                ],
+                [
+                  145.736086,
+                  -17.145144
+                ],
+                [
+                  145.735883,
+                  -17.144699
+                ],
+                [
+                  145.733552,
+                  -17.1432
+                ],
+                [
+                  145.732821,
+                  -17.143557
+                ],
+                [
+                  145.732791,
+                  -17.144228
+                ],
+                [
+                  145.732916,
+                  -17.144554
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4413",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "1:45PM 24 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CATALANO ACCESS RD, NINA PL",
+        "SUBURBS": "GOLDSBOROUGH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -471,5 +548,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711260003.323315"
+  "extracted": "1711260301.15623"
 }
