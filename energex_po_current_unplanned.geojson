@@ -1,8 +1,110 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.98096,
+              -26.273516
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.972106,
+                  -26.265635
+                ],
+                [
+                  152.983613,
+                  -26.282395
+                ],
+                [
+                  152.984041,
+                  -26.282608
+                ],
+                [
+                  152.989116,
+                  -26.282587
+                ],
+                [
+                  152.989608,
+                  -26.282205
+                ],
+                [
+                  152.989696,
+                  -26.281699
+                ],
+                [
+                  152.989701,
+                  -26.281658
+                ],
+                [
+                  152.989813,
+                  -26.280121
+                ],
+                [
+                  152.989797,
+                  -26.279973
+                ],
+                [
+                  152.985891,
+                  -26.266972
+                ],
+                [
+                  152.985576,
+                  -26.266665
+                ],
+                [
+                  152.979855,
+                  -26.264819
+                ],
+                [
+                  152.979736,
+                  -26.264795
+                ],
+                [
+                  152.975641,
+                  -26.264423
+                ],
+                [
+                  152.975497,
+                  -26.264429
+                ],
+                [
+                  152.972438,
+                  -26.264954
+                ],
+                [
+                  152.972106,
+                  -26.265635
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750364-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "16",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "8:02AM 25 Mar 2024",
+        "EST_FIX_TIME": "10:30AM 25 Mar 2024",
+        "STREETS": "LAKE FLAT RD",
+        "SUBURBS": "BOREEN POINT, COOTHARABA"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711317603.308107"
+  "extracted": "1711317900.233498"
 }
