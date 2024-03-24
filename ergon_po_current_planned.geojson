@@ -70,6 +70,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.228338,
+          -23.882118
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA0280",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "269",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "12:16PM 24 Mar 2024",
+        "EST_FIX_TIME": "12:45PM 24 Mar 2024",
+        "STREETS": "ALEXIS CT, ANGIE CT, CHANEL CT, CHARLOTTE CT, GEORGIA CT, JACKSON CT, JORDANA CT, KATRINA BVD, LEONIE CT, LLANA CT, LOIS CT, PENDA AVE, SARAH CT, SHARYN DR",
+        "SUBURBS": "NEW AUCKLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.197635,
           -24.003495
         ]
@@ -425,5 +446,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711246503.022072"
+  "extracted": "1711246801.659137"
 }
