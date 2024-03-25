@@ -1,8 +1,78 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.945193,
+              -27.586185
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.944451,
+                  -27.586214
+                ],
+                [
+                  152.944642,
+                  -27.586501
+                ],
+                [
+                  152.945008,
+                  -27.586717
+                ],
+                [
+                  152.94539,
+                  -27.586765
+                ],
+                [
+                  152.945935,
+                  -27.586476
+                ],
+                [
+                  152.945738,
+                  -27.58594
+                ],
+                [
+                  152.945163,
+                  -27.585605
+                ],
+                [
+                  152.944535,
+                  -27.585657
+                ],
+                [
+                  152.944451,
+                  -27.586214
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750480-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "2:02PM 25 Mar 2024",
+        "EST_FIX_TIME": "4:30PM 25 Mar 2024",
+        "STREETS": "ENTERPRISE ST, FULCRUM ST",
+        "SUBURBS": "RICHLANDS"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711339201.284382"
+  "extracted": "1711339500.304596"
 }
