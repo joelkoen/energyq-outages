@@ -130,9 +130,86 @@
         "STREETS": "BEASLEY DR, FONTEBASSO CCT, GLENHAVEN CL, ISAAC PL, JOSHUA PL, JUNO CT, MULLER ST, TOMARAH CT, VALLEYGREEN CL, VANSTONE WAY",
         "SUBURBS": "REDLAND BAY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.25379,
+              -28.036104
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.253059,
+                  -28.039906
+                ],
+                [
+                  153.255386,
+                  -28.036619
+                ],
+                [
+                  153.255455,
+                  -28.036295
+                ],
+                [
+                  153.254871,
+                  -28.033581
+                ],
+                [
+                  153.254831,
+                  -28.033472
+                ],
+                [
+                  153.254241,
+                  -28.03237
+                ],
+                [
+                  153.253705,
+                  -28.032118
+                ],
+                [
+                  153.253278,
+                  -28.0325
+                ],
+                [
+                  153.252125,
+                  -28.039601
+                ],
+                [
+                  153.252453,
+                  -28.040089
+                ],
+                [
+                  153.253059,
+                  -28.039906
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750647-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "9:22AM 26 Mar 2024",
+        "EST_FIX_TIME": "12:00PM 26 Mar 2024",
+        "STREETS": "BEECHMONT RD",
+        "SUBURBS": "LOWER BEECHMONT"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711410302.738149"
+  "extracted": "1711410600.461939"
 }
