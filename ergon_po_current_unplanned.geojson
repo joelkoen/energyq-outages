@@ -265,6 +265,75 @@
           {
             "type": "Point",
             "coordinates": [
+              145.350804,
+              -16.366842
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.34904,
+                  -16.364949
+                ],
+                [
+                  145.350588,
+                  -16.369279
+                ],
+                [
+                  145.350981,
+                  -16.369581
+                ],
+                [
+                  145.351542,
+                  -16.369638
+                ],
+                [
+                  145.352056,
+                  -16.369236
+                ],
+                [
+                  145.352568,
+                  -16.364542
+                ],
+                [
+                  145.352047,
+                  -16.364046
+                ],
+                [
+                  145.349426,
+                  -16.364353
+                ],
+                [
+                  145.34904,
+                  -16.364949
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4442",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "2:22PM 25 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "KAHANA RD",
+        "SUBURBS": "WHYANBEEL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -568,5 +637,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711341902.30519"
+  "extracted": "1711342201.07973"
 }
