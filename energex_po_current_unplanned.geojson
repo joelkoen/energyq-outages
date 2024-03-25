@@ -10,6 +10,75 @@
           {
             "type": "Point",
             "coordinates": [
+              152.348645,
+              -27.673571
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.347013,
+                  -27.673884
+                ],
+                [
+                  152.349796,
+                  -27.675614
+                ],
+                [
+                  152.35045,
+                  -27.675559
+                ],
+                [
+                  152.350493,
+                  -27.674975
+                ],
+                [
+                  152.347756,
+                  -27.67169
+                ],
+                [
+                  152.347196,
+                  -27.671528
+                ],
+                [
+                  152.346842,
+                  -27.671947
+                ],
+                [
+                  152.346796,
+                  -27.673502
+                ],
+                [
+                  152.347013,
+                  -27.673884
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750574-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "3:02AM 26 Mar 2024",
+        "EST_FIX_TIME": "5:30AM 26 Mar 2024",
+        "STREETS": "VALLEY VISTA CRES",
+        "SUBURBS": "LAIDLEY CREEK WEST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.082849,
               -26.399882
             ]
@@ -98,5 +167,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711392902.283416"
+  "extracted": "1711393204.524971"
 }
