@@ -621,9 +621,118 @@
         "STREETS": "ACLAND BRYMAROO RD, ACLAND SABINE RD, ACLAND-BRYMAROO RD, BOWENVILLE ACLAND RD, COOKE'S RD, JONDARYAN NUNGIL RD, O'SHEA'S RD",
         "SUBURBS": "ACLAND, BRYMAROO, JONDARYAN, MALU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.261782,
+              -27.192557
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.258789,
+                  -27.194258
+                ],
+                [
+                  151.259445,
+                  -27.194922
+                ],
+                [
+                  151.259886,
+                  -27.195071
+                ],
+                [
+                  151.261914,
+                  -27.194842
+                ],
+                [
+                  151.262019,
+                  -27.19482
+                ],
+                [
+                  151.263387,
+                  -27.194386
+                ],
+                [
+                  151.263597,
+                  -27.194258
+                ],
+                [
+                  151.264814,
+                  -27.193017
+                ],
+                [
+                  151.264876,
+                  -27.192503
+                ],
+                [
+                  151.264162,
+                  -27.191345
+                ],
+                [
+                  151.264043,
+                  -27.191216
+                ],
+                [
+                  151.262547,
+                  -27.190107
+                ],
+                [
+                  151.26202,
+                  -27.190043
+                ],
+                [
+                  151.260701,
+                  -27.190569
+                ],
+                [
+                  151.260526,
+                  -27.190685
+                ],
+                [
+                  151.259449,
+                  -27.191792
+                ],
+                [
+                  151.259349,
+                  -27.191952
+                ],
+                [
+                  151.258687,
+                  -27.193824
+                ],
+                [
+                  151.258789,
+                  -27.194258
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6824",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "95",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:44PM 25 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALFRED ST, ARTHUR ST, MYALL ST, NEARHOS ST, REID ST, WOOD ST",
+        "SUBURBS": "DALBY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711345801.222536"
+  "extracted": "1711346101.28529"
 }
