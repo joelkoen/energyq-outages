@@ -102,9 +102,102 @@
         "STREETS": "BLACK PINCH RD",
         "SUBURBS": "COOTHARABA, POMONA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.082849,
+              -26.399882
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.072449,
+                  -26.404534
+                ],
+                [
+                  153.074827,
+                  -26.405812
+                ],
+                [
+                  153.075204,
+                  -26.405863
+                ],
+                [
+                  153.082941,
+                  -26.404141
+                ],
+                [
+                  153.083087,
+                  -26.404085
+                ],
+                [
+                  153.092681,
+                  -26.398643
+                ],
+                [
+                  153.092902,
+                  -26.398362
+                ],
+                [
+                  153.093294,
+                  -26.396835
+                ],
+                [
+                  153.093134,
+                  -26.396392
+                ],
+                [
+                  153.092746,
+                  -26.39609
+                ],
+                [
+                  153.092624,
+                  -26.39602
+                ],
+                [
+                  153.08741,
+                  -26.3939
+                ],
+                [
+                  153.086902,
+                  -26.393951
+                ],
+                [
+                  153.072405,
+                  -26.403786
+                ],
+                [
+                  153.072449,
+                  -26.404534
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750576-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "395",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "3:37AM 26 Mar 2024",
+        "EST_FIX_TIME": "6:00AM 26 Mar 2024",
+        "STREETS": "ARCADIA ST, BANKSIA AVE, BERRIMA ROW, CORAL TREE AVE, DAVID LOW WAY, JAN ST, LANYANA WAY, NAIRANA REST, NOOSA DR, SUNSHINE BEACH RD, SWAN ST, WEYBA RD",
+        "SUBURBS": "CASTAWAYS BEACH, NOOSA HEADS, NOOSAVILLE, SUNRISE BEACH"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711388101.601623"
+  "extracted": "1711388401.743852"
 }
