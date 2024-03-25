@@ -1,8 +1,126 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.913418,
+              -26.774816
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.884454,
+                  -26.781409
+                ],
+                [
+                  152.886864,
+                  -26.783142
+                ],
+                [
+                  152.887032,
+                  -26.783221
+                ],
+                [
+                  152.916912,
+                  -26.791403
+                ],
+                [
+                  152.917228,
+                  -26.791397
+                ],
+                [
+                  152.923381,
+                  -26.789417
+                ],
+                [
+                  152.923629,
+                  -26.789244
+                ],
+                [
+                  152.939531,
+                  -26.767988
+                ],
+                [
+                  152.93957,
+                  -26.767926
+                ],
+                [
+                  152.942548,
+                  -26.762165
+                ],
+                [
+                  152.942569,
+                  -26.761834
+                ],
+                [
+                  152.942168,
+                  -26.76074
+                ],
+                [
+                  152.941842,
+                  -26.760451
+                ],
+                [
+                  152.937614,
+                  -26.759249
+                ],
+                [
+                  152.937484,
+                  -26.759229
+                ],
+                [
+                  152.912016,
+                  -26.758228
+                ],
+                [
+                  152.911813,
+                  -26.758258
+                ],
+                [
+                  152.885486,
+                  -26.767379
+                ],
+                [
+                  152.885165,
+                  -26.767773
+                ],
+                [
+                  152.884266,
+                  -26.78103
+                ],
+                [
+                  152.884454,
+                  -26.781409
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750556-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "276",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "7:52PM 25 Mar 2024",
+        "EST_FIX_TIME": "10:30PM 25 Mar 2024",
+        "STREETS": "ALFS RD, BALD KNOB RD, BRANDENBURG RD, DIAMOND VALLEY RD, EAGLES NEST CT, ENSBEY RD, GLASSHOUSE PDE, HILLSIDE LANE, HOVARD RD, JILLIAN RD, LANDSBOROUGH-MALENY RD, MALENY VSTA, MARY CAIRNCROSS AVE, MOUNTAIN VIEW RD, PANORAMA PL, VALLEY VIEW CL, VALLEY VSTA",
+        "SUBURBS": "BALD KNOB, BALMORAL RIDGE, DIAMOND VALLEY, MALENY, MOOLOOLAH VALLEY"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711360200.49958"
+  "extracted": "1711360500.634695"
 }
