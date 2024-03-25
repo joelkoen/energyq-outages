@@ -427,6 +427,115 @@
           {
             "type": "Point",
             "coordinates": [
+              148.722791,
+              -20.269966
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.718327,
+                  -20.268861
+                ],
+                [
+                  148.720039,
+                  -20.270387
+                ],
+                [
+                  148.720077,
+                  -20.270417
+                ],
+                [
+                  148.72089,
+                  -20.271005
+                ],
+                [
+                  148.720939,
+                  -20.271035
+                ],
+                [
+                  148.723418,
+                  -20.272411
+                ],
+                [
+                  148.723439,
+                  -20.272422
+                ],
+                [
+                  148.724844,
+                  -20.273112
+                ],
+                [
+                  148.725504,
+                  -20.272891
+                ],
+                [
+                  148.727042,
+                  -20.269552
+                ],
+                [
+                  148.727045,
+                  -20.269544
+                ],
+                [
+                  148.727255,
+                  -20.269063
+                ],
+                [
+                  148.727012,
+                  -20.268481
+                ],
+                [
+                  148.724459,
+                  -20.267376
+                ],
+                [
+                  148.724387,
+                  -20.267351
+                ],
+                [
+                  148.722361,
+                  -20.266821
+                ],
+                [
+                  148.722064,
+                  -20.266834
+                ],
+                [
+                  148.718486,
+                  -20.268111
+                ],
+                [
+                  148.718327,
+                  -20.268861
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3081",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "144",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "12:53PM 25 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AIRLIE ESP, COCONUT GR, OCEAN RD, PORT DR, SHUTE HARBOUR RD, THE BEACONS RD, THE COVE RD",
+        "SUBURBS": "AIRLIE BEACH, SHUTE HARBOUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -661,5 +770,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711335301.217176"
+  "extracted": "1711335601.808349"
 }
