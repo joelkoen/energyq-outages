@@ -1,8 +1,90 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.994274,
+              -26.286172
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.99289,
+                  -26.286394
+                ],
+                [
+                  152.993518,
+                  -26.286741
+                ],
+                [
+                  152.9938,
+                  -26.286808
+                ],
+                [
+                  152.995381,
+                  -26.28675
+                ],
+                [
+                  152.995857,
+                  -26.286358
+                ],
+                [
+                  152.995878,
+                  -26.286218
+                ],
+                [
+                  152.995512,
+                  -26.285722
+                ],
+                [
+                  152.99481,
+                  -26.285552
+                ],
+                [
+                  152.994673,
+                  -26.285537
+                ],
+                [
+                  152.993144,
+                  -26.285557
+                ],
+                [
+                  152.992669,
+                  -26.285889
+                ],
+                [
+                  152.99289,
+                  -26.286394
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750505-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "2:56PM 25 Mar 2024",
+        "EST_FIX_TIME": "5:30PM 25 Mar 2024",
+        "STREETS": "TEWAH RD",
+        "SUBURBS": "BOREEN POINT"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711342500.352486"
+  "extracted": "1711342801.647099"
 }
