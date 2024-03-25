@@ -1,8 +1,30 @@
 {
   "type": "FeatureCollection",
   "name": "PLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.953063,
+          -27.560459
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW5239",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "STATUS": "Crews working on-site",
+        "START": "10:07PM 25 Mar 2024",
+        "EST_FIX_TIME": "3:00AM 26 Mar 2024",
+        "STREETS": "MARGARET ST, RUTHVEN ST",
+        "SUBURBS": "TOOWOOMBA, TOOWOOMBA CITY"
+      }
+    }
+  ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711368301.423273"
+  "extracted": "1711368601.61954"
 }
