@@ -475,9 +475,134 @@
         "STREETS": "BULLOO RIVER RD, JACKSON RD",
         "SUBURBS": "THARGOMINDAH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.551159,
+              -26.657368
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.342593,
+                  -26.655005
+                ],
+                [
+                  151.447271,
+                  -26.72552
+                ],
+                [
+                  151.447313,
+                  -26.725546
+                ],
+                [
+                  151.499442,
+                  -26.75365
+                ],
+                [
+                  151.499511,
+                  -26.753681
+                ],
+                [
+                  151.587915,
+                  -26.785785
+                ],
+                [
+                  151.588162,
+                  -26.785815
+                ],
+                [
+                  151.710375,
+                  -26.772829
+                ],
+                [
+                  151.710609,
+                  -26.772747
+                ],
+                [
+                  151.758831,
+                  -26.741573
+                ],
+                [
+                  151.758872,
+                  -26.741544
+                ],
+                [
+                  151.759593,
+                  -26.740966
+                ],
+                [
+                  151.759755,
+                  -26.7407
+                ],
+                [
+                  151.759925,
+                  -26.73972
+                ],
+                [
+                  151.759696,
+                  -26.73927
+                ],
+                [
+                  151.42523,
+                  -26.549921
+                ],
+                [
+                  151.425111,
+                  -26.549872
+                ],
+                [
+                  151.37475,
+                  -26.535765
+                ],
+                [
+                  151.374738,
+                  -26.535762
+                ],
+                [
+                  151.347865,
+                  -26.528921
+                ],
+                [
+                  151.347228,
+                  -26.529339
+                ],
+                [
+                  151.342393,
+                  -26.654629
+                ],
+                [
+                  151.342593,
+                  -26.655005
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4431",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "245",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
+        "STATUS": "Outage reported",
+        "START": "5:59PM 25 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALICE CREEK, ALICE CREEK RD, BARBOURS RD, BUNYA HWY, BUNYA MOUNTAINS RD, CLARKES RD, DIAMOND RD, DIAMONDY RD, DICKS RD, ELLESMERE RD, GLENCLIFFE RD, GREYSTONLEA RD, HANCOCKS RD, HAYS RD, IRONPOT RD, JARAIL CREEK RD, JARAIL RD, KUMBIA BACK RD, KUMBIA BROOKLANDS RD, KUMBIA RD, KUMBIA-NANANGO RD, MANNUEM RD, MCGILLS RD, NIAGARA RD, NORDS RD, OAKEY CREEK BACK RD, PARKERS RD, QUIRES RD, RED TANK RD, SARUM RD, WILLIAMS RD, YOUNGMANS RD",
+        "SUBURBS": "ALICE CREEK, BILBOA, BOYNESIDE, BROOKLANDS, ELLESMERE, HALY CREEK, IRONPOT, JARAIL CREEK, KINGAROY, KUMBIA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711359006.057908"
+  "extracted": "1711359301.424765"
 }
