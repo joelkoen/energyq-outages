@@ -94,9 +94,126 @@
         "STREETS": "ARCADIA ST, BANKSIA AVE, BERRIMA ROW, CORAL TREE AVE, DAVID LOW WAY, JAN ST, LANYANA WAY, NAIRANA REST, NOOSA DR, SUNSHINE BEACH RD, SWAN ST, WEYBA RD",
         "SUBURBS": "CASTAWAYS BEACH, NOOSA HEADS, NOOSAVILLE, SUNRISE BEACH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.292742,
+              -27.628795
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.282769,
+                  -27.640469
+                ],
+                [
+                  153.29786,
+                  -27.639838
+                ],
+                [
+                  153.298127,
+                  -27.639756
+                ],
+                [
+                  153.302431,
+                  -27.637066
+                ],
+                [
+                  153.302647,
+                  -27.636716
+                ],
+                [
+                  153.303239,
+                  -27.624313
+                ],
+                [
+                  153.303238,
+                  -27.624265
+                ],
+                [
+                  153.30323,
+                  -27.624146
+                ],
+                [
+                  153.303229,
+                  -27.624142
+                ],
+                [
+                  153.303171,
+                  -27.623432
+                ],
+                [
+                  153.30317,
+                  -27.623422
+                ],
+                [
+                  153.303154,
+                  -27.623272
+                ],
+                [
+                  153.302983,
+                  -27.622974
+                ],
+                [
+                  153.295512,
+                  -27.617164
+                ],
+                [
+                  153.294912,
+                  -27.61712
+                ],
+                [
+                  153.288988,
+                  -27.620393
+                ],
+                [
+                  153.288772,
+                  -27.620641
+                ],
+                [
+                  153.282649,
+                  -27.637958
+                ],
+                [
+                  153.282634,
+                  -27.638014
+                ],
+                [
+                  153.282246,
+                  -27.639939
+                ],
+                [
+                  153.282769,
+                  -27.640469
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750580-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1026",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:56AM 26 Mar 2024",
+        "EST_FIX_TIME": "8:30AM 26 Mar 2024",
+        "STREETS": "ANCHOR PL, AZALEA ST, BANKSIA ST, BEASLEY DR, BEDARRA ST, BLUEFIN CT, BRAMPTON CL, BREAM PL, BRIBIE CL, BURMAH BVD, CALLISTE CT, CASSIM PL, COBBY CT, COOLUM CT, COURAN CT, CYPRESS ST, DAYDREAM ST, DAYS RD, DORY CL, EMPEROR DR, FONTEBASSO CCT, GERMAN CHURCH RD, GLENHAVEN CL, GORDON RD, GORDONIA DR, GREEN PL, GREVILLEA ST, HAYMAN ST, HIGHLAND ST, HUNTLY PL, ISAAC PL, ISLA AVE, JOSHUA PL, JUNO CT, KALMIA DR, KELBY CL, KESWICK PL, KUBLER CRES, LARKSPUR ST, LINDEMAN PL, MALCOMIA ST, MELROSE CT, MULLER ST, ORPHEUS PL, PARKLINK DR, PAVETTA CT, PELORUS ST, PORTLAND PDE, POTTS PL, RIDGE PL, ROSINIA CT, SCAMPI PL, SCHOOL OF ARTS RD, SHAW PL, SNIPE ST, ST BEES CL, SYCAMORE ST, TOMARAH CT, TREELINE PL, UNWIN RD NORTH, VALLEYGREEN CL, VANSTONE WAY, VIOLA DR, WATSONIA ST, WHITSUNDAY PL, WILLIS CL, WOODCREST CL, WOODHAVEN CL",
+        "SUBURBS": "REDLAND BAY"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711396501.351618"
+  "extracted": "1711396804.670115"
 }
