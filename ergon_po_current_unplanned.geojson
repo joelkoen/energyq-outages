@@ -79,8 +79,8 @@
           {
             "type": "Point",
             "coordinates": [
-              150.506744,
-              -23.406789
+              150.50909,
+              -23.406596
             ]
           },
           {
@@ -88,36 +88,36 @@
             "coordinates": [
               [
                 [
-                  150.501733,
-                  -23.409361
+                  150.506213,
+                  -23.403923
                 ],
                 [
-                  150.502847,
-                  -23.409714
+                  150.507432,
+                  -23.407176
                 ],
                 [
-                  150.502905,
-                  -23.409729
+                  150.507555,
+                  -23.407354
                 ],
                 [
-                  150.504587,
-                  -23.410056
+                  150.509263,
+                  -23.40887
                 ],
                 [
-                  150.504615,
-                  -23.41006
+                  150.509356,
+                  -23.408935
                 ],
                 [
-                  150.50571,
-                  -23.410214
+                  150.51067,
+                  -23.40964
                 ],
                 [
-                  150.505815,
-                  -23.410218
+                  150.510689,
+                  -23.40965
                 ],
                 [
-                  150.511324,
-                  -23.409881
+                  150.511065,
+                  -23.409831
                 ],
                 [
                   150.51175,
@@ -152,16 +152,8 @@
                   -23.40336
                 ],
                 [
-                  150.506303,
-                  -23.403483
-                ],
-                [
-                  150.501521,
-                  -23.408641
-                ],
-                [
-                  150.501733,
-                  -23.409361
+                  150.506213,
+                  -23.403923
                 ]
               ]
             ]
@@ -171,12 +163,12 @@
       "properties": {
         "EVENT_ID": "24CA4842",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "36",
+        "CUSTOMERS_AFFECTED": "21",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Crews on route",
         "START": "12:09PM 25 Mar 2024",
         "EST_FIX_TIME": "7:00PM 25 Mar 2024",
-        "STREETS": "DUNLOP ST, GOSS ST, JELLICOE ST, LEE ST, MOFFATT ST, PORT CURTIS RD",
+        "STREETS": "DUNLOP ST, MOFFATT ST, PORT CURTIS RD",
         "SUBURBS": "PORT CURTIS, ROCKHAMPTON"
       }
     },
@@ -334,6 +326,131 @@
           {
             "type": "Point",
             "coordinates": [
+              148.970429,
+              -21.065595
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.891151,
+                  -21.067601
+                ],
+                [
+                  148.898782,
+                  -21.075334
+                ],
+                [
+                  148.898933,
+                  -21.075437
+                ],
+                [
+                  148.935914,
+                  -21.091467
+                ],
+                [
+                  148.935921,
+                  -21.09147
+                ],
+                [
+                  148.954703,
+                  -21.099268
+                ],
+                [
+                  148.954954,
+                  -21.099304
+                ],
+                [
+                  149.034657,
+                  -21.090591
+                ],
+                [
+                  149.034792,
+                  -21.090557
+                ],
+                [
+                  149.041933,
+                  -21.087667
+                ],
+                [
+                  149.042021,
+                  -21.087621
+                ],
+                [
+                  149.049646,
+                  -21.082544
+                ],
+                [
+                  149.049782,
+                  -21.081947
+                ],
+                [
+                  149.022647,
+                  -21.038546
+                ],
+                [
+                  149.022286,
+                  -21.038326
+                ],
+                [
+                  148.987225,
+                  -21.034625
+                ],
+                [
+                  148.987203,
+                  -21.034623
+                ],
+                [
+                  148.943679,
+                  -21.031886
+                ],
+                [
+                  148.943471,
+                  -21.031916
+                ],
+                [
+                  148.90199,
+                  -21.047154
+                ],
+                [
+                  148.901736,
+                  -21.047371
+                ],
+                [
+                  148.891075,
+                  -21.06709
+                ],
+                [
+                  148.891151,
+                  -21.067601
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3091",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "447",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:39PM 25 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BALNAGOWAN MANDARANA RD, BEALLAH RD, BONSONS SCRUB RD, BRUCE HWY, BURTONS ACCESS RD, CAMERONS CROSSING RD, DEWAARDS ACCESS RD, EDMONDS RD, GERRYS LANE, GIUMELLIS RD, HERBERT CT, HOPFS RD, HUDSONS RD, IAN REDDACLIFF DR, KEMPS RD, KOWAHA CT, LANES RD, LEAP ACCESS RD, LEAP LANE, LEAP STATION RD, LEAP STATION RD NORTH, MAPALO RD, MARAJU-YAKAPARI RD, MARIAN HAMPDEN RD, MILTONS LOOKOUT RD, MT JUKES RD, MULEI RD, NICOL RD, NINE MILE CREEK RD, PENTECOST RD, PYMS CT, PYMS RD, ROY VON SNARSKI CT, RUTLANDS RD, SORENSENS RD, TRACK RD, TWEEDIES RD, WALLINS RD, WESTLAKE DR, YAKAPARI HABANA RD, YAKAPARI SEAFORTH RD, YAKAPARI-SEAFORTH RD, ZUNKERS RD",
+        "SUBURBS": "BALNAGOWAN, FARLEIGH, HABANA, HAMPDEN, KUTTABUL, MARIAN, SEAFORTH, THE LEAP, YAKAPARI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -463,5 +580,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711352401.207641"
+  "extracted": "1711352703.253722"
 }
