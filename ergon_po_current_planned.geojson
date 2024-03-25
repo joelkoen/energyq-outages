@@ -16,11 +16,32 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "22",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:15AM 26 Mar 2024",
         "EST_FIX_TIME": "2:15PM 26 Mar 2024",
         "STREETS": "HIGHWAY ST, MAIN ST, RENSHAW ST",
         "SUBURBS": "PARK AVENUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.503223,
+          -22.316933
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA3297",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 26 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 26 Mar 2024",
+        "STREETS": "GOLDEN DOWNS RD, OFF GOLDEN DOWNS RD, OFF PEAK DOWNS HWY",
+        "SUBURBS": "CLERMONT"
       }
     },
     {
@@ -259,27 +280,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.053255,
-          -21.02137
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK2750",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "67",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:00AM 26 Mar 2024",
-        "EST_FIX_TIME": "2:00PM 26 Mar 2024",
-        "STREETS": "ABELA CT, BAYVIEW DR, DANMAAR DR, OLLETTS RD, SUMMERHILL RISE",
-        "SUBURBS": "HABANA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           147.221691,
           -19.746865
         ]
@@ -331,7 +331,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "22",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 26 Mar 2024",
         "EST_FIX_TIME": "3:00PM 26 Mar 2024",
         "STREETS": "BULLOCK PADDOCK RD, CARUSO'S RD, KEMPS RD",
@@ -845,5 +845,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711407001.655841"
+  "extracted": "1711407300.737935"
 }
