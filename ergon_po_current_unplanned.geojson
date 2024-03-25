@@ -477,7 +477,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "245",
         "REASON": "The loss of supply is due to fallen power lines.  ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "5:59PM 25 Mar 2024",
         "EST_FIX_TIME": null,
         "STREETS": "ALICE CREEK, ALICE CREEK RD, BARBOURS RD, BUNYA HWY, BUNYA MOUNTAINS RD, CLARKES RD, DIAMOND RD, DIAMONDY RD, DICKS RD, ELLESMERE RD, GLENCLIFFE RD, GREYSTONLEA RD, HANCOCKS RD, HAYS RD, IRONPOT RD, JARAIL CREEK RD, JARAIL RD, KUMBIA BACK RD, KUMBIA BROOKLANDS RD, KUMBIA RD, KUMBIA-NANANGO RD, MANNUEM RD, MCGILLS RD, NIAGARA RD, NORDS RD, OAKEY CREEK BACK RD, PARKERS RD, QUIRES RD, RED TANK RD, SARUM RD, WILLIAMS RD, YOUNGMANS RD",
@@ -592,9 +592,82 @@
         "STREETS": "BALANDINAS DR, BALINDINAS DR, BIDWILL RD, EXMOUTH ACCESS LANE, FORESTERS RD, OWANYILLA BOUNDARY RD, PALLANT RD, STUTZ RD, WILSONS RD",
         "SUBURBS": "BIDWILL, MAGNOLIA, MARYBOROUGH, OWANYILLA, TEDDINGTON, TIARO"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.968574,
+              -26.757512
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.966422,
+                  -26.764482
+                ],
+                [
+                  151.971689,
+                  -26.752767
+                ],
+                [
+                  151.971665,
+                  -26.752386
+                ],
+                [
+                  151.971255,
+                  -26.751702
+                ],
+                [
+                  151.97103,
+                  -26.751509
+                ],
+                [
+                  151.968155,
+                  -26.750275
+                ],
+                [
+                  151.967442,
+                  -26.750623
+                ],
+                [
+                  151.96546,
+                  -26.764256
+                ],
+                [
+                  151.96583,
+                  -26.764749
+                ],
+                [
+                  151.966422,
+                  -26.764482
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4434",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:20PM 25 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BERLIN RD, GEORGE GREEN RD, NANANGO-YARRAMAN RD, YARRAMAN RD",
+        "SUBURBS": "NANANGO"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711363801.396363"
+  "extracted": "1711364103.992521"
 }
