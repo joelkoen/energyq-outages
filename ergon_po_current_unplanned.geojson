@@ -10,6 +10,83 @@
           {
             "type": "Point",
             "coordinates": [
+              144.664129,
+              -23.090087
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  144.430135,
+                  -22.933778
+                ],
+                [
+                  144.462333,
+                  -23.030397
+                ],
+                [
+                  144.462384,
+                  -23.030501
+                ],
+                [
+                  144.608561,
+                  -23.249644
+                ],
+                [
+                  144.60926,
+                  -23.249774
+                ],
+                [
+                  144.898122,
+                  -23.058447
+                ],
+                [
+                  144.897975,
+                  -23.057647
+                ],
+                [
+                  144.432837,
+                  -22.930401
+                ],
+                [
+                  144.432297,
+                  -22.930577
+                ],
+                [
+                  144.4302,
+                  -22.933389
+                ],
+                [
+                  144.430135,
+                  -22.933778
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4855",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:09PM 25 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CRAMSIE MUTTABURRA RD, CROSSMORE RD, ILFRACOMBE ARAMAC RD, MUTTABURRA RD, OFF ILFRACOMBE-ARA RD",
+        "SUBURBS": "ILFRACOMBE, LONGREACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -410,5 +487,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711354201.666015"
+  "extracted": "1711354503.878765"
 }
