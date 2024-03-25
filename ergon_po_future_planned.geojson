@@ -119,7 +119,7 @@
       "properties": {
         "EVENT_ID": "24CA3429",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "180",
+        "CUSTOMERS_AFFECTED": "179",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:30AM 26 Mar 2024",
@@ -624,6 +624,27 @@
         "EVENT_ID": "24CA4625",
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "9",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Work scheduled",
+        "START": "8:30AM 26 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 26 Mar 2024",
+        "STREETS": "PARK AVE",
+        "SUBURBS": "EMERALD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.167667,
+          -23.505916
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4626",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:30AM 26 Mar 2024",
@@ -1633,7 +1654,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "67",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:00AM 26 Mar 2024",
         "EST_FIX_TIME": "2:00PM 26 Mar 2024",
         "STREETS": "ABELA CT, BAYVIEW DR, DANMAAR DR, OLLETTS RD, SUMMERHILL RISE",
@@ -2079,27 +2100,6 @@
         "EST_FIX_TIME": "3:00PM 27 Mar 2024",
         "STREETS": "BURKE ST, HERBERT ST",
         "SUBURBS": "BOULIA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.740238,
-          -19.30589
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5315",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "5:50AM 26 Mar 2024",
-        "EST_FIX_TIME": "10:00AM 26 Mar 2024",
-        "STREETS": "BAMFORD LANE",
-        "SUBURBS": "KIRWAN"
       }
     },
     {
@@ -4499,5 +4499,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1711401600.542598"
+  "extracted": "1711401900.400328"
 }
