@@ -10,8 +10,8 @@
           {
             "type": "Point",
             "coordinates": [
-              153.090376,
-              -26.397453
+              153.088246,
+              -26.396439
             ]
           },
           {
@@ -19,60 +19,16 @@
             "coordinates": [
               [
                 [
-                  153.087563,
-                  -26.396945
+                  153.088128,
+                  -26.397011
                 ],
                 [
-                  153.087933,
-                  -26.397246
+                  153.088794,
+                  -26.396704
                 ],
                 [
-                  153.088022,
-                  -26.397303
-                ],
-                [
-                  153.091402,
-                  -26.399028
-                ],
-                [
-                  153.091833,
-                  -26.399056
-                ],
-                [
-                  153.091948,
-                  -26.399015
-                ],
-                [
-                  153.092013,
-                  -26.398987
-                ],
-                [
-                  153.092663,
-                  -26.398653
-                ],
-                [
-                  153.092902,
-                  -26.398362
-                ],
-                [
-                  153.093294,
-                  -26.396835
-                ],
-                [
-                  153.093134,
-                  -26.396392
-                ],
-                [
-                  153.092746,
-                  -26.39609
-                ],
-                [
-                  153.092436,
-                  -26.39598
-                ],
-                [
-                  153.088583,
-                  -26.395851
+                  153.089033,
+                  -26.39614
                 ],
                 [
                   153.088435,
@@ -91,8 +47,12 @@
                   -26.396394
                 ],
                 [
-                  153.087563,
-                  -26.396945
+                  153.08754,
+                  -26.396925
+                ],
+                [
+                  153.088128,
+                  -26.397011
                 ]
               ]
             ]
@@ -102,13 +62,13 @@
       "properties": {
         "EVENT_ID": "INCD-750576-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "183",
+        "CUSTOMERS_AFFECTED": "6",
         "REASON": "Under Investigation",
         "STATUS": "In Progress",
         "START": "3:37AM 26 Mar 2024",
         "EST_FIX_TIME": "8:00AM 26 Mar 2024",
-        "STREETS": "ARCADIA ST, BERRIMA ROW, DAVID LOW WAY, LANYANA WAY, NAIRANA REST, NOOSA DR, SUNSHINE BEACH RD",
-        "SUBURBS": "CASTAWAYS BEACH, NOOSA HEADS, SUNRISE BEACH"
+        "STREETS": "NOOSA DR",
+        "SUBURBS": "NOOSA HEADS"
       }
     },
     {
@@ -227,9 +187,102 @@
         "STREETS": "ANCHOR PL, AZALEA ST, BANKSIA ST, BEASLEY DR, BEDARRA ST, BLUEFIN CT, BRAMPTON CL, BREAM PL, BRIBIE CL, BURMAH BVD, CALLISTE CT, CASSIM PL, COBBY CT, COOLUM CT, COURAN CT, CYPRESS ST, DAYDREAM ST, DAYS RD, DORY CL, EMPEROR DR, FONTEBASSO CCT, GERMAN CHURCH RD, GLENHAVEN CL, GORDON RD, GORDONIA DR, GREEN PL, GREVILLEA ST, HAYMAN ST, HIGHLAND ST, HUNTLY PL, ISAAC PL, ISLA AVE, JOSHUA PL, JUNO CT, KALMIA DR, KELBY CL, KESWICK PL, KUBLER CRES, LARKSPUR ST, LINDEMAN PL, MALCOMIA ST, MELROSE CT, MULLER ST, ORPHEUS PL, PARKLINK DR, PAVETTA CT, PELORUS ST, PORTLAND PDE, POTTS PL, RIDGE PL, ROSINIA CT, SCAMPI PL, SCHOOL OF ARTS RD, SHAW PL, SNIPE ST, ST BEES CL, SYCAMORE ST, TOMARAH CT, TREELINE PL, UNWIN RD NORTH, VALLEYGREEN CL, VANSTONE WAY, VIOLA DR, WATSONIA ST, WHITSUNDAY PL, WILLIS CL, WOODCREST CL, WOODHAVEN CL",
         "SUBURBS": "REDLAND BAY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.822465,
+              -26.750319
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.821037,
+                  -26.75162
+                ],
+                [
+                  152.822182,
+                  -26.751474
+                ],
+                [
+                  152.822374,
+                  -26.751412
+                ],
+                [
+                  152.824024,
+                  -26.750504
+                ],
+                [
+                  152.824237,
+                  -26.750267
+                ],
+                [
+                  152.824463,
+                  -26.749682
+                ],
+                [
+                  152.824277,
+                  -26.749165
+                ],
+                [
+                  152.824172,
+                  -26.749098
+                ],
+                [
+                  152.823837,
+                  -26.749017
+                ],
+                [
+                  152.823758,
+                  -26.749023
+                ],
+                [
+                  152.823565,
+                  -26.749075
+                ],
+                [
+                  152.820774,
+                  -26.750421
+                ],
+                [
+                  152.820512,
+                  -26.750767
+                ],
+                [
+                  152.820466,
+                  -26.751122
+                ],
+                [
+                  152.821037,
+                  -26.75162
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750589-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:19AM 26 Mar 2024",
+        "EST_FIX_TIME": "8:30AM 26 Mar 2024",
+        "STREETS": "LAWRENCE PL, MALENY-KENILWORTH RD",
+        "SUBURBS": "MALENY"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711400402.83834"
+  "extracted": "1711400700.305022"
 }
