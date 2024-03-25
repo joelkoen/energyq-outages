@@ -1003,7 +1003,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "6",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 26 Mar 2024",
         "EST_FIX_TIME": "2:30PM 26 Mar 2024",
         "STREETS": "ASTORQUIA RD, NO 6 BRANCH RD",
@@ -4048,11 +4048,32 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "29",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 26 Mar 2024",
         "EST_FIX_TIME": "2:30PM 26 Mar 2024",
         "STREETS": "COONARR RD, DJL DR, LEONARDIS RD",
         "SUBURBS": "ALLOWAY, KINKUNA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.606931,
+          -25.65096
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB3870",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 26 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 26 Mar 2024",
+        "STREETS": "ANTIGUA RD, BOUNDARY RD, BURTONS RD, HEATH RD, WAYLEN RD",
+        "SUBURBS": "ANTIGUA, OWANYILLA"
       }
     },
     {
@@ -4331,5 +4352,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1711404902.280451"
+  "extracted": "1711405201.620877"
 }
