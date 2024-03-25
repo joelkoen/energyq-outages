@@ -196,27 +196,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.824505,
-          -23.269189
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA3678",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "73",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:30AM 25 Mar 2024",
-        "EST_FIX_TIME": "12:30PM 25 Mar 2024",
-        "STREETS": "ALEXANDER ST, CONNOR ST, LARNACH ST, PACIFIC ST, SINGLETON ST",
-        "SUBURBS": "EMU PARK, ZILZIE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           150.771758,
           -23.361886
         ]
@@ -966,6 +945,27 @@
         "EST_FIX_TIME": "12:30PM 28 Mar 2024",
         "STREETS": "HAYWARD ST, KEEBLE ST, MCCOOMBE ST, MOODY ST",
         "SUBURBS": "MANOORA, MANUNDA, MOOROOBOOL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.581382,
+          -17.337591
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3616",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "10:28AM 25 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 25 Mar 2024",
+        "STREETS": "FORRESTER RD, PEETERS CL",
+        "SUBURBS": "KUREEN, MALANDA"
       }
     },
     {
@@ -2998,7 +2998,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "21",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "11:00AM 25 Mar 2024",
         "EST_FIX_TIME": "1:30PM 25 Mar 2024",
         "STREETS": "LEICHHARDT ST, YARDLEY CT",
@@ -5087,5 +5087,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1711326300.399073"
+  "extracted": "1711326607.23367"
 }
