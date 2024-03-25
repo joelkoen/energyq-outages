@@ -260,9 +260,110 @@
         "STREETS": "GREENBANK RD",
         "SUBURBS": "MUNRUBEN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.021916,
+              -27.380375
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.020415,
+                  -27.379429
+                ],
+                [
+                  153.020455,
+                  -27.381118
+                ],
+                [
+                  153.020492,
+                  -27.381277
+                ],
+                [
+                  153.021124,
+                  -27.382676
+                ],
+                [
+                  153.021683,
+                  -27.382952
+                ],
+                [
+                  153.022215,
+                  -27.382866
+                ],
+                [
+                  153.022613,
+                  -27.38254
+                ],
+                [
+                  153.023403,
+                  -27.379943
+                ],
+                [
+                  153.023417,
+                  -27.379767
+                ],
+                [
+                  153.023281,
+                  -27.378827
+                ],
+                [
+                  153.023061,
+                  -27.378509
+                ],
+                [
+                  153.022001,
+                  -27.377875
+                ],
+                [
+                  153.02171,
+                  -27.377798
+                ],
+                [
+                  153.021504,
+                  -27.377802
+                ],
+                [
+                  153.021054,
+                  -27.378066
+                ],
+                [
+                  153.02046,
+                  -27.379233
+                ],
+                [
+                  153.020415,
+                  -27.379429
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750432-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "67",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:40AM 25 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 25 Mar 2024",
+        "STREETS": "BIRRA ST, CRAIGSLEA ST, GIBUM ST, IMBER ST, JAGUAR ST, KURAGO ST, MILBURN ST, TAGGAN ST, WEBSTER RD",
+        "SUBURBS": "CHERMSIDE, CHERMSIDE WEST"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711330804.282409"
+  "extracted": "1711331103.025655"
 }
