@@ -455,9 +455,118 @@
         "STREETS": "CALDERVALE RD, CARGARA RD, TAMBO RD, UNKNOWN RD",
         "SUBURBS": "AUGATHELLA, CHARLEVILLE, TAMBO"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.749095,
+              -27.182774
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.47762,
+                  -27.071523
+                ],
+                [
+                  145.571674,
+                  -27.208702
+                ],
+                [
+                  145.571905,
+                  -27.208881
+                ],
+                [
+                  145.749114,
+                  -27.277091
+                ],
+                [
+                  145.74916,
+                  -27.277106
+                ],
+                [
+                  145.844757,
+                  -27.304246
+                ],
+                [
+                  145.845061,
+                  -27.304247
+                ],
+                [
+                  145.927184,
+                  -27.281265
+                ],
+                [
+                  145.927363,
+                  -27.281175
+                ],
+                [
+                  145.971343,
+                  -27.247084
+                ],
+                [
+                  145.971495,
+                  -27.246875
+                ],
+                [
+                  145.990465,
+                  -27.191441
+                ],
+                [
+                  145.990471,
+                  -27.191421
+                ],
+                [
+                  146.020569,
+                  -27.086716
+                ],
+                [
+                  146.020214,
+                  -27.086168
+                ],
+                [
+                  145.919554,
+                  -27.061317
+                ],
+                [
+                  145.919406,
+                  -27.061301
+                ],
+                [
+                  145.478039,
+                  -27.070836
+                ],
+                [
+                  145.47762,
+                  -27.071523
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6852",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "21",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "1:26PM 24 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CHARLEVILLE-WYANDRA RD, MITCHELL HWY, MOUNT ALFRED RD, MT ALFRED-QUILPIE RD, ROSEVALE RD, UNKNOWN RD",
+        "SUBURBS": "CHARLEVILLE, CUNNAMULLA, WYANDRA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711408201.55713"
+  "extracted": "1711408503.924143"
 }
