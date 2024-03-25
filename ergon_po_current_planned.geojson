@@ -196,6 +196,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.600771,
+          -17.512443
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3797",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 26 Mar 2024",
+        "EST_FIX_TIME": "1:00PM 26 Mar 2024",
+        "STREETS": "MALANDA RD",
+        "SUBURBS": "MILLAA MILLAA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           149.053255,
           -21.02137
         ]
@@ -462,6 +483,27 @@
         "EST_FIX_TIME": "10:30AM 26 Mar 2024",
         "STREETS": "STUART DR",
         "SUBURBS": "IDALIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.503704,
+          -20.712018
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6020",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "37",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 26 Mar 2024",
+        "EST_FIX_TIME": "1:00PM 26 Mar 2024",
+        "STREETS": "DELTA AVE, FISHER DR, ORION ST, READ CRES",
+        "SUBURBS": "SUNSET"
       }
     },
     {
@@ -761,5 +803,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711405802.224714"
+  "extracted": "1711406100.589754"
 }
