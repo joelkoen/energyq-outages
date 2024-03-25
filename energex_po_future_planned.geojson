@@ -490,27 +490,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.682089,
-          -26.205032
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-743611-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "31",
-        "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
-        "START": "8:00AM 26 Mar 2024",
-        "EST_FIX_TIME": "3:30PM 26 Mar 2024",
-        "STREETS": "BRISBANE RD, EAST DEEP CREEK RD, SHAW ST, SPRING ST, TYRRELL RD",
-        "SUBURBS": "MONKLAND"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           152.777663,
           -26.320154
         ]
@@ -1591,7 +1570,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "152",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "8:00AM 26 Mar 2024",
         "EST_FIX_TIME": "3:00PM 26 Mar 2024",
         "STREETS": "CRANK ST, GYMPIE ST, HENDRY ST, MCNAB AVE, PRINGLE CRES, WERIN ST",
@@ -1675,7 +1654,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "27",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "8:00AM 26 Mar 2024",
         "EST_FIX_TIME": "3:00PM 26 Mar 2024",
         "STREETS": "HAFLINGER RD, HIDDEN VALLEY RD, PATHARA RD",
@@ -2525,5 +2504,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1711406702.165208"
+  "extracted": "1711407000.567242"
 }
