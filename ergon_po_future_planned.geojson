@@ -562,7 +562,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "75",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:30AM 27 Mar 2024",
         "EST_FIX_TIME": "3:00PM 27 Mar 2024",
         "STREETS": "BEATRICE WAY, CARRICK RD, COLLINS RD, GLENDINNING RD, GREENWOOD RD, HARRIS RD, KENNEDY HWY, MAALAN RD, OLD PALMERSTON HWY, PALMERSTON HWY, SUTTEES GAP RD, VEIVERS RD",
@@ -1498,6 +1498,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.976928,
+          -27.990567
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW4462",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "79",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 27 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 27 Mar 2024",
+        "STREETS": "AYERS ROCK RD, BALINGA RD, BASIL DR, BAY RD, BOONDANDILLA RD, CAMELLIA CT, GORE HWY, HIBISCUS CT, KARRIBA RD, KIMBERLEY DR, KOALA DR, PRIMROSE DR, ROSELLA AVE, THYME AVE, WALLABY DR, WARATAH DR",
+        "SUBURBS": "BULLI CREEK, CAPTAINS MOUNTAIN, CYPRESS GARDENS, MILLMERRAN, MILLMERRAN DOWNS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.97716,
           -27.559688
         ]
@@ -2147,5 +2168,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1711494001.440466"
+  "extracted": "1711494300.344273"
 }
