@@ -265,6 +265,59 @@
           {
             "type": "Point",
             "coordinates": [
+              144.858924,
+              -15.861941
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  144.859391,
+                  -15.861945
+                ],
+                [
+                  144.858929,
+                  -15.861489
+                ],
+                [
+                  144.858458,
+                  -15.861936
+                ],
+                [
+                  144.858919,
+                  -15.862392
+                ],
+                [
+                  144.859391,
+                  -15.861945
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4579",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:55PM 26 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MULLIGAN HWY, PENINSULA DEVELOPMENT RD",
+        "SUBURBS": "LAKELAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -499,5 +552,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711455304.665557"
+  "extracted": "1711455604.484991"
 }
