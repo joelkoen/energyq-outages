@@ -10,6 +10,99 @@
           {
             "type": "Point",
             "coordinates": [
+              150.316825,
+              -23.380807
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.284667,
+                  -23.368824
+                ],
+                [
+                  150.302144,
+                  -23.39379
+                ],
+                [
+                  150.302269,
+                  -23.393911
+                ],
+                [
+                  150.320835,
+                  -23.406238
+                ],
+                [
+                  150.321234,
+                  -23.406311
+                ],
+                [
+                  150.325465,
+                  -23.405377
+                ],
+                [
+                  150.325646,
+                  -23.405298
+                ],
+                [
+                  150.344087,
+                  -23.392443
+                ],
+                [
+                  150.344261,
+                  -23.39221
+                ],
+                [
+                  150.348357,
+                  -23.379385
+                ],
+                [
+                  150.348377,
+                  -23.379268
+                ],
+                [
+                  150.348984,
+                  -23.355755
+                ],
+                [
+                  150.348391,
+                  -23.355304
+                ],
+                [
+                  150.284973,
+                  -23.368139
+                ],
+                [
+                  150.284667,
+                  -23.368824
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4936",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "32",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews on route",
+        "START": "8:11PM 26 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOND RD, CUNNINGHAM'S RD, LION MOUNTAIN RD, TUCKER RD",
+        "SUBURBS": "ALTON DOWNS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -515,5 +608,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711448401.814453"
+  "extracted": "1711448701.792214"
 }
