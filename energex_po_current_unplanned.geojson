@@ -368,9 +368,98 @@
         "STREETS": "ABBY CRES, ALLSPICE DR, ANTHEA CT, BANYAN CT, BINALONG DR, BLIGH CT, BOREE ST, BOXTHORN ST, COOBAH CT, COOLONG CT, CORUNNA CRES, COTLEW ST, COTLEW ST W, CURRUMBURRA RD, DURI PL, EVANS DR, EXPO CT, FREDA ST, HEEB ST, HERMITAGE CL, HILLVIEW PDE, HORIZON AVE, KAMO CT, LIMOSA ST, LINDAL ST, LOWANNA DR, LUISA CT, MARIA PL, MARLBOROUGH CT, MILBONG TCE, MUALLA DR, MULYAN PL, MURRUMBA DR, MUSA ST, NEMO ST, PARASOL ST, PINKWOOD DR, RAFTERY ST, ROBA PL, SAMANTHA CT, SUN VALLEY DR, TAMBOURAH DR, TANGERINE ROW, THE CRESCENT, TOMANBIL TCE, WALLAROO WAY, WARDOO ST, WARRIGAL CRES, WUDINA CT, YANGOORA CRES, YARRADUP ST",
         "SUBURBS": "ASHMORE, BENOWA, SOUTHPORT"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.953821,
+              -27.300157
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.952278,
+                  -27.301367
+                ],
+                [
+                  152.953294,
+                  -27.301329
+                ],
+                [
+                  152.95355,
+                  -27.301255
+                ],
+                [
+                  152.955867,
+                  -27.299895
+                ],
+                [
+                  152.955731,
+                  -27.299085
+                ],
+                [
+                  152.95527,
+                  -27.298965
+                ],
+                [
+                  152.955121,
+                  -27.298947
+                ],
+                [
+                  152.954921,
+                  -27.29895
+                ],
+                [
+                  152.954811,
+                  -27.298962
+                ],
+                [
+                  152.954697,
+                  -27.298986
+                ],
+                [
+                  152.954538,
+                  -27.299047
+                ],
+                [
+                  152.951981,
+                  -27.300538
+                ],
+                [
+                  152.951776,
+                  -27.301054
+                ],
+                [
+                  152.952278,
+                  -27.301367
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750958-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "20",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:54AM 27 Mar 2024",
+        "EST_FIX_TIME": "8:30AM 27 Mar 2024",
+        "STREETS": "BRISBANE RD, HILLARY DR, NORGAY CT",
+        "SUBURBS": "WARNER"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711486805.302943"
+  "extracted": "1711487101.729607"
 }
