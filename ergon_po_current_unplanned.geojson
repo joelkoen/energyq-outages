@@ -435,6 +435,99 @@
           {
             "type": "Point",
             "coordinates": [
+              139.500013,
+              -20.71318
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  139.49837,
+                  -20.71605
+                ],
+                [
+                  139.501671,
+                  -20.714531
+                ],
+                [
+                  139.501749,
+                  -20.714486
+                ],
+                [
+                  139.502223,
+                  -20.714149
+                ],
+                [
+                  139.502339,
+                  -20.713554
+                ],
+                [
+                  139.500514,
+                  -20.710808
+                ],
+                [
+                  139.50048,
+                  -20.710764
+                ],
+                [
+                  139.500146,
+                  -20.710375
+                ],
+                [
+                  139.499471,
+                  -20.710311
+                ],
+                [
+                  139.498402,
+                  -20.711145
+                ],
+                [
+                  139.498326,
+                  -20.711221
+                ],
+                [
+                  139.498197,
+                  -20.711381
+                ],
+                [
+                  139.498104,
+                  -20.711607
+                ],
+                [
+                  139.497686,
+                  -20.715603
+                ],
+                [
+                  139.49837,
+                  -20.71605
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6706",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "110",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:42PM 26 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BERNBOROUGH ST, CARBINE AVE, NORTH ST, SHORT ST, SIMPSON ST, SUNSET DR",
+        "SUBURBS": "MENZIES, MOUNT ISA CITY, WINSTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -633,5 +726,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711428000.505195"
+  "extracted": "1711428302.50462"
 }
