@@ -233,6 +233,99 @@
           {
             "type": "Point",
             "coordinates": [
+              146.821568,
+              -19.297955
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.820371,
+                  -19.297198
+                ],
+                [
+                  146.820567,
+                  -19.298669
+                ],
+                [
+                  146.820758,
+                  -19.298977
+                ],
+                [
+                  146.821086,
+                  -19.299204
+                ],
+                [
+                  146.821465,
+                  -19.299282
+                ],
+                [
+                  146.821874,
+                  -19.2992
+                ],
+                [
+                  146.822081,
+                  -19.299104
+                ],
+                [
+                  146.822592,
+                  -19.298699
+                ],
+                [
+                  146.822668,
+                  -19.298621
+                ],
+                [
+                  146.822766,
+                  -19.298496
+                ],
+                [
+                  146.822727,
+                  -19.297914
+                ],
+                [
+                  146.821557,
+                  -19.296758
+                ],
+                [
+                  146.821121,
+                  -19.296628
+                ],
+                [
+                  146.82075,
+                  -19.296698
+                ],
+                [
+                  146.820371,
+                  -19.297198
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6678",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "29",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "10:45AM 26 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "FINDLATER ST, O'DONNELL ST, WAGNER ST",
+        "SUBURBS": "OONOONBA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -528,5 +621,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711414201.44769"
+  "extracted": "1711414500.360035"
 }
