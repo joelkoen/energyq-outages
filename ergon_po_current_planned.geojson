@@ -394,7 +394,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "82",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 27 Mar 2024",
         "EST_FIX_TIME": "1:00PM 27 Mar 2024",
         "STREETS": "BAILLIE RD, BLAIRS GLY, CLARK RD, GRANT RD, KENNEDY HWY, POOLS RD, SHADY CREEK RD, SILVER VALLEY RD, SPLIT ROCK RD, SUNSET RDGE, TOBACCO RD, WILD RIVER RD, WOODLEIGH RD",
@@ -847,6 +847,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.770096,
+          -19.280962
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5784",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "63",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 27 Mar 2024",
+        "EST_FIX_TIME": "11:30AM 27 Mar 2024",
+        "STREETS": "CAMBRIDGE ST, DEVON ST, MOONEY ST, PALMERSTON ST, STAFFORD ST, TIPPETT ST",
+        "SUBURBS": "CURRAJONG, GULLIVER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.761572,
           -19.273309
         ]
@@ -1223,5 +1244,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711493101.526424"
+  "extracted": "1711493401.304166"
 }
