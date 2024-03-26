@@ -621,9 +621,102 @@
         "STREETS": "CHARLEVILLE-WYANDRA RD, ROSEVALE RD",
         "SUBURBS": "CHARLEVILLE, WYANDRA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.717487,
+              -26.764191
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.636109,
+                  -26.724194
+                ],
+                [
+                  148.657244,
+                  -26.762058
+                ],
+                [
+                  148.657244,
+                  -26.762059
+                ],
+                [
+                  148.712984,
+                  -26.861389
+                ],
+                [
+                  148.713581,
+                  -26.861617
+                ],
+                [
+                  148.791573,
+                  -26.840008
+                ],
+                [
+                  148.791904,
+                  -26.839713
+                ],
+                [
+                  148.798865,
+                  -26.820027
+                ],
+                [
+                  148.798848,
+                  -26.819714
+                ],
+                [
+                  148.726203,
+                  -26.667036
+                ],
+                [
+                  148.725675,
+                  -26.666765
+                ],
+                [
+                  148.71293,
+                  -26.668285
+                ],
+                [
+                  148.712681,
+                  -26.668381
+                ],
+                [
+                  148.636243,
+                  -26.72364
+                ],
+                [
+                  148.636109,
+                  -26.724194
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6868",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:00PM 26 Mar 2024",
+        "EST_FIX_TIME": "5:00PM 26 Mar 2024",
+        "STREETS": "BELLEVUE RD, BURNSDALE RD, COORINDA RD, HOLYROOD RD, MERINO DOWNS RD, MOUNT ABUNDANCE RD, MT ABUNDANCE RD, REDBANK RD, SEVENTEEN MILE LANE, SIX MILE RD, SOUTHERN RD",
+        "SUBURBS": "MOUNT ABUNDANCE, ROMA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711429500.369382"
+  "extracted": "1711429800.516476"
 }
