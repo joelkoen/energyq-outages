@@ -175,6 +175,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.576723,
+          -24.515002
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA3919",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:35AM 27 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 27 Mar 2024",
+        "STREETS": "MCLAUGHLINS RD",
+        "SUBURBS": "THANGOOL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.881759,
           -23.565658
         ]
@@ -688,7 +709,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "67",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 27 Mar 2024",
         "EST_FIX_TIME": "1:00PM 27 Mar 2024",
         "STREETS": "MARLBOROUGH-SARINA RD, MOUNT BLARNEY RD, RAINFOREST RD, RANGE RD, SICHTER ST, WEBSTER RD",
@@ -861,6 +882,27 @@
         "EST_FIX_TIME": "3:00PM 27 Mar 2024",
         "STREETS": "MACROSSAN ST, RIVER AVE, VICTORIA TCE",
         "SUBURBS": "HALIFAX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.205267,
+          -20.839327
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ4747",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:35AM 27 Mar 2024",
+        "EST_FIX_TIME": "1:00PM 27 Mar 2024",
+        "STREETS": "DALRYMPLE RD, HAMMOND CT, LITTLE AVE",
+        "SUBURBS": "HUGHENDEN"
       }
     },
     {
@@ -2189,5 +2231,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1711492500.36873"
+  "extracted": "1711492800.547011"
 }
