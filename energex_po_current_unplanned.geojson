@@ -217,7 +217,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "64",
         "REASON": "Under Investigation",
-        "STATUS": "In Progress",
+        "STATUS": "Awaiting",
         "START": "10:51AM 26 Mar 2024",
         "EST_FIX_TIME": "4:00PM 26 Mar 2024",
         "STREETS": "CALDON ST, CAROWELL ST, CULROSS ST, DELLOW ST, GREGORY ST, KIRKLEY ST",
@@ -472,9 +472,142 @@
         "STREETS": "AMITY CT, ANNE MARIE CT, BAYSWATER DR, BELLENDEN CT, CANAIPA CT, CARL JUNG CT, COVE CT, FINUGE CT, ILLIDGE RD, KIANGA CT, LAKEFIELD DR, LOMOND PL, LOOKOUT CT, MACADAMIA ST, MARITIME CT, NORFOLK CT, ORANA ESP, ORANA ST, PALMERSTON PL, POINT O'HALLORAN RD, ROUS CT, SKIRMISH CT, TIPPLERS ST, TOONDAH CT",
         "SUBURBS": "VICTORIA POINT"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.87843,
+              -26.48958
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.843032,
+                  -26.50434
+                ],
+                [
+                  152.844614,
+                  -26.516193
+                ],
+                [
+                  152.844925,
+                  -26.516559
+                ],
+                [
+                  152.873807,
+                  -26.526985
+                ],
+                [
+                  152.873999,
+                  -26.527017
+                ],
+                [
+                  152.878026,
+                  -26.52698
+                ],
+                [
+                  152.878223,
+                  -26.526942
+                ],
+                [
+                  152.883616,
+                  -26.524805
+                ],
+                [
+                  152.883862,
+                  -26.524594
+                ],
+                [
+                  152.912219,
+                  -26.473486
+                ],
+                [
+                  152.912266,
+                  -26.473358
+                ],
+                [
+                  152.913828,
+                  -26.464832
+                ],
+                [
+                  152.913828,
+                  -26.464687
+                ],
+                [
+                  152.912329,
+                  -26.456325
+                ],
+                [
+                  152.912302,
+                  -26.456237
+                ],
+                [
+                  152.910686,
+                  -26.452415
+                ],
+                [
+                  152.910071,
+                  -26.452143
+                ],
+                [
+                  152.89327,
+                  -26.456735
+                ],
+                [
+                  152.893149,
+                  -26.456785
+                ],
+                [
+                  152.866609,
+                  -26.471803
+                ],
+                [
+                  152.86657,
+                  -26.471828
+                ],
+                [
+                  152.866117,
+                  -26.472142
+                ],
+                [
+                  152.866002,
+                  -26.472254
+                ],
+                [
+                  152.843109,
+                  -26.50404
+                ],
+                [
+                  152.843032,
+                  -26.50434
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750769-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "252",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "1:57PM 26 Mar 2024",
+        "EST_FIX_TIME": "4:30PM 26 Mar 2024",
+        "STREETS": "ANDERSON RD, ARCHER RD, BLACKALL RD, BROWNS CREEK RD, BROWNS RD, BUCKBY RD, CEYLON RD, CHERRY LANE, EUMUNDI-KENILWORTH RD, FLEETWOOD RD, LANGFELDT RD, LARNEYS LANE, LOCKES LANE, MAIALA CT, MINESHAFT RD, MUSAVALE RD, OLD CEYLON RD, PEARCE RD, POINT GLORIOUS RD",
+        "SUBURBS": "BELLI PARK, COOLOOLABIN, COOROY, EERWAH VALE, RIDGEWOOD"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711425301.989574"
+  "extracted": "1711425605.696267"
 }
