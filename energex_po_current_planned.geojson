@@ -352,7 +352,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "34",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "Cancelled",
         "START": "8:00AM 27 Mar 2024",
         "EST_FIX_TIME": "2:00PM 27 Mar 2024",
         "STREETS": "FIELDINGS RD, HAWLEYS RD, LOGAN RD, QAC CONNECTION RD, RAABE RD, WARREGO HWY",
@@ -667,7 +667,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "132",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "8:00AM 27 Mar 2024",
         "EST_FIX_TIME": "3:30PM 27 Mar 2024",
         "STREETS": "CATHRYN CT, CEDAR GROVE RD, LEOPARDWOOD RD, MICHELLE DR, TULIPWOOD RD, WENDY CT",
@@ -777,27 +777,6 @@
         "EST_FIX_TIME": "3:00PM 27 Mar 2024",
         "STREETS": "BAYMILL CT",
         "SUBURBS": "MERRIMAC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.075958,
-          -27.391926
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-747973-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "17",
-        "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
-        "START": "8:00AM 27 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 27 Mar 2024",
-        "STREETS": "ARNOLD RD, COULTER CRES, MANN AVE",
-        "SUBURBS": "NORTHGATE"
       }
     },
     {
@@ -950,5 +929,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711488604.943302"
+  "extracted": "1711488900.346393"
 }
