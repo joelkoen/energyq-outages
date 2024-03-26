@@ -217,6 +217,83 @@
           {
             "type": "Point",
             "coordinates": [
+              144.323036,
+              -18.145612
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  144.32096,
+                  -18.146575
+                ],
+                [
+                  144.324174,
+                  -18.146597
+                ],
+                [
+                  144.324533,
+                  -18.146443
+                ],
+                [
+                  144.325522,
+                  -18.145365
+                ],
+                [
+                  144.325572,
+                  -18.144835
+                ],
+                [
+                  144.325059,
+                  -18.144628
+                ],
+                [
+                  144.32144,
+                  -18.145442
+                ],
+                [
+                  144.32136,
+                  -18.145467
+                ],
+                [
+                  144.320775,
+                  -18.145709
+                ],
+                [
+                  144.320501,
+                  -18.146214
+                ],
+                [
+                  144.32096,
+                  -18.146575
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4598",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:42AM 27 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CRYSTAL LANE, GARLAND ST",
+        "SUBURBS": "MOUNT SURPRISE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -1025,5 +1102,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711496702.019544"
+  "extracted": "1711497000.627808"
 }
