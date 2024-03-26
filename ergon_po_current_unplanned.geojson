@@ -503,9 +503,78 @@
         "STREETS": "LANGANS RD",
         "SUBURBS": "NANANGO"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.636267,
+              -25.95246
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.634878,
+                  -25.95247
+                ],
+                [
+                  152.636651,
+                  -25.953476
+                ],
+                [
+                  152.63723,
+                  -25.953444
+                ],
+                [
+                  152.637656,
+                  -25.953129
+                ],
+                [
+                  152.637619,
+                  -25.952408
+                ],
+                [
+                  152.63612,
+                  -25.951496
+                ],
+                [
+                  152.635679,
+                  -25.951444
+                ],
+                [
+                  152.634979,
+                  -25.951664
+                ],
+                [
+                  152.634878,
+                  -25.95247
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4468",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "4:42PM 26 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARBORNINE RD, ARBORTHIRTY-SEVEN RD",
+        "SUBURBS": "GLENWOOD"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711435201.4542"
+  "extracted": "1711435503.776033"
 }
