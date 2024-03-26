@@ -219,9 +219,118 @@
         "STREETS": "BEECHMONT RD, BRUSHBOX RD",
         "SUBURBS": "LOWER BEECHMONT"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.075462,
+              -27.564515
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.073009,
+                  -27.564514
+                ],
+                [
+                  153.073035,
+                  -27.56477
+                ],
+                [
+                  153.073071,
+                  -27.564901
+                ],
+                [
+                  153.074112,
+                  -27.567158
+                ],
+                [
+                  153.07459,
+                  -27.567438
+                ],
+                [
+                  153.077124,
+                  -27.567394
+                ],
+                [
+                  153.077435,
+                  -27.567292
+                ],
+                [
+                  153.077764,
+                  -27.567052
+                ],
+                [
+                  153.077914,
+                  -27.566536
+                ],
+                [
+                  153.076012,
+                  -27.562285
+                ],
+                [
+                  153.075939,
+                  -27.562173
+                ],
+                [
+                  153.07587,
+                  -27.562094
+                ],
+                [
+                  153.075755,
+                  -27.561999
+                ],
+                [
+                  153.075177,
+                  -27.561653
+                ],
+                [
+                  153.07476,
+                  -27.561592
+                ],
+                [
+                  153.074014,
+                  -27.561775
+                ],
+                [
+                  153.073658,
+                  -27.562101
+                ],
+                [
+                  153.073022,
+                  -27.564364
+                ],
+                [
+                  153.073009,
+                  -27.564514
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750666-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "107",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "10:03AM 26 Mar 2024",
+        "EST_FIX_TIME": "12:30PM 26 Mar 2024",
+        "STREETS": "BLUEGUM ST, KESSELS RD, MINTERN ST, PARKWAY ST, SHERATON ST, SHIRLAND ST, SPRINGFIELD ST, WESTLAND ST",
+        "SUBURBS": "MACGREGOR"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711411202.902813"
+  "extracted": "1711411500.696969"
 }
