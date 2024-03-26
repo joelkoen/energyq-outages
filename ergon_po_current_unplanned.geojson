@@ -188,6 +188,115 @@
           {
             "type": "Point",
             "coordinates": [
+              145.731694,
+              -16.925904
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.72995,
+                  -16.926254
+                ],
+                [
+                  145.730443,
+                  -16.927824
+                ],
+                [
+                  145.730832,
+                  -16.928142
+                ],
+                [
+                  145.731816,
+                  -16.928265
+                ],
+                [
+                  145.732312,
+                  -16.927986
+                ],
+                [
+                  145.733101,
+                  -16.926105
+                ],
+                [
+                  145.733124,
+                  -16.926037
+                ],
+                [
+                  145.733456,
+                  -16.924641
+                ],
+                [
+                  145.733433,
+                  -16.92437
+                ],
+                [
+                  145.733207,
+                  -16.923834
+                ],
+                [
+                  145.732792,
+                  -16.923553
+                ],
+                [
+                  145.73255,
+                  -16.923543
+                ],
+                [
+                  145.732484,
+                  -16.923545
+                ],
+                [
+                  145.730572,
+                  -16.923726
+                ],
+                [
+                  145.730162,
+                  -16.92407
+                ],
+                [
+                  145.730102,
+                  -16.92431
+                ],
+                [
+                  145.730091,
+                  -16.924375
+                ],
+                [
+                  145.729932,
+                  -16.926083
+                ],
+                [
+                  145.72995,
+                  -16.926254
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4570",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "110",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:41PM 26 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DAVIS CL, DIWI DIWI ST, MILLARD ST, RONTO CL, SILKY OAK CT, WITNEY ST",
+        "SUBURBS": "MANOORA, MOOROOBOOL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -309,94 +418,9 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              152.568397,
-              -26.097221
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.566501,
-                  -26.097341
-                ],
-                [
-                  152.566547,
-                  -26.097736
-                ],
-                [
-                  152.566961,
-                  -26.098132
-                ],
-                [
-                  152.568413,
-                  -26.098347
-                ],
-                [
-                  152.568654,
-                  -26.098329
-                ],
-                [
-                  152.569068,
-                  -26.098202
-                ],
-                [
-                  152.569186,
-                  -26.098149
-                ],
-                [
-                  152.570294,
-                  -26.097475
-                ],
-                [
-                  152.57028,
-                  -26.096721
-                ],
-                [
-                  152.56922,
-                  -26.096123
-                ],
-                [
-                  152.568753,
-                  -26.096094
-                ],
-                [
-                  152.566793,
-                  -26.096883
-                ],
-                [
-                  152.566501,
-                  -26.097341
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB4469",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "8",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
-        "START": "1:55PM 26 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "DAN MEURANT DR, ELSOM CT",
-        "SUBURBS": "CURRA"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711443002.160315"
+  "extracted": "1711443302.160684"
 }
