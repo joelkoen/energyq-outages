@@ -318,6 +318,159 @@
           {
             "type": "Point",
             "coordinates": [
+              145.661939,
+              -16.749924
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.642975,
+                  -16.723696
+                ],
+                [
+                  145.644298,
+                  -16.726605
+                ],
+                [
+                  145.644306,
+                  -16.726622
+                ],
+                [
+                  145.658816,
+                  -16.755278
+                ],
+                [
+                  145.658849,
+                  -16.755332
+                ],
+                [
+                  145.671832,
+                  -16.773958
+                ],
+                [
+                  145.671964,
+                  -16.774084
+                ],
+                [
+                  145.675573,
+                  -16.776364
+                ],
+                [
+                  145.675743,
+                  -16.77643
+                ],
+                [
+                  145.677474,
+                  -16.776743
+                ],
+                [
+                  145.67767,
+                  -16.776739
+                ],
+                [
+                  145.677831,
+                  -16.776702
+                ],
+                [
+                  145.677877,
+                  -16.776688
+                ],
+                [
+                  145.679316,
+                  -16.776201
+                ],
+                [
+                  145.679555,
+                  -16.77602
+                ],
+                [
+                  145.680226,
+                  -16.775017
+                ],
+                [
+                  145.680257,
+                  -16.774961
+                ],
+                [
+                  145.680713,
+                  -16.774006
+                ],
+                [
+                  145.680733,
+                  -16.773957
+                ],
+                [
+                  145.680895,
+                  -16.773476
+                ],
+                [
+                  145.680904,
+                  -16.773225
+                ],
+                [
+                  145.671993,
+                  -16.739704
+                ],
+                [
+                  145.671863,
+                  -16.739489
+                ],
+                [
+                  145.668163,
+                  -16.736087
+                ],
+                [
+                  145.668065,
+                  -16.736018
+                ],
+                [
+                  145.644415,
+                  -16.723469
+                ],
+                [
+                  145.644386,
+                  -16.723455
+                ],
+                [
+                  145.643602,
+                  -16.723105
+                ],
+                [
+                  145.643077,
+                  -16.723192
+                ],
+                [
+                  145.642975,
+                  -16.723696
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4581",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2182",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:34PM 26 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AMPHORA ST, ARGENTEA BVD, ARLINGTON ESP, AURELIA RD, BAINES ST, BANGALOW LANE, BATT ST, BEACHMONT PL, BEACHSIDE CL, BILLINGAI CL, BUCHAN ST, BURSA ST, CALAMUS CT, CAMELIA CT, CANOPY WAY, CAPTAIN COOK HWY, CASCADE BLV, CASCADE BVD, CEDAR RD, COCUS CRES, COLONEL CUMMINGS DR, CORAL COAST DR, COWRIE ST, DRUPA ST, EVERGLADES ST, FLYNN CL, FOLEY RD, FRESHWATER AVE, GARLOCK CL, GREENHAVEN ST, HARPA ST, HAVEN CL, HELSDON CL, HIDEAWAY CL, HOPE ST, KENTIA ST, KURT CL, LAMBUS ST, LATANIA CL, LILLIAN RD, LINDEN ST, LITARA CT, MACARTHUR CL, MCDONALD CL, MILLN CL, MULLER ST, OCEAN DR, OLIVA ST, PALM COVE BVD, PALMETTO ST, RETREAT CL, RIBBONWOOD CT, RUDDER CL, RUDDER ST, SAGO CL, SANCTUARY CL, SAVANNAH ST, SEASIDE PDE, SECLUSION DR, SENNFELD CL, SHAMBHALA PL, SILVER CRES, ST CRISPIN ST, TALPA CL, TEREBRA ST, THAIS ST, THE VILLAGE WAY, TRITON ST, TRIVIA ST, UNDINE ST, UNITY ST, VEIVERS RD, WARREN ST, WILLIAMS ESP",
+        "SUBURBS": "BUCHAN POINT, CLIFTON BEACH, ELLIS BEACH, PALM COVE, SWEET CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -443,5 +596,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711456501.796302"
+  "extracted": "1711456802.590776"
 }
