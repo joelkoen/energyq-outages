@@ -316,7 +316,7 @@
         "REASON": "Powerlines down",
         "STATUS": "In Progress",
         "START": "6:15PM 26 Mar 2024",
-        "EST_FIX_TIME": "10:30PM 26 Mar 2024",
+        "EST_FIX_TIME": "9:00PM 26 Mar 2024",
         "STREETS": "ABBOTSFORD ST, BELLAMBI ST, CRESSBROOK ST, DREM ST, FULHAM ST, GUNYAH ST, MANGERTON ST",
         "SUBURBS": "TOOGOOLAWAH"
       }
@@ -433,7 +433,7 @@
         "REASON": "Under Investigation",
         "STATUS": "In Progress",
         "START": "7:51PM 26 Mar 2024",
-        "EST_FIX_TIME": "10:00PM 26 Mar 2024",
+        "EST_FIX_TIME": "10:30PM 26 Mar 2024",
         "STREETS": "BOULTON DR, BOWDEN CT, EDEN CT, JOSH CT, LAWRENCE DR, LEAGUES CLUB DR, NERANG ST, NERANG-BROADBEACH RD, PARADISE ST, PARKRIDGE DR, PINE GROVE ST, RHIANNON DR, RIVERVIEW RD, RIVERWOOD DR, SARAH PL, SHORT ST, SOUTHPORT-NERANG RD, WARRENER ST",
         "SUBURBS": "ASHMORE, MOLENDINAR, NERANG"
       }
@@ -522,9 +522,94 @@
         "STREETS": "BEESTON DR, BRISBANE VALLEY HWY, FAIRNEYVIEW FERNVALE RD, GRAHAM RD, SCHROEDER LANE",
         "SUBURBS": "FERNVALE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.6671,
+              -27.472011
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.663425,
+                  -27.471854
+                ],
+                [
+                  152.666955,
+                  -27.475595
+                ],
+                [
+                  152.667417,
+                  -27.475751
+                ],
+                [
+                  152.670357,
+                  -27.475358
+                ],
+                [
+                  152.670775,
+                  -27.474811
+                ],
+                [
+                  152.669659,
+                  -27.470466
+                ],
+                [
+                  152.669617,
+                  -27.470362
+                ],
+                [
+                  152.66851,
+                  -27.468426
+                ],
+                [
+                  152.667754,
+                  -27.468272
+                ],
+                [
+                  152.66566,
+                  -27.469688
+                ],
+                [
+                  152.665652,
+                  -27.469694
+                ],
+                [
+                  152.663499,
+                  -27.471209
+                ],
+                [
+                  152.663425,
+                  -27.471854
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750892-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "8:21PM 26 Mar 2024",
+        "EST_FIX_TIME": "10:00PM 26 Mar 2024",
+        "STREETS": "ALLEN RD, BRISBANE VALLEY HWY, HARRIS RD, VALMA LANE",
+        "SUBURBS": "FERNVALE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711449004.35061"
+  "extracted": "1711449306.417473"
 }
