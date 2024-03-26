@@ -408,9 +408,126 @@
         "STREETS": "BEASLEY DR, FONTEBASSO CCT, ISAAC PL, JOSHUA PL, JUNO CT, MULLER ST, TOMARAH CT, VANSTONE WAY",
         "SUBURBS": "REDLAND BAY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.719537,
+              -26.838035
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.676703,
+                  -26.820749
+                ],
+                [
+                  152.683041,
+                  -26.839372
+                ],
+                [
+                  152.683104,
+                  -26.839491
+                ],
+                [
+                  152.684869,
+                  -26.84186
+                ],
+                [
+                  152.684955,
+                  -26.841948
+                ],
+                [
+                  152.685688,
+                  -26.842528
+                ],
+                [
+                  152.685827,
+                  -26.842606
+                ],
+                [
+                  152.695832,
+                  -26.846338
+                ],
+                [
+                  152.695886,
+                  -26.846355
+                ],
+                [
+                  152.726537,
+                  -26.854237
+                ],
+                [
+                  152.726634,
+                  -26.854253
+                ],
+                [
+                  152.749181,
+                  -26.855898
+                ],
+                [
+                  152.749546,
+                  -26.855794
+                ],
+                [
+                  152.762197,
+                  -26.84623
+                ],
+                [
+                  152.76237,
+                  -26.845818
+                ],
+                [
+                  152.761921,
+                  -26.843159
+                ],
+                [
+                  152.76181,
+                  -26.842938
+                ],
+                [
+                  152.751183,
+                  -26.831499
+                ],
+                [
+                  152.75088,
+                  -26.831343
+                ],
+                [
+                  152.677268,
+                  -26.820172
+                ],
+                [
+                  152.676703,
+                  -26.820749
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751001-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "85",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "8:41AM 27 Mar 2024",
+        "EST_FIX_TIME": "11:00AM 27 Mar 2024",
+        "STREETS": "BELLTHORPE RANGE RD, BELLTHORPE WEST RD, CAMPBELL RD, GAP RD, KEIR RD, MEARS LANE, PLUMB RD, WILLETT RD",
+        "SUBURBS": "BELLTHORPE, BOOROOBIN"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711492800.391202"
+  "extracted": "1711493103.756161"
 }
