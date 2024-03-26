@@ -243,9 +243,78 @@
         "STREETS": "ANDERSON RD, ARCHER RD, BLACKALL RD, BROWNS CREEK RD, BROWNS RD, BUCKBY RD, CEYLON RD, CHERRY LANE, EUMUNDI-KENILWORTH RD, FLEETWOOD RD, LANGFELDT RD, LARNEYS LANE, LOCKES LANE, MAIALA CT, MINESHAFT RD, MUSAVALE RD, OLD CEYLON RD, PEARCE RD, POINT GLORIOUS RD",
         "SUBURBS": "BELLI PARK, COOLOOLABIN, COOROY, EERWAH VALE, RIDGEWOOD"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.97742,
+              -26.68712
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.977052,
+                  -26.687716
+                ],
+                [
+                  152.97759,
+                  -26.687814
+                ],
+                [
+                  152.978189,
+                  -26.68732
+                ],
+                [
+                  152.978104,
+                  -26.686664
+                ],
+                [
+                  152.977221,
+                  -26.686425
+                ],
+                [
+                  152.976773,
+                  -26.686901
+                ],
+                [
+                  152.976655,
+                  -26.68717
+                ],
+                [
+                  152.97665,
+                  -26.687252
+                ],
+                [
+                  152.977052,
+                  -26.687716
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750789-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "2:59PM 26 Mar 2024",
+        "EST_FIX_TIME": "5:00PM 26 Mar 2024",
+        "STREETS": "SAUNDERS LANE, WINSTON RD S",
+        "SUBURBS": "PALMWOODS"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711433101.495274"
+  "extracted": "1711433401.581492"
 }
