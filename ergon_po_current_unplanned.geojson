@@ -724,6 +724,107 @@
           {
             "type": "Point",
             "coordinates": [
+              145.689315,
+              -16.838763
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.684586,
+                  -16.84127
+                ],
+                [
+                  145.689751,
+                  -16.843351
+                ],
+                [
+                  145.689761,
+                  -16.843355
+                ],
+                [
+                  145.693669,
+                  -16.844833
+                ],
+                [
+                  145.694294,
+                  -16.844298
+                ],
+                [
+                  145.692028,
+                  -16.835922
+                ],
+                [
+                  145.692009,
+                  -16.835867
+                ],
+                [
+                  145.691018,
+                  -16.83349
+                ],
+                [
+                  145.690933,
+                  -16.833358
+                ],
+                [
+                  145.69046,
+                  -16.832844
+                ],
+                [
+                  145.690089,
+                  -16.832693
+                ],
+                [
+                  145.68844,
+                  -16.83276
+                ],
+                [
+                  145.68805,
+                  -16.832993
+                ],
+                [
+                  145.686945,
+                  -16.834915
+                ],
+                [
+                  145.686926,
+                  -16.834953
+                ],
+                [
+                  145.684337,
+                  -16.840673
+                ],
+                [
+                  145.684586,
+                  -16.84127
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4587",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "233",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "12:12AM 27 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ASHWOOD CCT, ATLAS CL, BEACHSIDE CL, BRAESIDE CT, BUSHLARK PL, CAMERON CL, CANOPY EDGE BVD, CANOPYS EDGE BVD, CANTAL CL, CAPTAIN COOK HWY, CUMBERLAND AVE, JABIRU CT, KATANGA CL, KENNEDY CREEK HWY, KENNEDY HWY, LAKESIDE DR, LAPWING PL, ROSSMANN RD, SURVEY ST",
+        "SUBURBS": "PALM COVE, SMITHFIELD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -849,5 +950,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711464002.065509"
+  "extracted": "1711464306.053749"
 }
