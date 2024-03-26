@@ -910,6 +910,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.55834,
+          -20.285103
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2812",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 27 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 27 Mar 2024",
+        "STREETS": "ASHTON RD",
+        "SUBURBS": "GREGORY RIVER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.283633,
           -18.582645
         ]
@@ -1603,27 +1624,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.384298,
-          -26.731323
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW1108",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "18",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
-        "START": "8:30AM 27 Mar 2024",
-        "EST_FIX_TIME": "3:00PM 27 Mar 2024",
-        "STREETS": "BUNYA HWY, COORANGA NORTH-NIAGRA RD, CROWLES RD, NIAGARA RD",
-        "SUBURBS": "COORANGA NORTH, DIAMONDY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           150.976928,
           -27.990567
         ]
@@ -1822,7 +1822,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "18",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 27 Mar 2024",
         "EST_FIX_TIME": "2:30PM 27 Mar 2024",
         "STREETS": "COSTANZO LANE, MCMENIMAN RD, PINE GROVE RD, RICCA RD, SUNDOWN RD",
@@ -2525,5 +2525,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1711491600.490049"
+  "extracted": "1711491901.249876"
 }
