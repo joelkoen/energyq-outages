@@ -347,6 +347,99 @@
           {
             "type": "Point",
             "coordinates": [
+              150.964597,
+              -27.019325
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.905842,
+                  -26.934736
+                ],
+                [
+                  150.908962,
+                  -26.970512
+                ],
+                [
+                  150.909002,
+                  -26.970656
+                ],
+                [
+                  150.973778,
+                  -27.104232
+                ],
+                [
+                  150.97456,
+                  -27.1044
+                ],
+                [
+                  150.9879,
+                  -27.094546
+                ],
+                [
+                  150.987984,
+                  -27.094467
+                ],
+                [
+                  151.023344,
+                  -27.051878
+                ],
+                [
+                  151.023351,
+                  -27.05135
+                ],
+                [
+                  150.935003,
+                  -26.939309
+                ],
+                [
+                  150.934931,
+                  -26.939236
+                ],
+                [
+                  150.929989,
+                  -26.935188
+                ],
+                [
+                  150.92967,
+                  -26.93507
+                ],
+                [
+                  150.906363,
+                  -26.934251
+                ],
+                [
+                  150.905842,
+                  -26.934736
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6877",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:11AM 27 Mar 2024",
+        "EST_FIX_TIME": "11:00AM 27 Mar 2024",
+        "STREETS": "DAANDINE SOLDIERS RD, DALBY-KOGAN RD, KOGAN RD, LOGIE RD, MACALISTER WILKIE CREEK RD, WARREGO HWY",
+        "SUBURBS": "DAANDINE, KOGAN, MACALISTER, WARRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.545828,
               -28.251055
             ]
@@ -698,5 +791,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711493700.396917"
+  "extracted": "1711494001.440466"
 }
