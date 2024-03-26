@@ -102,9 +102,102 @@
         "STREETS": "BOONGALA CT, BRANCH RD, DALES RD, DRIVERS CT, HAWKINS RD, HOLSCOTT CT, KOBBLE CREEK RD, PRINGLES RD",
         "SUBURBS": "KOBBLE CREEK, SAMSONVALE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.768779,
+              -27.182839
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.717722,
+                  -27.234575
+                ],
+                [
+                  152.725019,
+                  -27.242229
+                ],
+                [
+                  152.725597,
+                  -27.242354
+                ],
+                [
+                  152.816317,
+                  -27.208665
+                ],
+                [
+                  152.816625,
+                  -27.208297
+                ],
+                [
+                  152.819945,
+                  -27.181271
+                ],
+                [
+                  152.819852,
+                  -27.180957
+                ],
+                [
+                  152.796419,
+                  -27.15197
+                ],
+                [
+                  152.796302,
+                  -27.151866
+                ],
+                [
+                  152.751229,
+                  -27.123333
+                ],
+                [
+                  152.750661,
+                  -27.123323
+                ],
+                [
+                  152.744616,
+                  -27.126855
+                ],
+                [
+                  152.7444,
+                  -27.127135
+                ],
+                [
+                  152.717614,
+                  -27.234184
+                ],
+                [
+                  152.717722,
+                  -27.234575
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750937-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "433",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:09AM 27 Mar 2024",
+        "EST_FIX_TIME": "7:30AM 27 Mar 2024",
+        "STREETS": "BAKER RD, BOBBIE CT, CHARLES RD, CLIFFORD RD, COSTELLOE RD, DIANE DR, FREDERICK HARRIS CT, GLOVER RD, GRAHAM CT, HENZELL RD, HILLVIEW CT, HORIZON CT, INGLIS CT, JUFFS RD, KUHN RD, LACEYS CREEK RD, LAIDLAW ST, LAURA LANE, LESLIE CT, MACADAMIA DR, MT BRISBANE RD, MT PLEASANT RD, OLD CREAM TRUCK RD, PALM CREEK RD, RAHES RD, RAYBIRD CREEK RD, RAYNBIRD CREEK RD, RIVERVIEW CT, ROSE LANE, ROWE RD, SELLIN RD, STACEY CT, STRAIN RD, STRATTON RD, TOBY CT, WIRTH RD",
+        "SUBURBS": "ARMSTRONG CREEK, DAYBORO, KING SCRUB, LACEYS CREEK, MT PLEASANT"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711480202.398969"
+  "extracted": "1711480504.918974"
 }
