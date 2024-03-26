@@ -286,8 +286,8 @@
           {
             "type": "Point",
             "coordinates": [
-              148.905921,
-              -21.186562
+              148.904088,
+              -21.186481
             ]
           },
           {
@@ -303,28 +303,12 @@
                   -21.205541
                 ],
                 [
-                  148.904583,
-                  -21.205703
+                  148.904882,
+                  -21.20549
                 ],
                 [
-                  148.923382,
-                  -21.20124
-                ],
-                [
-                  148.923741,
-                  -21.200859
-                ],
-                [
-                  148.925387,
-                  -21.188764
-                ],
-                [
-                  148.925369,
-                  -21.188573
-                ],
-                [
-                  148.921764,
-                  -21.177698
+                  148.921722,
+                  -21.178058
                 ],
                 [
                   148.921501,
@@ -354,7 +338,7 @@
       "properties": {
         "EVENT_ID": "24MK3126",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "24",
+        "CUSTOMERS_AFFECTED": "16",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
         "STATUS": "Crews on route",
         "START": "5:21AM 27 Mar 2024",
@@ -517,6 +501,67 @@
           {
             "type": "Point",
             "coordinates": [
+              148.723043,
+              -26.852872
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.732304,
+                  -26.844233
+                ],
+                [
+                  148.713084,
+                  -26.860861
+                ],
+                [
+                  148.713071,
+                  -26.861499
+                ],
+                [
+                  148.713782,
+                  -26.861511
+                ],
+                [
+                  148.733002,
+                  -26.844883
+                ],
+                [
+                  148.733015,
+                  -26.844245
+                ],
+                [
+                  148.732304,
+                  -26.844233
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6893",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 27 Mar 2024",
+        "EST_FIX_TIME": "12:30PM 27 Mar 2024",
+        "STREETS": "HOLYROOD RD",
+        "SUBURBS": "ROMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.682776,
               -26.604216
             ]
@@ -645,5 +690,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711491002.156669"
+  "extracted": "1711491305.523195"
 }
