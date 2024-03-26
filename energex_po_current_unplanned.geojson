@@ -1,70 +1,8 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              152.939771,
-              -27.315733
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.940164,
-                  -27.315341
-                ],
-                [
-                  152.939569,
-                  -27.315239
-                ],
-                [
-                  152.938977,
-                  -27.315596
-                ],
-                [
-                  152.939378,
-                  -27.316125
-                ],
-                [
-                  152.939972,
-                  -27.316228
-                ],
-                [
-                  152.940564,
-                  -27.31587
-                ],
-                [
-                  152.940164,
-                  -27.315341
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-750901-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "Damage due to severe weather",
-        "STATUS": "Awaiting",
-        "START": "9:31PM 26 Mar 2024",
-        "EST_FIX_TIME": "4:00AM 27 Mar 2024",
-        "STREETS": "QUARRION CT",
-        "SUBURBS": "WARNER"
-      }
-    }
-  ],
+  "features": [],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711473305.317874"
+  "extracted": "1711473602.394382"
 }
