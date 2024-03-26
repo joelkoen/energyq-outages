@@ -87,107 +87,6 @@
           {
             "type": "Point",
             "coordinates": [
-              145.613036,
-              -17.338252
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  145.610277,
-                  -17.340027
-                ],
-                [
-                  145.611403,
-                  -17.340339
-                ],
-                [
-                  145.61149,
-                  -17.340355
-                ],
-                [
-                  145.612294,
-                  -17.340428
-                ],
-                [
-                  145.612304,
-                  -17.340429
-                ],
-                [
-                  145.614426,
-                  -17.340575
-                ],
-                [
-                  145.6145,
-                  -17.340575
-                ],
-                [
-                  145.614882,
-                  -17.340544
-                ],
-                [
-                  145.615236,
-                  -17.34034
-                ],
-                [
-                  145.615859,
-                  -17.339421
-                ],
-                [
-                  145.615935,
-                  -17.339155
-                ],
-                [
-                  145.61581,
-                  -17.336383
-                ],
-                [
-                  145.615476,
-                  -17.33597
-                ],
-                [
-                  145.615335,
-                  -17.335929
-                ],
-                [
-                  145.614928,
-                  -17.335992
-                ],
-                [
-                  145.610137,
-                  -17.339223
-                ],
-                [
-                  145.610277,
-                  -17.340027
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN4567",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "16",
-        "REASON": "The loss of supply is due to damage caused by storm activity.",
-        "STATUS": "Crews on route",
-        "START": "3:22PM 26 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "ENGLISH RD, RIVERLEA CL",
-        "SUBURBS": "MALANDA, PEERAMON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -309,9 +208,94 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.568397,
+              -26.097221
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.566501,
+                  -26.097341
+                ],
+                [
+                  152.566547,
+                  -26.097736
+                ],
+                [
+                  152.566961,
+                  -26.098132
+                ],
+                [
+                  152.568413,
+                  -26.098347
+                ],
+                [
+                  152.568654,
+                  -26.098329
+                ],
+                [
+                  152.569068,
+                  -26.098202
+                ],
+                [
+                  152.569186,
+                  -26.098149
+                ],
+                [
+                  152.570294,
+                  -26.097475
+                ],
+                [
+                  152.57028,
+                  -26.096721
+                ],
+                [
+                  152.56922,
+                  -26.096123
+                ],
+                [
+                  152.568753,
+                  -26.096094
+                ],
+                [
+                  152.566793,
+                  -26.096883
+                ],
+                [
+                  152.566501,
+                  -26.097341
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4469",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews working on-site",
+        "START": "1:55PM 26 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DAN MEURANT DR, ELSOM CT",
+        "SUBURBS": "CURRA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711436404.037279"
+  "extracted": "1711436701.499366"
 }
