@@ -437,9 +437,94 @@
         "STREETS": "BOULTON DR, BOWDEN CT, EDEN CT, JOSH CT, LAWRENCE DR, LEAGUES CLUB DR, NERANG ST, NERANG-BROADBEACH RD, PARADISE ST, PARKRIDGE DR, PINE GROVE ST, RHIANNON DR, RIVERVIEW RD, RIVERWOOD DR, SARAH PL, SHORT ST, SOUTHPORT-NERANG RD, WARRENER ST",
         "SUBURBS": "ASHMORE, MOLENDINAR, NERANG"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.6596,
+              -27.464181
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.657019,
+                  -27.46717
+                ],
+                [
+                  152.661706,
+                  -27.467021
+                ],
+                [
+                  152.662108,
+                  -27.466821
+                ],
+                [
+                  152.662602,
+                  -27.466165
+                ],
+                [
+                  152.662688,
+                  -27.465897
+                ],
+                [
+                  152.662514,
+                  -27.461622
+                ],
+                [
+                  152.661927,
+                  -27.461192
+                ],
+                [
+                  152.658491,
+                  -27.46169
+                ],
+                [
+                  152.658105,
+                  -27.461961
+                ],
+                [
+                  152.657531,
+                  -27.463188
+                ],
+                [
+                  152.657509,
+                  -27.463246
+                ],
+                [
+                  152.656512,
+                  -27.466603
+                ],
+                [
+                  152.657019,
+                  -27.46717
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750890-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "8:13PM 26 Mar 2024",
+        "EST_FIX_TIME": "11:30PM 26 Mar 2024",
+        "STREETS": "BEESTON DR, BRISBANE VALLEY HWY, FAIRNEYVIEW FERNVALE RD, GRAHAM RD, SCHROEDER LANE",
+        "SUBURBS": "FERNVALE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711448104.49093"
+  "extracted": "1711448402.682591"
 }
