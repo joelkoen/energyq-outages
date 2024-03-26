@@ -87,6 +87,59 @@
           {
             "type": "Point",
             "coordinates": [
+              147.68114,
+              -22.825192
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.681627,
+                  -22.82519
+                ],
+                [
+                  147.681138,
+                  -22.824741
+                ],
+                [
+                  147.680653,
+                  -22.825194
+                ],
+                [
+                  147.681142,
+                  -22.825644
+                ],
+                [
+                  147.681627,
+                  -22.82519
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4886",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:02PM 26 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 26 Mar 2024",
+        "STREETS": "CHEESEBOROUGH RD",
+        "SUBURBS": "CLERMONT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -621,5 +674,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711418404.478941"
+  "extracted": "1711418700.601595"
 }
