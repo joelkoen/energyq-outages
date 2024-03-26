@@ -709,14 +709,91 @@
         "CUSTOMERS_AFFECTED": "23",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
         "STATUS": "Crews working on-site",
-        "START": "2:00PM 26 Mar 2024",
+        "START": "3:07PM 26 Mar 2024",
         "EST_FIX_TIME": "5:00PM 26 Mar 2024",
         "STREETS": "BELLEVUE RD, BURNSDALE RD, COORINDA RD, HOLYROOD RD, MERINO DOWNS RD, MOUNT ABUNDANCE RD, MT ABUNDANCE RD, REDBANK RD, SEVENTEEN MILE LANE, SIX MILE RD, SOUTHERN RD",
         "SUBURBS": "MOUNT ABUNDANCE, ROMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.937786,
+              -26.694137
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.935882,
+                  -26.694477
+                ],
+                [
+                  151.939005,
+                  -26.695651
+                ],
+                [
+                  151.939699,
+                  -26.695204
+                ],
+                [
+                  151.939656,
+                  -26.69467
+                ],
+                [
+                  151.939654,
+                  -26.694652
+                ],
+                [
+                  151.939605,
+                  -26.694259
+                ],
+                [
+                  151.939588,
+                  -26.694183
+                ],
+                [
+                  151.939174,
+                  -26.692909
+                ],
+                [
+                  151.938492,
+                  -26.692622
+                ],
+                [
+                  151.935874,
+                  -26.69365
+                ],
+                [
+                  151.935882,
+                  -26.694477
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4465",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "2:06PM 26 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "LANGANS RD",
+        "SUBURBS": "NANANGO"
       }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711430103.085177"
+  "extracted": "1711430401.549364"
 }
