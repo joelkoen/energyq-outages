@@ -220,115 +220,6 @@
           {
             "type": "Point",
             "coordinates": [
-              152.375483,
-              -27.089238
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.37283,
-                  -27.090271
-                ],
-                [
-                  152.373155,
-                  -27.091322
-                ],
-                [
-                  152.373282,
-                  -27.091518
-                ],
-                [
-                  152.374,
-                  -27.092172
-                ],
-                [
-                  152.374288,
-                  -27.092303
-                ],
-                [
-                  152.374489,
-                  -27.092328
-                ],
-                [
-                  152.374732,
-                  -27.092306
-                ],
-                [
-                  152.377858,
-                  -27.091289
-                ],
-                [
-                  152.378137,
-                  -27.090663
-                ],
-                [
-                  152.376221,
-                  -27.087237
-                ],
-                [
-                  152.376117,
-                  -27.087112
-                ],
-                [
-                  152.374982,
-                  -27.086148
-                ],
-                [
-                  152.374166,
-                  -27.08631
-                ],
-                [
-                  152.373713,
-                  -27.087337
-                ],
-                [
-                  152.373707,
-                  -27.087349
-                ],
-                [
-                  152.373381,
-                  -27.088157
-                ],
-                [
-                  152.373368,
-                  -27.088195
-                ],
-                [
-                  152.372829,
-                  -27.090036
-                ],
-                [
-                  152.37283,
-                  -27.090271
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-750874-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "92",
-        "REASON": "Powerlines down",
-        "STATUS": "In Progress",
-        "START": "6:15PM 26 Mar 2024",
-        "EST_FIX_TIME": "10:30PM 26 Mar 2024",
-        "STREETS": "ABBOTSFORD ST, BELLAMBI ST, CRESSBROOK ST, DREM ST, FULHAM ST, GUNYAH ST, MANGERTON ST",
-        "SUBURBS": "TOOGOOLAWAH"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               153.344952,
               -27.989616
             ]
@@ -516,7 +407,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "15",
         "REASON": "Under Investigation",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "8:13PM 26 Mar 2024",
         "EST_FIX_TIME": "10:00PM 26 Mar 2024",
         "STREETS": "BEESTON DR, BRISBANE VALLEY HWY, FAIRNEYVIEW FERNVALE RD, GRAHAM RD, SCHROEDER LANE",
@@ -611,5 +502,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711449602.689211"
+  "extracted": "1711449905.053842"
 }
