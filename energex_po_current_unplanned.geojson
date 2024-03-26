@@ -413,9 +413,94 @@
         "STREETS": "ALLEN RD, BRISBANE VALLEY HWY, HARRIS RD, VALMA LANE",
         "SUBURBS": "FERNVALE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.938753,
+              -27.315901
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.936928,
+                  -27.315498
+                ],
+                [
+                  152.938294,
+                  -27.317221
+                ],
+                [
+                  152.939058,
+                  -27.317285
+                ],
+                [
+                  152.940419,
+                  -27.316109
+                ],
+                [
+                  152.940478,
+                  -27.316048
+                ],
+                [
+                  152.940578,
+                  -27.315925
+                ],
+                [
+                  152.940504,
+                  -27.315324
+                ],
+                [
+                  152.940269,
+                  -27.315137
+                ],
+                [
+                  152.940061,
+                  -27.315037
+                ],
+                [
+                  152.937827,
+                  -27.314517
+                ],
+                [
+                  152.937366,
+                  -27.314615
+                ],
+                [
+                  152.937006,
+                  -27.314898
+                ],
+                [
+                  152.936928,
+                  -27.315498
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750901-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "9:31PM 26 Mar 2024",
+        "EST_FIX_TIME": "12:00AM 27 Mar 2024",
+        "STREETS": "LILLEY RD, QUARRION CT, SANDERLING DR",
+        "SUBURBS": "CASHMERE, WARNER"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711452603.904382"
+  "extracted": "1711452901.416662"
 }
