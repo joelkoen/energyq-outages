@@ -250,7 +250,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "55",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "1:08PM 26 Mar 2024",
         "EST_FIX_TIME": null,
         "STREETS": "BARONIA CRES, BOUGANVILLEA ST, MIMOSA ST, PALM ST, WISTARIA ST",
@@ -324,107 +324,6 @@
         "EST_FIX_TIME": "12:00PM 29 Mar 2024",
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              146.243776,
-              -20.214813
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  146.228551,
-                  -20.23124
-                ],
-                [
-                  146.232286,
-                  -20.234242
-                ],
-                [
-                  146.232558,
-                  -20.234349
-                ],
-                [
-                  146.236486,
-                  -20.234643
-                ],
-                [
-                  146.236659,
-                  -20.234626
-                ],
-                [
-                  146.254175,
-                  -20.229782
-                ],
-                [
-                  146.254515,
-                  -20.229407
-                ],
-                [
-                  146.259168,
-                  -20.195772
-                ],
-                [
-                  146.258752,
-                  -20.195266
-                ],
-                [
-                  146.256342,
-                  -20.194983
-                ],
-                [
-                  146.25614,
-                  -20.195
-                ],
-                [
-                  146.253109,
-                  -20.195896
-                ],
-                [
-                  146.253085,
-                  -20.195904
-                ],
-                [
-                  146.230969,
-                  -20.203675
-                ],
-                [
-                  146.230659,
-                  -20.204062
-                ],
-                [
-                  146.228384,
-                  -20.23086
-                ],
-                [
-                  146.228551,
-                  -20.23124
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ6688",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "20",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "11:57AM 26 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "MACOVIN RIDGE RD, MT LEYSHON RD, QUARTZBLOW RD, ROCKY CREEK RD",
-        "SUBURBS": "SEVENTY MILE, SEVENTY MILE RANGE"
       }
     },
     {
@@ -726,5 +625,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711428302.50462"
+  "extracted": "1711428601.051911"
 }
