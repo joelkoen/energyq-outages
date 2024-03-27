@@ -474,27 +474,6 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-747302-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
-        "START": "8:00AM 28 Mar 2024",
-        "EST_FIX_TIME": "3:00PM 28 Mar 2024",
-        "STREETS": "BLANCHVIEW RD",
-        "SUBURBS": "BLANCHVIEW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.041119,
-          -27.556792
-        ]
-      },
-      "properties": {
         "EVENT_ID": "INCD-747477-g",
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "3",
@@ -504,27 +483,6 @@
         "EST_FIX_TIME": "3:00PM 28 Mar 2024",
         "STREETS": "BLANCHVIEW RD",
         "SUBURBS": "BLANCHVIEW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.172195,
-          -27.456713
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-747593-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "24",
-        "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
-        "START": "8:00AM 28 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 28 Mar 2024",
-        "STREETS": "CARNATION RD, SEABREEZE RD, STRAWBERRY RD",
-        "SUBURBS": "MANLY WEST"
       }
     },
     {
@@ -667,7 +625,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "20",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "Cancelled",
         "START": "8:00AM 28 Mar 2024",
         "EST_FIX_TIME": "3:00PM 28 Mar 2024",
         "STREETS": "BLANCHVIEW RD, SPA WATER RD",
@@ -677,5 +635,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711575301.139024"
+  "extracted": "1711575600.437873"
 }
