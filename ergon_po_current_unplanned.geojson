@@ -10,6 +10,83 @@
           {
             "type": "Point",
             "coordinates": [
+              148.027237,
+              -23.089002
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.02516,
+                  -23.08959
+                ],
+                [
+                  148.025642,
+                  -23.089817
+                ],
+                [
+                  148.025799,
+                  -23.089862
+                ],
+                [
+                  148.026309,
+                  -23.089925
+                ],
+                [
+                  148.026546,
+                  -23.0899
+                ],
+                [
+                  148.029279,
+                  -23.088946
+                ],
+                [
+                  148.029576,
+                  -23.0884
+                ],
+                [
+                  148.029014,
+                  -23.08808
+                ],
+                [
+                  148.025289,
+                  -23.088744
+                ],
+                [
+                  148.024898,
+                  -23.089124
+                ],
+                [
+                  148.02516,
+                  -23.08959
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5022",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:45AM 28 Mar 2024",
+        "EST_FIX_TIME": "12:00PM 28 Mar 2024",
+        "STREETS": "BAILEY ST, GORDON ST",
+        "SUBURBS": "CAPELLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -253,8 +330,8 @@
           {
             "type": "Point",
             "coordinates": [
-              145.283411,
-              -17.691314
+              145.284808,
+              -17.635992
             ]
           },
           {
@@ -262,28 +339,36 @@
             "coordinates": [
               [
                 [
-                  145.236313,
-                  -17.726001
+                  145.238942,
+                  -17.649675
                 ],
                 [
-                  145.309184,
-                  -17.785396
+                  145.24041,
+                  -17.655314
                 ],
                 [
-                  145.309206,
-                  -17.785413
+                  145.240525,
+                  -17.655516
                 ],
                 [
-                  145.317849,
-                  -17.791646
+                  145.265604,
+                  -17.680864
                 ],
                 [
-                  145.318603,
-                  -17.791324
+                  145.265988,
+                  -17.681003
                 ],
                 [
-                  145.330672,
-                  -17.657785
+                  145.314733,
+                  -17.676802
+                ],
+                [
+                  145.315059,
+                  -17.676634
+                ],
+                [
+                  145.33057,
+                  -17.658028
                 ],
                 [
                   145.330673,
@@ -310,16 +395,8 @@
                   -17.649199
                 ],
                 [
-                  145.238929,
-                  -17.64955
-                ],
-                [
-                  145.236148,
-                  -17.725641
-                ],
-                [
-                  145.236313,
-                  -17.726001
+                  145.238942,
+                  -17.649675
                 ]
               ]
             ]
@@ -329,12 +406,12 @@
       "properties": {
         "EVENT_ID": "24FN4625",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "144",
+        "CUSTOMERS_AFFECTED": "90",
         "REASON": "The loss of supply is due to fallen power lines.  ",
         "STATUS": "Crews working on-site",
         "START": "7:48PM 27 Mar 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "BAILLIE RD, BLAIRS GLY, BRODIE RD, CLARK RD, GRANT RD, HERBERT RIVER RD, KENNEDY HWY, POOLS RD, SHADY CREEK RD, SILVER VALLEY RD, SPLIT ROCK RD, SUNSET RDGE, TOBACCO RD, WILD RIVER RD, WOODLEIGH RD, YOURKA RD",
+        "STREETS": "BAILLIE RD, BLAIRS GLY, CLARK RD, GRANT RD, HERBERT RIVER RD, KENNEDY HWY, POOLS RD, SHADY CREEK RD, SILVER VALLEY RD, SPLIT ROCK RD, SUNSET RDGE, TOBACCO RD, WILD RIVER RD, WOODLEIGH RD",
         "SUBURBS": "INNOT HOT SPRINGS, MILLSTREAM, RAVENSHOE, SILVER VALLEY"
       }
     },
@@ -790,5 +867,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711583101.981324"
+  "extracted": "1711583401.33306"
 }
