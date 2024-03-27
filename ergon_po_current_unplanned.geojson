@@ -415,6 +415,139 @@
           {
             "type": "Point",
             "coordinates": [
+              146.051914,
+              -17.612945
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.028077,
+                  -17.592934
+                ],
+                [
+                  146.028559,
+                  -17.610491
+                ],
+                [
+                  146.028582,
+                  -17.610618
+                ],
+                [
+                  146.032175,
+                  -17.621309
+                ],
+                [
+                  146.032349,
+                  -17.621538
+                ],
+                [
+                  146.036644,
+                  -17.624497
+                ],
+                [
+                  146.036671,
+                  -17.624514
+                ],
+                [
+                  146.061397,
+                  -17.639191
+                ],
+                [
+                  146.061991,
+                  -17.639114
+                ],
+                [
+                  146.065658,
+                  -17.635312
+                ],
+                [
+                  146.065721,
+                  -17.635229
+                ],
+                [
+                  146.07102,
+                  -17.626316
+                ],
+                [
+                  146.07104,
+                  -17.626279
+                ],
+                [
+                  146.07497,
+                  -17.61796
+                ],
+                [
+                  146.074984,
+                  -17.617925
+                ],
+                [
+                  146.075744,
+                  -17.615877
+                ],
+                [
+                  146.075751,
+                  -17.615596
+                ],
+                [
+                  146.075271,
+                  -17.614062
+                ],
+                [
+                  146.075092,
+                  -17.613823
+                ],
+                [
+                  146.035362,
+                  -17.586768
+                ],
+                [
+                  146.034977,
+                  -17.586698
+                ],
+                [
+                  146.029018,
+                  -17.588089
+                ],
+                [
+                  146.028662,
+                  -17.588471
+                ],
+                [
+                  146.02808,
+                  -17.592865
+                ],
+                [
+                  146.028077,
+                  -17.592934
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4635",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "177",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:26AM 28 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOOGAN RD, BRUCE HWY, CAMPAGNOLA RD, CAMPAGNOLO RD, COCO RD, CORSI RD, DANESI RD, FLYNN RD, HORSFORD RD, KATE BOYLAN RD, KURRIMINE RD, MARANO RD, MARTINUZZI CL, MARTYVILLE RD, NEW HARBOURLINE RD, NUGHES RD, OLD BRUCE HWY, SILVIO RD, WILLS CL",
+        "SUBURBS": "BOOGAN, MARTYVILLE, MOURILYAN, NEW HARBOURLINE, SILKWOOD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -730,5 +863,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711574701.438553"
+  "extracted": "1711575001.850116"
 }
