@@ -156,59 +156,6 @@
           {
             "type": "Point",
             "coordinates": [
-              148.812213,
-              -21.10079
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  148.812694,
-                  -21.100784
-                ],
-                [
-                  148.812207,
-                  -21.100338
-                ],
-                [
-                  148.811732,
-                  -21.100795
-                ],
-                [
-                  148.812218,
-                  -21.101241
-                ],
-                [
-                  148.812694,
-                  -21.100784
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK3155",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
-        "START": "10:30AM 27 Mar 2024",
-        "EST_FIX_TIME": "6:30PM 27 Mar 2024",
-        "STREETS": "MOUNT MARTIN LOOP RD",
-        "SUBURBS": "MOUNT MARTIN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               144.896651,
               -21.251809
             ]
@@ -517,7 +464,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "145",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "4:58PM 27 Mar 2024",
         "EST_FIX_TIME": null,
         "STREETS": "BARBARA ST, BATTERBEE ST, FAITH ST, LONG ST, MALLON ST, MANNUEM CT, MARCIA ST, OCEAN ST, SUGARS ST, WEBB ST",
@@ -588,5 +535,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711526101.604207"
+  "extracted": "1711526405.019813"
 }
