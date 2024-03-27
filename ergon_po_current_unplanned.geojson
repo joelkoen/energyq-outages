@@ -87,6 +87,87 @@
           {
             "type": "Point",
             "coordinates": [
+              145.616742,
+              -17.503444
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.612324,
+                  -17.495563
+                ],
+                [
+                  145.614386,
+                  -17.511446
+                ],
+                [
+                  145.61504,
+                  -17.511804
+                ],
+                [
+                  145.616706,
+                  -17.51111
+                ],
+                [
+                  145.616831,
+                  -17.511034
+                ],
+                [
+                  145.620102,
+                  -17.508249
+                ],
+                [
+                  145.620127,
+                  -17.508226
+                ],
+                [
+                  145.621105,
+                  -17.507264
+                ],
+                [
+                  145.62116,
+                  -17.506697
+                ],
+                [
+                  145.613183,
+                  -17.495256
+                ],
+                [
+                  145.612627,
+                  -17.495084
+                ],
+                [
+                  145.612324,
+                  -17.495563
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4546",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:39AM 28 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 28 Mar 2024",
+        "STREETS": "PALMERSTON HWY",
+        "SUBURBS": "MILLAA MILLAA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               143.435604,
               -18.583471
             ]
@@ -790,5 +871,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711581601.598229"
+  "extracted": "1711581900.647416"
 }
