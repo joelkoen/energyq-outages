@@ -241,6 +241,91 @@
           {
             "type": "Point",
             "coordinates": [
+              149.008567,
+              -21.079905
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.006972,
+                  -21.081854
+                ],
+                [
+                  149.008487,
+                  -21.082128
+                ],
+                [
+                  149.008984,
+                  -21.081927
+                ],
+                [
+                  149.0102,
+                  -21.080126
+                ],
+                [
+                  149.010256,
+                  -21.080011
+                ],
+                [
+                  149.010504,
+                  -21.079219
+                ],
+                [
+                  149.010394,
+                  -21.078785
+                ],
+                [
+                  149.009302,
+                  -21.077682
+                ],
+                [
+                  149.008537,
+                  -21.077757
+                ],
+                [
+                  149.007891,
+                  -21.078768
+                ],
+                [
+                  149.007871,
+                  -21.078804
+                ],
+                [
+                  149.00663,
+                  -21.081215
+                ],
+                [
+                  149.006972,
+                  -21.081854
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3157",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:29PM 27 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MARAJU-YAKAPARI RD",
+        "SUBURBS": "THE LEAP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -608,5 +693,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711530301.20444"
+  "extracted": "1711530601.351381"
 }
