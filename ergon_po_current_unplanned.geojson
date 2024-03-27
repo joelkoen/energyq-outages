@@ -87,6 +87,164 @@
           {
             "type": "Point",
             "coordinates": [
+              143.435603,
+              -18.685586
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  143.252924,
+                  -18.823433
+                ],
+                [
+                  143.42429,
+                  -18.795647
+                ],
+                [
+                  143.424399,
+                  -18.795616
+                ],
+                [
+                  143.481096,
+                  -18.772146
+                ],
+                [
+                  143.481259,
+                  -18.772035
+                ],
+                [
+                  143.618655,
+                  -18.626718
+                ],
+                [
+                  143.618777,
+                  -18.626415
+                ],
+                [
+                  143.618626,
+                  -18.548173
+                ],
+                [
+                  143.618029,
+                  -18.547739
+                ],
+                [
+                  143.485515,
+                  -18.582034
+                ],
+                [
+                  143.485291,
+                  -18.582164
+                ],
+                [
+                  143.252497,
+                  -18.822683
+                ],
+                [
+                  143.252428,
+                  -18.823203
+                ],
+                [
+                  143.252924,
+                  -18.823433
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4623",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "79",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:24PM 27 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AGATE CREEK RD, EINASLEIGH RD, FIFTH ST, FIRST ST, FOURTH ST, REEF RD, SECOND ST, SEVENTH ST, THIRD ST, UNKNOWN ST",
+        "SUBURBS": "FORSAYTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              143.552261,
+              -18.44687
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  143.533522,
+                  -18.34373
+                ],
+                [
+                  143.533824,
+                  -18.446707
+                ],
+                [
+                  143.533848,
+                  -18.446849
+                ],
+                [
+                  143.570086,
+                  -18.550166
+                ],
+                [
+                  143.57065,
+                  -18.550461
+                ],
+                [
+                  143.571001,
+                  -18.549948
+                ],
+                [
+                  143.53446,
+                  -18.343653
+                ],
+                [
+                  143.533954,
+                  -18.343279
+                ],
+                [
+                  143.533522,
+                  -18.34373
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4624",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:32PM 27 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "FORSAYTH RD, UNKNOWN ST",
+        "SUBURBS": "GEORGETOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -563,5 +721,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711528207.112718"
+  "extracted": "1711528501.340578"
 }
