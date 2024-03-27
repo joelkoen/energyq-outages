@@ -10,6 +10,115 @@
           {
             "type": "Point",
             "coordinates": [
+              147.780633,
+              -22.654049
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.634841,
+                  -22.687891
+                ],
+                [
+                  147.683057,
+                  -22.755858
+                ],
+                [
+                  147.683393,
+                  -22.756057
+                ],
+                [
+                  147.688082,
+                  -22.756692
+                ],
+                [
+                  147.688294,
+                  -22.756677
+                ],
+                [
+                  147.728241,
+                  -22.745428
+                ],
+                [
+                  147.72833,
+                  -22.745394
+                ],
+                [
+                  147.926192,
+                  -22.646512
+                ],
+                [
+                  147.926425,
+                  -22.645977
+                ],
+                [
+                  147.911751,
+                  -22.603275
+                ],
+                [
+                  147.911634,
+                  -22.603094
+                ],
+                [
+                  147.856611,
+                  -22.551499
+                ],
+                [
+                  147.856061,
+                  -22.551407
+                ],
+                [
+                  147.847321,
+                  -22.555177
+                ],
+                [
+                  147.84727,
+                  -22.555203
+                ],
+                [
+                  147.675452,
+                  -22.654135
+                ],
+                [
+                  147.675387,
+                  -22.654181
+                ],
+                [
+                  147.634925,
+                  -22.687304
+                ],
+                [
+                  147.634841,
+                  -22.687891
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4983",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "42",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "STATUS": "Outage reported",
+        "START": "10:15AM 27 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BARRYLAR RD, FLEURS RD, MOUNT DONALD RD, NEW CORRY RD, PEAK DOWNS HWY, WOLFANG ACCESS RD",
+        "SUBURBS": "CLERMONT, WOLFANG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -767,5 +876,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711503001.87658"
+  "extracted": "1711503300.461255"
 }
