@@ -217,6 +217,71 @@
           {
             "type": "Point",
             "coordinates": [
+              142.389728,
+              -10.883787
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  142.388983,
+                  -10.883408
+                ],
+                [
+                  142.389051,
+                  -10.884367
+                ],
+                [
+                  142.389416,
+                  -10.884778
+                ],
+                [
+                  142.389913,
+                  -10.884538
+                ],
+                [
+                  142.390472,
+                  -10.883439
+                ],
+                [
+                  142.389964,
+                  -10.882797
+                ],
+                [
+                  142.389337,
+                  -10.882937
+                ],
+                [
+                  142.388983,
+                  -10.883408
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4600",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "24",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "10:13AM 27 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "JACOB ST, MUDU ST",
+        "SUBURBS": "BAMAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -868,5 +933,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711498201.574855"
+  "extracted": "1711498504.023128"
 }
