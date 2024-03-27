@@ -96,7 +96,7 @@
             "type": "Point",
             "coordinates": [
               153.383235,
-              -27.995756
+              -27.997214
             ]
           },
           {
@@ -200,36 +200,52 @@
                   -27.995501
                 ],
                 [
-                  153.388368,
-                  -27.995412
+                  153.388296,
+                  -27.995318
                 ],
                 [
-                  153.386087,
-                  -27.991445
+                  153.388196,
+                  -27.995218
                 ],
                 [
-                  153.386039,
-                  -27.991378
+                  153.388078,
+                  -27.995131
                 ],
                 [
-                  153.384464,
-                  -27.989534
+                  153.383615,
+                  -27.992746
                 ],
                 [
-                  153.384059,
-                  -27.989355
+                  153.383446,
+                  -27.992689
                 ],
                 [
-                  153.38343,
-                  -27.989354
+                  153.381451,
+                  -27.992357
                 ],
                 [
-                  153.383113,
-                  -27.989452
+                  153.381415,
+                  -27.992352
                 ],
                 [
-                  153.378979,
-                  -27.992368
+                  153.381207,
+                  -27.992331
+                ],
+                [
+                  153.381202,
+                  -27.992331
+                ],
+                [
+                  153.381027,
+                  -27.992314
+                ],
+                [
+                  153.380988,
+                  -27.992312
+                ],
+                [
+                  153.379309,
+                  -27.99227
                 ],
                 [
                   153.378861,
@@ -259,12 +275,12 @@
       "properties": {
         "EVENT_ID": "INCD-750957-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "615",
+        "CUSTOMERS_AFFECTED": "501",
         "REASON": "Under Investigation",
         "STATUS": "In Progress",
         "START": "6:48AM 27 Mar 2024",
         "EST_FIX_TIME": "12:30PM 27 Mar 2024",
-        "STREETS": "ANTHEA CT, BINALONG DR, BLIGH CT, BOREE ST, COOBAH CT, COOLONG CT, CURRUMBURRA RD, DURI PL, EVANS DR, HEEB ST, HILLVIEW PDE, HORIZON AVE, KAMO CT, LUISA CT, MARLBOROUGH CT, MILBONG TCE, MUALLA DR, MULYAN PL, ROBA PL, SAMANTHA CT, SUN VALLEY DR, TAMBOURAH DR, TANGERINE ROW, THE CRESCENT, TOMANBIL TCE, WALLAROO WAY, WARRIGAL CRES, WUDINA CT, YANGOORA CRES, YARRADUP ST",
+        "STREETS": "ANTHEA CT, BINALONG DR, BLIGH CT, BOREE ST, COOBAH CT, CURRUMBURRA RD, DURI PL, EVANS DR, HEEB ST, HILLVIEW PDE, HORIZON AVE, KAMO CT, LUISA CT, MARLBOROUGH CT, MILBONG TCE, MULYAN PL, ROBA PL, SAMANTHA CT, SUN VALLEY DR, TAMBOURAH DR, THE CRESCENT, TOMANBIL TCE, WALLAROO WAY, WARRIGAL CRES, YANGOORA CRES",
         "SUBURBS": "ASHMORE, BENOWA"
       }
     },
@@ -626,9 +642,70 @@
         "STREETS": "BRADMAN DR, LINDWALL PL",
         "SUBURBS": "CURRUMBIN VALLEY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.132541,
+              -27.398297
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.132409,
+                  -27.396932
+                ],
+                [
+                  153.131694,
+                  -27.39944
+                ],
+                [
+                  153.132059,
+                  -27.399988
+                ],
+                [
+                  153.132674,
+                  -27.399662
+                ],
+                [
+                  153.133389,
+                  -27.397155
+                ],
+                [
+                  153.133024,
+                  -27.396606
+                ],
+                [
+                  153.132409,
+                  -27.396932
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751049-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "10:23AM 27 Mar 2024",
+        "EST_FIX_TIME": "1:00PM 27 Mar 2024",
+        "STREETS": "BANCROFT RD",
+        "SUBURBS": "PINKENBA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711498801.365534"
+  "extracted": "1711499101.398132"
 }
