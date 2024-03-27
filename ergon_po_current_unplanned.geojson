@@ -10,6 +10,107 @@
           {
             "type": "Point",
             "coordinates": [
+              147.640358,
+              -22.819559
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.637682,
+                  -22.820422
+                ],
+                [
+                  147.640393,
+                  -22.821021
+                ],
+                [
+                  147.640393,
+                  -22.821021
+                ],
+                [
+                  147.641048,
+                  -22.821164
+                ],
+                [
+                  147.641257,
+                  -22.821167
+                ],
+                [
+                  147.642475,
+                  -22.820936
+                ],
+                [
+                  147.642741,
+                  -22.820793
+                ],
+                [
+                  147.643281,
+                  -22.82023
+                ],
+                [
+                  147.643398,
+                  -22.819859
+                ],
+                [
+                  147.643281,
+                  -22.819176
+                ],
+                [
+                  147.642973,
+                  -22.818825
+                ],
+                [
+                  147.640549,
+                  -22.817972
+                ],
+                [
+                  147.640282,
+                  -22.817951
+                ],
+                [
+                  147.637959,
+                  -22.818373
+                ],
+                [
+                  147.637576,
+                  -22.818726
+                ],
+                [
+                  147.637318,
+                  -22.819892
+                ],
+                [
+                  147.637682,
+                  -22.820422
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4993",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "55",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:11PM 27 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CAPELLA ST, CAPRICORN ST, LIME ST, MIMOSA ST",
+        "SUBURBS": "CLERMONT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -730,5 +831,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711512600.624137"
+  "extracted": "1711512903.580763"
 }
