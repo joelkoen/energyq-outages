@@ -316,13 +316,98 @@
         "REASON": "Damage due to severe weather",
         "STATUS": "Awaiting",
         "START": "6:42PM 27 Mar 2024",
-        "EST_FIX_TIME": "9:00PM 27 Mar 2024",
+        "EST_FIX_TIME": "11:00PM 27 Mar 2024",
         "STREETS": "FLETCHER RD, MOUNTFORD RD, STONY CREEK RD, WILKES RD",
         "SUBURBS": "STONY CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.770302,
+              -27.333599
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.766259,
+                  -27.335845
+                ],
+                [
+                  152.774205,
+                  -27.336896
+                ],
+                [
+                  152.774777,
+                  -27.336373
+                ],
+                [
+                  152.774231,
+                  -27.333552
+                ],
+                [
+                  152.774115,
+                  -27.333332
+                ],
+                [
+                  152.771238,
+                  -27.330373
+                ],
+                [
+                  152.770561,
+                  -27.330303
+                ],
+                [
+                  152.767348,
+                  -27.332372
+                ],
+                [
+                  152.767325,
+                  -27.332388
+                ],
+                [
+                  152.766054,
+                  -27.333307
+                ],
+                [
+                  152.765867,
+                  -27.333649
+                ],
+                [
+                  152.765828,
+                  -27.335389
+                ],
+                [
+                  152.766259,
+                  -27.335845
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751232-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "49",
+        "REASON": "Damage due to severe weather",
+        "STATUS": "Awaiting",
+        "START": "7:27PM 27 Mar 2024",
+        "EST_FIX_TIME": "10:00PM 27 Mar 2024",
+        "STREETS": "FAHEY RD, LINDSAY RD, MT GLORIOUS RD, TED ST",
+        "SUBURBS": "MT GLORIOUS"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711531501.021665"
+  "extracted": "1711531804.785269"
 }
