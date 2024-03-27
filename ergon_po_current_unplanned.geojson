@@ -326,6 +326,115 @@
           {
             "type": "Point",
             "coordinates": [
+              149.161219,
+              -21.148404
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.157994,
+                  -21.149497
+                ],
+                [
+                  149.158203,
+                  -21.149844
+                ],
+                [
+                  149.158318,
+                  -21.149972
+                ],
+                [
+                  149.159085,
+                  -21.150559
+                ],
+                [
+                  149.159653,
+                  -21.150586
+                ],
+                [
+                  149.1631,
+                  -21.14846
+                ],
+                [
+                  149.163159,
+                  -21.148418
+                ],
+                [
+                  149.164506,
+                  -21.147272
+                ],
+                [
+                  149.164426,
+                  -21.146548
+                ],
+                [
+                  149.16393,
+                  -21.146275
+                ],
+                [
+                  149.163593,
+                  -21.146222
+                ],
+                [
+                  149.163144,
+                  -21.146306
+                ],
+                [
+                  149.163085,
+                  -21.146321
+                ],
+                [
+                  149.15895,
+                  -21.14762
+                ],
+                [
+                  149.158692,
+                  -21.147813
+                ],
+                [
+                  149.158011,
+                  -21.148862
+                ],
+                [
+                  149.157941,
+                  -21.149076
+                ],
+                [
+                  149.157932,
+                  -21.149254
+                ],
+                [
+                  149.157994,
+                  -21.149497
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3158",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "58",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "7:08PM 27 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRIDGE RD, DOUGLAS ST, HUME ST, JACKSON ST, MACKENZIE ST, MORRISON ST, NESS ST",
+        "SUBURBS": "MACKAY, WEST MACKAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -693,5 +802,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711530601.351381"
+  "extracted": "1711530907.337979"
 }
