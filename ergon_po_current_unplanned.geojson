@@ -608,9 +608,70 @@
         "STREETS": "ALCHARINJAH DR, ANNIE ST, ARVALE RD, AUGUSTINE ST, AUGUSTUS ST, BANIA RD, BAWDENS RD, BISHOPS RD, BOWMANS RD, BRANCHVALE RD, BRANDONS AVE, BROADMEADOWS RD, BRONZEWING CT, BRUCE HWY, BRUSHY CREEK RD, CADRANS RD, CAMBRIA FLATS RD, CAMPBELLS RD, CHAPPYS RD, CHAVASSE DR, CHICHESTER ST, CRANS RD, CURLEW CT, CURRAJONG FARMS RD, DALYSFORD RD, DELANEYS RD, DICKSON ST, DINGLES RD, DONELLY ST, DRUMMERS CREEK RD, DUCKPOND RD, EDWARD ST, EIGHT MILE RD, ELIZABETH ST, ELLIMATTA RD, ELLIOTTS CREEK RD, ENGSTROMS RD, ESPLANADE ST, EVANS ST, FACTORY ST, FLORA ST, FORESTVALE RD, FRIARBIRD DR, GAYNDAH RD, GEORGE ST, GERALDINE ST, GIBBS ST, GILLENS SIDING RD, GIN GIN MOUNT PERRY RD, GIN GIN RD, GIN GIN-MOUNT PERRY RD, GOYAN RD, GRASS TREE RD, GUYATTS RD, H H INNES RD, HARPERS HILL RD, HAUGHTON ST, HAYS RD, HEUSMAN ST, HIDDEN VALLEY RD, HILLTOP LANE, HILLTOP RD, HILLVIEW CT, HODNETT ST, HUNTER ST, HUTH RD, ISABELLA ST, JACKS RD, JENSENS RD, K LEWIS RD, KAPUNDA ST, KASHMIRA CT, KAYS RD, KILLERS RD, L LAVARING RD, LEATHERS RD, LEMON TREE RD, LOGHOLE LANE, LONG ST, LOUISA ST, MAGGIE DR, MALLETT ST, MASON ST, MAYNARD ST, MCDEVITT ST, MCKAY ST, MCKENZIE ST, MICHELLES RD, MONTO MOUNT PERRY RD, MONTO RD, MOOLBOOLAMAN RD, MOONTA ST, MORRIS RD, MOUNT PERRY RD, MOWBRAY ST, MURPHY ST, MYERS RD, NEARUM RD, NELLERS RD, NEW LEA RD, NORMANBY RANGE RD, NORTH BRANCH RD, PARK RESERVE RD, PATANGA RD, PEARSON ST, PROVINCE ST, RAILWAY ST, RAINBOW AVE, RED HILL FARMS RD, REEDY RD, ROBBS RD, ROBERT ST, SANDY CAMP RD, SCHOOL LANE, SCHUH ST, SCHUHS LOOKOUT RD, SCOTNEYS RD, SCOTT ST, SCRUB RD, SETTLEMENT RD, SHAND ST, SHIELDS RD, SKYRINGS RESERVE RD, SLAUGHTER YARD RD, SMOKERS GULLY RD, SPICER ST, SPRINGS RD, ST KILDA RD, STANLEY ST, STONES AVE, STONY HILL RD, SUES AVE, SUNDAY CREEK RD, SWINDON RD, T BUST RD, TABLELAND RD, TEN MILE RD, THEILS RD, TINA DR, TIRROAN RD, TOBIN SHORTCUT RD, TOWNS CREEK RD, TREE MARTIN CT, TRILLER CT, TUNNEL RD, WAHROONGA RD, WALLACE ST, WALTERS RD, WANGOOL RD, WILLIAM ST, WOLCA TRUCKING YARD RD, WONBAH AVE, WONBAH RD, WOODSWALLOW DR",
         "SUBURBS": "BOOLBOONDA, DALYSFORD, GILLENS SIDING, GIN GIN, HORSE CAMP, MOOLBOOLAMAN, MOUNT PERRY, NEW MOONTA, REDHILL FARMS, TIRROAN, WONBAH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.382256,
+              -24.988312
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.381934,
+                  -24.987176
+                ],
+                [
+                  152.381601,
+                  -24.989323
+                ],
+                [
+                  152.382021,
+                  -24.989832
+                ],
+                [
+                  152.382579,
+                  -24.989449
+                ],
+                [
+                  152.382911,
+                  -24.987301
+                ],
+                [
+                  152.382492,
+                  -24.986793
+                ],
+                [
+                  152.381934,
+                  -24.987176
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4507",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:16PM 27 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "COONARR RD, THIELES RD",
+        "SUBURBS": "KINKUNA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711540806.15586"
+  "extracted": "1711541101.064625"
 }
