@@ -490,6 +490,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          147.259908,
+          -19.768968
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ4767",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "12:00PM 27 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 27 Mar 2024",
+        "STREETS": "KIRKNIE RD",
+        "SUBURBS": "HOME HILL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.332792,
           -20.783368
         ]
@@ -504,27 +525,6 @@
         "EST_FIX_TIME": "2:30PM 27 Mar 2024",
         "STREETS": "BLETCHINGTON STATION, BLUFF RD, BLUFF STATION, BRITTANIA RD, BROADLEIGH DNS STATION, BRUSLEE STATION, CAERPHILLY STATION, CAMERON STATION, CLERMONT HWY, COREA PLAINS STATION, DANDENONG STATION, DAWSONVALE STATION, DOONGARA STATION, EGERA STATION, ELSTON HILLS STATION, GREGORY DEVELOPMENTAL RD, HARVEST HOME STATION, JUMBA STATION, LASCELLES STATION, LEYSHON VIEW STATION, LIONTOWN STATION, LONGTON STATION, MERRICOURT STATION, MERRYLAND STATION, MIRTNA RD, MIRTNA STATION, NATAL DOWNS STATION, NOSNILLOR STATION, OLD VICTORIA STATION, PAJINGO STATION, PALLAMANA STATION, SAYAH PARK STATION, SLOGAN DOWNS STATION, TAEMAS STATION, TEEWARRINA STATION, TRAFALGAR STATION, VACQUERA STATION, VICTORIA DOWNS STATION, WAMBIANA STATION",
         "SUBURBS": "BELYANDO CROSSING, BROUGHTON, CHARTERS TOWERS, PENTLAND, SEVENTY MILE, SEVENTY MILE RANGE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.713457,
-          -19.330259
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5335",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "153",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "12:30PM 27 Mar 2024",
-        "EST_FIX_TIME": "2:30PM 27 Mar 2024",
-        "STREETS": "BECK DR, NORTH BECK DR",
-        "SUBURBS": "CONDON"
       }
     },
     {
@@ -588,27 +588,6 @@
         "EST_FIX_TIME": "4:00PM 27 Mar 2024",
         "STREETS": "CHANDLER ST",
         "SUBURBS": "GARBUTT"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.718005,
-          -19.308381
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5528",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "72",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "12:30PM 27 Mar 2024",
-        "EST_FIX_TIME": "2:30PM 27 Mar 2024",
-        "STREETS": "BETONY PL, EUREKA CRES, EVERGREEN DR, GLEBE PL, GOLF LINKS DR, MARTELLO DR, PRIVET CT, SERRATA CT",
-        "SUBURBS": "KIRWAN"
       }
     },
     {
@@ -826,27 +805,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.699498,
-          -26.471965
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB3146",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "13",
-        "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:30AM 27 Mar 2024",
-        "EST_FIX_TIME": "1:00PM 27 Mar 2024",
-        "STREETS": "ELLWOODS RD, HOLTS RD, LINDS RD, MEMERAMBI GORDONBROOK RD, WICKS RD, WILSONS RD",
-        "SUBURBS": "GORDONBROOK, KINGAROY, MEMERAMBI"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           151.729136,
           -26.113715
         ]
@@ -908,5 +866,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711506301.063949"
+  "extracted": "1711506608.047005"
 }
