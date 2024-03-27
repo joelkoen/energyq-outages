@@ -593,9 +593,142 @@
         "STREETS": "CARBEAN RD, CUNNINGHAM HWY, WARAHGAI RD",
         "SUBURBS": "KARARA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.682776,
+              -26.604216
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.636928,
+                  -26.586202
+                ],
+                [
+                  151.638194,
+                  -26.592522
+                ],
+                [
+                  151.638248,
+                  -26.592659
+                ],
+                [
+                  151.648812,
+                  -26.610006
+                ],
+                [
+                  151.648886,
+                  -26.610098
+                ],
+                [
+                  151.663739,
+                  -26.624271
+                ],
+                [
+                  151.663855,
+                  -26.624354
+                ],
+                [
+                  151.687082,
+                  -26.636244
+                ],
+                [
+                  151.687327,
+                  -26.636303
+                ],
+                [
+                  151.705466,
+                  -26.636407
+                ],
+                [
+                  151.705665,
+                  -26.636371
+                ],
+                [
+                  151.724019,
+                  -26.629334
+                ],
+                [
+                  151.724283,
+                  -26.629097
+                ],
+                [
+                  151.727105,
+                  -26.62319
+                ],
+                [
+                  151.727134,
+                  -26.623108
+                ],
+                [
+                  151.728623,
+                  -26.616984
+                ],
+                [
+                  151.728546,
+                  -26.616632
+                ],
+                [
+                  151.715972,
+                  -26.60025
+                ],
+                [
+                  151.715889,
+                  -26.600166
+                ],
+                [
+                  151.704298,
+                  -26.591093
+                ],
+                [
+                  151.704173,
+                  -26.591022
+                ],
+                [
+                  151.656924,
+                  -26.572026
+                ],
+                [
+                  151.65641,
+                  -26.572083
+                ],
+                [
+                  151.637111,
+                  -26.585768
+                ],
+                [
+                  151.636928,
+                  -26.586202
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4484",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "70",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews working on-site",
+        "START": "7:12AM 27 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 27 Mar 2024",
+        "STREETS": "BENAIR RD, BURRANDOWAN RD, DEEP CREEK RD, INVERLAW-BENAIR RD, KINGAROY-BURRANDOWAN RD, KUMBIA MINMORE RD, REEDY CREEK RD, WATTLEGROVE RD",
+        "SUBURBS": "BENAIR, INVERLAW, KINGAROY, KUMBIA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711511400.515959"
+  "extracted": "1711511700.614625"
 }
