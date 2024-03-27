@@ -227,9 +227,102 @@
         "STREETS": "BEASLEY DR, FONTEBASSO CCT, ISAAC PL, JOSHUA PL, JUNO CT, MULLER ST, TOMARAH CT, VANSTONE WAY",
         "SUBURBS": "REDLAND BAY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.721695,
+              -26.900794
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.706035,
+                  -26.885906
+                ],
+                [
+                  152.707425,
+                  -26.915912
+                ],
+                [
+                  152.707761,
+                  -26.916319
+                ],
+                [
+                  152.721175,
+                  -26.920564
+                ],
+                [
+                  152.721617,
+                  -26.920517
+                ],
+                [
+                  152.722021,
+                  -26.920281
+                ],
+                [
+                  152.722149,
+                  -26.920174
+                ],
+                [
+                  152.733926,
+                  -26.906099
+                ],
+                [
+                  152.734023,
+                  -26.905884
+                ],
+                [
+                  152.737354,
+                  -26.881854
+                ],
+                [
+                  152.736898,
+                  -26.881349
+                ],
+                [
+                  152.732665,
+                  -26.881024
+                ],
+                [
+                  152.732528,
+                  -26.88103
+                ],
+                [
+                  152.706445,
+                  -26.885444
+                ],
+                [
+                  152.706035,
+                  -26.885906
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751228-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "37",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:42PM 27 Mar 2024",
+        "EST_FIX_TIME": "9:00PM 27 Mar 2024",
+        "STREETS": "FLETCHER RD, MOUNTFORD RD, STONY CREEK RD, WILKES RD",
+        "SUBURBS": "STONY CREEK"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711528801.179678"
+  "extracted": "1711529104.051176"
 }
