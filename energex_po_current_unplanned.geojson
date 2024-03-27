@@ -10,6 +10,111 @@
           {
             "type": "Point",
             "coordinates": [
+              153.256924,
+              -28.0304
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.242744,
+                  -28.032449
+                ],
+                [
+                  153.243042,
+                  -28.035034
+                ],
+                [
+                  153.243292,
+                  -28.035379
+                ],
+                [
+                  153.252373,
+                  -28.040056
+                ],
+                [
+                  153.253005,
+                  -28.039969
+                ],
+                [
+                  153.267439,
+                  -28.025826
+                ],
+                [
+                  153.267471,
+                  -28.025792
+                ],
+                [
+                  153.271095,
+                  -28.021446
+                ],
+                [
+                  153.271104,
+                  -28.02092
+                ],
+                [
+                  153.270547,
+                  -28.020743
+                ],
+                [
+                  153.260774,
+                  -28.023217
+                ],
+                [
+                  153.260731,
+                  -28.02323
+                ],
+                [
+                  153.255687,
+                  -28.02495
+                ],
+                [
+                  153.255681,
+                  -28.024953
+                ],
+                [
+                  153.255582,
+                  -28.024988
+                ],
+                [
+                  153.255501,
+                  -28.025025
+                ],
+                [
+                  153.242979,
+                  -28.032021
+                ],
+                [
+                  153.242744,
+                  -28.032449
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-11-t",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "89",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "6:45AM 28 Mar 2024",
+        "EST_FIX_TIME": "9:30AM 28 Mar 2024",
+        "STREETS": "BEECHMONT RD, BOTTLETREE LANE, FREEMANS RD, NORTH RD",
+        "SUBURBS": "ADVANCETOWN, CLAGIRABA, LOWER BEECHMONT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.807064,
               -27.201283
             ]
@@ -223,7 +328,7 @@
         "REASON": "Damage due to severe weather",
         "STATUS": "Awaiting",
         "START": "7:43AM 27 Mar 2024",
-        "EST_FIX_TIME": "7:30AM 28 Mar 2024",
+        "EST_FIX_TIME": "8:30AM 28 Mar 2024",
         "STREETS": "BEASLEY DR, FONTEBASSO CCT, ISAAC PL, JOSHUA PL, JUNO CT, MULLER ST, TOMARAH CT, VANSTONE WAY",
         "SUBURBS": "REDLAND BAY"
       }
@@ -491,6 +596,107 @@
           {
             "type": "Point",
             "coordinates": [
+              152.933927,
+              -26.570816
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.931486,
+                  -26.571093
+                ],
+                [
+                  152.931945,
+                  -26.572269
+                ],
+                [
+                  152.932336,
+                  -26.572565
+                ],
+                [
+                  152.933189,
+                  -26.572694
+                ],
+                [
+                  152.933198,
+                  -26.572695
+                ],
+                [
+                  152.934951,
+                  -26.572928
+                ],
+                [
+                  152.935128,
+                  -26.572924
+                ],
+                [
+                  152.936021,
+                  -26.572755
+                ],
+                [
+                  152.936368,
+                  -26.572112
+                ],
+                [
+                  152.935568,
+                  -26.570666
+                ],
+                [
+                  152.935536,
+                  -26.570616
+                ],
+                [
+                  152.934207,
+                  -26.568823
+                ],
+                [
+                  152.933502,
+                  -26.568703
+                ],
+                [
+                  152.932693,
+                  -26.569212
+                ],
+                [
+                  152.932564,
+                  -26.569329
+                ],
+                [
+                  152.931543,
+                  -26.570691
+                ],
+                [
+                  152.931486,
+                  -26.571093
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751304-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:12AM 28 Mar 2024",
+        "EST_FIX_TIME": "8:30AM 28 Mar 2024",
+        "STREETS": "CANE RD, WAPPA FALLS RD",
+        "SUBURBS": "KIAMBA, YANDINA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.433336,
               -28.112185
             ]
@@ -640,5 +846,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711572303.651831"
+  "extracted": "1711572600.407317"
 }
