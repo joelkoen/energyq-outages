@@ -158,79 +158,10 @@
         "CUSTOMERS_AFFECTED": "82",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
         "STATUS": "Outage reported",
-        "START": "6:24PM 27 Mar 2024",
+        "START": "6:14PM 27 Mar 2024",
         "EST_FIX_TIME": null,
         "STREETS": "AGATE CREEK RD, EINASLEIGH RD, FIFTH ST, FIRST ST, FORSAYTH RD, FOURTH ST, REEF RD, SECOND ST, SEVENTH ST, THIRD ST, UNKNOWN ST",
         "SUBURBS": "FORSAYTH, GEORGETOWN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              143.552261,
-              -18.44687
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  143.533522,
-                  -18.34373
-                ],
-                [
-                  143.533824,
-                  -18.446707
-                ],
-                [
-                  143.533848,
-                  -18.446849
-                ],
-                [
-                  143.570086,
-                  -18.550166
-                ],
-                [
-                  143.57065,
-                  -18.550461
-                ],
-                [
-                  143.571001,
-                  -18.549948
-                ],
-                [
-                  143.53446,
-                  -18.343653
-                ],
-                [
-                  143.533954,
-                  -18.343279
-                ],
-                [
-                  143.533522,
-                  -18.34373
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN4624",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
-        "START": "6:32PM 27 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "FORSAYTH RD, UNKNOWN ST",
-        "SUBURBS": "GEORGETOWN"
       }
     },
     {
@@ -633,6 +564,67 @@
           {
             "type": "Point",
             "coordinates": [
+              151.817837,
+              -27.233556
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.827373,
+                  -27.232171
+                ],
+                [
+                  151.808191,
+                  -27.234045
+                ],
+                [
+                  151.807745,
+                  -27.234541
+                ],
+                [
+                  151.808301,
+                  -27.23494
+                ],
+                [
+                  151.827483,
+                  -27.233066
+                ],
+                [
+                  151.827929,
+                  -27.23257
+                ],
+                [
+                  151.827373,
+                  -27.232171
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6951",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "2:22PM 27 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "KILBURNIE MOUNT DARRY RD, WALKERS RD",
+        "SUBURBS": "KILBIRNIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.924662,
               -24.518918
             ]
@@ -717,5 +709,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711529104.515621"
+  "extracted": "1711529401.559641"
 }
