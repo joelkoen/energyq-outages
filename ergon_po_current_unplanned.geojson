@@ -523,9 +523,70 @@
         "STREETS": "BARBARA ST, BATTERBEE ST, FAITH ST, LONG ST, MALLON ST, MANNUEM CT, MARCIA ST, OCEAN ST, SUGARS ST, WEBB ST",
         "SUBURBS": "RANGEVILLE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.691158,
+              -26.632728
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.691586,
+                  -26.632419
+                ],
+                [
+                  151.691187,
+                  -26.632235
+                ],
+                [
+                  151.690512,
+                  -26.632431
+                ],
+                [
+                  151.69073,
+                  -26.633037
+                ],
+                [
+                  151.69113,
+                  -26.633221
+                ],
+                [
+                  151.691804,
+                  -26.633025
+                ],
+                [
+                  151.691586,
+                  -26.632419
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4502",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "5:43PM 27 Mar 2024",
+        "EST_FIX_TIME": "7:00PM 27 Mar 2024",
+        "STREETS": "WATTLEGROVE RD",
+        "SUBURBS": "INVERLAW"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711525504.76032"
+  "extracted": "1711525801.702047"
 }
