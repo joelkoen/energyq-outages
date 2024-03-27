@@ -10,6 +10,95 @@
           {
             "type": "Point",
             "coordinates": [
+              147.684919,
+              -23.414502
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.680464,
+                  -23.415085
+                ],
+                [
+                  147.686279,
+                  -23.416199
+                ],
+                [
+                  147.686355,
+                  -23.416208
+                ],
+                [
+                  147.688129,
+                  -23.416288
+                ],
+                [
+                  147.688136,
+                  -23.416288
+                ],
+                [
+                  147.689307,
+                  -23.416324
+                ],
+                [
+                  147.689763,
+                  -23.415675
+                ],
+                [
+                  147.688313,
+                  -23.412932
+                ],
+                [
+                  147.687845,
+                  -23.412679
+                ],
+                [
+                  147.685532,
+                  -23.412802
+                ],
+                [
+                  147.685419,
+                  -23.412821
+                ],
+                [
+                  147.680422,
+                  -23.41421
+                ],
+                [
+                  147.680074,
+                  -23.414663
+                ],
+                [
+                  147.680464,
+                  -23.415085
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5005",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "39",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:41PM 27 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BEDFORD HILL RD, GLENLENA AVE, GOANNA FLATS RD, HERITAGE RD, OFF GOANNA FLAT RD, PETRA AVE, RIVERGUM PL, RUBY CRES, ZIRCON AVE, ZIRCONIA AVE",
+        "SUBURBS": "RUBYVALE, THE GEMFIELDS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -560,5 +649,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711534201.232605"
+  "extracted": "1711534505.460114"
 }
