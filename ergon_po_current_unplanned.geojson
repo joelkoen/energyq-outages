@@ -209,6 +209,59 @@
           {
             "type": "Point",
             "coordinates": [
+              148.812213,
+              -21.10079
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.812694,
+                  -21.100784
+                ],
+                [
+                  148.812207,
+                  -21.100338
+                ],
+                [
+                  148.811732,
+                  -21.100795
+                ],
+                [
+                  148.812218,
+                  -21.101241
+                ],
+                [
+                  148.812694,
+                  -21.100784
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3155",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "10:30AM 27 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MOUNT MARTIN LOOP RD",
+        "SUBURBS": "MOUNT MARTIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               144.814196,
               -21.178106
             ]
@@ -568,7 +621,7 @@
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Crews working on-site",
         "START": "7:12AM 27 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 27 Mar 2024",
+        "EST_FIX_TIME": "7:00PM 27 Mar 2024",
         "STREETS": "BENAIR RD, BURRANDOWAN RD, DEEP CREEK RD, INVERLAW-BENAIR RD, KINGAROY-BURRANDOWAN RD, KUMBIA MINMORE RD, REEDY CREEK RD, WATTLEGROVE RD",
         "SUBURBS": "BENAIR, INVERLAW, KINGAROY, KUMBIA"
       }
@@ -576,5 +629,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711519500.280067"
+  "extracted": "1711519807.165088"
 }
