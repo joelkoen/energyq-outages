@@ -10,8 +10,8 @@
           {
             "type": "Point",
             "coordinates": [
-              153.256924,
-              -28.0304
+              153.255698,
+              -28.039671
             ]
           },
           {
@@ -19,76 +19,44 @@
             "coordinates": [
               [
                 [
-                  153.242744,
-                  -28.032449
-                ],
-                [
-                  153.243042,
-                  -28.035034
-                ],
-                [
-                  153.243292,
-                  -28.035379
-                ],
-                [
-                  153.252373,
-                  -28.040056
-                ],
-                [
-                  153.253005,
-                  -28.039969
-                ],
-                [
-                  153.267439,
-                  -28.025826
-                ],
-                [
-                  153.267471,
-                  -28.025792
-                ],
-                [
-                  153.271095,
-                  -28.021446
-                ],
-                [
-                  153.271104,
-                  -28.02092
-                ],
-                [
-                  153.270547,
-                  -28.020743
-                ],
-                [
-                  153.260774,
-                  -28.023217
-                ],
-                [
-                  153.260731,
-                  -28.02323
-                ],
-                [
-                  153.255687,
-                  -28.02495
+                  153.253887,
+                  -28.038549
                 ],
                 [
                   153.255681,
-                  -28.024953
+                  -28.041226
                 ],
                 [
-                  153.255582,
-                  -28.024988
+                  153.256109,
+                  -28.041446
                 ],
                 [
-                  153.255501,
-                  -28.025025
+                  153.256997,
+                  -28.041461
                 ],
                 [
-                  153.242979,
-                  -28.032021
+                  153.257509,
+                  -28.040938
                 ],
                 [
-                  153.242744,
-                  -28.032449
+                  153.257114,
+                  -28.03877
+                ],
+                [
+                  153.256739,
+                  -28.038405
+                ],
+                [
+                  153.254451,
+                  -28.037881
+                ],
+                [
+                  153.253917,
+                  -28.038047
+                ],
+                [
+                  153.253887,
+                  -28.038549
                 ]
               ]
             ]
@@ -98,13 +66,13 @@
       "properties": {
         "EVENT_ID": "INCD-11-t",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "89",
+        "CUSTOMERS_AFFECTED": "5",
         "REASON": "Emergency Repairs",
         "STATUS": "Awaiting",
         "START": "6:45AM 28 Mar 2024",
         "EST_FIX_TIME": "2:00PM 28 Mar 2024",
-        "STREETS": "BEECHMONT RD, BOTTLETREE LANE, FREEMANS RD, NORTH RD",
-        "SUBURBS": "ADVANCETOWN, CLAGIRABA, LOWER BEECHMONT"
+        "STREETS": "BRUSHBOX RD",
+        "SUBURBS": "LOWER BEECHMONT"
       }
     },
     {
@@ -959,9 +927,102 @@
         "STREETS": "CHALLIS ST, FREEMONT DR, SIERRA DR",
         "SUBURBS": "TAMBORINE MOUNTAIN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.981332,
+              -26.665675
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.970804,
+                  -26.665445
+                ],
+                [
+                  152.982864,
+                  -26.677931
+                ],
+                [
+                  152.983517,
+                  -26.678013
+                ],
+                [
+                  152.991709,
+                  -26.673233
+                ],
+                [
+                  152.99192,
+                  -26.672735
+                ],
+                [
+                  152.987457,
+                  -26.658081
+                ],
+                [
+                  152.987264,
+                  -26.657833
+                ],
+                [
+                  152.985366,
+                  -26.656618
+                ],
+                [
+                  152.985314,
+                  -26.656589
+                ],
+                [
+                  152.983812,
+                  -26.655855
+                ],
+                [
+                  152.983805,
+                  -26.655852
+                ],
+                [
+                  152.978438,
+                  -26.653338
+                ],
+                [
+                  152.977766,
+                  -26.653519
+                ],
+                [
+                  152.970744,
+                  -26.664931
+                ],
+                [
+                  152.970804,
+                  -26.665445
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751342-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "117",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "7:30AM 28 Mar 2024",
+        "EST_FIX_TIME": "10:00AM 28 Mar 2024",
+        "STREETS": "ACORN LANE, DIDDILLIBAH RD, GARRAD RD, HAUPTS RD, KERLIN LANE, KIEL MOUNTAIN RD, NAMBOUR CONNECTION RD, PINE GROVE RD, SCHUBERT RD, SCHULZ RD, SHIRES RD",
+        "SUBURBS": "WOOMBYE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711575004.596856"
+  "extracted": "1711575301.139024"
 }
