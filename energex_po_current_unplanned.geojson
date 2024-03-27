@@ -482,9 +482,94 @@
         "STREETS": "CECILY ST, DIAMOND AVE, ROSENLUND ST",
         "SUBURBS": "KALLANGUR"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.433336,
+              -28.112185
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.432419,
+                  -28.112772
+                ],
+                [
+                  153.432458,
+                  -28.112851
+                ],
+                [
+                  153.432689,
+                  -28.113069
+                ],
+                [
+                  153.432942,
+                  -28.113185
+                ],
+                [
+                  153.433623,
+                  -28.113002
+                ],
+                [
+                  153.434257,
+                  -28.111978
+                ],
+                [
+                  153.434122,
+                  -28.111404
+                ],
+                [
+                  153.433803,
+                  -28.111185
+                ],
+                [
+                  153.433047,
+                  -28.111321
+                ],
+                [
+                  153.432603,
+                  -28.112026
+                ],
+                [
+                  153.432578,
+                  -28.112071
+                ],
+                [
+                  153.432415,
+                  -28.112414
+                ],
+                [
+                  153.432419,
+                  -28.112772
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751319-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "21",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:34AM 28 Mar 2024",
+        "EST_FIX_TIME": "9:30AM 28 Mar 2024",
+        "STREETS": "TALLEBUDGERA CREEK RD, TOWNSHIP DR",
+        "SUBURBS": "BURLEIGH HEADS"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711571404.379673"
+  "extracted": "1711571707.617411"
 }
