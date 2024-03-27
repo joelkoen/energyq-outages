@@ -404,7 +404,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "10",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "6:29PM 27 Mar 2024",
         "EST_FIX_TIME": null,
         "STREETS": "MARAJU-YAKAPARI RD",
@@ -518,107 +518,6 @@
         "EST_FIX_TIME": null,
         "STREETS": "BRIDGE RD, DOUGLAS ST, HUME ST, JACKSON ST, MACKENZIE ST, MORRISON ST, NESS ST",
         "SUBURBS": "MACKAY, WEST MACKAY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              148.877676,
-              -21.023157
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  148.831934,
-                  -21.04148
-                ],
-                [
-                  148.832434,
-                  -21.042918
-                ],
-                [
-                  148.832494,
-                  -21.043032
-                ],
-                [
-                  148.843412,
-                  -21.058112
-                ],
-                [
-                  148.843417,
-                  -21.058119
-                ],
-                [
-                  148.85331,
-                  -21.071262
-                ],
-                [
-                  148.853842,
-                  -21.071434
-                ],
-                [
-                  148.921322,
-                  -21.052159
-                ],
-                [
-                  148.921662,
-                  -21.051742
-                ],
-                [
-                  148.923417,
-                  -21.002671
-                ],
-                [
-                  148.923307,
-                  -21.002368
-                ],
-                [
-                  148.899146,
-                  -20.974949
-                ],
-                [
-                  148.898481,
-                  -20.974881
-                ],
-                [
-                  148.896619,
-                  -20.976243
-                ],
-                [
-                  148.896563,
-                  -20.97629
-                ],
-                [
-                  148.832041,
-                  -21.041031
-                ],
-                [
-                  148.831934,
-                  -21.04148
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK3159",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "248",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "7:45PM 27 Mar 2024",
-        "EST_FIX_TIME": "8:00PM 27 Mar 2024",
-        "STREETS": "BRANGUS CT, BROOKS RD, BRUCE HWY, CHIDGEYS RD, DEALS RD, GEEBERGA BUTHURRA RD, GEEBERGA STATION RD, HOPFS SAWMILL RD, KUTTABUL MOUNT JUKES RD, MCGILLS RD, MOUNT MARTIN RD, MT JUKES RD, NIDDOES GAP RD, PERNAS RD, PROVES RD, ROYSTON PARK DR, STACEYS RD, VOLKERS RD, WYSES RD",
-        "SUBURBS": "GEEBERGA, KUTTABUL, ROYSTON PARK, YAKAPARI"
       }
     },
     {
@@ -746,5 +645,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711533604.66255"
+  "extracted": "1711533901.46333"
 }
