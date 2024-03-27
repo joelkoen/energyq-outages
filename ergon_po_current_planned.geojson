@@ -133,6 +133,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          149.14692,
+          -21.17661
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2810",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "215",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 28 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 28 Mar 2024",
+        "STREETS": "BATH AVE, BECKETT CT, BERKSHIRE LANE, CARMELA CT, CHURCHILL AVE, DICKENS AVE, DOWNING ST, HASTINGS ST, MARLBOROUGH ST, RALEIGH ST, TUDOR CT",
+        "SUBURBS": "OORALEA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.744905,
           -19.275311
         ]
@@ -273,6 +294,27 @@
         "EST_FIX_TIME": "1:00PM 28 Mar 2024",
         "STREETS": "FLINDERS HWY, MAIN ST",
         "SUBURBS": "PENTLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.506308,
+          -20.725656
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6536",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:42AM 28 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 28 Mar 2024",
+        "STREETS": "IVY ST, MARIAN ST, TRAINOR ST",
+        "SUBURBS": "PIONEER, TOWNVIEW"
       }
     },
     {
@@ -446,5 +488,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711579200.617306"
+  "extracted": "1711579504.402524"
 }
