@@ -204,10 +204,10 @@
         "EVENT_ID": "INCD-750957-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "132",
-        "REASON": "Under Investigation",
+        "REASON": "Damage due to severe weather",
         "STATUS": "In Progress",
         "START": "6:48AM 27 Mar 2024",
-        "EST_FIX_TIME": "12:30PM 27 Mar 2024",
+        "EST_FIX_TIME": "3:00PM 27 Mar 2024",
         "STREETS": "COOBAH CT, CURRUMBURRA RD, DURI PL, HILLVIEW PDE, MILBONG TCE, THE CRESCENT, TOMANBIL TCE, WALLAROO WAY, WARRIGAL CRES, YANGOORA CRES",
         "SUBURBS": "ASHMORE"
       }
@@ -469,70 +469,9 @@
         "STREETS": "BELLTHORPE RANGE RD, BELLTHORPE WEST RD, CAMPBELL RD, GAP RD, KEIR RD, MEARS LANE, PLUMB RD, WILLETT RD",
         "SUBURBS": "BELLTHORPE, BOOROOBIN"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              153.132541,
-              -27.398297
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.132409,
-                  -27.396932
-                ],
-                [
-                  153.131694,
-                  -27.39944
-                ],
-                [
-                  153.132059,
-                  -27.399988
-                ],
-                [
-                  153.132674,
-                  -27.399662
-                ],
-                [
-                  153.133389,
-                  -27.397155
-                ],
-                [
-                  153.133024,
-                  -27.396606
-                ],
-                [
-                  153.132409,
-                  -27.396932
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-751049-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "6",
-        "REASON": "Emergency Repairs",
-        "STATUS": "Awaiting",
-        "START": "10:23AM 27 Mar 2024",
-        "EST_FIX_TIME": "1:00PM 27 Mar 2024",
-        "STREETS": "BANCROFT RD",
-        "SUBURBS": "PINKENBA"
-      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711503600.401122"
+  "extracted": "1711503901.814209"
 }

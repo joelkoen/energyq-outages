@@ -119,6 +119,91 @@
           {
             "type": "Point",
             "coordinates": [
+              139.353043,
+              -25.898131
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  139.350992,
+                  -25.90054
+                ],
+                [
+                  139.353724,
+                  -25.899079
+                ],
+                [
+                  139.355314,
+                  -25.898226
+                ],
+                [
+                  139.355549,
+                  -25.89792
+                ],
+                [
+                  139.355824,
+                  -25.896537
+                ],
+                [
+                  139.355477,
+                  -25.896028
+                ],
+                [
+                  139.354382,
+                  -25.895736
+                ],
+                [
+                  139.354162,
+                  -25.895723
+                ],
+                [
+                  139.351767,
+                  -25.896074
+                ],
+                [
+                  139.351369,
+                  -25.896398
+                ],
+                [
+                  139.350262,
+                  -25.900035
+                ],
+                [
+                  139.350439,
+                  -25.90051
+                ],
+                [
+                  139.350992,
+                  -25.90054
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4984",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "26",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:45AM 27 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 27 Mar 2024",
+        "STREETS": "ADELAIDE ST, FREW ST, GRAHAM ST, VAUGHAN ST",
+        "SUBURBS": "BIRDSVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -876,5 +961,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711503601.234431"
+  "extracted": "1711503904.773795"
 }
