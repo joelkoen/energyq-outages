@@ -1078,6 +1078,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.729136,
+          -26.113715
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB3839",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 27 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 27 Mar 2024",
+        "STREETS": "WEBBERS BRIDGE RD",
+        "SUBURBS": "WOOROONDEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.352251,
           -24.87115
         ]
@@ -1092,27 +1113,6 @@
         "EST_FIX_TIME": "3:00AM 28 Mar 2024",
         "STREETS": "BOURBONG ST, TARGO ST, WOONGARRA ST",
         "SUBURBS": "BUNDABERG, BUNDABERG CENTRAL"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.308889,
-          -25.224024
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB3915",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "10:30AM 27 Mar 2024",
-        "EST_FIX_TIME": "2:00PM 27 Mar 2024",
-        "STREETS": "GOODWINS RD, HORTON RD",
-        "SUBURBS": "HORTON"
       }
     },
     {
@@ -1202,5 +1202,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711499101.49744"
+  "extracted": "1711499412.300875"
 }
