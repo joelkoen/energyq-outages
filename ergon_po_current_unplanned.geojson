@@ -467,6 +467,79 @@
           {
             "type": "Point",
             "coordinates": [
+              145.419771,
+              -17.030083
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.418484,
+                  -17.031779
+                ],
+                [
+                  145.418724,
+                  -17.031878
+                ],
+                [
+                  145.419292,
+                  -17.031727
+                ],
+                [
+                  145.419749,
+                  -17.031113
+                ],
+                [
+                  145.419761,
+                  -17.031096
+                ],
+                [
+                  145.421242,
+                  -17.028903
+                ],
+                [
+                  145.42112,
+                  -17.028289
+                ],
+                [
+                  145.420477,
+                  -17.028381
+                ],
+                [
+                  145.4183,
+                  -17.031088
+                ],
+                [
+                  145.418484,
+                  -17.031779
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4637",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:18AM 28 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "RAY RD",
+        "SUBURBS": "MAREEBA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -1000,5 +1073,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711577704.260027"
+  "extracted": "1711578000.425214"
 }
