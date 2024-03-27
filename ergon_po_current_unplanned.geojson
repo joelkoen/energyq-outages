@@ -403,6 +403,75 @@
           {
             "type": "Point",
             "coordinates": [
+              141.08039,
+              -17.672374
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  141.079036,
+                  -17.671973
+                ],
+                [
+                  141.079665,
+                  -17.673232
+                ],
+                [
+                  141.080187,
+                  -17.673478
+                ],
+                [
+                  141.081381,
+                  -17.673231
+                ],
+                [
+                  141.081744,
+                  -17.672712
+                ],
+                [
+                  141.081542,
+                  -17.67164
+                ],
+                [
+                  141.081063,
+                  -17.67127
+                ],
+                [
+                  141.079442,
+                  -17.671329
+                ],
+                [
+                  141.079036,
+                  -17.671973
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4606",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:00PM 27 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BROWN ST, LITTLE BROWN ST, THOMPSON ST",
+        "SUBURBS": "NORMANTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -941,102 +1010,9 @@
         "STREETS": "BURNSDALE RD, SEVENTEEN MILE LANE, SIX MILE RD",
         "SUBURBS": "ROMA"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.654981,
-              -26.598177
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.636928,
-                  -26.586202
-                ],
-                [
-                  151.638194,
-                  -26.592522
-                ],
-                [
-                  151.638248,
-                  -26.592659
-                ],
-                [
-                  151.648812,
-                  -26.610006
-                ],
-                [
-                  151.648886,
-                  -26.610098
-                ],
-                [
-                  151.663739,
-                  -26.624271
-                ],
-                [
-                  151.66455,
-                  -26.624167
-                ],
-                [
-                  151.669181,
-                  -26.615987
-                ],
-                [
-                  151.66922,
-                  -26.615894
-                ],
-                [
-                  151.673035,
-                  -26.602477
-                ],
-                [
-                  151.673002,
-                  -26.602172
-                ],
-                [
-                  151.657172,
-                  -26.572244
-                ],
-                [
-                  151.65641,
-                  -26.572083
-                ],
-                [
-                  151.637111,
-                  -26.585768
-                ],
-                [
-                  151.636928,
-                  -26.586202
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB4484",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "21",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
-        "START": "7:12AM 27 Mar 2024",
-        "EST_FIX_TIME": "4:00PM 27 Mar 2024",
-        "STREETS": "BURRANDOWAN RD, KINGAROY-BURRANDOWAN RD, KUMBIA MINMORE RD, REEDY CREEK RD",
-        "SUBURBS": "KINGAROY, KUMBIA"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711504805.235416"
+  "extracted": "1711505100.324545"
 }
