@@ -492,6 +492,83 @@
           {
             "type": "Point",
             "coordinates": [
+              139.50597,
+              -20.723259
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  139.5045,
+                  -20.725229
+                ],
+                [
+                  139.505048,
+                  -20.725484
+                ],
+                [
+                  139.505341,
+                  -20.725524
+                ],
+                [
+                  139.507251,
+                  -20.725212
+                ],
+                [
+                  139.507646,
+                  -20.724767
+                ],
+                [
+                  139.507627,
+                  -20.721436
+                ],
+                [
+                  139.507091,
+                  -20.720993
+                ],
+                [
+                  139.506602,
+                  -20.721051
+                ],
+                [
+                  139.506244,
+                  -20.721279
+                ],
+                [
+                  139.504293,
+                  -20.724611
+                ],
+                [
+                  139.5045,
+                  -20.725229
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6833",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "53",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:41PM 28 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BUTLER ST, HILARY ST, JOYCE ST, TRAINOR ST, WILLIAM AVE",
+        "SUBURBS": "PIONEER, THE GAP, TOWNVIEW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -548,5 +625,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711593600.523275"
+  "extracted": "1711593907.101504"
 }
