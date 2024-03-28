@@ -690,6 +690,107 @@
           {
             "type": "Point",
             "coordinates": [
+              147.393228,
+              -19.573726
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.391748,
+                  -19.574137
+                ],
+                [
+                  147.391802,
+                  -19.574195
+                ],
+                [
+                  147.391868,
+                  -19.574252
+                ],
+                [
+                  147.392322,
+                  -19.574579
+                ],
+                [
+                  147.392371,
+                  -19.57461
+                ],
+                [
+                  147.392636,
+                  -19.574755
+                ],
+                [
+                  147.392974,
+                  -19.574806
+                ],
+                [
+                  147.393758,
+                  -19.574648
+                ],
+                [
+                  147.393946,
+                  -19.574566
+                ],
+                [
+                  147.394667,
+                  -19.57405
+                ],
+                [
+                  147.394707,
+                  -19.573361
+                ],
+                [
+                  147.394197,
+                  -19.572904
+                ],
+                [
+                  147.393953,
+                  -19.572788
+                ],
+                [
+                  147.393112,
+                  -19.572647
+                ],
+                [
+                  147.392721,
+                  -19.572747
+                ],
+                [
+                  147.391794,
+                  -19.57349
+                ],
+                [
+                  147.391748,
+                  -19.574137
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6823",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:10AM 28 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRUCE HWY, DRYSDALE ST, ROBERT ST, TAMARIND CL",
+        "SUBURBS": "AYR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -847,5 +948,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711584301.024666"
+  "extracted": "1711584600.740061"
 }
