@@ -410,9 +410,78 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.983128,
+              -27.645742
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.980997,
+                  -27.646808
+                ],
+                [
+                  151.985526,
+                  -27.645584
+                ],
+                [
+                  151.98588,
+                  -27.645093
+                ],
+                [
+                  151.985392,
+                  -27.644704
+                ],
+                [
+                  151.984084,
+                  -27.644676
+                ],
+                [
+                  151.98387,
+                  -27.644713
+                ],
+                [
+                  151.980648,
+                  -27.645964
+                ],
+                [
+                  151.980376,
+                  -27.646532
+                ],
+                [
+                  151.980997,
+                  -27.646808
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7025",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews working on-site",
+        "START": "2:37PM 28 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARCHER CRES, GORMANS GAP RD, PRESTON BOUNDARY RD",
+        "SUBURBS": "PRESTON"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711610104.631355"
+  "extracted": "1711610401.347604"
 }
