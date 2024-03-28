@@ -241,6 +241,83 @@
           {
             "type": "Point",
             "coordinates": [
+              148.161243,
+              -20.133721
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.150997,
+                  -20.136929
+                ],
+                [
+                  148.153699,
+                  -20.142857
+                ],
+                [
+                  148.154398,
+                  -20.143057
+                ],
+                [
+                  148.171376,
+                  -20.132665
+                ],
+                [
+                  148.171488,
+                  -20.132002
+                ],
+                [
+                  148.165029,
+                  -20.124469
+                ],
+                [
+                  148.16438,
+                  -20.124385
+                ],
+                [
+                  148.157555,
+                  -20.128971
+                ],
+                [
+                  148.157461,
+                  -20.129054
+                ],
+                [
+                  148.151066,
+                  -20.136465
+                ],
+                [
+                  148.150997,
+                  -20.136929
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6848",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:30PM 28 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOOTOOLOO RD, MOUNT DANGAR RD, MT DANGAR",
+        "SUBURBS": "BOWEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -297,5 +374,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711625414.299021"
+  "extracted": "1711625701.226914"
 }
