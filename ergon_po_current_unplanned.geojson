@@ -241,6 +241,123 @@
           {
             "type": "Point",
             "coordinates": [
+              146.781171,
+              -19.292913
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.778173,
+                  -19.293742
+                ],
+                [
+                  146.778347,
+                  -19.294072
+                ],
+                [
+                  146.778545,
+                  -19.294266
+                ],
+                [
+                  146.779526,
+                  -19.294776
+                ],
+                [
+                  146.779695,
+                  -19.294827
+                ],
+                [
+                  146.779949,
+                  -19.294857
+                ],
+                [
+                  146.780009,
+                  -19.294861
+                ],
+                [
+                  146.783237,
+                  -19.294854
+                ],
+                [
+                  146.783335,
+                  -19.294845
+                ],
+                [
+                  146.783786,
+                  -19.294753
+                ],
+                [
+                  146.78416,
+                  -19.294363
+                ],
+                [
+                  146.78421,
+                  -19.293953
+                ],
+                [
+                  146.7841,
+                  -19.293609
+                ],
+                [
+                  146.781847,
+                  -19.291077
+                ],
+                [
+                  146.78127,
+                  -19.290965
+                ],
+                [
+                  146.780954,
+                  -19.291116
+                ],
+                [
+                  146.780888,
+                  -19.291154
+                ],
+                [
+                  146.778386,
+                  -19.292873
+                ],
+                [
+                  146.778198,
+                  -19.293148
+                ],
+                [
+                  146.778133,
+                  -19.293448
+                ],
+                [
+                  146.778173,
+                  -19.293742
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6843",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "79",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "4:28PM 28 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BARTLETT AVE, BUNA AVE, DUDLEY CT, GULLIVER ST, HARDING AVE, HEALY ST, WELLINGTON ST, WESTLANDS CT",
+        "SUBURBS": "MUNDINGBURRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -297,5 +414,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711609204.068819"
+  "extracted": "1711609501.235165"
 }
