@@ -10,83 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              153.25379,
-              -28.036104
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.253059,
-                  -28.039906
-                ],
-                [
-                  153.255386,
-                  -28.036619
-                ],
-                [
-                  153.255455,
-                  -28.036295
-                ],
-                [
-                  153.254871,
-                  -28.033581
-                ],
-                [
-                  153.254831,
-                  -28.033472
-                ],
-                [
-                  153.254241,
-                  -28.03237
-                ],
-                [
-                  153.253705,
-                  -28.032118
-                ],
-                [
-                  153.253278,
-                  -28.0325
-                ],
-                [
-                  153.252125,
-                  -28.039601
-                ],
-                [
-                  153.252453,
-                  -28.040089
-                ],
-                [
-                  153.253059,
-                  -28.039906
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-11-t",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "6",
-        "REASON": "Emergency Repairs",
-        "STATUS": "Awaiting",
-        "START": "6:45AM 28 Mar 2024",
-        "EST_FIX_TIME": "2:00PM 28 Mar 2024",
-        "STREETS": "BEECHMONT RD",
-        "SUBURBS": "LOWER BEECHMONT"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               152.708613,
               -26.887019
             ]
@@ -232,9 +155,118 @@
         "STREETS": "TALLEBUDGERA CREEK RD, TOWNSHIP DR",
         "SUBURBS": "BURLEIGH HEADS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.956422,
+              -26.704543
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.952526,
+                  -26.711989
+                ],
+                [
+                  152.954079,
+                  -26.712136
+                ],
+                [
+                  152.954509,
+                  -26.711985
+                ],
+                [
+                  152.958801,
+                  -26.707605
+                ],
+                [
+                  152.958914,
+                  -26.707405
+                ],
+                [
+                  152.959703,
+                  -26.704221
+                ],
+                [
+                  152.959704,
+                  -26.704216
+                ],
+                [
+                  152.960642,
+                  -26.700196
+                ],
+                [
+                  152.960648,
+                  -26.700166
+                ],
+                [
+                  152.960763,
+                  -26.699433
+                ],
+                [
+                  152.960611,
+                  -26.699043
+                ],
+                [
+                  152.958534,
+                  -26.69727
+                ],
+                [
+                  152.958427,
+                  -26.6972
+                ],
+                [
+                  152.957914,
+                  -26.696951
+                ],
+                [
+                  152.957228,
+                  -26.697141
+                ],
+                [
+                  152.953505,
+                  -26.703614
+                ],
+                [
+                  152.953455,
+                  -26.70375
+                ],
+                [
+                  152.952082,
+                  -26.711469
+                ],
+                [
+                  152.952526,
+                  -26.711989
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751485-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "26",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "1:14PM 28 Mar 2024",
+        "EST_FIX_TIME": "4:00PM 28 Mar 2024",
+        "STREETS": "EAST PALMWOODS SCHOOL RD, LEEONS RD, PALMWOODS SCHOOL RD, PASKINS RD, TOBY CT",
+        "SUBURBS": "PALMWOODS"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711596901.192252"
+  "extracted": "1711597200.347424"
 }
