@@ -1041,9 +1041,102 @@
         "STREETS": "BELTRAM PARK RD, BLAKENEY ST, CHEEPIE-ADAVALE RD, COLAC RD, DIAMANTINA DEVELOPMENTAL RD, HUMEBURN RD, LANGLO RD, MAIN ST, OLD CHARLEVILLE RD",
         "SUBURBS": "CHARLEVILLE, CHEEPIE, COOLADDI, QUILPIE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.376082,
+              -27.608992
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.325482,
+                  -27.593091
+                ],
+                [
+                  151.337507,
+                  -27.619048
+                ],
+                [
+                  151.337518,
+                  -27.61907
+                ],
+                [
+                  151.340211,
+                  -27.624094
+                ],
+                [
+                  151.340251,
+                  -27.624155
+                ],
+                [
+                  151.349988,
+                  -27.63676
+                ],
+                [
+                  151.350606,
+                  -27.636918
+                ],
+                [
+                  151.426483,
+                  -27.607527
+                ],
+                [
+                  151.426683,
+                  -27.60684
+                ],
+                [
+                  151.420516,
+                  -27.599659
+                ],
+                [
+                  151.420319,
+                  -27.599521
+                ],
+                [
+                  151.373437,
+                  -27.581088
+                ],
+                [
+                  151.373101,
+                  -27.581065
+                ],
+                [
+                  151.325817,
+                  -27.592484
+                ],
+                [
+                  151.325482,
+                  -27.593091
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6950",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "44",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:27AM 28 Mar 2024",
+        "EST_FIX_TIME": "2:00PM 28 Mar 2024",
+        "STREETS": "BRANCH VIEW RD, BROOKSTEAD NORWIN RD, BROOKSTEAD-NANGWEE RD, BROOKSTEAD-NORWIN RD, CHAPMAN RD, CHAPMANS RD, NORWIN-BRANCHVIEW RD, OLES RD, PIPELINE RD",
+        "SUBURBS": "BONGEEN, BRANCHVIEW, BROOKSTEAD, CECIL PLAINS, NORWIN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711586702.562769"
+  "extracted": "1711587001.554734"
 }
