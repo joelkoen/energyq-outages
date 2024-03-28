@@ -1,8 +1,118 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.203032,
+              -27.880293
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.18041,
+                  -27.903051
+                ],
+                [
+                  153.181373,
+                  -27.903526
+                ],
+                [
+                  153.181646,
+                  -27.903582
+                ],
+                [
+                  153.198936,
+                  -27.902784
+                ],
+                [
+                  153.199064,
+                  -27.902763
+                ],
+                [
+                  153.206241,
+                  -27.900732
+                ],
+                [
+                  153.206468,
+                  -27.900599
+                ],
+                [
+                  153.225814,
+                  -27.881011
+                ],
+                [
+                  153.225911,
+                  -27.880563
+                ],
+                [
+                  153.222414,
+                  -27.871777
+                ],
+                [
+                  153.222346,
+                  -27.871663
+                ],
+                [
+                  153.210529,
+                  -27.857168
+                ],
+                [
+                  153.209959,
+                  -27.857004
+                ],
+                [
+                  153.202482,
+                  -27.859182
+                ],
+                [
+                  153.202188,
+                  -27.859405
+                ],
+                [
+                  153.181127,
+                  -27.895994
+                ],
+                [
+                  153.181075,
+                  -27.896143
+                ],
+                [
+                  153.180153,
+                  -27.9026
+                ],
+                [
+                  153.18041,
+                  -27.903051
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751586-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "154",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "9:20PM 28 Mar 2024",
+        "EST_FIX_TIME": "12:00AM 29 Mar 2024",
+        "STREETS": "CEDAR CREEK FALLS RD, CEDAR CREEK RD, ELEVATION DR, HAYES RD, JOURDANA DR, MACDONNELL RD, ROWE LANE, TAMBORINE MOUNTAIN RD, TAMBORINE OXENFORD RD, TAMBORINE-OXENFORD RD, TOLIMA DR",
+        "SUBURBS": "CEDAR CREEK, TAMBORINE MOUNTAIN, WONGAWALLAN"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711624801.451351"
+  "extracted": "1711625101.231824"
 }
