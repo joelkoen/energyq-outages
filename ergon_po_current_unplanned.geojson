@@ -273,6 +273,99 @@
           {
             "type": "Point",
             "coordinates": [
+              145.283411,
+              -17.691314
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.236313,
+                  -17.726001
+                ],
+                [
+                  145.309184,
+                  -17.785396
+                ],
+                [
+                  145.309206,
+                  -17.785413
+                ],
+                [
+                  145.317849,
+                  -17.791646
+                ],
+                [
+                  145.318603,
+                  -17.791324
+                ],
+                [
+                  145.330672,
+                  -17.657785
+                ],
+                [
+                  145.330673,
+                  -17.657739
+                ],
+                [
+                  145.329756,
+                  -17.598892
+                ],
+                [
+                  145.329671,
+                  -17.598639
+                ],
+                [
+                  145.32415,
+                  -17.591088
+                ],
+                [
+                  145.323489,
+                  -17.590981
+                ],
+                [
+                  145.239124,
+                  -17.649199
+                ],
+                [
+                  145.238929,
+                  -17.64955
+                ],
+                [
+                  145.236148,
+                  -17.725641
+                ],
+                [
+                  145.236313,
+                  -17.726001
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4671",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "144",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:36AM 29 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BAILLIE RD, BLAIRS GLY, BRODIE RD, CLARK RD, GRANT RD, HERBERT RIVER RD, KENNEDY HWY, POOLS RD, SHADY CREEK RD, SILVER VALLEY RD, SPLIT ROCK RD, SUNSET RDGE, TOBACCO RD, WILD RIVER RD, WOODLEIGH RD, YOURKA RD",
+        "SUBURBS": "INNOT HOT SPRINGS, MILLSTREAM, RAVENSHOE, SILVER VALLEY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -669,5 +762,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711661701.486052"
+  "extracted": "1711662001.309428"
 }
