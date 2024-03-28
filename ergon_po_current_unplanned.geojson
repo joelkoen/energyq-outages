@@ -459,6 +459,75 @@
           {
             "type": "Point",
             "coordinates": [
+              139.494484,
+              -20.661655
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  139.493369,
+                  -20.661299
+                ],
+                [
+                  139.493862,
+                  -20.663142
+                ],
+                [
+                  139.49432,
+                  -20.663481
+                ],
+                [
+                  139.494784,
+                  -20.66315
+                ],
+                [
+                  139.4956,
+                  -20.660322
+                ],
+                [
+                  139.495401,
+                  -20.65983
+                ],
+                [
+                  139.494843,
+                  -20.659854
+                ],
+                [
+                  139.493534,
+                  -20.660839
+                ],
+                [
+                  139.493369,
+                  -20.661299
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6845",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "5:45PM 28 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "KILLARA CRES, KOLONGO CRES",
+        "SUBURBS": "KALKADOON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -515,5 +584,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711611904.02663"
+  "extracted": "1711612201.460088"
 }
