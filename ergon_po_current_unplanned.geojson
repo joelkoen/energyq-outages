@@ -241,6 +241,107 @@
           {
             "type": "Point",
             "coordinates": [
+              149.223161,
+              -21.067624
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.221283,
+                  -21.067678
+                ],
+                [
+                  149.221806,
+                  -21.068348
+                ],
+                [
+                  149.22187,
+                  -21.068415
+                ],
+                [
+                  149.222603,
+                  -21.069043
+                ],
+                [
+                  149.222633,
+                  -21.069067
+                ],
+                [
+                  149.222743,
+                  -21.069146
+                ],
+                [
+                  149.222755,
+                  -21.069155
+                ],
+                [
+                  149.222886,
+                  -21.069244
+                ],
+                [
+                  149.223313,
+                  -21.069308
+                ],
+                [
+                  149.224818,
+                  -21.068861
+                ],
+                [
+                  149.225039,
+                  -21.068138
+                ],
+                [
+                  149.223046,
+                  -21.06594
+                ],
+                [
+                  149.222313,
+                  -21.065942
+                ],
+                [
+                  149.22166,
+                  -21.066667
+                ],
+                [
+                  149.22164,
+                  -21.06669
+                ],
+                [
+                  149.221284,
+                  -21.067143
+                ],
+                [
+                  149.221283,
+                  -21.067678
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3197",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "36",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "5:23PM 28 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "GRACE CRES, OCEAN AVE, PLOVER ST",
+        "SUBURBS": "SLADE POINT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.781171,
               -19.292913
             ]
@@ -343,7 +444,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "79",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "4:28PM 28 Mar 2024",
         "EST_FIX_TIME": null,
         "STREETS": "BARTLETT AVE, BUNA AVE, DUDLEY CT, GULLIVER ST, HARDING AVE, HEALY ST, WELLINGTON ST, WESTLANDS CT",
@@ -483,5 +584,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711610401.347604"
+  "extracted": "1711610701.736667"
 }
