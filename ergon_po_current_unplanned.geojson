@@ -97,7 +97,7 @@
         "CUSTOMERS_AFFECTED": "55",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
         "STATUS": "Crews working on-site",
-        "START": "7:30AM 29 Mar 2024",
+        "START": "7:55AM 29 Mar 2024",
         "EST_FIX_TIME": "12:30PM 29 Mar 2024",
         "STREETS": "CAPELLA ST, CAPRICORN ST, LIME ST, MIMOSA ST",
         "SUBURBS": "CLERMONT"
@@ -613,6 +613,115 @@
           {
             "type": "Point",
             "coordinates": [
+              146.398185,
+              -20.007494
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.31483,
+                  -20.007537
+                ],
+                [
+                  146.326367,
+                  -20.019187
+                ],
+                [
+                  146.326406,
+                  -20.019222
+                ],
+                [
+                  146.353186,
+                  -20.040694
+                ],
+                [
+                  146.353601,
+                  -20.04079
+                ],
+                [
+                  146.444434,
+                  -20.021421
+                ],
+                [
+                  146.444625,
+                  -20.021335
+                ],
+                [
+                  146.46449,
+                  -20.006485
+                ],
+                [
+                  146.464607,
+                  -20.006357
+                ],
+                [
+                  146.481599,
+                  -19.978631
+                ],
+                [
+                  146.481244,
+                  -19.977956
+                ],
+                [
+                  146.449129,
+                  -19.974201
+                ],
+                [
+                  146.449051,
+                  -19.974198
+                ],
+                [
+                  146.443627,
+                  -19.974401
+                ],
+                [
+                  146.443602,
+                  -19.974402
+                ],
+                [
+                  146.329642,
+                  -19.984206
+                ],
+                [
+                  146.329277,
+                  -19.984421
+                ],
+                [
+                  146.314771,
+                  -20.006993
+                ],
+                [
+                  146.31483,
+                  -20.007537
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6853",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "103",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:51AM 29 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ACACIA VALE RD, ARCHERS RD, BIVOUAC JUNCTION RD, BRAY RD, CHRISTIANSEN RD, COOPER RD, DAWN ST, DUNROAMIN RD, ELLESLEY RD, FANNING DOWNS RD, FANNING DOWNS STATION, FLINDERS HWY, FOREST HOME STATION, HARTHORPE RD, MOORELAND STATION, MOORELANDS RD, SCHOOL ST, STOCKROUTE RD, TITLEY RD, WHEELERS RD",
+        "SUBURBS": "BREDDAN, BROUGHTON, CHARTERS TOWERS, COLUMBIA, DOTSWOOD, MACROSSAN, SELLHEIM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -762,5 +871,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711662601.618737"
+  "extracted": "1711662901.409533"
 }
