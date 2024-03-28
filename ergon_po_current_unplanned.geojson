@@ -366,6 +366,171 @@
           {
             "type": "Point",
             "coordinates": [
+              145.732765,
+              -16.957811
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.718859,
+                  -16.953855
+                ],
+                [
+                  145.718955,
+                  -16.954728
+                ],
+                [
+                  145.718957,
+                  -16.95474
+                ],
+                [
+                  145.720879,
+                  -16.968438
+                ],
+                [
+                  145.721032,
+                  -16.968715
+                ],
+                [
+                  145.722894,
+                  -16.970303
+                ],
+                [
+                  145.723154,
+                  -16.970414
+                ],
+                [
+                  145.727931,
+                  -16.970922
+                ],
+                [
+                  145.728069,
+                  -16.970917
+                ],
+                [
+                  145.746121,
+                  -16.967643
+                ],
+                [
+                  145.746492,
+                  -16.967299
+                ],
+                [
+                  145.74654,
+                  -16.967097
+                ],
+                [
+                  145.746545,
+                  -16.96707
+                ],
+                [
+                  145.74657,
+                  -16.966923
+                ],
+                [
+                  145.746577,
+                  -16.966853
+                ],
+                [
+                  145.746672,
+                  -16.953534
+                ],
+                [
+                  145.746664,
+                  -16.953453
+                ],
+                [
+                  145.746172,
+                  -16.950747
+                ],
+                [
+                  145.74614,
+                  -16.950644
+                ],
+                [
+                  145.743692,
+                  -16.945251
+                ],
+                [
+                  145.743595,
+                  -16.945114
+                ],
+                [
+                  145.743467,
+                  -16.94499
+                ],
+                [
+                  145.743301,
+                  -16.944885
+                ],
+                [
+                  145.742967,
+                  -16.944763
+                ],
+                [
+                  145.742845,
+                  -16.944736
+                ],
+                [
+                  145.742475,
+                  -16.944701
+                ],
+                [
+                  145.742392,
+                  -16.9447
+                ],
+                [
+                  145.741156,
+                  -16.944794
+                ],
+                [
+                  145.741036,
+                  -16.944819
+                ],
+                [
+                  145.737826,
+                  -16.945913
+                ],
+                [
+                  145.737803,
+                  -16.945922
+                ],
+                [
+                  145.719146,
+                  -16.95339
+                ],
+                [
+                  145.718859,
+                  -16.953855
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4672",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2994",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:15AM 29 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AGATE ST, ALBERTA DR, ALFIO ST, ALICE CL, ALKOO CL, ALMA ST, ALPHA CL, AMETHYST ST, ANDERSON RD, ANGELA ST, ARENA CL, ARRUNGA CL, BAYVIEW ST, BETH CL, BROWN ST, BRUCE HWY, CARMEL CL, CARROO ST, CAVALLARO AVE, CAVANAGH ST, COMET ST, COMMERCIAL PL, COOINDA CL, COPPER CL, CORAL CL, CREEK CL, CREST CL, DALE CL, DANDALOO ST, DEANNA ST, EL PASO ST, ELGATA CL, ELLEN CL, EMERALD ST, ERANG ST, ETNA CL, FAIRVIEW ST, FALCON ST, FIESTA CL, FLAME CL, FLAME ST, FLAMENCO CL, GERARD ST, GIRRALONG ST, GLEN CL, HAYLEY CL, HENLEY ST, HILLCREST ST, HILLTOP CL, HONEYSUCKLE ST, ISHMAEL RD, JACANA CL, JASPER ST, JEAN CL, JIRRIMA ST, KAREN CL, KARLOO CL, KARWIN ST, KENNETH ST, KIRSTEN CL, KYM CL, LEANNE CL, LENORA CL, LOLA CL, LORETTA AVE, LYNDEL DR, LYNETTE ST, MAINA ST, MARIA ST, MARIO ST, MARTI ST, MATADOR CL, MATILDA CL, MCGUIGAN ST, MILANO ST, MULGRAVE RD, MYWEE ST, NARANGHI CL, NEPHRITE ST, NOELA CL, OLIVINE CL, OSPREY CL, PAGE ST, PANORAMA ST, PARK ST, PERIDOT ST, PINETREE CL, PISA ST, POOL CL, RITA CL, SANDOWN CL, SAPPHIRE CL, SCENIC ST, SEAVIEW CL, SHANNON DR, SONDRIO ST, SORRENTO ST, SYDNEY CL, SYDNEY ST, TEAL CL, TONI CL, TOOGOOD RD, TORINO ST, TOURMALINE CL, TRACEY CL, TURQUOISE CL, URAMBI CL, VARESE ST, VELMA CL, VENEZIA ST, VILLA ST, VINE CL, VIOLA CL, VISTA ST, WINDARRA ST, WIRRAH CL, WIRRAH ST, WOOMALA ST, ZIRCON ST",
+        "SUBURBS": "BAYVIEW HEIGHTS, CAIRNS, EARLVILLE, WOREE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -948,5 +1113,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711664105.263299"
+  "extracted": "1711664401.443831"
 }
