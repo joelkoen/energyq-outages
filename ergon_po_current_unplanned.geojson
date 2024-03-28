@@ -722,6 +722,83 @@
           {
             "type": "Point",
             "coordinates": [
+              144.157135,
+              -20.755794
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  144.066797,
+                  -20.670377
+                ],
+                [
+                  144.108541,
+                  -20.841442
+                ],
+                [
+                  144.109191,
+                  -20.841758
+                ],
+                [
+                  144.243682,
+                  -20.78977
+                ],
+                [
+                  144.243979,
+                  -20.789374
+                ],
+                [
+                  144.247473,
+                  -20.722207
+                ],
+                [
+                  144.247184,
+                  -20.721771
+                ],
+                [
+                  144.143333,
+                  -20.679711
+                ],
+                [
+                  144.143209,
+                  -20.679678
+                ],
+                [
+                  144.06733,
+                  -20.669829
+                ],
+                [
+                  144.066797,
+                  -20.670377
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6854",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:22AM 29 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALSTONVALE STATION, BOGGLYWALLAH STATION, BROOKFIELD STATION, ORMONDE STATION, ROSEVALE STATION, STRATHALLEN STATION, SUSSEX PARK STATION, TORVER VALLEY STATION",
+        "SUBURBS": "HUGHENDEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -871,5 +948,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711663501.388769"
+  "extracted": "1711663801.089215"
 }
