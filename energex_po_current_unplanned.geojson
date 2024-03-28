@@ -102,9 +102,110 @@
         "STREETS": "BALSAM RD, BRUCE HWY, BUNYA RD, GOLDEN RAIN LANE, HATFIELD RD",
         "SUBURBS": "EERWAH VALE, EUMUNDI, NORTH ARM"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.924975,
+              -26.362076
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.92286,
+                  -26.363934
+                ],
+                [
+                  152.92386,
+                  -26.364837
+                ],
+                [
+                  152.924248,
+                  -26.364969
+                ],
+                [
+                  152.925525,
+                  -26.364892
+                ],
+                [
+                  152.925945,
+                  -26.364634
+                ],
+                [
+                  152.926172,
+                  -26.364201
+                ],
+                [
+                  152.926208,
+                  -26.364104
+                ],
+                [
+                  152.927156,
+                  -26.360161
+                ],
+                [
+                  152.927164,
+                  -26.360118
+                ],
+                [
+                  152.927233,
+                  -26.359596
+                ],
+                [
+                  152.926433,
+                  -26.359183
+                ],
+                [
+                  152.926153,
+                  -26.359373
+                ],
+                [
+                  152.926125,
+                  -26.359394
+                ],
+                [
+                  152.923075,
+                  -26.361802
+                ],
+                [
+                  152.922908,
+                  -26.362089
+                ],
+                [
+                  152.922717,
+                  -26.363563
+                ],
+                [
+                  152.92286,
+                  -26.363934
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751603-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "1:07AM 29 Mar 2024",
+        "EST_FIX_TIME": "2:30AM 29 Mar 2024",
+        "STREETS": "FOREST ACRES DR, IRONBARK CT",
+        "SUBURBS": "LAKE MACDONALD"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711638601.656082"
+  "extracted": "1711638905.113133"
 }
