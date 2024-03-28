@@ -10,6 +10,91 @@
           {
             "type": "Point",
             "coordinates": [
+              150.711166,
+              -23.153157
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.709428,
+                  -23.155441
+                ],
+                [
+                  150.710691,
+                  -23.155036
+                ],
+                [
+                  150.71089,
+                  -23.154915
+                ],
+                [
+                  150.713551,
+                  -23.152238
+                ],
+                [
+                  150.713305,
+                  -23.151494
+                ],
+                [
+                  150.710471,
+                  -23.150872
+                ],
+                [
+                  150.709898,
+                  -23.151162
+                ],
+                [
+                  150.708891,
+                  -23.153818
+                ],
+                [
+                  150.708867,
+                  -23.15391
+                ],
+                [
+                  150.708824,
+                  -23.15422
+                ],
+                [
+                  150.708821,
+                  -23.154254
+                ],
+                [
+                  150.708781,
+                  -23.154992
+                ],
+                [
+                  150.709428,
+                  -23.155441
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5053",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "26",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:35PM 28 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "JABIRU DR, PLOVER DR",
+        "SUBURBS": "BARMARYEE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -540,5 +625,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711601406.555364"
+  "extracted": "1711601701.255229"
 }
