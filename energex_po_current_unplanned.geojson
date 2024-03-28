@@ -1,78 +1,8 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              152.708613,
-              -26.887019
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.706277,
-                  -26.886273
-                ],
-                [
-                  152.710481,
-                  -26.888561
-                ],
-                [
-                  152.711132,
-                  -26.888461
-                ],
-                [
-                  152.711112,
-                  -26.887869
-                ],
-                [
-                  152.710079,
-                  -26.886867
-                ],
-                [
-                  152.709917,
-                  -26.886762
-                ],
-                [
-                  152.706746,
-                  -26.885476
-                ],
-                [
-                  152.706093,
-                  -26.885677
-                ],
-                [
-                  152.706277,
-                  -26.886273
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-751228-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "Damage due to severe weather",
-        "STATUS": "In Progress",
-        "START": "6:42PM 27 Mar 2024",
-        "EST_FIX_TIME": "8:00PM 28 Mar 2024",
-        "STREETS": "STONY CREEK RD",
-        "SUBURBS": "STONY CREEK"
-      }
-    }
-  ],
+  "features": [],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711613704.438631"
+  "extracted": "1711614001.59893"
 }
