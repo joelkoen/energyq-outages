@@ -326,6 +326,139 @@
           {
             "type": "Point",
             "coordinates": [
+              145.735703,
+              -16.934908
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.720539,
+                  -16.93563
+                ],
+                [
+                  145.722379,
+                  -16.944178
+                ],
+                [
+                  145.722405,
+                  -16.944259
+                ],
+                [
+                  145.722649,
+                  -16.944826
+                ],
+                [
+                  145.723004,
+                  -16.945098
+                ],
+                [
+                  145.723279,
+                  -16.945143
+                ],
+                [
+                  145.723383,
+                  -16.945149
+                ],
+                [
+                  145.750475,
+                  -16.943747
+                ],
+                [
+                  145.750868,
+                  -16.94309
+                ],
+                [
+                  145.750647,
+                  -16.942674
+                ],
+                [
+                  145.750629,
+                  -16.942644
+                ],
+                [
+                  145.748539,
+                  -16.939346
+                ],
+                [
+                  145.748536,
+                  -16.939341
+                ],
+                [
+                  145.743119,
+                  -16.931
+                ],
+                [
+                  145.74311,
+                  -16.930987
+                ],
+                [
+                  145.738782,
+                  -16.924819
+                ],
+                [
+                  145.738186,
+                  -16.924666
+                ],
+                [
+                  145.722965,
+                  -16.931872
+                ],
+                [
+                  145.722834,
+                  -16.931963
+                ],
+                [
+                  145.721608,
+                  -16.933186
+                ],
+                [
+                  145.721576,
+                  -16.933222
+                ],
+                [
+                  145.720855,
+                  -16.934108
+                ],
+                [
+                  145.720764,
+                  -16.934302
+                ],
+                [
+                  145.720538,
+                  -16.935454
+                ],
+                [
+                  145.720539,
+                  -16.93563
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4662",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2334",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "4:15PM 28 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANDREA CL, ARIEL CT, AUGUSTUS ST, AZALEA CT, BANKSIA ST, BEATRICE ST, BEGONIA PL, BOTTLEBRUSH ST, BREMNER ST, BRETT ST, BUCAS CT, CAESAR CL, CALLAGHAN ST, CALLUM ST, CAMBANORA PL, CAPITANIO CL, CARNATION DR, CAVA CL, CHATAWAY ST, CICERO CL, CITY VIEW CRES, CLOSE ST, COCHRANE ST, COLEUS CT, COREEGA CL, CRAIG ST, DAHLIA CL, DANN ST, DEACON CT, DENNIS CL, DODD CT, ELEANOR CL, FABRIS ST, FORUM CL, FRANCES ST, FUSCIA CT, GARDENIA CT, GOODFELLOW CT, GORU CT, GREENFIELD CL, GREVILLEA ST, GRIBBLE ST, HADRIAN AVE, HAMMOND CT, HAYLES CL, HAYWARD ST, HENRIETTA PL, HERMES CL, HOLLY ST, INGHAM CT, IRENE ST, IVY CL, IXORA CT, JANUS CL, JULIAN CL, JUNO CL, KINGSFORD ST, KOCH ST, KONOWNA CL, KOPPEN TCE, LAVENDER ST, LEONI CL, LESLIE ST, LIME ST, LISA CL, LOBELIA CT, LOIS ST, LOMAX ST, LONG ST, LOTUS PL, MARCUS CL, MARIGOLD CL, MCCOOMBE ST, MCEWEN ST, MESTREZ ST, MINERVA AVE, MOODY ST, MOSCH PL, MULGRAVE RD, MUNRO TCE, NERO CL, OCEANVIEW PL, OLFERSIA CT, PEPPERINA ST, POMONA AVE, PRIMROSE ST, REDFERN PL, RICHMOND CT, RIGNOLD ST, ROCKTON PL, SERISSA ST, SHANG ST, SMALLWOOD ST, SMART ST, SOLOMON PL, SOUTHERDEN DR, STRATHMORE CT, STRIKE AVE, SUMMER HILL DR, SUNFLOWER DR, SWALLOW ST, TORAZZI PL, TRAPPES CT, VIOLET ST, WATKINS CL, WILKS ST, WOODMONT PL",
+        "SUBURBS": "BUNGALOW, CAIRNS, EARLVILLE, KANIMBLA, MOOROOBOOL, WESTCOURT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -451,5 +584,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711606504.086895"
+  "extracted": "1711606801.461341"
 }
