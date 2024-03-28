@@ -427,6 +427,75 @@
           {
             "type": "Point",
             "coordinates": [
+              143.552261,
+              -18.44687
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  143.533522,
+                  -18.34373
+                ],
+                [
+                  143.533824,
+                  -18.446707
+                ],
+                [
+                  143.533848,
+                  -18.446849
+                ],
+                [
+                  143.570086,
+                  -18.550166
+                ],
+                [
+                  143.57065,
+                  -18.550461
+                ],
+                [
+                  143.571001,
+                  -18.549948
+                ],
+                [
+                  143.53446,
+                  -18.343653
+                ],
+                [
+                  143.533954,
+                  -18.343279
+                ],
+                [
+                  143.533522,
+                  -18.34373
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4661",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:27PM 28 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "FORSAYTH RD, UNKNOWN ST",
+        "SUBURBS": "GEORGETOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -496,83 +565,6 @@
           {
             "type": "Point",
             "coordinates": [
-              148.972142,
-              -21.427187
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  148.968068,
-                  -21.408958
-                ],
-                [
-                  148.975265,
-                  -21.445549
-                ],
-                [
-                  148.975823,
-                  -21.445912
-                ],
-                [
-                  148.976215,
-                  -21.445392
-                ],
-                [
-                  148.969876,
-                  -21.410047
-                ],
-                [
-                  148.96985,
-                  -21.409959
-                ],
-                [
-                  148.969693,
-                  -21.40958
-                ],
-                [
-                  148.969628,
-                  -21.409471
-                ],
-                [
-                  148.968927,
-                  -21.408603
-                ],
-                [
-                  148.968348,
-                  -21.408463
-                ],
-                [
-                  148.968068,
-                  -21.408958
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK3162",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
-        "START": "6:54AM 28 Mar 2024",
-        "EST_FIX_TIME": "5:00PM 28 Mar 2024",
-        "STREETS": "BLUE MOUNTAIN RD",
-        "SUBURBS": "BLUE MOUNTAIN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -629,5 +621,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711604704.223874"
+  "extracted": "1711605001.590943"
 }
