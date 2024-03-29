@@ -164,6 +164,131 @@
           {
             "type": "Point",
             "coordinates": [
+              145.527331,
+              -16.608918
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.486863,
+                  -16.555552
+                ],
+                [
+                  145.510606,
+                  -16.600964
+                ],
+                [
+                  145.510665,
+                  -16.601051
+                ],
+                [
+                  145.564414,
+                  -16.662916
+                ],
+                [
+                  145.565141,
+                  -16.662907
+                ],
+                [
+                  145.567699,
+                  -16.659802
+                ],
+                [
+                  145.5678,
+                  -16.659505
+                ],
+                [
+                  145.567781,
+                  -16.658953
+                ],
+                [
+                  145.567766,
+                  -16.658857
+                ],
+                [
+                  145.567525,
+                  -16.657938
+                ],
+                [
+                  145.567495,
+                  -16.657857
+                ],
+                [
+                  145.567215,
+                  -16.657281
+                ],
+                [
+                  145.567185,
+                  -16.657229
+                ],
+                [
+                  145.550286,
+                  -16.631731
+                ],
+                [
+                  145.55028,
+                  -16.631721
+                ],
+                [
+                  145.511868,
+                  -16.576982
+                ],
+                [
+                  145.511846,
+                  -16.576952
+                ],
+                [
+                  145.501482,
+                  -16.564489
+                ],
+                [
+                  145.501454,
+                  -16.564458
+                ],
+                [
+                  145.494094,
+                  -16.557087
+                ],
+                [
+                  145.493903,
+                  -16.556971
+                ],
+                [
+                  145.487427,
+                  -16.55492
+                ],
+                [
+                  145.486863,
+                  -16.555552
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4682",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "151",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:15AM 30 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRUCE AVE, CAPTAIN COOK HWY, FINLAY CRES, HARTLEY ST, MILTON TCE, NANCY CL, OAK ST, PEBBLY BCH, REYNOLDS RD, SHERRINGTON RD, TOLL GATE RD, TREZISE RD, WANGETTI BCH",
+        "SUBURBS": "KILLALOE, MOSSMAN, MOWBRAY, OAK BEACH, PEBBLY BEACH, WANGETTI BEACH, YULE POINT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -459,5 +584,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711743305.447164"
+  "extracted": "1711743601.275132"
 }
