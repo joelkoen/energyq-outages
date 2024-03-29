@@ -1,8 +1,134 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.043763,
+              -27.722399
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.003268,
+                  -27.707259
+                ],
+                [
+                  153.004882,
+                  -27.714765
+                ],
+                [
+                  153.00516,
+                  -27.715087
+                ],
+                [
+                  153.067657,
+                  -27.741741
+                ],
+                [
+                  153.067784,
+                  -27.741778
+                ],
+                [
+                  153.069817,
+                  -27.74211
+                ],
+                [
+                  153.069945,
+                  -27.742116
+                ],
+                [
+                  153.070136,
+                  -27.742104
+                ],
+                [
+                  153.070148,
+                  -27.742103
+                ],
+                [
+                  153.073369,
+                  -27.741828
+                ],
+                [
+                  153.073708,
+                  -27.74167
+                ],
+                [
+                  153.073821,
+                  -27.741551
+                ],
+                [
+                  153.07387,
+                  -27.74149
+                ],
+                [
+                  153.075487,
+                  -27.739055
+                ],
+                [
+                  153.075515,
+                  -27.739005
+                ],
+                [
+                  153.084257,
+                  -27.721064
+                ],
+                [
+                  153.084112,
+                  -27.720535
+                ],
+                [
+                  153.059687,
+                  -27.702783
+                ],
+                [
+                  153.059366,
+                  -27.702682
+                ],
+                [
+                  153.020434,
+                  -27.702749
+                ],
+                [
+                  153.020303,
+                  -27.702764
+                ],
+                [
+                  153.003635,
+                  -27.706738
+                ],
+                [
+                  153.003268,
+                  -27.707259
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751705-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "865",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "3:19AM 30 Mar 2024",
+        "EST_FIX_TIME": "5:30AM 30 Mar 2024",
+        "STREETS": "ANDREW RD, ARCHER CT, BEAUMONT RD, BELVEDERE CT, BIRDSVILLE ST, CARNARVON CT, CERATONIA ST, COMPAL RD, COOLAROO CT, DANDARAGA CT, ENDEAVOUR CT, EXECUTIVE DR, FLESSER RD, HIGHGROVE CL, HILLCREST RD, HUBNER RD, KOPLICK RD, LAKEFIELD CT, MANGIRI ST, MT LINDESAY HWY, ROSIA RD, RUNDALUA RD, SPRINGFIELDS RD, SYLVAN RD, VIRGIL RD, WOODEND CT",
+        "SUBURBS": "CHAMBERS FLAT, GREENBANK, PARK RIDGE, PARK RIDGE SOUTH"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711732503.733915"
+  "extracted": "1711732801.723001"
 }
