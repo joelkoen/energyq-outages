@@ -147,9 +147,94 @@
         "STREETS": "GILSTON RD, HINDE RD, LATIMERS CROSSING RD",
         "SUBURBS": "ADVANCETOWN, GILSTON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.578546,
+              -26.192686
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.577987,
+                  -26.196137
+                ],
+                [
+                  152.578246,
+                  -26.1961
+                ],
+                [
+                  152.578661,
+                  -26.195723
+                ],
+                [
+                  152.57968,
+                  -26.189788
+                ],
+                [
+                  152.57928,
+                  -26.189275
+                ],
+                [
+                  152.579044,
+                  -26.189234
+                ],
+                [
+                  152.578469,
+                  -26.189554
+                ],
+                [
+                  152.578313,
+                  -26.190045
+                ],
+                [
+                  152.578299,
+                  -26.190103
+                ],
+                [
+                  152.578111,
+                  -26.191272
+                ],
+                [
+                  152.577556,
+                  -26.194733
+                ],
+                [
+                  152.577412,
+                  -26.195627
+                ],
+                [
+                  152.577987,
+                  -26.196137
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751632-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:20AM 29 Mar 2024",
+        "EST_FIX_TIME": "1:00PM 29 Mar 2024",
+        "STREETS": "GLENBAR RD",
+        "SUBURBS": "THE PALMS"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711675505.130868"
+  "extracted": "1711675803.999464"
 }
