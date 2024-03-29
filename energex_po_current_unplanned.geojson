@@ -134,9 +134,94 @@
         "STREETS": "BEECHWOOD CL, BLACKWALL RD, BOXWOOD GLD, BRODZIG RD, COAL RD, CRAIGERNE CT, CRONIN CT, DAN ST, DEMPSEY ST, DUNCAN ST, EULALIA CL, FOREST OAK CT, FRANCIS ST, GASNIER ST, HOLDSWORTH RD, KNIGHTSBRIDGE DR, LANGLANDS ST, LANSDOWNE WAY, LUCINDA CL, MT CROSBY RD, MUSTERING GULLY RD, OAKWOOD PL, ROBIN ST, THOMPSON ST, VERNEY PL, WATERSTOWN PL",
         "SUBURBS": "CHUWAR, KARALEE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.006961,
+              -26.622256
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.004606,
+                  -26.621842
+                ],
+                [
+                  153.006076,
+                  -26.623988
+                ],
+                [
+                  153.006124,
+                  -26.624047
+                ],
+                [
+                  153.006156,
+                  -26.62408
+                ],
+                [
+                  153.006438,
+                  -26.624227
+                ],
+                [
+                  153.007745,
+                  -26.624461
+                ],
+                [
+                  153.008319,
+                  -26.624161
+                ],
+                [
+                  153.009316,
+                  -26.62147
+                ],
+                [
+                  153.009149,
+                  -26.620972
+                ],
+                [
+                  153.007911,
+                  -26.6201
+                ],
+                [
+                  153.007377,
+                  -26.620051
+                ],
+                [
+                  153.004809,
+                  -26.621201
+                ],
+                [
+                  153.004606,
+                  -26.621842
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751679-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "7:17PM 29 Mar 2024",
+        "EST_FIX_TIME": "9:00PM 29 Mar 2024",
+        "STREETS": "PETRIE CREEK RD, SEYMOUR CL",
+        "SUBURBS": "NAMBOUR, ROSEMOUNT"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711704001.170843"
+  "extracted": "1711704301.240172"
 }
