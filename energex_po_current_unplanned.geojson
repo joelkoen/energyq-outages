@@ -1,8 +1,74 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.287553,
+              -28.022269
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.286954,
+                  -28.022778
+                ],
+                [
+                  153.288071,
+                  -28.022821
+                ],
+                [
+                  153.288593,
+                  -28.022453
+                ],
+                [
+                  153.288637,
+                  -28.022246
+                ],
+                [
+                  153.288057,
+                  -28.021718
+                ],
+                [
+                  153.286897,
+                  -28.021881
+                ],
+                [
+                  153.286469,
+                  -28.022352
+                ],
+                [
+                  153.286954,
+                  -28.022778
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751610-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "7:49AM 29 Mar 2024",
+        "EST_FIX_TIME": "10:00AM 29 Mar 2024",
+        "STREETS": "LATIMERS CROSSING RD",
+        "SUBURBS": "ADVANCETOWN, GILSTON"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711670101.144565"
+  "extracted": "1711670403.86927"
 }
