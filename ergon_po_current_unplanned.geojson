@@ -10,6 +10,83 @@
           {
             "type": "Point",
             "coordinates": [
+              151.359894,
+              -24.935885
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.276688,
+                  -24.926578
+                ],
+                [
+                  151.338181,
+                  -25.003797
+                ],
+                [
+                  151.338314,
+                  -25.003912
+                ],
+                [
+                  151.356323,
+                  -25.014415
+                ],
+                [
+                  151.357031,
+                  -25.014238
+                ],
+                [
+                  151.4431,
+                  -24.858005
+                ],
+                [
+                  151.442606,
+                  -24.857355
+                ],
+                [
+                  151.341096,
+                  -24.867298
+                ],
+                [
+                  151.340798,
+                  -24.867428
+                ],
+                [
+                  151.276738,
+                  -24.925995
+                ],
+                [
+                  151.276688,
+                  -24.926578
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5071",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:47PM 29 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "HAYS RD, LONGS RD, MCLAUGHLINS RD, MCLEODS RD, YARROL RD",
+        "SUBURBS": "MONTO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -491,5 +568,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711716303.604644"
+  "extracted": "1711716601.660379"
 }
