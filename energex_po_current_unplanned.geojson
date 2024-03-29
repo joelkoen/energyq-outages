@@ -167,9 +167,94 @@
         "STREETS": "GLENBAR RD",
         "SUBURBS": "THE PALMS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.583502,
+              -26.196053
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.565542,
+                  -26.198291
+                ],
+                [
+                  152.570324,
+                  -26.210264
+                ],
+                [
+                  152.570724,
+                  -26.210558
+                ],
+                [
+                  152.591515,
+                  -26.213244
+                ],
+                [
+                  152.591585,
+                  -26.213248
+                ],
+                [
+                  152.599825,
+                  -26.213261
+                ],
+                [
+                  152.600325,
+                  -26.212837
+                ],
+                [
+                  152.601462,
+                  -26.196102
+                ],
+                [
+                  152.601292,
+                  -26.195735
+                ],
+                [
+                  152.579891,
+                  -26.178844
+                ],
+                [
+                  152.579141,
+                  -26.178939
+                ],
+                [
+                  152.565593,
+                  -26.197893
+                ],
+                [
+                  152.565542,
+                  -26.198291
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751638-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "258",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "11:56AM 29 Mar 2024",
+        "EST_FIX_TIME": "2:30PM 29 Mar 2024",
+        "STREETS": "BENIAN RD, BRIERE RD, DEANS RD, DUGGAN RD, ELJAYS RD, GLASTONBURY RD, GLENBAR RD, HOLLAND RD, JELLICK RD, JIMBOUR RD, MATTHEW RD, MINYA RD, PALM DR, ROCKS RD, RUBY RD, STOCKDEN RD, TILBA RD, TRANQUIL CT, WESTRIDGE CL",
+        "SUBURBS": "GLASTONBURY, PIE CREEK, SCRUBBY CREEK, THE PALMS"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711677301.096677"
+  "extracted": "1711677603.826001"
 }
