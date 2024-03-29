@@ -528,6 +528,111 @@
           {
             "type": "Point",
             "coordinates": [
+              140.400585,
+              -20.246677
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  139.844036,
+                  -20.021037
+                ],
+                [
+                  140.442214,
+                  -20.422053
+                ],
+                [
+                  140.442296,
+                  -20.422096
+                ],
+                [
+                  140.552289,
+                  -20.46829
+                ],
+                [
+                  140.552407,
+                  -20.468324
+                ],
+                [
+                  140.58426,
+                  -20.47313
+                ],
+                [
+                  140.58448,
+                  -20.473115
+                ],
+                [
+                  140.956978,
+                  -20.361117
+                ],
+                [
+                  140.957308,
+                  -20.360651
+                ],
+                [
+                  140.944475,
+                  -20.217482
+                ],
+                [
+                  140.944241,
+                  -20.217132
+                ],
+                [
+                  140.770194,
+                  -20.120987
+                ],
+                [
+                  140.770015,
+                  -20.12093
+                ],
+                [
+                  140.035888,
+                  -20.02907
+                ],
+                [
+                  140.035848,
+                  -20.029067
+                ],
+                [
+                  139.844335,
+                  -20.020224
+                ],
+                [
+                  139.843863,
+                  -20.020525
+                ],
+                [
+                  139.844036,
+                  -20.021037
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6868",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "54",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:36AM 30 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANTION DOWNS STATION, BALLAGHMORE DWN STATION, BALLAGHMORE STATION, BANNOCKBURN STATION, BELL ST, BENDIGO PARK STATION, BUFFALO PLAINS STATION, CLONAGH STATION, CONSTANTINE STATION, COTSWOLD STATION, CUBBAROO STATION, GARETA STATION, GIPSY PLAINS STATION, GLEN ISLA STATION, JESSIE VALE STATION, KAJABBI RD, LAKE JULIUS RD, MALAKOFF STATION, SCHOOL LANE, STANFIELD ST, TARA STATION, THREE WAYS RD, WATERPUMP RD, ZINGARI STATION",
+        "SUBURBS": "CLONCURRY, KAJABBI, THREE RIVERS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -584,5 +689,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711744501.202287"
+  "extracted": "1711744801.772218"
 }
