@@ -326,6 +326,103 @@
           {
             "type": "Point",
             "coordinates": [
+              147.194267,
+              -19.765337
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.154049,
+                  -19.715918
+                ],
+                [
+                  147.154553,
+                  -19.751436
+                ],
+                [
+                  147.154654,
+                  -19.751707
+                ],
+                [
+                  147.230342,
+                  -19.844022
+                ],
+                [
+                  147.230859,
+                  -19.844177
+                ],
+                [
+                  147.231196,
+                  -19.843773
+                ],
+                [
+                  147.234485,
+                  -19.794504
+                ],
+                [
+                  147.234457,
+                  -19.794322
+                ],
+                [
+                  147.229324,
+                  -19.780874
+                ],
+                [
+                  147.229314,
+                  -19.780849
+                ],
+                [
+                  147.186467,
+                  -19.68668
+                ],
+                [
+                  147.185742,
+                  -19.686498
+                ],
+                [
+                  147.16003,
+                  -19.70488
+                ],
+                [
+                  147.159893,
+                  -19.705034
+                ],
+                [
+                  147.154101,
+                  -19.715705
+                ],
+                [
+                  147.154049,
+                  -19.715918
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6859",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "152",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:51PM 29 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AYR DALBEG RD, BARRATTA RD, BROWN RD, COVENTON RD, GEORGE RD, GRANSHAW RD, KENYON RD, LARKIN ST, LINCOLN RD, MCNEE RD, MILLAROO RD, MUIR RD, MUSPRATT RD, NELSON ST, OLD SCHOOL RD, SCHOOL RD, WALSH RD",
+        "SUBURBS": "CLARE, MONA PARK, UPPER HAUGHTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -576,5 +673,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711691401.429104"
+  "extracted": "1711691701.863678"
 }
