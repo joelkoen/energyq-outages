@@ -111,6 +111,67 @@
           {
             "type": "Point",
             "coordinates": [
+              149.556244,
+              -22.506069
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.55599,
+                  -22.503245
+                ],
+                [
+                  149.55553,
+                  -22.508824
+                ],
+                [
+                  149.555977,
+                  -22.509308
+                ],
+                [
+                  149.556499,
+                  -22.508892
+                ],
+                [
+                  149.556959,
+                  -22.503314
+                ],
+                [
+                  149.556511,
+                  -22.502829
+                ],
+                [
+                  149.55599,
+                  -22.503245
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5066",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:33AM 29 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRUCE HWY, OLIVES RD",
+        "SUBURBS": "MARLBOROUGH, ST LAWRENCE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -988,5 +1049,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711676401.436608"
+  "extracted": "1711676704.44683"
 }
