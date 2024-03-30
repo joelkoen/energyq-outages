@@ -1,8 +1,110 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.017002,
+              -27.58582
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.015544,
+                  -27.585714
+                ],
+                [
+                  153.01579,
+                  -27.587342
+                ],
+                [
+                  153.016115,
+                  -27.587704
+                ],
+                [
+                  153.016307,
+                  -27.587769
+                ],
+                [
+                  153.016524,
+                  -27.587796
+                ],
+                [
+                  153.017299,
+                  -27.587742
+                ],
+                [
+                  153.017507,
+                  -27.587686
+                ],
+                [
+                  153.017623,
+                  -27.587629
+                ],
+                [
+                  153.017871,
+                  -27.587326
+                ],
+                [
+                  153.017897,
+                  -27.587214
+                ],
+                [
+                  153.017899,
+                  -27.587208
+                ],
+                [
+                  153.018461,
+                  -27.584587
+                ],
+                [
+                  153.018061,
+                  -27.58406
+                ],
+                [
+                  153.016827,
+                  -27.583844
+                ],
+                [
+                  153.016267,
+                  -27.584103
+                ],
+                [
+                  153.015583,
+                  -27.585469
+                ],
+                [
+                  153.015544,
+                  -27.585714
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751769-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "64",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:00PM 30 Mar 2024",
+        "EST_FIX_TIME": "6:30PM 30 Mar 2024",
+        "STREETS": "CALDON ST, CAROWELL ST, CULROSS ST, DELLOW ST, GREGORY ST, KIRKLEY ST",
+        "SUBURBS": "ACACIA RIDGE"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711782004.127299"
+  "extracted": "1711782301.18515"
 }
