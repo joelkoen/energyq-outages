@@ -199,9 +199,94 @@
         "STREETS": "BURPENGARY RD, OSBORNE DR",
         "SUBURBS": "BURPENGARY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.083635,
+              -26.682418
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.081689,
+                  -26.682519
+                ],
+                [
+                  153.081743,
+                  -26.683114
+                ],
+                [
+                  153.082187,
+                  -26.683526
+                ],
+                [
+                  153.083193,
+                  -26.68363
+                ],
+                [
+                  153.083527,
+                  -26.683559
+                ],
+                [
+                  153.085437,
+                  -26.682428
+                ],
+                [
+                  153.085581,
+                  -26.681803
+                ],
+                [
+                  153.085324,
+                  -26.681452
+                ],
+                [
+                  153.084914,
+                  -26.681249
+                ],
+                [
+                  153.082588,
+                  -26.681205
+                ],
+                [
+                  153.082115,
+                  -26.681481
+                ],
+                [
+                  153.081727,
+                  -26.682307
+                ],
+                [
+                  153.081689,
+                  -26.682519
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751795-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "39",
+        "REASON": "Powerlines down",
+        "STATUS": "Awaiting",
+        "START": "8:58PM 30 Mar 2024",
+        "EST_FIX_TIME": "11:30PM 30 Mar 2024",
+        "STREETS": "CEDARA PL, MOOLOOLABA RD",
+        "SUBURBS": "BUDERIM"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711796101.469779"
+  "extracted": "1711796403.458848"
 }
