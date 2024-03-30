@@ -442,6 +442,139 @@
           {
             "type": "Point",
             "coordinates": [
+              145.68752,
+              -16.862116
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.682102,
+                  -16.860331
+                ],
+                [
+                  145.682307,
+                  -16.861448
+                ],
+                [
+                  145.682425,
+                  -16.861677
+                ],
+                [
+                  145.687547,
+                  -16.866982
+                ],
+                [
+                  145.687558,
+                  -16.866992
+                ],
+                [
+                  145.687875,
+                  -16.867301
+                ],
+                [
+                  145.688439,
+                  -16.867377
+                ],
+                [
+                  145.689625,
+                  -16.866734
+                ],
+                [
+                  145.689722,
+                  -16.866664
+                ],
+                [
+                  145.69132,
+                  -16.865169
+                ],
+                [
+                  145.691381,
+                  -16.8651
+                ],
+                [
+                  145.692545,
+                  -16.863455
+                ],
+                [
+                  145.69255,
+                  -16.863448
+                ],
+                [
+                  145.692939,
+                  -16.862878
+                ],
+                [
+                  145.692873,
+                  -16.862305
+                ],
+                [
+                  145.691057,
+                  -16.860616
+                ],
+                [
+                  145.691055,
+                  -16.860614
+                ],
+                [
+                  145.687976,
+                  -16.857786
+                ],
+                [
+                  145.687953,
+                  -16.857767
+                ],
+                [
+                  145.687063,
+                  -16.857049
+                ],
+                [
+                  145.687055,
+                  -16.857042
+                ],
+                [
+                  145.686813,
+                  -16.856856
+                ],
+                [
+                  145.686227,
+                  -16.856856
+                ],
+                [
+                  145.682271,
+                  -16.859899
+                ],
+                [
+                  145.682102,
+                  -16.860331
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4690",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "290",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:50PM 30 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AKAME AVE, AROONA ST, BADINE ST, BULBA ST, GAWAY ST, ILLAWARRA ST, ILLOWRA CT, KALYAN CL, KAWANA ST, KULGUN ST, MELINGA CL, ORANA ST, RED PEAK BVD, TALIA ST, WIRREGA CL, YURONGI ST",
+        "SUBURBS": "CARAVONICA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -567,5 +700,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711785001.380843"
+  "extracted": "1711785301.50209"
 }
