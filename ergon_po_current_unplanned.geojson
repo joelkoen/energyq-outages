@@ -168,7 +168,7 @@
           {
             "type": "Point",
             "coordinates": [
-              145.687699,
+              145.69036,
               -16.859115
             ]
           },
@@ -176,22 +176,6 @@
             "type": "Polygon",
             "coordinates": [
               [
-                [
-                  145.682102,
-                  -16.860331
-                ],
-                [
-                  145.682307,
-                  -16.861448
-                ],
-                [
-                  145.682425,
-                  -16.861677
-                ],
-                [
-                  145.687547,
-                  -16.866982
-                ],
                 [
                   145.687558,
                   -16.866992
@@ -265,16 +249,24 @@
                   -16.852877
                 ],
                 [
-                  145.688776,
-                  -16.852891
+                  145.68867,
+                  -16.853084
                 ],
                 [
-                  145.682214,
-                  -16.859951
+                  145.687983,
+                  -16.85576
                 ],
                 [
-                  145.682102,
-                  -16.860331
+                  145.68797,
+                  -16.855847
+                ],
+                [
+                  145.687422,
+                  -16.866652
+                ],
+                [
+                  145.687558,
+                  -16.866992
                 ]
               ]
             ]
@@ -284,114 +276,13 @@
       "properties": {
         "EVENT_ID": "24FN4687",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "318",
+        "CUSTOMERS_AFFECTED": "140",
         "REASON": "The loss of supply is due to fallen power lines.  ",
         "STATUS": "Crews working on-site",
         "START": "2:23PM 30 Mar 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "AKAME AVE, AROONA ST, BADINE ST, BULBA ST, FIG TREE DR, GAWAY ST, ILLAWARRA ST, ILLOWRA CT, KALYAN CL, KAWANA ST, KULGUN ST, MELINGA CL, ORANA ST, RED PEAK BVD, TALIA ST, WIRREGA CL, YURONGI ST",
+        "STREETS": "FIG TREE DR, ILLAWARRA ST, KALYAN CL, MELINGA CL, YURONGI ST",
         "SUBURBS": "CARAVONICA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              145.689315,
-              -16.838763
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  145.684586,
-                  -16.84127
-                ],
-                [
-                  145.689751,
-                  -16.843351
-                ],
-                [
-                  145.689761,
-                  -16.843355
-                ],
-                [
-                  145.693669,
-                  -16.844833
-                ],
-                [
-                  145.694294,
-                  -16.844298
-                ],
-                [
-                  145.692028,
-                  -16.835922
-                ],
-                [
-                  145.692009,
-                  -16.835867
-                ],
-                [
-                  145.691018,
-                  -16.83349
-                ],
-                [
-                  145.690933,
-                  -16.833358
-                ],
-                [
-                  145.69046,
-                  -16.832844
-                ],
-                [
-                  145.690089,
-                  -16.832693
-                ],
-                [
-                  145.68844,
-                  -16.83276
-                ],
-                [
-                  145.68805,
-                  -16.832993
-                ],
-                [
-                  145.686945,
-                  -16.834915
-                ],
-                [
-                  145.686926,
-                  -16.834953
-                ],
-                [
-                  145.684337,
-                  -16.840673
-                ],
-                [
-                  145.684586,
-                  -16.84127
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN4688",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "307",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
-        "START": "2:23PM 30 Mar 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "ASHWOOD CCT, ATLAS CL, BEACHSIDE CL, BRAESIDE CT, BUSHLARK PL, CAMBRIAN AVE, CAMERON CL, CANOPY EDGE BVD, CANOPYS EDGE BVD, CANTAL CL, CAPTAIN COOK HWY, CUMBERLAND AVE, JABIRU CT, KATANGA CL, KENNEDY CREEK HWY, KENNEDY HWY, LAKESIDE DR, LAPWING PL, PENNINE CL, ROSSMANN RD, SURVEY ST",
-        "SUBURBS": "PALM COVE, SMITHFIELD"
       }
     },
     {
@@ -527,5 +418,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711788901.084317"
+  "extracted": "1711789207.991405"
 }
