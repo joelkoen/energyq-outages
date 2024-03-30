@@ -1,8 +1,78 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.977288,
+              -26.61675
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.975816,
+                  -26.616804
+                ],
+                [
+                  152.977365,
+                  -26.617546
+                ],
+                [
+                  152.977907,
+                  -26.617506
+                ],
+                [
+                  152.978834,
+                  -26.616866
+                ],
+                [
+                  152.979008,
+                  -26.616373
+                ],
+                [
+                  152.978552,
+                  -26.616057
+                ],
+                [
+                  152.976076,
+                  -26.615954
+                ],
+                [
+                  152.975568,
+                  -26.616286
+                ],
+                [
+                  152.975816,
+                  -26.616804
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751766-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "4:34PM 30 Mar 2024",
+        "EST_FIX_TIME": "7:00PM 30 Mar 2024",
+        "STREETS": "BLI BLI RD",
+        "SUBURBS": "NAMBOUR"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711780203.832774"
+  "extracted": "1711780501.328427"
 }
