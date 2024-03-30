@@ -1,8 +1,86 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.896319,
+              -26.85189
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.893732,
+                  -26.848946
+                ],
+                [
+                  152.894314,
+                  -26.853393
+                ],
+                [
+                  152.894344,
+                  -26.853504
+                ],
+                [
+                  152.894847,
+                  -26.854663
+                ],
+                [
+                  152.895188,
+                  -26.854936
+                ],
+                [
+                  152.897221,
+                  -26.855415
+                ],
+                [
+                  152.897846,
+                  -26.855047
+                ],
+                [
+                  152.898907,
+                  -26.848886
+                ],
+                [
+                  152.898399,
+                  -26.848366
+                ],
+                [
+                  152.894222,
+                  -26.848442
+                ],
+                [
+                  152.893732,
+                  -26.848946
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751807-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "4:42AM 31 Mar 2024",
+        "EST_FIX_TIME": "7:00AM 31 Mar 2024",
+        "STREETS": "OLD PEACHESTER RD, STIRLING RD",
+        "SUBURBS": "PEACHESTER"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711827301.250534"
+  "extracted": "1711827606.972121"
 }
