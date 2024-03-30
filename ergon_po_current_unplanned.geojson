@@ -87,6 +87,123 @@
           {
             "type": "Point",
             "coordinates": [
+              145.71116,
+              -16.881267
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.708518,
+                  -16.881493
+                ],
+                [
+                  145.708626,
+                  -16.882003
+                ],
+                [
+                  145.708794,
+                  -16.882267
+                ],
+                [
+                  145.70954,
+                  -16.882837
+                ],
+                [
+                  145.70988,
+                  -16.882933
+                ],
+                [
+                  145.711437,
+                  -16.882779
+                ],
+                [
+                  145.711642,
+                  -16.88271
+                ],
+                [
+                  145.713519,
+                  -16.881553
+                ],
+                [
+                  145.713707,
+                  -16.881325
+                ],
+                [
+                  145.713803,
+                  -16.881071
+                ],
+                [
+                  145.713631,
+                  -16.880548
+                ],
+                [
+                  145.713198,
+                  -16.880254
+                ],
+                [
+                  145.71306,
+                  -16.880191
+                ],
+                [
+                  145.710993,
+                  -16.879602
+                ],
+                [
+                  145.710669,
+                  -16.879622
+                ],
+                [
+                  145.710377,
+                  -16.879747
+                ],
+                [
+                  145.71031,
+                  -16.879783
+                ],
+                [
+                  145.709186,
+                  -16.880495
+                ],
+                [
+                  145.709086,
+                  -16.880581
+                ],
+                [
+                  145.70862,
+                  -16.881111
+                ],
+                [
+                  145.708518,
+                  -16.881493
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4686",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "78",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:15PM 30 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "KAMERUNGA RD, LAVIS RD, LOWER FRESHWATER RD, MELLER ST, OLD SMITHFIELD RD, VALLELY ST",
+        "SUBURBS": "BARRON, FRESHWATER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -212,5 +329,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711772104.814264"
+  "extracted": "1711772401.15807"
 }
