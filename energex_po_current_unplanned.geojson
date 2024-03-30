@@ -102,9 +102,102 @@
         "STREETS": "CALDON ST, CAROWELL ST, CULROSS ST, DELLOW ST, GREGORY ST, KIRKLEY ST",
         "SUBURBS": "ACACIA RIDGE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.387056,
+              -27.705239
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.383812,
+                  -27.707916
+                ],
+                [
+                  153.384202,
+                  -27.708335
+                ],
+                [
+                  153.384925,
+                  -27.708387
+                ],
+                [
+                  153.389793,
+                  -27.704626
+                ],
+                [
+                  153.389831,
+                  -27.704593
+                ],
+                [
+                  153.390417,
+                  -27.704034
+                ],
+                [
+                  153.390197,
+                  -27.703295
+                ],
+                [
+                  153.385923,
+                  -27.70211
+                ],
+                [
+                  153.385756,
+                  -27.70209
+                ],
+                [
+                  153.38467,
+                  -27.70212
+                ],
+                [
+                  153.384635,
+                  -27.702122
+                ],
+                [
+                  153.384235,
+                  -27.702158
+                ],
+                [
+                  153.383778,
+                  -27.7026
+                ],
+                [
+                  153.383695,
+                  -27.707621
+                ],
+                [
+                  153.383812,
+                  -27.707916
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751780-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "34",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:04PM 30 Mar 2024",
+        "EST_FIX_TIME": "8:00PM 30 Mar 2024",
+        "STREETS": "CASSANDRA AVE, CRESCENT DR, KILPA AVE, LEA-WEENA AVE, PARADISE AVE, PRIOR WAY, THE BOULEVARDE",
+        "SUBURBS": "RUSSELL ISLAND"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711787101.943122"
+  "extracted": "1711787404.323336"
 }
