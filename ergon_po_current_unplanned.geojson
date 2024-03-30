@@ -575,6 +575,115 @@
           {
             "type": "Point",
             "coordinates": [
+              145.723273,
+              -16.811592
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.720992,
+                  -16.811907
+                ],
+                [
+                  145.721296,
+                  -16.812353
+                ],
+                [
+                  145.721692,
+                  -16.812557
+                ],
+                [
+                  145.724365,
+                  -16.812536
+                ],
+                [
+                  145.724453,
+                  -16.812527
+                ],
+                [
+                  145.725204,
+                  -16.812383
+                ],
+                [
+                  145.725553,
+                  -16.811787
+                ],
+                [
+                  145.725374,
+                  -16.811308
+                ],
+                [
+                  145.725262,
+                  -16.811139
+                ],
+                [
+                  145.725093,
+                  -16.810979
+                ],
+                [
+                  145.724806,
+                  -16.810851
+                ],
+                [
+                  145.722972,
+                  -16.810694
+                ],
+                [
+                  145.72296,
+                  -16.810693
+                ],
+                [
+                  145.721921,
+                  -16.810628
+                ],
+                [
+                  145.721621,
+                  -16.81071
+                ],
+                [
+                  145.721534,
+                  -16.810769
+                ],
+                [
+                  145.721433,
+                  -16.810861
+                ],
+                [
+                  145.721013,
+                  -16.811382
+                ],
+                [
+                  145.720992,
+                  -16.811907
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4689",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "43",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:59PM 30 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DAISY ST, DERBY ST, MORGAN ST",
+        "SUBURBS": "YORKEYS KNOB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -700,5 +809,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711774501.624203"
+  "extracted": "1711774804.965069"
 }
