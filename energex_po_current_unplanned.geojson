@@ -171,9 +171,102 @@
         "STREETS": "TALLEBUDGERA CONNECTION RD",
         "SUBURBS": "TALLEBUDGERA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.429443,
+              -28.158165
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.428094,
+                  -28.156553
+                ],
+                [
+                  153.428138,
+                  -28.157631
+                ],
+                [
+                  153.428151,
+                  -28.157718
+                ],
+                [
+                  153.428569,
+                  -28.159295
+                ],
+                [
+                  153.428632,
+                  -28.159429
+                ],
+                [
+                  153.429239,
+                  -28.160298
+                ],
+                [
+                  153.430077,
+                  -28.160333
+                ],
+                [
+                  153.430697,
+                  -28.15961
+                ],
+                [
+                  153.430792,
+                  -28.159255
+                ],
+                [
+                  153.430266,
+                  -28.156726
+                ],
+                [
+                  153.430136,
+                  -28.1565
+                ],
+                [
+                  153.429752,
+                  -28.156137
+                ],
+                [
+                  153.429314,
+                  -28.155998
+                ],
+                [
+                  153.428536,
+                  -28.156089
+                ],
+                [
+                  153.428094,
+                  -28.156553
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751895-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "10:12PM 31 Mar 2024",
+        "EST_FIX_TIME": "12:30AM 01 Apr 2024",
+        "STREETS": "TALLEBUDGERA CONNECTION RD",
+        "SUBURBS": "TALLEBUDGERA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711887001.345431"
+  "extracted": "1711887304.293806"
 }
