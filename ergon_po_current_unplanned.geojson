@@ -463,6 +463,107 @@
           {
             "type": "Point",
             "coordinates": [
+              148.058698,
+              -22.00212
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.057467,
+                  -22.002718
+                ],
+                [
+                  148.058274,
+                  -22.003394
+                ],
+                [
+                  148.058505,
+                  -22.003502
+                ],
+                [
+                  148.059201,
+                  -22.003627
+                ],
+                [
+                  148.059761,
+                  -22.003302
+                ],
+                [
+                  148.059811,
+                  -22.003128
+                ],
+                [
+                  148.059821,
+                  -22.003086
+                ],
+                [
+                  148.059856,
+                  -22.002896
+                ],
+                [
+                  148.05986,
+                  -22.002875
+                ],
+                [
+                  148.060081,
+                  -22.001181
+                ],
+                [
+                  148.059954,
+                  -22.000818
+                ],
+                [
+                  148.059838,
+                  -22.000703
+                ],
+                [
+                  148.059257,
+                  -22.000613
+                ],
+                [
+                  148.057686,
+                  -22.001392
+                ],
+                [
+                  148.057438,
+                  -22.001705
+                ],
+                [
+                  148.057315,
+                  -22.002296
+                ],
+                [
+                  148.057467,
+                  -22.002718
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3219",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "33",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "7:52AM 01 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRADMAN ST, CHIFLEY CT, MENZIES CT, MILLS AVE",
+        "SUBURBS": "MORANBAH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               147.677452,
               -20.005539
             ]
@@ -628,5 +729,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711922101.223887"
+  "extracted": "1711922404.875227"
 }
