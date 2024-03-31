@@ -426,6 +426,107 @@
           {
             "type": "Point",
             "coordinates": [
+              146.800696,
+              -19.288011
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.799049,
+                  -19.287536
+                ],
+                [
+                  146.799152,
+                  -19.288725
+                ],
+                [
+                  146.799273,
+                  -19.288991
+                ],
+                [
+                  146.799659,
+                  -19.289397
+                ],
+                [
+                  146.800133,
+                  -19.289531
+                ],
+                [
+                  146.800622,
+                  -19.289409
+                ],
+                [
+                  146.800868,
+                  -19.289261
+                ],
+                [
+                  146.802237,
+                  -19.287691
+                ],
+                [
+                  146.802241,
+                  -19.287687
+                ],
+                [
+                  146.802343,
+                  -19.287567
+                ],
+                [
+                  146.802223,
+                  -19.286899
+                ],
+                [
+                  146.801894,
+                  -19.286706
+                ],
+                [
+                  146.801757,
+                  -19.286651
+                ],
+                [
+                  146.801064,
+                  -19.28649
+                ],
+                [
+                  146.800767,
+                  -19.286512
+                ],
+                [
+                  146.799339,
+                  -19.287082
+                ],
+                [
+                  146.799049,
+                  -19.287536
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6889",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "48",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "11:15AM 31 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CARMODY ST, GOLDRING ST, QUEENS RD",
+        "SUBURBS": "HERMIT PARK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -482,5 +583,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711849504.63577"
+  "extracted": "1711849808.121933"
 }
