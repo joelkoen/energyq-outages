@@ -102,9 +102,102 @@
         "STREETS": "ANZAC AVE, DOVER RD, FREEMAN ST, MARY ST, MONICA RD, OXLEY AVE, PLUME ST, STURGEON ST, SYDNEY ST",
         "SUBURBS": "REDCLIFFE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.48472,
+              -28.129905
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.482569,
+                  -28.131369
+                ],
+                [
+                  153.482577,
+                  -28.131468
+                ],
+                [
+                  153.483071,
+                  -28.13189
+                ],
+                [
+                  153.485439,
+                  -28.131948
+                ],
+                [
+                  153.485591,
+                  -28.131931
+                ],
+                [
+                  153.485678,
+                  -28.131909
+                ],
+                [
+                  153.485898,
+                  -28.131796
+                ],
+                [
+                  153.48672,
+                  -28.131076
+                ],
+                [
+                  153.486871,
+                  -28.13073
+                ],
+                [
+                  153.486858,
+                  -28.130526
+                ],
+                [
+                  153.486838,
+                  -28.130426
+                ],
+                [
+                  153.486042,
+                  -28.127991
+                ],
+                [
+                  153.485133,
+                  -28.127863
+                ],
+                [
+                  153.482657,
+                  -28.131086
+                ],
+                [
+                  153.482569,
+                  -28.131369
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-751882-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "86",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "8:09PM 31 Mar 2024",
+        "EST_FIX_TIME": "9:30PM 31 Mar 2024",
+        "STREETS": "DURINGAN ST, JAMES ST, KANDRA AVE, KATTA AVE, WOODGEE ST",
+        "SUBURBS": "CURRUMBIN"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1711879508.305846"
+  "extracted": "1711879801.553983"
 }

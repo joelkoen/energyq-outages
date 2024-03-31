@@ -523,9 +523,94 @@
         "STREETS": "FAIRYMEADOW RD, GLENOLIVE RD, KOGAN-CONDAMINE RD, MCLENNANS RD",
         "SUBURBS": "CONDAMINE, MILES"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.561478,
+              -25.29297
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.559229,
+                  -25.295436
+                ],
+                [
+                  152.563116,
+                  -25.295331
+                ],
+                [
+                  152.563574,
+                  -25.295013
+                ],
+                [
+                  152.56423,
+                  -25.293066
+                ],
+                [
+                  152.564018,
+                  -25.292553
+                ],
+                [
+                  152.561009,
+                  -25.29085
+                ],
+                [
+                  152.56095,
+                  -25.290821
+                ],
+                [
+                  152.560171,
+                  -25.290504
+                ],
+                [
+                  152.559493,
+                  -25.29079
+                ],
+                [
+                  152.559387,
+                  -25.291124
+                ],
+                [
+                  152.559374,
+                  -25.291179
+                ],
+                [
+                  152.558726,
+                  -25.294916
+                ],
+                [
+                  152.559229,
+                  -25.295436
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4549",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:59PM 31 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "PACIFIC HAVEN DR",
+        "SUBURBS": "PACIFIC HAVEN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711879505.664279"
+  "extracted": "1711879801.507109"
 }
