@@ -103,6 +103,107 @@
           {
             "type": "Point",
             "coordinates": [
+              151.243864,
+              -23.875446
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.238428,
+                  -23.872219
+                ],
+                [
+                  151.244477,
+                  -23.87971
+                ],
+                [
+                  151.244675,
+                  -23.879855
+                ],
+                [
+                  151.24557,
+                  -23.880211
+                ],
+                [
+                  151.246102,
+                  -23.880125
+                ],
+                [
+                  151.249132,
+                  -23.877481
+                ],
+                [
+                  151.249283,
+                  -23.877195
+                ],
+                [
+                  151.2493,
+                  -23.877022
+                ],
+                [
+                  151.249252,
+                  -23.876783
+                ],
+                [
+                  151.247594,
+                  -23.873664
+                ],
+                [
+                  151.247563,
+                  -23.873614
+                ],
+                [
+                  151.246614,
+                  -23.872289
+                ],
+                [
+                  151.246371,
+                  -23.872114
+                ],
+                [
+                  151.242087,
+                  -23.870689
+                ],
+                [
+                  151.241783,
+                  -23.870681
+                ],
+                [
+                  151.238684,
+                  -23.871518
+                ],
+                [
+                  151.238428,
+                  -23.872219
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5107",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "271",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:17AM 01 Apr 2024",
+        "EST_FIX_TIME": "6:00PM 01 Apr 2024",
+        "STREETS": "ATHOLL CT, BEECH AVE, BIRCH CT, BURSARIA CT, CASSIA CT, CEDRELA ST, CORAL CT, CUPANIA CT, DAWSON HWY, GREVILLEA CRES, HICKORY AVE, MELIA CT, MYRTLE CT, PAPERBARK ST, ROE O'NEILL DR, ROSEWOOD CT, SUN VALLEY RD, WARATAH ST",
+        "SUBURBS": "GLADSTONE, KIN KORA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -591,5 +692,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711928101.646871"
+  "extracted": "1711928401.049906"
 }
