@@ -410,6 +410,83 @@
           {
             "type": "Point",
             "coordinates": [
+              147.59224,
+              -19.732332
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.59108,
+                  -19.731471
+                ],
+                [
+                  147.591474,
+                  -19.733015
+                ],
+                [
+                  147.591524,
+                  -19.733134
+                ],
+                [
+                  147.591611,
+                  -19.733277
+                ],
+                [
+                  147.591761,
+                  -19.733429
+                ],
+                [
+                  147.592207,
+                  -19.733709
+                ],
+                [
+                  147.592923,
+                  -19.733476
+                ],
+                [
+                  147.5934,
+                  -19.732128
+                ],
+                [
+                  147.593149,
+                  -19.731575
+                ],
+                [
+                  147.591746,
+                  -19.730956
+                ],
+                [
+                  147.59108,
+                  -19.731471
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6897",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "16",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "7:30PM 31 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AIVU AVE, KESTREL LANE, SEAGULL LANE, THE ESPLANADE",
+        "SUBURBS": "WUNJUNGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -466,5 +543,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711877701.537293"
+  "extracted": "1711878001.247504"
 }
