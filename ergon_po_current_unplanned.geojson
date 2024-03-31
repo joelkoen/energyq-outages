@@ -88,7 +88,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "55",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "12:36AM 01 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "BULFORD ST, L'REACH-STONEHENGE RD, LONGREACH-JUNDAH RD, SALISBURY ST, STONEHENGE-YARAKA RD, STRATFORD ST, UNKNOWN ST, WARBRECCAN RD, WILFORD ST",
@@ -564,6 +564,155 @@
           {
             "type": "Point",
             "coordinates": [
+              149.188618,
+              -21.155469
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.183807,
+                  -21.158993
+                ],
+                [
+                  149.184005,
+                  -21.162533
+                ],
+                [
+                  149.18408,
+                  -21.162752
+                ],
+                [
+                  149.186864,
+                  -21.166862
+                ],
+                [
+                  149.187137,
+                  -21.167054
+                ],
+                [
+                  149.188274,
+                  -21.167362
+                ],
+                [
+                  149.188281,
+                  -21.167363
+                ],
+                [
+                  149.189538,
+                  -21.167684
+                ],
+                [
+                  149.189571,
+                  -21.167691
+                ],
+                [
+                  149.190785,
+                  -21.167915
+                ],
+                [
+                  149.190991,
+                  -21.167911
+                ],
+                [
+                  149.192248,
+                  -21.167625
+                ],
+                [
+                  149.192464,
+                  -21.167515
+                ],
+                [
+                  149.192618,
+                  -21.16738
+                ],
+                [
+                  149.19274,
+                  -21.167206
+                ],
+                [
+                  149.192877,
+                  -21.166855
+                ],
+                [
+                  149.192901,
+                  -21.166768
+                ],
+                [
+                  149.193423,
+                  -21.163578
+                ],
+                [
+                  149.193428,
+                  -21.163499
+                ],
+                [
+                  149.192987,
+                  -21.146469
+                ],
+                [
+                  149.192949,
+                  -21.146303
+                ],
+                [
+                  149.191496,
+                  -21.14311
+                ],
+                [
+                  149.190663,
+                  -21.143023
+                ],
+                [
+                  149.1897,
+                  -21.144274
+                ],
+                [
+                  149.189696,
+                  -21.144279
+                ],
+                [
+                  149.184299,
+                  -21.151494
+                ],
+                [
+                  149.184212,
+                  -21.15173
+                ],
+                [
+                  149.183807,
+                  -21.158946
+                ],
+                [
+                  149.183807,
+                  -21.158993
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3220",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1453",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:03AM 01 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALFRED ST, BRIDGE RD, BYRON ST, CAMPBELL ST, CLARK ST, CREDLIN ST, EDWARD ST, ELAMANG ST, EVAN ST, GOLDSMITH ST, HART ST, HAYES LANE, HODGES ST, IRVING ST, JULIET ST, KEELAN ST, KENNEDY ST, KIPPEN ST, LAMB ST, MACARTHUR ST, MCKENNEY ST, MENGEL ST, MOORE ST, PARK ST, PETRIE ST, PORTER ST, PROSPECT ST, READY ST, ROLSTON ST, SCOTT ST, SHAKESPEARE ST, STEEN ST, STEVENSON ST, SYMONS ST, TENNYSON ST, THIRTEENTH LANE, TURNER ST, WENTFORD ST, WILLIAM ST",
+        "SUBURBS": "EAST MACKAY, MACKAY, SOUTH MACKAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               147.677452,
               -20.005539
             ]
@@ -729,5 +878,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711922701.47461"
+  "extracted": "1711923001.645765"
 }
