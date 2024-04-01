@@ -64,7 +64,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "5",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "4:06PM 01 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "FARNBOROUGH RD",
@@ -620,110 +620,9 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              148.781965,
-              -26.568196
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  148.776618,
-                  -26.565959
-                ],
-                [
-                  148.776977,
-                  -26.5669
-                ],
-                [
-                  148.777006,
-                  -26.56696
-                ],
-                [
-                  148.777739,
-                  -26.568236
-                ],
-                [
-                  148.777916,
-                  -26.568411
-                ],
-                [
-                  148.781354,
-                  -26.570371
-                ],
-                [
-                  148.781535,
-                  -26.570434
-                ],
-                [
-                  148.784669,
-                  -26.570933
-                ],
-                [
-                  148.784687,
-                  -26.570936
-                ],
-                [
-                  148.785444,
-                  -26.57103
-                ],
-                [
-                  148.785926,
-                  -26.57084
-                ],
-                [
-                  148.787313,
-                  -26.569041
-                ],
-                [
-                  148.787253,
-                  -26.568463
-                ],
-                [
-                  148.784263,
-                  -26.56581
-                ],
-                [
-                  148.783937,
-                  -26.565681
-                ],
-                [
-                  148.777118,
-                  -26.565362
-                ],
-                [
-                  148.776618,
-                  -26.565959
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW7069",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "93",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "4:41PM 01 Apr 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "ALBERT ST, CONROY ST, COTTELL ST, DUKE ST, MAY ST, MCDOWALL ST, QUEEN ST, QUINTIN ST, SAUNDERS ST, SOUTTER ST, TIMBURY ST",
-        "SUBURBS": "ROMA"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711960501.387483"
+  "extracted": "1711960801.440541"
 }
