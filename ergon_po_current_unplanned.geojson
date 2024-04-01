@@ -10,6 +10,75 @@
           {
             "type": "Point",
             "coordinates": [
+              150.741249,
+              -23.083289
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.738759,
+                  -23.084735
+                ],
+                [
+                  150.743823,
+                  -23.084176
+                ],
+                [
+                  150.744241,
+                  -23.083826
+                ],
+                [
+                  150.744023,
+                  -23.083346
+                ],
+                [
+                  150.74142,
+                  -23.081843
+                ],
+                [
+                  150.740835,
+                  -23.081891
+                ],
+                [
+                  150.738374,
+                  -23.083954
+                ],
+                [
+                  150.738257,
+                  -23.084475
+                ],
+                [
+                  150.738759,
+                  -23.084735
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5118",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:06PM 01 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "FARNBOROUGH RD",
+        "SUBURBS": "FARNBOROUGH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -656,5 +725,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711959601.061204"
+  "extracted": "1711959901.100051"
 }
