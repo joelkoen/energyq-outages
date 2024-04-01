@@ -563,9 +563,118 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.9414,
+              -27.561004
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.939738,
+                  -27.562967
+                ],
+                [
+                  151.940109,
+                  -27.562913
+                ],
+                [
+                  151.940218,
+                  -27.562886
+                ],
+                [
+                  151.942826,
+                  -27.56194
+                ],
+                [
+                  151.943128,
+                  -27.561622
+                ],
+                [
+                  151.943643,
+                  -27.559587
+                ],
+                [
+                  151.943104,
+                  -27.55904
+                ],
+                [
+                  151.941243,
+                  -27.559193
+                ],
+                [
+                  151.941133,
+                  -27.559213
+                ],
+                [
+                  151.941038,
+                  -27.559241
+                ],
+                [
+                  151.94091,
+                  -27.559297
+                ],
+                [
+                  151.939773,
+                  -27.55999
+                ],
+                [
+                  151.939561,
+                  -27.560282
+                ],
+                [
+                  151.939392,
+                  -27.56112
+                ],
+                [
+                  151.939391,
+                  -27.561125
+                ],
+                [
+                  151.939336,
+                  -27.56142
+                ],
+                [
+                  151.939335,
+                  -27.561425
+                ],
+                [
+                  151.939157,
+                  -27.562455
+                ],
+                [
+                  151.939738,
+                  -27.562967
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7068",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "98",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:14PM 01 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "HELEN ST, HERRIES ST, HILL ST, MARGARET ST, WEST ST",
+        "SUBURBS": "NEWTOWN, TOOWOOMBA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1711945201.746315"
+  "extracted": "1711945501.621996"
 }
