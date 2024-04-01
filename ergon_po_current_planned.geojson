@@ -79,7 +79,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "60",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 02 Apr 2024",
         "EST_FIX_TIME": "3:00PM 02 Apr 2024",
         "STREETS": "AYRDRIE RD, BLACKS RD, CATFISH RD, DAWSON HWY, DUCK HOLES RD, FIG TREE RD, GALLOWAY PLAINS RD, HARPER CREEK RD, INVERNESS RD, MT ALMA RD, ODGENS RD, POTTER RD, REDSHIRT RD, SPECIMEN HILL RD",
@@ -100,7 +100,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "60",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 02 Apr 2024",
         "EST_FIX_TIME": "1:30PM 02 Apr 2024",
         "STREETS": "CAPRICORN HWY, KELLYS RD, LOCHLEES RD, OFF CAPRICORN HWY, RAMSEYS RD, TALAFA RD, WATTS RD",
@@ -442,9 +442,30 @@
         "STREETS": "ALDRIDGE ST, KENT ST",
         "SUBURBS": "MARYBOROUGH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.355254,
+          -24.879677
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4321",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:51AM 02 Apr 2024",
+        "EST_FIX_TIME": "10:00AM 02 Apr 2024",
+        "STREETS": "LAMB ST, TARGO ST",
+        "SUBURBS": "WALKERVALE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712008200.479699"
+  "extracted": "1712008500.432485"
 }
