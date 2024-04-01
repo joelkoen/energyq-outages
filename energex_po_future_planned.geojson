@@ -1729,6 +1729,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.911795,
+          -27.168909
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-747592-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Cancelled",
+        "START": "7:30AM 06 Apr 2024",
+        "EST_FIX_TIME": "3:30PM 06 Apr 2024",
+        "STREETS": "JACKO PL, OAKEY FLAT RD",
+        "SUBURBS": "MORAYFIELD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.706411,
           -26.115682
         ]
@@ -3050,5 +3071,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1711979701.475195"
+  "extracted": "1711980004.545403"
 }
