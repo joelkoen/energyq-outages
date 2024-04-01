@@ -212,6 +212,103 @@
           {
             "type": "Point",
             "coordinates": [
+              145.744069,
+              -16.875078
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.740888,
+                  -16.875277
+                ],
+                [
+                  145.740961,
+                  -16.875547
+                ],
+                [
+                  145.740991,
+                  -16.875627
+                ],
+                [
+                  145.741095,
+                  -16.87584
+                ],
+                [
+                  145.741159,
+                  -16.875936
+                ],
+                [
+                  145.741635,
+                  -16.876487
+                ],
+                [
+                  145.741698,
+                  -16.876547
+                ],
+                [
+                  145.742168,
+                  -16.876919
+                ],
+                [
+                  145.742733,
+                  -16.876941
+                ],
+                [
+                  145.747096,
+                  -16.874033
+                ],
+                [
+                  145.747265,
+                  -16.873494
+                ],
+                [
+                  145.746758,
+                  -16.873215
+                ],
+                [
+                  145.741314,
+                  -16.874022
+                ],
+                [
+                  145.740917,
+                  -16.874442
+                ],
+                [
+                  145.740874,
+                  -16.875136
+                ],
+                [
+                  145.740888,
+                  -16.875277
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4715",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "33",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "8:20AM 02 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CAPTAIN COOK HWY, JOHNSTON ST, MAGAZINE ST",
+        "SUBURBS": "AEROGLEN, STRATFORD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -337,5 +434,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712010900.503738"
+  "extracted": "1712011200.522497"
 }
