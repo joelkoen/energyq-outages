@@ -208,9 +208,94 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.808204,
+              -25.804474
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.684269,
+                  -25.713806
+                ],
+                [
+                  150.764663,
+                  -25.866405
+                ],
+                [
+                  150.765017,
+                  -25.866653
+                ],
+                [
+                  150.930055,
+                  -25.895784
+                ],
+                [
+                  150.930641,
+                  -25.89542
+                ],
+                [
+                  150.931872,
+                  -25.889035
+                ],
+                [
+                  150.931879,
+                  -25.888962
+                ],
+                [
+                  150.932139,
+                  -25.865239
+                ],
+                [
+                  150.932127,
+                  -25.865137
+                ],
+                [
+                  150.90051,
+                  -25.735636
+                ],
+                [
+                  150.90008,
+                  -25.735285
+                ],
+                [
+                  150.684774,
+                  -25.713164
+                ],
+                [
+                  150.684269,
+                  -25.713806
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4577",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:12PM 02 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BARBOURS RD, HAWKWOOD RD, MOUNT NARAYEN RD, NERANGY RD, NEW CADARGA RD, ROSEHALL RD, SCRUBLANDS RD, WALKERS RD",
+        "SUBURBS": "HAWKWOOD, MUNDUBBERA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712040001.567079"
+  "extracted": "1712040304.398428"
 }
