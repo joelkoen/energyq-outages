@@ -58,7 +58,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "15",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 03 Apr 2024",
         "EST_FIX_TIME": "2:00PM 03 Apr 2024",
         "STREETS": "ALDOGA DR, BENWELL ST, EUROA CCT, FLYNN RD, GLADSTONE-MT LARCOM RD, MT LARCOM RD, QUARRY RD, RAILWAY RES, TARGINNIE RD",
@@ -189,6 +189,27 @@
         "EST_FIX_TIME": "1:30PM 03 Apr 2024",
         "STREETS": "BARRYLAR RD, FLEURS RD, MOUNT DONALD RD, NEW CORRY RD, PEAK DOWNS HWY, WOLFANG ACCESS RD",
         "SUBURBS": "CLERMONT, WOLFANG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.921483,
+          -17.940443
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3537",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "44",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:45AM 03 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 03 Apr 2024",
+        "STREETS": "BRYANT ST, CAMPBELL ST, HYATT ST, NICOTRA RD",
+        "SUBURBS": "TULLY"
       }
     },
     {
@@ -374,7 +395,7 @@
         "CUSTOMERS_AFFECTED": "18",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 03 Apr 2024",
+        "START": "8:40AM 03 Apr 2024",
         "EST_FIX_TIME": "2:30PM 03 Apr 2024",
         "STREETS": "BRENNAN RD, PELICAN RD, SHEPHERD RD",
         "SUBURBS": "CLARE, MONA PARK"
@@ -803,5 +824,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712097601.6923"
+  "extracted": "1712097904.979856"
 }

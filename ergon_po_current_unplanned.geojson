@@ -10,6 +10,67 @@
           {
             "type": "Point",
             "coordinates": [
+              150.738419,
+              -23.334842
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.739931,
+                  -23.336824
+                ],
+                [
+                  150.737795,
+                  -23.332485
+                ],
+                [
+                  150.737148,
+                  -23.332262
+                ],
+                [
+                  150.736906,
+                  -23.332859
+                ],
+                [
+                  150.739043,
+                  -23.337198
+                ],
+                [
+                  150.739689,
+                  -23.337421
+                ],
+                [
+                  150.739931,
+                  -23.336824
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5176",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "8:38AM 03 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "HIGGINSONS RD",
+        "SUBURBS": "TUNGAMULL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -487,5 +548,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712097601.6923"
+  "extracted": "1712097904.979856"
 }
