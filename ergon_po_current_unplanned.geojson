@@ -314,6 +314,107 @@
           {
             "type": "Point",
             "coordinates": [
+              145.025466,
+              -17.163574
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  144.944206,
+                  -17.082479
+                ],
+                [
+                  144.959673,
+                  -17.148018
+                ],
+                [
+                  144.959751,
+                  -17.148184
+                ],
+                [
+                  144.966326,
+                  -17.156891
+                ],
+                [
+                  144.966395,
+                  -17.156964
+                ],
+                [
+                  145.074794,
+                  -17.249327
+                ],
+                [
+                  145.07553,
+                  -17.249183
+                ],
+                [
+                  145.089271,
+                  -17.221485
+                ],
+                [
+                  145.089304,
+                  -17.221396
+                ],
+                [
+                  145.106726,
+                  -17.151126
+                ],
+                [
+                  145.106535,
+                  -17.150648
+                ],
+                [
+                  145.07068,
+                  -17.127024
+                ],
+                [
+                  145.070601,
+                  -17.126983
+                ],
+                [
+                  144.953116,
+                  -17.077821
+                ],
+                [
+                  144.952711,
+                  -17.077835
+                ],
+                [
+                  144.944447,
+                  -17.081979
+                ],
+                [
+                  144.944206,
+                  -17.082479
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4752",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "211",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:04AM 03 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BLAKNEY RD, BOONMOO RD, BULLABURRAH CREEK RD, BURKE DEVELOPMENT RD, CARBONATE CREEK RD, DARRELL RD, EUREKA CREEK RD, FABRIS RD, LEAFGOLD RD, LEAFGOLD WEIR RD, PARISE RD, PETFORD RD, RALEIGH ST, STOKES RD, TOP EUREKA CREEK RD, TOP EUREKA RD, UNKNOWN ST, WOLFRAM RD",
+        "SUBURBS": "DIMBULAH, LEAFGOLD, SOLANUM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -548,5 +649,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712099101.855694"
+  "extracted": "1712099401.231952"
 }
