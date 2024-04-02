@@ -87,6 +87,115 @@
           {
             "type": "Point",
             "coordinates": [
+              145.816705,
+              -17.895394
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.704735,
+                  -17.831098
+                ],
+                [
+                  145.711099,
+                  -17.84592
+                ],
+                [
+                  145.711171,
+                  -17.846036
+                ],
+                [
+                  145.762496,
+                  -17.905473
+                ],
+                [
+                  145.762528,
+                  -17.905507
+                ],
+                [
+                  145.779987,
+                  -17.922026
+                ],
+                [
+                  145.780112,
+                  -17.92211
+                ],
+                [
+                  145.805349,
+                  -17.933874
+                ],
+                [
+                  145.805423,
+                  -17.933902
+                ],
+                [
+                  145.900154,
+                  -17.960293
+                ],
+                [
+                  145.900396,
+                  -17.960298
+                ],
+                [
+                  145.906085,
+                  -17.958986
+                ],
+                [
+                  145.906328,
+                  -17.958846
+                ],
+                [
+                  145.928676,
+                  -17.93471
+                ],
+                [
+                  145.928648,
+                  -17.934083
+                ],
+                [
+                  145.858299,
+                  -17.869944
+                ],
+                [
+                  145.858096,
+                  -17.869835
+                ],
+                [
+                  145.705294,
+                  -17.83049
+                ],
+                [
+                  145.704735,
+                  -17.831098
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4744",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "120",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "1:45AM 03 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DAVIDSON RD, DINGO POCKET RD, FRENEY RD, KINJUN RD, NORTH DAVIDSON RD, SANDY CREEK RD, SCOUGALL RD, TEA PLANTATION RD, TULLY GORGE RD, UNKNOWN ST",
+        "SUBURBS": "DINGO POCKET, EURAMO, MUNRO PLAINS, RIVERSDALE, TULLY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -212,5 +321,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712072705.341664"
+  "extracted": "1712073001.486186"
 }
