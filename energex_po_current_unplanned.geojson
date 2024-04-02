@@ -1,8 +1,118 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.987738,
+              -26.329134
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.969735,
+                  -26.335206
+                ],
+                [
+                  152.983958,
+                  -26.341315
+                ],
+                [
+                  152.984024,
+                  -26.341338
+                ],
+                [
+                  153.002742,
+                  -26.346616
+                ],
+                [
+                  153.00298,
+                  -26.34663
+                ],
+                [
+                  153.004936,
+                  -26.346317
+                ],
+                [
+                  153.005315,
+                  -26.346038
+                ],
+                [
+                  153.006022,
+                  -26.344418
+                ],
+                [
+                  153.006023,
+                  -26.34409
+                ],
+                [
+                  153.004898,
+                  -26.341478
+                ],
+                [
+                  153.004852,
+                  -26.341397
+                ],
+                [
+                  153.004209,
+                  -26.340499
+                ],
+                [
+                  153.004157,
+                  -26.340439
+                ],
+                [
+                  152.975509,
+                  -26.312298
+                ],
+                [
+                  152.975281,
+                  -26.31217
+                ],
+                [
+                  152.973273,
+                  -26.311639
+                ],
+                [
+                  152.972635,
+                  -26.312015
+                ],
+                [
+                  152.969453,
+                  -26.334742
+                ],
+                [
+                  152.969735,
+                  -26.335206
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-752170-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "75",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "5:43PM 02 Apr 2024",
+        "EST_FIX_TIME": "9:00PM 02 Apr 2024",
+        "STREETS": "AMAROO PL, BUNDOORA ST, CREAM BOX CT, GOSHAWK LANE, MCKINNON DR, MURCHISON LANE, RIVERPARK DR, TRONSON RD, TURPENTINE RD",
+        "SUBURBS": "COOROIBAH, RINGTAIL CREEK, TEWANTIN"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712043601.342494"
+  "extracted": "1712043904.875793"
 }
