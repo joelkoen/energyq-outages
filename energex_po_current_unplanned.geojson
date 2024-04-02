@@ -110,9 +110,110 @@
         "STREETS": "AMAROO PL, BUNDOORA ST, CREAM BOX CT, GOSHAWK LANE, MCKINNON DR, MURCHISON LANE, RIVERPARK DR, TRONSON RD, TURPENTINE RD",
         "SUBURBS": "COOROIBAH, RINGTAIL CREEK, TEWANTIN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.429977,
+              -28.024414
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.428615,
+                  -28.024404
+                ],
+                [
+                  153.428827,
+                  -28.025352
+                ],
+                [
+                  153.429403,
+                  -28.02571
+                ],
+                [
+                  153.429909,
+                  -28.02564
+                ],
+                [
+                  153.430231,
+                  -28.025474
+                ],
+                [
+                  153.43124,
+                  -28.024336
+                ],
+                [
+                  153.431346,
+                  -28.02401
+                ],
+                [
+                  153.431289,
+                  -28.023519
+                ],
+                [
+                  153.430713,
+                  -28.023118
+                ],
+                [
+                  153.429532,
+                  -28.023263
+                ],
+                [
+                  153.429503,
+                  -28.023267
+                ],
+                [
+                  153.429289,
+                  -28.023305
+                ],
+                [
+                  153.429259,
+                  -28.023311
+                ],
+                [
+                  153.429054,
+                  -28.023358
+                ],
+                [
+                  153.428678,
+                  -28.023742
+                ],
+                [
+                  153.428608,
+                  -28.024263
+                ],
+                [
+                  153.428615,
+                  -28.024404
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-752178-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "180",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "6:43PM 02 Apr 2024",
+        "EST_FIX_TIME": "9:00PM 02 Apr 2024",
+        "STREETS": "AUSTRALIA AVE, BRITANNIA AVE, GOLD COAST HWY, SURF PDE",
+        "SUBURBS": "BROADBEACH"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712047201.443204"
+  "extracted": "1712047504.995891"
 }
