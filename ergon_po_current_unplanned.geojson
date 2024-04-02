@@ -10,6 +10,83 @@
           {
             "type": "Point",
             "coordinates": [
+              149.453649,
+              -22.195679
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.416496,
+                  -22.183564
+                ],
+                [
+                  149.416705,
+                  -22.186924
+                ],
+                [
+                  149.416889,
+                  -22.187253
+                ],
+                [
+                  149.44656,
+                  -22.208946
+                ],
+                [
+                  149.446964,
+                  -22.209031
+                ],
+                [
+                  149.490479,
+                  -22.200094
+                ],
+                [
+                  149.490803,
+                  -22.199443
+                ],
+                [
+                  149.481259,
+                  -22.182568
+                ],
+                [
+                  149.480823,
+                  -22.182327
+                ],
+                [
+                  149.416973,
+                  -22.183086
+                ],
+                [
+                  149.416496,
+                  -22.183564
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5134",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:00AM 02 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 02 Apr 2024",
+        "STREETS": "SPRING VALLEY RD",
+        "SUBURBS": "ST LAWRENCE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -527,5 +604,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712033400.529365"
+  "extracted": "1712033701.451897"
 }
