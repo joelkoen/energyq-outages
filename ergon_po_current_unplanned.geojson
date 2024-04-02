@@ -487,9 +487,106 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.743582,
+              -25.196884
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.655938,
+                  -25.293123
+                ],
+                [
+                  146.688259,
+                  -25.268421
+                ],
+                [
+                  146.688308,
+                  -25.268378
+                ],
+                [
+                  146.735727,
+                  -25.220745
+                ],
+                [
+                  146.73574,
+                  -25.220731
+                ],
+                [
+                  146.768851,
+                  -25.184508
+                ],
+                [
+                  146.768878,
+                  -25.184476
+                ],
+                [
+                  146.831987,
+                  -25.101403
+                ],
+                [
+                  146.831605,
+                  -25.100695
+                ],
+                [
+                  146.830404,
+                  -25.100638
+                ],
+                [
+                  146.830011,
+                  -25.100785
+                ],
+                [
+                  146.677757,
+                  -25.253096
+                ],
+                [
+                  146.677684,
+                  -25.253191
+                ],
+                [
+                  146.655178,
+                  -25.292569
+                ],
+                [
+                  146.655308,
+                  -25.29313
+                ],
+                [
+                  146.655938,
+                  -25.293123
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6904",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews working on-site",
+        "START": "7:59AM 27 Mar 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CALDERVALE RD, CARGARA RD, TAMBO RD, UNKNOWN RD",
+        "SUBURBS": "AUGATHELLA, CHARLEVILLE, TAMBO"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712023205.803728"
+  "extracted": "1712023500.572061"
 }
