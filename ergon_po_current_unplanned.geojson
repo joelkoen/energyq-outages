@@ -333,9 +333,118 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.427521,
+              -25.994936
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.098981,
+                  -25.76633
+                ],
+                [
+                  150.104883,
+                  -25.774546
+                ],
+                [
+                  150.104955,
+                  -25.774625
+                ],
+                [
+                  150.420736,
+                  -26.049426
+                ],
+                [
+                  150.420792,
+                  -26.049468
+                ],
+                [
+                  150.716172,
+                  -26.238636
+                ],
+                [
+                  150.716792,
+                  -26.238606
+                ],
+                [
+                  150.754544,
+                  -26.208563
+                ],
+                [
+                  150.754713,
+                  -26.20823
+                ],
+                [
+                  150.75606,
+                  -26.094469
+                ],
+                [
+                  150.755994,
+                  -26.09424
+                ],
+                [
+                  150.573492,
+                  -25.805218
+                ],
+                [
+                  150.573177,
+                  -25.805003
+                ],
+                [
+                  150.567363,
+                  -25.803723
+                ],
+                [
+                  150.56731,
+                  -25.803714
+                ],
+                [
+                  150.126213,
+                  -25.751236
+                ],
+                [
+                  150.125892,
+                  -25.751295
+                ],
+                [
+                  150.099145,
+                  -25.765696
+                ],
+                [
+                  150.098981,
+                  -25.76633
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7121",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "60",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:06AM 03 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AISBETT'S RD, ARNDT'S RD, AUBURN RD, BIG VALLEY RD, BOCKS RD, BOWLINGS RD, CANNS RD, FLAGSTONE RD, KNUDSENS RD, NATHAN RD, ORMONDE RD, PONTY POOL RD",
+        "SUBURBS": "AUBURN, CHINCHILLA, WANDOAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712087701.201428"
+  "extracted": "1712088004.991774"
 }
