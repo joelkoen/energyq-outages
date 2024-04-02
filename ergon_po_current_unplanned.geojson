@@ -217,6 +217,91 @@
           {
             "type": "Point",
             "coordinates": [
+              151.665361,
+              -27.494716
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.64383,
+                  -27.479266
+                ],
+                [
+                  151.64929,
+                  -27.490755
+                ],
+                [
+                  151.649447,
+                  -27.490936
+                ],
+                [
+                  151.676214,
+                  -27.509294
+                ],
+                [
+                  151.676361,
+                  -27.509364
+                ],
+                [
+                  151.681346,
+                  -27.510854
+                ],
+                [
+                  151.681992,
+                  -27.510551
+                ],
+                [
+                  151.686918,
+                  -27.495265
+                ],
+                [
+                  151.686632,
+                  -27.494727
+                ],
+                [
+                  151.644522,
+                  -27.478577
+                ],
+                [
+                  151.643831,
+                  -27.478885
+                ],
+                [
+                  151.643804,
+                  -27.478984
+                ],
+                [
+                  151.64383,
+                  -27.479266
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7101",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "24",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "7:04PM 02 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARMITAGE RD, CIESIOLKA RD, O'BRIEN RD, OAKEY-PITTSWORTH RD, RYAN RD",
+        "SUBURBS": "AUBIGNY, YARGULLEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.362314,
               -24.896016
             ]
@@ -422,5 +507,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712048701.114267"
+  "extracted": "1712049001.366849"
 }
