@@ -491,9 +491,94 @@
         "STREETS": "CALDERVALE RD, CARGARA RD, TAMBO RD, UNKNOWN RD",
         "SUBURBS": "AUGATHELLA, CHARLEVILLE, TAMBO"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              147.97547,
+              -26.485948
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.972655,
+                  -26.487315
+                ],
+                [
+                  147.974323,
+                  -26.487851
+                ],
+                [
+                  147.974705,
+                  -26.487834
+                ],
+                [
+                  147.977465,
+                  -26.486667
+                ],
+                [
+                  147.977709,
+                  -26.486444
+                ],
+                [
+                  147.978608,
+                  -26.484656
+                ],
+                [
+                  147.977982,
+                  -26.484045
+                ],
+                [
+                  147.973881,
+                  -26.485367
+                ],
+                [
+                  147.973784,
+                  -26.485409
+                ],
+                [
+                  147.972658,
+                  -26.486042
+                ],
+                [
+                  147.972432,
+                  -26.486339
+                ],
+                [
+                  147.972332,
+                  -26.486804
+                ],
+                [
+                  147.972655,
+                  -26.487315
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7095",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "30",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "11:52AM 02 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALICE ST, CAMBRIDGE ST, LOUISA ST, MARY ST, OXFORD ST, WARREGO HWY",
+        "SUBURBS": "MITCHELL"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712030100.489365"
+  "extracted": "1712030401.736636"
 }
