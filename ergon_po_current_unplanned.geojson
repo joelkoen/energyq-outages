@@ -265,6 +265,107 @@
           {
             "type": "Point",
             "coordinates": [
+              149.278107,
+              -21.441142
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.227653,
+                  -21.438675
+                ],
+                [
+                  149.234011,
+                  -21.468038
+                ],
+                [
+                  149.234569,
+                  -21.468393
+                ],
+                [
+                  149.290873,
+                  -21.458823
+                ],
+                [
+                  149.29114,
+                  -21.458687
+                ],
+                [
+                  149.328473,
+                  -21.421168
+                ],
+                [
+                  149.328562,
+                  -21.42068
+                ],
+                [
+                  149.326993,
+                  -21.417309
+                ],
+                [
+                  149.326666,
+                  -21.41705
+                ],
+                [
+                  149.31294,
+                  -21.413905
+                ],
+                [
+                  149.312821,
+                  -21.413892
+                ],
+                [
+                  149.264071,
+                  -21.414271
+                ],
+                [
+                  149.263886,
+                  -21.414307
+                ],
+                [
+                  149.253964,
+                  -21.418259
+                ],
+                [
+                  149.253848,
+                  -21.418324
+                ],
+                [
+                  149.22782,
+                  -21.438236
+                ],
+                [
+                  149.227653,
+                  -21.438675
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3294",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "539",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:46AM 03 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AGATHA CT, ARMSTRONG BEACH RD, CORAL REEF CT, CRESCENT ST, DEGUARA AVE, DONALD PL, ELLE CT, FLEETWOOD CT, FRESHWATER POINT RD, GURNETT RD, KEATING CT, LEONIE CT, LLEWELLYN CT, MANON ST, MELBA ST, MIRAN KHAN DR, OCEAN VIEW CRES, RAINBOW ST, RANKIN CT, RASMUSSEN CT, ROSEMARIE CT, SEABREEZE CT, SWAN ST, THERESA CT, ULYSSES WAY, WILSON RD",
+        "SUBURBS": "ARMSTRONG BEACH, FRESHWATER POINT, SARINA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -321,5 +422,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712076304.03739"
+  "extracted": "1712076601.318014"
 }
