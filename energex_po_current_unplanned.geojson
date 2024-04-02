@@ -64,7 +64,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "4",
         "REASON": "Under Investigation",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "6:27AM 03 Apr 2024",
         "EST_FIX_TIME": "9:30AM 03 Apr 2024",
         "STREETS": "THOMPSON RD, WELKS RIDGE RD",
@@ -163,9 +163,78 @@
         "STREETS": "ESK-CROWS NEST RD, ESKDALE-IVORY CREEK RD, OAKY MILL RD, OLD MAN CAMP RD",
         "SUBURBS": "BIARRA, ESKDALE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.050815,
+              -27.700083
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.047629,
+                  -27.699633
+                ],
+                [
+                  153.04919,
+                  -27.703473
+                ],
+                [
+                  153.049997,
+                  -27.703663
+                ],
+                [
+                  153.05401,
+                  -27.700607
+                ],
+                [
+                  153.054001,
+                  -27.699915
+                ],
+                [
+                  153.049314,
+                  -27.696503
+                ],
+                [
+                  153.048507,
+                  -27.696723
+                ],
+                [
+                  153.047621,
+                  -27.699349
+                ],
+                [
+                  153.047629,
+                  -27.699633
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-752228-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "8:11AM 03 Apr 2024",
+        "EST_FIX_TIME": "11:00AM 03 Apr 2024",
+        "STREETS": "PARK RIDGE RD",
+        "SUBURBS": "PARK RIDGE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712095801.226228"
+  "extracted": "1712096102.010515"
 }
