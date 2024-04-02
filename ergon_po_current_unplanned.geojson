@@ -188,6 +188,71 @@
           {
             "type": "Point",
             "coordinates": [
+              146.042749,
+              -17.674292
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.042139,
+                  -17.6749
+                ],
+                [
+                  146.043299,
+                  -17.674972
+                ],
+                [
+                  146.043794,
+                  -17.674444
+                ],
+                [
+                  146.043705,
+                  -17.673953
+                ],
+                [
+                  146.043062,
+                  -17.673611
+                ],
+                [
+                  146.041991,
+                  -17.674031
+                ],
+                [
+                  146.041704,
+                  -17.674522
+                ],
+                [
+                  146.042139,
+                  -17.6749
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4748",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "7:14AM 03 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRUCE HWY",
+        "SUBURBS": "COWLEY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -422,5 +487,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712096401.18634"
+  "extracted": "1712096700.512729"
 }
