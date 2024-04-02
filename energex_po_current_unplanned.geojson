@@ -461,9 +461,86 @@
         "STREETS": "ANGELA CRES, BLOOMFIELD ST, HAGGUP ST, JOHN ST, KATHLEEN CT, KATRINA CT, LEXLEN CT, MIDDLE ST, QUEEN ST, ROSS CT, RUSSELL ST, SCOTT ST, SHORE ST W, SMITH ST, TAYLOR CRES, WATERLOO ST, WELLINGTON ST",
         "SUBURBS": "CLEVELAND"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.512029,
+              -27.667754
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.511225,
+                  -27.667879
+                ],
+                [
+                  152.511911,
+                  -27.669127
+                ],
+                [
+                  152.512509,
+                  -27.669362
+                ],
+                [
+                  152.51287,
+                  -27.668877
+                ],
+                [
+                  152.512675,
+                  -27.667354
+                ],
+                [
+                  152.512668,
+                  -27.667315
+                ],
+                [
+                  152.512484,
+                  -27.666507
+                ],
+                [
+                  152.511999,
+                  -27.666146
+                ],
+                [
+                  152.511496,
+                  -27.666487
+                ],
+                [
+                  152.511188,
+                  -27.667569
+                ],
+                [
+                  152.511225,
+                  -27.667879
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-752190-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "8:06PM 02 Apr 2024",
+        "EST_FIX_TIME": "9:30PM 02 Apr 2024",
+        "STREETS": "HIDDENVALE RD",
+        "SUBURBS": "CALVERT"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712052602.171108"
+  "extracted": "1712052905.219282"
 }
