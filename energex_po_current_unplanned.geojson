@@ -1,8 +1,78 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.913117,
+              -26.648288
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.912176,
+                  -26.649696
+                ],
+                [
+                  152.913376,
+                  -26.650116
+                ],
+                [
+                  152.914056,
+                  -26.64976
+                ],
+                [
+                  152.914378,
+                  -26.647726
+                ],
+                [
+                  152.914156,
+                  -26.647285
+                ],
+                [
+                  152.912757,
+                  -26.64646
+                ],
+                [
+                  152.91198,
+                  -26.646817
+                ],
+                [
+                  152.911856,
+                  -26.649254
+                ],
+                [
+                  152.912176,
+                  -26.649696
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-752212-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:27AM 03 Apr 2024",
+        "EST_FIX_TIME": "10:00AM 03 Apr 2024",
+        "STREETS": "THOMPSON RD, WELKS RIDGE RD",
+        "SUBURBS": "TOWEN MOUNTAIN"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712091301.197119"
+  "extracted": "1712091605.97758"
 }
