@@ -317,9 +317,110 @@
         "STREETS": "BAROLIN ST, CORTES DR, ELENA CT, FRITZ ST, GOODWOOD RD, KELLYS RD, MCCARTHY RD, NEWITT ST, TESCH ST",
         "SUBURBS": "AVENELL HEIGHTS, THABEBAN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.987587,
+              -26.666969
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.985396,
+                  -26.667196
+                ],
+                [
+                  151.986304,
+                  -26.667958
+                ],
+                [
+                  151.986353,
+                  -26.667995
+                ],
+                [
+                  151.987516,
+                  -26.668749
+                ],
+                [
+                  151.987989,
+                  -26.668804
+                ],
+                [
+                  151.988411,
+                  -26.668658
+                ],
+                [
+                  151.988618,
+                  -26.668523
+                ],
+                [
+                  151.989101,
+                  -26.667994
+                ],
+                [
+                  151.989154,
+                  -26.667923
+                ],
+                [
+                  151.989729,
+                  -26.666965
+                ],
+                [
+                  151.989787,
+                  -26.666709
+                ],
+                [
+                  151.989737,
+                  -26.666232
+                ],
+                [
+                  151.989424,
+                  -26.665856
+                ],
+                [
+                  151.987404,
+                  -26.665134
+                ],
+                [
+                  151.986867,
+                  -26.665232
+                ],
+                [
+                  151.985386,
+                  -26.666547
+                ],
+                [
+                  151.985396,
+                  -26.667196
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4581",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "52",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:50PM 02 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BUNKER AVE, CLUB CT, D'AGUILAR HWY, EAGLE ST, FAIRWAY DR, KINGAROY RD",
+        "SUBURBS": "NANANGO"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712048406.143411"
+  "extracted": "1712048701.114267"
 }
