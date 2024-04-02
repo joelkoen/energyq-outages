@@ -211,9 +211,102 @@
         "STREETS": "AUSTRALIA AVE, BRITANNIA AVE, GOLD COAST HWY, SURF PDE",
         "SUBURBS": "BROADBEACH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.0633,
+              -27.72106
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.061791,
+                  -27.722623
+                ],
+                [
+                  153.062089,
+                  -27.722662
+                ],
+                [
+                  153.062106,
+                  -27.722664
+                ],
+                [
+                  153.063909,
+                  -27.72284
+                ],
+                [
+                  153.064216,
+                  -27.722784
+                ],
+                [
+                  153.064647,
+                  -27.722565
+                ],
+                [
+                  153.064897,
+                  -27.722244
+                ],
+                [
+                  153.065161,
+                  -27.720766
+                ],
+                [
+                  153.065125,
+                  -27.720516
+                ],
+                [
+                  153.064859,
+                  -27.719968
+                ],
+                [
+                  153.064743,
+                  -27.719819
+                ],
+                [
+                  153.064103,
+                  -27.719279
+                ],
+                [
+                  153.063329,
+                  -27.719359
+                ],
+                [
+                  153.061439,
+                  -27.72193
+                ],
+                [
+                  153.061791,
+                  -27.722623
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-752181-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "7:22PM 02 Apr 2024",
+        "EST_FIX_TIME": "9:00PM 02 Apr 2024",
+        "STREETS": "ROSIA RD, VIRGIL RD",
+        "SUBURBS": "PARK RIDGE, PARK RIDGE SOUTH"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712050206.718914"
+  "extracted": "1712050501.46275"
 }
