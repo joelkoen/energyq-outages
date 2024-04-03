@@ -10,6 +10,75 @@
           {
             "type": "Point",
             "coordinates": [
+              152.851812,
+              -26.781817
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.849791,
+                  -26.782838
+                ],
+                [
+                  152.853421,
+                  -26.782048
+                ],
+                [
+                  152.85357,
+                  -26.781992
+                ],
+                [
+                  152.854247,
+                  -26.78161
+                ],
+                [
+                  152.854437,
+                  -26.781041
+                ],
+                [
+                  152.853833,
+                  -26.780796
+                ],
+                [
+                  152.849527,
+                  -26.781968
+                ],
+                [
+                  152.849187,
+                  -26.782518
+                ],
+                [
+                  152.849791,
+                  -26.782838
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-752279-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:02AM 03 Apr 2024",
+        "EST_FIX_TIME": "3:30PM 03 Apr 2024",
+        "STREETS": "MOUNTAIN VIEW RD",
+        "SUBURBS": "MALENY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.683165,
               -26.389871
             ]
@@ -239,5 +308,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712116804.912459"
+  "extracted": "1712117107.506137"
 }
