@@ -1759,7 +1759,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 04 Apr 2024",
         "EST_FIX_TIME": "2:30PM 04 Apr 2024",
         "STREETS": "ANGUS SMITH DR",
@@ -3430,6 +3430,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.278396,
+          -24.917533
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4126",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "70",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:30AM 04 Apr 2024",
+        "EST_FIX_TIME": "1:30PM 04 Apr 2024",
+        "STREETS": "BONNA RD, BUSH RD, CHILDERS RD, COOLMUNDA CT",
+        "SUBURBS": "BRANYAN, BUNDABERG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.37344,
           -24.879256
         ]
@@ -3512,5 +3533,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1712181001.404749"
+  "extracted": "1712181301.391928"
 }
