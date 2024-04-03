@@ -219,9 +219,118 @@
         "STREETS": "BOWLING CLUB RD, BRICE ST, EDEN RD, ELIZABETH ST, ERNST RD, GOOMONG RD, GREENOAK RD, HARVEY RD, HASTHORPE RD, JUSTER RD, KANDANGA AMAMOOR RD, KANDANGA CREEK RD, KANDANGA IMBIL RD, MAIN ST, MARGARET ST, MARY VALLEY RD, MELAWONDI RD, PINE AVE, STEPHENS ST, SUMMERVILLE RD, WEBER RD, WOODHILL RD",
         "SUBURBS": "AMAMOOR, KANDANGA, KANDANGA CREEK, MELAWONDI, UPPER KANDANGA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.080151,
+              -26.871945
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.052687,
+                  -26.836803
+                ],
+                [
+                  153.06293,
+                  -26.895569
+                ],
+                [
+                  153.062952,
+                  -26.895647
+                ],
+                [
+                  153.063264,
+                  -26.896455
+                ],
+                [
+                  153.063291,
+                  -26.896512
+                ],
+                [
+                  153.067949,
+                  -26.904709
+                ],
+                [
+                  153.067964,
+                  -26.904732
+                ],
+                [
+                  153.069438,
+                  -26.906984
+                ],
+                [
+                  153.06968,
+                  -26.907172
+                ],
+                [
+                  153.070853,
+                  -26.907608
+                ],
+                [
+                  153.07136,
+                  -26.907543
+                ],
+                [
+                  153.088737,
+                  -26.895075
+                ],
+                [
+                  153.088902,
+                  -26.894861
+                ],
+                [
+                  153.107614,
+                  -26.84237
+                ],
+                [
+                  153.107573,
+                  -26.842009
+                ],
+                [
+                  153.10541,
+                  -26.8386
+                ],
+                [
+                  153.104996,
+                  -26.838372
+                ],
+                [
+                  153.053207,
+                  -26.836283
+                ],
+                [
+                  153.052687,
+                  -26.836803
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-752312-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "203",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "12:32PM 03 Apr 2024",
+        "EST_FIX_TIME": "3:00PM 03 Apr 2024",
+        "STREETS": "BELLS CREEK RD, BELLS ESP, BLACKWING ST, GREENSHANK ST, ROYS RD, THE ESPLANADE, WADERBIRD CRES, WARREGO DR, WHIMBREL CT",
+        "SUBURBS": "BELLS CREEK, COOCHIN CREEK, PELICAN WATERS"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712111404.376194"
+  "extracted": "1712111701.669217"
 }
