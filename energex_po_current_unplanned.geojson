@@ -1,8 +1,94 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.634014,
+              -27.68319
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.613334,
+                  -27.672857
+                ],
+                [
+                  152.624314,
+                  -27.703837
+                ],
+                [
+                  152.625141,
+                  -27.704034
+                ],
+                [
+                  152.637016,
+                  -27.694347
+                ],
+                [
+                  152.637114,
+                  -27.694237
+                ],
+                [
+                  152.654693,
+                  -27.666664
+                ],
+                [
+                  152.654363,
+                  -27.666001
+                ],
+                [
+                  152.636016,
+                  -27.662345
+                ],
+                [
+                  152.635699,
+                  -27.662374
+                ],
+                [
+                  152.618859,
+                  -27.669059
+                ],
+                [
+                  152.618776,
+                  -27.6691
+                ],
+                [
+                  152.613528,
+                  -27.672351
+                ],
+                [
+                  152.613334,
+                  -27.672857
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-752429-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "48",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:22PM 03 Apr 2024",
+        "EST_FIX_TIME": "1:30AM 04 Apr 2024",
+        "STREETS": "BERGMANS RD, COCKS RD, COOPERS RD, EBENEZER RD, HIGGS RD, LANES RD, M HINES RD, PAYNES RD, TURNBULL RD, WILKES RD",
+        "SUBURBS": "EBENEZER, MOUNT FORBES"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712150403.501265"
+  "extracted": "1712150701.387962"
 }
