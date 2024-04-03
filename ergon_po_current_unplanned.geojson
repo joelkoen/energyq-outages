@@ -317,9 +317,142 @@
         "STREETS": "BELTANA RD, CHAMBERS RD, CHELMER RD, DALKEITH RD, EAST GOONDULLA RD, FLINTON RD, HOLLYMOUNT RD, KOOROON RD, LOCHNAGAR RD, MOONIE HWY, NORTH GRADNA RD, SATUR RD, TEELBA RD, THOMPSONS RD, TRACKERS CROSSING RD, ULA ULA RD, WARRIE RD, WOODLAWN LANE",
         "SUBURBS": "FLINTON, GLENMORGAN, ST GEORGE, TALWOOD, THALLON, WESTMAR"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.895921,
+              -26.495032
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.8732,
+                  -26.501693
+                ],
+                [
+                  151.878521,
+                  -26.511117
+                ],
+                [
+                  151.878787,
+                  -26.511333
+                ],
+                [
+                  151.883692,
+                  -26.513035
+                ],
+                [
+                  151.88375,
+                  -26.513052
+                ],
+                [
+                  151.902019,
+                  -26.51719
+                ],
+                [
+                  151.902203,
+                  -26.5172
+                ],
+                [
+                  151.915358,
+                  -26.515718
+                ],
+                [
+                  151.915786,
+                  -26.515365
+                ],
+                [
+                  151.917149,
+                  -26.509553
+                ],
+                [
+                  151.917158,
+                  -26.509496
+                ],
+                [
+                  151.918692,
+                  -26.49222
+                ],
+                [
+                  151.918692,
+                  -26.492152
+                ],
+                [
+                  151.917872,
+                  -26.481801
+                ],
+                [
+                  151.917769,
+                  -26.481558
+                ],
+                [
+                  151.91579,
+                  -26.479257
+                ],
+                [
+                  151.915711,
+                  -26.479185
+                ],
+                [
+                  151.907225,
+                  -26.472913
+                ],
+                [
+                  151.906671,
+                  -26.472864
+                ],
+                [
+                  151.875836,
+                  -26.487757
+                ],
+                [
+                  151.87558,
+                  -26.48808
+                ],
+                [
+                  151.873338,
+                  -26.500187
+                ],
+                [
+                  151.873336,
+                  -26.5002
+                ],
+                [
+                  151.87315,
+                  -26.501428
+                ],
+                [
+                  151.8732,
+                  -26.501693
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4594",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "58",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:30PM 03 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOOIE CRAWFORD RD, CRAWFORD-BOOIE RD, FAUGHNANS RD, HARCHS RD, HAYDENS RD, KARINGAL RD, NORTH BRANCH RD, NYSTROM RD, REINBOTTS RD, SCHELLBACHS RD",
+        "SUBURBS": "BOOIE, CRAWFORD, KINGAROY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712111700.558073"
+  "extracted": "1712112001.951679"
 }
