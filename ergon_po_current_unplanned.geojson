@@ -419,6 +419,107 @@
           {
             "type": "Point",
             "coordinates": [
+              151.802392,
+              -26.484626
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.786736,
+                  -26.482402
+                ],
+                [
+                  151.803558,
+                  -26.498693
+                ],
+                [
+                  151.803778,
+                  -26.498817
+                ],
+                [
+                  151.812211,
+                  -26.501147
+                ],
+                [
+                  151.812604,
+                  -26.501109
+                ],
+                [
+                  151.814696,
+                  -26.500046
+                ],
+                [
+                  151.814877,
+                  -26.499889
+                ],
+                [
+                  151.81615,
+                  -26.498014
+                ],
+                [
+                  151.816221,
+                  -26.49782
+                ],
+                [
+                  151.818095,
+                  -26.478998
+                ],
+                [
+                  151.817953,
+                  -26.478641
+                ],
+                [
+                  151.806527,
+                  -26.468237
+                ],
+                [
+                  151.806127,
+                  -26.468105
+                ],
+                [
+                  151.796667,
+                  -26.468858
+                ],
+                [
+                  151.796296,
+                  -26.469055
+                ],
+                [
+                  151.786688,
+                  -26.481844
+                ],
+                [
+                  151.786736,
+                  -26.482402
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4593",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "21",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "9:05AM 03 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BUNYA HWY, LIESEGANGS RD, MEMERAMBI GORDONBROOK RD, OLD CRAWFORD RD, WENZELS RD, WINGFIELDS RD, ZOLNER RD",
+        "SUBURBS": "CRAWFORD, KINGAROY, MEMERAMBI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.896121,
               -26.50073
             ]
@@ -539,5 +640,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712117704.27189"
+  "extracted": "1712118001.784707"
 }
