@@ -156,8 +156,8 @@
           {
             "type": "Point",
             "coordinates": [
-              148.822426,
-              -21.247174
+              148.828065,
+              -21.183579
             ]
           },
           {
@@ -165,52 +165,28 @@
             "coordinates": [
               [
                 [
-                  148.782165,
-                  -21.32393
+                  148.815981,
+                  -21.203109
                 ],
                 [
-                  148.833426,
-                  -21.330301
+                  148.840349,
+                  -21.198198
                 ],
                 [
-                  148.833829,
-                  -21.330173
+                  148.840727,
+                  -21.197719
                 ],
                 [
-                  148.834167,
-                  -21.329858
+                  148.838816,
+                  -21.176248
                 ],
                 [
-                  148.834191,
-                  -21.329835
+                  148.838786,
+                  -21.176125
                 ],
                 [
-                  148.849077,
-                  -21.313844
-                ],
-                [
-                  148.849096,
-                  -21.313822
-                ],
-                [
-                  148.849925,
-                  -21.312811
-                ],
-                [
-                  148.850021,
-                  -21.312591
-                ],
-                [
-                  148.863096,
-                  -21.211789
-                ],
-                [
-                  148.86303,
-                  -21.211501
-                ],
-                [
-                  148.836142,
-                  -21.169659
+                  148.83618,
+                  -21.169731
                 ],
                 [
                   148.836034,
@@ -229,24 +205,24 @@
                   -21.164131
                 ],
                 [
-                  148.826189,
+                  148.826188,
                   -21.164447
                 ],
                 [
-                  148.79952,
-                  -21.244371
+                  148.817094,
+                  -21.191752
                 ],
                 [
-                  148.799509,
-                  -21.244413
+                  148.817077,
+                  -21.191821
                 ],
                 [
-                  148.781757,
-                  -21.32339
+                  148.815403,
+                  -21.202603
                 ],
                 [
-                  148.782165,
-                  -21.32393
+                  148.815981,
+                  -21.203109
                 ]
               ]
             ]
@@ -256,13 +232,13 @@
       "properties": {
         "EVENT_ID": "24MK3325",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "136",
+        "CUSTOMERS_AFFECTED": "20",
         "REASON": "The loss of supply is due to fallen power lines.  ",
         "STATUS": "Outage reported",
         "START": "3:32PM 03 Apr 2024",
         "EST_FIX_TIME": "8:30PM 03 Apr 2024",
-        "STREETS": "BADGER WALES RD, GREENTREE RD, HOGANS RD, KADDATZ RD, M MCCLURES RD, MACKAY EUNGELLA RD, MIA MIA CONNECTION RD, MIA MIA PINEVALE RD, MIRANI ETON RD, NICHOLSONS CROSSING RD, O'SULLIVANS RD, PINEVALE RD, R MCCLURES RD, WELSHS RD, WHITEFORDS RD",
-        "SUBURBS": "BENHOLME, MIA MIA, MIRANI, PINEVALE, SEPTIMUS"
+        "STREETS": "KADDATZ RD, M MCCLURES RD, MACKAY EUNGELLA RD, MIA MIA CONNECTION RD, NICHOLSONS CROSSING RD, R MCCLURES RD",
+        "SUBURBS": "BENHOLME, MIRANI, SEPTIMUS"
       }
     },
     {
@@ -393,6 +369,115 @@
         "EST_FIX_TIME": null,
         "STREETS": "KING ST",
         "SUBURBS": "BLUEWATER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.232988,
+              -20.00377
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.230441,
+                  -20.004633
+                ],
+                [
+                  148.231344,
+                  -20.004964
+                ],
+                [
+                  148.231367,
+                  -20.004972
+                ],
+                [
+                  148.233349,
+                  -20.005591
+                ],
+                [
+                  148.233791,
+                  -20.00552
+                ],
+                [
+                  148.235585,
+                  -20.004212
+                ],
+                [
+                  148.235686,
+                  -20.004111
+                ],
+                [
+                  148.235738,
+                  -20.00404
+                ],
+                [
+                  148.235759,
+                  -20.003558
+                ],
+                [
+                  148.235617,
+                  -20.003325
+                ],
+                [
+                  148.235497,
+                  -20.003194
+                ],
+                [
+                  148.234574,
+                  -20.002514
+                ],
+                [
+                  148.234544,
+                  -20.002493
+                ],
+                [
+                  148.233723,
+                  -20.001979
+                ],
+                [
+                  148.233254,
+                  -20.001948
+                ],
+                [
+                  148.231003,
+                  -20.002959
+                ],
+                [
+                  148.23081,
+                  -20.003117
+                ],
+                [
+                  148.230216,
+                  -20.003962
+                ],
+                [
+                  148.230441,
+                  -20.004633
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7011",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "71",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:01PM 03 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DENISON ST, HILL ST, JOHN ST, LEICHHARDT ST, PILCHER PL, SUNSET CRES, WEST ST",
+        "SUBURBS": "BOWEN"
       }
     },
     {
@@ -552,5 +637,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712131801.330675"
+  "extracted": "1712132104.546988"
 }
