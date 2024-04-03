@@ -156,6 +156,123 @@
           {
             "type": "Point",
             "coordinates": [
+              148.822426,
+              -21.246167
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.782165,
+                  -21.32393
+                ],
+                [
+                  148.833426,
+                  -21.330301
+                ],
+                [
+                  148.833829,
+                  -21.330173
+                ],
+                [
+                  148.834167,
+                  -21.329858
+                ],
+                [
+                  148.834191,
+                  -21.329835
+                ],
+                [
+                  148.849077,
+                  -21.313844
+                ],
+                [
+                  148.849096,
+                  -21.313822
+                ],
+                [
+                  148.849925,
+                  -21.312811
+                ],
+                [
+                  148.850021,
+                  -21.312591
+                ],
+                [
+                  148.863096,
+                  -21.211789
+                ],
+                [
+                  148.86303,
+                  -21.211501
+                ],
+                [
+                  148.836142,
+                  -21.169659
+                ],
+                [
+                  148.836104,
+                  -21.169608
+                ],
+                [
+                  148.829624,
+                  -21.162083
+                ],
+                [
+                  148.828926,
+                  -21.162033
+                ],
+                [
+                  148.826324,
+                  -21.164248
+                ],
+                [
+                  148.826189,
+                  -21.164447
+                ],
+                [
+                  148.79952,
+                  -21.244371
+                ],
+                [
+                  148.799509,
+                  -21.244413
+                ],
+                [
+                  148.781757,
+                  -21.32339
+                ],
+                [
+                  148.782165,
+                  -21.32393
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3325",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "137",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
+        "STATUS": "Outage reported",
+        "START": "3:34PM 03 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BADGER WALES RD, GREENTREE RD, HOGANS RD, KADDATZ RD, M MCCLURES RD, MACKAY EUNGELLA RD, MIA MIA CONNECTION RD, MIA MIA PINEVALE RD, MIRANI ETON RD, NICHOLSONS CROSSING RD, O'SULLIVANS RD, PINEVALE RD, R MCCLURES RD, WELSHS RD, WHITEFORDS RD",
+        "SUBURBS": "BENHOLME, MIA MIA, MIRANI, PINEVALE, SEPTIMUS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -212,5 +329,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712122500.494564"
+  "extracted": "1712122800.519698"
 }
