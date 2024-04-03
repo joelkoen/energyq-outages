@@ -79,11 +79,32 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "10",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 04 Apr 2024",
         "EST_FIX_TIME": "2:00PM 04 Apr 2024",
         "STREETS": "WOLFRAM RD",
         "SUBURBS": "DIMBULAH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.867817,
+          -18.00108
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3326",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 04 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 04 Apr 2024",
+        "STREETS": "DAVIDSON RD",
+        "SUBURBS": "RIVERSDALE"
       }
     },
     {
@@ -184,7 +205,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "15",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "10:00AM 04 Apr 2024",
         "EST_FIX_TIME": "3:00PM 04 Apr 2024",
         "STREETS": "BLOOMFIELD COOKTOWN RD, BLOOMFIELD RD, BLOOMFIELD RVR, ROSSVILLE BLOOMFIELD RD, ROSSVILLE RD, UNKNOWN ST",
@@ -231,6 +252,27 @@
         "EST_FIX_TIME": "3:00PM 04 Apr 2024",
         "STREETS": "AGNEW ST, BELL CL, CECILY ST, COOPER ST, CORBETT ST, CURRIE ST, EDITH ST, GAGETTI CL, GIBSON ST, GRAU ST, HERBERTON RD, HORSLEY CL, JACK ST, LARKIN CL, LLOYD ST, LODER ST, MAY ST, NORBURY CCT, PEAKE ST, QUADRIO ST, ROBERTSON CL, TUMBARE ST, TURNER AVE, VIT CL, WEAVER ST, WEST ST, WYLIE ST",
         "SUBURBS": "ATHERTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.225295,
+          -21.302251
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2509",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:38AM 04 Apr 2024",
+        "EST_FIX_TIME": "10:00AM 04 Apr 2024",
+        "STREETS": "BALLY KEEL RD",
+        "SUBURBS": "ALLIGATOR CREEK"
       }
     },
     {
@@ -353,7 +395,7 @@
         "CUSTOMERS_AFFECTED": "20",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:00AM 04 Apr 2024",
+        "START": "8:35AM 04 Apr 2024",
         "EST_FIX_TIME": "2:00PM 04 Apr 2024",
         "STREETS": "CLARE RD",
         "SUBURBS": "CLARE"
@@ -719,5 +761,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712183406.252271"
+  "extracted": "1712184001.878601"
 }
