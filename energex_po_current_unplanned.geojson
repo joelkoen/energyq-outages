@@ -78,9 +78,70 @@
         "STREETS": "BERGMANS RD, EBENEZER RD, LANES RD, TURNBULL RD",
         "SUBURBS": "EBENEZER"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.050981,
+              -27.481173
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.050552,
+                  -27.480731
+                ],
+                [
+                  153.050412,
+                  -27.481464
+                ],
+                [
+                  153.050827,
+                  -27.481985
+                ],
+                [
+                  153.05141,
+                  -27.481615
+                ],
+                [
+                  153.05155,
+                  -27.480882
+                ],
+                [
+                  153.051135,
+                  -27.480361
+                ],
+                [
+                  153.050552,
+                  -27.480731
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-752463-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "8:02AM 04 Apr 2024",
+        "EST_FIX_TIME": "10:30AM 04 Apr 2024",
+        "STREETS": "OAKLANDS PDE",
+        "SUBURBS": "EAST BRISBANE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712181606.535853"
+  "extracted": "1712181901.290462"
 }
