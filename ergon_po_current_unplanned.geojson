@@ -414,6 +414,75 @@
           {
             "type": "Point",
             "coordinates": [
+              148.164334,
+              -20.043813
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.156988,
+                  -20.045016
+                ],
+                [
+                  148.169461,
+                  -20.051438
+                ],
+                [
+                  148.170151,
+                  -20.05116
+                ],
+                [
+                  148.171924,
+                  -20.045
+                ],
+                [
+                  148.171731,
+                  -20.044508
+                ],
+                [
+                  148.158745,
+                  -20.036189
+                ],
+                [
+                  148.158004,
+                  -20.036497
+                ],
+                [
+                  148.156744,
+                  -20.044553
+                ],
+                [
+                  148.156988,
+                  -20.045016
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7005",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews working on-site",
+        "START": "2:39PM 03 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CHAMPION ST, EAST EURI RD, HERMANS RD, PETER DELAMOTHE RD, PRING RAIL STATION",
+        "SUBURBS": "BOWEN, MERINDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -475,8 +544,8 @@
           {
             "type": "Point",
             "coordinates": [
-              152.655818,
-              -25.624539
+              146.792855,
+              -25.870209
             ]
           },
           {
@@ -484,40 +553,64 @@
             "coordinates": [
               [
                 [
-                  152.654546,
-                  -25.625988
+                  146.616532,
+                  -25.981429
                 ],
                 [
-                  152.655289,
-                  -25.626067
+                  146.622585,
+                  -26.124022
                 ],
                 [
-                  152.655737,
-                  -25.625897
+                  146.622865,
+                  -26.124411
                 ],
                 [
-                  152.657603,
-                  -25.623738
+                  146.799202,
+                  -26.202154
                 ],
                 [
-                  152.657208,
-                  -25.623011
+                  146.799902,
+                  -26.201875
                 ],
                 [
-                  152.654524,
-                  -25.623036
+                  146.969179,
+                  -25.676779
                 ],
                 [
-                  152.654033,
-                  -25.623501
+                  146.969081,
+                  -25.676361
                 ],
                 [
-                  152.654108,
-                  -25.625556
+                  146.873161,
+                  -25.573705
                 ],
                 [
-                  152.654546,
-                  -25.625988
+                  146.87294,
+                  -25.573569
+                ],
+                [
+                  146.757312,
+                  -25.538264
+                ],
+                [
+                  146.756696,
+                  -25.538513
+                ],
+                [
+                  146.617628,
+                  -25.831083
+                ],
+                [
+                  146.617587,
+                  -25.831259
+                ],
+                [
+                  146.616532,
+                  -25.981409
+                ],
+                [
+                  146.616532,
+                  -25.981429
                 ]
               ]
             ]
@@ -525,19 +618,19 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "24WB4608",
+        "EVENT_ID": "24SW7158",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "7",
+        "CUSTOMERS_AFFECTED": "39",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
-        "START": "3:56PM 03 Apr 2024",
+        "STATUS": "Outage reported",
+        "START": "5:11PM 03 Apr 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "PHILIP DR",
-        "SUBURBS": "TEDDINGTON"
+        "STREETS": "ALLANDALE RD, BARNGO RD, BOYDS HWY, BURENDA RD, CHARLEVILLE RD, GUNDARE RD, KHYBER RD, LANDSBOROUGH HWY, WATERFORD RD, WELLWATER RD",
+        "SUBURBS": "AUGATHELLA, CHARLEVILLE, MORVEN"
       }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712129101.665372"
+  "extracted": "1712129404.723387"
 }
