@@ -280,6 +280,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          149.170241,
+          -21.097701
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2817",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "79",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 04 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 04 Apr 2024",
+        "STREETS": "AVOCADO CT, AZALEA CT, CASSIA ST, ILLAWARA CT, KURRAJONG CT, MANSFIELD DR, WARATAH ST",
+        "SUBURBS": "BEACONSFIELD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.365808,
           -22.166016
         ]
@@ -761,5 +782,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712184001.878601"
+  "extracted": "1712184302.556985"
 }
