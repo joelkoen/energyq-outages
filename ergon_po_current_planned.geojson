@@ -343,6 +343,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          149.168307,
+          -21.150459
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2967",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "10:56AM 03 Apr 2024",
+        "EST_FIX_TIME": "12:30PM 03 Apr 2024",
+        "STREETS": "LLOYD ST",
+        "SUBURBS": "WEST MACKAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           149.165375,
           -21.151106
         ]
@@ -824,5 +845,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712105700.457705"
+  "extracted": "1712106002.528316"
 }
