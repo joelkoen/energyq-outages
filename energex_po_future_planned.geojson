@@ -583,7 +583,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "60",
         "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
+        "STATUS": "Completed",
         "START": "8:00AM 03 Apr 2024",
         "EST_FIX_TIME": "4:00PM 03 Apr 2024",
         "STREETS": "GANNON AVE, WHITES RD",
@@ -1172,8 +1172,8 @@
         "CUSTOMERS_AFFECTED": "4",
         "REASON": "Planned Maintenance",
         "STATUS": "Scheduled",
-        "START": "5:00AM 05 Apr 2024",
-        "EST_FIX_TIME": "9:00AM 05 Apr 2024",
+        "START": "5:00PM 05 Apr 2024",
+        "EST_FIX_TIME": "6:30PM 05 Apr 2024",
         "STREETS": "CORYMBIA PL",
         "SUBURBS": "PARKINSON"
       }
@@ -1193,8 +1193,8 @@
         "CUSTOMERS_AFFECTED": "4",
         "REASON": "Planned Maintenance",
         "STATUS": "Scheduled",
-        "START": "5:00PM 05 Apr 2024",
-        "EST_FIX_TIME": "6:30PM 05 Apr 2024",
+        "START": "5:00AM 05 Apr 2024",
+        "EST_FIX_TIME": "9:00AM 05 Apr 2024",
         "STREETS": "CORYMBIA PL",
         "SUBURBS": "PARKINSON"
       }
@@ -1255,7 +1255,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "18",
         "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
+        "STATUS": "Completed",
         "START": "8:00AM 03 Apr 2024",
         "EST_FIX_TIME": "3:00PM 03 Apr 2024",
         "STREETS": "GREENE ST, WILSTON RD",
@@ -1549,9 +1549,9 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "107",
         "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
+        "STATUS": "Restoration Delayed",
         "START": "8:00AM 03 Apr 2024",
-        "EST_FIX_TIME": "3:30PM 03 Apr 2024",
+        "EST_FIX_TIME": "4:30PM 03 Apr 2024",
         "STREETS": "ARTHUR PORTAS DR, DIPPER RD, ENTERPRISE RD, GARDNER RD, HOOD RD, LANGLEY RD, LAUREL RD, MACPHERSON RD, MEREDITH RD, NORTH DEEP CREEK RD, OLD GOOMBOORIAN RD, PHILLIPS RD, SANDY CREEK RD, WATTLE LANE",
         "SUBURBS": "GYMPIE, NORTH DEEP CREEK, ROSS CREEK, VETERAN"
       }
@@ -2191,27 +2191,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.413605,
-          -27.982004
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-748727-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "57",
-        "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
-        "START": "8:00AM 03 Apr 2024",
-        "EST_FIX_TIME": "4:00PM 03 Apr 2024",
-        "STREETS": "CHARLTON ST, GREER TCE, WINCHESTER ST",
-        "SUBURBS": "SOUTHPORT"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           152.950507,
           -27.108826
         ]
@@ -2284,7 +2263,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "42",
         "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
+        "STATUS": "Completed",
         "START": "8:00AM 03 Apr 2024",
         "EST_FIX_TIME": "4:00PM 03 Apr 2024",
         "STREETS": "CHARLTON ST, GREER TCE, WINCHESTER ST",
@@ -2641,9 +2620,9 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "25",
         "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
+        "STATUS": "Restoration Delayed",
         "START": "7:30AM 03 Apr 2024",
-        "EST_FIX_TIME": "3:30PM 03 Apr 2024",
+        "EST_FIX_TIME": "4:30PM 03 Apr 2024",
         "STREETS": "KNAPP CREEK RD",
         "SUBURBS": "KNAPP CREEK"
       }
@@ -2861,5 +2840,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1712121304.441139"
+  "extracted": "1712121601.235141"
 }
