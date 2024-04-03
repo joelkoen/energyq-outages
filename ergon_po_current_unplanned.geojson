@@ -302,6 +302,99 @@
           {
             "type": "Point",
             "coordinates": [
+              151.830582,
+              -26.913076
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.775579,
+                  -26.886962
+                ],
+                [
+                  151.778567,
+                  -26.895389
+                ],
+                [
+                  151.778673,
+                  -26.895555
+                ],
+                [
+                  151.829852,
+                  -26.946337
+                ],
+                [
+                  151.830572,
+                  -26.946361
+                ],
+                [
+                  151.877896,
+                  -26.905861
+                ],
+                [
+                  151.878025,
+                  -26.90568
+                ],
+                [
+                  151.885585,
+                  -26.885594
+                ],
+                [
+                  151.885139,
+                  -26.885001
+                ],
+                [
+                  151.78772,
+                  -26.879791
+                ],
+                [
+                  151.787501,
+                  -26.879823
+                ],
+                [
+                  151.784018,
+                  -26.88109
+                ],
+                [
+                  151.783911,
+                  -26.881143
+                ],
+                [
+                  151.775762,
+                  -26.886462
+                ],
+                [
+                  151.775579,
+                  -26.886962
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4610",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "41",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:55AM 04 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 04 Apr 2024",
+        "STREETS": "COOYAR RD, HOBDELLS RD, HUNTERS RD, KINGAROY COOYAR RD, MIDDLE CREEK COOYAR RD, NEW ENGLAND HWY, PALMS RD, SOLDIERS SETTLEMENT RD",
+        "SUBURBS": "COOYAR, MAIDENWELL, UPPER YARRAMAN, YARRAMAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.664697,
               -25.807974
             ]
@@ -398,5 +491,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712184601.300815"
+  "extracted": "1712184901.593154"
 }
