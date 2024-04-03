@@ -217,6 +217,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          149.165375,
+          -21.151106
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2969",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "1:09PM 03 Apr 2024",
+        "EST_FIX_TIME": "3:00PM 03 Apr 2024",
+        "STREETS": "MILNE LANE",
+        "SUBURBS": "WEST MACKAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           147.229419,
           -19.725945
         ]
@@ -551,5 +572,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712113800.520752"
+  "extracted": "1712114101.279806"
 }
