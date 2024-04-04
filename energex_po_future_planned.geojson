@@ -941,8 +941,8 @@
         "CUSTOMERS_AFFECTED": "4",
         "REASON": "Planned Maintenance",
         "STATUS": "Scheduled",
-        "START": "5:00AM 05 Apr 2024",
-        "EST_FIX_TIME": "9:00AM 05 Apr 2024",
+        "START": "5:00PM 05 Apr 2024",
+        "EST_FIX_TIME": "6:30PM 05 Apr 2024",
         "STREETS": "CORYMBIA PL",
         "SUBURBS": "PARKINSON"
       }
@@ -962,8 +962,8 @@
         "CUSTOMERS_AFFECTED": "4",
         "REASON": "Planned Maintenance",
         "STATUS": "Scheduled",
-        "START": "5:00PM 05 Apr 2024",
-        "EST_FIX_TIME": "6:30PM 05 Apr 2024",
+        "START": "5:00AM 05 Apr 2024",
+        "EST_FIX_TIME": "9:00AM 05 Apr 2024",
         "STREETS": "CORYMBIA PL",
         "SUBURBS": "PARKINSON"
       }
@@ -2065,48 +2065,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.401753,
-          -27.660158
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-749026-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "8",
-        "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
-        "START": "8:00AM 04 Apr 2024",
-        "EST_FIX_TIME": "3:00PM 04 Apr 2024",
-        "STREETS": "BEAMES DR",
-        "SUBURBS": "LAIDLEY SOUTH"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.401588,
-          -27.657461
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-749027-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "9",
-        "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
-        "START": "8:00AM 04 Apr 2024",
-        "EST_FIX_TIME": "3:00PM 04 Apr 2024",
-        "STREETS": "BEAMES DR, MILNE ST",
-        "SUBURBS": "LAIDLEY, LAIDLEY SOUTH"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.144082,
           -26.799057
         ]
@@ -2630,5 +2588,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1712210101.827734"
+  "extracted": "1712210406.018106"
 }
