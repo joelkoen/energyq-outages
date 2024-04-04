@@ -185,7 +185,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "344",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "2:56PM 04 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "ABEDNEGO CL, APLIN RD, AUBREY PDE, CHESTER ST, CLARK ST, COOK ESP, DAVID ST, DOUGLAS ST, ERUB CT, GREEN HILL, IDAGI CL, JARDINE ST, MOA LANE, NAZEER ST, OLANDI ST, PEARL ST, PILOT ST, PORUMA ST, QUETTA CL, QUETTA LANE, SAILA TCE, STEPHEN ST, VICTORIA PDE",
@@ -321,82 +321,9 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              152.646097,
-              -25.507851
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.643757,
-                  -25.508296
-                ],
-                [
-                  152.648348,
-                  -25.508836
-                ],
-                [
-                  152.648851,
-                  -25.508181
-                ],
-                [
-                  152.648232,
-                  -25.507108
-                ],
-                [
-                  152.647758,
-                  -25.506867
-                ],
-                [
-                  152.64423,
-                  -25.507092
-                ],
-                [
-                  152.643963,
-                  -25.507184
-                ],
-                [
-                  152.643519,
-                  -25.507493
-                ],
-                [
-                  152.643342,
-                  -25.507967
-                ],
-                [
-                  152.643757,
-                  -25.508296
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB4625",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "5",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews working on-site",
-        "START": "1:11PM 04 Apr 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "BARLOW ST, MURDOCH ST",
-        "SUBURBS": "OAKHURST"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712208301.274936"
+  "extracted": "1712208605.554861"
 }
