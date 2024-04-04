@@ -102,9 +102,110 @@
         "STREETS": "BANKSIA RD, BOY-ULL RD, CANYON PDE, EE-JUNG RD, SPRINGBROOK RD",
         "SUBURBS": "SPRINGBROOK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.505939,
+              -26.943884
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.463635,
+                  -26.942469
+                ],
+                [
+                  152.506799,
+                  -26.953714
+                ],
+                [
+                  152.506921,
+                  -26.953731
+                ],
+                [
+                  152.512626,
+                  -26.953916
+                ],
+                [
+                  152.512799,
+                  -26.953895
+                ],
+                [
+                  152.548367,
+                  -26.943618
+                ],
+                [
+                  152.5486,
+                  -26.942901
+                ],
+                [
+                  152.547286,
+                  -26.941479
+                ],
+                [
+                  152.547187,
+                  -26.941397
+                ],
+                [
+                  152.543066,
+                  -26.938815
+                ],
+                [
+                  152.542819,
+                  -26.938735
+                ],
+                [
+                  152.490214,
+                  -26.934813
+                ],
+                [
+                  152.490194,
+                  -26.934811
+                ],
+                [
+                  152.465267,
+                  -26.933852
+                ],
+                [
+                  152.464749,
+                  -26.934228
+                ],
+                [
+                  152.463279,
+                  -26.94196
+                ],
+                [
+                  152.463635,
+                  -26.942469
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-752686-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "171",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "7:26AM 05 Apr 2024",
+        "EST_FIX_TIME": "10:00AM 05 Apr 2024",
+        "STREETS": "D'AGUILAR HWY, FUNKNERS LANE, HEDLEY DR, HUGHES RD, INDUSTRIAL AVE, MIRIAM CT, OVERLANDER AVE, PIONEER CT, SETTLERS RISE, SHOWGROUND RD",
+        "SUBURBS": "HARLIN, WOOLMAR"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712265901.854937"
+  "extracted": "1712266205.873336"
 }
