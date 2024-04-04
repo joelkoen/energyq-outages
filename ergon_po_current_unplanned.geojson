@@ -293,9 +293,82 @@
         "STREETS": "ELLIOTT HEADS RD, RAINES RD",
         "SUBURBS": "ELLIOTT HEADS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.646097,
+              -25.507851
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.643757,
+                  -25.508296
+                ],
+                [
+                  152.648348,
+                  -25.508836
+                ],
+                [
+                  152.648851,
+                  -25.508181
+                ],
+                [
+                  152.648232,
+                  -25.507108
+                ],
+                [
+                  152.647758,
+                  -25.506867
+                ],
+                [
+                  152.64423,
+                  -25.507092
+                ],
+                [
+                  152.643963,
+                  -25.507184
+                ],
+                [
+                  152.643519,
+                  -25.507493
+                ],
+                [
+                  152.643342,
+                  -25.507967
+                ],
+                [
+                  152.643757,
+                  -25.508296
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4625",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "1:11PM 04 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BARLOW ST, MURDOCH ST",
+        "SUBURBS": "OAKHURST"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712204104.452493"
+  "extracted": "1712204400.438662"
 }
