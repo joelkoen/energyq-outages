@@ -328,9 +328,82 @@
         "STREETS": "BANDICOOT LANE, BANKSIA RD, BILBOROUGH CT, BOY-ULL RD, CANYON PDE, CARRICKS RD, EE-JUNG RD, FORESTRY RD, GWONGORELLA PDE, KURALBOO ST, LLOYDS RD, LYREBIRD RIDGE RD, MIMOSA RD, MUNDORA RD, OLD SCHOOL RD, REPEATER STATION RD, SPRINGBROOK RD, VELVET DOWNS RD, WATTLE GR",
         "SUBURBS": "CURRUMBIN VALLEY, SPRINGBROOK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.986782,
+              -26.763916
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.984324,
+                  -26.766054
+                ],
+                [
+                  152.984383,
+                  -26.766476
+                ],
+                [
+                  152.984969,
+                  -26.766865
+                ],
+                [
+                  152.987857,
+                  -26.766408
+                ],
+                [
+                  152.988264,
+                  -26.766048
+                ],
+                [
+                  152.989241,
+                  -26.761465
+                ],
+                [
+                  152.988952,
+                  -26.760968
+                ],
+                [
+                  152.988347,
+                  -26.761106
+                ],
+                [
+                  152.984423,
+                  -26.765725
+                ],
+                [
+                  152.984324,
+                  -26.766054
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-752563-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "29",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "1:13PM 04 Apr 2024",
+        "EST_FIX_TIME": "3:30PM 04 Apr 2024",
+        "STREETS": "COACH HOUSE PL, KINGSTON CT, OLD GYMPIE RD",
+        "SUBURBS": "MOOLOOLAH VALLEY"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712200201.676172"
+  "extracted": "1712200504.293897"
 }
