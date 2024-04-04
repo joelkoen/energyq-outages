@@ -10,83 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              143.693739,
-              -22.661331
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  143.64606,
-                  -22.574997
-                ],
-                [
-                  143.649104,
-                  -22.747676
-                ],
-                [
-                  143.649645,
-                  -22.748117
-                ],
-                [
-                  143.741003,
-                  -22.738487
-                ],
-                [
-                  143.741418,
-                  -22.737921
-                ],
-                [
-                  143.73103,
-                  -22.702221
-                ],
-                [
-                  143.730994,
-                  -22.702134
-                ],
-                [
-                  143.662754,
-                  -22.577286
-                ],
-                [
-                  143.662402,
-                  -22.577046
-                ],
-                [
-                  143.646627,
-                  -22.574545
-                ],
-                [
-                  143.64606,
-                  -22.574997
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA5279",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "7",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "9:00AM 05 Apr 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "BUDE RD, LANDSBOROUGH HWY, MORELLA-MUTTABURRA RD",
-        "SUBURBS": "LONGREACH, MORELLA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               147.743469,
               -22.813383
             ]
@@ -302,6 +225,91 @@
           {
             "type": "Point",
             "coordinates": [
+              145.911716,
+              -17.349768
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.910186,
+                  -17.348976
+                ],
+                [
+                  145.910535,
+                  -17.350729
+                ],
+                [
+                  145.911041,
+                  -17.351094
+                ],
+                [
+                  145.912496,
+                  -17.350962
+                ],
+                [
+                  145.912714,
+                  -17.350887
+                ],
+                [
+                  145.913098,
+                  -17.350638
+                ],
+                [
+                  145.913247,
+                  -17.350045
+                ],
+                [
+                  145.912585,
+                  -17.348898
+                ],
+                [
+                  145.912348,
+                  -17.348697
+                ],
+                [
+                  145.912026,
+                  -17.348574
+                ],
+                [
+                  145.911892,
+                  -17.348543
+                ],
+                [
+                  145.91069,
+                  -17.348441
+                ],
+                [
+                  145.910186,
+                  -17.348976
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4656",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "38",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews working on-site",
+        "START": "10:44AM 28 Mar 2024",
+        "EST_FIX_TIME": "2:38PM 28 Mar 2024",
+        "STREETS": "HARWOOD DR, POLLARD RD, TOM CARR CL",
+        "SUBURBS": "BABINDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -504,5 +512,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712273101.214481"
+  "extracted": "1712273408.213284"
 }
