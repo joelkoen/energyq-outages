@@ -208,9 +208,110 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.876976,
+              -25.675681
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.875163,
+                  -25.674936
+                ],
+                [
+                  152.876149,
+                  -25.676807
+                ],
+                [
+                  152.876574,
+                  -25.677062
+                ],
+                [
+                  152.877559,
+                  -25.677104
+                ],
+                [
+                  152.878023,
+                  -25.67686
+                ],
+                [
+                  152.878779,
+                  -25.67553
+                ],
+                [
+                  152.878788,
+                  -25.675136
+                ],
+                [
+                  152.878648,
+                  -25.674862
+                ],
+                [
+                  152.878444,
+                  -25.674659
+                ],
+                [
+                  152.877888,
+                  -25.674372
+                ],
+                [
+                  152.877677,
+                  -25.674315
+                ],
+                [
+                  152.87683,
+                  -25.67426
+                ],
+                [
+                  152.876796,
+                  -25.674258
+                ],
+                [
+                  152.876263,
+                  -25.674257
+                ],
+                [
+                  152.876233,
+                  -25.674258
+                ],
+                [
+                  152.875582,
+                  -25.674293
+                ],
+                [
+                  152.875163,
+                  -25.674936
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4637",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "25",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews working on-site",
+        "START": "4:57AM 05 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ESPLANADE, LYNETTE ST, MILZEWSKI ST, SHAW ST, WILKINSON RD",
+        "SUBURBS": "BIG TUAN, TUAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712260804.614696"
+  "extracted": "1712261101.06196"
 }
