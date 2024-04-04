@@ -87,6 +87,67 @@
           {
             "type": "Point",
             "coordinates": [
+              147.761205,
+              -22.882629
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.760987,
+                  -22.882153
+                ],
+                [
+                  147.760654,
+                  -22.88255
+                ],
+                [
+                  147.76074,
+                  -22.883184
+                ],
+                [
+                  147.761424,
+                  -22.883104
+                ],
+                [
+                  147.761757,
+                  -22.882707
+                ],
+                [
+                  147.761671,
+                  -22.882074
+                ],
+                [
+                  147.760987,
+                  -22.882153
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5282",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "7:56AM 05 Apr 2024",
+        "EST_FIX_TIME": "12:00PM 05 Apr 2024",
+        "STREETS": "GREGORY HWY, MAGENTA RD",
+        "SUBURBS": "CAPELLA, CLERMONT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -289,5 +350,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712267701.179764"
+  "extracted": "1712268003.229601"
 }
