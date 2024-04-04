@@ -562,9 +562,94 @@
         "STREETS": "AIRACOBRA CT, AMBER CT, BAADES RD, BARRAMUNDI DR, BEACH DR, BENTWOOD CRES, BILSBOROUGH RD, BIRCHWOOD CT, BIRDSNEST DR, BLUE GUM DR, BORONIA ST, BRYAN CT, BRYPAT CL, BULLEEN WAY, BURGESS RD, BURRUM HEADS RD, BURRUM RIVER RD, BURRUM ST, BUSHNELL RD, CAROLINE CT, CASSIA ST, CHARLES AVE, CHEELLII CT, CHERWELL CRES, COCKLE CT, COLMAN CRES, CONDAMINE RD, CORAL AVE, COTTRELL ST, COWRIE CT, DAWSON CT, DREAMTIME AVE, DROUIN CRES, DUDLEY ST, EDS PL, ELBOZ CT, ESPLANADE, FATHOM CT, FLAME TREE DR, FULMAR CT, GILLIES RD, GINA CT, GLENRAY ST, GREGORY ST, HAMILTON RD, HARLEQUIN CT, HERVEY BAY-BURRUM HEADS RD, HOFFMAN ST, HONEY MYRTLE CL, HOWARD ST, ISLAND CL, JACQUELINE DR, JARRAH CT, JUBATA CT, KEENS RD, KEITH ST, KIMBERLY WAY, KRISTA CT, LAKES BVD, LAKESIDE DR, LILLY PILLY DR, LORIKEET DR, LOUISE DR, LUCAS DR, MAJESTIC CT, MARINA DR, MARTINDALE RD, MICHAEL WAY, MILLER CRES, MUSTANG WAY, NIRA CT, NOEME ST, OAKES DR, ORCHID DR, PACIFIC HAVEN CCT, PACIFIC HAVEN DR, PAVILION CT, PIALBA BURRUM HEADS RD, PILBARA WAY, RAINTREE AVE, RANCH PARK DR, RANKIN ST, RICHARDS RD, RIVERVIEW DR, ROSEBAY RD, ROSS ST, ROSSLYN DR, SANDCASTLES CCT, SEASHELLS CT, SHEPHERDS RD, SIMPSON ST, SIRENIA DR, SMITH RD, SOUTH HEATH RD, SOUTHFORK CCT, SPITFIRE CT, SUNRISE CRES, TAMARIND CL, TANAMI CL, THE YACHTSMANS DR, TOOGOOM-HERVEY BAY RD, TORBANLEA ST, TRAVIS RD, TRAVISTON WAY, TULIPWOOD DR, VOLUTE WAY, VOYAGE CT, WARRINGAL CT, WIELAND RD, WILLIAM ST, WINDFLOWER RD, WREN WAY",
         "SUBURBS": "BURRUM, BURRUM HEADS, BURRUM RIVER, DUNDOWRAN, HOWARD, PACIFIC HAVEN, URANGAN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.148277,
+              -26.837453
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.14503,
+                  -26.837584
+                ],
+                [
+                  152.150791,
+                  -26.839221
+                ],
+                [
+                  152.151435,
+                  -26.838876
+                ],
+                [
+                  152.151735,
+                  -26.837462
+                ],
+                [
+                  152.151539,
+                  -26.837015
+                ],
+                [
+                  152.150638,
+                  -26.836424
+                ],
+                [
+                  152.150601,
+                  -26.836401
+                ],
+                [
+                  152.149387,
+                  -26.835746
+                ],
+                [
+                  152.149064,
+                  -26.835685
+                ],
+                [
+                  152.145808,
+                  -26.836061
+                ],
+                [
+                  152.14551,
+                  -26.836196
+                ],
+                [
+                  152.144819,
+                  -26.836844
+                ],
+                [
+                  152.14503,
+                  -26.837584
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4633",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:17PM 04 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "HARDGRAVE RD",
+        "SUBURBS": "BENARKIN NORTH"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712226301.380699"
+  "extracted": "1712226605.124112"
 }
