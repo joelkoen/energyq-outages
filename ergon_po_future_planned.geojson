@@ -144,7 +144,7 @@
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Crews working on-site",
         "START": "8:30AM 04 Apr 2024",
-        "EST_FIX_TIME": "2:30PM 04 Apr 2024",
+        "EST_FIX_TIME": "3:30PM 04 Apr 2024",
         "STREETS": "ASTON RD, BEAN FARM RD, BILLS RD, BRUCE HWY, KRAATZ RD, MARMOR RD, MUNRO LANE, OFF BRUCE HWY, OFFORD RD, OLD COACH RD, ROGERS LANE, ROGERS ST, SAN JOSE RD, SHIELDS RD, SISALANA RD, TOONDA RD, TWELVE MILE RD, TYNAN ST, WESTACOTT ST",
         "SUBURBS": "BAJOOL, MARMOR"
       }
@@ -690,7 +690,7 @@
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
         "START": "8:51AM 04 Apr 2024",
-        "EST_FIX_TIME": "2:30PM 04 Apr 2024",
+        "EST_FIX_TIME": "3:30PM 04 Apr 2024",
         "STREETS": "GIBSON RD, INNISFAIL JAPOON RD, MEAUNBAH RD, MEUANBAH RD, POLICH RD",
         "SUBURBS": "BOMBEETA, MENA CREEK"
       }
@@ -1173,7 +1173,7 @@
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Crews working on-site",
         "START": "9:11AM 04 Apr 2024",
-        "EST_FIX_TIME": "2:30PM 04 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 04 Apr 2024",
         "STREETS": "AVOCADO CT, AZALEA CT, CASSIA ST, ILLAWARA CT, KURRAJONG CT, MANSFIELD DR, WARATAH ST",
         "SUBURBS": "BEACONSFIELD"
       }
@@ -1197,6 +1197,27 @@
         "EST_FIX_TIME": "3:00PM 05 Apr 2024",
         "STREETS": "ARCHER DR, BENNETT CT, BURKE DR, FRASER ST, LAWRENCE ST, LAWSON DR, LESLIE DR, MILLS AVE, MORANBAH ACCESS RD, OXLEY DR, REEF DR, TALLON ST",
         "SUBURBS": "MORANBAH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.050142,
+          -21.167059
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2887",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "233",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "2:00PM 04 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 04 Apr 2024",
+        "STREETS": "CAMERONS RD, CHRIS CT, GERARD CT, GRACIE CT, GREENMOUNT RD, JAMES MUSCAT DR, JOSTINE ST, MELISSA CRES, PAULINE ST, PEAK DOWNS HWY, STEVIC ST, WAYNE ST",
+        "SUBURBS": "GREENMOUNT, WALKERSTON"
       }
     },
     {
@@ -1656,7 +1677,7 @@
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
         "START": "8:30AM 04 Apr 2024",
-        "EST_FIX_TIME": "2:30PM 04 Apr 2024",
+        "EST_FIX_TIME": "3:30PM 04 Apr 2024",
         "STREETS": "EDWARD RD, ELLIOTT RD, KATHERINE RD, SANCTUARY RD, SHARPS RD, TONNER RD",
         "SUBURBS": "HERVEY RANGE"
       }
@@ -2317,27 +2338,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.92961,
-          -26.227809
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB3859",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:30AM 04 Apr 2024",
-        "EST_FIX_TIME": "3:00PM 04 Apr 2024",
-        "STREETS": "GESSLERS RD",
-        "SUBURBS": "MURGON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           151.83104,
           -26.048068
         ]
@@ -2609,5 +2609,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1712205003.476909"
+  "extracted": "1712205600.459839"
 }
