@@ -87,8 +87,8 @@
           {
             "type": "Point",
             "coordinates": [
-              147.761205,
-              -22.882629
+              147.743469,
+              -22.813383
             ]
           },
           {
@@ -96,32 +96,32 @@
             "coordinates": [
               [
                 [
-                  147.760987,
-                  -22.882153
+                  147.744523,
+                  -22.812371
                 ],
                 [
-                  147.760654,
-                  -22.88255
+                  147.741969,
+                  -22.813593
                 ],
                 [
-                  147.76074,
-                  -22.883184
+                  147.741759,
+                  -22.814201
                 ],
                 [
-                  147.761424,
-                  -22.883104
+                  147.742416,
+                  -22.814395
                 ],
                 [
-                  147.761757,
-                  -22.882707
+                  147.74497,
+                  -22.813173
                 ],
                 [
-                  147.761671,
-                  -22.882074
+                  147.745179,
+                  -22.812565
                 ],
                 [
-                  147.760987,
-                  -22.882153
+                  147.744523,
+                  -22.812371
                 ]
               ]
             ]
@@ -129,15 +129,92 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "24CA5282",
+        "EVENT_ID": "24CA5288",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
         "STATUS": "Crews working on-site",
         "START": "7:56AM 05 Apr 2024",
-        "EST_FIX_TIME": "12:00PM 05 Apr 2024",
-        "STREETS": "GREGORY HWY, MAGENTA RD",
-        "SUBURBS": "CAPELLA, CLERMONT"
+        "EST_FIX_TIME": "11:15AM 05 Apr 2024",
+        "STREETS": "HUNTLEY RD",
+        "SUBURBS": "CLERMONT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.752525,
+              -17.980056
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.723398,
+                  -17.969734
+                ],
+                [
+                  145.729162,
+                  -18.009458
+                ],
+                [
+                  145.729517,
+                  -18.009835
+                ],
+                [
+                  145.735639,
+                  -18.011267
+                ],
+                [
+                  145.736119,
+                  -18.011112
+                ],
+                [
+                  145.781652,
+                  -17.957231
+                ],
+                [
+                  145.781395,
+                  -17.956508
+                ],
+                [
+                  145.748189,
+                  -17.948845
+                ],
+                [
+                  145.747767,
+                  -17.948945
+                ],
+                [
+                  145.723554,
+                  -17.969333
+                ],
+                [
+                  145.723398,
+                  -17.969734
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3939",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "32",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
+        "STATUS": "Crews working on-site",
+        "START": "4:22AM 10 Mar 2024",
+        "EST_FIX_TIME": "12:00PM 12 Apr 2024",
+        "STREETS": "DAVIDSON RD, RANCH RD, SOUTH DAVIDSON RD",
+        "SUBURBS": "EURAMO, MUNRO PLAINS, RIVERSDALE, TULLY"
       }
     },
     {
@@ -350,5 +427,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712268600.384098"
+  "extracted": "1712268906.143288"
 }
