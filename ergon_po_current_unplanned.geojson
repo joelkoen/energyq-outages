@@ -434,9 +434,102 @@
         "STREETS": "COOYAR RD, HOBDELLS RD, HUNTERS RD, KINGAROY COOYAR RD, MIDDLE CREEK COOYAR RD, NEW ENGLAND HWY, PALMS RD, SOLDIERS SETTLEMENT RD",
         "SUBURBS": "COOYAR, MAIDENWELL, UPPER YARRAMAN, YARRAMAN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.013916,
+              -26.163971
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.988055,
+                  -26.159152
+                ],
+                [
+                  152.004266,
+                  -26.17099
+                ],
+                [
+                  152.004594,
+                  -26.17109
+                ],
+                [
+                  152.03948,
+                  -26.170188
+                ],
+                [
+                  152.03994,
+                  -26.169875
+                ],
+                [
+                  152.039767,
+                  -26.169379
+                ],
+                [
+                  152.033143,
+                  -26.164842
+                ],
+                [
+                  152.033099,
+                  -26.164816
+                ],
+                [
+                  152.0313,
+                  -26.163832
+                ],
+                [
+                  152.031186,
+                  -26.163787
+                ],
+                [
+                  152.005865,
+                  -26.15687
+                ],
+                [
+                  152.005673,
+                  -26.156852
+                ],
+                [
+                  151.988321,
+                  -26.158355
+                ],
+                [
+                  151.987891,
+                  -26.158673
+                ],
+                [
+                  151.988055,
+                  -26.159152
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4615",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:15AM 04 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 04 Apr 2024",
+        "STREETS": "GOOMERI WEST RD, SILBURNS RD",
+        "SUBURBS": "GOOMERI"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712193304.389688"
+  "extracted": "1712193601.808427"
 }
