@@ -300,9 +300,110 @@
         "STREETS": "SHOWGROUNDS LANE",
         "SUBURBS": "ROSEWOOD"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.050276,
+              -27.003073
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.031615,
+                  -27.005397
+                ],
+                [
+                  153.032154,
+                  -27.010926
+                ],
+                [
+                  153.032469,
+                  -27.011306
+                ],
+                [
+                  153.044104,
+                  -27.015471
+                ],
+                [
+                  153.044427,
+                  -27.015487
+                ],
+                [
+                  153.054498,
+                  -27.012972
+                ],
+                [
+                  153.054512,
+                  -27.012968
+                ],
+                [
+                  153.068708,
+                  -27.00902
+                ],
+                [
+                  153.068938,
+                  -27.008292
+                ],
+                [
+                  153.051857,
+                  -26.990807
+                ],
+                [
+                  153.051395,
+                  -26.990659
+                ],
+                [
+                  153.036281,
+                  -26.992909
+                ],
+                [
+                  153.036209,
+                  -26.992924
+                ],
+                [
+                  153.034206,
+                  -26.993505
+                ],
+                [
+                  153.033865,
+                  -26.993856
+                ],
+                [
+                  153.03162,
+                  -27.00528
+                ],
+                [
+                  153.031615,
+                  -27.005397
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-752646-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "107",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:51PM 04 Apr 2024",
+        "EST_FIX_TIME": "9:00PM 04 Apr 2024",
+        "STREETS": "ANN ST, BEERBURRUM-DONNYBROOK RD, BURKE RD, CLINTON CT, DONNYBROOK RD, FISHERMAN DR, MAUD ST, QUINN RD N, STORR RD",
+        "SUBURBS": "DONNYBROOK"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712220601.686168"
+  "extracted": "1712220905.002355"
 }
