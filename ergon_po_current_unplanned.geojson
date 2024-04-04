@@ -10,6 +10,91 @@
           {
             "type": "Point",
             "coordinates": [
+              148.496735,
+              -23.569734
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.432194,
+                  -23.592133
+                ],
+                [
+                  148.437937,
+                  -23.59776
+                ],
+                [
+                  148.438177,
+                  -23.597889
+                ],
+                [
+                  148.52941,
+                  -23.618446
+                ],
+                [
+                  148.529917,
+                  -23.61828
+                ],
+                [
+                  148.545872,
+                  -23.598789
+                ],
+                [
+                  148.545957,
+                  -23.598625
+                ],
+                [
+                  148.561276,
+                  -23.541212
+                ],
+                [
+                  148.561038,
+                  -23.54071
+                ],
+                [
+                  148.522681,
+                  -23.521023
+                ],
+                [
+                  148.522126,
+                  -23.521073
+                ],
+                [
+                  148.432233,
+                  -23.591479
+                ],
+                [
+                  148.432194,
+                  -23.592133
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5270",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "30",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:12PM 04 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CAPRICORN HWY, CORIO ST, DUCKPONDS RD, LURLINE RD, OFF CAPRICORN HWY, RILEY'S CROSSING RD",
+        "SUBURBS": "COMET, YAMALA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -212,5 +297,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712218201.314494"
+  "extracted": "1712218504.491231"
 }
