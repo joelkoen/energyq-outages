@@ -378,9 +378,90 @@
         "STREETS": "COOLABAH RD, COOLIBAH ST, MILLER ST",
         "SUBURBS": "CHARLEVILLE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.965285,
+              -28.072722
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.960036,
+                  -28.071482
+                ],
+                [
+                  151.960988,
+                  -28.073773
+                ],
+                [
+                  151.961195,
+                  -28.073998
+                ],
+                [
+                  151.962064,
+                  -28.074482
+                ],
+                [
+                  151.96235,
+                  -28.07455
+                ],
+                [
+                  151.963504,
+                  -28.074518
+                ],
+                [
+                  151.963523,
+                  -28.074517
+                ],
+                [
+                  151.970064,
+                  -28.074115
+                ],
+                [
+                  151.970534,
+                  -28.073712
+                ],
+                [
+                  151.970164,
+                  -28.073233
+                ],
+                [
+                  151.960648,
+                  -28.070893
+                ],
+                [
+                  151.960036,
+                  -28.071482
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7300",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:48AM 06 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BARRON ST, GEORGE ST, GREGORY ST, WARWICK ALLORA RD",
+        "SUBURBS": "HENDON"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712350805.363719"
+  "extracted": "1712351101.181882"
 }
