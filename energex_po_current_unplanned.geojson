@@ -1,8 +1,150 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.096549,
+              -27.638152
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.09158,
+                  -27.642005
+                ],
+                [
+                  153.097621,
+                  -27.642159
+                ],
+                [
+                  153.097877,
+                  -27.642105
+                ],
+                [
+                  153.099248,
+                  -27.641444
+                ],
+                [
+                  153.09931,
+                  -27.641409
+                ],
+                [
+                  153.101366,
+                  -27.640046
+                ],
+                [
+                  153.101495,
+                  -27.63992
+                ],
+                [
+                  153.101908,
+                  -27.639323
+                ],
+                [
+                  153.10198,
+                  -27.639035
+                ],
+                [
+                  153.101758,
+                  -27.637301
+                ],
+                [
+                  153.101641,
+                  -27.637061
+                ],
+                [
+                  153.100539,
+                  -27.635896
+                ],
+                [
+                  153.100535,
+                  -27.635892
+                ],
+                [
+                  153.099532,
+                  -27.634858
+                ],
+                [
+                  153.099349,
+                  -27.634738
+                ],
+                [
+                  153.098461,
+                  -27.634396
+                ],
+                [
+                  153.098311,
+                  -27.634361
+                ],
+                [
+                  153.096092,
+                  -27.634158
+                ],
+                [
+                  153.096088,
+                  -27.634158
+                ],
+                [
+                  153.095933,
+                  -27.634145
+                ],
+                [
+                  153.09547,
+                  -27.634336
+                ],
+                [
+                  153.095376,
+                  -27.634455
+                ],
+                [
+                  153.095358,
+                  -27.63448
+                ],
+                [
+                  153.091817,
+                  -27.639698
+                ],
+                [
+                  153.091774,
+                  -27.639779
+                ],
+                [
+                  153.091117,
+                  -27.641401
+                ],
+                [
+                  153.09158,
+                  -27.642005
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-752895-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "515",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "4:20AM 06 Apr 2024",
+        "EST_FIX_TIME": "7:00AM 06 Apr 2024",
+        "STREETS": "ASH AVE, CASURINA AVE, CHARLES AVE, ELM AVE, GARDEN AVE, GARFIELD RD, MARY AVE, MULLER RD, OAKLAND AVE, OATES AVE, PINE DR, POPLAR AVE, PROGRESS AVE, RAILWAY PDE, STUBBS RD, THOMSON AVE",
+        "SUBURBS": "KARAWATHA, LOGAN CENTRAL, WOODRIDGE"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712341201.308547"
+  "extracted": "1712341501.563225"
 }
