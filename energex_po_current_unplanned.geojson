@@ -114,9 +114,118 @@
         "STREETS": "GARDEN AVE, PINE DR, STUBBS RD",
         "SUBURBS": "WOODRIDGE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.021836,
+              -27.583113
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.020147,
+                  -27.584142
+                ],
+                [
+                  153.020391,
+                  -27.584204
+                ],
+                [
+                  153.020392,
+                  -27.584204
+                ],
+                [
+                  153.021898,
+                  -27.584587
+                ],
+                [
+                  153.022178,
+                  -27.584586
+                ],
+                [
+                  153.023521,
+                  -27.584238
+                ],
+                [
+                  153.023884,
+                  -27.583767
+                ],
+                [
+                  153.023778,
+                  -27.582652
+                ],
+                [
+                  153.023478,
+                  -27.582277
+                ],
+                [
+                  153.02209,
+                  -27.58173
+                ],
+                [
+                  153.022063,
+                  -27.581721
+                ],
+                [
+                  153.02182,
+                  -27.581639
+                ],
+                [
+                  153.021297,
+                  -27.581731
+                ],
+                [
+                  153.020069,
+                  -27.582748
+                ],
+                [
+                  153.019916,
+                  -27.582995
+                ],
+                [
+                  153.019848,
+                  -27.583319
+                ],
+                [
+                  153.019846,
+                  -27.583326
+                ],
+                [
+                  153.019787,
+                  -27.583631
+                ],
+                [
+                  153.020147,
+                  -27.584142
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-752897-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "62",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:24AM 06 Apr 2024",
+        "EST_FIX_TIME": "8:30AM 06 Apr 2024",
+        "STREETS": "APLIN ST, HARDEN ST, MANNINGTON RD, SUSSEX RD, WARDGRAVE ST, WATSON RD, WHITTINGHAM ST",
+        "SUBURBS": "ACACIA RIDGE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712350504.968056"
+  "extracted": "1712350805.409732"
 }
