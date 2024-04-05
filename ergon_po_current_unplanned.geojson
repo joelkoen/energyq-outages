@@ -180,6 +180,75 @@
           {
             "type": "Point",
             "coordinates": [
+              142.390039,
+              -10.883426
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  142.388983,
+                  -10.883408
+                ],
+                [
+                  142.389051,
+                  -10.884367
+                ],
+                [
+                  142.389395,
+                  -10.884773
+                ],
+                [
+                  142.389892,
+                  -10.884575
+                ],
+                [
+                  142.391094,
+                  -10.882679
+                ],
+                [
+                  142.391016,
+                  -10.882108
+                ],
+                [
+                  142.390434,
+                  -10.882079
+                ],
+                [
+                  142.389165,
+                  -10.883016
+                ],
+                [
+                  142.388983,
+                  -10.883408
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4907",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "25",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "7:05PM 05 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "JACOB ST, MUDU ST",
+        "SUBURBS": "BAMAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -560,5 +629,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712360100.400009"
+  "extracted": "1712360400.414674"
 }
