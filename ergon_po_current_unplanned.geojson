@@ -156,6 +156,91 @@
           {
             "type": "Point",
             "coordinates": [
+              146.72317,
+              -19.322963
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.723174,
+                  -19.323581
+                ],
+                [
+                  146.723778,
+                  -19.323116
+                ],
+                [
+                  146.723889,
+                  -19.322536
+                ],
+                [
+                  146.723302,
+                  -19.322345
+                ],
+                [
+                  146.722969,
+                  -19.322471
+                ],
+                [
+                  146.722935,
+                  -19.322485
+                ],
+                [
+                  146.722825,
+                  -19.322536
+                ],
+                [
+                  146.722618,
+                  -19.322723
+                ],
+                [
+                  146.72256,
+                  -19.322823
+                ],
+                [
+                  146.722554,
+                  -19.322834
+                ],
+                [
+                  146.722451,
+                  -19.323023
+                ],
+                [
+                  146.722573,
+                  -19.323581
+                ],
+                [
+                  146.723174,
+                  -19.323581
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7081",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "66",
+        "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
+        "STATUS": "Outage reported",
+        "START": "12:11PM 05 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "GREGORY ST",
+        "SUBURBS": "CONDON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -212,5 +297,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712286005.742628"
+  "extracted": "1712286301.11009"
 }
