@@ -163,7 +163,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "59",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "10:30AM 05 Apr 2024",
         "EST_FIX_TIME": "12:30PM 05 Apr 2024",
         "STREETS": "FIFTH AVE, FOURTH AVE, MAHER ST, MAUNDS RD, PINK ST, SECOND AVE, WHITING ST",
@@ -206,7 +206,7 @@
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "9:00AM 05 Apr 2024",
+        "START": "9:18AM 05 Apr 2024",
         "EST_FIX_TIME": "12:00PM 05 Apr 2024",
         "STREETS": "HOPE VALE RD",
         "SUBURBS": "HOPE VALE"
@@ -259,6 +259,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.049825,
+          -22.004009
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2856",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "127",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 05 Apr 2024",
+        "EST_FIX_TIME": "3:00PM 05 Apr 2024",
+        "STREETS": "ARCHER DR, BENNETT CT, BURKE DR, FRASER ST, LAWRENCE ST, LAWSON DR, LESLIE DR, MILLS AVE, MORANBAH ACCESS RD, OXLEY DR, REEF DR, TALLON ST",
+        "SUBURBS": "MORANBAH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           149.150451,
           -21.201493
         ]
@@ -294,27 +315,6 @@
         "EST_FIX_TIME": "3:30PM 05 Apr 2024",
         "STREETS": "BOSEL RD, GEARY RD, MT ELLIOTT, SANDY CAMP RD, SMITH RD, WOODSTOCK GIRU RD, WOODSTOCK RD",
         "SUBURBS": "GIRU, MAJORS CREEK, SHIRBOURNE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          147.380977,
-          -19.695747
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ0942",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "36",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:31AM 05 Apr 2024",
-        "EST_FIX_TIME": "11:30AM 05 Apr 2024",
-        "STREETS": "BECKE RD, HURNEY RD, MENKENS RD",
-        "SUBURBS": "HOME HILL"
       }
     },
     {
@@ -530,5 +530,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712276104.56255"
+  "extracted": "1712276401.193432"
 }
