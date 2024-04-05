@@ -2821,6 +2821,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.752538,
+          -21.283911
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6358",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 06 Apr 2024",
+        "EST_FIX_TIME": "3:30PM 06 Apr 2024",
+        "STREETS": "ASHOVER STATION, BUSHY PARK STATION, DUCHESS RD, DUKE ST, FLYNN RAIL SDNG, MALBONVALE STATION, MAYFIELD STATION, RIFLE CREEK, RIFLE CREEK STATION, STANBROKE STATION, YAPPO CREEK",
+        "SUBURBS": "DUCHESS, MORNINGTON, MOUNT ISA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.510531,
+          -21.696759
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6360",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "70",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 06 Apr 2024",
+        "EST_FIX_TIME": "8:15AM 06 Apr 2024",
+        "STREETS": "ATNYER ST, BOULIA RD, CARMODY ST, DIAMANTINA DEVELOPMENTAL RD, DILLON ST, LETHAM ST, MARK ST, MATHESON ST, SPORTS PDE",
+        "SUBURBS": "ALPURRURULAM, DAJARRA, MOUNT ISA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.510531,
           -21.696759
         ]
@@ -4457,5 +4499,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1712354404.183006"
+  "extracted": "1712354701.477516"
 }
