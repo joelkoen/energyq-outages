@@ -189,7 +189,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "17",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "7:05AM 06 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "AHERN ST, SLEEMAN ST",
@@ -344,6 +344,155 @@
         "EST_FIX_TIME": null,
         "STREETS": "THISTLE RD",
         "SUBURBS": "EL ARISH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.616499,
+              -17.338147
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.596199,
+                  -17.353668
+                ],
+                [
+                  145.596553,
+                  -17.354673
+                ],
+                [
+                  145.596602,
+                  -17.354772
+                ],
+                [
+                  145.596788,
+                  -17.355051
+                ],
+                [
+                  145.597006,
+                  -17.355226
+                ],
+                [
+                  145.603709,
+                  -17.357856
+                ],
+                [
+                  145.603879,
+                  -17.357889
+                ],
+                [
+                  145.622912,
+                  -17.358197
+                ],
+                [
+                  145.623315,
+                  -17.357991
+                ],
+                [
+                  145.635302,
+                  -17.340212
+                ],
+                [
+                  145.635356,
+                  -17.340101
+                ],
+                [
+                  145.63678,
+                  -17.335732
+                ],
+                [
+                  145.6368,
+                  -17.335561
+                ],
+                [
+                  145.636581,
+                  -17.332948
+                ],
+                [
+                  145.636542,
+                  -17.332801
+                ],
+                [
+                  145.630377,
+                  -17.319445
+                ],
+                [
+                  145.630373,
+                  -17.319436
+                ],
+                [
+                  145.62989,
+                  -17.318451
+                ],
+                [
+                  145.629522,
+                  -17.318195
+                ],
+                [
+                  145.628717,
+                  -17.318098
+                ],
+                [
+                  145.628597,
+                  -17.318098
+                ],
+                [
+                  145.62534,
+                  -17.318513
+                ],
+                [
+                  145.625333,
+                  -17.318514
+                ],
+                [
+                  145.619814,
+                  -17.319297
+                ],
+                [
+                  145.619491,
+                  -17.319493
+                ],
+                [
+                  145.619231,
+                  -17.319867
+                ],
+                [
+                  145.61923,
+                  -17.319869
+                ],
+                [
+                  145.596252,
+                  -17.353274
+                ],
+                [
+                  145.596199,
+                  -17.353668
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4905",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "481",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:00AM 06 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALISA CL, AMBER CL, ANDERSON RD, ANGELITA CL, BARREEN RD, BARRINE RD, BURT RD, COX RD, CROFT RD, DAVIES RD, ECCLES RD, EMERSON RD, EMERSON ST, FIGTREE CL, FLOREY CT, GLASPY RD, JAMES ST, JESSICA RD, JULIE CL, KIDD CL, LAKE BARRINE RD, LAKE EACHAM RD, LILYBROOK LANE, LORENSEN CL, LYNCH ST, LYNNE RD, MALANDA RD, MATHERS RD, MELBA CL, MUNDEY RD, PATRICIA ST, PIONEER AVE, RIVERLEA CL, ROSEWOOD CL, SATIN ASH LANE, SOPHIES LANE, TANNER RD, WATCHMAN RD, WHITEING CL, WICKER LANE",
+        "SUBURBS": "MALANDA, PEERAMON"
       }
     },
     {
@@ -819,5 +968,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712354701.477516"
+  "extracted": "1712355001.13221"
 }
