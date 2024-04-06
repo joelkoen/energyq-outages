@@ -334,6 +334,83 @@
           {
             "type": "Point",
             "coordinates": [
+              145.521686,
+              -17.636536
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.515635,
+                  -17.633017
+                ],
+                [
+                  145.521359,
+                  -17.640517
+                ],
+                [
+                  145.521603,
+                  -17.640682
+                ],
+                [
+                  145.525379,
+                  -17.641781
+                ],
+                [
+                  145.525962,
+                  -17.641494
+                ],
+                [
+                  145.527737,
+                  -17.636487
+                ],
+                [
+                  145.527567,
+                  -17.635975
+                ],
+                [
+                  145.520893,
+                  -17.631365
+                ],
+                [
+                  145.520511,
+                  -17.631291
+                ],
+                [
+                  145.515909,
+                  -17.63231
+                ],
+                [
+                  145.515635,
+                  -17.633017
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4909",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "22",
+        "REASON": "The loss of supply is due to a pole fire.",
+        "STATUS": "Outage reported",
+        "START": "10:10AM 06 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "GOLD COAST RD, KAYS RD",
+        "SUBURBS": "RAVENSHOE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -536,5 +613,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712364601.288575"
+  "extracted": "1712364901.305855"
 }
