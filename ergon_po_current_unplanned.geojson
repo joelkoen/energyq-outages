@@ -238,7 +238,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "68",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "5:30AM 07 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "DEPOT RD, ESPLANADE, MAIN RD, SCHOOL RD, UNKNOWN ST",
@@ -376,7 +376,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "7",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "7:18AM 07 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "MOON CRES",
@@ -606,8 +606,8 @@
           {
             "type": "Point",
             "coordinates": [
-              151.369387,
-              -27.575497
+              151.376128,
+              -27.575543
             ]
           },
           {
@@ -615,12 +615,12 @@
             "coordinates": [
               [
                 [
-                  151.311998,
-                  -27.570172
+                  151.325482,
+                  -27.593091
                 ],
                 [
-                  151.337516,
-                  -27.619066
+                  151.337507,
+                  -27.619048
                 ],
                 [
                   151.337518,
@@ -663,24 +663,16 @@
                   -27.514169
                 ],
                 [
-                  151.390113,
-                  -27.514075
+                  151.38987,
+                  -27.514235
                 ],
                 [
-                  151.359838,
-                  -27.523376
+                  151.325541,
+                  -27.592653
                 ],
                 [
-                  151.35963,
-                  -27.523497
-                ],
-                [
-                  151.312084,
-                  -27.569677
-                ],
-                [
-                  151.311998,
-                  -27.570172
+                  151.325482,
+                  -27.593091
                 ]
               ]
             ]
@@ -690,12 +682,12 @@
       "properties": {
         "EVENT_ID": "24SW7320",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "87",
+        "CUSTOMERS_AFFECTED": "59",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Outage reported",
         "START": "4:23AM 07 Apr 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "BARLOWS RD, BOWENVILLE-NORWIN RD, BRANCH VIEW RD, BROOKSTEAD NORWIN RD, BROOKSTEAD-NANGWEE RD, BROOKSTEAD-NORWIN RD, CHAPMAN RD, CHAPMANS RD, CLAPHAM RD, NORWIN-BRANCHVIEW RD, OLES RD, PIPELINE RD, ROWLAND RD, TOOWOOMBA CECIL PLAINS RD, TOOWOOMBA-CECIL PLAINS RD, ZIESEMER KUMMEROW RD",
+        "STREETS": "BOWENVILLE-NORWIN RD, BRANCH VIEW RD, BROOKSTEAD NORWIN RD, BROOKSTEAD-NANGWEE RD, BROOKSTEAD-NORWIN RD, CHAPMAN RD, CHAPMANS RD, NORWIN-BRANCHVIEW RD, OLES RD, PIPELINE RD, TOOWOOMBA CECIL PLAINS RD, TOOWOOMBA-CECIL PLAINS RD, ZIESEMER KUMMEROW RD",
         "SUBURBS": "BONGEEN, BOWENVILLE, BRANCHVIEW, BROOKSTEAD, CECIL PLAINS, NORWIN"
       }
     },
@@ -936,5 +928,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712441401.624305"
+  "extracted": "1712442001.224499"
 }
