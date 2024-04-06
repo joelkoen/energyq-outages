@@ -110,13 +110,106 @@
         "REASON": "Under Investigation",
         "STATUS": "In Progress",
         "START": "6:42AM 07 Apr 2024",
-        "EST_FIX_TIME": "9:00AM 07 Apr 2024",
+        "EST_FIX_TIME": "5:00PM 07 Apr 2024",
         "STREETS": "AUSTINVILLE RD, DAINTREE CT, GOLD COAST-SPRINGBROOK RD, STAGHORN DR, TALLOWWOOD RD",
         "SUBURBS": "AUSTINVILLE, NERANWOOD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.954097,
+              -26.670371
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.950402,
+                  -26.669053
+                ],
+                [
+                  152.950928,
+                  -26.671609
+                ],
+                [
+                  152.951382,
+                  -26.671977
+                ],
+                [
+                  152.954682,
+                  -26.672212
+                ],
+                [
+                  152.954725,
+                  -26.672213
+                ],
+                [
+                  152.956058,
+                  -26.672205
+                ],
+                [
+                  152.956171,
+                  -26.672193
+                ],
+                [
+                  152.957503,
+                  -26.671909
+                ],
+                [
+                  152.957792,
+                  -26.671203
+                ],
+                [
+                  152.957314,
+                  -26.670617
+                ],
+                [
+                  152.95731,
+                  -26.670612
+                ],
+                [
+                  152.95648,
+                  -26.669622
+                ],
+                [
+                  152.956176,
+                  -26.66945
+                ],
+                [
+                  152.950994,
+                  -26.668528
+                ],
+                [
+                  152.950402,
+                  -26.669053
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-753016-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "8:25AM 07 Apr 2024",
+        "EST_FIX_TIME": "11:00AM 07 Apr 2024",
+        "STREETS": "OLD PALMWOODS RD",
+        "SUBURBS": "PALMWOODS, WEST WOOMBYE"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712442301.17341"
+  "extracted": "1712442605.413951"
 }
