@@ -909,6 +909,99 @@
           {
             "type": "Point",
             "coordinates": [
+              152.093577,
+              -26.802719
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.068012,
+                  -26.802444
+                ],
+                [
+                  152.100818,
+                  -26.840057
+                ],
+                [
+                  152.101547,
+                  -26.840115
+                ],
+                [
+                  152.119066,
+                  -26.826118
+                ],
+                [
+                  152.119233,
+                  -26.825767
+                ],
+                [
+                  152.11699,
+                  -26.765672
+                ],
+                [
+                  152.116194,
+                  -26.765323
+                ],
+                [
+                  152.073245,
+                  -26.793361
+                ],
+                [
+                  152.073226,
+                  -26.793374
+                ],
+                [
+                  152.070666,
+                  -26.795216
+                ],
+                [
+                  152.070619,
+                  -26.795255
+                ],
+                [
+                  152.069584,
+                  -26.796219
+                ],
+                [
+                  152.069458,
+                  -26.796424
+                ],
+                [
+                  152.06792,
+                  -26.80206
+                ],
+                [
+                  152.068012,
+                  -26.802444
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4658",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "121",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 07 Apr 2024",
+        "EST_FIX_TIME": "12:00PM 07 Apr 2024",
+        "STREETS": "BOWMANS RD, CAMERON RD, OLD ESK RD, PAMELA DR, SCOTT CL, STRETTON DR, WILD DEER DR",
+        "SUBURBS": "BENARKIN, BLACKBUTT, TAROMEO, TEELAH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.621081,
               -25.586289
             ]
@@ -997,5 +1090,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712443801.373425"
+  "extracted": "1712444101.438479"
 }
