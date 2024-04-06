@@ -10,6 +10,115 @@
           {
             "type": "Point",
             "coordinates": [
+              151.331864,
+              -24.035615
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.294034,
+                  -24.067719
+                ],
+                [
+                  151.303097,
+                  -24.074332
+                ],
+                [
+                  151.303653,
+                  -24.074367
+                ],
+                [
+                  151.327178,
+                  -24.061552
+                ],
+                [
+                  151.327218,
+                  -24.061529
+                ],
+                [
+                  151.369672,
+                  -24.032976
+                ],
+                [
+                  151.36987,
+                  -24.032559
+                ],
+                [
+                  151.368891,
+                  -24.024968
+                ],
+                [
+                  151.36877,
+                  -24.024722
+                ],
+                [
+                  151.364718,
+                  -24.020533
+                ],
+                [
+                  151.364634,
+                  -24.020464
+                ],
+                [
+                  151.336759,
+                  -24.002403
+                ],
+                [
+                  151.336594,
+                  -24.002334
+                ],
+                [
+                  151.312567,
+                  -23.996863
+                ],
+                [
+                  151.311995,
+                  -23.99713
+                ],
+                [
+                  151.307511,
+                  -24.007266
+                ],
+                [
+                  151.307485,
+                  -24.007343
+                ],
+                [
+                  151.293859,
+                  -24.067274
+                ],
+                [
+                  151.294034,
+                  -24.067719
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5395",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "460",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "5:35PM 06 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AWOONGA DAM RD, BARKLYA CT, BARUBY BVD, BRUCE HWY, DANAID CT, DEDEKIND AVE, HENNIE DR, IRMA CT, JILLAROO CL, JONO PORTER DR, LEFERINK RD, MANNING RD, MARRAWING RD, O'CONNOR RD, OFF AWOONGA DAM RD, OFF BRUCE HWY, PANORAMA CCT, PIKES CROSSING RD, PROTEA CRES, RAINER CT, RONALD CRES, STOCKMAN DR, SWAGMAN DR, TANNUM SANDS RD, THRING ST, WYNAND AVE",
+        "SUBURBS": "BENARABY, IVERAGH, TANNUM SANDS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -289,5 +398,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712388901.136683"
+  "extracted": "1712389201.326454"
 }
