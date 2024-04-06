@@ -10,99 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              148.297264,
-              -23.557874
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  148.27254,
-                  -23.551502
-                ],
-                [
-                  148.277394,
-                  -23.557826
-                ],
-                [
-                  148.277671,
-                  -23.558003
-                ],
-                [
-                  148.290662,
-                  -23.561097
-                ],
-                [
-                  148.290674,
-                  -23.5611
-                ],
-                [
-                  148.318827,
-                  -23.567141
-                ],
-                [
-                  148.318886,
-                  -23.567151
-                ],
-                [
-                  148.321516,
-                  -23.567409
-                ],
-                [
-                  148.321989,
-                  -23.566729
-                ],
-                [
-                  148.312537,
-                  -23.552114
-                ],
-                [
-                  148.31217,
-                  -23.551896
-                ],
-                [
-                  148.277116,
-                  -23.54834
-                ],
-                [
-                  148.276797,
-                  -23.548409
-                ],
-                [
-                  148.272674,
-                  -23.550862
-                ],
-                [
-                  148.27254,
-                  -23.551502
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA5334",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "22",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
-        "START": "10:21PM 05 Apr 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "CAPRICORN HWY, LOCHLEES RD",
-        "SUBURBS": "EMERALD, YAMALA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               145.287728,
               -23.554522
             ]
@@ -338,83 +245,6 @@
           {
             "type": "Point",
             "coordinates": [
-              145.521686,
-              -17.636536
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  145.515635,
-                  -17.633017
-                ],
-                [
-                  145.521359,
-                  -17.640517
-                ],
-                [
-                  145.521603,
-                  -17.640682
-                ],
-                [
-                  145.525379,
-                  -17.641781
-                ],
-                [
-                  145.525962,
-                  -17.641494
-                ],
-                [
-                  145.527737,
-                  -17.636487
-                ],
-                [
-                  145.527567,
-                  -17.635975
-                ],
-                [
-                  145.520893,
-                  -17.631365
-                ],
-                [
-                  145.520511,
-                  -17.631291
-                ],
-                [
-                  145.515909,
-                  -17.63231
-                ],
-                [
-                  145.515635,
-                  -17.633017
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN4909",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "22",
-        "REASON": "The loss of supply is due to a pole fire.",
-        "STATUS": "Outage reported",
-        "START": "11:28AM 06 Apr 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "GOLD COAST RD, KAYS RD",
-        "SUBURBS": "RAVENSHOE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -474,6 +304,75 @@
         "EST_FIX_TIME": "12:00PM 31 May 2024",
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              149.052004,
+              -21.017895
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.050847,
+                  -21.017899
+                ],
+                [
+                  149.052812,
+                  -21.018744
+                ],
+                [
+                  149.053418,
+                  -21.018575
+                ],
+                [
+                  149.053322,
+                  -21.017988
+                ],
+                [
+                  149.052559,
+                  -21.017385
+                ],
+                [
+                  149.05235,
+                  -21.017289
+                ],
+                [
+                  149.051148,
+                  -21.017047
+                ],
+                [
+                  149.050591,
+                  -21.017346
+                ],
+                [
+                  149.050847,
+                  -21.017899
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3394",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
+        "STATUS": "Outage reported",
+        "START": "10:46AM 06 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "OLLETTS RD",
+        "SUBURBS": "HABANA"
       }
     },
     {
@@ -617,5 +516,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712373001.00761"
+  "extracted": "1712373304.591405"
 }
