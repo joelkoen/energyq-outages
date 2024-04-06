@@ -1,8 +1,150 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.977525,
+              -27.299465
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.96212,
+                  -27.299376
+                ],
+                [
+                  152.96422,
+                  -27.302017
+                ],
+                [
+                  152.964294,
+                  -27.302092
+                ],
+                [
+                  152.971875,
+                  -27.308173
+                ],
+                [
+                  152.972196,
+                  -27.308289
+                ],
+                [
+                  152.982334,
+                  -27.308587
+                ],
+                [
+                  152.982562,
+                  -27.308546
+                ],
+                [
+                  152.986722,
+                  -27.306831
+                ],
+                [
+                  152.986731,
+                  -27.306827
+                ],
+                [
+                  152.98687,
+                  -27.306766
+                ],
+                [
+                  152.986906,
+                  -27.306749
+                ],
+                [
+                  152.990181,
+                  -27.305021
+                ],
+                [
+                  152.990286,
+                  -27.304947
+                ],
+                [
+                  152.993011,
+                  -27.302446
+                ],
+                [
+                  152.992946,
+                  -27.301766
+                ],
+                [
+                  152.975581,
+                  -27.290477
+                ],
+                [
+                  152.975435,
+                  -27.290412
+                ],
+                [
+                  152.975191,
+                  -27.290343
+                ],
+                [
+                  152.974837,
+                  -27.29036
+                ],
+                [
+                  152.96815,
+                  -27.292977
+                ],
+                [
+                  152.968085,
+                  -27.293008
+                ],
+                [
+                  152.963399,
+                  -27.295626
+                ],
+                [
+                  152.963351,
+                  -27.295656
+                ],
+                [
+                  152.962922,
+                  -27.295963
+                ],
+                [
+                  152.962745,
+                  -27.296216
+                ],
+                [
+                  152.962039,
+                  -27.299015
+                ],
+                [
+                  152.96212,
+                  -27.299376
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-752986-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2066",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:53PM 06 Apr 2024",
+        "EST_FIX_TIME": "2:00AM 07 Apr 2024",
+        "STREETS": "ADA ST, ALCIRA ST, ARTHUR ST, AVALON CT, BANKSIA ST, BEETHOVEN ST, BEITZ ST, BLAND ST, BRAHMS CT, BRAHMS ST, BRODIEK ST, BROOKS RD, BUCKINGHAM ST W, BURKELL CT, BYGRAVE ST, CALADIUM ST, CASSIA ST, CASUARINA DR S, CEDRELA CRES, CENTRE ST, CHOPIN ST, CLIFFORD ST, COMINO ST, CRAIGAN ST, CROTON ST, DANUBE DR, DELPHINIUM ST, DOROTHY ST, DOVER ST, EDWARD ST, ELLERDALE CT, ELLERDALE ST, FARROW ST, FAUST ST, FLYNN LANE, GERBERA CRES, GERRI CT, GREENDALE CT, GYMPIE RD, HALO CT, HARVEY ST, HEDGE ST, HIGHFIELD CRES, HILLSDALE ST, JASMINE ST, KAURI CT, KENSINGTON WAY, LANG ST, LAVARACK RD, LEITCHS RD, LIVINGSTONE ST, MAREE ST, MELALEUCA DR, MELBA DR, MUNDIE PL, NANBAREE DR, NAVUA ST, NOTTINGHAM PDE, NYANDA ST, QUIAMONG CT, RAILWAY AVE, REIBA CT, RONALD ST, ROSEWOOD DR, SAIALA CT, SAMSONVALE RD, SCHUBERT ST, SPARKES RD, STANLEY ST, STANLEY ST E, SUTHERLAND DR, SYMPHONY AVE, TAEDI AVE, TARGE ST, TECOMA ST, TORELLIANA DR, VALIANT CRES, VIENNA WAY, WINDREST ST, WOODBURY AVE",
+        "SUBURBS": "BRAY PARK, BRENDALE, STRATHPINE"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712411401.081978"
+  "extracted": "1712411701.631683"
 }
