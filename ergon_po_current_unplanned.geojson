@@ -770,9 +770,102 @@
         "STREETS": "CECIL PLAINS RD, CECIL PLAINS-TOOWOOMBA RD, EVANSLEA RD, F KENT RD, JONDARYAN EVANSLEA RD, KNAPDALE RD, MATTHEWS RD, MCINTYRE RD, PEDLAR RD, PETERS RD, RUHLE RD, TOD RD, TOOWOOMBA CECIL PLAINS RD, WAITE RD, WEST PRAIRIE RD",
         "SUBURBS": "BONGEEN, EVANSLEA, FORMARTIN, JONDARYAN, MOUNT MORIAH, NORILLEE SIDING, NORWIN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.621081,
+              -25.586289
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.61223,
+                  -25.578172
+                ],
+                [
+                  151.615532,
+                  -25.584065
+                ],
+                [
+                  151.615629,
+                  -25.584184
+                ],
+                [
+                  151.628927,
+                  -25.595897
+                ],
+                [
+                  151.62977,
+                  -25.595581
+                ],
+                [
+                  151.629932,
+                  -25.585799
+                ],
+                [
+                  151.629761,
+                  -25.585451
+                ],
+                [
+                  151.620717,
+                  -25.578365
+                ],
+                [
+                  151.620707,
+                  -25.578357
+                ],
+                [
+                  151.619124,
+                  -25.577185
+                ],
+                [
+                  151.618944,
+                  -25.5771
+                ],
+                [
+                  151.617325,
+                  -25.576689
+                ],
+                [
+                  151.61709,
+                  -25.576682
+                ],
+                [
+                  151.612572,
+                  -25.577527
+                ],
+                [
+                  151.61223,
+                  -25.578172
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4678",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:37AM 07 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BERONNE RD, BONNY ST, IDERAWAY RD, MINGO ST, OLD STOCK ROUTE RD, TANJOUR ST, YENDA ST",
+        "SUBURBS": "GAYNDAH, IDERAWAY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712436001.304627"
+  "extracted": "1712436601.137753"
 }
