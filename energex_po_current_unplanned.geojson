@@ -10,7 +10,7 @@
           {
             "type": "Point",
             "coordinates": [
-              152.968426,
+              152.96842,
               -27.299596
             ]
           },
@@ -51,20 +51,12 @@
                   -27.302238
                 ],
                 [
-                  152.972611,
-                  -27.301944
+                  152.972599,
+                  -27.30187
                 ],
                 [
-                  152.972531,
-                  -27.300689
-                ],
-                [
-                  152.972512,
-                  -27.300592
-                ],
-                [
-                  152.97136,
-                  -27.296962
+                  152.971367,
+                  -27.296986
                 ],
                 [
                   152.9712,
@@ -102,7 +94,7 @@
       "properties": {
         "EVENT_ID": "INCD-752986-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "217",
+        "CUSTOMERS_AFFECTED": "175",
         "REASON": "Under Investigation",
         "STATUS": "In Progress",
         "START": "11:53PM 06 Apr 2024",
@@ -110,9 +102,158 @@
         "STREETS": "ADA ST, CLIFFORD ST, EDWARD ST, ELLERDALE ST, GERRI CT, LAVARACK RD, SAMSONVALE RD, SPARKES RD, TECOMA ST, VALIANT CRES, WINDREST ST, WOODBURY AVE",
         "SUBURBS": "BRAY PARK, STRATHPINE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.277256,
+              -27.572458
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.261922,
+                  -27.565742
+                ],
+                [
+                  153.267232,
+                  -27.583151
+                ],
+                [
+                  153.267501,
+                  -27.583439
+                ],
+                [
+                  153.268792,
+                  -27.583993
+                ],
+                [
+                  153.268814,
+                  -27.584002
+                ],
+                [
+                  153.271268,
+                  -27.584929
+                ],
+                [
+                  153.271285,
+                  -27.584935
+                ],
+                [
+                  153.271833,
+                  -27.585121
+                ],
+                [
+                  153.272032,
+                  -27.58515
+                ],
+                [
+                  153.28102,
+                  -27.584858
+                ],
+                [
+                  153.281343,
+                  -27.584741
+                ],
+                [
+                  153.290692,
+                  -27.577173
+                ],
+                [
+                  153.29073,
+                  -27.577139
+                ],
+                [
+                  153.292589,
+                  -27.57528
+                ],
+                [
+                  153.292524,
+                  -27.574624
+                ],
+                [
+                  153.273934,
+                  -27.561644
+                ],
+                [
+                  153.273774,
+                  -27.561569
+                ],
+                [
+                  153.267372,
+                  -27.559766
+                ],
+                [
+                  153.267037,
+                  -27.559775
+                ],
+                [
+                  153.265956,
+                  -27.560147
+                ],
+                [
+                  153.265906,
+                  -27.560167
+                ],
+                [
+                  153.265606,
+                  -27.560305
+                ],
+                [
+                  153.265541,
+                  -27.560341
+                ],
+                [
+                  153.264568,
+                  -27.560973
+                ],
+                [
+                  153.264421,
+                  -27.561123
+                ],
+                [
+                  153.262348,
+                  -27.564536
+                ],
+                [
+                  153.262322,
+                  -27.564586
+                ],
+                [
+                  153.261939,
+                  -27.565459
+                ],
+                [
+                  153.261922,
+                  -27.565742
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-752998-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1501",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "4:21AM 07 Apr 2024",
+        "EST_FIX_TIME": "7:00AM 07 Apr 2024",
+        "STREETS": "ABALONE CRES, AFFINITY WAY, AJINBY CL, ALBICORE DR, ARCTIC ST, ARKWRIGHT ST, BEVERIDGE RD, BOKHARA ST, BOUNDARY RD, BRECKENRIDGE CT, BURRUM ST, CALLUM CT, CARDWELL CCT, CASASOLA PL, CLEVELAND REDLAND BAY RD, COEN ST, COLTHOUSE DR, CONDAMINE CRES, CONLEY AVE, DINWOODIE RD, DOULL PL, DUNE ST, EDINA ST, FRESHWATER ST, GRETCHEN CCT, HARRINGTON BVD, HERRING LANE, HIGHGROVE ST, JICAMA CT, KALBARRIE TCE, KIAMA CCT, KODAK CL, LIDGARD ST, LIND ST, LUKE ST, LUNGREN DR, MARANOA ST, MARCOOLA ST, MEADOWLAND RD, MELVILLE ST, MUDJIMBA PL, NEWPORT PL, PINECONE PL, RACHOW ST, REDLAND BAY RD, SANDALWOOD ST, SEAFORTH AVE, SEAWATER ST, SHOALWATER ST, SPRINGWATER ST, TANE CT, THORNTON DR, TIDE PL, TOURIGA ST, TREVALLY CT, TROCHUS CT, TROUT ST, TUCKEROO ST, TUNA CT, WATERLINE BVD, WEIR ST, YAROOMBA CL, ZIEGENFUSZ RD",
+        "SUBURBS": "THORNLANDS, VICTORIA POINT"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712427601.192766"
+  "extracted": "1712427901.366333"
 }
