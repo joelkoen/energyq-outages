@@ -703,83 +703,6 @@
           {
             "type": "Point",
             "coordinates": [
-              151.920609,
-              -27.580201
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.917125,
-                  -27.581153
-                ],
-                [
-                  151.917499,
-                  -27.583512
-                ],
-                [
-                  151.918223,
-                  -27.583852
-                ],
-                [
-                  151.923819,
-                  -27.581396
-                ],
-                [
-                  151.924094,
-                  -27.580917
-                ],
-                [
-                  151.923334,
-                  -27.576904
-                ],
-                [
-                  151.922686,
-                  -27.576549
-                ],
-                [
-                  151.922076,
-                  -27.576719
-                ],
-                [
-                  151.921877,
-                  -27.576825
-                ],
-                [
-                  151.917275,
-                  -27.580766
-                ],
-                [
-                  151.917125,
-                  -27.581153
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW7310",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "25",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "6:21AM 07 Apr 2024",
-        "EST_FIX_TIME": "9:00AM 07 Apr 2024",
-        "STREETS": "ALDERLEY ST, ANZAC AVE",
-        "SUBURBS": "HARRISTOWN, TOOWOOMBA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               151.376128,
               -27.575543
             ]
@@ -1014,6 +937,123 @@
           {
             "type": "Point",
             "coordinates": [
+              151.949137,
+              -27.472436
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.945784,
+                  -27.472035
+                ],
+                [
+                  151.946466,
+                  -27.47437
+                ],
+                [
+                  151.946904,
+                  -27.474705
+                ],
+                [
+                  151.947637,
+                  -27.47477
+                ],
+                [
+                  151.94765,
+                  -27.474771
+                ],
+                [
+                  151.949546,
+                  -27.474895
+                ],
+                [
+                  151.949708,
+                  -27.474882
+                ],
+                [
+                  151.95039,
+                  -27.474727
+                ],
+                [
+                  151.950408,
+                  -27.474723
+                ],
+                [
+                  151.950832,
+                  -27.474611
+                ],
+                [
+                  151.95084,
+                  -27.474608
+                ],
+                [
+                  151.951778,
+                  -27.474345
+                ],
+                [
+                  151.952112,
+                  -27.474041
+                ],
+                [
+                  151.952491,
+                  -27.472871
+                ],
+                [
+                  151.952414,
+                  -27.472481
+                ],
+                [
+                  151.950707,
+                  -27.470388
+                ],
+                [
+                  151.950358,
+                  -27.470206
+                ],
+                [
+                  151.948194,
+                  -27.469977
+                ],
+                [
+                  151.947797,
+                  -27.47009
+                ],
+                [
+                  151.945934,
+                  -27.471588
+                ],
+                [
+                  151.945784,
+                  -27.472035
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7333",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "31",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:53AM 07 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BALLANTYNE CT, BIMBI CT, DAU RD, FIELDING ST",
+        "SUBURBS": "HIGHFIELDS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.093577,
               -26.802719
             ]
@@ -1195,5 +1235,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712445601.458091"
+  "extracted": "1712446501.269542"
 }
