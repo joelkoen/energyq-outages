@@ -119,6 +119,139 @@
           {
             "type": "Point",
             "coordinates": [
+              150.469146,
+              -23.294462
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.424442,
+                  -23.246548
+                ],
+                [
+                  150.431316,
+                  -23.267791
+                ],
+                [
+                  150.431323,
+                  -23.26781
+                ],
+                [
+                  150.440041,
+                  -23.291051
+                ],
+                [
+                  150.440074,
+                  -23.291119
+                ],
+                [
+                  150.443934,
+                  -23.297651
+                ],
+                [
+                  150.444049,
+                  -23.29778
+                ],
+                [
+                  150.497642,
+                  -23.339306
+                ],
+                [
+                  150.497675,
+                  -23.33933
+                ],
+                [
+                  150.50104,
+                  -23.341504
+                ],
+                [
+                  150.501181,
+                  -23.341567
+                ],
+                [
+                  150.50215,
+                  -23.341833
+                ],
+                [
+                  150.502173,
+                  -23.341839
+                ],
+                [
+                  150.502383,
+                  -23.341887
+                ],
+                [
+                  150.502414,
+                  -23.341893
+                ],
+                [
+                  150.513291,
+                  -23.343675
+                ],
+                [
+                  150.51385,
+                  -23.343123
+                ],
+                [
+                  150.49977,
+                  -23.290501
+                ],
+                [
+                  150.499587,
+                  -23.290247
+                ],
+                [
+                  150.445763,
+                  -23.253412
+                ],
+                [
+                  150.445701,
+                  -23.253376
+                ],
+                [
+                  150.429199,
+                  -23.245292
+                ],
+                [
+                  150.428877,
+                  -23.245248
+                ],
+                [
+                  150.424817,
+                  -23.245977
+                ],
+                [
+                  150.424442,
+                  -23.246548
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5399",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "906",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "STATUS": "Outage reported",
+        "START": "7:04PM 06 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALEXANDRA ST, ASHCROFT CT, BARKER ST, BELLBIRD DR, BELMONT RD, BERRY DAIRY RD, BIRKBECK DR, BLAIR ST, BOSWOOD ST, CAHILL ST, CORIO ST, D BERRYS RD, DAWSON RD, EDENBROOK DR, FARM ST, GOLDFINCH DR, GREGORY ST, GREMALIS DR, HARDY ST, HILLTOP RISE, JEWELL CT, LEICHHARDT ST, MALONEY ST, MAYSBROOK CT, MOSSVALE DR, NESLEIN RD, NEW HAVEN WAY, OAKMONT WAY, OFF ALEXANDRA ST, OSCADIA WAY, OSPREY CT, PARKDALE TCE, PEREGRIN CT, PLOVER ST, QUARRION CT, QUINN ST, RIDGEWOOD TCE, RIVERSIDE DR, RODERKIRCHEN ST, SAMUEL CRES, SANDFORD AVE, SHELBY ST, SPRINGBROOK CL, STUART CT, TOMTIT AVE, TWIN VIEW TCE, TWINVIEW TCE, VUE WAY, WADE ST, WAURN ST, WERRIBEE ST, WHISTLER CT, WILLIAM PALFREY RD, WIRRAWAY DR, WITHERS ST",
+        "SUBURBS": "GLENDALE, GLENLEE, GLENVALE, INGHAM, KAWANA, NORTH ROCKHAMPTON, PARKHURST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -398,5 +531,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712394601.208493"
+  "extracted": "1712395201.378572"
 }
