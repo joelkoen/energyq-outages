@@ -195,9 +195,102 @@
         "STREETS": "OLD PALMWOODS RD",
         "SUBURBS": "PALMWOODS, WEST WOOMBYE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.456787,
+              -28.147144
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.454426,
+                  -28.148192
+                ],
+                [
+                  153.45447,
+                  -28.149133
+                ],
+                [
+                  153.454761,
+                  -28.149523
+                ],
+                [
+                  153.455977,
+                  -28.150032
+                ],
+                [
+                  153.456291,
+                  -28.150067
+                ],
+                [
+                  153.456408,
+                  -28.150047
+                ],
+                [
+                  153.456579,
+                  -28.149988
+                ],
+                [
+                  153.458914,
+                  -28.148711
+                ],
+                [
+                  153.459149,
+                  -28.148252
+                ],
+                [
+                  153.459106,
+                  -28.148025
+                ],
+                [
+                  153.459097,
+                  -28.147988
+                ],
+                [
+                  153.45804,
+                  -28.144348
+                ],
+                [
+                  153.457115,
+                  -28.144221
+                ],
+                [
+                  153.454503,
+                  -28.147935
+                ],
+                [
+                  153.454426,
+                  -28.148192
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-753028-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "93",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "10:51AM 07 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 07 Apr 2024",
+        "STREETS": "ALDER CT, BEAUMONT CT, GALLEON WAY, HILLCOT ST, WARE DR",
+        "SUBURBS": "CURRUMBIN WATERS"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712458501.17102"
+  "extracted": "1712458804.910364"
 }
