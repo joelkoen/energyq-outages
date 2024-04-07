@@ -859,9 +859,82 @@
         "STREETS": "ATKINSON ST, BEIRNE ST, EVE ST, HUGHES ST, HUME ST, PERKINS ST, RUTHVEN ST, SOUTH ST",
         "SUBURBS": "CENTENARY HEIGHTS, SOUTH TOOWOOMBA, TOOWOOMBA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.755721,
+              -26.509999
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.721196,
+                  -26.500485
+                ],
+                [
+                  151.742866,
+                  -26.511399
+                ],
+                [
+                  151.742971,
+                  -26.511439
+                ],
+                [
+                  151.777093,
+                  -26.520349
+                ],
+                [
+                  151.777516,
+                  -26.520287
+                ],
+                [
+                  151.790472,
+                  -26.512259
+                ],
+                [
+                  151.790282,
+                  -26.511446
+                ],
+                [
+                  151.721534,
+                  -26.499649
+                ],
+                [
+                  151.72097,
+                  -26.499937
+                ],
+                [
+                  151.721196,
+                  -26.500485
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4684",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:00PM 07 Apr 2024",
+        "EST_FIX_TIME": "4:30PM 07 Apr 2024",
+        "STREETS": "OLD CRAWFORD RD, SLATTERYS RD, WEENS RD, WICKS RD",
+        "SUBURBS": "CRAWFORD, GORDONBROOK, KINGAROY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712461201.512577"
+  "extracted": "1712461801.497535"
 }
