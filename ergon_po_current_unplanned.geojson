@@ -241,6 +241,91 @@
           {
             "type": "Point",
             "coordinates": [
+              148.228316,
+              -19.99639
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.22607,
+                  -19.996544
+                ],
+                [
+                  148.2269,
+                  -19.997782
+                ],
+                [
+                  148.227079,
+                  -19.997939
+                ],
+                [
+                  148.227379,
+                  -19.99809
+                ],
+                [
+                  148.227703,
+                  -19.998133
+                ],
+                [
+                  148.230056,
+                  -19.997661
+                ],
+                [
+                  148.230294,
+                  -19.99754
+                ],
+                [
+                  148.230551,
+                  -19.997299
+                ],
+                [
+                  148.230561,
+                  -19.996668
+                ],
+                [
+                  148.228587,
+                  -19.994694
+                ],
+                [
+                  148.227947,
+                  -19.994647
+                ],
+                [
+                  148.226181,
+                  -19.995945
+                ],
+                [
+                  148.22607,
+                  -19.996544
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7147",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "21",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "7:43AM 07 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "FITZALAN ST, MOUNT NUTT RD",
+        "SUBURBS": "BOWEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -673,5 +758,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712482801.343572"
+  "extracted": "1712483104.632806"
 }
