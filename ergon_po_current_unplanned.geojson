@@ -241,6 +241,123 @@
           {
             "type": "Point",
             "coordinates": [
+              147.377679,
+              -19.543705
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.357799,
+                  -19.552079
+                ],
+                [
+                  147.35948,
+                  -19.555227
+                ],
+                [
+                  147.359811,
+                  -19.555466
+                ],
+                [
+                  147.360933,
+                  -19.555681
+                ],
+                [
+                  147.360963,
+                  -19.555686
+                ],
+                [
+                  147.365471,
+                  -19.55627
+                ],
+                [
+                  147.365488,
+                  -19.556272
+                ],
+                [
+                  147.367048,
+                  -19.556419
+                ],
+                [
+                  147.367125,
+                  -19.55642
+                ],
+                [
+                  147.367392,
+                  -19.556404
+                ],
+                [
+                  147.36762,
+                  -19.556332
+                ],
+                [
+                  147.389555,
+                  -19.542888
+                ],
+                [
+                  147.389655,
+                  -19.542806
+                ],
+                [
+                  147.39756,
+                  -19.534247
+                ],
+                [
+                  147.397317,
+                  -19.533511
+                ],
+                [
+                  147.386706,
+                  -19.530989
+                ],
+                [
+                  147.386387,
+                  -19.531019
+                ],
+                [
+                  147.38484,
+                  -19.531711
+                ],
+                [
+                  147.384751,
+                  -19.531763
+                ],
+                [
+                  147.357931,
+                  -19.551518
+                ],
+                [
+                  147.357799,
+                  -19.552079
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7148",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "74",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews on route",
+        "START": "8:57PM 07 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRUCE HWY, DRYSDALE ST, MUNRO ST, PACIFIC CT, PALM AVE, TAPIOLAS RD, TOWNSVILLE RD",
+        "SUBURBS": "BRANDON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -463,5 +580,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712487604.569666"
+  "extracted": "1712488201.848538"
 }
