@@ -99,6 +99,99 @@
           {
             "type": "Point",
             "coordinates": [
+              151.025492,
+              -24.265888
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.93802,
+                  -24.312516
+                ],
+                [
+                  151.087229,
+                  -24.313992
+                ],
+                [
+                  151.087666,
+                  -24.313756
+                ],
+                [
+                  151.113388,
+                  -24.27018
+                ],
+                [
+                  151.113446,
+                  -24.269934
+                ],
+                [
+                  151.110929,
+                  -24.237683
+                ],
+                [
+                  151.110807,
+                  -24.237416
+                ],
+                [
+                  151.099377,
+                  -24.225599
+                ],
+                [
+                  151.099054,
+                  -24.225449
+                ],
+                [
+                  151.008042,
+                  -24.217785
+                ],
+                [
+                  151.007616,
+                  -24.217949
+                ],
+                [
+                  150.939881,
+                  -24.294173
+                ],
+                [
+                  150.939773,
+                  -24.294405
+                ],
+                [
+                  150.937537,
+                  -24.312013
+                ],
+                [
+                  150.93802,
+                  -24.312516
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5410",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:31AM 08 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BINDAWALLAH RD, CLIFTON RD, DIGLUM RD, ROWANLEA RD, TABLELAND RD",
+        "SUBURBS": "CALLIOPE, DIGLUM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -765,5 +858,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712524201.506761"
+  "extracted": "1712524503.555061"
 }
