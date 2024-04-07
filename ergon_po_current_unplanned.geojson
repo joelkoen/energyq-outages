@@ -504,6 +504,95 @@
           {
             "type": "Point",
             "coordinates": [
+              151.348395,
+              -27.496521
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.30844,
+                  -27.488142
+                ],
+                [
+                  151.327024,
+                  -27.51176
+                ],
+                [
+                  151.327213,
+                  -27.511904
+                ],
+                [
+                  151.341903,
+                  -27.518422
+                ],
+                [
+                  151.342064,
+                  -27.518465
+                ],
+                [
+                  151.351837,
+                  -27.519577
+                ],
+                [
+                  151.351901,
+                  -27.51958
+                ],
+                [
+                  151.387883,
+                  -27.519582
+                ],
+                [
+                  151.38835,
+                  -27.519303
+                ],
+                [
+                  151.388239,
+                  -27.518812
+                ],
+                [
+                  151.337105,
+                  -27.473533
+                ],
+                [
+                  151.336501,
+                  -27.473461
+                ],
+                [
+                  151.308605,
+                  -27.487491
+                ],
+                [
+                  151.30844,
+                  -27.488142
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7345",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "4:47PM 07 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "JEFFREYS RD, MCPHERSON RD, MCPHERSONS RD, OLSEN RD, OLSENS RD, SMITH RD, SMITHS RD",
+        "SUBURBS": "BOWENVILLE, CECIL PLAINS, NORWIN, TIPTON, WEST PRAIRIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.238818,
               -26.087551
             ]
@@ -588,5 +677,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712472304.367186"
+  "extracted": "1712472601.223192"
 }
