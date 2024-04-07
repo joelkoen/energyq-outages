@@ -180,6 +180,67 @@
           {
             "type": "Point",
             "coordinates": [
+              145.752139,
+              -16.959336
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.752949,
+                  -16.959174
+                ],
+                [
+                  145.751693,
+                  -16.958666
+                ],
+                [
+                  145.751078,
+                  -16.958907
+                ],
+                [
+                  145.751329,
+                  -16.959499
+                ],
+                [
+                  145.752585,
+                  -16.960007
+                ],
+                [
+                  145.7532,
+                  -16.959765
+                ],
+                [
+                  145.752949,
+                  -16.959174
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4923",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to a vehicle accident.",
+        "STATUS": "Outage reported",
+        "START": "10:37AM 07 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "JACKSON DR, LINKS DR",
+        "SUBURBS": "WOREE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -697,5 +758,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712455801.441435"
+  "extracted": "1712456401.168332"
 }
