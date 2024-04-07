@@ -134,9 +134,90 @@
         "STREETS": "GAROWIE CT, GLASGOW BVD, GLEN AYR DR, JURA ST, NOTNEL CT",
         "SUBURBS": "BRASSALL"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.493099,
+              -27.401781
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.493045,
+                  -27.403225
+                ],
+                [
+                  152.49358,
+                  -27.402219
+                ],
+                [
+                  152.493607,
+                  -27.402156
+                ],
+                [
+                  152.494112,
+                  -27.400673
+                ],
+                [
+                  152.493554,
+                  -27.400095
+                ],
+                [
+                  152.492933,
+                  -27.400178
+                ],
+                [
+                  152.492525,
+                  -27.400488
+                ],
+                [
+                  152.492331,
+                  -27.401033
+                ],
+                [
+                  152.492311,
+                  -27.401121
+                ],
+                [
+                  152.492085,
+                  -27.402983
+                ],
+                [
+                  152.49245,
+                  -27.403466
+                ],
+                [
+                  152.493045,
+                  -27.403225
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-753125-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "8:27AM 08 Apr 2024",
+        "EST_FIX_TIME": "11:00AM 08 Apr 2024",
+        "STREETS": "COOMINYA CONNECTION RD",
+        "SUBURBS": "COOMINYA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712528700.980675"
+  "extracted": "1712529003.150797"
 }
