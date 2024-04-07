@@ -707,8 +707,8 @@
           {
             "type": "Point",
             "coordinates": [
-              151.482358,
-              -27.490459
+              151.459554,
+              -27.522368
             ]
           },
           {
@@ -748,76 +748,28 @@
                   -27.53925
                 ],
                 [
-                  151.512145,
-                  -27.539248
+                  151.512186,
+                  -27.53917
                 ],
                 [
-                  151.529887,
-                  -27.512728
+                  151.516846,
+                  -27.527676
                 ],
                 [
-                  151.529915,
-                  -27.51268
+                  151.516678,
+                  -27.527166
                 ],
                 [
-                  151.547111,
-                  -27.478162
+                  151.443784,
+                  -27.477299
                 ],
                 [
-                  151.547143,
-                  -27.478076
+                  151.443133,
+                  -27.477326
                 ],
                 [
-                  151.562595,
-                  -27.415744
-                ],
-                [
-                  151.562215,
-                  -27.415208
-                ],
-                [
-                  151.554157,
-                  -27.413559
-                ],
-                [
-                  151.55408,
-                  -27.413549
-                ],
-                [
-                  151.55301,
-                  -27.413481
-                ],
-                [
-                  151.552878,
-                  -27.413488
-                ],
-                [
-                  151.506236,
-                  -27.421526
-                ],
-                [
-                  151.506211,
-                  -27.421531
-                ],
-                [
-                  151.4423,
-                  -27.435607
-                ],
-                [
-                  151.442296,
-                  -27.435608
-                ],
-                [
-                  151.426307,
-                  -27.439271
-                ],
-                [
-                  151.425949,
-                  -27.43958
-                ],
-                [
-                  151.402121,
-                  -27.511232
+                  151.402262,
+                  -27.511029
                 ],
                 [
                   151.402311,
@@ -831,17 +783,142 @@
       "properties": {
         "EVENT_ID": "24SW7321",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "73",
+        "CUSTOMERS_AFFECTED": "24",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "4:29AM 07 Apr 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "CECIL PLAINS RD, CECIL PLAINS-TOOWOOMBA RD, EVANSLEA RD, F KENT RD, JONDARYAN EVANSLEA RD, KNAPDALE RD, MATTHEWS RD, MCINTYRE RD, PEDLAR RD, PETERS RD, RUHLE RD, TOD RD, TOOWOOMBA CECIL PLAINS RD, WAITE RD, WEST PRAIRIE RD",
-        "SUBURBS": "BONGEEN, EVANSLEA, FORMARTIN, JONDARYAN, MOUNT MORIAH, NORILLEE SIDING, NORWIN"
+        "STREETS": "CECIL PLAINS RD, CECIL PLAINS-TOOWOOMBA RD, EVANSLEA RD, PETERS RD, RUHLE RD, TOOWOOMBA CECIL PLAINS RD, WAITE RD",
+        "SUBURBS": "BONGEEN, EVANSLEA, NORILLEE SIDING, NORWIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.954424,
+              -27.580131
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.950658,
+                  -27.577591
+                ],
+                [
+                  151.950833,
+                  -27.577931
+                ],
+                [
+                  151.950835,
+                  -27.577934
+                ],
+                [
+                  151.953229,
+                  -27.582484
+                ],
+                [
+                  151.953327,
+                  -27.58261
+                ],
+                [
+                  151.954231,
+                  -27.583423
+                ],
+                [
+                  151.954997,
+                  -27.583372
+                ],
+                [
+                  151.958142,
+                  -27.579547
+                ],
+                [
+                  151.95819,
+                  -27.579087
+                ],
+                [
+                  151.958088,
+                  -27.578897
+                ],
+                [
+                  151.957813,
+                  -27.578671
+                ],
+                [
+                  151.954605,
+                  -27.577572
+                ],
+                [
+                  151.954581,
+                  -27.577564
+                ],
+                [
+                  151.952803,
+                  -27.577044
+                ],
+                [
+                  151.952772,
+                  -27.577036
+                ],
+                [
+                  151.952359,
+                  -27.576941
+                ],
+                [
+                  151.952307,
+                  -27.576932
+                ],
+                [
+                  151.951622,
+                  -27.576841
+                ],
+                [
+                  151.951495,
+                  -27.576839
+                ],
+                [
+                  151.951362,
+                  -27.576851
+                ],
+                [
+                  151.951231,
+                  -27.57688
+                ],
+                [
+                  151.950933,
+                  -27.576984
+                ],
+                [
+                  151.950658,
+                  -27.577591
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7336",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "177",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "1:05PM 07 Apr 2024",
+        "EST_FIX_TIME": "5:00PM 07 Apr 2024",
+        "STREETS": "ATKINSON ST, BEIRNE ST, EVE ST, HUGHES ST, HUME ST, PERKINS ST, RUTHVEN ST, SOUTH ST",
+        "SUBURBS": "CENTENARY HEIGHTS, SOUTH TOOWOOMBA, TOOWOOMBA"
       }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712459101.483952"
+  "extracted": "1712459704.59276"
 }
