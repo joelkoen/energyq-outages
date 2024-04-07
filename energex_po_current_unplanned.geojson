@@ -1,8 +1,110 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.705518,
+              -26.153937
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.703555,
+                  -26.151906
+                ],
+                [
+                  152.706084,
+                  -26.157086
+                ],
+                [
+                  152.706693,
+                  -26.157334
+                ],
+                [
+                  152.707166,
+                  -26.157199
+                ],
+                [
+                  152.70751,
+                  -26.156705
+                ],
+                [
+                  152.70723,
+                  -26.154933
+                ],
+                [
+                  152.707222,
+                  -26.154895
+                ],
+                [
+                  152.706934,
+                  -26.153767
+                ],
+                [
+                  152.706926,
+                  -26.153738
+                ],
+                [
+                  152.706337,
+                  -26.151978
+                ],
+                [
+                  152.706223,
+                  -26.1518
+                ],
+                [
+                  152.704918,
+                  -26.150542
+                ],
+                [
+                  152.704191,
+                  -26.150539
+                ],
+                [
+                  152.703776,
+                  -26.150932
+                ],
+                [
+                  152.703651,
+                  -26.15114
+                ],
+                [
+                  152.703526,
+                  -26.15162
+                ],
+                [
+                  152.703555,
+                  -26.151906
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-753095-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "18",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "4:15AM 08 Apr 2024",
+        "EST_FIX_TIME": "8:00AM 08 Apr 2024",
+        "STREETS": "OLD VETERAN RD",
+        "SUBURBS": "VETERAN"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712521501.821481"
+  "extracted": "1712521804.199681"
 }
