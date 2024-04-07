@@ -99,99 +99,6 @@
           {
             "type": "Point",
             "coordinates": [
-              151.025492,
-              -24.265888
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  150.93802,
-                  -24.312516
-                ],
-                [
-                  151.087229,
-                  -24.313992
-                ],
-                [
-                  151.087666,
-                  -24.313756
-                ],
-                [
-                  151.113388,
-                  -24.27018
-                ],
-                [
-                  151.113446,
-                  -24.269934
-                ],
-                [
-                  151.110929,
-                  -24.237683
-                ],
-                [
-                  151.110807,
-                  -24.237416
-                ],
-                [
-                  151.099377,
-                  -24.225599
-                ],
-                [
-                  151.099054,
-                  -24.225449
-                ],
-                [
-                  151.008042,
-                  -24.217785
-                ],
-                [
-                  151.007616,
-                  -24.217949
-                ],
-                [
-                  150.939881,
-                  -24.294173
-                ],
-                [
-                  150.939773,
-                  -24.294405
-                ],
-                [
-                  150.937537,
-                  -24.312013
-                ],
-                [
-                  150.93802,
-                  -24.312516
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA5410",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "17",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
-        "START": "6:31AM 08 Apr 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "BINDAWALLAH RD, CLIFTON RD, DIGLUM RD, ROWANLEA RD, TABLELAND RD",
-        "SUBURBS": "CALLIOPE, DIGLUM"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -765,9 +672,114 @@
         "STREETS": "COOLABAH RD, COOLIBAH ST, MILLER ST",
         "SUBURBS": "CHARLEVILLE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.784108,
+              -26.563718
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.781706,
+                  -26.563766
+                ],
+                [
+                  148.781923,
+                  -26.564186
+                ],
+                [
+                  148.781939,
+                  -26.564215
+                ],
+                [
+                  148.782499,
+                  -26.565122
+                ],
+                [
+                  148.782624,
+                  -26.565254
+                ],
+                [
+                  148.782958,
+                  -26.565496
+                ],
+                [
+                  148.783548,
+                  -26.565522
+                ],
+                [
+                  148.786284,
+                  -26.563903
+                ],
+                [
+                  148.78651,
+                  -26.563526
+                ],
+                [
+                  148.78651,
+                  -26.563309
+                ],
+                [
+                  148.786326,
+                  -26.562961
+                ],
+                [
+                  148.786243,
+                  -26.5629
+                ],
+                [
+                  148.786168,
+                  -26.562853
+                ],
+                [
+                  148.784272,
+                  -26.561914
+                ],
+                [
+                  148.783728,
+                  -26.561949
+                ],
+                [
+                  148.782489,
+                  -26.562788
+                ],
+                [
+                  148.781859,
+                  -26.563216
+                ],
+                [
+                  148.781706,
+                  -26.563766
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7353",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "46",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:47AM 08 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOND ST, EVA ST, LAMAN ST, MISCAMBLE ST, MULLAVEY ST",
+        "SUBURBS": "ROMA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712526600.371781"
+  "extracted": "1712526900.34092"
 }
