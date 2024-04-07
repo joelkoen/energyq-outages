@@ -130,7 +130,7 @@
         "REASON": "Powerlines down",
         "STATUS": "Awaiting",
         "START": "6:07PM 07 Apr 2024",
-        "EST_FIX_TIME": "11:00PM 07 Apr 2024",
+        "EST_FIX_TIME": "12:30AM 08 Apr 2024",
         "STREETS": "PINE RIDGE RD",
         "SUBURBS": "BIGGERA WATERS, COOMBABAH"
       }
@@ -210,6 +210,99 @@
         "EST_FIX_TIME": "11:30PM 07 Apr 2024",
         "STREETS": "PINE RIDGE RD",
         "SUBURBS": "BIGGERA WATERS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.249778,
+              -27.782155
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.248038,
+                  -27.780707
+                ],
+                [
+                  153.248415,
+                  -27.783275
+                ],
+                [
+                  153.248448,
+                  -27.783386
+                ],
+                [
+                  153.248701,
+                  -27.783943
+                ],
+                [
+                  153.249262,
+                  -27.784218
+                ],
+                [
+                  153.249687,
+                  -27.784149
+                ],
+                [
+                  153.2497,
+                  -27.784147
+                ],
+                [
+                  153.251139,
+                  -27.78388
+                ],
+                [
+                  153.251518,
+                  -27.7833
+                ],
+                [
+                  153.250513,
+                  -27.78053
+                ],
+                [
+                  153.250113,
+                  -27.780223
+                ],
+                [
+                  153.249226,
+                  -27.780093
+                ],
+                [
+                  153.249041,
+                  -27.780096
+                ],
+                [
+                  153.248439,
+                  -27.780206
+                ],
+                [
+                  153.248038,
+                  -27.780707
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-753083-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "9:44PM 07 Apr 2024",
+        "EST_FIX_TIME": "11:30PM 07 Apr 2024",
+        "STREETS": "VAUGHAN DR, WILLE CT",
+        "SUBURBS": "ORMEAU"
       }
     },
     {
@@ -328,5 +421,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712492105.066105"
+  "extracted": "1712492401.422293"
 }
