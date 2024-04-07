@@ -10,6 +10,95 @@
           {
             "type": "Point",
             "coordinates": [
+              147.084406,
+              -23.882075
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.010756,
+                  -24.063055
+                ],
+                [
+                  147.143207,
+                  -24.127285
+                ],
+                [
+                  147.143928,
+                  -24.126913
+                ],
+                [
+                  147.158307,
+                  -23.910529
+                ],
+                [
+                  147.158308,
+                  -23.910492
+                ],
+                [
+                  147.156407,
+                  -23.826267
+                ],
+                [
+                  147.156397,
+                  -23.826182
+                ],
+                [
+                  147.112995,
+                  -23.637223
+                ],
+                [
+                  147.112522,
+                  -23.636865
+                ],
+                [
+                  147.112039,
+                  -23.637211
+                ],
+                [
+                  147.091792,
+                  -23.714747
+                ],
+                [
+                  147.091789,
+                  -23.714758
+                ],
+                [
+                  147.010505,
+                  -24.062561
+                ],
+                [
+                  147.010756,
+                  -24.063055
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5409",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:39AM 08 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "KILCOOL RD, OFF CAPRICORN HWY, OFF TAMBO RD, PORTWINE RD, UNKNOWN ST",
+        "SUBURBS": "ALPHA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -676,5 +765,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712523605.954175"
+  "extracted": "1712523901.364884"
 }
