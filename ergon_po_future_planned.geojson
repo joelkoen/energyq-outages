@@ -205,7 +205,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "17",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 08 Apr 2024",
         "EST_FIX_TIME": "3:00PM 08 Apr 2024",
         "STREETS": "CRACOW RD, GYRANDA RD",
@@ -705,27 +705,6 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "24CA4695",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "81",
-        "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "9:00AM 09 Apr 2024",
-        "EST_FIX_TIME": "2:00PM 09 Apr 2024",
-        "STREETS": "ADAVALE RD, BLACKALL-QUILPIE RD, EMMET-BLACKALL RD, OFF ISISFORD-B'ALL RD, OFF LANDSBOROUGH HWY, OFF LANGLO RD, PENTWYN RD, RAVENSBOURNE RD",
-        "SUBURBS": "BLACKALL, CHARLEVILLE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.231353,
-          -24.988696
-        ]
-      },
-      "properties": {
         "EVENT_ID": "24CA4696",
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "81",
@@ -1071,6 +1050,27 @@
         "EST_FIX_TIME": "2:30PM 12 Apr 2024",
         "STREETS": "MATTHEWS RD",
         "SUBURBS": "MIRRIWINNI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.412773,
+          -16.360508
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN2721",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "30",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 08 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 08 Apr 2024",
+        "STREETS": "LIFU CL, MARLIN DR",
+        "SUBURBS": "WONGA BEACH"
       }
     },
     {
@@ -5131,27 +5131,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.836066,
-          -26.022728
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW6444",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "17",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "9:00AM 08 Apr 2024",
-        "EST_FIX_TIME": "3:00PM 08 Apr 2024",
-        "STREETS": "DUCK CREEK RD, GUNNEWIN EAST RD, MYALL DOWNS RD",
-        "SUBURBS": "INJUNE, ROMA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           148.563236,
           -25.84297
         ]
@@ -5796,27 +5775,6 @@
         "EST_FIX_TIME": "1:30PM 11 Apr 2024",
         "STREETS": "PINE ST",
         "SUBURBS": "THALLON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.963936,
-          -27.605602
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW6751",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
-        "START": "9:00AM 08 Apr 2024",
-        "EST_FIX_TIME": "1:00PM 08 Apr 2024",
-        "STREETS": "WOOD DR",
-        "SUBURBS": "MIDDLE RIDGE"
       }
     },
     {
@@ -6641,5 +6599,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1712530501.34956"
+  "extracted": "1712530803.041818"
 }

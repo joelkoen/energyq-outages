@@ -16,7 +16,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "17",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 08 Apr 2024",
         "EST_FIX_TIME": "3:00PM 08 Apr 2024",
         "STREETS": "CRACOW RD, GYRANDA RD",
@@ -42,6 +42,27 @@
         "EST_FIX_TIME": "1:00PM 08 Apr 2024",
         "STREETS": "WASHPOOL RD, WONGALEE RD",
         "SUBURBS": "MONTO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.412773,
+          -16.360508
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN2721",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "30",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 08 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 08 Apr 2024",
+        "STREETS": "LIFU CL, MARLIN DR",
+        "SUBURBS": "WONGA BEACH"
       }
     },
     {
@@ -133,48 +154,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.836066,
-          -26.022728
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW6444",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "17",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "9:00AM 08 Apr 2024",
-        "EST_FIX_TIME": "3:00PM 08 Apr 2024",
-        "STREETS": "DUCK CREEK RD, GUNNEWIN EAST RD, MYALL DOWNS RD",
-        "SUBURBS": "INJUNE, ROMA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.963936,
-          -27.605602
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW6751",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
-        "START": "9:00AM 08 Apr 2024",
-        "EST_FIX_TIME": "1:00PM 08 Apr 2024",
-        "STREETS": "WOOD DR",
-        "SUBURBS": "MIDDLE RIDGE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           151.938993,
           -27.645304
         ]
@@ -236,5 +215,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712530501.34956"
+  "extracted": "1712530803.041818"
 }
