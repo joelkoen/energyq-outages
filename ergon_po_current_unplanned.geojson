@@ -156,6 +156,91 @@
           {
             "type": "Point",
             "coordinates": [
+              148.704244,
+              -20.274645
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.703396,
+                  -20.275219
+                ],
+                [
+                  148.703572,
+                  -20.275309
+                ],
+                [
+                  148.703721,
+                  -20.275357
+                ],
+                [
+                  148.70477,
+                  -20.275523
+                ],
+                [
+                  148.705324,
+                  -20.275128
+                ],
+                [
+                  148.705335,
+                  -20.275038
+                ],
+                [
+                  148.705252,
+                  -20.274729
+                ],
+                [
+                  148.705056,
+                  -20.274463
+                ],
+                [
+                  148.704929,
+                  -20.274346
+                ],
+                [
+                  148.704015,
+                  -20.273768
+                ],
+                [
+                  148.703277,
+                  -20.274066
+                ],
+                [
+                  148.703152,
+                  -20.274745
+                ],
+                [
+                  148.703396,
+                  -20.275219
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3406",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "30",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:58PM 07 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "SHUTE HARBOUR RD, ST MARTINS RD",
+        "SUBURBS": "CANNONVALE, WHITSUNDAYS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -677,5 +762,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712474701.394274"
+  "extracted": "1712475006.850326"
 }
