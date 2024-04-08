@@ -544,6 +544,67 @@
           {
             "type": "Point",
             "coordinates": [
+              147.445917,
+              -19.589321
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.447341,
+                  -19.588917
+                ],
+                [
+                  147.444527,
+                  -19.588822
+                ],
+                [
+                  147.444034,
+                  -19.589258
+                ],
+                [
+                  147.444493,
+                  -19.589726
+                ],
+                [
+                  147.447307,
+                  -19.589821
+                ],
+                [
+                  147.4478,
+                  -19.589385
+                ],
+                [
+                  147.447341,
+                  -19.588917
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7187",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "5:16PM 08 Apr 2024",
+        "EST_FIX_TIME": "8:00PM 08 Apr 2024",
+        "STREETS": "HOBSON RD",
+        "SUBURBS": "AYR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -728,7 +789,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "5:47PM 08 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "ST JOHNS RD",
@@ -738,5 +799,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712564401.26107"
+  "extracted": "1712564701.29609"
 }
