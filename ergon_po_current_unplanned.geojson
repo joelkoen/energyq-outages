@@ -386,6 +386,71 @@
           {
             "type": "Point",
             "coordinates": [
+              148.89525,
+              -21.111097
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.893897,
+                  -21.110351
+                ],
+                [
+                  148.894391,
+                  -21.112016
+                ],
+                [
+                  148.894916,
+                  -21.112342
+                ],
+                [
+                  148.896359,
+                  -21.112169
+                ],
+                [
+                  148.896603,
+                  -21.111372
+                ],
+                [
+                  148.894666,
+                  -21.10988
+                ],
+                [
+                  148.894098,
+                  -21.109851
+                ],
+                [
+                  148.893897,
+                  -21.110351
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3434",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews on route",
+        "START": "9:54PM 08 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CAMILLERIS RD, SMITH CROSS RD",
+        "SUBURBS": "DEVEREUX CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.723225,
               -19.317886
             ]
@@ -612,5 +677,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712577001.213436"
+  "extracted": "1712577301.608692"
 }
