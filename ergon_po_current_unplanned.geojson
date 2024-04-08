@@ -472,6 +472,139 @@
           {
             "type": "Point",
             "coordinates": [
+              149.84562,
+              -26.620108
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.529551,
+                  -26.641192
+                ],
+                [
+                  149.765409,
+                  -26.890023
+                ],
+                [
+                  149.765411,
+                  -26.890025
+                ],
+                [
+                  149.768531,
+                  -26.893265
+                ],
+                [
+                  149.768723,
+                  -26.893388
+                ],
+                [
+                  149.80163,
+                  -26.905337
+                ],
+                [
+                  149.802117,
+                  -26.905282
+                ],
+                [
+                  150.146987,
+                  -26.676617
+                ],
+                [
+                  150.147102,
+                  -26.676509
+                ],
+                [
+                  150.161806,
+                  -26.65724
+                ],
+                [
+                  150.161745,
+                  -26.656664
+                ],
+                [
+                  150.126625,
+                  -26.625478
+                ],
+                [
+                  150.126615,
+                  -26.625469
+                ],
+                [
+                  149.987773,
+                  -26.508984
+                ],
+                [
+                  149.987737,
+                  -26.508957
+                ],
+                [
+                  149.942985,
+                  -26.477967
+                ],
+                [
+                  149.942955,
+                  -26.477948
+                ],
+                [
+                  149.70311,
+                  -26.334949
+                ],
+                [
+                  149.702767,
+                  -26.334878
+                ],
+                [
+                  149.631659,
+                  -26.343421
+                ],
+                [
+                  149.631396,
+                  -26.343529
+                ],
+                [
+                  149.553758,
+                  -26.404556
+                ],
+                [
+                  149.553588,
+                  -26.404855
+                ],
+                [
+                  149.529433,
+                  -26.640859
+                ],
+                [
+                  149.529551,
+                  -26.641192
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7390",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "381",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:22PM 08 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALDRIDGE RD, ALFORDS RD, ANZAC AVE, BELL ST, BELLS RD, BESTS RD, BOGANDILLA RD, BURKE ST, BURRADOO RD, BUTLER'S RD, BUTLERS RD, CLARKE CREEK RD, CLARKE'S RD, CLERKE ST, COATES RD, COLSONS RD, CONDAMINE HWY, CORBETTS RD, CROSSROAD'S RD, DEVONCOURT RD, DULACCA GOLF CLUB RD, DULACCA NORTH RD, DULACCA SOUTH RD, DUNNS RD, EDWARD ST, ELLERSLIE RD, EWINGSDALE RD, EY'S RD, EYS RD, FORREST ST, FOUNTAIN CREEK RD, FRIZZELLS RD, FRIZZELS RD, GAZES RD, GLENAUBEN RD, GLENLEA RD, GLYNN AVE, GOONALAH EXTENSION RD, GOONALAH NORTH RD, GOONALAH RD E, GREEN LANE, GREGORY ST, GULLAGIMBI RD, HARRISONS RD, HASLOP'S RD, HOME BUSH RD, HOMEBUSH RD, JACKSON RD, JACKSON WANDOAN RD, JACKSON-WANDOAN RD, JARDINE ST, JUBILEE AVE, KILLARNEY ST, LAMBING FLAT RD, LEICHHARDT HWY, LOCKYER ST, LUCKIES LANE, MANTOVAS RD, MARRA MARRA RD, MATTHEWS RD, MILLRAIN RD, MOORES BICE RD, MT MYRTLE RD, NORTH DULACCA HALL RD, NORTH DULACCA RD, NORTH JACKSON RD, NORTH ST, OXLEY ST, PADDYS CREEK RD, PARK LANE, PEI RD, PINE RIDGE RD, QUEEN ST, RAILWAY ST, ROMA-CONDAMINE RD, SHORT ST, SOUTH DRILLHAM RD, STURT ST, SUMMERFIELD RD, TEMPLE ST, TRARALGON AVE, TRASKS LANE, TRIM'S RD, WAITUNA RD, WALLAN CREEK RD, WANDOAN RD, WARREGO HWY, WILLETS RD, WILLS ST, YAPUNYA RD",
+        "SUBURBS": "CONDAMINE, DRILLHAM, DRILLHAM SOUTH, DULACCA, JACKSON, MILES, NORTH DULACCA, NORTH JACKSON, ULIMAROA, YULEBA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.644575,
               -25.458965
             ]
@@ -609,5 +742,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712560801.427486"
+  "extracted": "1712561101.255844"
 }
