@@ -164,6 +164,115 @@
           {
             "type": "Point",
             "coordinates": [
+              151.218744,
+              -23.877651
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.217013,
+                  -23.878306
+                ],
+                [
+                  151.217078,
+                  -23.878419
+                ],
+                [
+                  151.217146,
+                  -23.878509
+                ],
+                [
+                  151.217269,
+                  -23.878635
+                ],
+                [
+                  151.217316,
+                  -23.878677
+                ],
+                [
+                  151.218285,
+                  -23.879438
+                ],
+                [
+                  151.218887,
+                  -23.879462
+                ],
+                [
+                  151.219909,
+                  -23.878794
+                ],
+                [
+                  151.220107,
+                  -23.878506
+                ],
+                [
+                  151.22053,
+                  -23.876324
+                ],
+                [
+                  151.219835,
+                  -23.875839
+                ],
+                [
+                  151.217995,
+                  -23.876658
+                ],
+                [
+                  151.217986,
+                  -23.876662
+                ],
+                [
+                  151.217587,
+                  -23.876849
+                ],
+                [
+                  151.217383,
+                  -23.877028
+                ],
+                [
+                  151.217041,
+                  -23.87758
+                ],
+                [
+                  151.216978,
+                  -23.877773
+                ],
+                [
+                  151.216957,
+                  -23.878065
+                ],
+                [
+                  151.217013,
+                  -23.878306
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5440",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "40",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:02PM 08 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "J HICKEY AVE, ORMISTON ST",
+        "SUBURBS": "CLINTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -669,5 +778,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712570415.823534"
+  "extracted": "1712571001.260338"
 }
