@@ -152,6 +152,99 @@
           {
             "type": "Point",
             "coordinates": [
+              140.425078,
+              -18.521542
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  139.576702,
+                  -18.981496
+                ],
+                [
+                  140.385806,
+                  -19.116958
+                ],
+                [
+                  140.386028,
+                  -19.116945
+                ],
+                [
+                  141.207311,
+                  -18.871504
+                ],
+                [
+                  141.207631,
+                  -18.871164
+                ],
+                [
+                  141.273826,
+                  -18.557479
+                ],
+                [
+                  141.273836,
+                  -18.557379
+                ],
+                [
+                  141.270352,
+                  -18.431415
+                ],
+                [
+                  141.270273,
+                  -18.431177
+                ],
+                [
+                  140.918098,
+                  -17.926325
+                ],
+                [
+                  140.917693,
+                  -17.926125
+                ],
+                [
+                  139.756259,
+                  -17.956289
+                ],
+                [
+                  139.755808,
+                  -17.956664
+                ],
+                [
+                  139.57632,
+                  -18.98098
+                ],
+                [
+                  139.576702,
+                  -18.981496
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4981",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "65",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:00AM 09 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BURKE DEVELOPMENT RD, BURKETOWN RD, IFFLEY RD, NEU MAYER VALLEY STATION, UNKNOWN ST",
+        "SUBURBS": "NORMANTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -544,5 +637,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712617205.229924"
+  "extracted": "1712617500.647029"
 }
