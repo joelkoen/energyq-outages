@@ -164,115 +164,6 @@
           {
             "type": "Point",
             "coordinates": [
-              150.451844,
-              -23.445505
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  150.450281,
-                  -23.444854
-                ],
-                [
-                  150.451512,
-                  -23.446379
-                ],
-                [
-                  150.451536,
-                  -23.446406
-                ],
-                [
-                  150.452228,
-                  -23.447139
-                ],
-                [
-                  150.452806,
-                  -23.44725
-                ],
-                [
-                  150.453066,
-                  -23.447136
-                ],
-                [
-                  150.453345,
-                  -23.446743
-                ],
-                [
-                  150.453408,
-                  -23.444928
-                ],
-                [
-                  150.453408,
-                  -23.44491
-                ],
-                [
-                  150.453403,
-                  -23.444315
-                ],
-                [
-                  150.453199,
-                  -23.443952
-                ],
-                [
-                  150.453034,
-                  -23.443843
-                ],
-                [
-                  150.452738,
-                  -23.443759
-                ],
-                [
-                  150.45144,
-                  -23.443787
-                ],
-                [
-                  150.45129,
-                  -23.443812
-                ],
-                [
-                  150.450865,
-                  -23.443949
-                ],
-                [
-                  150.450761,
-                  -23.443996
-                ],
-                [
-                  150.450408,
-                  -23.444206
-                ],
-                [
-                  150.450281,
-                  -23.444854
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA5437",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "48",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
-        "START": "3:17PM 08 Apr 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "DEAKIN CL, LABANKA CRES, MIDDLE RD, TANNER CT",
-        "SUBURBS": "GRACEMERE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -572,9 +463,78 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.128519,
+              -26.208225
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.109123,
+                  -26.196285
+                ],
+                [
+                  152.120967,
+                  -26.220972
+                ],
+                [
+                  152.121421,
+                  -26.221243
+                ],
+                [
+                  152.147524,
+                  -26.221417
+                ],
+                [
+                  152.147915,
+                  -26.220684
+                ],
+                [
+                  152.125072,
+                  -26.1952
+                ],
+                [
+                  152.124661,
+                  -26.195033
+                ],
+                [
+                  152.109558,
+                  -26.195657
+                ],
+                [
+                  152.109123,
+                  -26.196285
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4720",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "20",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews on route",
+        "START": "4:24PM 08 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "KINBOMBI FALLS RD, KINBOMBI RD, WALKER RD, WIDE BAY HWY",
+        "SUBURBS": "GOOMERI, KINBOMBI"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712559001.61145"
+  "extracted": "1712559301.128025"
 }
