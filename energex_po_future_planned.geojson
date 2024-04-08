@@ -112,6 +112,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.791208,
+          -27.613222
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-741217-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "Planned Maintenance",
+        "STATUS": "In Progress",
+        "START": "7:00AM 09 Apr 2024",
+        "EST_FIX_TIME": "10:00AM 09 Apr 2024",
+        "STREETS": "BRISBANE RD",
+        "SUBURBS": "BOOVAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.899493,
           -27.489945
         ]
@@ -3218,5 +3239,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1712610601.131041"
+  "extracted": "1712610904.252262"
 }
