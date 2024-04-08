@@ -1,8 +1,93 @@
 {
   "type": "FeatureCollection",
   "name": "PLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.182777,
+          -25.294544
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA3936",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 08 Apr 2024",
+        "EST_FIX_TIME": "3:00PM 08 Apr 2024",
+        "STREETS": "CRACOW RD, GYRANDA RD",
+        "SUBURBS": "CRACOW, THEODORE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.412773,
+          -16.360508
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN2721",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "30",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 08 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 08 Apr 2024",
+        "STREETS": "LIFU CL, MARLIN DR",
+        "SUBURBS": "WONGA BEACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.816485,
+          -19.260927
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ4482",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "29",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:29AM 08 Apr 2024",
+        "EST_FIX_TIME": "3:00PM 08 Apr 2024",
+        "STREETS": "FLINDERS ST, HANRAN ST, OGDEN ST, STOKES ST",
+        "SUBURBS": "TOWNSVILLE CITY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.068894,
+          -26.801023
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4494",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "11:25AM 08 Apr 2024",
+        "EST_FIX_TIME": "3:00PM 08 Apr 2024",
+        "STREETS": "STRETTON DR",
+        "SUBURBS": "BLACKBUTT"
+      }
+    }
+  ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712547905.278424"
+  "extracted": "1712548200.291721"
 }
