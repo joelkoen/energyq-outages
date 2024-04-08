@@ -374,9 +374,82 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.200013,
+              -28.590759
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.193638,
+                  -28.586694
+                ],
+                [
+                  148.201281,
+                  -28.606495
+                ],
+                [
+                  148.202191,
+                  -28.606598
+                ],
+                [
+                  148.203707,
+                  -28.604581
+                ],
+                [
+                  148.203791,
+                  -28.604368
+                ],
+                [
+                  148.206388,
+                  -28.575367
+                ],
+                [
+                  148.206083,
+                  -28.574919
+                ],
+                [
+                  148.205503,
+                  -28.575025
+                ],
+                [
+                  148.193747,
+                  -28.586242
+                ],
+                [
+                  148.193638,
+                  -28.586694
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7394",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:11AM 09 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ABBATOIR ACCESS RD, BOLLON RD, HEBEL RD, KILCUMMIN RD",
+        "SUBURBS": "DIRRANBANDI"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712607601.296362"
+  "extracted": "1712607900.497278"
 }
