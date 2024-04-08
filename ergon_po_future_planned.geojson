@@ -1213,7 +1213,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "24",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 09 Apr 2024",
         "EST_FIX_TIME": "2:00PM 09 Apr 2024",
         "STREETS": "HASTIE ST, PARES ST",
@@ -1633,7 +1633,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "16",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 09 Apr 2024",
         "EST_FIX_TIME": "2:30PM 09 Apr 2024",
         "STREETS": "CHURCH ST, GEORGE ST, HOARE LANE, NORMAN ST",
@@ -2562,6 +2562,27 @@
         "EST_FIX_TIME": "5:00PM 10 Apr 2024",
         "STREETS": "BEDFORD RD",
         "SUBURBS": "ANDERGROVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.963878,
+          -21.000897
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2959",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:23AM 09 Apr 2024",
+        "EST_FIX_TIME": "12:00PM 09 Apr 2024",
+        "STREETS": "YAKAPARI SEAFORTH RD",
+        "SUBURBS": "MOUNT JUKES, SEAFORTH"
       }
     },
     {
@@ -4585,6 +4606,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.069857,
+          -20.029324
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6610",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "49",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Work scheduled",
+        "START": "9:00AM 13 Apr 2024",
+        "EST_FIX_TIME": "2:00PM 13 Apr 2024",
+        "STREETS": "AMARRA STATION, BALLABAY STATION, CAPEVILLE STATION, CARGOON STATION, CLAYHOLE STATION, CORNELIA STATION, CUBA PLAINS STATION, ELLENVALE STATION, FELSPAR STATION, GLEN HOUGHTON RD, GLENCOE STATION, GOLDSBOROUGH STATION, GREGORY SPRINGS RD, GRENFELL DOWNS STATION, JESSIE SPRINGS RD, JUNCTION CREEK STATION, LOLWORTH STATION, LOW HOLM STATION, MOUNT STEWART STATION, NEWBURGH STATION, NULLA NULLA STATION, OAKVALE STATION, PERRONE STATION, REEDY SPRINGS STATION, SPRINGFERN STATION, TALAVERA STATION, THE BROOK STATION, TWELVE MILE RD, WANDOVALE RD",
+        "SUBURBS": "BALFES CREEK, BASALT, GREENVALE, PENTLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.959613,
+          -19.628117
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6611",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "On hold until further notice",
+        "START": "9:00AM 13 Apr 2024",
+        "EST_FIX_TIME": "2:00PM 13 Apr 2024",
+        "STREETS": "JESSIE SPRINGS RD, TWELVE MILE RD, WANDOVALE RD",
+        "SUBURBS": "BASALT, GREENVALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.808005,
           -19.330135
         ]
@@ -6379,7 +6442,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "5",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 09 Apr 2024",
         "EST_FIX_TIME": "2:30PM 09 Apr 2024",
         "STREETS": "POWER RD",
@@ -6484,7 +6547,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "21",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 09 Apr 2024",
         "EST_FIX_TIME": "2:30PM 09 Apr 2024",
         "STREETS": "FATHOM CT, LILLY PILLY DR, VOYAGE CT",
@@ -6977,5 +7040,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1712614502.283716"
+  "extracted": "1712615101.365681"
 }
