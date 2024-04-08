@@ -419,6 +419,139 @@
           {
             "type": "Point",
             "coordinates": [
+              148.048676,
+              -21.988823
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.033616,
+                  -21.983974
+                ],
+                [
+                  148.041088,
+                  -21.999625
+                ],
+                [
+                  148.041102,
+                  -21.999653
+                ],
+                [
+                  148.043764,
+                  -22.004335
+                ],
+                [
+                  148.043766,
+                  -22.004338
+                ],
+                [
+                  148.045478,
+                  -22.007295
+                ],
+                [
+                  148.045689,
+                  -22.007485
+                ],
+                [
+                  148.045975,
+                  -22.007617
+                ],
+                [
+                  148.046196,
+                  -22.007664
+                ],
+                [
+                  148.046394,
+                  -22.007662
+                ],
+                [
+                  148.046462,
+                  -22.007656
+                ],
+                [
+                  148.052858,
+                  -22.006728
+                ],
+                [
+                  148.052861,
+                  -22.006728
+                ],
+                [
+                  148.05845,
+                  -22.005893
+                ],
+                [
+                  148.058653,
+                  -22.005815
+                ],
+                [
+                  148.059133,
+                  -22.005498
+                ],
+                [
+                  148.059205,
+                  -22.005439
+                ],
+                [
+                  148.059892,
+                  -22.00476
+                ],
+                [
+                  148.059954,
+                  -22.004683
+                ],
+                [
+                  148.063762,
+                  -21.998789
+                ],
+                [
+                  148.063718,
+                  -21.998265
+                ],
+                [
+                  148.038294,
+                  -21.969983
+                ],
+                [
+                  148.037455,
+                  -21.970157
+                ],
+                [
+                  148.033591,
+                  -21.983674
+                ],
+                [
+                  148.033616,
+                  -21.983974
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3430",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "735",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:40PM 08 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARCHER DR, ARKANA TCE, BATCHELOR PDE, BELSHORE ST, BELYANDO AVE, BENNETT CT, BOWEN CT, BRADMAN ST, BURKE DR, CASEY CT, CHIFLEY CT, COBB CT, CONNOR DR, COOK CT, ELLIOTT ST, FLINDERS DR, GILBERT CT, GOONYELLA RD, GRIFFIN ST, HARRIS CT, HERBERT CT, HOLT CT, ISAACS WAY, KENNEDY DR, KONRADS ST, LAVER ST, LAWRENCE ST, LAWSON DR, LEICHHARDT DR, LESLIE DR, LYONS CT, MACARTHUR ST, MACKAY ST, MENZIES CT, MILLER CT, MILLS AVE, OXLEY DR, SINNOTT CT, ST FRANCIS DR, TALLON ST, TOWN SQUARE AVE, TURNER CT",
+        "SUBURBS": "MORANBAH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.723225,
               -19.317886
             ]
@@ -520,8 +653,8 @@
           {
             "type": "Point",
             "coordinates": [
-              147.445917,
-              -19.589321
+              147.443479,
+              -19.580593
             ]
           },
           {
@@ -529,16 +662,20 @@
             "coordinates": [
               [
                 [
-                  147.447341,
-                  -19.588917
+                  147.434033,
+                  -19.584391
                 ],
                 [
-                  147.444527,
-                  -19.588822
+                  147.442354,
+                  -19.589551
                 ],
                 [
-                  147.444034,
-                  -19.589258
+                  147.442588,
+                  -19.589624
+                ],
+                [
+                  147.444483,
+                  -19.589725
                 ],
                 [
                   147.444493,
@@ -549,12 +686,48 @@
                   -19.589821
                 ],
                 [
-                  147.4478,
-                  -19.589385
+                  147.447399,
+                  -19.589815
                 ],
                 [
-                  147.447341,
-                  -19.588917
+                  147.452697,
+                  -19.58901
+                ],
+                [
+                  147.453085,
+                  -19.588459
+                ],
+                [
+                  147.448844,
+                  -19.571628
+                ],
+                [
+                  147.448102,
+                  -19.571366
+                ],
+                [
+                  147.438129,
+                  -19.578134
+                ],
+                [
+                  147.438032,
+                  -19.578222
+                ],
+                [
+                  147.434837,
+                  -19.582076
+                ],
+                [
+                  147.43479,
+                  -19.582145
+                ],
+                [
+                  147.433872,
+                  -19.583803
+                ],
+                [
+                  147.434033,
+                  -19.584391
                 ]
               ]
             ]
@@ -564,12 +737,12 @@
       "properties": {
         "EVENT_ID": "24NQ7187",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
+        "CUSTOMERS_AFFECTED": "22",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
         "STATUS": "Crews working on-site",
         "START": "5:16PM 08 Apr 2024",
         "EST_FIX_TIME": "8:00PM 08 Apr 2024",
-        "STREETS": "HOBSON RD",
+        "STREETS": "HOBSON RD, IVANHOE RD, RITA ISLAND RD",
         "SUBURBS": "AYR"
       }
     },
@@ -775,5 +948,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712565600.462044"
+  "extracted": "1712565904.131816"
 }
