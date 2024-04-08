@@ -7,6 +7,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          147.154128,
+          -19.562146
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "23NQ13385",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 09 Apr 2024",
+        "EST_FIX_TIME": "2:00PM 09 Apr 2024",
+        "STREETS": "BRUCE HWY, TOWNSVILLE RD",
+        "SUBURBS": "GIRU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           147.142167,
           -19.670899
         ]
@@ -289,7 +310,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "374",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 09 Apr 2024",
         "EST_FIX_TIME": "2:30PM 09 Apr 2024",
         "STREETS": "BRYCE CL, BUZACOTT ST, CHURCH ST, CLELAND ST, GEORGE ST, HORTON LANE, JOY CL, LOUIS CL, LOWREY CL, MILL ST, MOLLER ST, MUIR ST, NAUNTON ST, NORMAN ST, RIVERSTONE RD, RUSSELL HEADS RES, SWAN ST, TEMPLETON ST, UNKNOWN ST",
@@ -1202,5 +1223,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712613900.444568"
+  "extracted": "1712614200.358995"
 }
