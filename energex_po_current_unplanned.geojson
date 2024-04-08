@@ -1,8 +1,90 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.117855,
+              -26.773932
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.117362,
+                  -26.774781
+                ],
+                [
+                  153.11832,
+                  -26.774544
+                ],
+                [
+                  153.118656,
+                  -26.774271
+                ],
+                [
+                  153.118925,
+                  -26.773642
+                ],
+                [
+                  153.118787,
+                  -26.773141
+                ],
+                [
+                  153.118216,
+                  -26.773083
+                ],
+                [
+                  153.117451,
+                  -26.773453
+                ],
+                [
+                  153.117408,
+                  -26.773476
+                ],
+                [
+                  153.117148,
+                  -26.773634
+                ],
+                [
+                  153.116986,
+                  -26.773795
+                ],
+                [
+                  153.116785,
+                  -26.774132
+                ],
+                [
+                  153.117362,
+                  -26.774781
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-753163-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "9:45AM 08 Apr 2024",
+        "EST_FIX_TIME": "12:30PM 08 Apr 2024",
+        "STREETS": "CARELL ST, JACANA ST, TALARA ST",
+        "SUBURBS": "CURRIMUNDI"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712538904.564354"
+  "extracted": "1712539200.286355"
 }
