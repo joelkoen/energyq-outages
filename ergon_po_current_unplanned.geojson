@@ -738,9 +738,78 @@
         "STREETS": "KINBOMBI FALLS RD, KINBOMBI RD, WALKER RD, WIDE BAY HWY",
         "SUBURBS": "GOOMERI, KINBOMBI"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.420149,
+              -24.875367
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.419421,
+                  -24.875485
+                ],
+                [
+                  152.420311,
+                  -24.876037
+                ],
+                [
+                  152.420907,
+                  -24.876008
+                ],
+                [
+                  152.421036,
+                  -24.875476
+                ],
+                [
+                  152.420897,
+                  -24.875203
+                ],
+                [
+                  152.420635,
+                  -24.874975
+                ],
+                [
+                  152.419884,
+                  -24.874696
+                ],
+                [
+                  152.419263,
+                  -24.874901
+                ],
+                [
+                  152.419421,
+                  -24.875485
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4721",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "5:47PM 08 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ST JOHNS RD",
+        "SUBURBS": "BUNDABERG, WOONGARRA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712562305.372383"
+  "extracted": "1712562601.1839"
 }
