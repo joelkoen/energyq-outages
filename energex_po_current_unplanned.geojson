@@ -10,8 +10,109 @@
           {
             "type": "Point",
             "coordinates": [
+              152.873362,
+              -26.293869
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.862943,
+                  -26.28275
+                ],
+                [
+                  152.866718,
+                  -26.298269
+                ],
+                [
+                  152.866834,
+                  -26.298473
+                ],
+                [
+                  152.877474,
+                  -26.309198
+                ],
+                [
+                  152.877506,
+                  -26.309227
+                ],
+                [
+                  152.877769,
+                  -26.309447
+                ],
+                [
+                  152.878513,
+                  -26.309384
+                ],
+                [
+                  152.883704,
+                  -26.303028
+                ],
+                [
+                  152.883782,
+                  -26.302637
+                ],
+                [
+                  152.882751,
+                  -26.299365
+                ],
+                [
+                  152.882745,
+                  -26.299349
+                ],
+                [
+                  152.881206,
+                  -26.295087
+                ],
+                [
+                  152.881176,
+                  -26.295022
+                ],
+                [
+                  152.871807,
+                  -26.27848
+                ],
+                [
+                  152.871118,
+                  -26.278291
+                ],
+                [
+                  152.863189,
+                  -26.282259
+                ],
+                [
+                  152.862943,
+                  -26.28275
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-753329-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "39",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "4:38AM 09 Apr 2024",
+        "EST_FIX_TIME": "11:00AM 09 Apr 2024",
+        "STREETS": "MOFFAT RD, POMONA KIN KIN RD, POMONA-KIN KIN RD, WESTERN BRANCH RD, WILLIAMS RD",
+        "SUBURBS": "KIN KIN, POMONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.865578,
-              -26.257336
+              -26.254805
             ]
           },
           {
@@ -35,28 +136,20 @@
                   -26.280795
                 ],
                 [
-                  152.848138,
-                  -26.280977
+                  152.848218,
+                  -26.281039
                 ],
                 [
-                  152.877482,
-                  -26.309205
+                  152.88277,
+                  -26.302688
                 ],
                 [
-                  152.877506,
-                  -26.309227
+                  152.882962,
+                  -26.302761
                 ],
                 [
-                  152.877769,
-                  -26.309447
-                ],
-                [
-                  152.878286,
-                  -26.309539
-                ],
-                [
-                  152.893292,
-                  -26.304456
+                  152.893022,
+                  -26.304477
                 ],
                 [
                   152.893615,
@@ -124,19 +217,19 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-753329-g",
+        "EVENT_ID": "INCD-753330-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "335",
+        "CUSTOMERS_AFFECTED": "296",
         "REASON": "Under Investigation",
         "STATUS": "Awaiting",
         "START": "4:38AM 09 Apr 2024",
         "EST_FIX_TIME": "11:00AM 09 Apr 2024",
-        "STREETS": "ARTHUR STUBBINS RD, BOWMAN ST, COUCAL LANE, EASTERN BRANCH RD, FRANCIS RD, GAP RD, GOLDEN GULLY RD, GRADY ST, GRADYS LANE, GYMPIE KIN KIN RD, JEREMYS LANE, LEGGETTS LOOP, MAIN ST, MOFFAT RD, MORAN GROUP RD, MURRAYS RD, NEUSA VALE RD, OVERTON WAY, PALMER ST, PENDER CREEK RD, PERSEVERANCE RD, POMONA KIN KIN RD, POMONA-KIN KIN RD, SILKY OAK LANE, SISTER TREE CREEK RD, STRATTONS RD, UPPER PINBARREN CREEK RD, VERRENKAMP LANE, WAHPUNGA LANE, WATSON CT, WESTERN BRANCH RD, WILLIAMS RD",
-        "SUBURBS": "KIN KIN, PINBARREN, POMONA"
+        "STREETS": "ARTHUR STUBBINS RD, BOWMAN ST, COUCAL LANE, EASTERN BRANCH RD, FRANCIS RD, GAP RD, GOLDEN GULLY RD, GRADY ST, GRADYS LANE, GYMPIE KIN KIN RD, JEREMYS LANE, LEGGETTS LOOP, MAIN ST, MORAN GROUP RD, MURRAYS RD, NEUSA VALE RD, OVERTON WAY, PALMER ST, PENDER CREEK RD, PERSEVERANCE RD, POMONA KIN KIN RD, SILKY OAK LANE, SISTER TREE CREEK RD, STRATTONS RD, UPPER PINBARREN CREEK RD, VERRENKAMP LANE, WAHPUNGA LANE, WATSON CT, WESTERN BRANCH RD, WILLIAMS RD",
+        "SUBURBS": "KIN KIN, PINBARREN"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712616900.280152"
+  "extracted": "1712617500.787587"
 }
