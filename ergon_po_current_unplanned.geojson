@@ -472,6 +472,79 @@
           {
             "type": "Point",
             "coordinates": [
+              152.644575,
+              -25.458965
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.637681,
+                  -25.443727
+                ],
+                [
+                  152.639757,
+                  -25.470325
+                ],
+                [
+                  152.640065,
+                  -25.47071
+                ],
+                [
+                  152.650791,
+                  -25.474646
+                ],
+                [
+                  152.651468,
+                  -25.474174
+                ],
+                [
+                  152.648548,
+                  -25.45293
+                ],
+                [
+                  152.648412,
+                  -25.452674
+                ],
+                [
+                  152.638532,
+                  -25.443383
+                ],
+                [
+                  152.637974,
+                  -25.443284
+                ],
+                [
+                  152.637681,
+                  -25.443727
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4717",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "4:53PM 08 Apr 2024",
+        "EST_FIX_TIME": "7:30PM 08 Apr 2024",
+        "STREETS": "BRUCE HWY, FLUERTY RD, STEIN RD",
+        "SUBURBS": "ALDERSHOT, MARYBOROUGH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.128519,
               -26.208225
             ]
@@ -536,5 +609,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712559301.128025"
+  "extracted": "1712559604.746421"
 }
