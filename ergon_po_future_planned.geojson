@@ -4742,7 +4742,7 @@
         "CUSTOMERS_AFFECTED": "18",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 10 Apr 2024",
+        "START": "8:56AM 10 Apr 2024",
         "EST_FIX_TIME": "2:30PM 10 Apr 2024",
         "STREETS": "BELL ST, BRACKER RD, GLEN RD, NEWBY ST, PLAINBY DOUGLAS RD",
         "SUBURBS": "PLAINBY, ROSENTHAL HEIGHTS, WARWICK"
@@ -4889,7 +4889,7 @@
         "CUSTOMERS_AFFECTED": "8",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:00AM 10 Apr 2024",
+        "START": "8:27AM 10 Apr 2024",
         "EST_FIX_TIME": "2:00PM 10 Apr 2024",
         "STREETS": "MARBLE ST",
         "SUBURBS": "DALBY"
@@ -6160,6 +6160,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.280534,
+          -25.258518
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4181",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "92",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 10 Apr 2024",
+        "EST_FIX_TIME": "3:00PM 10 Apr 2024",
+        "STREETS": "BUTCHERS RD, CHAPPELL HILLS RD, EVERETTS RD, GINNS RD, ISIS HWY, PLANTATION RD, RAINBOWS RD",
+        "SUBURBS": "CHILDERS, SOUTH ISIS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.694988,
           -25.508311
         ]
@@ -6515,5 +6536,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1712704200.434176"
+  "extracted": "1712704502.049498"
 }
