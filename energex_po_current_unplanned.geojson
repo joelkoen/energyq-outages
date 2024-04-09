@@ -1,8 +1,110 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.406115,
+              -27.964977
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.404751,
+                  -27.966373
+                ],
+                [
+                  153.404785,
+                  -27.966549
+                ],
+                [
+                  153.405192,
+                  -27.966918
+                ],
+                [
+                  153.405694,
+                  -27.967002
+                ],
+                [
+                  153.4061,
+                  -27.966915
+                ],
+                [
+                  153.407129,
+                  -27.966206
+                ],
+                [
+                  153.40726,
+                  -27.96607
+                ],
+                [
+                  153.407431,
+                  -27.965799
+                ],
+                [
+                  153.407481,
+                  -27.965469
+                ],
+                [
+                  153.407419,
+                  -27.965245
+                ],
+                [
+                  153.407402,
+                  -27.965198
+                ],
+                [
+                  153.406745,
+                  -27.963612
+                ],
+                [
+                  153.406617,
+                  -27.96344
+                ],
+                [
+                  153.406038,
+                  -27.962953
+                ],
+                [
+                  153.405184,
+                  -27.963223
+                ],
+                [
+                  153.404749,
+                  -27.966241
+                ],
+                [
+                  153.404751,
+                  -27.966373
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-753425-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "89",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "1:45PM 09 Apr 2024",
+        "EST_FIX_TIME": "3:30PM 09 Apr 2024",
+        "STREETS": "GEORGE ST, JOHNSTON ST, LLOYD ST, SMITH ST, SYKES CT, WATER ST",
+        "SUBURBS": "SOUTHPORT"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712634601.958514"
+  "extracted": "1712634901.133113"
 }
