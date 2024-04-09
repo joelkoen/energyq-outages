@@ -288,9 +288,86 @@
         "STREETS": "ABBOTSFORD ST, BELLAMBI ST, CRESSBROOK ST, DREM ST, FULHAM ST, GUNYAH ST, MANGERTON ST",
         "SUBURBS": "TOOGOOLAWAH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.512029,
+              -27.667754
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.511225,
+                  -27.667879
+                ],
+                [
+                  152.511911,
+                  -27.669127
+                ],
+                [
+                  152.512509,
+                  -27.669362
+                ],
+                [
+                  152.51287,
+                  -27.668877
+                ],
+                [
+                  152.512675,
+                  -27.667354
+                ],
+                [
+                  152.512668,
+                  -27.667315
+                ],
+                [
+                  152.512484,
+                  -27.666507
+                ],
+                [
+                  152.511999,
+                  -27.666146
+                ],
+                [
+                  152.511496,
+                  -27.666487
+                ],
+                [
+                  152.511188,
+                  -27.667569
+                ],
+                [
+                  152.511225,
+                  -27.667879
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-753498-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:50PM 09 Apr 2024",
+        "EST_FIX_TIME": "9:00PM 09 Apr 2024",
+        "STREETS": "HIDDENVALE RD",
+        "SUBURBS": "CALVERT"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712654102.799575"
+  "extracted": "1712654410.245769"
 }
