@@ -658,6 +658,75 @@
           {
             "type": "Point",
             "coordinates": [
+              150.825733,
+              -26.79629
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.819975,
+                  -26.8022
+                ],
+                [
+                  150.824789,
+                  -26.799544
+                ],
+                [
+                  150.824871,
+                  -26.799488
+                ],
+                [
+                  150.832254,
+                  -26.793224
+                ],
+                [
+                  150.832009,
+                  -26.792455
+                ],
+                [
+                  150.820607,
+                  -26.79038
+                ],
+                [
+                  150.820006,
+                  -26.790793
+                ],
+                [
+                  150.819211,
+                  -26.801787
+                ],
+                [
+                  150.819975,
+                  -26.8022
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7419",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:30PM 09 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRIGALOW-CANAGA RD, HAYWARD RD, JANDOWAE RD",
+        "SUBURBS": "BRIGALOW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.193321,
               -26.41327
             ]
@@ -920,5 +989,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712634001.515364"
+  "extracted": "1712634302.044581"
 }
