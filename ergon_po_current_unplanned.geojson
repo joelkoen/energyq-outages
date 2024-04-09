@@ -75,6 +75,103 @@
           {
             "type": "Point",
             "coordinates": [
+              150.309027,
+              -23.818961
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.266502,
+                  -23.830708
+                ],
+                [
+                  150.266705,
+                  -23.831287
+                ],
+                [
+                  150.266839,
+                  -23.83148
+                ],
+                [
+                  150.272753,
+                  -23.836525
+                ],
+                [
+                  150.273276,
+                  -23.83661
+                ],
+                [
+                  150.330967,
+                  -23.814266
+                ],
+                [
+                  150.331043,
+                  -23.814229
+                ],
+                [
+                  150.351372,
+                  -23.802124
+                ],
+                [
+                  150.351552,
+                  -23.801558
+                ],
+                [
+                  150.350971,
+                  -23.801311
+                ],
+                [
+                  150.306289,
+                  -23.813088
+                ],
+                [
+                  150.306222,
+                  -23.813111
+                ],
+                [
+                  150.283129,
+                  -23.822732
+                ],
+                [
+                  150.283114,
+                  -23.822739
+                ],
+                [
+                  150.266752,
+                  -23.830166
+                ],
+                [
+                  150.266502,
+                  -23.830708
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5502",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "2:37PM 09 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BEASLEYS RD, BURNETT HWY, DULULU BUNERBA RD, MANDALAY RD, OFF BURNETT HWY",
+        "SUBURBS": "DULULU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -774,5 +871,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712644801.788954"
+  "extracted": "1712645401.375512"
 }
