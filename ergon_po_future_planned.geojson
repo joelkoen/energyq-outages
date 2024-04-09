@@ -910,6 +910,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.676701,
+          -24.589352
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4756",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 10 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 10 Apr 2024",
+        "STREETS": "BURNETT HWY, SCHABES RD",
+        "SUBURBS": "LAWGI, LAWGI DAWES, THANGOOL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           147.792744,
           -23.206276
         ]
@@ -1927,7 +1948,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "4",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 10 Apr 2024",
         "EST_FIX_TIME": "2:00PM 10 Apr 2024",
         "STREETS": "EDITH ST",
@@ -1948,7 +1969,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "16",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 10 Apr 2024",
         "EST_FIX_TIME": "2:00PM 10 Apr 2024",
         "STREETS": "HERBERTON RD",
@@ -2305,7 +2326,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "37",
         "REASON": "The loss of supply is to remove vegetation growing near powerlines",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 10 Apr 2024",
         "EST_FIX_TIME": "3:00PM 10 Apr 2024",
         "STREETS": "CEDAR CREEK FALLS RD, MONAGHAN RD, SALTWATER CREEK RD, VITANZA RD",
@@ -4763,7 +4784,7 @@
         "CUSTOMERS_AFFECTED": "35",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 10 Apr 2024",
+        "START": "8:34AM 10 Apr 2024",
         "EST_FIX_TIME": "2:30PM 10 Apr 2024",
         "STREETS": "CHINCHILLA-KOGAN RD, CHURCH RD, KOGAN CONDAMINE RD, KOGAN-CHINCHILLA RD, KOGAN-CONDAMINE RD, KUMMEROWS RD, MILLBANK RD, MONTROSE RD",
         "SUBURBS": "CHINCHILLA, HOPELAND, KOGAN, MONTROSE"
@@ -6536,5 +6557,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1712702705.803832"
+  "extracted": "1712703300.572641"
 }
