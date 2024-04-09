@@ -314,6 +314,99 @@
           {
             "type": "Point",
             "coordinates": [
+              149.312575,
+              -21.357092
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.311059,
+                  -21.355824
+                ],
+                [
+                  149.311209,
+                  -21.356931
+                ],
+                [
+                  149.311291,
+                  -21.357131
+                ],
+                [
+                  149.312731,
+                  -21.359086
+                ],
+                [
+                  149.313019,
+                  -21.359269
+                ],
+                [
+                  149.313479,
+                  -21.359369
+                ],
+                [
+                  149.31407,
+                  -21.358932
+                ],
+                [
+                  149.31409,
+                  -21.355552
+                ],
+                [
+                  149.313743,
+                  -21.355116
+                ],
+                [
+                  149.312638,
+                  -21.354814
+                ],
+                [
+                  149.312341,
+                  -21.354822
+                ],
+                [
+                  149.311761,
+                  -21.355015
+                ],
+                [
+                  149.311599,
+                  -21.355106
+                ],
+                [
+                  149.311214,
+                  -21.355433
+                ],
+                [
+                  149.311059,
+                  -21.355824
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3448",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "48",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews working on-site",
+        "START": "4:06PM 09 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DRIFTWOOD CL, GOLD ST, HILLSIDE DR, SILVER ST",
+        "SUBURBS": "GRASSTREE BEACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -483,118 +576,9 @@
         "STREETS": "BAKERS RD, BLACKBURNS RD, CABAWIN NORTH RD, CABAWIN RD, DONOGHUES RD, DRILLDOOL RD, GAZZARDS RD, HUMBUG RD, LEICHHARDT HWY, LORRAINES RD, MACHANESS RD, MCCASKER RD, MCCASKERS RD, MILLERS RD, SURAT DEVELOPMENT RD, TOLMAH CT, UNDULLA CREEK RD, WESTERN RD",
         "SUBURBS": "CONDAMINE, TARA, THE GUMS"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.193321,
-              -26.41327
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.094099,
-                  -26.459871
-                ],
-                [
-                  151.109783,
-                  -26.462246
-                ],
-                [
-                  151.109847,
-                  -26.462252
-                ],
-                [
-                  151.185546,
-                  -26.464806
-                ],
-                [
-                  151.185819,
-                  -26.464745
-                ],
-                [
-                  151.230389,
-                  -26.441136
-                ],
-                [
-                  151.230421,
-                  -26.441117
-                ],
-                [
-                  151.292936,
-                  -26.401957
-                ],
-                [
-                  151.292959,
-                  -26.401233
-                ],
-                [
-                  151.253823,
-                  -26.373494
-                ],
-                [
-                  151.253685,
-                  -26.373424
-                ],
-                [
-                  151.244774,
-                  -26.37051
-                ],
-                [
-                  151.244757,
-                  -26.370505
-                ],
-                [
-                  151.214619,
-                  -26.361733
-                ],
-                [
-                  151.214287,
-                  -26.361741
-                ],
-                [
-                  151.098893,
-                  -26.40126
-                ],
-                [
-                  151.098572,
-                  -26.401647
-                ],
-                [
-                  151.093683,
-                  -26.459393
-                ],
-                [
-                  151.094099,
-                  -26.459871
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB4728",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "78",
-        "REASON": "The loss of supply is due to fallen power lines.  ",
-        "STATUS": "Crews working on-site",
-        "START": "10:01AM 09 Apr 2024",
-        "EST_FIX_TIME": "6:30PM 09 Apr 2024",
-        "STREETS": "ABERDEEN AVE, ARTHURS LANE, BURRA BURRI CREEK RD, CHINCHILLA-WONDAI RD, HOARES RD, JACKSONS RD, MUNDUBBERA RD, STUBBS-ARMSTRONG RD, SWAINS RD, WOLTMANNS RD",
-        "SUBURBS": "DARR CREEK, DURONG, DURONG SOUTH"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712646905.332904"
+  "extracted": "1712647501.3321"
 }
