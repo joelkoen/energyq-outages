@@ -187,9 +187,98 @@
         "STREETS": "HIDDENVALE RD",
         "SUBURBS": "CALVERT"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.001149,
+              -26.554014
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.999487,
+                  -26.553921
+                ],
+                [
+                  152.999682,
+                  -26.55422
+                ],
+                [
+                  153.000002,
+                  -26.554431
+                ],
+                [
+                  153.000735,
+                  -26.554583
+                ],
+                [
+                  153.00075,
+                  -26.554586
+                ],
+                [
+                  153.001321,
+                  -26.554688
+                ],
+                [
+                  153.001322,
+                  -26.554688
+                ],
+                [
+                  153.00182,
+                  -26.554776
+                ],
+                [
+                  153.00212,
+                  -26.554746
+                ],
+                [
+                  153.002515,
+                  -26.554588
+                ],
+                [
+                  153.002812,
+                  -26.554132
+                ],
+                [
+                  153.002422,
+                  -26.553735
+                ],
+                [
+                  153.00003,
+                  -26.553252
+                ],
+                [
+                  152.999487,
+                  -26.553921
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-753502-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "7:35PM 09 Apr 2024",
+        "EST_FIX_TIME": "10:00PM 09 Apr 2024",
+        "STREETS": "THOMSON VALLEY RD",
+        "SUBURBS": "VALDORA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712658001.459917"
+  "extracted": "1712658301.698767"
 }
