@@ -587,9 +587,102 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.58574,
+              -25.565337
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.548229,
+                  -25.573792
+                ],
+                [
+                  152.569812,
+                  -25.588999
+                ],
+                [
+                  152.570122,
+                  -25.589094
+                ],
+                [
+                  152.6079,
+                  -25.588726
+                ],
+                [
+                  152.608339,
+                  -25.588476
+                ],
+                [
+                  152.623391,
+                  -25.560985
+                ],
+                [
+                  152.623433,
+                  -25.560697
+                ],
+                [
+                  152.619315,
+                  -25.541929
+                ],
+                [
+                  152.618704,
+                  -25.541581
+                ],
+                [
+                  152.556169,
+                  -25.556353
+                ],
+                [
+                  152.555989,
+                  -25.556434
+                ],
+                [
+                  152.551232,
+                  -25.559805
+                ],
+                [
+                  152.551051,
+                  -25.560069
+                ],
+                [
+                  152.548047,
+                  -25.573347
+                ],
+                [
+                  152.548229,
+                  -25.573792
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4760",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "63",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "1:54AM 10 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BARRAGE RD, DUNFORD LANE, DUNFORD RD, DUNFORD RD E, DUNFORD RD W, FINLAY RD, HUBERT LANE, IRRAWARRA RD, LEAHY RD, MUNGAR RD, OLD MILL RD, PIONEER RD, YERRA RD",
+        "SUBURBS": "GRAHAMS CREEK, MUNGAR, YENGARIE, YERRA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712678101.664565"
+  "extracted": "1712678406.071584"
 }
