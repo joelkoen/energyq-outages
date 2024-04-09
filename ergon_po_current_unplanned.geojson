@@ -875,9 +875,94 @@
         "STREETS": "ABERDEEN AVE, ARTHURS LANE, BURRA BURRI CREEK RD, CHINCHILLA-WONDAI RD, HOARES RD, JACKSONS RD, MUNDUBBERA RD, SHELLYTOP RD, STUBBS-ARMSTRONG RD, SWAINS RD, WOLTMANNS RD",
         "SUBURBS": "DARR CREEK, DURONG, DURONG SOUTH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.903781,
+              -25.341054
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.901093,
+                  -25.341292
+                ],
+                [
+                  152.901203,
+                  -25.342079
+                ],
+                [
+                  152.901783,
+                  -25.342464
+                ],
+                [
+                  152.90602,
+                  -25.341761
+                ],
+                [
+                  152.906425,
+                  -25.341344
+                ],
+                [
+                  152.906469,
+                  -25.340626
+                ],
+                [
+                  152.906067,
+                  -25.34016
+                ],
+                [
+                  152.90385,
+                  -25.339779
+                ],
+                [
+                  152.903802,
+                  -25.339773
+                ],
+                [
+                  152.902209,
+                  -25.339644
+                ],
+                [
+                  152.901716,
+                  -25.339903
+                ],
+                [
+                  152.901135,
+                  -25.341047
+                ],
+                [
+                  152.901093,
+                  -25.341292
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4736",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:00PM 09 Apr 2024",
+        "EST_FIX_TIME": "12:15PM 09 Apr 2024",
+        "STREETS": "SEA EAGLES RD, SEWELL CT",
+        "SUBURBS": "BOORAL"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712626801.174664"
+  "extracted": "1712627101.891052"
 }
