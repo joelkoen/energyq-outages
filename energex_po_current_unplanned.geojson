@@ -118,9 +118,126 @@
         "STREETS": "ANZAC AVE, BOWLING GREEN LANE, CREEK ST, DOWNS ST, HUMPYBONG ESP, IRENE ST, JACARANDA AVE, JEFFREY ST, KLINGNER RD, MANLEY ST, MCNAUGHTON ST, MEREDITH ST, OXLEY AVE, PORTWOOD ST, REDCLIFFE PDE, SCARBOROUGH RD, SILVYN ST, WATT ST",
         "SUBURBS": "REDCLIFFE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.112436,
+              -27.226556
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.108109,
+                  -27.230734
+                ],
+                [
+                  153.108726,
+                  -27.231582
+                ],
+                [
+                  153.109133,
+                  -27.231788
+                ],
+                [
+                  153.116131,
+                  -27.231986
+                ],
+                [
+                  153.116646,
+                  -27.231607
+                ],
+                [
+                  153.116822,
+                  -27.230639
+                ],
+                [
+                  153.116823,
+                  -27.230506
+                ],
+                [
+                  153.115624,
+                  -27.22259
+                ],
+                [
+                  153.11562,
+                  -27.222565
+                ],
+                [
+                  153.115421,
+                  -27.221641
+                ],
+                [
+                  153.114993,
+                  -27.221278
+                ],
+                [
+                  153.114413,
+                  -27.221209
+                ],
+                [
+                  153.114368,
+                  -27.221205
+                ],
+                [
+                  153.112368,
+                  -27.221126
+                ],
+                [
+                  153.112145,
+                  -27.221163
+                ],
+                [
+                  153.111218,
+                  -27.221522
+                ],
+                [
+                  153.110999,
+                  -27.221684
+                ],
+                [
+                  153.110907,
+                  -27.221807
+                ],
+                [
+                  153.110843,
+                  -27.22193
+                ],
+                [
+                  153.108048,
+                  -27.23036
+                ],
+                [
+                  153.108109,
+                  -27.230734
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-753566-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "540",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "3:47AM 10 Apr 2024",
+        "EST_FIX_TIME": "6:00AM 10 Apr 2024",
+        "STREETS": "AMBULANCE LANE, ANZAC AVE, CREEK ST, JOHN ST, KLINGNER RD, MARINE PDE, OXLEY AVE, PRINCE EDWARD PDE, REDCLIFFE PDE, SUTTON ST, VIOLET ST, WYLLIE ST",
+        "SUBURBS": "REDCLIFFE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712684704.792991"
+  "extracted": "1712685001.348948"
 }
