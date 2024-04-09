@@ -576,9 +576,82 @@
         "STREETS": "BAKERS RD, BLACKBURNS RD, CABAWIN NORTH RD, CABAWIN RD, DONOGHUES RD, DRILLDOOL RD, GAZZARDS RD, HUMBUG RD, LEICHHARDT HWY, LORRAINES RD, MACHANESS RD, MCCASKER RD, MCCASKERS RD, MILLERS RD, SURAT DEVELOPMENT RD, TOLMAH CT, UNDULLA CREEK RD, WESTERN RD",
         "SUBURBS": "CONDAMINE, TARA, THE GUMS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.76662,
+              -26.829267
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.76348,
+                  -26.834588
+                ],
+                [
+                  151.763919,
+                  -26.835441
+                ],
+                [
+                  151.76464,
+                  -26.835634
+                ],
+                [
+                  151.767357,
+                  -26.834112
+                ],
+                [
+                  151.767584,
+                  -26.833814
+                ],
+                [
+                  151.769766,
+                  -26.823413
+                ],
+                [
+                  151.76942,
+                  -26.822899
+                ],
+                [
+                  151.768812,
+                  -26.823151
+                ],
+                [
+                  151.763475,
+                  -26.83422
+                ],
+                [
+                  151.76348,
+                  -26.834588
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4758",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:17PM 09 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "COLEMAN RD",
+        "SUBURBS": "MAIDENWELL"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712649001.608847"
+  "extracted": "1712649301.585765"
 }
