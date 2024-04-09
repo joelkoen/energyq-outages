@@ -70,9 +70,118 @@
         "STREETS": "KENTVILLE ST",
         "SUBURBS": "MITCHELTON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.183634,
+              -27.683102
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.180583,
+                  -27.683781
+                ],
+                [
+                  153.180625,
+                  -27.68405
+                ],
+                [
+                  153.180656,
+                  -27.684155
+                ],
+                [
+                  153.180744,
+                  -27.684353
+                ],
+                [
+                  153.181108,
+                  -27.684628
+                ],
+                [
+                  153.185305,
+                  -27.685444
+                ],
+                [
+                  153.185325,
+                  -27.685448
+                ],
+                [
+                  153.185524,
+                  -27.685479
+                ],
+                [
+                  153.185974,
+                  -27.685352
+                ],
+                [
+                  153.18669,
+                  -27.684704
+                ],
+                [
+                  153.186643,
+                  -27.684033
+                ],
+                [
+                  153.182049,
+                  -27.680816
+                ],
+                [
+                  153.181652,
+                  -27.680725
+                ],
+                [
+                  153.181141,
+                  -27.680801
+                ],
+                [
+                  153.18088,
+                  -27.680914
+                ],
+                [
+                  153.180796,
+                  -27.680983
+                ],
+                [
+                  153.180633,
+                  -27.681306
+                ],
+                [
+                  153.180579,
+                  -27.68371
+                ],
+                [
+                  153.180583,
+                  -27.683781
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-753476-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "77",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "4:53PM 09 Apr 2024",
+        "EST_FIX_TIME": "8:00PM 09 Apr 2024",
+        "STREETS": "CONCORDE DR, CONSTELLATION DR, HARRIER AVE, SOPWITH ST, VISCOUNT PL",
+        "SUBURBS": "LOGANHOLME"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712645701.553389"
+  "extracted": "1712646005.04904"
 }
