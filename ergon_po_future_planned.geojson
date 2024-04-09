@@ -835,7 +835,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "67",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 10 Apr 2024",
         "EST_FIX_TIME": "2:30PM 10 Apr 2024",
         "STREETS": "ARTHUR ST, GEORGE ST, LINDSAY ST, THE ESPLANADE",
@@ -4867,7 +4867,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "35",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 10 Apr 2024",
         "EST_FIX_TIME": "2:30PM 10 Apr 2024",
         "STREETS": "CHINCHILLA-KOGAN RD, CHURCH RD, KOGAN CONDAMINE RD, KOGAN-CHINCHILLA RD, KOGAN-CONDAMINE RD, KUMMEROWS RD, MILLBANK RD, MONTROSE RD",
@@ -4977,6 +4977,27 @@
         "EST_FIX_TIME": "11:00AM 13 Apr 2024",
         "STREETS": "HURSLEY RD",
         "SUBURBS": "NEWTOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.266032,
+          -27.183125
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6352",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 10 Apr 2024",
+        "EST_FIX_TIME": "2:00PM 10 Apr 2024",
+        "STREETS": "MARBLE ST",
+        "SUBURBS": "DALBY"
       }
     },
     {
@@ -5950,6 +5971,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.342078,
+          -24.845974
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB0607",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:09AM 10 Apr 2024",
+        "EST_FIX_TIME": "2:00PM 10 Apr 2024",
+        "STREETS": "LOESKOW ST",
+        "SUBURBS": "BUNDABERG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.062537,
           -24.652183
         ]
@@ -6578,5 +6620,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1712700600.456915"
+  "extracted": "1712700903.989774"
 }
