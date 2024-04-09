@@ -245,6 +245,95 @@
           {
             "type": "Point",
             "coordinates": [
+              145.753032,
+              -16.998458
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.74512,
+                  -17.004565
+                ],
+                [
+                  145.745268,
+                  -17.004573
+                ],
+                [
+                  145.745506,
+                  -17.004525
+                ],
+                [
+                  145.749847,
+                  -17.002412
+                ],
+                [
+                  145.749938,
+                  -17.002354
+                ],
+                [
+                  145.7555,
+                  -16.997819
+                ],
+                [
+                  145.755503,
+                  -16.997816
+                ],
+                [
+                  145.761195,
+                  -16.993089
+                ],
+                [
+                  145.761278,
+                  -16.992496
+                ],
+                [
+                  145.760677,
+                  -16.992344
+                ],
+                [
+                  145.750509,
+                  -16.997273
+                ],
+                [
+                  145.750359,
+                  -16.997387
+                ],
+                [
+                  145.744785,
+                  -17.003825
+                ],
+                [
+                  145.74512,
+                  -17.004565
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5025",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 10 Apr 2024",
+        "EST_FIX_TIME": "12:00PM 10 Apr 2024",
+        "STREETS": "BRUCE HWY, MAGAZINE RD, SWALLOW RD, VICKERS ST",
+        "SUBURBS": "EDMONTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -463,5 +552,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712701501.957661"
+  "extracted": "1712701806.014174"
 }
