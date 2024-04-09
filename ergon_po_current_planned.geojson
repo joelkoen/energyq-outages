@@ -541,7 +541,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "10:00AM 10 Apr 2024",
         "EST_FIX_TIME": "2:00PM 10 Apr 2024",
         "STREETS": "FLETCHERVALE STATION",
@@ -650,6 +650,27 @@
         "START": "8:30AM 10 Apr 2024",
         "EST_FIX_TIME": "2:30PM 10 Apr 2024",
         "STREETS": "BLANES ST, LOUISE ST, ROSS RIVER RD, VALENCIA ST",
+        "SUBURBS": "CRANBROOK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.746814,
+          -19.310637
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6475",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:24AM 10 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 10 Apr 2024",
+        "STREETS": "ROSS RIVER RD",
         "SUBURBS": "CRANBROOK"
       }
     },
@@ -819,6 +840,27 @@
         "EST_FIX_TIME": "1:30PM 10 Apr 2024",
         "STREETS": "CHAMBERS RD, DALKEITH RD, KOOROON RD, TEELBA RD",
         "SUBURBS": "FLINTON, GLENMORGAN, ST GEORGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.502896,
+          -27.459247
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6562",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "46",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:28AM 10 Apr 2024",
+        "EST_FIX_TIME": "3:00PM 10 Apr 2024",
+        "STREETS": "GLENEARN RD, HURST RD, NEW SETTLERS RD, PENFOLDS RD, ROCKY GLEN RD, STUARTS RD, TEELBA RD, TELGAZLIE RD, UNGABILLA RD",
+        "SUBURBS": "COOMRITH, FLINTON, GLENMORGAN, MEANDARRA, SURAT, TEELBA"
       }
     },
     {
@@ -1097,5 +1139,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712705100.332557"
+  "extracted": "1712705403.032448"
 }
