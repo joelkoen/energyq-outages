@@ -836,6 +836,87 @@
           {
             "type": "Point",
             "coordinates": [
+              151.921194,
+              -28.662064
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.917068,
+                  -28.662484
+                ],
+                [
+                  151.917619,
+                  -28.663596
+                ],
+                [
+                  151.91811,
+                  -28.663865
+                ],
+                [
+                  151.923692,
+                  -28.663637
+                ],
+                [
+                  151.923834,
+                  -28.663613
+                ],
+                [
+                  151.924977,
+                  -28.663266
+                ],
+                [
+                  151.925321,
+                  -28.662862
+                ],
+                [
+                  151.925023,
+                  -28.662431
+                ],
+                [
+                  151.919626,
+                  -28.660262
+                ],
+                [
+                  151.919056,
+                  -28.660351
+                ],
+                [
+                  151.917177,
+                  -28.661983
+                ],
+                [
+                  151.917068,
+                  -28.662484
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7436",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "45",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "2:58PM 09 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRITANNIA ST, COLLEGE RD",
+        "SUBURBS": "STANTHORPE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.193321,
               -26.41327
             ]
@@ -1025,5 +1106,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712640301.802817"
+  "extracted": "1712640604.627753"
 }
