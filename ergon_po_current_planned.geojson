@@ -301,27 +301,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.963878,
-          -21.000897
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK2959",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "5",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:23AM 09 Apr 2024",
-        "EST_FIX_TIME": "12:00PM 09 Apr 2024",
-        "STREETS": "YAKAPARI SEAFORTH RD",
-        "SUBURBS": "MOUNT JUKES, SEAFORTH"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           149.211149,
           -21.425379
         ]
@@ -357,6 +336,27 @@
         "EST_FIX_TIME": "2:00PM 09 Apr 2024",
         "STREETS": "ARTHUR CREEK RD, GRAHAM RD, OAKENDEN RD, OAKENDEN SARINA RD",
         "SUBURBS": "HOMEBUSH, OAKENDEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.189371,
+          -21.53723
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6079",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "11:00AM 09 Apr 2024",
+        "EST_FIX_TIME": "3:00PM 09 Apr 2024",
+        "STREETS": "BELFAST STATION, CECIL PLAINS STATION, CRENDON STATION, HILTON DOWNS STATION, WYREEMA STATION",
+        "SUBURBS": "JULIA CREEK, KYNUNA"
       }
     },
     {
@@ -782,5 +782,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712625601.568518"
+  "extracted": "1712625901.337544"
 }
