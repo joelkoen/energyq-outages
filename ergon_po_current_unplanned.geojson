@@ -245,6 +245,99 @@
           {
             "type": "Point",
             "coordinates": [
+              145.932142,
+              -18.239661
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.925517,
+                  -18.242272
+                ],
+                [
+                  145.930401,
+                  -18.245017
+                ],
+                [
+                  145.93093,
+                  -18.244984
+                ],
+                [
+                  145.935028,
+                  -18.241956
+                ],
+                [
+                  145.935146,
+                  -18.241828
+                ],
+                [
+                  145.938779,
+                  -18.235929
+                ],
+                [
+                  145.938843,
+                  -18.23566
+                ],
+                [
+                  145.938776,
+                  -18.234935
+                ],
+                [
+                  145.938426,
+                  -18.234537
+                ],
+                [
+                  145.93751,
+                  -18.234306
+                ],
+                [
+                  145.93725,
+                  -18.234311
+                ],
+                [
+                  145.932244,
+                  -18.235789
+                ],
+                [
+                  145.932069,
+                  -18.235884
+                ],
+                [
+                  145.925442,
+                  -18.241545
+                ],
+                [
+                  145.925517,
+                  -18.242272
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5011",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "30",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:40PM 09 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 09 Apr 2024",
+        "STREETS": "ELLERBECK RD, SULLIVAN RD",
+        "SUBURBS": "CARRUCHAN, KENNEDY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -932,5 +1025,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712639100.462451"
+  "extracted": "1712639401.047955"
 }
