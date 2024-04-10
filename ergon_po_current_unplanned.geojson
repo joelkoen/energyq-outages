@@ -379,6 +379,99 @@
           {
             "type": "Point",
             "coordinates": [
+              147.358583,
+              -19.642499
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.340174,
+                  -19.667666
+                ],
+                [
+                  147.355615,
+                  -19.657693
+                ],
+                [
+                  147.35563,
+                  -19.657684
+                ],
+                [
+                  147.377541,
+                  -19.642361
+                ],
+                [
+                  147.377734,
+                  -19.64197
+                ],
+                [
+                  147.37647,
+                  -19.622329
+                ],
+                [
+                  147.376312,
+                  -19.622019
+                ],
+                [
+                  147.370868,
+                  -19.617397
+                ],
+                [
+                  147.370328,
+                  -19.617333
+                ],
+                [
+                  147.345336,
+                  -19.629739
+                ],
+                [
+                  147.345251,
+                  -19.629793
+                ],
+                [
+                  147.344188,
+                  -19.630637
+                ],
+                [
+                  147.344021,
+                  -19.63093
+                ],
+                [
+                  147.339432,
+                  -19.667239
+                ],
+                [
+                  147.340174,
+                  -19.667666
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7307",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "81",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:04AM 11 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CLARE RD, DE DOMENICO RD, EY'S RD, GIDDY RD, LEIBRECHT RD, MAIDAVALE RD, MENSO RD, OLD CLARE RD, PORTER RD",
+        "SUBURBS": "AIRVILLE, AYR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -512,5 +605,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712790001.709387"
+  "extracted": "1712790601.376815"
 }
