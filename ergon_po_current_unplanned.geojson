@@ -152,6 +152,95 @@
           {
             "type": "Point",
             "coordinates": [
+              145.6896,
+              -16.825285
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.687697,
+                  -16.825108
+                ],
+                [
+                  145.688109,
+                  -16.825672
+                ],
+                [
+                  145.688393,
+                  -16.825854
+                ],
+                [
+                  145.688713,
+                  -16.825921
+                ],
+                [
+                  145.688738,
+                  -16.825926
+                ],
+                [
+                  145.689224,
+                  -16.826001
+                ],
+                [
+                  145.689245,
+                  -16.826004
+                ],
+                [
+                  145.689888,
+                  -16.826075
+                ],
+                [
+                  145.690746,
+                  -16.826169
+                ],
+                [
+                  145.691196,
+                  -16.825961
+                ],
+                [
+                  145.691503,
+                  -16.825493
+                ],
+                [
+                  145.69117,
+                  -16.824805
+                ],
+                [
+                  145.688145,
+                  -16.8244
+                ],
+                [
+                  145.687697,
+                  -16.825108
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5066",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "25",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "8:01AM 11 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANNE ST",
+        "SUBURBS": "SMITHFIELD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -277,5 +366,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712787304.17956"
+  "extracted": "1712787601.291262"
 }
