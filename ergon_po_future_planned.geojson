@@ -1372,6 +1372,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.910393,
+          -17.347149
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3956",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "1:15PM 10 Apr 2024",
+        "EST_FIX_TIME": "4:30PM 10 Apr 2024",
+        "STREETS": "BOULDERS RD",
+        "SUBURBS": "BABINDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.916953,
           -17.343058
         ]
@@ -3724,27 +3745,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.858261,
-          -19.802872
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ6333",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "10:00AM 10 Apr 2024",
-        "EST_FIX_TIME": "2:00PM 10 Apr 2024",
-        "STREETS": "FLETCHERVALE STATION",
-        "SUBURBS": "BASALT"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           146.767778,
           -19.27759
         ]
@@ -5159,7 +5159,7 @@
       "properties": {
         "EVENT_ID": "24SW6542",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "108",
+        "CUSTOMERS_AFFECTED": "109",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:00AM 14 Apr 2024",
@@ -5173,14 +5173,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.957708,
-          -27.459662
+          151.957813,
+          -27.45963
         ]
       },
       "properties": {
         "EVENT_ID": "24SW6545",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "39",
+        "CUSTOMERS_AFFECTED": "38",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:00AM 14 Apr 2024",
@@ -5793,7 +5793,7 @@
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
         "START": "8:00AM 10 Apr 2024",
-        "EST_FIX_TIME": "1:30PM 10 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 10 Apr 2024",
         "STREETS": "MULGRAVE ST, WOONDOOMA ST",
         "SUBURBS": "BUNDABERG WEST"
       }
@@ -5943,27 +5943,6 @@
         "EST_FIX_TIME": "12:30PM 12 Apr 2024",
         "STREETS": "GRANT CRES, HANLEY ST",
         "SUBURBS": "WONDAI"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.280534,
-          -25.258518
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB4181",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "92",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "9:00AM 10 Apr 2024",
-        "EST_FIX_TIME": "3:00PM 10 Apr 2024",
-        "STREETS": "BUTCHERS RD, CHAPPELL HILLS RD, EVERETTS RD, GINNS RD, ISIS HWY, PLANTATION RD, RAINBOWS RD",
-        "SUBURBS": "CHILDERS, SOUTH ISIS"
       }
     },
     {
@@ -6284,5 +6263,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1712718600.663191"
+  "extracted": "1712719200.964152"
 }
