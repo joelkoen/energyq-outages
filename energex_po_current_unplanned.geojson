@@ -66,9 +66,90 @@
         "STREETS": "WATERLOO ST",
         "SUBURBS": "CLEVELAND"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.977569,
+              -27.60549
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.97572,
+                  -27.606366
+                ],
+                [
+                  152.977952,
+                  -27.606179
+                ],
+                [
+                  152.978009,
+                  -27.606171
+                ],
+                [
+                  152.979186,
+                  -27.605948
+                ],
+                [
+                  152.97947,
+                  -27.605796
+                ],
+                [
+                  152.979885,
+                  -27.605353
+                ],
+                [
+                  152.979944,
+                  -27.604853
+                ],
+                [
+                  152.979448,
+                  -27.604614
+                ],
+                [
+                  152.97584,
+                  -27.604916
+                ],
+                [
+                  152.975409,
+                  -27.605217
+                ],
+                [
+                  152.975194,
+                  -27.605768
+                ],
+                [
+                  152.97572,
+                  -27.606366
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-753774-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "28",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "9:43PM 10 Apr 2024",
+        "EST_FIX_TIME": "11:00PM 10 Apr 2024",
+        "STREETS": "LORIKEET ST, TEAL ST, TERN ST",
+        "SUBURBS": "INALA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712749201.316147"
+  "extracted": "1712749504.039484"
 }
