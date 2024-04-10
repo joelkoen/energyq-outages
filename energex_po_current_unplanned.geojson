@@ -1,8 +1,110 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.015429,
+              -27.447113
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.013953,
+                  -27.447368
+                ],
+                [
+                  153.014482,
+                  -27.447913
+                ],
+                [
+                  153.014797,
+                  -27.448064
+                ],
+                [
+                  153.015979,
+                  -27.448206
+                ],
+                [
+                  153.016402,
+                  -27.44808
+                ],
+                [
+                  153.01665,
+                  -27.44786
+                ],
+                [
+                  153.016781,
+                  -27.447663
+                ],
+                [
+                  153.016931,
+                  -27.447193
+                ],
+                [
+                  153.016714,
+                  -27.446688
+                ],
+                [
+                  153.015827,
+                  -27.446188
+                ],
+                [
+                  153.015781,
+                  -27.446165
+                ],
+                [
+                  153.015453,
+                  -27.44602
+                ],
+                [
+                  153.014938,
+                  -27.446055
+                ],
+                [
+                  153.014194,
+                  -27.446521
+                ],
+                [
+                  153.014076,
+                  -27.446624
+                ],
+                [
+                  153.013927,
+                  -27.446805
+                ],
+                [
+                  153.013953,
+                  -27.447368
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-753742-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "94",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "4:53PM 10 Apr 2024",
+        "EST_FIX_TIME": "7:00PM 10 Apr 2024",
+        "STREETS": "FRANKLIN ST, HERSTON RD, SCOTT RD",
+        "SUBURBS": "HERSTON, KELVIN GROVE"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712733303.298185"
+  "extracted": "1712733601.109221"
 }
