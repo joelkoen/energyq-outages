@@ -1,8 +1,94 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.997834,
+              -27.557936
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.996787,
+                  -27.55718
+                ],
+                [
+                  152.997173,
+                  -27.558815
+                ],
+                [
+                  152.997735,
+                  -27.55917
+                ],
+                [
+                  152.998266,
+                  -27.559107
+                ],
+                [
+                  152.998447,
+                  -27.559054
+                ],
+                [
+                  152.998678,
+                  -27.558939
+                ],
+                [
+                  152.998881,
+                  -27.558339
+                ],
+                [
+                  152.998765,
+                  -27.558137
+                ],
+                [
+                  152.9983,
+                  -27.557329
+                ],
+                [
+                  152.998183,
+                  -27.557127
+                ],
+                [
+                  152.997997,
+                  -27.556948
+                ],
+                [
+                  152.997547,
+                  -27.556702
+                ],
+                [
+                  152.996787,
+                  -27.55718
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-753670-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "12:24PM 10 Apr 2024",
+        "EST_FIX_TIME": "2:00PM 10 Apr 2024",
+        "STREETS": "SUSCATAND ST",
+        "SUBURBS": "ROCKLEA"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712715900.29094"
+  "extracted": "1712716201.026263"
 }
