@@ -1,74 +1,8 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              153.26492,
-              -27.527434
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.265295,
-                  -27.527831
-                ],
-                [
-                  153.2655,
-                  -27.527481
-                ],
-                [
-                  153.265082,
-                  -27.526821
-                ],
-                [
-                  153.264904,
-                  -27.526812
-                ],
-                [
-                  153.264367,
-                  -27.527233
-                ],
-                [
-                  153.264341,
-                  -27.527592
-                ],
-                [
-                  153.26471,
-                  -27.528056
-                ],
-                [
-                  153.265295,
-                  -27.527831
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-753766-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "10",
-        "REASON": "Emergency Repairs",
-        "STATUS": "Awaiting",
-        "START": "8:51PM 10 Apr 2024",
-        "EST_FIX_TIME": "1:30AM 11 Apr 2024",
-        "STREETS": "WATERLOO ST",
-        "SUBURBS": "CLEVELAND"
-      }
-    }
-  ],
+  "features": [],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712757301.457675"
+  "extracted": "1712757604.674118"
 }
