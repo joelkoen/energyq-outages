@@ -826,6 +826,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.779984,
+          -19.262866
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5841",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:23AM 11 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 11 Apr 2024",
+        "STREETS": "CHANDLER ST, LONERGANNE ST",
+        "SUBURBS": "GARBUTT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.560195,
           -20.610518
         ]
@@ -1129,7 +1150,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "60",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:00AM 11 Apr 2024",
         "EST_FIX_TIME": "2:00PM 11 Apr 2024",
         "STREETS": "AJUGA CT, BROOKVALE PARK RD, GRANT RD, JONDARYAN MOUNT TYSON RD, JONDARYAN SABINE RD, NORGAARD RD, WARREGO HWY",
@@ -1547,7 +1568,7 @@
       "properties": {
         "EVENT_ID": "24WB0955",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "1051",
+        "CUSTOMERS_AFFECTED": "1050",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Work scheduled",
         "START": "9:00AM 11 Apr 2024",
@@ -1568,7 +1589,7 @@
       "properties": {
         "EVENT_ID": "24WB3265",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2904",
+        "CUSTOMERS_AFFECTED": "2905",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Work scheduled",
         "START": "10:00PM 11 Apr 2024",
@@ -1664,5 +1685,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712784000.444144"
+  "extracted": "1712784301.160866"
 }
