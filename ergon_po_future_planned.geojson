@@ -1393,19 +1393,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.918608,
-          -17.344666
+          145.914772,
+          -17.344986
         ]
       },
       "properties": {
-        "EVENT_ID": "24FN3950",
+        "EVENT_ID": "24FN3948",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "6",
+        "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "7:30AM 10 Apr 2024",
+        "START": "10:30AM 10 Apr 2024",
         "EST_FIX_TIME": "4:30PM 10 Apr 2024",
-        "STREETS": "HOSPITAL ST, KING ST, MARTIN ST, MUNRO ST",
+        "STREETS": "MARTIN ST, MUNRO ST, POLLARD RD",
+        "SUBURBS": "BABINDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.913506,
+          -17.348166
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3949",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "10:29AM 10 Apr 2024",
+        "EST_FIX_TIME": "4:30PM 10 Apr 2024",
+        "STREETS": "POLLARD RD",
         "SUBURBS": "BABINDA"
       }
     },
@@ -3073,6 +3094,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.240461,
+          -20.01146
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5870",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "10:33AM 10 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 10 Apr 2024",
+        "STREETS": "SINCLAIR ST",
+        "SUBURBS": "BOWEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.241596,
           -20.009739
         ]
@@ -3213,27 +3255,6 @@
         "EST_FIX_TIME": "2:30PM 12 Apr 2024",
         "STREETS": "BLETCHINGTON STATION, CLERMONT HWY, MERRICOURT STATION, OLD VICTORIA STATION, SLOGAN DOWNS STATION, VICTORIA DOWNS STATION",
         "SUBURBS": "SEVENTY MILE RANGE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.249584,
-          -20.014243
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5919",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "7:34AM 10 Apr 2024",
-        "EST_FIX_TIME": "4:00PM 10 Apr 2024",
-        "STREETS": "DALRYMPLE ST, GEORGE ST",
-        "SUBURBS": "BOWEN"
       }
     },
     {
@@ -4410,6 +4431,27 @@
         "EST_FIX_TIME": "1:00PM 11 Apr 2024",
         "STREETS": "TOOMPINE RD",
         "SUBURBS": "EULO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.655426,
+          -27.52552
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW5409",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "89",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 10 Apr 2024",
+        "EST_FIX_TIME": "2:00PM 10 Apr 2024",
+        "STREETS": "ARMITAGE RD, AUBIGNY CHURCH RD, AUBIGNY-CROSSHILL RD, CIESIOLKA RD, COCKBURN RD, EHRLICH RD, F DREWS RD, JACOB LANE, JOHN ST, KENNEDY RD, MAIN ST, MCGRATH RD, MURPHY RD, O'BRIEN RD, OAKEY PITTSWORTH RD, OAKEY-PITTSWORTH RD, REEN RD, RYAN RD, SOUTH ST, TOOWOOMBA CECIL PLAINS RD, WILLIAM ST, WOODVIEW SCHOOL RD",
+        "SUBURBS": "AUBIGNY, BIDDESTON, LINTHORPE, PURRAWUNDA, YARGULLEN"
       }
     },
     {
@@ -6452,5 +6494,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1712709001.946161"
+  "extracted": "1712709300.379629"
 }
