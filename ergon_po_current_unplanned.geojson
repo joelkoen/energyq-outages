@@ -689,14 +689,131 @@
         "CUSTOMERS_AFFECTED": "14",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
         "STATUS": "Crews working on-site",
-        "START": "8:00AM 11 Apr 2024",
+        "START": "9:17AM 11 Apr 2024",
         "EST_FIX_TIME": "2:00PM 11 Apr 2024",
         "STREETS": "BENDEE RD, INGLESTONE LANE, MEANDARRA TALWOOD RD, OLD MOONIE RD, THE RANCH RD",
         "SUBURBS": "INGLESTONE, MEANDARRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.896784,
+              -27.399028
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.874038,
+                  -27.414009
+                ],
+                [
+                  151.888346,
+                  -27.421259
+                ],
+                [
+                  151.888412,
+                  -27.421287
+                ],
+                [
+                  151.898513,
+                  -27.424791
+                ],
+                [
+                  151.899024,
+                  -27.424713
+                ],
+                [
+                  151.916277,
+                  -27.411507
+                ],
+                [
+                  151.916447,
+                  -27.411237
+                ],
+                [
+                  151.919764,
+                  -27.392762
+                ],
+                [
+                  151.91977,
+                  -27.392678
+                ],
+                [
+                  151.919171,
+                  -27.373594
+                ],
+                [
+                  151.918339,
+                  -27.373264
+                ],
+                [
+                  151.900218,
+                  -27.387101
+                ],
+                [
+                  151.900191,
+                  -27.387123
+                ],
+                [
+                  151.875389,
+                  -27.409047
+                ],
+                [
+                  151.875287,
+                  -27.409176
+                ],
+                [
+                  151.874975,
+                  -27.409772
+                ],
+                [
+                  151.874949,
+                  -27.409834
+                ],
+                [
+                  151.874269,
+                  -27.411861
+                ],
+                [
+                  151.874263,
+                  -27.411879
+                ],
+                [
+                  151.873798,
+                  -27.413506
+                ],
+                [
+                  151.874038,
+                  -27.414009
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7506",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "610",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:31AM 11 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "APPLETREE CT, AQUILA DR, BOODUA-MERINGANDAN RD, CLIFFORD ST, COUCAL CT, CRIMSON ROSELLA AVE, DAINTREE CRES, DRAZEN PL, EGRET CT, FARMER DR, GOOMBUNGEE RD, GOOMBUNGEE-MERINGANDAN RD, GRAN PARADISO WAY, HARVEST RD, HEADER DR, HIGHLAND PARK RD, HIGHVIEW ST, IRONBARK CRES, KINGFISHER CT, KOOKABURRA CT, KURRAJONG CT, LAPWING CRES, LEWIS DR, MERINGANDAN-GOOMBUNGEE RD, MONARCH ST, NEVILLE ST, PARKVIEW PL, PATON RD, PETERS RD, PIPELINE RD, PIPIT CT, PLOUGH DR, ROSELLA GARDENS DR, SENIAH CT, SILO CT, SKYVIEW ST, SOVEREIGN DR, STABLE CT, THOMAS ST, TRILLER ST, VALLEY VIEW DR, VOLP RD, WATTLE DR, WILLIAM ST, WILLIS RD, WISDOM ST",
+        "SUBURBS": "MERINGANDAN, MERINGANDAN WEST"
       }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712791804.91638"
+  "extracted": "1712792101.112548"
 }
