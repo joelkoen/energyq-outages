@@ -302,7 +302,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "611",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "1:23AM 11 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "AMAROO CL, ANNE ST, BENA ST, BUFFER CL, CAMBRIAN AVE, CAPTAIN COOK HWY, CHATHAM TCE, COUNTY CL, DARKIN CL, DENNISON CT, ELLIVER ST, FLINDERS CT, FURROW CL, GAVIN ST, GILLIAN CL, GRAMPIAN CL, HELEN CL, JARDA ST, KERRYANNE CL, KIMANNE CL, KNIGHT RD, KRAKATOA CL, LANGSAT CL, LAURALIU CL, LESLEY ST, LYDIA ST, MANGOSTEEN CL, MARCIA CL, MESA CL, METRIC CL, NIMBA CL, NINA CL, RANGEVIEW CL, SERENITY PL, SHARON ST, STANTON RD, SURVEY ST, TIMBER TCE, TRANQUIL PL",
@@ -463,6 +463,75 @@
           {
             "type": "Point",
             "coordinates": [
+              149.183288,
+              -21.181132
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.181408,
+                  -21.178822
+                ],
+                [
+                  149.184168,
+                  -21.183801
+                ],
+                [
+                  149.184692,
+                  -21.184035
+                ],
+                [
+                  149.185075,
+                  -21.183626
+                ],
+                [
+                  149.185169,
+                  -21.182428
+                ],
+                [
+                  149.185082,
+                  -21.182134
+                ],
+                [
+                  149.182227,
+                  -21.178353
+                ],
+                [
+                  149.181584,
+                  -21.178229
+                ],
+                [
+                  149.181408,
+                  -21.178822
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3483",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
+        "STATUS": "Outage reported",
+        "START": "11:42PM 10 Apr 2024",
+        "EST_FIX_TIME": "8:00AM 11 Apr 2024",
+        "STREETS": "BOUNDARY RD",
+        "SUBURBS": "MACKAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -519,5 +588,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712763007.241125"
+  "extracted": "1712763601.606337"
 }
