@@ -152,6 +152,171 @@
           {
             "type": "Point",
             "coordinates": [
+              145.685898,
+              -16.831126
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.678185,
+                  -16.832785
+                ],
+                [
+                  145.678433,
+                  -16.835733
+                ],
+                [
+                  145.678433,
+                  -16.835737
+                ],
+                [
+                  145.678733,
+                  -16.838953
+                ],
+                [
+                  145.679302,
+                  -16.839354
+                ],
+                [
+                  145.686763,
+                  -16.83775
+                ],
+                [
+                  145.686937,
+                  -16.837674
+                ],
+                [
+                  145.692817,
+                  -16.833543
+                ],
+                [
+                  145.692987,
+                  -16.833314
+                ],
+                [
+                  145.693598,
+                  -16.831449
+                ],
+                [
+                  145.69361,
+                  -16.83122
+                ],
+                [
+                  145.692519,
+                  -16.826237
+                ],
+                [
+                  145.692417,
+                  -16.826037
+                ],
+                [
+                  145.691463,
+                  -16.824959
+                ],
+                [
+                  145.69134,
+                  -16.824861
+                ],
+                [
+                  145.688566,
+                  -16.823318
+                ],
+                [
+                  145.68847,
+                  -16.823278
+                ],
+                [
+                  145.688245,
+                  -16.823211
+                ],
+                [
+                  145.688187,
+                  -16.823197
+                ],
+                [
+                  145.687512,
+                  -16.823083
+                ],
+                [
+                  145.687502,
+                  -16.823081
+                ],
+                [
+                  145.687201,
+                  -16.823037
+                ],
+                [
+                  145.687192,
+                  -16.823035
+                ],
+                [
+                  145.686277,
+                  -16.822917
+                ],
+                [
+                  145.686227,
+                  -16.822913
+                ],
+                [
+                  145.685646,
+                  -16.822898
+                ],
+                [
+                  145.685275,
+                  -16.823057
+                ],
+                [
+                  145.679832,
+                  -16.82925
+                ],
+                [
+                  145.679797,
+                  -16.829295
+                ],
+                [
+                  145.67942,
+                  -16.829851
+                ],
+                [
+                  145.679381,
+                  -16.829923
+                ],
+                [
+                  145.678221,
+                  -16.832574
+                ],
+                [
+                  145.678185,
+                  -16.832785
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5054",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "611",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "1:23AM 11 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AMAROO CL, ANNE ST, BENA ST, BUFFER CL, CAMBRIAN AVE, CAPTAIN COOK HWY, CHATHAM TCE, COUNTY CL, DARKIN CL, DENNISON CT, ELLIVER ST, FLINDERS CT, FURROW CL, GAVIN ST, GILLIAN CL, GRAMPIAN CL, HELEN CL, JARDA ST, KERRYANNE CL, KIMANNE CL, KNIGHT RD, KRAKATOA CL, LANGSAT CL, LAURALIU CL, LESLEY ST, LYDIA ST, MANGOSTEEN CL, MARCIA CL, MESA CL, METRIC CL, NIMBA CL, NINA CL, RANGEVIEW CL, SERENITY PL, SHARON ST, STANTON RD, SURVEY ST, TIMBER TCE, TRANQUIL PL",
+        "SUBURBS": "SMITHFIELD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -354,5 +519,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712762701.589196"
+  "extracted": "1712763007.241125"
 }
