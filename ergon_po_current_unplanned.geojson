@@ -536,9 +536,106 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.384267,
+              -27.281631
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.353841,
+                  -27.266578
+                ],
+                [
+                  151.38072,
+                  -27.291831
+                ],
+                [
+                  151.38099,
+                  -27.291963
+                ],
+                [
+                  151.414166,
+                  -27.297642
+                ],
+                [
+                  151.414693,
+                  -27.297431
+                ],
+                [
+                  151.414653,
+                  -27.296917
+                ],
+                [
+                  151.40577,
+                  -27.28707
+                ],
+                [
+                  151.405753,
+                  -27.287052
+                ],
+                [
+                  151.396322,
+                  -27.277654
+                ],
+                [
+                  151.396259,
+                  -27.277601
+                ],
+                [
+                  151.384675,
+                  -27.269429
+                ],
+                [
+                  151.384652,
+                  -27.269414
+                ],
+                [
+                  151.378734,
+                  -27.265702
+                ],
+                [
+                  151.37844,
+                  -27.26562
+                ],
+                [
+                  151.354202,
+                  -27.265817
+                ],
+                [
+                  151.353841,
+                  -27.266578
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7544",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 12 Apr 2024",
+        "EST_FIX_TIME": "10:00AM 12 Apr 2024",
+        "STREETS": "NEWTON-STEPHENS RD, PAULL'S RD, WARREGO HWY",
+        "SUBURBS": "BOWENVILLE, DALBY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712872501.13008"
+  "extracted": "1712872804.582877"
 }
