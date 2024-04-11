@@ -16,7 +16,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "64",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 12 Apr 2024",
         "EST_FIX_TIME": "2:30PM 12 Apr 2024",
         "STREETS": "BAIRD ST, BAKERS RD, BUTCHERS CREEK RD, EAST MARY RD, MITCHELLVALE RD, MOSSMAN MOUNT MOLLOY RD, MULLIGAN HWY, PENINSULA DEVELOPMENT RD, PUMP RD, UNKNOWN ST, WEST MARY RD",
@@ -378,6 +378,27 @@
         "EST_FIX_TIME": "2:30PM 12 Apr 2024",
         "STREETS": "BENFER CT, BLUE HILLS CRES, CORKILL ST, DUFFY ST, GRAY ST, LE GRANDE ST, MAREE ST, MORRIS ST, OLD SMITHFIELD RD, PETERSEN ST",
         "SUBURBS": "FRESHWATER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.377841,
+          -16.416037
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4290",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:05AM 12 Apr 2024",
+        "EST_FIX_TIME": "12:00PM 12 Apr 2024",
+        "STREETS": "LLOYDS RD",
+        "SUBURBS": "MIALLO"
       }
     },
     {
@@ -1139,5 +1160,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712872804.582877"
+  "extracted": "1712873402.189333"
 }
