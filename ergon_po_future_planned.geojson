@@ -1255,7 +1255,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "42",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:00AM 12 Apr 2024",
         "EST_FIX_TIME": "2:00PM 12 Apr 2024",
         "STREETS": "CHEESEBOROUGH RD, GREGORY HWY, HUNTLEY RD, MCMILLANS LANE, MELROSE DR, MELROSE RD, OFF CHEESEBOROUGH RD",
@@ -2779,6 +2779,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.781448,
+          -19.264701
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5842",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:21AM 12 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 12 Apr 2024",
+        "STREETS": "GORDEN ST",
+        "SUBURBS": "GARBUTT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.779683,
           -19.261193
         ]
@@ -3565,7 +3586,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "81",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:00AM 12 Apr 2024",
         "EST_FIX_TIME": "2:00PM 12 Apr 2024",
         "STREETS": "ARGYLE PARK RD, CROWLEY ST, EGLINGTON ST, EZZY ST, HAMMOND ST, HILLVIEW PL, HILLVIEW RD, RICHMOND RD, ROSS HALL ST",
@@ -4466,7 +4487,7 @@
       "properties": {
         "EVENT_ID": "24SW6105",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "188",
+        "CUSTOMERS_AFFECTED": "187",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:30AM 14 Apr 2024",
@@ -5161,7 +5182,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "5",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 12 Apr 2024",
         "EST_FIX_TIME": "2:30PM 12 Apr 2024",
         "STREETS": "GILIGULGUL RD, GURULMUNDI RD, LEICHHARDT HWY",
@@ -6032,5 +6053,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1712870401.488971"
+  "extracted": "1712870701.404944"
 }
