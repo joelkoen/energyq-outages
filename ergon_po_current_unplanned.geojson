@@ -200,6 +200,75 @@
           {
             "type": "Point",
             "coordinates": [
+              142.193625,
+              -9.950798
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  142.191802,
+                  -9.95373
+                ],
+                [
+                  142.195283,
+                  -9.952734
+                ],
+                [
+                  142.195349,
+                  -9.95271
+                ],
+                [
+                  142.195897,
+                  -9.952455
+                ],
+                [
+                  142.196029,
+                  -9.951731
+                ],
+                [
+                  142.19219,
+                  -9.947865
+                ],
+                [
+                  142.191412,
+                  -9.948165
+                ],
+                [
+                  142.191222,
+                  -9.953281
+                ],
+                [
+                  142.191802,
+                  -9.95373
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3144",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "25",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews working on-site",
+        "START": "1:15PM 21 Feb 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AIRSTRIP ST, BASKETBALL COURT ST, DANIEL ST, MAIN ST, MAP ST, UNKNOWN ST, WARRIA ST",
+        "SUBURBS": "MABUIAG ISLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.734439,
               -17.144783
             ]
@@ -336,67 +405,6 @@
         "EST_FIX_TIME": "12:00PM 31 May 2024",
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              148.964555,
-              -20.904608
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  148.965662,
-                  -20.904649
-                ],
-                [
-                  148.963898,
-                  -20.90377
-                ],
-                [
-                  148.963248,
-                  -20.903958
-                ],
-                [
-                  148.963448,
-                  -20.904568
-                ],
-                [
-                  148.965212,
-                  -20.905447
-                ],
-                [
-                  148.965862,
-                  -20.905259
-                ],
-                [
-                  148.965662,
-                  -20.904649
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK3493",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
-        "START": "6:51AM 11 Apr 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "YAKAPARI SEAFORTH RD",
-        "SUBURBS": "SEAFORTH"
       }
     },
     {
@@ -839,5 +847,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712805901.03431"
+  "extracted": "1712806501.787098"
 }
