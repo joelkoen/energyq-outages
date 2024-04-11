@@ -66,9 +66,114 @@
         "STREETS": "CHAMBERS FLAT RD, LOGAN RESERVE RD",
         "SUBURBS": "LOGAN RESERVE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.281876,
+              -27.731792
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.253449,
+                  -27.749928
+                ],
+                [
+                  153.256081,
+                  -27.752328
+                ],
+                [
+                  153.256512,
+                  -27.75246
+                ],
+                [
+                  153.297,
+                  -27.747539
+                ],
+                [
+                  153.297193,
+                  -27.747479
+                ],
+                [
+                  153.310206,
+                  -27.740528
+                ],
+                [
+                  153.310444,
+                  -27.740059
+                ],
+                [
+                  153.308347,
+                  -27.729956
+                ],
+                [
+                  153.30812,
+                  -27.729656
+                ],
+                [
+                  153.277628,
+                  -27.712433
+                ],
+                [
+                  153.277436,
+                  -27.712368
+                ],
+                [
+                  153.270662,
+                  -27.71141
+                ],
+                [
+                  153.268638,
+                  -27.711124
+                ],
+                [
+                  153.268099,
+                  -27.711378
+                ],
+                [
+                  153.255125,
+                  -27.735961
+                ],
+                [
+                  153.255081,
+                  -27.7361
+                ],
+                [
+                  153.253308,
+                  -27.74956
+                ],
+                [
+                  153.253449,
+                  -27.749928
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-754031-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "97",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "9:35AM 12 Apr 2024",
+        "EST_FIX_TIME": "12:00PM 12 Apr 2024",
+        "STREETS": "AGESTON RD, BURNSIDE RD, COOKS RD, FISCHERS RD, GIBSONS RD, GREYHOUND RD, JACOSA RD, ROSSMANNS RD, STAPYLTON JACOBS WELL RD, WOHLSEN RD, ZIPFS RD",
+        "SUBURBS": "ALBERTON, GILBERTON, ORMEAU, STAPYLTON, WOONGOOLBA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712878500.432242"
+  "extracted": "1712878801.681598"
 }
