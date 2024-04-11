@@ -221,6 +221,67 @@
           {
             "type": "Point",
             "coordinates": [
+              148.964555,
+              -20.904608
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.965662,
+                  -20.904649
+                ],
+                [
+                  148.963898,
+                  -20.90377
+                ],
+                [
+                  148.963248,
+                  -20.903958
+                ],
+                [
+                  148.963448,
+                  -20.904568
+                ],
+                [
+                  148.965212,
+                  -20.905447
+                ],
+                [
+                  148.965862,
+                  -20.905259
+                ],
+                [
+                  148.965662,
+                  -20.904649
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3493",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:51AM 11 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "YAKAPARI SEAFORTH RD",
+        "SUBURBS": "SEAFORTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.794646,
               -19.28595
             ]
@@ -320,7 +381,7 @@
         "CUSTOMERS_AFFECTED": "199",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
         "STATUS": "Crews working on-site",
-        "START": "11:35AM 11 Apr 2024",
+        "START": "11:49AM 11 Apr 2024",
         "EST_FIX_TIME": "12:35PM 11 Apr 2024",
         "STREETS": "BALLARD ST, BARRINGHA CT, BRENTNALL ST, BUCK ST, BURTON ST, CHAPMAN ST, CHARTERS TOWERS RD, HAMMOND ST, LOMAX ST, MCQUADE CT, MEARS ST, MINDHAM ST, PURVES ST, TOWNSEND ST",
         "SUBURBS": "HERMIT PARK, HYDE PARK, MYSTERTON"
@@ -669,5 +730,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712799901.893868"
+  "extracted": "1712800500.340769"
 }
