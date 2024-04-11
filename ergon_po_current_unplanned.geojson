@@ -613,9 +613,106 @@
         "STREETS": "ARGYLE ST, CHARLEVILLE ST, REDFORD ST, SCHOOL ST",
         "SUBURBS": "MUNGALLALA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.310879,
+              -28.414769
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.230734,
+                  -28.28722
+                ],
+                [
+                  148.23851,
+                  -28.564319
+                ],
+                [
+                  148.238948,
+                  -28.564755
+                ],
+                [
+                  148.242146,
+                  -28.565159
+                ],
+                [
+                  148.242521,
+                  -28.565076
+                ],
+                [
+                  148.318202,
+                  -28.51585
+                ],
+                [
+                  148.346068,
+                  -28.497674
+                ],
+                [
+                  148.346261,
+                  -28.497414
+                ],
+                [
+                  148.39101,
+                  -28.32882
+                ],
+                [
+                  148.391023,
+                  -28.328707
+                ],
+                [
+                  148.389471,
+                  -28.264819
+                ],
+                [
+                  148.388908,
+                  -28.26438
+                ],
+                [
+                  148.231667,
+                  -28.278898
+                ],
+                [
+                  148.231211,
+                  -28.279323
+                ],
+                [
+                  148.230735,
+                  -28.287185
+                ],
+                [
+                  148.230734,
+                  -28.28722
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7518",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "The loss of supply is due to damage caused by accidental contact with powerlines by a third party. ",
+        "STATUS": "Outage reported",
+        "START": "11:33AM 11 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "KILCUMMIN RD, LOWER PLAINS RD, OPENBAH RD, WHYENBAH RD",
+        "SUBURBS": "DIRRANBANDI, ST GEORGE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712800802.396457"
+  "extracted": "1712801100.469837"
 }
