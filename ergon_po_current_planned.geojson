@@ -185,7 +185,7 @@
         "CUSTOMERS_AFFECTED": "42",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:00AM 12 Apr 2024",
+        "START": "8:02AM 12 Apr 2024",
         "EST_FIX_TIME": "2:00PM 12 Apr 2024",
         "STREETS": "CHEESEBOROUGH RD, GREGORY HWY, HUNTLEY RD, MCMILLANS LANE, MELROSE DR, MELROSE RD, OFF CHEESEBOROUGH RD",
         "SUBURBS": "CLERMONT"
@@ -248,7 +248,7 @@
         "CUSTOMERS_AFFECTED": "82",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 12 Apr 2024",
+        "START": "8:38AM 12 Apr 2024",
         "EST_FIX_TIME": "2:30PM 12 Apr 2024",
         "STREETS": "MAINA ST, MARIO ST, SONDRIO ST, VARESE ST",
         "SUBURBS": "WOREE"
@@ -394,7 +394,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "8",
         "REASON": "The loss of supply is to remove vegetation growing near powerlines",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 12 Apr 2024",
         "EST_FIX_TIME": "1:00PM 12 Apr 2024",
         "STREETS": "TELFORD RD",
@@ -436,7 +436,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "38",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 12 Apr 2024",
         "EST_FIX_TIME": "3:00PM 12 Apr 2024",
         "STREETS": "COYNES RD, GARNHAM MORROWS RD, MCFAULS RD, MOUNT MARTIN LOOP RD, SUGARLOAF RD",
@@ -605,7 +605,7 @@
         "CUSTOMERS_AFFECTED": "4",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:00AM 12 Apr 2024",
+        "START": "8:15AM 12 Apr 2024",
         "EST_FIX_TIME": "12:00PM 12 Apr 2024",
         "STREETS": "BURDEKIN RD",
         "SUBURBS": "HOME HILL"
@@ -931,6 +931,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.989394,
+          -26.679993
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4071",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:49AM 12 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 12 Apr 2024",
+        "STREETS": "ARTHUR ST, BROWN ST",
+        "SUBURBS": "NANANGO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.871826,
           -26.326936
         ]
@@ -1055,5 +1076,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712875201.500973"
+  "extracted": "1712875800.447994"
 }
