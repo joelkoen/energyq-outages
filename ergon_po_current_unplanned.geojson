@@ -580,9 +580,94 @@
         "STREETS": "APPLETREE CT, AQUILA DR, BOODUA-MERINGANDAN RD, CLIFFORD ST, COUCAL CT, CRIMSON ROSELLA AVE, DAINTREE CRES, DRAZEN PL, EGRET CT, FARMER DR, GOOMBUNGEE RD, GOOMBUNGEE-MERINGANDAN RD, GRAN PARADISO WAY, HARVEST RD, HEADER DR, HIGHLAND PARK RD, HIGHVIEW ST, IRONBARK CRES, KINGFISHER CT, KOOKABURRA CT, KURRAJONG CT, LAPWING CRES, LEWIS DR, MERINGANDAN-GOOMBUNGEE RD, MONARCH ST, NEVILLE ST, PARKVIEW PL, PATON RD, PETERS RD, PIPELINE RD, PIPIT CT, PLOUGH DR, ROSELLA GARDENS DR, SENIAH CT, SILO CT, SKYVIEW ST, SOVEREIGN DR, STABLE CT, THOMAS ST, TRILLER ST, VALLEY VIEW DR, VOLP RD, WATTLE DR, WILLIAM ST, WILLIS RD, WISDOM ST",
         "SUBURBS": "MERINGANDAN, MERINGANDAN WEST"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              147.544573,
+              -26.445584
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.542575,
+                  -26.445417
+                ],
+                [
+                  147.544249,
+                  -26.446842
+                ],
+                [
+                  147.544333,
+                  -26.4469
+                ],
+                [
+                  147.545864,
+                  -26.447738
+                ],
+                [
+                  147.546617,
+                  -26.447265
+                ],
+                [
+                  147.546154,
+                  -26.445168
+                ],
+                [
+                  147.546017,
+                  -26.444936
+                ],
+                [
+                  147.544431,
+                  -26.443508
+                ],
+                [
+                  147.543837,
+                  -26.44343
+                ],
+                [
+                  147.543792,
+                  -26.443452
+                ],
+                [
+                  147.543641,
+                  -26.443565
+                ],
+                [
+                  147.542529,
+                  -26.444806
+                ],
+                [
+                  147.542575,
+                  -26.445417
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7515",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:42AM 11 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARGYLE ST, CHARLEVILLE ST, REDFORD ST, SCHOOL ST",
+        "SUBURBS": "MUNGALLALA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712799602.042651"
+  "extracted": "1712799901.893868"
 }
