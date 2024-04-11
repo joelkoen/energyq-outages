@@ -564,9 +564,102 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.613262,
+              -27.419587
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.592485,
+                  -27.402211
+                ],
+                [
+                  151.600331,
+                  -27.425764
+                ],
+                [
+                  151.600489,
+                  -27.42598
+                ],
+                [
+                  151.626808,
+                  -27.445858
+                ],
+                [
+                  151.627039,
+                  -27.445956
+                ],
+                [
+                  151.628066,
+                  -27.446132
+                ],
+                [
+                  151.628596,
+                  -27.445917
+                ],
+                [
+                  151.629247,
+                  -27.444926
+                ],
+                [
+                  151.629309,
+                  -27.444772
+                ],
+                [
+                  151.634036,
+                  -27.419187
+                ],
+                [
+                  151.634039,
+                  -27.419057
+                ],
+                [
+                  151.630403,
+                  -27.39342
+                ],
+                [
+                  151.629776,
+                  -27.393041
+                ],
+                [
+                  151.592842,
+                  -27.401647
+                ],
+                [
+                  151.592485,
+                  -27.402211
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7547",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "46",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "11:41PM 11 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AJUGA CT, BROOKVALE PARK RD, JONDARYAN MOUNT TYSON RD, NORGAARD RD, WARREGO HWY",
+        "SUBURBS": "JONDARYAN, OAKEY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712842801.42907"
+  "extracted": "1712843104.27362"
 }
