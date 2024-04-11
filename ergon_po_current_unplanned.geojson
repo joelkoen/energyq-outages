@@ -527,6 +527,91 @@
           {
             "type": "Point",
             "coordinates": [
+              145.766862,
+              -16.917593
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.766079,
+                  -16.919109
+                ],
+                [
+                  145.766422,
+                  -16.919013
+                ],
+                [
+                  145.766553,
+                  -16.918954
+                ],
+                [
+                  145.766981,
+                  -16.918676
+                ],
+                [
+                  145.767002,
+                  -16.918662
+                ],
+                [
+                  145.768082,
+                  -16.917874
+                ],
+                [
+                  145.768235,
+                  -16.917348
+                ],
+                [
+                  145.767995,
+                  -16.916762
+                ],
+                [
+                  145.767728,
+                  -16.916507
+                ],
+                [
+                  145.766582,
+                  -16.916078
+                ],
+                [
+                  145.765952,
+                  -16.916408
+                ],
+                [
+                  145.765488,
+                  -16.918584
+                ],
+                [
+                  145.766079,
+                  -16.919109
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5093",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "44",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "1:05PM 11 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MCLEOD ST, SHERIDAN ST, UPWARD ST, WATER ST",
+        "SUBURBS": "CAIRNS, CAIRNS CITY, CAIRNS NORTH, PARRAMATTA PARK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -1028,5 +1113,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712809501.383347"
+  "extracted": "1712809804.393189"
 }
