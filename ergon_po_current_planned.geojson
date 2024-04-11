@@ -58,7 +58,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "103",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 12 Apr 2024",
         "EST_FIX_TIME": "2:30PM 12 Apr 2024",
         "STREETS": "ALFRED RD, BEAN AVE, BONDESON DR, BOUNDARY RD, JUDY CT, MCMILLAN AVE, NEWTON ST, NORMAN RD, PERCY ST, VINCENT RD, YEPPOON RD",
@@ -679,6 +679,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          147.429429,
+          -19.663548
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6361",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 12 Apr 2024",
+        "EST_FIX_TIME": "12:00PM 12 Apr 2024",
+        "STREETS": "BURDEKIN RD",
+        "SUBURBS": "HOME HILL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.732186,
           -19.374019
         ]
@@ -982,7 +1003,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "4",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 12 Apr 2024",
         "EST_FIX_TIME": "2:30PM 12 Apr 2024",
         "STREETS": "CANAVANS RD, HOFFMANS RD, ROONA RD",
@@ -1045,8 +1066,8 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "45",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "8:30AM 12 Apr 2024",
+        "STATUS": "Crews working on-site",
+        "START": "8:19AM 12 Apr 2024",
         "EST_FIX_TIME": "12:30PM 12 Apr 2024",
         "STREETS": "GRANT CRES, HANLEY ST",
         "SUBURBS": "WONDAI"
@@ -1160,5 +1181,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712873701.460286"
+  "extracted": "1712874000.471105"
 }
