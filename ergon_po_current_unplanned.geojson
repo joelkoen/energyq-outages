@@ -75,6 +75,79 @@
           {
             "type": "Point",
             "coordinates": [
+              148.890829,
+              -23.578059
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.888439,
+                  -23.579638
+                ],
+                [
+                  148.890092,
+                  -23.579976
+                ],
+                [
+                  148.893006,
+                  -23.580573
+                ],
+                [
+                  148.893592,
+                  -23.580039
+                ],
+                [
+                  148.892639,
+                  -23.575885
+                ],
+                [
+                  148.892023,
+                  -23.575545
+                ],
+                [
+                  148.888931,
+                  -23.576373
+                ],
+                [
+                  148.888588,
+                  -23.576718
+                ],
+                [
+                  148.888065,
+                  -23.579108
+                ],
+                [
+                  148.888439,
+                  -23.579638
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5591",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "52",
+        "REASON": "The loss of supply is due to a vehicle accident.",
+        "STATUS": "Outage reported",
+        "START": "4:25PM 11 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARTHUR ST, BLAIN ST, HIBISCUS CRES, MANNA ST",
+        "SUBURBS": "BLACKWATER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193625,
               -9.950798
             ]
@@ -645,5 +718,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712816701.765249"
+  "extracted": "1712817007.217856"
 }
