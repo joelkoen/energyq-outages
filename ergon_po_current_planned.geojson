@@ -553,6 +553,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.584417,
+          -20.353933
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2892",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "35",
+        "REASON": "The loss of supply is to remove vegetation growing near powerlines",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 11 Apr 2024",
+        "EST_FIX_TIME": "12:00PM 11 Apr 2024",
+        "STREETS": "CAMILLE DR, DEMI CL",
+        "SUBURBS": "STRATHDICKIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.054328,
           -22.001781
         ]
@@ -1351,27 +1372,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.694896,
-          -25.507896
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB4198",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "5",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "10:00AM 11 Apr 2024",
-        "EST_FIX_TIME": "5:00PM 11 Apr 2024",
-        "STREETS": "BLUEGUM CT",
-        "SUBURBS": "MARYBOROUGH"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           152.665375,
           -25.508194
         ]
@@ -1433,5 +1433,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712793300.461301"
+  "extracted": "1712793602.12919"
 }
