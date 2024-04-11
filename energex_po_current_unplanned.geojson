@@ -1,8 +1,74 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.091353,
+              -27.7296
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.089503,
+                  -27.72967
+                ],
+                [
+                  153.092735,
+                  -27.731609
+                ],
+                [
+                  153.093389,
+                  -27.731543
+                ],
+                [
+                  153.093418,
+                  -27.730957
+                ],
+                [
+                  153.090472,
+                  -27.727591
+                ],
+                [
+                  153.089572,
+                  -27.72779
+                ],
+                [
+                  153.089288,
+                  -27.729217
+                ],
+                [
+                  153.089503,
+                  -27.72967
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-754028-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "9:28AM 12 Apr 2024",
+        "EST_FIX_TIME": "11:00AM 12 Apr 2024",
+        "STREETS": "CHAMBERS FLAT RD, LOGAN RESERVE RD",
+        "SUBURBS": "LOGAN RESERVE"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712877901.541261"
+  "extracted": "1712878204.589812"
 }
