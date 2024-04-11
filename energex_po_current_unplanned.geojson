@@ -210,9 +210,98 @@
         "STREETS": "ALFORD LANE, ANGOURIE CRES, BEAUMONT CRES, BEERWAH ST, BLACKHEATH TCE, BRUNSWICK ST, BURR CT, CARMARTHEN CCT, COLONG CT, COOCHIN LANE, COONOWRIN ST, CORDEAUX PL, ELIMBAH ST, GERARD ST, GOVETT ST, IRVINE ST, KABI PL, KANANGRA CRES, LENNOX ST, MELLUM CCT, MINYON CT, PECKHAM CT, PRITCHARD CT, SANGSTER CRES, SPRINGWOOD AVE, STOKES ST, TASKE RISE, TOMAH ST, TOOHEY ST, WELLERS ST, YAMBA ST",
         "SUBURBS": "PACIFIC PINES"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.149477,
+              -27.440809
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.148388,
+                  -27.441499
+                ],
+                [
+                  153.149682,
+                  -27.44168
+                ],
+                [
+                  153.149882,
+                  -27.441708
+                ],
+                [
+                  153.1503,
+                  -27.441597
+                ],
+                [
+                  153.150613,
+                  -27.441344
+                ],
+                [
+                  153.150745,
+                  -27.441174
+                ],
+                [
+                  153.150994,
+                  -27.440606
+                ],
+                [
+                  153.15057,
+                  -27.439992
+                ],
+                [
+                  153.149584,
+                  -27.43991
+                ],
+                [
+                  153.149315,
+                  -27.439953
+                ],
+                [
+                  153.148245,
+                  -27.440419
+                ],
+                [
+                  153.147961,
+                  -27.440823
+                ],
+                [
+                  153.147961,
+                  -27.441052
+                ],
+                [
+                  153.148388,
+                  -27.441499
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-753928-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "49",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "2:31PM 11 Apr 2024",
+        "EST_FIX_TIME": "4:30PM 11 Apr 2024",
+        "STREETS": "BERNAYS RD, PRIMROSE PDE, ULAGREE ST",
+        "SUBURBS": "WYNNUM WEST"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712809805.911296"
+  "extracted": "1712810401.685505"
 }
