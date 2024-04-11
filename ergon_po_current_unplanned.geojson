@@ -346,6 +346,187 @@
           {
             "type": "Point",
             "coordinates": [
+              146.070762,
+              -17.763013
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.032527,
+                  -17.749701
+                ],
+                [
+                  146.03341,
+                  -17.750507
+                ],
+                [
+                  146.033477,
+                  -17.750558
+                ],
+                [
+                  146.093175,
+                  -17.78797
+                ],
+                [
+                  146.093457,
+                  -17.788043
+                ],
+                [
+                  146.094521,
+                  -17.787992
+                ],
+                [
+                  146.094769,
+                  -17.787911
+                ],
+                [
+                  146.098545,
+                  -17.785366
+                ],
+                [
+                  146.098568,
+                  -17.78535
+                ],
+                [
+                  146.10185,
+                  -17.782849
+                ],
+                [
+                  146.101876,
+                  -17.782828
+                ],
+                [
+                  146.104553,
+                  -17.780463
+                ],
+                [
+                  146.104561,
+                  -17.780456
+                ],
+                [
+                  146.105177,
+                  -17.779885
+                ],
+                [
+                  146.105191,
+                  -17.779871
+                ],
+                [
+                  146.106345,
+                  -17.778704
+                ],
+                [
+                  146.106354,
+                  -17.778695
+                ],
+                [
+                  146.107751,
+                  -17.777201
+                ],
+                [
+                  146.10776,
+                  -17.777191
+                ],
+                [
+                  146.108413,
+                  -17.776452
+                ],
+                [
+                  146.10842,
+                  -17.776443
+                ],
+                [
+                  146.108698,
+                  -17.776111
+                ],
+                [
+                  146.108703,
+                  -17.776105
+                ],
+                [
+                  146.108879,
+                  -17.775887
+                ],
+                [
+                  146.108977,
+                  -17.775643
+                ],
+                [
+                  146.108997,
+                  -17.775375
+                ],
+                [
+                  146.108989,
+                  -17.775256
+                ],
+                [
+                  146.108735,
+                  -17.77401
+                ],
+                [
+                  146.108621,
+                  -17.773793
+                ],
+                [
+                  146.074836,
+                  -17.738131
+                ],
+                [
+                  146.074469,
+                  -17.737983
+                ],
+                [
+                  146.071055,
+                  -17.738111
+                ],
+                [
+                  146.070941,
+                  -17.738129
+                ],
+                [
+                  146.040411,
+                  -17.74669
+                ],
+                [
+                  146.040405,
+                  -17.746692
+                ],
+                [
+                  146.032714,
+                  -17.748942
+                ],
+                [
+                  146.032527,
+                  -17.749701
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5091",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "567",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:22PM 11 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANDREWS ST, BARDON CL, COYLE ST, DALGLEISH ST, FINNEY CL, FORSTER ST, GOBIE ST, GOWLAND ST, HARGREAVE ST, HAWTHORNE DR, HAYDON RD, HOPEFUL ST, ILLICH ST, JACOBS RD, KURRIMINE BEACH RD, KURRIMINE RD, MARIA ST, MURDERING POINT RD, OLIVE CRES, PARNELL CL, RANLEAGH ST, REBECCA JANE PDE, RISER ST, ROBERT JOHNSTONE PDE, ROWE ST, SANTO CL, SHERIDAN ST, STEPHENSON RD, SYDNEY SMITH ST, TANNER RD, TANTI RD, TATE ST, TAYLOR ST, THREADINGHAM RD, WALDOCK RD",
+        "SUBURBS": "KURRIMINE BEACH, SILKWOOD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -847,5 +1028,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712809201.089909"
+  "extracted": "1712809501.383347"
 }
