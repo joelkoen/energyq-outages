@@ -305,9 +305,138 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.355874,
+              -24.863898
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.345008,
+                  -24.865756
+                ],
+                [
+                  152.361396,
+                  -24.868645
+                ],
+                [
+                  152.361905,
+                  -24.868445
+                ],
+                [
+                  152.36592,
+                  -24.862716
+                ],
+                [
+                  152.365938,
+                  -24.862689
+                ],
+                [
+                  152.366706,
+                  -24.861406
+                ],
+                [
+                  152.366712,
+                  -24.861396
+                ],
+                [
+                  152.367088,
+                  -24.860728
+                ],
+                [
+                  152.367138,
+                  -24.860458
+                ],
+                [
+                  152.367098,
+                  -24.860206
+                ],
+                [
+                  152.366919,
+                  -24.859919
+                ],
+                [
+                  152.366518,
+                  -24.859626
+                ],
+                [
+                  152.366295,
+                  -24.859534
+                ],
+                [
+                  152.364098,
+                  -24.859182
+                ],
+                [
+                  152.364031,
+                  -24.859175
+                ],
+                [
+                  152.36332,
+                  -24.859152
+                ],
+                [
+                  152.363149,
+                  -24.859174
+                ],
+                [
+                  152.362103,
+                  -24.859486
+                ],
+                [
+                  152.362097,
+                  -24.859488
+                ],
+                [
+                  152.350608,
+                  -24.863056
+                ],
+                [
+                  152.350602,
+                  -24.863058
+                ],
+                [
+                  152.344937,
+                  -24.86489
+                ],
+                [
+                  152.34461,
+                  -24.865348
+                ],
+                [
+                  152.345008,
+                  -24.865756
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4878",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "248",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "11:46PM 12 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOURBONG ST, CRAN ST, KENDALL ST, KENT ST, PETERSEN ST, QUAY ST, SCHOOL LANE, SCOTLAND ST, SUSSEX ST, TANTITHA ST, TARGO ST, TOONBURRA ST, WOONDOOMA ST, WOONGARRA ST",
+        "SUBURBS": "BUNDABERG, BUNDABERG CENTRAL, BUNDABERG EAST, BUNDABERG WEST"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712929503.975971"
+  "extracted": "1712929801.834065"
 }
