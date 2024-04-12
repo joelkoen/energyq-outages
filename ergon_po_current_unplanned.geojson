@@ -356,10 +356,83 @@
         "CUSTOMERS_AFFECTED": "9",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
         "STATUS": "Crews working on-site",
-        "START": "12:00PM 12 Apr 2024",
-        "EST_FIX_TIME": "2:00PM 12 Apr 2024",
+        "START": "12:41PM 12 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 12 Apr 2024",
         "STREETS": "BLOOMFIELD CL, BLOOMFIELD RD, BLOOMFIELD RVR, CAPE TRIBULATION RD, ROSSVILLE BLOOMFIELD RD",
         "SUBURBS": "AYTON, BLOOMFIELD, WUJAL WUJAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.343885,
+              -15.947138
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.338231,
+                  -15.945936
+                ],
+                [
+                  145.348978,
+                  -15.954809
+                ],
+                [
+                  145.349578,
+                  -15.954815
+                ],
+                [
+                  145.349689,
+                  -15.954245
+                ],
+                [
+                  145.342468,
+                  -15.941778
+                ],
+                [
+                  145.342407,
+                  -15.941696
+                ],
+                [
+                  145.340328,
+                  -15.939461
+                ],
+                [
+                  145.339527,
+                  -15.939658
+                ],
+                [
+                  145.33808,
+                  -15.945487
+                ],
+                [
+                  145.338231,
+                  -15.945936
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5138",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:41PM 12 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 12 Apr 2024",
+        "STREETS": "BANABILLA RD, BLOOMFIELD RD, BLOOMFIELD RVR, CAPE TRIBULATION BLOOMFIELD RD, EVERGREEN RD",
+        "SUBURBS": "BLOOMFIELD, COOKTOWN, DEGARRA, ROSSVILLE"
       }
     },
     {
@@ -604,5 +677,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712895000.565143"
+  "extracted": "1712895301.368164"
 }
