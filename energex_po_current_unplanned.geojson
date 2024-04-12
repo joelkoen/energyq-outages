@@ -78,9 +78,70 @@
         "STREETS": "BURNSIDE RD, GREYHOUND RD",
         "SUBURBS": "GILBERTON, ORMEAU, STAPYLTON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.980522,
+              -27.313199
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.979952,
+                  -27.313491
+                ],
+                [
+                  152.980164,
+                  -27.313707
+                ],
+                [
+                  152.981043,
+                  -27.313478
+                ],
+                [
+                  152.981092,
+                  -27.313195
+                ],
+                [
+                  152.980454,
+                  -27.312692
+                ],
+                [
+                  152.980192,
+                  -27.312759
+                ],
+                [
+                  152.979952,
+                  -27.313491
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-754090-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "12:38PM 12 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 12 Apr 2024",
+        "STREETS": "BAILEY CT",
+        "SUBURBS": "BRENDALE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712889905.016534"
+  "extracted": "1712890200.551026"
 }
