@@ -176,6 +176,91 @@
           {
             "type": "Point",
             "coordinates": [
+              142.163339,
+              -10.15658
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  142.156985,
+                  -10.16105
+                ],
+                [
+                  142.166014,
+                  -10.16402
+                ],
+                [
+                  142.166597,
+                  -10.163707
+                ],
+                [
+                  142.169853,
+                  -10.151409
+                ],
+                [
+                  142.169866,
+                  -10.151254
+                ],
+                [
+                  142.169797,
+                  -10.150509
+                ],
+                [
+                  142.169786,
+                  -10.150442
+                ],
+                [
+                  142.169537,
+                  -10.149442
+                ],
+                [
+                  142.168906,
+                  -10.14914
+                ],
+                [
+                  142.168178,
+                  -10.14947
+                ],
+                [
+                  142.168052,
+                  -10.149556
+                ],
+                [
+                  142.156812,
+                  -10.160298
+                ],
+                [
+                  142.156985,
+                  -10.16105
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5117",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "49",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "11:22AM 12 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "NONA ST, PHILLIP ST, SCHOOL ST, TAMWOY ST, UNKNOWN ST",
+        "SUBURBS": "BADU ISLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.683776,
               -16.829185
             ]
@@ -431,6 +516,103 @@
           {
             "type": "Point",
             "coordinates": [
+              147.194267,
+              -19.765337
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.154049,
+                  -19.715918
+                ],
+                [
+                  147.154553,
+                  -19.751436
+                ],
+                [
+                  147.154654,
+                  -19.751707
+                ],
+                [
+                  147.230342,
+                  -19.844022
+                ],
+                [
+                  147.230859,
+                  -19.844177
+                ],
+                [
+                  147.231196,
+                  -19.843773
+                ],
+                [
+                  147.234485,
+                  -19.794504
+                ],
+                [
+                  147.234457,
+                  -19.794322
+                ],
+                [
+                  147.229324,
+                  -19.780874
+                ],
+                [
+                  147.229314,
+                  -19.780849
+                ],
+                [
+                  147.186467,
+                  -19.68668
+                ],
+                [
+                  147.185742,
+                  -19.686498
+                ],
+                [
+                  147.16003,
+                  -19.70488
+                ],
+                [
+                  147.159893,
+                  -19.705034
+                ],
+                [
+                  147.154101,
+                  -19.715705
+                ],
+                [
+                  147.154049,
+                  -19.715918
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7372",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "153",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "12:09PM 12 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AYR DALBEG RD, BARRATTA RD, BROWN RD, COVENTON RD, GEORGE RD, GRANSHAW RD, KENYON RD, LARKIN ST, LINCOLN RD, MCNEE RD, MILLAROO RD, MUIR RD, MUSPRATT RD, NELSON ST, OLD SCHOOL RD, SCHOOL RD, WALSH RD",
+        "SUBURBS": "CLARE, MONA PARK, UPPER HAUGHTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -572,5 +754,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712887801.289167"
+  "extracted": "1712888103.836354"
 }
