@@ -220,9 +220,78 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.086689,
+              -27.230064
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.079652,
+                  -27.234474
+                ],
+                [
+                  151.091646,
+                  -27.234414
+                ],
+                [
+                  151.092135,
+                  -27.234064
+                ],
+                [
+                  151.094135,
+                  -27.226199
+                ],
+                [
+                  151.093574,
+                  -27.225653
+                ],
+                [
+                  151.085237,
+                  -27.226692
+                ],
+                [
+                  151.0849,
+                  -27.226872
+                ],
+                [
+                  151.079243,
+                  -27.233757
+                ],
+                [
+                  151.079652,
+                  -27.234474
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7548",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:16AM 13 Apr 2024",
+        "EST_FIX_TIME": "12:00PM 13 Apr 2024",
+        "STREETS": "KUPUNN DULEEN RD, KUPUNN-DULEEN RD",
+        "SUBURBS": "DUCKLO, KUPUNN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712959801.260496"
+  "extracted": "1712960103.310332"
 }
