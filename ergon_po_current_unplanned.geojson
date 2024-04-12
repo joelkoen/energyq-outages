@@ -269,6 +269,131 @@
           {
             "type": "Point",
             "coordinates": [
+              146.235398,
+              -18.611936
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.189617,
+                  -18.622438
+                ],
+                [
+                  146.206987,
+                  -18.641944
+                ],
+                [
+                  146.207437,
+                  -18.642095
+                ],
+                [
+                  146.20795,
+                  -18.642002
+                ],
+                [
+                  146.207994,
+                  -18.641992
+                ],
+                [
+                  146.267184,
+                  -18.625549
+                ],
+                [
+                  146.267441,
+                  -18.625372
+                ],
+                [
+                  146.281177,
+                  -18.606434
+                ],
+                [
+                  146.281257,
+                  -18.606121
+                ],
+                [
+                  146.28036,
+                  -18.599261
+                ],
+                [
+                  146.28011,
+                  -18.598917
+                ],
+                [
+                  146.245852,
+                  -18.581804
+                ],
+                [
+                  146.245478,
+                  -18.581776
+                ],
+                [
+                  146.216275,
+                  -18.591304
+                ],
+                [
+                  146.216159,
+                  -18.591359
+                ],
+                [
+                  146.213419,
+                  -18.593158
+                ],
+                [
+                  146.213365,
+                  -18.593199
+                ],
+                [
+                  146.208804,
+                  -18.597251
+                ],
+                [
+                  146.208752,
+                  -18.597305
+                ],
+                [
+                  146.190421,
+                  -18.619916
+                ],
+                [
+                  146.190356,
+                  -18.620025
+                ],
+                [
+                  146.189538,
+                  -18.621978
+                ],
+                [
+                  146.189617,
+                  -18.622438
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7398",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "193",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:22PM 12 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BARBAGALLO'S RD, BLUE BUTTERFLY RD, COOKS LANE, CORDELIA SCHOOL RD, EDDLESTON DR, FARRELL DR, FIVE MILE RD, FORRESTHOME RD, FOUR MILE RD, FRACCHIA'S RD, GOLF LINKS RD, HALIFAX RD, QUARRY RD, RIVER RD, SCHOOL RD, STEPHENSONS RD",
+        "SUBURBS": "BRAEMEADOWS, CORDELIA, FORREST HOME, HALIFAX, INGHAM, MACKNADE, VICTORIA ESTATE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -479,5 +604,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712913601.609914"
+  "extracted": "1712913901.220719"
 }
