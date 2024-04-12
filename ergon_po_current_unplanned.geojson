@@ -241,6 +241,115 @@
           {
             "type": "Point",
             "coordinates": [
+              145.683776,
+              -16.829185
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.679346,
+                  -16.830146
+                ],
+                [
+                  145.679406,
+                  -16.830689
+                ],
+                [
+                  145.679838,
+                  -16.831092
+                ],
+                [
+                  145.680445,
+                  -16.831136
+                ],
+                [
+                  145.68056,
+                  -16.831131
+                ],
+                [
+                  145.686496,
+                  -16.830148
+                ],
+                [
+                  145.686763,
+                  -16.830007
+                ],
+                [
+                  145.688019,
+                  -16.828677
+                ],
+                [
+                  145.688133,
+                  -16.828459
+                ],
+                [
+                  145.688205,
+                  -16.828102
+                ],
+                [
+                  145.687914,
+                  -16.827595
+                ],
+                [
+                  145.687001,
+                  -16.827254
+                ],
+                [
+                  145.686733,
+                  -16.827234
+                ],
+                [
+                  145.681681,
+                  -16.828285
+                ],
+                [
+                  145.68156,
+                  -16.828328
+                ],
+                [
+                  145.67997,
+                  -16.829143
+                ],
+                [
+                  145.679797,
+                  -16.829295
+                ],
+                [
+                  145.67942,
+                  -16.829851
+                ],
+                [
+                  145.679346,
+                  -16.830146
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5122",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "31",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:23AM 12 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "STANTON RD, TRANQUIL PL",
+        "SUBURBS": "SMITHFIELD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -451,5 +560,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712881201.555868"
+  "extracted": "1712881500.519823"
 }
