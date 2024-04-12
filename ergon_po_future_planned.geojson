@@ -415,7 +415,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "177",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 13 Apr 2024",
         "EST_FIX_TIME": "2:30PM 13 Apr 2024",
         "STREETS": "ARNOLD ST, BAUHINIA ST, BRIGALOW DR, COOLIBAH ST, EVANS ST, FAY ST, MACKENZIE ST, SANDALWOOD ST, SEEMAN ST, TALBOT ST, WEY ST, YELLOWWOOD ST",
@@ -4249,6 +4249,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.512947,
+          -21.695048
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6629",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "22",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "On hold until further notice",
+        "START": "8:00AM 16 Apr 2024",
+        "EST_FIX_TIME": "12:00PM 16 Apr 2024",
+        "STREETS": "LETHAM ST, MATHESON ST, SPORTS PDE",
+        "SUBURBS": "DAJARRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           147.406308,
           -19.574162
         ]
@@ -4963,27 +4984,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.93865,
-          -27.567433
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW6494",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "156",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:00AM 13 Apr 2024",
-        "EST_FIX_TIME": "12:00PM 13 Apr 2024",
-        "STREETS": "BOYES ST, HELEN ST, JAMES ST, O'QUINN ST",
-        "SUBURBS": "HARRISTOWN, NEWTOWN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           145.531665,
           -28.502519
         ]
@@ -5418,27 +5418,6 @@
         "EST_FIX_TIME": "2:00PM 14 Apr 2024",
         "STREETS": "COOK CT, DRUMMOND RD, NEW ENGLAND HWY, QUINLAN RD",
         "SUBURBS": "BLUE MOUNTAIN HEIGHT, HIGHFIELDS"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.472242,
-          -27.300012
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW6815",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "267",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:00AM 13 Apr 2024",
-        "EST_FIX_TIME": "2:00PM 13 Apr 2024",
-        "STREETS": "AUCHMAH RD, BARON ST, BLAXLAND RD, BOWDEN RD, BOWENVILLE ACLAND RD, BOWENVILLE MOOLA RD, BOWENVILLE-BLAXLAND RD, BOWENVILLE-IRVINGDALE RD, BOWENVILLE-NORWIN RD, BRYMAROO IRVINGDALE RD, BRYMAROO-IRVINGDALE RD, CARTER RD, COCKBURN ST, DARR RD, DUKE ST, EARL ST, GERAGHTYS RD, GRANT ST, IRVINGDALE POST OFFICE RD, IRVINGDALE RD, IRVINGDALE SOUTH RD, IRVINGDALE ST, IRVINGDALE-BLAXLAND RD, IRVINGDALE-BOWENVILLE RD, JONDARYAN EVANSLEA RD, JONDARYAN NUNGIL RD, JONDARYAN SABINE RD, JONDARYAN ST RUTH RD, LAGOON ST, LEAHY RD, MALU BOWENVILLE RD, MALU RD, MALU-BOWENVILLE RD, MASONS RD, MIRTSCHINS RD, NICHOLSON ST, OAKLEIGH PARK RD, OMARA ST, PROSPECT RD, RAILWAY ST, RICHARDS RD, RUTLEDGE RD, SCOTT RD, SHORT ST, STATION ST, TATES RD, TOOTH ST, WAINUI RD, WAINUI SOLDIERS RD, WARREGO HWY",
-        "SUBURBS": "BLAXLAND, BOWENVILLE, DALBY, FORMARTIN, IRVINGDALE, JONDARYAN, MALU"
       }
     },
     {
@@ -6305,5 +6284,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1712958901.812321"
+  "extracted": "1712959204.985096"
 }
