@@ -99,115 +99,6 @@
           {
             "type": "Point",
             "coordinates": [
-              145.683776,
-              -16.829185
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  145.679346,
-                  -16.830146
-                ],
-                [
-                  145.679406,
-                  -16.830689
-                ],
-                [
-                  145.679838,
-                  -16.831092
-                ],
-                [
-                  145.680445,
-                  -16.831136
-                ],
-                [
-                  145.68056,
-                  -16.831131
-                ],
-                [
-                  145.686496,
-                  -16.830148
-                ],
-                [
-                  145.686763,
-                  -16.830007
-                ],
-                [
-                  145.688019,
-                  -16.828677
-                ],
-                [
-                  145.688133,
-                  -16.828459
-                ],
-                [
-                  145.688205,
-                  -16.828102
-                ],
-                [
-                  145.687914,
-                  -16.827595
-                ],
-                [
-                  145.687001,
-                  -16.827254
-                ],
-                [
-                  145.686733,
-                  -16.827234
-                ],
-                [
-                  145.681681,
-                  -16.828285
-                ],
-                [
-                  145.68156,
-                  -16.828328
-                ],
-                [
-                  145.67997,
-                  -16.829143
-                ],
-                [
-                  145.679797,
-                  -16.829295
-                ],
-                [
-                  145.67942,
-                  -16.829851
-                ],
-                [
-                  145.679346,
-                  -16.830146
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN5122",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "31",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "10:23AM 12 Apr 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "STANTON RD, TRANQUIL PL",
-        "SUBURBS": "SMITHFIELD"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               145.330308,
               -15.945531
             ]
@@ -536,6 +427,83 @@
           {
             "type": "Point",
             "coordinates": [
+              140.719186,
+              -20.23102
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  140.481354,
+                  -20.263908
+                ],
+                [
+                  140.956733,
+                  -20.361129
+                ],
+                [
+                  140.957308,
+                  -20.360651
+                ],
+                [
+                  140.944475,
+                  -20.217482
+                ],
+                [
+                  140.944241,
+                  -20.217132
+                ],
+                [
+                  140.770194,
+                  -20.120987
+                ],
+                [
+                  140.770012,
+                  -20.120929
+                ],
+                [
+                  140.599394,
+                  -20.100911
+                ],
+                [
+                  140.598942,
+                  -20.101102
+                ],
+                [
+                  140.481063,
+                  -20.263215
+                ],
+                [
+                  140.481354,
+                  -20.263908
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7383",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "18",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "2:32PM 12 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANTION DOWNS STATION, BALLAGHMORE DWN STATION, BALLAGHMORE STATION, BENDIGO PARK STATION, CLONAGH STATION, COTSWOLD STATION, CUBBAROO STATION, GIPSY PLAINS STATION, JESSIE VALE STATION, THREE WAYS RD, ZINGARI STATION",
+        "SUBURBS": "CLONCURRY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -592,5 +560,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712896501.248499"
+  "extracted": "1712896801.61407"
 }
