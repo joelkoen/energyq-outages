@@ -285,6 +285,83 @@
           {
             "type": "Point",
             "coordinates": [
+              145.330308,
+              -15.945531
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.325926,
+                  -15.946947
+                ],
+                [
+                  145.326375,
+                  -15.949678
+                ],
+                [
+                  145.327073,
+                  -15.949996
+                ],
+                [
+                  145.334465,
+                  -15.945789
+                ],
+                [
+                  145.33469,
+                  -15.945332
+                ],
+                [
+                  145.334453,
+                  -15.943798
+                ],
+                [
+                  145.334193,
+                  -15.943458
+                ],
+                [
+                  145.329032,
+                  -15.941065
+                ],
+                [
+                  145.328402,
+                  -15.941291
+                ],
+                [
+                  145.325959,
+                  -15.946695
+                ],
+                [
+                  145.325926,
+                  -15.946947
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5123",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:00PM 12 Apr 2024",
+        "EST_FIX_TIME": "2:00PM 12 Apr 2024",
+        "STREETS": "BLOOMFIELD CL, BLOOMFIELD RD, BLOOMFIELD RVR, CAPE TRIBULATION RD, ROSSVILLE BLOOMFIELD RD",
+        "SUBURBS": "AYTON, BLOOMFIELD, WUJAL WUJAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -495,5 +572,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712885402.223066"
+  "extracted": "1712885700.423901"
 }
