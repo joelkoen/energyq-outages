@@ -4732,6 +4732,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.244281,
+          -26.400086
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6640",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "12:35PM 12 Apr 2024",
+        "EST_FIX_TIME": "3:30PM 12 Apr 2024",
+        "STREETS": "GALATEA ST",
+        "SUBURBS": "CHARLEVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.866283,
           -28.638328
         ]
@@ -5486,5 +5507,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1712889301.245896"
+  "extracted": "1712889601.68214"
 }
