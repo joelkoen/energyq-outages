@@ -99,123 +99,6 @@
           {
             "type": "Point",
             "coordinates": [
-              145.719535,
-              -16.81883
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  145.718088,
-                  -16.819187
-                ],
-                [
-                  145.718788,
-                  -16.820507
-                ],
-                [
-                  145.718899,
-                  -16.820644
-                ],
-                [
-                  145.719387,
-                  -16.821049
-                ],
-                [
-                  145.719508,
-                  -16.821122
-                ],
-                [
-                  145.719862,
-                  -16.821268
-                ],
-                [
-                  145.720194,
-                  -16.821282
-                ],
-                [
-                  145.720235,
-                  -16.821269
-                ],
-                [
-                  145.720553,
-                  -16.820897
-                ],
-                [
-                  145.721033,
-                  -16.817234
-                ],
-                [
-                  145.721022,
-                  -16.817062
-                ],
-                [
-                  145.720926,
-                  -16.816711
-                ],
-                [
-                  145.720421,
-                  -16.816377
-                ],
-                [
-                  145.718801,
-                  -16.816548
-                ],
-                [
-                  145.718559,
-                  -16.816644
-                ],
-                [
-                  145.718335,
-                  -16.816816
-                ],
-                [
-                  145.718166,
-                  -16.817093
-                ],
-                [
-                  145.718053,
-                  -16.817725
-                ],
-                [
-                  145.718046,
-                  -16.817799
-                ],
-                [
-                  145.718037,
-                  -16.818978
-                ],
-                [
-                  145.718088,
-                  -16.819187
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN5157",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "66",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews working on-site",
-        "START": "2:54PM 12 Apr 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "ANTONETTA CL, CAROLYN CL, JOSEPHINE CL, MARGO ST, NANCY ST, PAUL CL, SAMUEL ST, VARLEY ST, YORKEYS KNOB RD",
-        "SUBURBS": "YORKEYS KNOB"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -539,9 +422,62 @@
         "STREETS": "CAMBOOYA CONNECTION RD, CARMANAH ST, CARNAMAH ST, CORAL CT, DONALD ST, ERIC CT, ERNEST ST, ETON ST, GEORGE ST, GORE ST, JOHN ST, LITTLE ST, LUCY ST, MAGPIE DR, MYRTLEFORD CRES, PARK ST, RAMSAY ST, RICHARDS AVE, SHORT ST, THOMAS ST, WEEBAH PL",
         "SUBURBS": "CAMBOOYA, KINGSTHORPE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.764087,
+              -27.784644
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.764593,
+                  -27.784626
+                ],
+                [
+                  151.764068,
+                  -27.784194
+                ],
+                [
+                  151.763582,
+                  -27.784661
+                ],
+                [
+                  151.764107,
+                  -27.785093
+                ],
+                [
+                  151.764593,
+                  -27.784626
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7583",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "5:12PM 12 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRYCE RD",
+        "SUBURBS": "FELTON EAST"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712912405.471971"
+  "extracted": "1712912701.168691"
 }
