@@ -337,9 +337,110 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.869823,
+              -27.707392
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.863744,
+                  -27.710988
+                ],
+                [
+                  151.869614,
+                  -27.714352
+                ],
+                [
+                  151.870177,
+                  -27.714343
+                ],
+                [
+                  151.875805,
+                  -27.710852
+                ],
+                [
+                  151.876021,
+                  -27.710507
+                ],
+                [
+                  151.876174,
+                  -27.707998
+                ],
+                [
+                  151.876167,
+                  -27.707893
+                ],
+                [
+                  151.875218,
+                  -27.703262
+                ],
+                [
+                  151.874964,
+                  -27.702949
+                ],
+                [
+                  151.869822,
+                  -27.700431
+                ],
+                [
+                  151.869195,
+                  -27.700533
+                ],
+                [
+                  151.864267,
+                  -27.705641
+                ],
+                [
+                  151.864206,
+                  -27.705719
+                ],
+                [
+                  151.863533,
+                  -27.706821
+                ],
+                [
+                  151.863471,
+                  -27.707041
+                ],
+                [
+                  151.863513,
+                  -27.710614
+                ],
+                [
+                  151.863744,
+                  -27.710988
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7579",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "282",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "6:00PM 12 Apr 2024",
+        "EST_FIX_TIME": "11:00PM 12 Apr 2024",
+        "STREETS": "CAMBOOYA CONNECTION RD, CARMANAH ST, CARNAMAH ST, CORAL CT, DONALD ST, ERIC CT, ERNEST ST, ETON ST, GEORGE ST, GORE ST, JOHN ST, LITTLE ST, LUCY ST, MAGPIE DR, MYRTLEFORD CRES, PARK ST, RAMSAY ST, RICHARDS AVE, SHORT ST, THOMAS ST, WEEBAH PL",
+        "SUBURBS": "CAMBOOYA, KINGSTHORPE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712910304.812992"
+  "extracted": "1712910607.13322"
 }
