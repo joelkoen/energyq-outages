@@ -10,6 +10,79 @@
           {
             "type": "Point",
             "coordinates": [
+              152.915247,
+              -27.662127
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.910643,
+                  -27.656967
+                ],
+                [
+                  152.918097,
+                  -27.667717
+                ],
+                [
+                  152.918715,
+                  -27.6679
+                ],
+                [
+                  152.919552,
+                  -27.667606
+                ],
+                [
+                  152.919852,
+                  -27.667058
+                ],
+                [
+                  152.919844,
+                  -27.667036
+                ],
+                [
+                  152.919772,
+                  -27.666903
+                ],
+                [
+                  152.911488,
+                  -27.65647
+                ],
+                [
+                  152.910795,
+                  -27.656354
+                ],
+                [
+                  152.910643,
+                  -27.656967
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-754013-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "Emergency Repairs",
+        "STATUS": "In Progress",
+        "START": "8:55AM 12 Apr 2024",
+        "EST_FIX_TIME": "7:00PM 12 Apr 2024",
+        "STREETS": "SPRINGFIELD LAKES BVD",
+        "SUBURBS": "SPRINGFIELD LAKES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.980522,
               -27.313199
             ]
@@ -135,5 +208,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1712905502.105068"
+  "extracted": "1712905801.808746"
 }
