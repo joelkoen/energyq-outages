@@ -1351,27 +1351,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.854967,
-          -23.578236
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA5041",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "8:30AM 13 Apr 2024",
-        "EST_FIX_TIME": "2:30PM 13 Apr 2024",
-        "STREETS": "YARRA RD",
-        "SUBURBS": "GOGANGO"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           145.878683,
           -17.999193
         ]
@@ -1813,27 +1792,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.566437,
-          -16.897957
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN4222",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "47",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:30AM 13 Apr 2024",
-        "EST_FIX_TIME": "2:30PM 13 Apr 2024",
-        "STREETS": "BRICKWORKS RD, CLOHESY RIVER RD, GRIEVSON RD, KENNEDY HWY, KOAH RD, O'NEIL CL, PALM VALLEY RD",
-        "SUBURBS": "CLOHESY RIVER, GROVE CREEK, KOAH, KURANDA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           145.514694,
           -16.835302
         ]
@@ -2011,7 +1969,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "15",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 13 Apr 2024",
         "EST_FIX_TIME": "2:30PM 13 Apr 2024",
         "STREETS": "COOROO LANDS RD, GATTERA RD, NERADA RD, QUONDONG RD",
@@ -2380,8 +2338,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.199566,
-          -21.153345
+          149.199641,
+          -21.152411
         ]
       },
       "properties": {
@@ -2392,8 +2350,8 @@
         "STATUS": "On hold until further notice",
         "START": "8:30AM 14 Apr 2024",
         "EST_FIX_TIME": "2:30PM 14 Apr 2024",
-        "STREETS": "BINNINGTON ESP, CAMERON ST, EVAN ST, HENDERSON ST, HOEY ST, ILUKA CT, MARSH ST, MULHERIN ST, NOTT ST, PEARCE ST, WEIR ST",
-        "SUBURBS": "EAST MACKAY, MACKAY"
+        "STREETS": "BINNINGTON ESP, CAMERON ST, HOEY ST, MARSH ST, MULHERIN ST, NOTT ST, PEARCE ST",
+        "SUBURBS": "EAST MACKAY"
       }
     },
     {
@@ -2541,27 +2499,6 @@
         "EST_FIX_TIME": "3:00PM 17 Apr 2024",
         "STREETS": "SUGAR LANE",
         "SUBURBS": "CANNON VALLEY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.198932,
-          -21.154724
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK3024",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "101",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "8:30AM 13 Apr 2024",
-        "EST_FIX_TIME": "2:30PM 13 Apr 2024",
-        "STREETS": "BINNINGTON ESP, EVAN ST, HENDERSON ST, HOEY ST, ILUKA CT, WEIR ST",
-        "SUBURBS": "EAST MACKAY, MACKAY"
       }
     },
     {
@@ -3976,27 +3913,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.48921,
-          -20.719939
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ6516",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "5",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Crews working on-site",
-        "START": "8:30AM 13 Apr 2024",
-        "EST_FIX_TIME": "2:30PM 13 Apr 2024",
-        "STREETS": "RIVER RES, WELLINGTON RD",
-        "SUBURBS": "MILES END, MOUNT ISA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           139.488343,
           -20.687906
         ]
@@ -4830,27 +4746,6 @@
         "EST_FIX_TIME": "3:00PM 17 Apr 2024",
         "STREETS": "MOTEE CT",
         "SUBURBS": "HIGHFIELDS"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.244831,
-          -26.400491
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW6415",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "6",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
-        "START": "8:30AM 13 Apr 2024",
-        "EST_FIX_TIME": "3:00PM 13 Apr 2024",
-        "STREETS": "BURKE ST, EDWARD ST, GALATEA ST",
-        "SUBURBS": "CHARLEVILLE"
       }
     },
     {
@@ -6305,5 +6200,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1712960701.434518"
+  "extracted": "1712961006.572996"
 }
