@@ -1,8 +1,134 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.768127,
+              -26.470295
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.743652,
+                  -26.469921
+                ],
+                [
+                  152.776521,
+                  -26.496679
+                ],
+                [
+                  152.776784,
+                  -26.496791
+                ],
+                [
+                  152.78317,
+                  -26.49765
+                ],
+                [
+                  152.783204,
+                  -26.497654
+                ],
+                [
+                  152.788414,
+                  -26.498033
+                ],
+                [
+                  152.788923,
+                  -26.497746
+                ],
+                [
+                  152.792662,
+                  -26.489043
+                ],
+                [
+                  152.792678,
+                  -26.488762
+                ],
+                [
+                  152.781564,
+                  -26.452101
+                ],
+                [
+                  152.781415,
+                  -26.451885
+                ],
+                [
+                  152.772339,
+                  -26.444521
+                ],
+                [
+                  152.772218,
+                  -26.444449
+                ],
+                [
+                  152.772012,
+                  -26.444361
+                ],
+                [
+                  152.771974,
+                  -26.444346
+                ],
+                [
+                  152.767924,
+                  -26.442967
+                ],
+                [
+                  152.767853,
+                  -26.442948
+                ],
+                [
+                  152.765853,
+                  -26.442556
+                ],
+                [
+                  152.765587,
+                  -26.442569
+                ],
+                [
+                  152.763822,
+                  -26.443102
+                ],
+                [
+                  152.763569,
+                  -26.443273
+                ],
+                [
+                  152.743576,
+                  -26.46933
+                ],
+                [
+                  152.743652,
+                  -26.469921
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-754279-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "165",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:53AM 14 Apr 2024",
+        "EST_FIX_TIME": "8:30AM 14 Apr 2024",
+        "STREETS": "ASPENNELL RD, BELLI OAK TREE RD, BOYLE RD, HAPPY JACK CREEK RD, HOVEA RD, JUBILEE RD, KENILWORTH SKYRING CREEK RD, MONARCH RD, NEWSPAPER HILL RD, OAK CT, OLD MILL RD, POULSEN RD, SARUS RD",
+        "SUBURBS": "BELLI PARK, BOLLIER, CARTERS RIDGE, GHEERULLA"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713037801.290642"
+  "extracted": "1713038101.546159"
 }
