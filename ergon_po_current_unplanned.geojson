@@ -87,6 +87,83 @@
           {
             "type": "Point",
             "coordinates": [
+              150.249301,
+              -23.870159
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.243853,
+                  -23.860069
+                ],
+                [
+                  150.253254,
+                  -23.880525
+                ],
+                [
+                  150.253791,
+                  -23.880793
+                ],
+                [
+                  150.254196,
+                  -23.880373
+                ],
+                [
+                  150.254749,
+                  -23.870693
+                ],
+                [
+                  150.254726,
+                  -23.870529
+                ],
+                [
+                  150.253543,
+                  -23.867203
+                ],
+                [
+                  150.25341,
+                  -23.867012
+                ],
+                [
+                  150.244637,
+                  -23.859562
+                ],
+                [
+                  150.244023,
+                  -23.859525
+                ],
+                [
+                  150.243853,
+                  -23.860069
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5635",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
+        "STATUS": "Outage reported",
+        "START": "11:27AM 13 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DEE RIVER RD, JAMESONS LANE",
+        "SUBURBS": "DULULU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -845,78 +922,9 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              149.947961,
-              -25.225616
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  149.942558,
-                  -25.225742
-                ],
-                [
-                  149.953257,
-                  -25.226952
-                ],
-                [
-                  149.953798,
-                  -25.226616
-                ],
-                [
-                  149.953501,
-                  -25.226085
-                ],
-                [
-                  149.948591,
-                  -25.224309
-                ],
-                [
-                  149.948354,
-                  -25.22428
-                ],
-                [
-                  149.942566,
-                  -25.224846
-                ],
-                [
-                  149.942124,
-                  -25.22529
-                ],
-                [
-                  149.942558,
-                  -25.225742
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW7586",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews working on-site",
-        "START": "9:43AM 13 Apr 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "LEICHHARDT HWY",
-        "SUBURBS": "TAROOM"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712980502.136172"
+  "extracted": "1712980803.955826"
 }
