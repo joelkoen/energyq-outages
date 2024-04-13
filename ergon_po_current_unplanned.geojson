@@ -200,6 +200,75 @@
           {
             "type": "Point",
             "coordinates": [
+              147.440846,
+              -24.139448
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.379729,
+                  -24.153933
+                ],
+                [
+                  147.457393,
+                  -24.256755
+                ],
+                [
+                  147.457904,
+                  -24.256939
+                ],
+                [
+                  147.458283,
+                  -24.256574
+                ],
+                [
+                  147.501962,
+                  -24.022443
+                ],
+                [
+                  147.501686,
+                  -24.021958
+                ],
+                [
+                  147.501103,
+                  -24.022075
+                ],
+                [
+                  147.379759,
+                  -24.153383
+                ],
+                [
+                  147.379729,
+                  -24.153933
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5632",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "8:06AM 13 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ECHO HILLS RD, JO JO RD, ROOKEN GLEN RD",
+        "SUBURBS": "SPRINGSURE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -717,6 +786,131 @@
           {
             "type": "Point",
             "coordinates": [
+              149.155245,
+              -21.003058
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.153424,
+                  -21.003095
+                ],
+                [
+                  149.155772,
+                  -21.005146
+                ],
+                [
+                  149.156512,
+                  -21.005047
+                ],
+                [
+                  149.156691,
+                  -21.004766
+                ],
+                [
+                  149.156755,
+                  -21.004597
+                ],
+                [
+                  149.156844,
+                  -21.004
+                ],
+                [
+                  149.156845,
+                  -21.00399
+                ],
+                [
+                  149.157016,
+                  -21.002635
+                ],
+                [
+                  149.157019,
+                  -21.002613
+                ],
+                [
+                  149.157067,
+                  -21.001943
+                ],
+                [
+                  149.157067,
+                  -21.001883
+                ],
+                [
+                  149.157039,
+                  -21.001469
+                ],
+                [
+                  149.156602,
+                  -21.001048
+                ],
+                [
+                  149.155664,
+                  -21.00097
+                ],
+                [
+                  149.155415,
+                  -21.001013
+                ],
+                [
+                  149.155122,
+                  -21.001144
+                ],
+                [
+                  149.155046,
+                  -21.001187
+                ],
+                [
+                  149.154914,
+                  -21.001277
+                ],
+                [
+                  149.154896,
+                  -21.00129
+                ],
+                [
+                  149.153674,
+                  -21.002215
+                ],
+                [
+                  149.153646,
+                  -21.002238
+                ],
+                [
+                  149.153422,
+                  -21.002435
+                ],
+                [
+                  149.153424,
+                  -21.003095
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3533",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "47",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:04AM 13 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BALER ST, DENMAN AVE, O'BRIEN ESP",
+        "SUBURBS": "SHOAL POINT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -834,5 +1028,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712970301.607552"
+  "extracted": "1712970601.596143"
 }
