@@ -447,6 +447,87 @@
           {
             "type": "Point",
             "coordinates": [
+              147.377108,
+              -19.605689
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.373812,
+                  -19.607486
+                ],
+                [
+                  147.378453,
+                  -19.607235
+                ],
+                [
+                  147.378618,
+                  -19.607198
+                ],
+                [
+                  147.380795,
+                  -19.606292
+                ],
+                [
+                  147.380882,
+                  -19.605512
+                ],
+                [
+                  147.378629,
+                  -19.603975
+                ],
+                [
+                  147.37831,
+                  -19.603891
+                ],
+                [
+                  147.377725,
+                  -19.603938
+                ],
+                [
+                  147.377491,
+                  -19.604018
+                ],
+                [
+                  147.373511,
+                  -19.606665
+                ],
+                [
+                  147.373335,
+                  -19.607184
+                ],
+                [
+                  147.373812,
+                  -19.607486
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7412",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+        "STATUS": "Outage reported",
+        "START": "7:58PM 13 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "OLD CLARE RD",
+        "SUBURBS": "AYR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -503,5 +584,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713002403.866104"
+  "extracted": "1713003007.891429"
 }
