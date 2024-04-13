@@ -10,6 +10,99 @@
           {
             "type": "Point",
             "coordinates": [
+              145.942265,
+              -22.760032
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.691344,
+                  -22.950676
+                ],
+                [
+                  145.916144,
+                  -23.008806
+                ],
+                [
+                  145.916649,
+                  -23.008662
+                ],
+                [
+                  146.132929,
+                  -22.769349
+                ],
+                [
+                  146.133029,
+                  -22.769163
+                ],
+                [
+                  146.193301,
+                  -22.530372
+                ],
+                [
+                  146.193312,
+                  -22.530307
+                ],
+                [
+                  146.193498,
+                  -22.528305
+                ],
+                [
+                  146.193154,
+                  -22.527834
+                ],
+                [
+                  146.134169,
+                  -22.511258
+                ],
+                [
+                  146.133729,
+                  -22.511334
+                ],
+                [
+                  145.782305,
+                  -22.765001
+                ],
+                [
+                  145.78216,
+                  -22.765171
+                ],
+                [
+                  145.691032,
+                  -22.950054
+                ],
+                [
+                  145.691344,
+                  -22.950676
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5644",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "18",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 14 Apr 2024",
+        "EST_FIX_TIME": "2:00PM 14 Apr 2024",
+        "STREETS": "CLARE-CLUNIE VALE RD, DUNROBIN RD, JERICHO-ARAMAC RD, JERICHO-TOR CREEK RD, OFF JERICHO-TOR CK RD, THE LAKE RD",
+        "SUBURBS": "ARAMAC, JERICHO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -224,5 +317,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713043500.735494"
+  "extracted": "1713044101.506908"
 }
