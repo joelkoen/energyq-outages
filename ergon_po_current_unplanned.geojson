@@ -769,9 +769,70 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.024632,
+              -27.363353
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.0252,
+                  -27.362998
+                ],
+                [
+                  152.024269,
+                  -27.362826
+                ],
+                [
+                  152.023673,
+                  -27.363176
+                ],
+                [
+                  152.024065,
+                  -27.363708
+                ],
+                [
+                  152.024996,
+                  -27.36388
+                ],
+                [
+                  152.025592,
+                  -27.36353
+                ],
+                [
+                  152.0252,
+                  -27.362998
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7585",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews on route",
+        "START": "9:11AM 13 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MERRITTS CREEK RD, VALEWOOD RD",
+        "SUBURBS": "MERRITTS CREEK"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1712967901.778961"
+  "extracted": "1712968501.737854"
 }
