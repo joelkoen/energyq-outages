@@ -10,6 +10,115 @@
           {
             "type": "Point",
             "coordinates": [
+              150.353371,
+              -23.87185
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.281036,
+                  -23.856294
+                ],
+                [
+                  150.283762,
+                  -23.890523
+                ],
+                [
+                  150.284189,
+                  -23.890937
+                ],
+                [
+                  150.288367,
+                  -23.891427
+                ],
+                [
+                  150.288395,
+                  -23.89143
+                ],
+                [
+                  150.412631,
+                  -23.899427
+                ],
+                [
+                  150.413082,
+                  -23.899215
+                ],
+                [
+                  150.425705,
+                  -23.880445
+                ],
+                [
+                  150.425583,
+                  -23.879848
+                ],
+                [
+                  150.419069,
+                  -23.87533
+                ],
+                [
+                  150.419032,
+                  -23.875307
+                ],
+                [
+                  150.364739,
+                  -23.844338
+                ],
+                [
+                  150.364429,
+                  -23.844272
+                ],
+                [
+                  150.291286,
+                  -23.85128
+                ],
+                [
+                  150.291203,
+                  -23.851295
+                ],
+                [
+                  150.290049,
+                  -23.851595
+                ],
+                [
+                  150.289952,
+                  -23.851631
+                ],
+                [
+                  150.281295,
+                  -23.855863
+                ],
+                [
+                  150.281036,
+                  -23.856294
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5675",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "34",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:21PM 14 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALMA VALE RD, BUNERBA SCHOOL RD, BURNETT HWY, DULULU BUNERBA RD, JAMESONS LANE, OFF BURNETT HWY, OFF GELOBERA RD, WILLETTS RD",
+        "SUBURBS": "DULULU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -543,5 +652,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713075601.744433"
+  "extracted": "1713075901.258402"
 }
