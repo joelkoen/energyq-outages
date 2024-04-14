@@ -208,6 +208,91 @@
           {
             "type": "Point",
             "coordinates": [
+              142.220788,
+              -9.230828
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  142.219382,
+                  -9.23133
+                ],
+                [
+                  142.220678,
+                  -9.232377
+                ],
+                [
+                  142.221366,
+                  -9.232237
+                ],
+                [
+                  142.222218,
+                  -9.230623
+                ],
+                [
+                  142.222269,
+                  -9.230391
+                ],
+                [
+                  142.222235,
+                  -9.229712
+                ],
+                [
+                  142.221785,
+                  -9.229284
+                ],
+                [
+                  142.220881,
+                  -9.229278
+                ],
+                [
+                  142.220582,
+                  -9.229387
+                ],
+                [
+                  142.219835,
+                  -9.230028
+                ],
+                [
+                  142.219769,
+                  -9.230098
+                ],
+                [
+                  142.219306,
+                  -9.23071
+                ],
+                [
+                  142.219382,
+                  -9.23133
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5202",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "18",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:44AM 15 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARMY ST, DAU ST, UNKNOWN ST",
+        "SUBURBS": "BOIGU ISLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -333,5 +418,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713127501.691557"
+  "extracted": "1713128101.154228"
 }
