@@ -261,6 +261,59 @@
           {
             "type": "Point",
             "coordinates": [
+              148.431875,
+              -21.872873
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.432359,
+                  -21.872868
+                ],
+                [
+                  148.43187,
+                  -21.872421
+                ],
+                [
+                  148.431391,
+                  -21.872877
+                ],
+                [
+                  148.431879,
+                  -21.873324
+                ],
+                [
+                  148.432359,
+                  -21.872868
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3536",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "12:54PM 14 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "PEAK DOWNS HWY",
+        "SUBURBS": "COPPABELLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -317,5 +370,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713063301.309826"
+  "extracted": "1713063603.588164"
 }
