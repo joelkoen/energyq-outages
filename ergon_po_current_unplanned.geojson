@@ -362,6 +362,67 @@
           {
             "type": "Point",
             "coordinates": [
+              146.04733,
+              -18.576118
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.045481,
+                  -18.579101
+                ],
+                [
+                  146.049644,
+                  -18.577437
+                ],
+                [
+                  146.049827,
+                  -18.576733
+                ],
+                [
+                  146.046734,
+                  -18.573134
+                ],
+                [
+                  146.045902,
+                  -18.573335
+                ],
+                [
+                  146.044833,
+                  -18.578599
+                ],
+                [
+                  146.045481,
+                  -18.579101
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7420",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "11:07AM 14 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "HAWKINS CREEK RD",
+        "SUBURBS": "HAWKINS CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -414,9 +475,86 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.936857,
+              -26.664722
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.926115,
+                  -26.658273
+                ],
+                [
+                  151.935143,
+                  -26.675621
+                ],
+                [
+                  151.935783,
+                  -26.675848
+                ],
+                [
+                  151.941563,
+                  -26.673767
+                ],
+                [
+                  151.941837,
+                  -26.673527
+                ],
+                [
+                  151.947566,
+                  -26.661556
+                ],
+                [
+                  151.947598,
+                  -26.661293
+                ],
+                [
+                  151.946022,
+                  -26.653948
+                ],
+                [
+                  151.945415,
+                  -26.653596
+                ],
+                [
+                  151.926453,
+                  -26.657644
+                ],
+                [
+                  151.926115,
+                  -26.658273
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4894",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "10:27AM 14 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MCNAMARA RD, PARSONS RD",
+        "SUBURBS": "KUNIOON, NANANGO"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713058801.490814"
+  "extracted": "1713059104.704828"
 }
