@@ -410,6 +410,67 @@
           {
             "type": "Point",
             "coordinates": [
+              146.829318,
+              -19.260912
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.829614,
+                  -19.260545
+                ],
+                [
+                  146.829433,
+                  -19.260463
+                ],
+                [
+                  146.828799,
+                  -19.260676
+                ],
+                [
+                  146.829023,
+                  -19.261279
+                ],
+                [
+                  146.829204,
+                  -19.261361
+                ],
+                [
+                  146.829838,
+                  -19.261148
+                ],
+                [
+                  146.829614,
+                  -19.260545
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7433",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "7:11PM 14 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARCHER ST, MACROSSAN ST",
+        "SUBURBS": "SOUTH TOWNSVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               147.409409,
               -19.570537
             ]
@@ -488,7 +549,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "47",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "6:33PM 14 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "GRAHAM ST, QUEEN ST, SOPER ST",
@@ -559,5 +620,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713085801.240399"
+  "extracted": "1713086401.139262"
 }
