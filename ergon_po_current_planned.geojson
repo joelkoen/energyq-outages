@@ -301,6 +301,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.925282,
+          -17.346897
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4212",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "11:34AM 14 Apr 2024",
+        "EST_FIX_TIME": "4:30PM 14 Apr 2024",
+        "STREETS": "BRUCE HWY, HOWARD KENNEDY DR",
+        "SUBURBS": "BABINDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.928172,
           -17.337171
         ]
@@ -483,27 +504,6 @@
         "EST_FIX_TIME": "2:00PM 14 Apr 2024",
         "STREETS": "QUEEN ST",
         "SUBURBS": "AYR"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.785346,
-          -19.264195
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5847",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "7:22AM 14 Apr 2024",
-        "EST_FIX_TIME": "4:00PM 14 Apr 2024",
-        "STREETS": "NIX ST",
-        "SUBURBS": "WEST END"
       }
     },
     {
@@ -929,5 +929,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713058204.231241"
+  "extracted": "1713058801.490814"
 }
