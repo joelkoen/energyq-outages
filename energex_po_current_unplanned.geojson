@@ -1,62 +1,8 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              153.111014,
-              -27.437051
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.11152,
-                  -27.43705
-                ],
-                [
-                  153.111014,
-                  -27.436599
-                ],
-                [
-                  153.110508,
-                  -27.437051
-                ],
-                [
-                  153.111015,
-                  -27.437502
-                ],
-                [
-                  153.11152,
-                  -27.43705
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-754522-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "Emergency Repairs",
-        "STATUS": "Awaiting",
-        "START": "5:05PM 15 Apr 2024",
-        "EST_FIX_TIME": "8:00PM 15 Apr 2024",
-        "STREETS": "MACARTHUR AVE CN",
-        "SUBURBS": "PINKENBA"
-      }
-    }
-  ],
+  "features": [],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713165601.53178"
+  "extracted": "1713165900.425841"
 }
