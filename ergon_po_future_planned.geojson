@@ -3346,6 +3346,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.235461,
+          -20.012675
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5887",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "10:33AM 15 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 15 Apr 2024",
+        "STREETS": "MITCHELL ST",
+        "SUBURBS": "BOWEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.239177,
           -20.014073
         ]
@@ -3423,27 +3444,6 @@
         "EST_FIX_TIME": "2:30PM 17 Apr 2024",
         "STREETS": "BLETCHINGTON STATION, BLUFF RD, BLUFF STATION, BRITTANIA RD, BROADLEIGH DNS STATION, BRUSLEE STATION, CAERPHILLY STATION, CAMERON STATION, CLERMONT HWY, COREA PLAINS STATION, DANDENONG STATION, DAWSONVALE STATION, DOONGARA STATION, EGERA STATION, ELSTON HILLS STATION, GREGORY DEVELOPMENTAL RD, HARVEST HOME STATION, JUMBA STATION, LASCELLES STATION, LEYSHON VIEW STATION, LIONTOWN STATION, LONGTON STATION, MERRICOURT STATION, MERRYLAND STATION, MIRTNA RD, MIRTNA STATION, NATAL DOWNS STATION, NOSNILLOR STATION, OLD VICTORIA STATION, PAJINGO STATION, PALLAMANA STATION, SAYAH PARK STATION, SLOGAN DOWNS STATION, TAEMAS STATION, TEEWARRINA STATION, TRAFALGAR STATION, VACQUERA STATION, VICTORIA DOWNS STATION, WAMBIANA STATION",
         "SUBURBS": "BELYANDO CROSSING, BROUGHTON, CHARTERS TOWERS, PENTLAND, SEVENTY MILE, SEVENTY MILE RANGE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.23275,
-          -20.011295
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5933",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "9:50AM 15 Apr 2024",
-        "EST_FIX_TIME": "4:00PM 15 Apr 2024",
-        "STREETS": "NORRIS ST, REYNOLDS ST",
-        "SUBURBS": "BOWEN"
       }
     },
     {
@@ -4028,7 +4028,7 @@
         "CUSTOMERS_AFFECTED": "8",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "10:00AM 15 Apr 2024",
+        "START": "10:11AM 15 Apr 2024",
         "EST_FIX_TIME": "12:00PM 15 Apr 2024",
         "STREETS": "CARDIGAN STATION, LORNESLEIGH RD",
         "SUBURBS": "BROUGHTON, CHARTERS TOWERS"
@@ -6725,5 +6725,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1713141005.543743"
+  "extracted": "1713141301.609207"
 }
