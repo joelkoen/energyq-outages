@@ -672,9 +672,78 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.024861,
+              -25.192513
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.023899,
+                  -25.191833
+                ],
+                [
+                  152.024706,
+                  -25.193482
+                ],
+                [
+                  152.025207,
+                  -25.193747
+                ],
+                [
+                  152.025641,
+                  -25.193397
+                ],
+                [
+                  152.025823,
+                  -25.192658
+                ],
+                [
+                  152.025692,
+                  -25.192243
+                ],
+                [
+                  152.024703,
+                  -25.191334
+                ],
+                [
+                  152.024072,
+                  -25.191278
+                ],
+                [
+                  152.023899,
+                  -25.191833
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4930",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "9:37PM 15 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRUCE HWY",
+        "SUBURBS": "BOOYAL"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713181201.23292"
+  "extracted": "1713181503.555511"
 }
