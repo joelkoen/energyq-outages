@@ -386,7 +386,7 @@
         "EVENT_ID": "24FN5240",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "998",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
         "STATUS": "Crews on route",
         "START": "10:51PM 15 Apr 2024",
         "EST_FIX_TIME": null,
@@ -542,6 +542,107 @@
         "EST_FIX_TIME": null,
         "STREETS": "KENNEDY HWY",
         "SUBURBS": "KURANDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.748554,
+              -16.954448
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.747078,
+                  -16.954163
+                ],
+                [
+                  145.747759,
+                  -16.955323
+                ],
+                [
+                  145.748144,
+                  -16.955552
+                ],
+                [
+                  145.748427,
+                  -16.955565
+                ],
+                [
+                  145.748719,
+                  -16.955485
+                ],
+                [
+                  145.749604,
+                  -16.954891
+                ],
+                [
+                  145.749729,
+                  -16.954766
+                ],
+                [
+                  145.750031,
+                  -16.954317
+                ],
+                [
+                  145.749724,
+                  -16.953627
+                ],
+                [
+                  145.749139,
+                  -16.953521
+                ],
+                [
+                  145.749122,
+                  -16.953518
+                ],
+                [
+                  145.748,
+                  -16.953353
+                ],
+                [
+                  145.747961,
+                  -16.953349
+                ],
+                [
+                  145.747685,
+                  -16.953331
+                ],
+                [
+                  145.747322,
+                  -16.953461
+                ],
+                [
+                  145.747155,
+                  -16.95362
+                ],
+                [
+                  145.747078,
+                  -16.954163
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5250",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "25",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:43AM 16 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ATTICUS ST, SALTER CL",
+        "SUBURBS": "WOREE"
       }
     },
     {
@@ -746,5 +847,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713223200.368759"
+  "extracted": "1713223500.748854"
 }
