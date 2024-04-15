@@ -426,6 +426,139 @@
           {
             "type": "Point",
             "coordinates": [
+              149.270085,
+              -21.667745
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.186452,
+                  -21.618449
+                ],
+                [
+                  149.198663,
+                  -21.651852
+                ],
+                [
+                  149.198677,
+                  -21.651885
+                ],
+                [
+                  149.238326,
+                  -21.737335
+                ],
+                [
+                  149.238889,
+                  -21.737593
+                ],
+                [
+                  149.26138,
+                  -21.73224
+                ],
+                [
+                  149.261477,
+                  -21.732206
+                ],
+                [
+                  149.285205,
+                  -21.721131
+                ],
+                [
+                  149.285314,
+                  -21.72106
+                ],
+                [
+                  149.348069,
+                  -21.667537
+                ],
+                [
+                  149.348105,
+                  -21.667503
+                ],
+                [
+                  149.35362,
+                  -21.661703
+                ],
+                [
+                  149.353718,
+                  -21.661261
+                ],
+                [
+                  149.344437,
+                  -21.635129
+                ],
+                [
+                  149.344133,
+                  -21.634844
+                ],
+                [
+                  149.237117,
+                  -21.601018
+                ],
+                [
+                  149.237093,
+                  -21.601011
+                ],
+                [
+                  149.229534,
+                  -21.599029
+                ],
+                [
+                  149.229422,
+                  -21.599012
+                ],
+                [
+                  149.198592,
+                  -21.597897
+                ],
+                [
+                  149.198171,
+                  -21.598099
+                ],
+                [
+                  149.194243,
+                  -21.603651
+                ],
+                [
+                  149.194215,
+                  -21.603697
+                ],
+                [
+                  149.186477,
+                  -21.6181
+                ],
+                [
+                  149.186452,
+                  -21.618449
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3557",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "305",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:21PM 15 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOLINGBROKE RD, BORSTAL RD, BRUCE HWY, CAMPBELLS RD, CONE CREEK RD, COTTERS RD, CRAIG RD, DENNYS RD, HARRIS RD, HATFIELD RD, HINTON RD, KOUMALA BOLINGBROKE RD, LALLYS RD, MOUNT CHRISTIAN RD, PRATT RD, PRICE RD, R WILLIAMS RD, RAND RD, RICOTTA RD, RILEY RD, RILEYS RD, ROCKY DAM RD, SANDS RD, SANGIORGIO RD, SCHIRMERS RD, SMART RD, STORY RD, SWAN RD, SWANS RD, TEDLANDS RD, THOMPSON RD, TURNORS PADDOCK RD, WOOD RD",
+        "SUBURBS": "ILBILBIE, KOUMALA, MOUNT CHRISTIAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -482,5 +615,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713176401.365175"
+  "extracted": "1713176701.375528"
 }
