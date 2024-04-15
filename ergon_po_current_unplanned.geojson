@@ -298,6 +298,115 @@
           {
             "type": "Point",
             "coordinates": [
+              145.325512,
+              -19.004541
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  144.742529,
+                  -18.685192
+                ],
+                [
+                  144.83447,
+                  -19.236075
+                ],
+                [
+                  144.834662,
+                  -19.23637
+                ],
+                [
+                  144.932871,
+                  -19.303655
+                ],
+                [
+                  144.933016,
+                  -19.303723
+                ],
+                [
+                  145.741046,
+                  -19.52569
+                ],
+                [
+                  145.741642,
+                  -19.525355
+                ],
+                [
+                  145.908486,
+                  -18.820821
+                ],
+                [
+                  145.908495,
+                  -18.820681
+                ],
+                [
+                  145.908404,
+                  -18.81974
+                ],
+                [
+                  145.908399,
+                  -18.819703
+                ],
+                [
+                  145.907999,
+                  -18.817525
+                ],
+                [
+                  145.907863,
+                  -18.817279
+                ],
+                [
+                  145.599786,
+                  -18.531296
+                ],
+                [
+                  145.599484,
+                  -18.531168
+                ],
+                [
+                  144.80064,
+                  -18.483391
+                ],
+                [
+                  144.800152,
+                  -18.483723
+                ],
+                [
+                  144.74254,
+                  -18.685002
+                ],
+                [
+                  144.742529,
+                  -18.685192
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7445",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "250",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:00PM 15 Apr 2024",
+        "EST_FIX_TIME": "5:00PM 15 Apr 2024",
+        "STREETS": "ACACIA DR, BANKSIA CT, BLOODWOOD RD, BLUE RANGE STATION, BOUNDARY RD, CAMEL CREEK STATION, CASSIA CT, CHRISTMAS CREEK STATION, CHURCH RD, CONJUBOY STATION, CRAIGLEE STATION, CRAIGS POCKET STATION, DEPOT RD, DRYANDRA CT, EUCALYPTUS CT, GADARA STATION, GERANIUM CT, GILLDALE STATION, GRANTS RD, GREENVALE STATION, GREGORY DEVELOPMENTAL RD, GREVILLEA CT, HAKEA CT, JERVOISE STATION, JESSIE SPRINGS RD, KANGAROO HILLS STATION, KILCLOONEY STATION, KNUCKLEDOWN RD, KYLEE CT, LAVA PLAINS STATION, LINCOLN SPRINGS STATION, LUCKY DOWNS RD, LUCKY DOWNS STATION, LUCKY SPRINGS STATION, LYND HWY, MARIONVALE STATION, MELALEUCA CT, MOUNT FOX RD, MT FULLSTOP STATION, MT OWEENEE STATION, OAK HILLS RD, OAK HILLS STATION, PADDIES DAM STATION, PANDANUS STATION, POISON LAKE RD, PORPHRY STATION, REDBANK DR, REEDYBROOK STATION, RHONELLA PARK STATION, SILVER WATTLE RD, TELOPEA CT, TRISTANA CT, VALLEY LAGOONS, VEENEE STATION, WATTS RD, WYANDOTTE STATION",
+        "SUBURBS": "BLUEWATER SPRINGS, CHARTERS TOWERS, CLARKE RIVER, GREENVALE, MOUNT FOX, MOUNT GARNET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -697,5 +806,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713153604.918303"
+  "extracted": "1713154201.802282"
 }
