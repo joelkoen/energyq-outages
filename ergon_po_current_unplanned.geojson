@@ -402,6 +402,91 @@
           {
             "type": "Point",
             "coordinates": [
+              145.627853,
+              -16.839257
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.625378,
+                  -16.838534
+                ],
+                [
+                  145.625491,
+                  -16.840545
+                ],
+                [
+                  145.625846,
+                  -16.840958
+                ],
+                [
+                  145.626795,
+                  -16.841187
+                ],
+                [
+                  145.627143,
+                  -16.841141
+                ],
+                [
+                  145.630248,
+                  -16.839425
+                ],
+                [
+                  145.630328,
+                  -16.838697
+                ],
+                [
+                  145.628875,
+                  -16.83744
+                ],
+                [
+                  145.628521,
+                  -16.837326
+                ],
+                [
+                  145.627708,
+                  -16.837394
+                ],
+                [
+                  145.627588,
+                  -16.837419
+                ],
+                [
+                  145.625686,
+                  -16.838085
+                ],
+                [
+                  145.625378,
+                  -16.838534
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5246",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "18",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:52AM 16 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MASONS RD",
+        "SUBURBS": "KURANDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -596,5 +681,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713219000.736691"
+  "extracted": "1713219302.873434"
 }
