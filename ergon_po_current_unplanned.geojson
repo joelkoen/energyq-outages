@@ -253,6 +253,123 @@
           {
             "type": "Point",
             "coordinates": [
+              142.32906,
+              -10.902933
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  142.321376,
+                  -10.906665
+                ],
+                [
+                  142.321387,
+                  -10.909392
+                ],
+                [
+                  142.321387,
+                  -10.909414
+                ],
+                [
+                  142.321401,
+                  -10.90967
+                ],
+                [
+                  142.321904,
+                  -10.910095
+                ],
+                [
+                  142.322628,
+                  -10.91002
+                ],
+                [
+                  142.322683,
+                  -10.910011
+                ],
+                [
+                  142.323346,
+                  -10.909861
+                ],
+                [
+                  142.323371,
+                  -10.909855
+                ],
+                [
+                  142.324031,
+                  -10.909666
+                ],
+                [
+                  142.324126,
+                  -10.909627
+                ],
+                [
+                  142.33024,
+                  -10.906272
+                ],
+                [
+                  142.330397,
+                  -10.90613
+                ],
+                [
+                  142.336744,
+                  -10.896814
+                ],
+                [
+                  142.336654,
+                  -10.896214
+                ],
+                [
+                  142.336189,
+                  -10.895837
+                ],
+                [
+                  142.335719,
+                  -10.895772
+                ],
+                [
+                  142.32221,
+                  -10.901538
+                ],
+                [
+                  142.321938,
+                  -10.901899
+                ],
+                [
+                  142.321379,
+                  -10.906611
+                ],
+                [
+                  142.321376,
+                  -10.906665
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5222",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "148",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "9:30AM 15 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "APUDTHAMA ST, ATAMBYA CL, BOWIE ST, COBRA CL, INJINOO CL, MCDONNELL ST, MIMI CL, MOSES CL, PABLO ST, PETER ST, ROPEYARN HWY, ROPEYARN ST, SNAKE GLY, SNAKE GULLY RD, TAIPAN ALLY, TAMWOY ST, UNKNOWN ST, WARE ST, WOOSUP ST",
+        "SUBURBS": "INJINOO, UMAGICO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -721,5 +838,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713144001.465016"
+  "extracted": "1713144301.672225"
 }
