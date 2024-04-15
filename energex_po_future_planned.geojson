@@ -562,7 +562,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
+        "STATUS": "Completed",
         "START": "11:00AM 15 Apr 2024",
         "EST_FIX_TIME": "3:00PM 15 Apr 2024",
         "STREETS": "CALTON TCE",
@@ -3739,9 +3739,30 @@
         "STREETS": "ACACIA AVE, ANZAC AVE, BEERBURRUM RD, BEERBURRUM-WOODFORD RD, CARRIAGE CRES, CHURCH ST, COBB AND CO DR, HIBISCUS AVE, MAGNOLIA CT, ROSE CREEK RD, WATTLE AVE, WOLLEMI ST",
         "SUBURBS": "BEERBURRUM, ELIMBAH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.346182,
+          -27.542184
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-754482-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 16 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 16 Apr 2024",
+        "STREETS": "VILLIS RD",
+        "SUBURBS": "COLLEGE VIEW"
+      }
     }
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1713153000.537418"
+  "extracted": "1713153300.552052"
 }
