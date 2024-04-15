@@ -1,8 +1,126 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.750721,
+              -26.345152
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.706145,
+                  -26.302398
+                ],
+                [
+                  152.709441,
+                  -26.329499
+                ],
+                [
+                  152.709498,
+                  -26.329665
+                ],
+                [
+                  152.736873,
+                  -26.375256
+                ],
+                [
+                  152.736895,
+                  -26.375288
+                ],
+                [
+                  152.738994,
+                  -26.378172
+                ],
+                [
+                  152.739024,
+                  -26.37821
+                ],
+                [
+                  152.745323,
+                  -26.385165
+                ],
+                [
+                  152.745349,
+                  -26.385191
+                ],
+                [
+                  152.748602,
+                  -26.388267
+                ],
+                [
+                  152.749239,
+                  -26.388333
+                ],
+                [
+                  152.791505,
+                  -26.363353
+                ],
+                [
+                  152.791515,
+                  -26.363347
+                ],
+                [
+                  152.793465,
+                  -26.362131
+                ],
+                [
+                  152.793644,
+                  -26.361933
+                ],
+                [
+                  152.795269,
+                  -26.358393
+                ],
+                [
+                  152.795297,
+                  -26.358132
+                ],
+                [
+                  152.7943,
+                  -26.353627
+                ],
+                [
+                  152.794083,
+                  -26.353338
+                ],
+                [
+                  152.706917,
+                  -26.301971
+                ],
+                [
+                  152.706145,
+                  -26.302398
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-754568-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "175",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:09AM 16 Apr 2024",
+        "EST_FIX_TIME": "8:30AM 16 Apr 2024",
+        "STREETS": "BRUCE HWY, CARLSON RD, COCHRANE CT, COLES CREEK RD, COOROY GYMPIE RD, GLORY HILL RD, GOOMONG RD, KENILWORTH SKYRING CREEK RD, KENMAN RD, MAGUIRES LANE, MAHER RD, MOUNTAIN VIEW RD, OLD BRUCE HWY, OLD TRAVESTON RD, SCHREIBERS RD, THOMASON RD, TRAVESTON CROSSING RD, TRAVESTON RD, WILCOX RD",
+        "SUBURBS": "COLES CREEK, COORAN, KANDANGA, KYBONG, TRAVESTON, TUCHEKOI"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713211501.32143"
+  "extracted": "1713211801.322533"
 }
