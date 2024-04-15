@@ -313,6 +313,147 @@
           {
             "type": "Point",
             "coordinates": [
+              144.889291,
+              -17.225272
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  144.483299,
+                  -17.149899
+                ],
+                [
+                  144.600828,
+                  -17.306004
+                ],
+                [
+                  144.601012,
+                  -17.30615
+                ],
+                [
+                  144.681036,
+                  -17.341497
+                ],
+                [
+                  144.681053,
+                  -17.341504
+                ],
+                [
+                  144.772014,
+                  -17.377484
+                ],
+                [
+                  144.7721,
+                  -17.377509
+                ],
+                [
+                  144.886352,
+                  -17.399727
+                ],
+                [
+                  144.886598,
+                  -17.399711
+                ],
+                [
+                  144.88887,
+                  -17.39896
+                ],
+                [
+                  144.88896,
+                  -17.39892
+                ],
+                [
+                  145.241213,
+                  -17.194342
+                ],
+                [
+                  145.241221,
+                  -17.194337
+                ],
+                [
+                  145.295067,
+                  -17.161465
+                ],
+                [
+                  145.295282,
+                  -17.161037
+                ],
+                [
+                  145.289737,
+                  -17.10971
+                ],
+                [
+                  145.289484,
+                  -17.109354
+                ],
+                [
+                  145.170535,
+                  -17.050863
+                ],
+                [
+                  145.170261,
+                  -17.050818
+                ],
+                [
+                  144.952868,
+                  -17.077787
+                ],
+                [
+                  144.952858,
+                  -17.077789
+                ],
+                [
+                  144.524187,
+                  -17.139069
+                ],
+                [
+                  144.524141,
+                  -17.139078
+                ],
+                [
+                  144.509797,
+                  -17.142546
+                ],
+                [
+                  144.509792,
+                  -17.142547
+                ],
+                [
+                  144.48356,
+                  -17.149198
+                ],
+                [
+                  144.483299,
+                  -17.149899
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5240",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1216",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:51PM 15 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AERODROME RD, ALGOMA RD, ALMADEN ST, ARGYLE ST, ATHERTON ST, BAKER ST, BAMFORD RD, BARBETTI RD, BLAKNEY RD, BLUFF ST, BOONMOO RD, BOOTH RD, BOURKE ST, BRAUND RD, BRENADEN CL, BRICKLEY ST, BRUCE WEIR RD, BULLABURRAH CREEK RD, BURKE DEVELOPMENT RD, BURKE DEVELOPMENTAL RD, CAMPBELL RD, CARBONATE CREEK RD, CATHEDRAL ST, CATTAROSSI ST, CHANNEL RD, CHILLAGOE BOLWARRA RD, CHILLAGOE RD, CHIRCAN RD, CHISARI RD, COLLINS ST, CRAIG RD, CUMMINGS ST, CUZZUBBO RD, DAINE DR, DARRELL RD, DAVENPORT RD, DE LACEY RD, DIMBULAH RD, EAST DAWSON RD, EASTERN ST, ERICSON RD, EUREKA CREEK RD, FABRIS RD, FORD ST, FREW ST, FUMAR RD, GEORGE ST, GEORGETOWN RD, GLYNN ST, GREEN RD, HAMBLING ST, HANLEY RD, HAY ST, HERBERTON-PETFORD RD, HILL ST, HORSE CREEK RD, HOSPITAL AVE, HYDE ST, INVERADI RD, JACKSON ST, KENNEDY ST, KING ST, KNOWE ST, LEADINGHAM CREEK RD, LEAFGOLD RD, LEAFGOLD WEIR RD, LEMONSIDE RD, LEMONSIDE RD E, MAIN ST, MAREEBA RD, MAREEBA-DIMBULAH RD, MARKET ST, MARKOCIC RD, MASTERSON RD, MASTERSON ST, MCLEOD RD, METZGER RD, MINISINI RD, MOUNT MULLIGAN RD, MULLIGAN RD, MUSUMECI ST, MUTCHILBA RD, PARISE RD, PARK AVE, PEACE RD, PETFORD RD, PIEMONTE RD, PONT ST, PRICE CREEK RD, QUEEN ST, RAILWAY RES, RALEIGH ST, RESERVOIR ST, ROBINSON RD, SANDY CREEK RD, SCHINCARIOL RD, SCHOOL ST, SEAWARD RD, SELBY RD, SHORT ST, SMELTER RD, SPRINGMOUNT RD, STEPHENS ST, STOKES RD, TAIT ST, TOP EUREKA CREEK RD, TOP EUREKA RD, TOWER ST, UNKNOWN ST, VENESS RD, WALSH RD, WALSH ST, WEIR RD, WEST DAWSON RD, WOLFRAM RD, ZILLMANTON RD",
+        "SUBURBS": "ALMADEN, ARRIGA, BONTABA, CHILLAGOE, DIMBULAH, FUMAR, KOORBOORA, LEAFGOLD, LEMONSIDE, MAREEBA, MUTCHILBA, PETFORD, PRICE CREEK, SOLANUM, TABACUM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -677,5 +818,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713185401.289276"
+  "extracted": "1713185701.50968"
 }
