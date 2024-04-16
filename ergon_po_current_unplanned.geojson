@@ -362,6 +362,111 @@
           {
             "type": "Point",
             "coordinates": [
+              145.555602,
+              -16.643281
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.543404,
+                  -16.624241
+                ],
+                [
+                  145.564358,
+                  -16.662836
+                ],
+                [
+                  145.565141,
+                  -16.662907
+                ],
+                [
+                  145.567699,
+                  -16.659802
+                ],
+                [
+                  145.5678,
+                  -16.659505
+                ],
+                [
+                  145.567781,
+                  -16.658953
+                ],
+                [
+                  145.567766,
+                  -16.658857
+                ],
+                [
+                  145.567525,
+                  -16.657938
+                ],
+                [
+                  145.567495,
+                  -16.657857
+                ],
+                [
+                  145.567215,
+                  -16.657281
+                ],
+                [
+                  145.567185,
+                  -16.657229
+                ],
+                [
+                  145.550286,
+                  -16.631731
+                ],
+                [
+                  145.550271,
+                  -16.63171
+                ],
+                [
+                  145.54443,
+                  -16.623915
+                ],
+                [
+                  145.54431,
+                  -16.623804
+                ],
+                [
+                  145.544079,
+                  -16.623655
+                ],
+                [
+                  145.543506,
+                  -16.623695
+                ],
+                [
+                  145.543404,
+                  -16.624241
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5318",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:50AM 17 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CAPTAIN COOK HWY, HARTLEY ST, WANGETTI BCH",
+        "SUBURBS": "KILLALOE, MOSSMAN, WANGETTI BEACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -669,5 +774,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713311400.556454"
+  "extracted": "1713311700.523077"
 }
