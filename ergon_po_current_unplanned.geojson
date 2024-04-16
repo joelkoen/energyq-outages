@@ -99,6 +99,103 @@
           {
             "type": "Point",
             "coordinates": [
+              145.706576,
+              -16.885573
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.705349,
+                  -16.886048
+                ],
+                [
+                  145.706019,
+                  -16.886301
+                ],
+                [
+                  145.706166,
+                  -16.886331
+                ],
+                [
+                  145.706329,
+                  -16.886339
+                ],
+                [
+                  145.706346,
+                  -16.88634
+                ],
+                [
+                  145.706669,
+                  -16.886344
+                ],
+                [
+                  145.7068,
+                  -16.886328
+                ],
+                [
+                  145.707586,
+                  -16.88612
+                ],
+                [
+                  145.70793,
+                  -16.885701
+                ],
+                [
+                  145.707619,
+                  -16.885258
+                ],
+                [
+                  145.707019,
+                  -16.885053
+                ],
+                [
+                  145.706996,
+                  -16.885045
+                ],
+                [
+                  145.706151,
+                  -16.884802
+                ],
+                [
+                  145.705719,
+                  -16.884886
+                ],
+                [
+                  145.705222,
+                  -16.885278
+                ],
+                [
+                  145.705349,
+                  -16.886048
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5306",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
+        "STATUS": "Outage reported",
+        "START": "6:40AM 17 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CHARLEKATA CL",
+        "SUBURBS": "FRESHWATER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -384,7 +481,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "10",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "5:31AM 17 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "GOOBURRUM RD",
@@ -394,5 +491,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713303903.497183"
+  "extracted": "1713304200.511323"
 }
