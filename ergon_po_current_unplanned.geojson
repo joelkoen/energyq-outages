@@ -10,6 +10,87 @@
           {
             "type": "Point",
             "coordinates": [
+              149.929501,
+              -24.633868
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.91818,
+                  -24.656866
+                ],
+                [
+                  149.923668,
+                  -24.655679
+                ],
+                [
+                  149.924018,
+                  -24.655393
+                ],
+                [
+                  149.941421,
+                  -24.611413
+                ],
+                [
+                  149.941206,
+                  -24.61087
+                ],
+                [
+                  149.940582,
+                  -24.610966
+                ],
+                [
+                  149.926139,
+                  -24.626378
+                ],
+                [
+                  149.926133,
+                  -24.626385
+                ],
+                [
+                  149.923384,
+                  -24.629437
+                ],
+                [
+                  149.923281,
+                  -24.629638
+                ],
+                [
+                  149.917582,
+                  -24.65634
+                ],
+                [
+                  149.91818,
+                  -24.656866
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5736",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "12:27PM 16 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DAWSON HWY, MALONEYS RD",
+        "SUBURBS": "MOURA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -980,123 +1061,6 @@
           {
             "type": "Point",
             "coordinates": [
-              146.51063,
-              -19.198135
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  146.472558,
-                  -19.185328
-                ],
-                [
-                  146.494765,
-                  -19.218624
-                ],
-                [
-                  146.495005,
-                  -19.218807
-                ],
-                [
-                  146.498787,
-                  -19.220112
-                ],
-                [
-                  146.499139,
-                  -19.220102
-                ],
-                [
-                  146.500273,
-                  -19.219634
-                ],
-                [
-                  146.500342,
-                  -19.219599
-                ],
-                [
-                  146.503986,
-                  -19.217362
-                ],
-                [
-                  146.504001,
-                  -19.217352
-                ],
-                [
-                  146.507968,
-                  -19.214717
-                ],
-                [
-                  146.507993,
-                  -19.214699
-                ],
-                [
-                  146.511284,
-                  -19.212191
-                ],
-                [
-                  146.511299,
-                  -19.212178
-                ],
-                [
-                  146.548381,
-                  -19.181311
-                ],
-                [
-                  146.548422,
-                  -19.181273
-                ],
-                [
-                  146.548619,
-                  -19.181065
-                ],
-                [
-                  146.548701,
-                  -19.180582
-                ],
-                [
-                  146.546789,
-                  -19.176426
-                ],
-                [
-                  146.546295,
-                  -19.176158
-                ],
-                [
-                  146.472903,
-                  -19.184638
-                ],
-                [
-                  146.472558,
-                  -19.185328
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ7470",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "463",
-        "REASON": "The loss of supply is due to public safety concerns.",
-        "STATUS": "Crews working on-site",
-        "START": "9:57AM 16 Apr 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "BLUE MOUNTAIN DR, CRADLER CT, ENDEAVOUR RD, FORESTRY RD, HOMESTEAD CT, MAWSON ST, TOPAZ CL",
-        "SUBURBS": "BLUEWATER, BLUEWATER PARK"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -1270,5 +1234,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713234900.57349"
+  "extracted": "1713235504.305098"
 }
