@@ -697,9 +697,118 @@
         "STREETS": "BOWENVILLE NORWIN RD, CECIL PLAINS RD, CECIL PLAINS-TOOWOOMBA RD, JEFFERIES RD, JEFFREYS RD, MCPHERSON RD, MCPHERSONS RD, MICKLEBOROUGH RD, OLSEN RD, OLSENS RD, PETERS RD, SMITH RD, SMITHS RD, TOOWOOMBA CECIL PLAINS RD, TOOWOOMBA-CECIL PLAINS RD, WEST PRAIRE RD, WEST PRAIRIE RD, ZIESEMER KUMMEROW RD",
         "SUBURBS": "BONGEEN, BOWENVILLE, CECIL PLAINS, FORMARTIN, NORWIN, TIPTON, WEST PRAIRIE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.759352,
+              -25.298666
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.391025,
+                  -25.585298
+                ],
+                [
+                  150.565851,
+                  -25.599994
+                ],
+                [
+                  150.565912,
+                  -25.599996
+                ],
+                [
+                  150.608429,
+                  -25.598803
+                ],
+                [
+                  150.608563,
+                  -25.598782
+                ],
+                [
+                  150.946295,
+                  -25.501641
+                ],
+                [
+                  150.94631,
+                  -25.501636
+                ],
+                [
+                  151.127769,
+                  -25.443256
+                ],
+                [
+                  151.128098,
+                  -25.442815
+                ],
+                [
+                  151.126335,
+                  -25.399233
+                ],
+                [
+                  151.126278,
+                  -25.39904
+                ],
+                [
+                  150.894551,
+                  -24.997577
+                ],
+                [
+                  150.894092,
+                  -24.997336
+                ],
+                [
+                  150.788933,
+                  -25.001222
+                ],
+                [
+                  150.788868,
+                  -25.001228
+                ],
+                [
+                  150.61575,
+                  -25.028453
+                ],
+                [
+                  150.61537,
+                  -25.028742
+                ],
+                [
+                  150.390605,
+                  -25.584693
+                ],
+                [
+                  150.391025,
+                  -25.585298
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4968",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "105",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:41PM 16 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BARRAM RD, CALROSSIE RD, CHELTENHAM RD, COONAMBULA RD, CRAVENTOWN RD, DAREEN RD, EIDSVOLD THEODORE RD, EIDSVOLD-CRACOW RD, GLENCOE RD, MONTO RD, OAK PARK RD, OAKEY CREEK RD, OLD RAWBELLE RD, RADIO STATION RD, RAWBELLE RD, REDBANK RD, REDMOUNT RD, ROCKYBAR RD, ROSS CROSSING RD, SLOSS RD, SPRING GLY, ST JOHNS-GOLDFIELD RD, TELEMARK RD, TIREEN RD, TOLO RD, WATER SUPPLY RD, WATHONGA RD",
+        "SUBURBS": "COONAMBULA, EIDSVOLD, EIDSVOLD WEST"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713249600.425223"
+  "extracted": "1713249904.19256"
 }
