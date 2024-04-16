@@ -70,9 +70,90 @@
         "STREETS": "BAYLEY RD, POUINCRADDA ST, VELVET ST",
         "SUBURBS": "BLACKSOIL, PINE MOUNTAIN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.929248,
+              -26.665256
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.927213,
+                  -26.66581
+                ],
+                [
+                  152.927355,
+                  -26.666308
+                ],
+                [
+                  152.927884,
+                  -26.666646
+                ],
+                [
+                  152.929298,
+                  -26.666538
+                ],
+                [
+                  152.929331,
+                  -26.666535
+                ],
+                [
+                  152.930869,
+                  -26.666323
+                ],
+                [
+                  152.931283,
+                  -26.665977
+                ],
+                [
+                  152.931076,
+                  -26.665504
+                ],
+                [
+                  152.9284,
+                  -26.663865
+                ],
+                [
+                  152.92763,
+                  -26.664126
+                ],
+                [
+                  152.927213,
+                  -26.665586
+                ],
+                [
+                  152.927213,
+                  -26.66581
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-754792-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "6:46PM 16 Apr 2024",
+        "EST_FIX_TIME": "9:30PM 16 Apr 2024",
+        "STREETS": "BLACKALL RANGE RD",
+        "SUBURBS": "WEST WOOMBYE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713257104.476376"
+  "extracted": "1713257401.305012"
 }
