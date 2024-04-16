@@ -984,9 +984,126 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.384356,
+              -27.478584
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.30844,
+                  -27.488142
+                ],
+                [
+                  151.327024,
+                  -27.51176
+                ],
+                [
+                  151.32713,
+                  -27.511859
+                ],
+                [
+                  151.390043,
+                  -27.554868
+                ],
+                [
+                  151.390121,
+                  -27.554912
+                ],
+                [
+                  151.40517,
+                  -27.561743
+                ],
+                [
+                  151.405393,
+                  -27.561792
+                ],
+                [
+                  151.410149,
+                  -27.561841
+                ],
+                [
+                  151.410481,
+                  -27.561735
+                ],
+                [
+                  151.460153,
+                  -27.524445
+                ],
+                [
+                  151.46031,
+                  -27.523966
+                ],
+                [
+                  151.443958,
+                  -27.477522
+                ],
+                [
+                  151.443949,
+                  -27.477499
+                ],
+                [
+                  151.414005,
+                  -27.405923
+                ],
+                [
+                  151.414005,
+                  -27.405922
+                ],
+                [
+                  151.409633,
+                  -27.395556
+                ],
+                [
+                  151.408906,
+                  -27.395327
+                ],
+                [
+                  151.340875,
+                  -27.430954
+                ],
+                [
+                  151.34068,
+                  -27.431139
+                ],
+                [
+                  151.308403,
+                  -27.487679
+                ],
+                [
+                  151.30844,
+                  -27.488142
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7632",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "63",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:32AM 16 Apr 2024",
+        "EST_FIX_TIME": "2:00PM 16 Apr 2024",
+        "STREETS": "BOWENVILLE NORWIN RD, CECIL PLAINS RD, CECIL PLAINS-TOOWOOMBA RD, JEFFERIES RD, JEFFREYS RD, MCPHERSON RD, MCPHERSONS RD, MICKLEBOROUGH RD, OLSEN RD, OLSENS RD, PETERS RD, SMITH RD, SMITHS RD, TOOWOOMBA CECIL PLAINS RD, TOOWOOMBA-CECIL PLAINS RD, WEST PRAIRE RD, WEST PRAIRIE RD, ZIESEMER KUMMEROW RD",
+        "SUBURBS": "BONGEEN, BOWENVILLE, CECIL PLAINS, FORMARTIN, NORWIN, TIPTON, WEST PRAIRIE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713227100.51124"
+  "extracted": "1713227701.967806"
 }
