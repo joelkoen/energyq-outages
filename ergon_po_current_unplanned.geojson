@@ -701,6 +701,147 @@
           {
             "type": "Point",
             "coordinates": [
+              145.727536,
+              -16.964448
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.721032,
+                  -16.968715
+                ],
+                [
+                  145.722894,
+                  -16.970303
+                ],
+                [
+                  145.723154,
+                  -16.970414
+                ],
+                [
+                  145.727931,
+                  -16.970922
+                ],
+                [
+                  145.728358,
+                  -16.970744
+                ],
+                [
+                  145.734066,
+                  -16.963414
+                ],
+                [
+                  145.734151,
+                  -16.963056
+                ],
+                [
+                  145.734088,
+                  -16.96275
+                ],
+                [
+                  145.734042,
+                  -16.962626
+                ],
+                [
+                  145.73238,
+                  -16.959603
+                ],
+                [
+                  145.73232,
+                  -16.959519
+                ],
+                [
+                  145.731785,
+                  -16.958925
+                ],
+                [
+                  145.731737,
+                  -16.958879
+                ],
+                [
+                  145.731462,
+                  -16.958651
+                ],
+                [
+                  145.731387,
+                  -16.9586
+                ],
+                [
+                  145.73035,
+                  -16.958033
+                ],
+                [
+                  145.730091,
+                  -16.957975
+                ],
+                [
+                  145.729575,
+                  -16.958004
+                ],
+                [
+                  145.729539,
+                  -16.958007
+                ],
+                [
+                  145.728376,
+                  -16.95816
+                ],
+                [
+                  145.728282,
+                  -16.958183
+                ],
+                [
+                  145.727727,
+                  -16.958374
+                ],
+                [
+                  145.727501,
+                  -16.958539
+                ],
+                [
+                  145.721958,
+                  -16.966119
+                ],
+                [
+                  145.721919,
+                  -16.966183
+                ],
+                [
+                  145.720921,
+                  -16.968181
+                ],
+                [
+                  145.721032,
+                  -16.968715
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5284",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "425",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "12:08PM 16 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AGATE ST, AMETHYST ST, ANDERSON RD, ARENA CL, BAYVIEW ST, COPPER CL, EL PASO ST, FAIRVIEW ST, FALCON ST, FIESTA CL, FLAMENCO CL, JACANA CL, MATADOR CL, OSPREY CL, PANORAMA ST, SAPPHIRE CL, SCENIC ST, TEAL CL, TOOGOOD RD, TOURMALINE CL, TURQUOISE CL, VILLA ST, VISTA ST",
+        "SUBURBS": "BAYVIEW HEIGHTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -1129,5 +1270,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713233400.566555"
+  "extracted": "1713233704.051087"
 }
