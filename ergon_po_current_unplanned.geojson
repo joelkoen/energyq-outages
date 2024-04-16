@@ -168,6 +168,111 @@
           {
             "type": "Point",
             "coordinates": [
+              147.358875,
+              -19.995394
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.218902,
+                  -19.981934
+                ],
+                [
+                  147.239861,
+                  -20.036676
+                ],
+                [
+                  147.240158,
+                  -20.03695
+                ],
+                [
+                  147.256682,
+                  -20.042222
+                ],
+                [
+                  147.256686,
+                  -20.042223
+                ],
+                [
+                  147.280427,
+                  -20.049574
+                ],
+                [
+                  147.280761,
+                  -20.049562
+                ],
+                [
+                  147.45415,
+                  -19.980727
+                ],
+                [
+                  147.454252,
+                  -19.980671
+                ],
+                [
+                  147.498684,
+                  -19.949014
+                ],
+                [
+                  147.498851,
+                  -19.948516
+                ],
+                [
+                  147.49841,
+                  -19.948202
+                ],
+                [
+                  147.245742,
+                  -19.941214
+                ],
+                [
+                  147.245349,
+                  -19.94139
+                ],
+                [
+                  147.223861,
+                  -19.967777
+                ],
+                [
+                  147.223786,
+                  -19.967909
+                ],
+                [
+                  147.218899,
+                  -19.981636
+                ],
+                [
+                  147.218902,
+                  -19.981934
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7509",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "49",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:05AM 17 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DALBEG RD, HILL RD, KANN RD, KELLY RD, KIRKNIE RD, KIRKNIE STATION, LEICHHARDT CRK STATION, MILLAROO RD, NEWMAN RD, PUMP STATION, RANGEMORE STATION, TUDEHOPE RD, WEAVER RD, WEIR RD",
+        "SUBURBS": "HOME HILL, MILLAROO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -224,5 +329,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713287101.18151"
+  "extracted": "1713287401.23348"
 }
