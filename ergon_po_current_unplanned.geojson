@@ -426,91 +426,6 @@
           {
             "type": "Point",
             "coordinates": [
-              145.627853,
-              -16.839257
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  145.625378,
-                  -16.838534
-                ],
-                [
-                  145.625491,
-                  -16.840545
-                ],
-                [
-                  145.625846,
-                  -16.840958
-                ],
-                [
-                  145.626795,
-                  -16.841187
-                ],
-                [
-                  145.627143,
-                  -16.841141
-                ],
-                [
-                  145.630248,
-                  -16.839425
-                ],
-                [
-                  145.630328,
-                  -16.838697
-                ],
-                [
-                  145.628875,
-                  -16.83744
-                ],
-                [
-                  145.628521,
-                  -16.837326
-                ],
-                [
-                  145.627708,
-                  -16.837394
-                ],
-                [
-                  145.627588,
-                  -16.837419
-                ],
-                [
-                  145.625686,
-                  -16.838085
-                ],
-                [
-                  145.625378,
-                  -16.838534
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN5246",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "18",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews working on-site",
-        "START": "6:52AM 16 Apr 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "MASONS RD",
-        "SUBURBS": "KURANDA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               145.651863,
               -16.824722
             ]
@@ -667,6 +582,115 @@
         "EST_FIX_TIME": null,
         "STREETS": "ATTICUS ST, SALTER CL",
         "SUBURBS": "WOREE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.689306,
+              -16.834882
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.686957,
+                  -16.836607
+                ],
+                [
+                  145.689072,
+                  -16.836916
+                ],
+                [
+                  145.689077,
+                  -16.836917
+                ],
+                [
+                  145.69021,
+                  -16.837071
+                ],
+                [
+                  145.690343,
+                  -16.83707
+                ],
+                [
+                  145.691548,
+                  -16.8369
+                ],
+                [
+                  145.691939,
+                  -16.836549
+                ],
+                [
+                  145.692033,
+                  -16.836132
+                ],
+                [
+                  145.692009,
+                  -16.835867
+                ],
+                [
+                  145.691018,
+                  -16.83349
+                ],
+                [
+                  145.690933,
+                  -16.833358
+                ],
+                [
+                  145.69046,
+                  -16.832844
+                ],
+                [
+                  145.690089,
+                  -16.832693
+                ],
+                [
+                  145.68844,
+                  -16.83276
+                ],
+                [
+                  145.68805,
+                  -16.832993
+                ],
+                [
+                  145.686945,
+                  -16.834915
+                ],
+                [
+                  145.686908,
+                  -16.835001
+                ],
+                [
+                  145.686579,
+                  -16.836027
+                ],
+                [
+                  145.686957,
+                  -16.836607
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5282",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "94",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:04PM 16 Apr 2024",
+        "EST_FIX_TIME": "3:00PM 16 Apr 2024",
+        "STREETS": "ATLAS CL, CAMERON CL, CANTAL CL, CUMBERLAND AVE, KATANGA CL, SURVEY ST",
+        "SUBURBS": "SMITHFIELD"
       }
     },
     {
@@ -1105,5 +1129,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713232501.319259"
+  "extracted": "1713233100.507902"
 }
