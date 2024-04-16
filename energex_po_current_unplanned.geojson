@@ -163,9 +163,86 @@
         "STREETS": "COWIE ST, GLASSWING ST, WYNESS CT",
         "SUBURBS": "DEEBING HEIGHTS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.11368,
+              -27.71752
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.112352,
+                  -27.719461
+                ],
+                [
+                  153.114762,
+                  -27.717689
+                ],
+                [
+                  153.114855,
+                  -27.717599
+                ],
+                [
+                  153.115313,
+                  -27.717016
+                ],
+                [
+                  153.115372,
+                  -27.716916
+                ],
+                [
+                  153.115706,
+                  -27.716122
+                ],
+                [
+                  153.115495,
+                  -27.715578
+                ],
+                [
+                  153.114855,
+                  -27.715661
+                ],
+                [
+                  153.111653,
+                  -27.718811
+                ],
+                [
+                  153.111663,
+                  -27.719425
+                ],
+                [
+                  153.112352,
+                  -27.719461
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-754807-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "8:13PM 16 Apr 2024",
+        "EST_FIX_TIME": "10:00PM 16 Apr 2024",
+        "STREETS": "LOGAN RESERVE RD",
+        "SUBURBS": "LOGAN RESERVE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713262801.167595"
+  "extracted": "1713263100.377243"
 }
