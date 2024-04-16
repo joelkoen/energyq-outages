@@ -10,6 +10,155 @@
           {
             "type": "Point",
             "coordinates": [
+              151.042627,
+              -24.747708
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.962004,
+                  -24.660984
+                ],
+                [
+                  150.972271,
+                  -24.785024
+                ],
+                [
+                  150.972326,
+                  -24.7852
+                ],
+                [
+                  151.005195,
+                  -24.842117
+                ],
+                [
+                  151.005599,
+                  -24.842357
+                ],
+                [
+                  151.050925,
+                  -24.845103
+                ],
+                [
+                  151.050947,
+                  -24.845103
+                ],
+                [
+                  151.092766,
+                  -24.845943
+                ],
+                [
+                  151.092769,
+                  -24.845944
+                ],
+                [
+                  151.108787,
+                  -24.846184
+                ],
+                [
+                  151.109059,
+                  -24.846114
+                ],
+                [
+                  151.114558,
+                  -24.842947
+                ],
+                [
+                  151.114599,
+                  -24.84292
+                ],
+                [
+                  151.119331,
+                  -24.83953
+                ],
+                [
+                  151.119411,
+                  -24.839457
+                ],
+                [
+                  151.123151,
+                  -24.835194
+                ],
+                [
+                  151.123251,
+                  -24.834829
+                ],
+                [
+                  151.121711,
+                  -24.827387
+                ],
+                [
+                  151.121707,
+                  -24.827368
+                ],
+                [
+                  151.110443,
+                  -24.783658
+                ],
+                [
+                  151.110423,
+                  -24.783597
+                ],
+                [
+                  151.061279,
+                  -24.668814
+                ],
+                [
+                  151.061247,
+                  -24.668752
+                ],
+                [
+                  151.058837,
+                  -24.664955
+                ],
+                [
+                  151.058518,
+                  -24.664741
+                ],
+                [
+                  150.982747,
+                  -24.649233
+                ],
+                [
+                  150.982381,
+                  -24.649289
+                ],
+                [
+                  150.962238,
+                  -24.660566
+                ],
+                [
+                  150.962004,
+                  -24.660984
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5770",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "196",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:54AM 17 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BERT'S RD, BURNETT HWY, CANIA RD, CEDAR CREEK RD, CLONMEL RD, COPPIN RD, GLEN VALLEY RD, LARSENS RD, MACKS RD, OFF BURNETT HWY, OFF CANIA RD, PHIL MARSHALL DR, POWERS RD, ROTH'S RD, SCRUBBY MOUNTAIN RD, STAATZ CROSSING RD, WASHPOOL RD, WONGALEE RD, YARROL RD, YOULAMBIE RD",
+        "SUBURBS": "MONTO, MOONFORD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -89,103 +238,6 @@
         "EST_FIX_TIME": null,
         "STREETS": "AIRSTRIP ST, BASKETBALL COURT ST, DANIEL ST, MAIN ST, MAP ST, UNKNOWN ST, WARRIA ST",
         "SUBURBS": "MABUIAG ISLAND"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              145.706576,
-              -16.885573
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  145.705349,
-                  -16.886048
-                ],
-                [
-                  145.706019,
-                  -16.886301
-                ],
-                [
-                  145.706166,
-                  -16.886331
-                ],
-                [
-                  145.706329,
-                  -16.886339
-                ],
-                [
-                  145.706346,
-                  -16.88634
-                ],
-                [
-                  145.706669,
-                  -16.886344
-                ],
-                [
-                  145.7068,
-                  -16.886328
-                ],
-                [
-                  145.707586,
-                  -16.88612
-                ],
-                [
-                  145.70793,
-                  -16.885701
-                ],
-                [
-                  145.707619,
-                  -16.885258
-                ],
-                [
-                  145.707019,
-                  -16.885053
-                ],
-                [
-                  145.706996,
-                  -16.885045
-                ],
-                [
-                  145.706151,
-                  -16.884802
-                ],
-                [
-                  145.705719,
-                  -16.884886
-                ],
-                [
-                  145.705222,
-                  -16.885278
-                ],
-                [
-                  145.705349,
-                  -16.886048
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN5306",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "11",
-        "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
-        "STATUS": "Crews working on-site",
-        "START": "6:40AM 17 Apr 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "CHARLEKATA CL",
-        "SUBURBS": "FRESHWATER"
       }
     },
     {
@@ -483,5 +535,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713308100.495306"
+  "extracted": "1713308405.406366"
 }
