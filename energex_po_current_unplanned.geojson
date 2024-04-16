@@ -94,9 +94,110 @@
         "STREETS": "COWIE ST, GLASSWING ST, WYNESS CT",
         "SUBURBS": "DEEBING HEIGHTS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.065549,
+              -27.427393
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.055646,
+                  -27.419034
+                ],
+                [
+                  153.062058,
+                  -27.433268
+                ],
+                [
+                  153.062129,
+                  -27.433378
+                ],
+                [
+                  153.064612,
+                  -27.436206
+                ],
+                [
+                  153.065215,
+                  -27.43634
+                ],
+                [
+                  153.067747,
+                  -27.43534
+                ],
+                [
+                  153.067782,
+                  -27.435325
+                ],
+                [
+                  153.075194,
+                  -27.431766
+                ],
+                [
+                  153.075452,
+                  -27.431289
+                ],
+                [
+                  153.075028,
+                  -27.429181
+                ],
+                [
+                  153.074994,
+                  -27.429082
+                ],
+                [
+                  153.074815,
+                  -27.428709
+                ],
+                [
+                  153.074616,
+                  -27.428503
+                ],
+                [
+                  153.056508,
+                  -27.418526
+                ],
+                [
+                  153.056425,
+                  -27.418489
+                ],
+                [
+                  153.056298,
+                  -27.418445
+                ],
+                [
+                  153.055646,
+                  -27.419034
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-754834-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1242",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "11:51PM 16 Apr 2024",
+        "EST_FIX_TIME": "2:30AM 17 Apr 2024",
+        "STREETS": "BEATRICE TCE, BRASSEY ST, CHARLTON ST, DOBSON ST, DUKE ST, HAMPDEN ST, HOPETOUN ST, KITCHENER RD, LAMINGTON AVE, LANCASTER RD, LONSDALE ST, NAPIER ST, NORMAN ST, NUDGEE RD, RACECOURSE RD, RUPERT TCE, ST LEGER WAY, VINE ST",
+        "SUBURBS": "ASCOT, HAMILTON"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713275401.599349"
+  "extracted": "1713275701.705306"
 }
