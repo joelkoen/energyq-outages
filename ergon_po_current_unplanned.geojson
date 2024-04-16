@@ -354,6 +354,79 @@
           {
             "type": "Point",
             "coordinates": [
+              146.289834,
+              -18.666842
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.278052,
+                  -18.664386
+                ],
+                [
+                  146.278353,
+                  -18.665745
+                ],
+                [
+                  146.278516,
+                  -18.666
+                ],
+                [
+                  146.283292,
+                  -18.669738
+                ],
+                [
+                  146.283643,
+                  -18.669838
+                ],
+                [
+                  146.301193,
+                  -18.668041
+                ],
+                [
+                  146.301616,
+                  -18.667602
+                ],
+                [
+                  146.301214,
+                  -18.667145
+                ],
+                [
+                  146.278587,
+                  -18.663846
+                ],
+                [
+                  146.278052,
+                  -18.664386
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7515",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "7:40AM 17 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "LEGGES RD",
+        "SUBURBS": "BRAEMEADOWS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -410,5 +483,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713305100.305934"
+  "extracted": "1713305400.297682"
 }
