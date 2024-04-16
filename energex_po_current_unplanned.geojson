@@ -151,9 +151,94 @@
         "STREETS": "BLACKALL RANGE RD",
         "SUBURBS": "WEST WOOMBYE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.753162,
+              -27.672516
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.752483,
+                  -27.67371
+                ],
+                [
+                  152.753989,
+                  -27.673184
+                ],
+                [
+                  152.754282,
+                  -27.672914
+                ],
+                [
+                  152.754507,
+                  -27.67235
+                ],
+                [
+                  152.754525,
+                  -27.672106
+                ],
+                [
+                  152.75447,
+                  -27.671874
+                ],
+                [
+                  152.754062,
+                  -27.671523
+                ],
+                [
+                  152.752794,
+                  -27.671322
+                ],
+                [
+                  152.752252,
+                  -27.671564
+                ],
+                [
+                  152.752118,
+                  -27.671802
+                ],
+                [
+                  152.752073,
+                  -27.67192
+                ],
+                [
+                  152.751799,
+                  -27.673206
+                ],
+                [
+                  152.752483,
+                  -27.67371
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-754798-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "33",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "7:32PM 16 Apr 2024",
+        "EST_FIX_TIME": "10:00PM 16 Apr 2024",
+        "STREETS": "COWIE ST, GLASSWING ST, WYNESS CT",
+        "SUBURBS": "DEEBING HEIGHTS"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713259803.970033"
+  "extracted": "1713260101.30136"
 }
