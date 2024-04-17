@@ -259,6 +259,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.784037,
+          -19.266263
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5863",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "2:50PM 17 Apr 2024",
+        "EST_FIX_TIME": "4:30PM 17 Apr 2024",
+        "STREETS": "INGHAM RD",
+        "SUBURBS": "WEST END"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.332792,
           -20.783368
         ]
@@ -270,7 +291,7 @@
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
         "STATUS": "Crews working on-site",
         "START": "8:30AM 17 Apr 2024",
-        "EST_FIX_TIME": "2:30PM 17 Apr 2024",
+        "EST_FIX_TIME": "3:30PM 17 Apr 2024",
         "STREETS": "BLETCHINGTON STATION, BLUFF RD, BLUFF STATION, BRITTANIA RD, BROADLEIGH DNS STATION, BRUSLEE STATION, CAERPHILLY STATION, CAMERON STATION, CLERMONT HWY, COREA PLAINS STATION, DANDENONG STATION, DAWSONVALE STATION, DOONGARA STATION, EGERA STATION, ELSTON HILLS STATION, GREGORY DEVELOPMENTAL RD, HARVEST HOME STATION, JUMBA STATION, LASCELLES STATION, LEYSHON VIEW STATION, LIONTOWN STATION, LONGTON STATION, MERRICOURT STATION, MERRYLAND STATION, MIRTNA RD, MIRTNA STATION, NATAL DOWNS STATION, NOSNILLOR STATION, OLD VICTORIA STATION, PAJINGO STATION, PALLAMANA STATION, SAYAH PARK STATION, SLOGAN DOWNS STATION, TAEMAS STATION, TEEWARRINA STATION, TRAFALGAR STATION, VACQUERA STATION, VICTORIA DOWNS STATION, WAMBIANA STATION",
         "SUBURBS": "BELYANDO CROSSING, BROUGHTON, CHARTERS TOWERS, PENTLAND, SEVENTY MILE, SEVENTY MILE RANGE"
       }
@@ -294,27 +315,6 @@
         "EST_FIX_TIME": "3:00PM 17 Apr 2024",
         "STREETS": "BUCARO LANE, CABRAL CT, COLUMBUS ST, EMPEROR BVD, LONCKE LANE, SAVANNAH CH",
         "SUBURBS": "BURDELL"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.268093,
-          -18.667594
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ6443",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Crews working on-site",
-        "START": "9:00AM 17 Apr 2024",
-        "EST_FIX_TIME": "3:00PM 17 Apr 2024",
-        "STREETS": "MASKELLS RD",
-        "SUBURBS": "BRAEMEADOWS"
       }
     },
     {
@@ -467,5 +467,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713329401.196123"
+  "extracted": "1713329701.468828"
 }
