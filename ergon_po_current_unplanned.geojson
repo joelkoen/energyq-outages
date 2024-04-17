@@ -349,9 +349,70 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.737472,
+              -26.649868
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.741229,
+                  -26.649399
+                ],
+                [
+                  151.73371,
+                  -26.649437
+                ],
+                [
+                  151.733212,
+                  -26.64989
+                ],
+                [
+                  151.733716,
+                  -26.650337
+                ],
+                [
+                  151.741235,
+                  -26.650299
+                ],
+                [
+                  151.741733,
+                  -26.649846
+                ],
+                [
+                  151.741229,
+                  -26.649399
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5019",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "9:05AM 17 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "OLD TAABINGA RD",
+        "SUBURBS": "HALY CREEK"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713395702.127162"
+  "extracted": "1713396000.513326"
 }
