@@ -285,6 +285,83 @@
           {
             "type": "Point",
             "coordinates": [
+              147.731637,
+              -19.888053
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.687915,
+                  -19.857412
+                ],
+                [
+                  147.698408,
+                  -19.894173
+                ],
+                [
+                  147.698572,
+                  -19.894409
+                ],
+                [
+                  147.759732,
+                  -19.940227
+                ],
+                [
+                  147.760483,
+                  -19.940013
+                ],
+                [
+                  147.775359,
+                  -19.896715
+                ],
+                [
+                  147.775212,
+                  -19.89623
+                ],
+                [
+                  147.69944,
+                  -19.835878
+                ],
+                [
+                  147.698703,
+                  -19.836027
+                ],
+                [
+                  147.687946,
+                  -19.857098
+                ],
+                [
+                  147.687915,
+                  -19.857412
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7530",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "53",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:17PM 17 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BEACH RD, BRUCE HWY, CAPE CREEK RD, DAYS RD, MOLONGLE CK RD, NORTHWOODS RD, PINK LILLY STATION, TONDARA RD",
+        "SUBURBS": "GUMLU, GUTHALUNGRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -478,5 +555,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713327600.448897"
+  "extracted": "1713327900.460497"
 }
