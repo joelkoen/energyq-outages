@@ -10,6 +10,163 @@
           {
             "type": "Point",
             "coordinates": [
+              151.961063,
+              -24.425273
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.883697,
+                  -24.435248
+                ],
+                [
+                  151.888776,
+                  -24.455877
+                ],
+                [
+                  151.888998,
+                  -24.456161
+                ],
+                [
+                  151.907701,
+                  -24.466684
+                ],
+                [
+                  151.907793,
+                  -24.466725
+                ],
+                [
+                  152.001847,
+                  -24.497393
+                ],
+                [
+                  152.001972,
+                  -24.497418
+                ],
+                [
+                  152.028756,
+                  -24.499401
+                ],
+                [
+                  152.02888,
+                  -24.499396
+                ],
+                [
+                  152.037461,
+                  -24.498029
+                ],
+                [
+                  152.037864,
+                  -24.497642
+                ],
+                [
+                  152.038369,
+                  -24.49403
+                ],
+                [
+                  152.03837,
+                  -24.494021
+                ],
+                [
+                  152.038441,
+                  -24.493414
+                ],
+                [
+                  152.0384,
+                  -24.493179
+                ],
+                [
+                  151.983294,
+                  -24.382535
+                ],
+                [
+                  151.983285,
+                  -24.382518
+                ],
+                [
+                  151.967823,
+                  -24.354698
+                ],
+                [
+                  151.967816,
+                  -24.354686
+                ],
+                [
+                  151.965836,
+                  -24.35137
+                ],
+                [
+                  151.965312,
+                  -24.351144
+                ],
+                [
+                  151.924505,
+                  -24.358372
+                ],
+                [
+                  151.924484,
+                  -24.358376
+                ],
+                [
+                  151.906804,
+                  -24.362263
+                ],
+                [
+                  151.906505,
+                  -24.362458
+                ],
+                [
+                  151.886679,
+                  -24.390851
+                ],
+                [
+                  151.886658,
+                  -24.390885
+                ],
+                [
+                  151.885284,
+                  -24.393296
+                ],
+                [
+                  151.885228,
+                  -24.393489
+                ],
+                [
+                  151.883685,
+                  -24.435133
+                ],
+                [
+                  151.883697,
+                  -24.435248
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5818",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "196",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:46AM 18 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CAPRICORNIA DR, COAST RD, DALE DR, DEEPWATER RD, FERNFIELD RD, FINGERFIELD RD, FRESHWATER CT, KATE AVE, LINDY DR, MATCHBOX RD, MAUDE HILL RD, MULLER RD, OCEAN BEACH DR, OCEANIA CT, PACIFIC DR, RULES BEACH RD, SEABREEZE CT, SORENSEN RD, SORENSON RD, WRECK ROCK RD",
+        "SUBURBS": "AGNES WATER, BAFFLE CREEK, DEEPWATER, RULES BEACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -414,5 +571,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713397200.60182"
+  "extracted": "1713397800.849573"
 }
