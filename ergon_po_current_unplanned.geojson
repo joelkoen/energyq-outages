@@ -10,6 +10,67 @@
           {
             "type": "Point",
             "coordinates": [
+              150.927425,
+              -23.822226
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.928607,
+                  -23.819649
+                ],
+                [
+                  150.925413,
+                  -23.824323
+                ],
+                [
+                  150.925567,
+                  -23.824944
+                ],
+                [
+                  150.926243,
+                  -23.824803
+                ],
+                [
+                  150.929437,
+                  -23.820129
+                ],
+                [
+                  150.929283,
+                  -23.819507
+                ],
+                [
+                  150.928607,
+                  -23.819649
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5801",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "5:17PM 17 Apr 2024",
+        "EST_FIX_TIME": "6:45PM 17 Apr 2024",
+        "STREETS": "HENICKE RD",
+        "SUBURBS": "MOUNT LARCOM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -89,91 +150,6 @@
         "EST_FIX_TIME": null,
         "STREETS": "AIRSTRIP ST, BASKETBALL COURT ST, DANIEL ST, MAIN ST, MAP ST, UNKNOWN ST, WARRIA ST",
         "SUBURBS": "MABUIAG ISLAND"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              145.464611,
-              -17.170219
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  145.453739,
-                  -17.165103
-                ],
-                [
-                  145.460612,
-                  -17.180586
-                ],
-                [
-                  145.461142,
-                  -17.18085
-                ],
-                [
-                  145.475254,
-                  -17.177975
-                ],
-                [
-                  145.475511,
-                  -17.177236
-                ],
-                [
-                  145.46362,
-                  -17.164166
-                ],
-                [
-                  145.463566,
-                  -17.164115
-                ],
-                [
-                  145.457873,
-                  -17.159587
-                ],
-                [
-                  145.457269,
-                  -17.15959
-                ],
-                [
-                  145.454439,
-                  -17.161894
-                ],
-                [
-                  145.454283,
-                  -17.162148
-                ],
-                [
-                  145.453711,
-                  -17.164835
-                ],
-                [
-                  145.453739,
-                  -17.165103
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN5367",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "21",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews working on-site",
-        "START": "3:08PM 17 Apr 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "MAPEE RD, NORTHEY RD, QUINLAN RD, VILLELLA RD",
-        "SUBURBS": "MAPEE, TOLGA"
       }
     },
     {
@@ -665,5 +641,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713338103.62123"
+  "extracted": "1713338401.85182"
 }
