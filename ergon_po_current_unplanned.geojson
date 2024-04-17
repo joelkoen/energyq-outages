@@ -71,6 +71,99 @@
           {
             "type": "Point",
             "coordinates": [
+              147.792721,
+              -23.150948
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.688815,
+                  -23.239047
+                ],
+                [
+                  147.757312,
+                  -23.297813
+                ],
+                [
+                  147.757539,
+                  -23.297922
+                ],
+                [
+                  147.874879,
+                  -23.321976
+                ],
+                [
+                  147.875282,
+                  -23.321894
+                ],
+                [
+                  147.887001,
+                  -23.313598
+                ],
+                [
+                  147.887191,
+                  -23.313271
+                ],
+                [
+                  147.896763,
+                  -23.185402
+                ],
+                [
+                  147.896725,
+                  -23.185194
+                ],
+                [
+                  147.802361,
+                  -22.980089
+                ],
+                [
+                  147.801598,
+                  -22.97992
+                ],
+                [
+                  147.761481,
+                  -23.0112
+                ],
+                [
+                  147.761327,
+                  -23.011417
+                ],
+                [
+                  147.688679,
+                  -23.238588
+                ],
+                [
+                  147.688815,
+                  -23.239047
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5804",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "25",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:26PM 17 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ACCESS RD, GREGORY HWY, MAGENTA RD, MALTHOID RD, NUTHOLM RD, OFF GREGORY HWY, OFF RUBYVALE RD, RUBYVALE RD",
+        "SUBURBS": "CAPELLA, CLERMONT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -608,5 +701,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713346209.493606"
+  "extracted": "1713346500.663949"
 }
