@@ -322,6 +322,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.747668,
+          -16.971211
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4362",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "11:41AM 17 Apr 2024",
+        "EST_FIX_TIME": "4:30PM 17 Apr 2024",
+        "STREETS": "SKULL RD",
+        "SUBURBS": "WHITE ROCK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.749024,
+          -16.971742
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4363",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "11:41AM 17 Apr 2024",
+        "EST_FIX_TIME": "4:30PM 17 Apr 2024",
+        "STREETS": "QUAMBY CL, SKULL RD",
+        "SUBURBS": "WHITE ROCK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.565551,
           -17.353597
         ]
@@ -357,27 +399,6 @@
         "EST_FIX_TIME": "2:30PM 17 Apr 2024",
         "STREETS": "HARPER RD, HOEY RD, SPEEWAH RD",
         "SUBURBS": "SPEEWAH"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.751902,
-          -16.970184
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN4541",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "9",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "7:23AM 17 Apr 2024",
-        "EST_FIX_TIME": "4:30PM 17 Apr 2024",
-        "STREETS": "PARTON CL",
-        "SUBURBS": "WHITE ROCK"
       }
     },
     {
@@ -1047,7 +1068,7 @@
         "REASON": "The loss of supply is to connect new customers to the electricity network",
         "STATUS": "Crews working on-site",
         "START": "8:05AM 17 Apr 2024",
-        "EST_FIX_TIME": "12:00PM 17 Apr 2024",
+        "EST_FIX_TIME": "2:00PM 17 Apr 2024",
         "STREETS": "CHILDERS RD, WILLDORA DR, WOLLOMBI PL",
         "SUBURBS": "SOUTH BINGERA"
       }
@@ -1139,5 +1160,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713318000.356357"
+  "extracted": "1713318600.346502"
 }
