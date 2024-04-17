@@ -358,6 +358,99 @@
           {
             "type": "Point",
             "coordinates": [
+              147.453944,
+              -19.549408
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.41905,
+                  -19.559951
+                ],
+                [
+                  147.427255,
+                  -19.570091
+                ],
+                [
+                  147.427891,
+                  -19.570196
+                ],
+                [
+                  147.488621,
+                  -19.533193
+                ],
+                [
+                  147.488837,
+                  -19.532762
+                ],
+                [
+                  147.48854,
+                  -19.530285
+                ],
+                [
+                  147.488413,
+                  -19.530026
+                ],
+                [
+                  147.487154,
+                  -19.528757
+                ],
+                [
+                  147.486745,
+                  -19.528619
+                ],
+                [
+                  147.452639,
+                  -19.532851
+                ],
+                [
+                  147.452436,
+                  -19.532923
+                ],
+                [
+                  147.43021,
+                  -19.546953
+                ],
+                [
+                  147.43011,
+                  -19.547037
+                ],
+                [
+                  147.419065,
+                  -19.559384
+                ],
+                [
+                  147.41905,
+                  -19.559951
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7547",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "60",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "6:51PM 17 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AIRDMILLAN RD, BURSTALL RD, COLE RD, DONADONS RD, OLD WHARF RD, OSBORNE RD, PARKER RD",
+        "SUBURBS": "AIRDMILLAN, AYR, HOME HILL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -515,5 +608,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713344702.233068"
+  "extracted": "1713345003.366887"
 }
