@@ -592,9 +592,146 @@
         "STREETS": "DENHAM ST, EVERGREEN RD, PERANGA EVERGREEN RD, PERANGA NARKO RD",
         "SUBURBS": "PERANGA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.692347,
+              -25.542899
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.689871,
+                  -25.544558
+                ],
+                [
+                  152.693085,
+                  -25.545676
+                ],
+                [
+                  152.693627,
+                  -25.54556
+                ],
+                [
+                  152.693795,
+                  -25.545394
+                ],
+                [
+                  152.693808,
+                  -25.545381
+                ],
+                [
+                  152.694075,
+                  -25.545096
+                ],
+                [
+                  152.694157,
+                  -25.544972
+                ],
+                [
+                  152.695112,
+                  -25.54281
+                ],
+                [
+                  152.695142,
+                  -25.542573
+                ],
+                [
+                  152.695037,
+                  -25.541972
+                ],
+                [
+                  152.694983,
+                  -25.541828
+                ],
+                [
+                  152.694793,
+                  -25.541509
+                ],
+                [
+                  152.694672,
+                  -25.541375
+                ],
+                [
+                  152.693196,
+                  -25.540272
+                ],
+                [
+                  152.693021,
+                  -25.540188
+                ],
+                [
+                  152.692777,
+                  -25.540123
+                ],
+                [
+                  152.692459,
+                  -25.540135
+                ],
+                [
+                  152.692034,
+                  -25.540283
+                ],
+                [
+                  152.691961,
+                  -25.540315
+                ],
+                [
+                  152.691369,
+                  -25.540632
+                ],
+                [
+                  152.691268,
+                  -25.540702
+                ],
+                [
+                  152.690372,
+                  -25.541523
+                ],
+                [
+                  152.689714,
+                  -25.542126
+                ],
+                [
+                  152.68957,
+                  -25.542438
+                ],
+                [
+                  152.689552,
+                  -25.544134
+                ],
+                [
+                  152.689871,
+                  -25.544558
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4987",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "148",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:12AM 17 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANN ST, FERRY LANE, FORT LANE, FORT ST, JOHN LANE, JOHN ST, QUEEN ST, QUEENS PL, SOUTH ST",
+        "SUBURBS": "MARYBOROUGH"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713312601.44282"
+  "extracted": "1713312902.731419"
 }

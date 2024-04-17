@@ -616,6 +616,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          149.969407,
+          -24.577687
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4930",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "36",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:58AM 17 Apr 2024",
+        "EST_FIX_TIME": "3:30PM 17 Apr 2024",
+        "STREETS": "BECKER ST, BURNHAM ST, STEPHENSON ST",
+        "SUBURBS": "MOURA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.518468,
           -23.364789
         ]
@@ -4856,5 +4877,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1713312601.44282"
+  "extracted": "1713312902.731419"
 }
