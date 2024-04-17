@@ -394,7 +394,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "6",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 18 Apr 2024",
         "EST_FIX_TIME": "2:00PM 18 Apr 2024",
         "STREETS": "CHEWKO RD",
@@ -616,6 +616,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.752538,
+          -21.283911
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6458",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 18 Apr 2024",
+        "EST_FIX_TIME": "3:30PM 18 Apr 2024",
+        "STREETS": "ASHOVER STATION, BUSHY PARK STATION, DUCHESS RD, DUKE ST, FLYNN RAIL SDNG, MALBONVALE STATION, MAYFIELD STATION, RIFLE CREEK, RIFLE CREEK STATION, STANBROKE STATION, YAPPO CREEK",
+        "SUBURBS": "DUCHESS, MORNINGTON, MOUNT ISA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.510531,
+          -21.696759
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6476",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "70",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 18 Apr 2024",
+        "EST_FIX_TIME": "8:30AM 18 Apr 2024",
+        "STREETS": "ATNYER ST, BOULIA RD, CARMODY ST, DIAMANTINA DEVELOPMENTAL RD, DILLON ST, LETHAM ST, MARK ST, MATHESON ST, SPORTS PDE",
+        "SUBURBS": "ALPURRURULAM, DAJARRA, MOUNT ISA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.510531,
           -21.696759
         ]
@@ -667,7 +709,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "63",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 18 Apr 2024",
         "EST_FIX_TIME": "2:30PM 18 Apr 2024",
         "STREETS": "BAMFORD LANE, CATALONIA ST, NEVADA CT, TARRAGONA ST, VENTURA CT",
@@ -814,7 +856,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "12",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 18 Apr 2024",
         "EST_FIX_TIME": "3:00PM 18 Apr 2024",
         "STREETS": "SNELLING RD, WAINUI SOLDIERS RD",
@@ -889,19 +931,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.790031,
-          -26.570963
+          148.792208,
+          -26.563154
         ]
       },
       "properties": {
-        "EVENT_ID": "24SW7329",
+        "EVENT_ID": "24SW7331",
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
         "STATUS": "Crews working on-site",
-        "START": "7:03AM 18 Apr 2024",
+        "START": "8:17AM 18 Apr 2024",
         "EST_FIX_TIME": "4:00PM 18 Apr 2024",
-        "STREETS": "ARTHUR ST",
+        "STREETS": "MCEWAN ST",
         "SUBURBS": "ROMA"
       }
     },
@@ -1118,5 +1160,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713392102.748814"
+  "extracted": "1713392406.190421"
 }
