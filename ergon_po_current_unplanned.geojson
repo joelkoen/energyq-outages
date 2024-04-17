@@ -10,67 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              150.927425,
-              -23.822226
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  150.928607,
-                  -23.819649
-                ],
-                [
-                  150.925413,
-                  -23.824323
-                ],
-                [
-                  150.925567,
-                  -23.824944
-                ],
-                [
-                  150.926243,
-                  -23.824803
-                ],
-                [
-                  150.929437,
-                  -23.820129
-                ],
-                [
-                  150.929283,
-                  -23.819507
-                ],
-                [
-                  150.928607,
-                  -23.819649
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA5801",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "5:17PM 17 Apr 2024",
-        "EST_FIX_TIME": "8:30PM 17 Apr 2024",
-        "STREETS": "HENICKE RD",
-        "SUBURBS": "MOUNT LARCOM"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               147.792721,
               -23.150948
             ]
@@ -149,7 +88,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "25",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Work delayed - crews unable to continue",
         "START": "7:26PM 17 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "ACCESS RD, GREGORY HWY, MAGENTA RD, MALTHOID RD, NUTHOLM RD, OFF GREGORY HWY, OFF RUBYVALE RD, RUBYVALE RD",
@@ -451,99 +390,6 @@
           {
             "type": "Point",
             "coordinates": [
-              147.453944,
-              -19.549408
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  147.41905,
-                  -19.559951
-                ],
-                [
-                  147.427255,
-                  -19.570091
-                ],
-                [
-                  147.427891,
-                  -19.570196
-                ],
-                [
-                  147.488621,
-                  -19.533193
-                ],
-                [
-                  147.488837,
-                  -19.532762
-                ],
-                [
-                  147.48854,
-                  -19.530285
-                ],
-                [
-                  147.488413,
-                  -19.530026
-                ],
-                [
-                  147.487154,
-                  -19.528757
-                ],
-                [
-                  147.486745,
-                  -19.528619
-                ],
-                [
-                  147.452639,
-                  -19.532851
-                ],
-                [
-                  147.452436,
-                  -19.532923
-                ],
-                [
-                  147.43021,
-                  -19.546953
-                ],
-                [
-                  147.43011,
-                  -19.547037
-                ],
-                [
-                  147.419065,
-                  -19.559384
-                ],
-                [
-                  147.41905,
-                  -19.559951
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ7547",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "60",
-        "REASON": "The loss of supply is due to public safety concerns.",
-        "STATUS": "Crews working on-site",
-        "START": "6:51PM 17 Apr 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "AIRDMILLAN RD, BURSTALL RD, COLE RD, DONADONS RD, OLD WHARF RD, OSBORNE RD, PARKER RD",
-        "SUBURBS": "AIRDMILLAN, AYR, HOME HILL"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               147.475998,
               -19.51587
             ]
@@ -814,5 +660,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713348602.167428"
+  "extracted": "1713348904.900044"
 }
