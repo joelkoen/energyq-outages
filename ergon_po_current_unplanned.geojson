@@ -229,14 +229,26 @@
           {
             "type": "Point",
             "coordinates": [
-              147.765051,
-              -19.918254
+              147.757615,
+              -19.932325
             ]
           },
           {
             "type": "Polygon",
             "coordinates": [
               [
+                [
+                  147.760486,
+                  -19.939742
+                ],
+                [
+                  147.755659,
+                  -19.924645
+                ],
+                [
+                  147.755063,
+                  -19.924344
+                ],
                 [
                   147.754744,
                   -19.924907
@@ -246,40 +258,12 @@
                   -19.940004
                 ],
                 [
-                  147.760024,
-                  -19.940325
+                  147.760167,
+                  -19.940306
                 ],
                 [
-                  147.760483,
-                  -19.940013
-                ],
-                [
-                  147.775359,
-                  -19.896715
-                ],
-                [
-                  147.775206,
-                  -19.896226
-                ],
-                [
-                  147.774669,
-                  -19.896183
-                ],
-                [
-                  147.773411,
-                  -19.896859
-                ],
-                [
-                  147.773243,
-                  -19.89701
-                ],
-                [
-                  147.754798,
-                  -19.924534
-                ],
-                [
-                  147.754744,
-                  -19.924907
+                  147.760486,
+                  -19.939742
                 ]
               ]
             ]
@@ -289,13 +273,13 @@
       "properties": {
         "EVENT_ID": "24NQ7530",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "5",
+        "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Crews working on-site",
         "START": "2:17PM 17 Apr 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "BRUCE HWY, PINK LILLY STATION",
-        "SUBURBS": "GUMLU, GUTHALUNGRA"
+        "STREETS": "PINK LILLY STATION",
+        "SUBURBS": "GUMLU"
       }
     },
     {
@@ -453,7 +437,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "29",
         "REASON": "The loss of supply is due to fallen power lines.  ",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "4:11PM 17 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "DALBY-JANDOWAE RD, DAVIS RD, HILLIAR'S RD, HOOPERT'S RD, INVERAI - KATE PLAIN RD, JANDOWAE RD, JANDOWAE-MACALISTER RD, JEITZ'S RD, MCLAREN'S RD, NINE MILE STOCK ROUTE RD, TUCKERANG RD, TYLER'S RD, WARRA MARNHULL RD, WARRA-MARNHULL RD",
@@ -463,5 +447,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713342901.461732"
+  "extracted": "1713343201.201262"
 }
