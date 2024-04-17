@@ -447,9 +447,110 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.064317,
+              -26.87123
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.974979,
+                  -26.873427
+                ],
+                [
+                  150.98479,
+                  -26.911306
+                ],
+                [
+                  150.985047,
+                  -26.911604
+                ],
+                [
+                  151.036054,
+                  -26.935419
+                ],
+                [
+                  151.036588,
+                  -26.935379
+                ],
+                [
+                  151.126337,
+                  -26.875021
+                ],
+                [
+                  151.126418,
+                  -26.874953
+                ],
+                [
+                  151.153641,
+                  -26.846284
+                ],
+                [
+                  151.153655,
+                  -26.845715
+                ],
+                [
+                  151.129172,
+                  -26.817601
+                ],
+                [
+                  151.12888,
+                  -26.817437
+                ],
+                [
+                  151.08023,
+                  -26.808145
+                ],
+                [
+                  151.08015,
+                  -26.808136
+                ],
+                [
+                  151.055609,
+                  -26.807041
+                ],
+                [
+                  151.055245,
+                  -26.807159
+                ],
+                [
+                  150.975129,
+                  -26.872993
+                ],
+                [
+                  150.974979,
+                  -26.873427
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7795",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "29",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:11PM 17 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DALBY-JANDOWAE RD, DAVIS RD, HILLIAR'S RD, HOOPERT'S RD, INVERAI - KATE PLAIN RD, JANDOWAE RD, JANDOWAE-MACALISTER RD, JEITZ'S RD, MCLAREN'S RD, NINE MILE STOCK ROUTE RD, TUCKERANG RD, TYLER'S RD, WARRA MARNHULL RD, WARRA-MARNHULL RD",
+        "SUBURBS": "JANDOWAE, JIMBOUR, MACALISTER, WARRA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713334201.741481"
+  "extracted": "1713334504.631566"
 }
