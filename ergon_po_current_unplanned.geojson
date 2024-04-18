@@ -503,6 +503,71 @@
           {
             "type": "Point",
             "coordinates": [
+              148.698491,
+              -20.822467
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.697724,
+                  -20.823772
+                ],
+                [
+                  148.699915,
+                  -20.822214
+                ],
+                [
+                  148.699889,
+                  -20.821477
+                ],
+                [
+                  148.699381,
+                  -20.821162
+                ],
+                [
+                  148.69875,
+                  -20.821248
+                ],
+                [
+                  148.697067,
+                  -20.823121
+                ],
+                [
+                  148.697085,
+                  -20.823723
+                ],
+                [
+                  148.697724,
+                  -20.823772
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3642",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "3:49PM 17 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "WINTONS RD",
+        "SUBURBS": "WAGOORA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -620,5 +685,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713405001.007417"
+  "extracted": "1713405301.247907"
 }
