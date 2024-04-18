@@ -742,6 +742,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.422487,
+          -16.990915
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4037",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "72",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "3:00AM 19 Apr 2024",
+        "EST_FIX_TIME": "4:30AM 19 Apr 2024",
+        "STREETS": "BYRNES ST, JACOBSEN ST, MIDDLEMISS ST, RAILWAY AVE, WALSH ST",
+        "SUBURBS": "MAREEBA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           144.845383,
           -15.906211
         ]
@@ -4184,5 +4205,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1713465301.594688"
+  "extracted": "1713465601.430709"
 }
