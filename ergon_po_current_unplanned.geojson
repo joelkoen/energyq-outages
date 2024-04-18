@@ -333,6 +333,143 @@
           {
             "type": "Point",
             "coordinates": [
+              145.707621,
+              -16.939078
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.674821,
+                  -16.980295
+                ],
+                [
+                  145.738774,
+                  -16.921294
+                ],
+                [
+                  145.73888,
+                  -16.921148
+                ],
+                [
+                  145.740913,
+                  -16.916639
+                ],
+                [
+                  145.740948,
+                  -16.916518
+                ],
+                [
+                  145.741209,
+                  -16.914606
+                ],
+                [
+                  145.741203,
+                  -16.914452
+                ],
+                [
+                  145.741119,
+                  -16.914078
+                ],
+                [
+                  145.741114,
+                  -16.914056
+                ],
+                [
+                  145.740215,
+                  -16.910835
+                ],
+                [
+                  145.740038,
+                  -16.910588
+                ],
+                [
+                  145.73996,
+                  -16.910533
+                ],
+                [
+                  145.739937,
+                  -16.910517
+                ],
+                [
+                  145.729969,
+                  -16.904359
+                ],
+                [
+                  145.729836,
+                  -16.904302
+                ],
+                [
+                  145.709488,
+                  -16.899108
+                ],
+                [
+                  145.709443,
+                  -16.899099
+                ],
+                [
+                  145.700994,
+                  -16.897787
+                ],
+                [
+                  145.700581,
+                  -16.897919
+                ],
+                [
+                  145.697207,
+                  -16.901282
+                ],
+                [
+                  145.697121,
+                  -16.901402
+                ],
+                [
+                  145.682903,
+                  -16.9301
+                ],
+                [
+                  145.682864,
+                  -16.930218
+                ],
+                [
+                  145.674033,
+                  -16.979893
+                ],
+                [
+                  145.674276,
+                  -16.980368
+                ],
+                [
+                  145.674821,
+                  -16.980295
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5477",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3230",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:48AM 19 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALANDER PAYET CL, AMOS CL, ANGEL CL, ARMBRUST ST, ARTHUR LYONS DR, AVOCADO CL, BARRA CL, BASALT ST, BAYU CL, BEECH CL, BELTANA CL, BEN BOLT CL, BRIGGS CL, BRINSMEAD RD, BRINSMEAD TCE, BROCKHURST CL, BROMELL CL, BROOKS ST, BURBRIDGE CL, CADAGA CL, CASCADES DR, CASHMERE CT, CENTENARY CL, CHANDRA CL, CHIRIO DR, CHRISTIES DR, COBBLE CT, CONLAN CL, CRYSTAL CL, CURRUNDA CL, DAVIDSON CL, DAYKIN CL, DELANEY CL, DEMIDENKO CL, DENMAN CL, DURIAN CL, DWYER PL, EDGE CT, ELLA CCT, ELLIE BANNING CL, ELPHINSTONE ST, ENMORE ST, ESTERINA CL, FAIRLEY ST, FANTAN CL, FERNTREE CL, FITZALLAN CL, FRASER CL, FROND CL, GAMBURRA DR, GARLAND CL, GAVIN HAMILTON CL, GOVERN CL, GRANITE CL, GRIFFITHS ST, GUMBURRA DR, HARRISON CL, HELLMUTH ST, HENDERSON CL, HEYSEN CL, HOLDEN CL, HUGHES CL, HUNTLEY CRES, IRELAND CRES, JAK GEE ST, JENSEN ST, JOHN MALCOLM ST, JUNGARA RD, KAURI ST, KEHONE ST, KERLIN CL, KIPPIN CL, KIRRIMA CT, LAKE MORRIS RD, LARSEN RD, LAWSON CL, LEAFY CL, LICHEN CL, LORIDAN DR, LOWTHER CL, LUM JIM ST, LYCHEE CL, MACILWRAITH ST, MACKERRAS ST, MAHOGANY ST, MARCHANT ST, MARKS PL, MARY PARKER DR, MAYO CT, MAYTOWN CL, MCBRIDE ST, MCCOLL CL, MCFARLANE DR, MCMANUS ST, MILES ST, MILFORD CL, MOUNT WILLIAM CL, MULLIGAN ST, MURRAY ST, NAIREN CL, NETTLE CL, NILLA CL, NORRIS ST, NORTHGATE CL, OREGON ST, ORMINSTON CL, PALMER RISE, PAPAYA CL, PARROT CL, PATULA CL, PEAKVIEWS CL, PEASE ST, PEBBLE COVE, PELIZZARI CL, PENDA CL, PERCH ST, PERKINS ST, PIONEER ST, QUEELY CL, QUOLL CL, RAINBOW ST, RAMSEY DR, RED OCHRE ST, REDLYNCH CONNECTOR RD, REDLYNCH INTAKE RD, REDWOOD ST, RESERVOIR RD, RIVERSLEA CL, ROCKS RD, ROYCE ST, RUNNYMEDE AVE, SAILFISH CL, SASCHA CL, SATINAY CL, SCAGLIONI ST, SEARY CL, SHALE ST, SLATE CL, SODERBERG CL, STACK CL, STAPLETON CL, STARFISH CL, STIRLING ST, STRINGER CL, SUN ST, TAFFLES ST, TARWHINE CL, TERAGLIN ST, THE ROCKS RD, TREVALLY CL, TROUT ST, TRUCANO CL, TUNNEL HILL RD, TURNER ST, UPPER MILES ST, UPPER PERKINS ST, VIEW ST, WALNUT CL, WATERVALE CL, WILLIAM HICKEY ST, WILLIE MING CL, WILLOUGHBY CL, WOODRIDGE CL, XAVIER HERBERT DR, ZANZOO CL",
+        "SUBURBS": "BRINSMEAD, JUNGARA, KANIMBLA, MANOORA, MANUNDA, REDLYNCH, WHITFIELD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -653,71 +790,6 @@
           {
             "type": "Point",
             "coordinates": [
-              152.305178,
-              -28.409429
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.303754,
-                  -28.409695
-                ],
-                [
-                  152.304876,
-                  -28.410447
-                ],
-                [
-                  152.305598,
-                  -28.41035
-                ],
-                [
-                  152.306599,
-                  -28.409107
-                ],
-                [
-                  152.306603,
-                  -28.408591
-                ],
-                [
-                  152.306056,
-                  -28.408411
-                ],
-                [
-                  152.303933,
-                  -28.408901
-                ],
-                [
-                  152.303754,
-                  -28.409695
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW7781",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "16",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "8:30AM 19 Apr 2024",
-        "EST_FIX_TIME": "12:00PM 19 Apr 2024",
-        "STREETS": "ACACIA AVE, BEAURY ST, CULLENDORE ST, FLAGSTONE ST, SHORT ST, TENTERFIELD RD",
-        "SUBURBS": "LEGUME"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               149.770509,
               -26.847606
             ]
@@ -948,5 +1020,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713484200.491262"
+  "extracted": "1713484500.304464"
 }
