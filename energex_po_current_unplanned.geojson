@@ -1,8 +1,86 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.431006,
+              -28.058896
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.430742,
+                  -28.059566
+                ],
+                [
+                  153.431633,
+                  -28.059376
+                ],
+                [
+                  153.43188,
+                  -28.058623
+                ],
+                [
+                  153.431676,
+                  -28.058436
+                ],
+                [
+                  153.431522,
+                  -28.05834
+                ],
+                [
+                  153.431417,
+                  -28.058298
+                ],
+                [
+                  153.431247,
+                  -28.058258
+                ],
+                [
+                  153.430801,
+                  -28.058226
+                ],
+                [
+                  153.430269,
+                  -28.058558
+                ],
+                [
+                  153.430132,
+                  -28.059009
+                ],
+                [
+                  153.430742,
+                  -28.059566
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-9124-h",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "22",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "4:15PM 18 Apr 2024",
+        "EST_FIX_TIME": "7:00PM 18 Apr 2024",
+        "STREETS": "KARBUNYA ST",
+        "SUBURBS": "MERMAID WATERS"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713420903.58691"
+  "extracted": "1713421201.111607"
 }
