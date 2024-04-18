@@ -536,6 +536,91 @@
           {
             "type": "Point",
             "coordinates": [
+              149.770509,
+              -26.847606
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.738704,
+                  -26.792054
+                ],
+                [
+                  149.742531,
+                  -26.822695
+                ],
+                [
+                  149.74255,
+                  -26.822776
+                ],
+                [
+                  149.765311,
+                  -26.889861
+                ],
+                [
+                  149.765411,
+                  -26.890025
+                ],
+                [
+                  149.768531,
+                  -26.893265
+                ],
+                [
+                  149.768723,
+                  -26.893388
+                ],
+                [
+                  149.80163,
+                  -26.905337
+                ],
+                [
+                  149.802314,
+                  -26.90484
+                ],
+                [
+                  149.779462,
+                  -26.790246
+                ],
+                [
+                  149.778943,
+                  -26.789874
+                ],
+                [
+                  149.739179,
+                  -26.791553
+                ],
+                [
+                  149.738704,
+                  -26.792054
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7818",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 19 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 19 Apr 2024",
+        "STREETS": "CONDAMINE HWY, DULACCA SOUTH RD, ROMA-CONDAMINE RD",
+        "SUBURBS": "CONDAMINE, DULACCA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.299606,
               -24.788572
             ]
@@ -612,5 +697,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713478503.034263"
+  "extracted": "1713478801.499805"
 }
