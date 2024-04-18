@@ -110,9 +110,86 @@
         "STREETS": "CUDGERIE DR, FOAMBARK PL",
         "SUBURBS": "BLACK MOUNTAIN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.979496,
+              -27.98018
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.977765,
+                  -27.980951
+                ],
+                [
+                  152.978529,
+                  -27.981127
+                ],
+                [
+                  152.978871,
+                  -27.981099
+                ],
+                [
+                  152.981345,
+                  -27.980077
+                ],
+                [
+                  152.981607,
+                  -27.97951
+                ],
+                [
+                  152.980991,
+                  -27.979234
+                ],
+                [
+                  152.978834,
+                  -27.979779
+                ],
+                [
+                  152.978821,
+                  -27.979783
+                ],
+                [
+                  152.977741,
+                  -27.980083
+                ],
+                [
+                  152.977385,
+                  -27.980525
+                ],
+                [
+                  152.977765,
+                  -27.980951
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755230-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "10:56PM 18 Apr 2024",
+        "EST_FIX_TIME": "12:30AM 19 Apr 2024",
+        "STREETS": "BROMELTON HOUSE RD, LUPTON RD",
+        "SUBURBS": "BEAUDESERT, BROMELTON"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713444901.125465"
+  "extracted": "1713445203.800647"
 }
