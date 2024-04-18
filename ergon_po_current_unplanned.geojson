@@ -346,6 +346,91 @@
           {
             "type": "Point",
             "coordinates": [
+              151.368386,
+              -27.438372
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.340684,
+                  -27.431553
+                ],
+                [
+                  151.347091,
+                  -27.442378
+                ],
+                [
+                  151.347345,
+                  -27.442584
+                ],
+                [
+                  151.372635,
+                  -27.451906
+                ],
+                [
+                  151.373093,
+                  -27.451873
+                ],
+                [
+                  151.392873,
+                  -27.440958
+                ],
+                [
+                  151.392916,
+                  -27.440931
+                ],
+                [
+                  151.396079,
+                  -27.438749
+                ],
+                [
+                  151.396089,
+                  -27.438044
+                ],
+                [
+                  151.378082,
+                  -27.424933
+                ],
+                [
+                  151.377671,
+                  -27.424839
+                ],
+                [
+                  151.341038,
+                  -27.4309
+                ],
+                [
+                  151.340684,
+                  -27.431553
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7864",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "3:33PM 18 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MICKLEBOROUGH RD, WEST PRAIRE RD, WEST PRAIRIE RD",
+        "SUBURBS": "FORMARTIN, NORWIN, WEST PRAIRIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.74234,
               -26.687575
             ]
@@ -623,5 +708,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713418204.940016"
+  "extracted": "1713418500.577119"
 }
