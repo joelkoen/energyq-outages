@@ -208,6 +208,99 @@
           {
             "type": "Point",
             "coordinates": [
+              138.835051,
+              -17.946828
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  138.833844,
+                  -17.947177
+                ],
+                [
+                  138.834542,
+                  -17.947936
+                ],
+                [
+                  138.835237,
+                  -17.947944
+                ],
+                [
+                  138.835751,
+                  -17.947412
+                ],
+                [
+                  138.835765,
+                  -17.947396
+                ],
+                [
+                  138.836153,
+                  -17.946954
+                ],
+                [
+                  138.836177,
+                  -17.946923
+                ],
+                [
+                  138.836311,
+                  -17.946741
+                ],
+                [
+                  138.836078,
+                  -17.94606
+                ],
+                [
+                  138.835012,
+                  -17.945713
+                ],
+                [
+                  138.834597,
+                  -17.945767
+                ],
+                [
+                  138.834239,
+                  -17.946001
+                ],
+                [
+                  138.834098,
+                  -17.946147
+                ],
+                [
+                  138.83379,
+                  -17.946657
+                ],
+                [
+                  138.833844,
+                  -17.947177
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5458",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:34PM 18 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOOMERANG ST, DAYLIGHT ST, MARRADGEE RD",
+        "SUBURBS": "DOOMADGEE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -591,5 +684,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713422704.877047"
+  "extracted": "1713423001.007261"
 }
