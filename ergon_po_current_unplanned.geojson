@@ -463,91 +463,6 @@
           {
             "type": "Point",
             "coordinates": [
-              151.368386,
-              -27.438372
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.340684,
-                  -27.431553
-                ],
-                [
-                  151.347091,
-                  -27.442378
-                ],
-                [
-                  151.347345,
-                  -27.442584
-                ],
-                [
-                  151.372635,
-                  -27.451906
-                ],
-                [
-                  151.373093,
-                  -27.451873
-                ],
-                [
-                  151.392873,
-                  -27.440958
-                ],
-                [
-                  151.392916,
-                  -27.440931
-                ],
-                [
-                  151.396079,
-                  -27.438749
-                ],
-                [
-                  151.396089,
-                  -27.438044
-                ],
-                [
-                  151.378082,
-                  -27.424933
-                ],
-                [
-                  151.377671,
-                  -27.424839
-                ],
-                [
-                  151.341038,
-                  -27.4309
-                ],
-                [
-                  151.340684,
-                  -27.431553
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW7864",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "11",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "3:34PM 18 Apr 2024",
-        "EST_FIX_TIME": "1:00AM 19 Apr 2024",
-        "STREETS": "MICKLEBOROUGH RD, WEST PRAIRE RD, WEST PRAIRIE RD",
-        "SUBURBS": "FORMARTIN, NORWIN, WEST PRAIRIE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               152.299606,
               -24.788572
             ]
@@ -620,9 +535,114 @@
         "STREETS": "GOOBURRUM RD",
         "SUBURBS": "GOOBURRUM"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.333056,
+              -24.870455
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.32822,
+                  -24.871319
+                ],
+                [
+                  152.328339,
+                  -24.871904
+                ],
+                [
+                  152.328354,
+                  -24.871958
+                ],
+                [
+                  152.328924,
+                  -24.873588
+                ],
+                [
+                  152.329582,
+                  -24.873867
+                ],
+                [
+                  152.331642,
+                  -24.873094
+                ],
+                [
+                  152.331794,
+                  -24.873004
+                ],
+                [
+                  152.337815,
+                  -24.867789
+                ],
+                [
+                  152.337892,
+                  -24.867222
+                ],
+                [
+                  152.337297,
+                  -24.867044
+                ],
+                [
+                  152.33011,
+                  -24.869589
+                ],
+                [
+                  152.330032,
+                  -24.869624
+                ],
+                [
+                  152.328863,
+                  -24.870276
+                ],
+                [
+                  152.328754,
+                  -24.870359
+                ],
+                [
+                  152.32846,
+                  -24.870656
+                ],
+                [
+                  152.328368,
+                  -24.870791
+                ],
+                [
+                  152.328246,
+                  -24.871071
+                ],
+                [
+                  152.32822,
+                  -24.871319
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5045",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "47",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "12:22AM 19 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOURBONG ST, HOPE ST, KENNEDY ST, WOONGARRA ST",
+        "SUBURBS": "BUNDABERG, BUNDABERG WEST"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713450900.396865"
+  "extracted": "1713451201.562818"
 }
