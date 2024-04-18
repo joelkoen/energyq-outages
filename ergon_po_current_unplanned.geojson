@@ -672,6 +672,99 @@
           {
             "type": "Point",
             "coordinates": [
+              149.056487,
+              -21.024169
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.054118,
+                  -21.024944
+                ],
+                [
+                  149.054145,
+                  -21.025574
+                ],
+                [
+                  149.054696,
+                  -21.026003
+                ],
+                [
+                  149.057059,
+                  -21.025676
+                ],
+                [
+                  149.057261,
+                  -21.025602
+                ],
+                [
+                  149.05833,
+                  -21.024915
+                ],
+                [
+                  149.058495,
+                  -21.024731
+                ],
+                [
+                  149.05878,
+                  -21.024149
+                ],
+                [
+                  149.058819,
+                  -21.024025
+                ],
+                [
+                  149.058855,
+                  -21.023791
+                ],
+                [
+                  149.058531,
+                  -21.023298
+                ],
+                [
+                  149.055451,
+                  -21.022336
+                ],
+                [
+                  149.054839,
+                  -21.022633
+                ],
+                [
+                  149.054139,
+                  -21.024795
+                ],
+                [
+                  149.054118,
+                  -21.024944
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3635",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "8:02AM 18 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "OLLETTS RD",
+        "SUBURBS": "HABANA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -789,5 +882,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713400800.696264"
+  "extracted": "1713401104.635286"
 }
