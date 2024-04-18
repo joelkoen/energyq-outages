@@ -533,6 +533,107 @@
           {
             "type": "Point",
             "coordinates": [
+              151.964454,
+              -27.55675
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.961555,
+                  -27.557133
+                ],
+                [
+                  151.964843,
+                  -27.558653
+                ],
+                [
+                  151.965176,
+                  -27.558694
+                ],
+                [
+                  151.966035,
+                  -27.558539
+                ],
+                [
+                  151.966259,
+                  -27.558443
+                ],
+                [
+                  151.967069,
+                  -27.55784
+                ],
+                [
+                  151.967244,
+                  -27.557566
+                ],
+                [
+                  151.967353,
+                  -27.556964
+                ],
+                [
+                  151.967322,
+                  -27.556722
+                ],
+                [
+                  151.966574,
+                  -27.555084
+                ],
+                [
+                  151.966065,
+                  -27.554805
+                ],
+                [
+                  151.965533,
+                  -27.554844
+                ],
+                [
+                  151.965492,
+                  -27.554848
+                ],
+                [
+                  151.965197,
+                  -27.554891
+                ],
+                [
+                  151.965072,
+                  -27.554925
+                ],
+                [
+                  151.961581,
+                  -27.556322
+                ],
+                [
+                  151.961555,
+                  -27.557133
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7831",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "67",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "1:15PM 18 Apr 2024",
+        "EST_FIX_TIME": "3:00PM 18 Apr 2024",
+        "STREETS": "CAMPBELL ST, HAWTHORN ST, LINDSAY ST, WARREN ST",
+        "SUBURBS": "EAST TOOWOOMBA, TOOWOOMBA CITY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.74921,
               -26.669879
             ]
@@ -677,5 +778,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713410103.381063"
+  "extracted": "1713410400.47157"
 }
