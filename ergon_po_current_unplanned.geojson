@@ -603,6 +603,147 @@
           {
             "type": "Point",
             "coordinates": [
+              145.727975,
+              -16.903578
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.721807,
+                  -16.899676
+                ],
+                [
+                  145.721819,
+                  -16.903606
+                ],
+                [
+                  145.72182,
+                  -16.90362
+                ],
+                [
+                  145.722135,
+                  -16.91276
+                ],
+                [
+                  145.722367,
+                  -16.913135
+                ],
+                [
+                  145.723806,
+                  -16.913947
+                ],
+                [
+                  145.723952,
+                  -16.914
+                ],
+                [
+                  145.725929,
+                  -16.914376
+                ],
+                [
+                  145.725945,
+                  -16.914379
+                ],
+                [
+                  145.730088,
+                  -16.915028
+                ],
+                [
+                  145.730537,
+                  -16.914856
+                ],
+                [
+                  145.730827,
+                  -16.91449
+                ],
+                [
+                  145.730888,
+                  -16.914386
+                ],
+                [
+                  145.734111,
+                  -16.906749
+                ],
+                [
+                  145.734144,
+                  -16.906537
+                ],
+                [
+                  145.733759,
+                  -16.902505
+                ],
+                [
+                  145.733754,
+                  -16.902466
+                ],
+                [
+                  145.732053,
+                  -16.893404
+                ],
+                [
+                  145.731889,
+                  -16.893135
+                ],
+                [
+                  145.731179,
+                  -16.892574
+                ],
+                [
+                  145.730979,
+                  -16.892482
+                ],
+                [
+                  145.729255,
+                  -16.892129
+                ],
+                [
+                  145.728875,
+                  -16.89221
+                ],
+                [
+                  145.725143,
+                  -16.894914
+                ],
+                [
+                  145.725039,
+                  -16.895019
+                ],
+                [
+                  145.721889,
+                  -16.899419
+                ],
+                [
+                  145.721807,
+                  -16.899676
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5416",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1307",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:31AM 18 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALDINGA CL, ATHERTON ST, BALZER CL, BEL-AIR DR, BOLTON ST, BOTT ST, BRADFORD ST, BROOKS ST, BYRNES CL, CARMELO CL, CROWLEY CL, CROWTHER ST, DRAPER PL, DUIGNAN ST, EAST PARKRIDGE DR, FLECKER ST, FOGARTY ST, FRY CL, FULTON CL, GLOUCESTER ST, GRACE CL, GUMMOW CL, HILLVIEW CRES, HODEL ST, HUDSON ST, JENSEN ST, KEIRLE AVE, KEITH ST, KELLER CL, KEVIN ST, KNOTT CT, KNOWLES ST, MARINO ST, MCHUGH CRES, MCKINLAY ST, MCMANUS ST, MONA ST, MOULE CL, MURCHISON ST, NEEVE CL, NESBIT ST, NOLAN ST, ORMSBY CL, PANORAMIC PL, PARK ST, PENNY CL, PONTICELLO ST, PRESCOTT ST, RHAPIS CT, RICHARDSON ST, ROGERS CL, SHERBROOK CL, SOMMERVILLE CRES, TRUNDLE TCE, TURNER ST, UPPER RICHARDSON ST, WINFIELD ST, WOODWARD ST, YORK ST",
+        "SUBURBS": "BRINSMEAD, EDGE HILL, MANOORA, WHITFIELD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -789,5 +930,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713400203.838936"
+  "extracted": "1713400500.33754"
 }

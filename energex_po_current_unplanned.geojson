@@ -126,9 +126,118 @@
         "STREETS": "BROWN ST, ELLIS ST, FRANCIS RD, GALVIN ST, GARDINER ST, MITCHELL ST",
         "SUBURBS": "LAWNTON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.994506,
+              -27.288848
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.975531,
+                  -27.286906
+                ],
+                [
+                  152.989638,
+                  -27.302061
+                ],
+                [
+                  152.989838,
+                  -27.302191
+                ],
+                [
+                  152.99036,
+                  -27.302379
+                ],
+                [
+                  152.990593,
+                  -27.30241
+                ],
+                [
+                  153.000144,
+                  -27.301657
+                ],
+                [
+                  153.000448,
+                  -27.301534
+                ],
+                [
+                  153.00585,
+                  -27.296926
+                ],
+                [
+                  153.005867,
+                  -27.296911
+                ],
+                [
+                  153.013594,
+                  -27.289651
+                ],
+                [
+                  153.013439,
+                  -27.28893
+                ],
+                [
+                  152.980297,
+                  -27.275287
+                ],
+                [
+                  152.979615,
+                  -27.275531
+                ],
+                [
+                  152.976473,
+                  -27.282643
+                ],
+                [
+                  152.976453,
+                  -27.282697
+                ],
+                [
+                  152.975501,
+                  -27.286043
+                ],
+                [
+                  152.97549,
+                  -27.286093
+                ],
+                [
+                  152.975419,
+                  -27.286556
+                ],
+                [
+                  152.975531,
+                  -27.286906
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755106-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2428",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "10:25AM 18 Apr 2024",
+        "EST_FIX_TIME": "1:00PM 18 Apr 2024",
+        "STREETS": "ANCONA ST, BATEMAN ST, BEAUFORT ST, BELLS POCKET RD, BLENHEIM ST, BRENNAN PDE, BROWN ST, BROWNING CT, BUTCHER AVE, CAHILL ST, CHARLOR ST, CHAUCER PDE, CRAWFORD ST, DOBSON DR, DOIG ST, DUNCAN ST, EBERT PDE, ELIOTT ST, ELLIS ST, FLYNN LANE, FOX ST, FRANCIS RD, GALVIN ST, GARDINER ST, GERTRUDE ST, GILMORE ST, GILVEAR CRES, GRAHAMS RD, GYMPIE RD, HARVEY ST, KEATS AVE, KENDALL ST, KING ST, LANCASTER ST, LAWNTON POCKET RD, LEIS PDE, LINCOLN ST, LORD BYRON PDE, LORRAINE CT, MANSFIELD ST, MARSHALL ST, MCCONNELL ESP, MEADOWS BVD, MELLING ST, MITCHELL ST, MONROE CRES, MYLES ST, NEILSON ST, OTTILIE ST, PALMER PDE, PATMAR ST, PATRICIA ST, PETER ST, POPE AVE, ROBEL ST, ROWLAND ST, ROWLEY ST, SHAKESPEARE PDE, SHELLEY ST, SLATER AVE, SPITFIRE AVE, STATION RD, STIRLING ST, TENNYSON ST, TODDS RD, WIRRAWAY ST, WORDSWORTH ST",
+        "SUBURBS": "LAWNTON, STRATHPINE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713399900.275845"
+  "extracted": "1713400500.374786"
 }
