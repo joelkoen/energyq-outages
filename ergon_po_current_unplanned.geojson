@@ -136,7 +136,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "219",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "10:22PM 18 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "BARCALDINE-ISISFOR RD, BICENTENARY DR, BICENTENNIAL DR, BLACKALL RD, EMMET-ISISFORD RD, GLENLOCK RD, ILFRACOMBE-ISISFOR RD, ISISFORD RIVER RD, ISISFORD-BLACKALL RD, ISISFORD-ILFRACOMB RD, ISISFORD-JUNDAH RD, ISISFORD-YARAKA RD, JARLEY ST, LISTER RD, MOUNT SLOCOMBE RTE, MT MARLOW RD, OFF ISISFORD-B'ALL RD, OFF ISISFORD-BIMER RD, OFF JARLEY ST, OFF OMA RD, OFF ST HELENA ST, QUILP ST, RIVER RD, ST AGNES ST, ST ANN ST, ST CATHERINE ST, ST CHAD ST, ST CROSS ST, ST DENYS ST, ST FRANCIS ST, ST HELENA ST, ST MARY ST, UNKNOWN ST, WELLSHOT-LOONGANA RD, YARAKA-EMMET RD, YARAKA-WINDORAH RD",
@@ -653,6 +653,71 @@
           {
             "type": "Point",
             "coordinates": [
+              152.305178,
+              -28.409429
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.303754,
+                  -28.409695
+                ],
+                [
+                  152.304876,
+                  -28.410447
+                ],
+                [
+                  152.305598,
+                  -28.41035
+                ],
+                [
+                  152.306599,
+                  -28.409107
+                ],
+                [
+                  152.306603,
+                  -28.408591
+                ],
+                [
+                  152.306056,
+                  -28.408411
+                ],
+                [
+                  152.303933,
+                  -28.408901
+                ],
+                [
+                  152.303754,
+                  -28.409695
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7781",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "16",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 19 Apr 2024",
+        "EST_FIX_TIME": "12:00PM 19 Apr 2024",
+        "STREETS": "ACACIA AVE, BEAURY ST, CULLENDORE ST, FLAGSTONE ST, SHORT ST, TENTERFIELD RD",
+        "SUBURBS": "LEGUME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               149.770509,
               -26.847606
             ]
@@ -814,5 +879,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713480001.772384"
+  "extracted": "1713480602.276472"
 }
