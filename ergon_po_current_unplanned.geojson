@@ -394,6 +394,123 @@
           {
             "type": "Point",
             "coordinates": [
+              146.8293,
+              -19.388143
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.775027,
+                  -19.347346
+                ],
+                [
+                  146.813967,
+                  -19.428186
+                ],
+                [
+                  146.814142,
+                  -19.428378
+                ],
+                [
+                  146.823327,
+                  -19.433995
+                ],
+                [
+                  146.82362,
+                  -19.434066
+                ],
+                [
+                  146.835025,
+                  -19.433272
+                ],
+                [
+                  146.835166,
+                  -19.433241
+                ],
+                [
+                  146.870462,
+                  -19.419947
+                ],
+                [
+                  146.87057,
+                  -19.419889
+                ],
+                [
+                  146.883403,
+                  -19.41082
+                ],
+                [
+                  146.883573,
+                  -19.41032
+                ],
+                [
+                  146.872833,
+                  -19.378523
+                ],
+                [
+                  146.872663,
+                  -19.378298
+                ],
+                [
+                  146.834697,
+                  -19.351548
+                ],
+                [
+                  146.8345,
+                  -19.351467
+                ],
+                [
+                  146.782303,
+                  -19.342221
+                ],
+                [
+                  146.782074,
+                  -19.342234
+                ],
+                [
+                  146.780281,
+                  -19.342761
+                ],
+                [
+                  146.780115,
+                  -19.342847
+                ],
+                [
+                  146.775154,
+                  -19.346812
+                ],
+                [
+                  146.775027,
+                  -19.347346
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7661",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "383",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:22PM 19 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AITAPE ST, ANTILL CREEK RD, BENALLA RD, BOOTH RD, BOUGAINVILLE ST, BRADY RD, BRUCE HWY, CHISHOLM TRL, CURLEY CCT, EVERINGHAM RD, FLINDERS HWY, GLENROWAN DR, GRETA RD, HEATH RD, KAVENAGH CT, KEREMA ST, KIERNAN DR, KOMIATUM ST, KUPFER DR, LEEWOOD RD, MADANG ST, MOUNT JACK RD, MOUNT STUART RD, MT STUART RD, NADZAB ST, OLD FLINDERS HWY, PARTINGTON ST, PATS RD, RIDGE ST, SALAMAUA ST, SATELBURG ST, SQUATTERS RD, STUART DR, TARAKAN ST, THUNDERBOLT DR, UNMETERED SUPPLY, VALLEY DR",
+        "SUBURBS": "BROOKHILL, MOUNT STUART, OAK VALLEY, ROSENEATH, STUART, TOWNSVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -660,5 +777,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713514807.476496"
+  "extracted": "1713515101.208749"
 }
