@@ -402,6 +402,131 @@
           {
             "type": "Point",
             "coordinates": [
+              149.15158,
+              -21.012575
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.146036,
+                  -21.020366
+                ],
+                [
+                  149.146153,
+                  -21.020416
+                ],
+                [
+                  149.146164,
+                  -21.02042
+                ],
+                [
+                  149.155638,
+                  -21.024179
+                ],
+                [
+                  149.156211,
+                  -21.024033
+                ],
+                [
+                  149.15705,
+                  -21.022977
+                ],
+                [
+                  149.157107,
+                  -21.022885
+                ],
+                [
+                  149.157365,
+                  -21.022319
+                ],
+                [
+                  149.157404,
+                  -21.022134
+                ],
+                [
+                  149.157068,
+                  -21.001905
+                ],
+                [
+                  149.157067,
+                  -21.001883
+                ],
+                [
+                  149.157039,
+                  -21.001469
+                ],
+                [
+                  149.156602,
+                  -21.001048
+                ],
+                [
+                  149.155664,
+                  -21.00097
+                ],
+                [
+                  149.155415,
+                  -21.001013
+                ],
+                [
+                  149.155122,
+                  -21.001144
+                ],
+                [
+                  149.155102,
+                  -21.001154
+                ],
+                [
+                  149.152962,
+                  -21.002232
+                ],
+                [
+                  149.152801,
+                  -21.002363
+                ],
+                [
+                  149.146992,
+                  -21.009823
+                ],
+                [
+                  149.146902,
+                  -21.01004
+                ],
+                [
+                  149.145756,
+                  -21.019906
+                ],
+                [
+                  149.146036,
+                  -21.020366
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3754",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "542",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "6:00PM 19 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BALER ST, BEACHSIDE PL, BEACHWAY BVD, BELANGASON WAY, BOARDRIDER BVD, CONE ST, DENMAN AVE, GRIFFIN AVE, HODGES RD, HOMESTEAD BAY AVE, ISLAND CL, MERMAID ST, MIDRAS PL, MIRAGE CT, MIST CT, NAVIGATOR CT, NERINDA PL, O'BRIEN ESP, PORTSIDE PL, RETREAT WAY, ROYAL SANDS BVD, SCHOONER AVE, SEASPRAY CL, SEYCHELLES RD, SHEARWATER ST, SHOAL POINT RD, STARBOARD CCT, SUNSET BEACH CT, TELLIN ST, TRITON CT, TROCHUS CT, URARII CRES, VIEWPOINT ST, VOLUTE ST, WATERSIDE BVD, WINDWARD WAY",
+        "SUBURBS": "BUCASIA, SHOAL POINT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.285277,
               -18.949571
             ]
@@ -638,7 +763,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "78",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "5:06PM 19 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "BILLABONG LANE, CHARLES DR, EMU PDE, JOSEPH RD, KOOKABURRA DR, TERESE RD, THE WALLABY TRK, TIMOTHY RD, WEITZELS RD, WEST VALLEY RD",
@@ -648,5 +773,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713512101.37312"
+  "extracted": "1713512401.708863"
 }
