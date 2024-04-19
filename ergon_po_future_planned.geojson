@@ -1067,7 +1067,7 @@
         "CUSTOMERS_AFFECTED": "13",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "9:30AM 19 Apr 2024",
+        "START": "10:07AM 19 Apr 2024",
         "EST_FIX_TIME": "10:30AM 19 Apr 2024",
         "STREETS": "GARDINER ST, SIRCOM ST, TEMPLE ST",
         "SUBURBS": "CROYDON"
@@ -3535,6 +3535,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.103751,
+          -25.538807
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB3962",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "52",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:02AM 19 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 19 Apr 2024",
+        "STREETS": "A CREEK RD, COONAMBULA EIDSVOLD RD, COONAMBULA RD, COONAMBULA-EIDSVOLD RD, CRISPS RD, MCCORDS RD, PEARLINGA, RIVERLEIGH SCHOOL RD, RIVERLEIGH STATION RD, STANMORE RD",
+        "SUBURBS": "COONAMBULA, MUNDUBBERA, O'BIL BIL, RIVERLEIGH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.90266,
           -25.667444
         ]
@@ -3570,6 +3591,27 @@
         "EST_FIX_TIME": "1:00PM 22 Apr 2024",
         "STREETS": "ANDREW ST, BARSBY RD, BELLA VISTA AVE, BOARDMANS RD, BRITTANY CT, BURTONS RD, CHASELING ST, COOLABUNIA RD, COOLABUNIA-BOOIE RD, COOLABUNIA-MALAR RD, CROWS ASH CRES, DARCIE ST, FRANKLINS RD, GATTO ST, GRANT AVE, HANSEN CT, HARRIS RD, HILLTOP CT, HODGELEIGH RD, KEARNEY ST, KINGAROY BARKERS CREEK RD, MACAULAY DR, MALAR RD, MATTHEW ST, MELISSA AVE, PANORAMA CT, REAGON RD, REDMANS RD, REDVALE RD, SILKY OAK DR, SLOANS RD, SMITHS RD, SORENSEN ST, TARONG DR, TIDAR ST",
         "SUBURBS": "BOOIE, COOLABUNIA, KINGAROY, NANANGO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.343419,
+          -25.1906
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4301",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 19 Apr 2024",
+        "EST_FIX_TIME": "3:00PM 19 Apr 2024",
+        "STREETS": "ABINGTON RD, HORTON RD, MULLERS RD, REDRIDGE CRES",
+        "SUBURBS": "HORTON, REDRIDGE"
       }
     },
     {
@@ -3890,5 +3932,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1713485400.450846"
+  "extracted": "1713485701.795138"
 }
