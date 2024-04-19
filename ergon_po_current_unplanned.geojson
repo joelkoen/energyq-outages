@@ -371,6 +371,123 @@
           {
             "type": "Point",
             "coordinates": [
+              151.919523,
+              -27.558131
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.916889,
+                  -27.558869
+                ],
+                [
+                  151.918371,
+                  -27.559871
+                ],
+                [
+                  151.918515,
+                  -27.559938
+                ],
+                [
+                  151.91918,
+                  -27.560138
+                ],
+                [
+                  151.919219,
+                  -27.560149
+                ],
+                [
+                  151.92174,
+                  -27.560706
+                ],
+                [
+                  151.922341,
+                  -27.560127
+                ],
+                [
+                  151.921058,
+                  -27.556689
+                ],
+                [
+                  151.920978,
+                  -27.556556
+                ],
+                [
+                  151.920459,
+                  -27.555955
+                ],
+                [
+                  151.920374,
+                  -27.555878
+                ],
+                [
+                  151.920059,
+                  -27.555654
+                ],
+                [
+                  151.919726,
+                  -27.555556
+                ],
+                [
+                  151.918133,
+                  -27.555605
+                ],
+                [
+                  151.917839,
+                  -27.5557
+                ],
+                [
+                  151.917544,
+                  -27.555905
+                ],
+                [
+                  151.917372,
+                  -27.556129
+                ],
+                [
+                  151.917332,
+                  -27.556246
+                ],
+                [
+                  151.917326,
+                  -27.556264
+                ],
+                [
+                  151.916705,
+                  -27.558397
+                ],
+                [
+                  151.916889,
+                  -27.558869
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7925",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "92",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:00PM 19 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BLAXLAND ST, GLENGOWAN CT, JIMBOUR DR, LYNDHURST CT, WELLCAMP ST, WYALLA ST, YANDILLA ST",
+        "SUBURBS": "NEWTOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.828515,
               -25.272843
             ]
@@ -616,5 +733,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713503101.087988"
+  "extracted": "1713503400.351595"
 }
