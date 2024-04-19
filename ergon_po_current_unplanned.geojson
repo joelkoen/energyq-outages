@@ -285,6 +285,139 @@
           {
             "type": "Point",
             "coordinates": [
+              149.163529,
+              -21.063875
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.156917,
+                  -21.066747
+                ],
+                [
+                  149.15709,
+                  -21.067021
+                ],
+                [
+                  149.157368,
+                  -21.067224
+                ],
+                [
+                  149.160294,
+                  -21.068028
+                ],
+                [
+                  149.160481,
+                  -21.068043
+                ],
+                [
+                  149.169183,
+                  -21.067151
+                ],
+                [
+                  149.169187,
+                  -21.06715
+                ],
+                [
+                  149.16978,
+                  -21.067085
+                ],
+                [
+                  149.170205,
+                  -21.066619
+                ],
+                [
+                  149.170159,
+                  -21.065518
+                ],
+                [
+                  149.170148,
+                  -21.065441
+                ],
+                [
+                  149.170103,
+                  -21.065243
+                ],
+                [
+                  149.170098,
+                  -21.065222
+                ],
+                [
+                  149.16993,
+                  -21.064626
+                ],
+                [
+                  149.169914,
+                  -21.06458
+                ],
+                [
+                  149.168232,
+                  -21.060462
+                ],
+                [
+                  149.167989,
+                  -21.060216
+                ],
+                [
+                  149.166843,
+                  -21.059707
+                ],
+                [
+                  149.166425,
+                  -21.05971
+                ],
+                [
+                  149.166001,
+                  -21.059905
+                ],
+                [
+                  149.165948,
+                  -21.059934
+                ],
+                [
+                  149.157154,
+                  -21.065381
+                ],
+                [
+                  149.156941,
+                  -21.065709
+                ],
+                [
+                  149.156853,
+                  -21.066468
+                ],
+                [
+                  149.156917,
+                  -21.066747
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3753",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "189",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "5:13PM 19 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AMARA ST, ARECA ST, BUCASIA RD, BUTIA ST, COOT ST, EIMEO RD, EXCELSA CCT, JABIRU CCT, PALMETTO CRES, PINDO CCT, RADIATA ST, RAFFIA CT, RAFFIA ST, ROSEWOOD DR",
+        "SUBURBS": "BUCASIA, EIMEO, RURAL VIEW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.285277,
               -18.949571
             ]
@@ -531,5 +664,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713510903.02666"
+  "extracted": "1713511201.228695"
 }
