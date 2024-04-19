@@ -168,6 +168,107 @@
           {
             "type": "Point",
             "coordinates": [
+              145.256895,
+              -15.498726
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.238013,
+                  -15.497501
+                ],
+                [
+                  145.242848,
+                  -15.504002
+                ],
+                [
+                  145.243156,
+                  -15.504185
+                ],
+                [
+                  145.250393,
+                  -15.505251
+                ],
+                [
+                  145.250405,
+                  -15.505252
+                ],
+                [
+                  145.251405,
+                  -15.505374
+                ],
+                [
+                  145.251428,
+                  -15.505376
+                ],
+                [
+                  145.271913,
+                  -15.50687
+                ],
+                [
+                  145.272399,
+                  -15.506534
+                ],
+                [
+                  145.275857,
+                  -15.49376
+                ],
+                [
+                  145.275847,
+                  -15.493498
+                ],
+                [
+                  145.274918,
+                  -15.490881
+                ],
+                [
+                  145.274408,
+                  -15.490581
+                ],
+                [
+                  145.238503,
+                  -15.495856
+                ],
+                [
+                  145.238115,
+                  -15.496219
+                ],
+                [
+                  145.237933,
+                  -15.497153
+                ],
+                [
+                  145.238013,
+                  -15.497501
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5486",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "57",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:12PM 19 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CLAY CL, ESPLANADE, KELLERHAVEN ST, MULLIGAN HWY, QUARANTINE BAY ESP, QUARANTINE BAY RD, SCHWARTZ ST, THE ESPLANADE, WALSH CL",
+        "SUBURBS": "COOKTOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -733,5 +834,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713503400.351595"
+  "extracted": "1713504001.87794"
 }
