@@ -401,9 +401,126 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.427378,
+              -24.94662
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.367945,
+                  -24.907987
+                ],
+                [
+                  152.378147,
+                  -24.948882
+                ],
+                [
+                  152.378191,
+                  -24.948991
+                ],
+                [
+                  152.394159,
+                  -24.976722
+                ],
+                [
+                  152.394167,
+                  -24.976736
+                ],
+                [
+                  152.40003,
+                  -24.986079
+                ],
+                [
+                  152.400487,
+                  -24.986305
+                ],
+                [
+                  152.482461,
+                  -24.981845
+                ],
+                [
+                  152.482919,
+                  -24.981468
+                ],
+                [
+                  152.486805,
+                  -24.959468
+                ],
+                [
+                  152.486811,
+                  -24.959388
+                ],
+                [
+                  152.486776,
+                  -24.95768
+                ],
+                [
+                  152.486734,
+                  -24.957505
+                ],
+                [
+                  152.486397,
+                  -24.956817
+                ],
+                [
+                  152.486244,
+                  -24.956642
+                ],
+                [
+                  152.440862,
+                  -24.925418
+                ],
+                [
+                  152.440743,
+                  -24.925358
+                ],
+                [
+                  152.388882,
+                  -24.906965
+                ],
+                [
+                  152.388689,
+                  -24.906934
+                ],
+                [
+                  152.368413,
+                  -24.907437
+                ],
+                [
+                  152.367945,
+                  -24.907987
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5088",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "535",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "12:41AM 20 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALEX WALKER RD, ASMUS RD, BARAZZAS RD, BLAKE CT, BURNS RD, CARISSON DR, CHARDS RD, CHATTIN RD, COONARR BEACH RD, COONARR RD, CULLEN RD, DAHLS RD, DARLINGTONS RD, DAVENPORT DR, DOUGLAS RD, DR MAYS CROSSING RD, ESPLANADE, FALLONS ROCKS RD, FERN TREE DR, GOLCHERT DR, GOODWOOD RD, GUM TREE CT, HALLORAN CT, HALLS RD, HERBERT HALL RD, HUMMOCK RD, HUTCHINS RD, LANGBECKERS EAST RD, MAHONEY DEXTERS RD, MARKHAM RD, MCCORMACKS RD, NEDWICH RD, NEW FARM RD, OAK AVE, OLIVE TREE CT, PALM BEACH RD, PALM SPRINGS DR, PAYNES RD, REGENT CT, REXS RD, RIEDY ST, TARRANTS RD, THE STRAND EAST, THE STRAND WEST, THREE CHAIN RD, TILLS RD, WOLFENDEN RD",
+        "SUBURBS": "ALLOWAY, AVENELL HEIGHTS, BUNDABERG, CALAVOS, COONARR, KINKUNA, SOUTH KALKIE, THABEBAN, WOONGARRA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713537601.267736"
+  "extracted": "1713537904.01971"
 }
