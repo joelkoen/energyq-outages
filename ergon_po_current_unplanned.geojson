@@ -450,6 +450,71 @@
           {
             "type": "Point",
             "coordinates": [
+              146.805378,
+              -19.306629
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.805088,
+                  -19.307452
+                ],
+                [
+                  146.805685,
+                  -19.307402
+                ],
+                [
+                  146.806114,
+                  -19.306887
+                ],
+                [
+                  146.806007,
+                  -19.306183
+                ],
+                [
+                  146.805633,
+                  -19.305806
+                ],
+                [
+                  146.805131,
+                  -19.306011
+                ],
+                [
+                  146.804641,
+                  -19.306764
+                ],
+                [
+                  146.805088,
+                  -19.307452
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7663",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "25",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews working on-site",
+        "START": "7:03PM 19 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "KOKODA ST",
+        "SUBURBS": "IDALIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -506,5 +571,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713523801.096782"
+  "extracted": "1713524101.269782"
 }
