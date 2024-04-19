@@ -168,30 +168,14 @@
           {
             "type": "Point",
             "coordinates": [
-              145.175166,
-              -15.46993
+              145.261352,
+              -15.579155
             ]
           },
           {
             "type": "Polygon",
             "coordinates": [
               [
-                [
-                  145.02175,
-                  -15.370366
-                ],
-                [
-                  145.026719,
-                  -15.392678
-                ],
-                [
-                  145.026783,
-                  -15.392827
-                ],
-                [
-                  145.194193,
-                  -15.644021
-                ],
                 [
                   145.19427,
                   -15.644109
@@ -217,64 +201,64 @@
                   -15.593713
                 ],
                 [
-                  145.328582,
-                  -15.593287
+                  145.328576,
+                  -15.593275
                 ],
                 [
-                  145.17018,
-                  -15.267312
+                  145.274893,
+                  -15.490824
                 ],
                 [
-                  145.170089,
-                  -15.267186
+                  145.274643,
+                  -15.490606
                 ],
                 [
-                  145.167322,
-                  -15.264492
+                  145.246389,
+                  -15.480213
                 ],
                 [
-                  145.16702,
-                  -15.26436
+                  145.246287,
+                  -15.480187
                 ],
                 [
-                  145.15846,
-                  -15.263854
+                  145.24483,
+                  -15.479993
                 ],
                 [
-                  145.15845,
-                  -15.263854
+                  145.244727,
+                  -15.47999
                 ],
                 [
-                  145.09581,
-                  -15.26154
+                  145.239391,
+                  -15.48043
                 ],
                 [
-                  145.095636,
-                  -15.261565
+                  145.239284,
+                  -15.480451
                 ],
                 [
-                  145.078883,
-                  -15.267351
+                  145.239203,
+                  -15.480477
                 ],
                 [
-                  145.078634,
-                  -15.267554
+                  145.238986,
+                  -15.480622
                 ],
                 [
-                  145.029975,
-                  -15.350669
+                  145.226861,
+                  -15.495189
                 ],
                 [
-                  145.029949,
-                  -15.350721
+                  145.226768,
+                  -15.495379
                 ],
                 [
-                  145.021775,
-                  -15.370099
+                  145.194129,
+                  -15.643682
                 ],
                 [
-                  145.02175,
-                  -15.370366
+                  145.19427,
+                  -15.644109
                 ]
               ]
             ]
@@ -284,13 +268,13 @@
       "properties": {
         "EVENT_ID": "24FN5486",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "1016",
+        "CUSTOMERS_AFFECTED": "213",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Outage reported",
         "START": "3:12PM 19 Apr 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "ADAMS ST, AERODROME RD, AIRPORT RD, ALEC CAMERON DR, ANNAN RD, ARCHER POINT RD, ARMBRUST ST, BANKS CL, BARRETTS CREEK RD, BAUHINIA ST, BAYANBI ST, BEACH RD, BINTHIN ST, BOUNDARY ST, BRADBURY ST, BRANDT CL, BROWN ST, BUHMANN ST, BURKITT ST, CAMERON CREEK RD, CHACE CL, CHARLOTTE ST, CLAY CL, CYCAD CL, ELIM RD, EMILY ST, EMMA CL, ENDEAVOUR VALLEY RD, ESPLANADE, FERRARI ST, FLAGGY RD, FLIERL ST, GAMPE DR, GUM TREE CL, HAGARTY CL, HARRIGAN ST, HARRY HEATHS CL, HIPON ST, HOLZAPFEL RD, HOPE ST, HOPE VALE RD, HUTCHINSON ST, IDRESS DR, IRONWOOD AVE, JENSENS CROSSING RD, JOHN ST, KELLER ST, KELLERHAVEN ST, KENNY RD, KERNICH ST, KNIGHT LANE, KOTZUR ST, LEE RD, LINK RD, MACMILLAN ST, MASON ST, MC IVOR RD, MCIVOR RD, MCIVOR RIVER RD, MCLEAN DR, MINKE RD, MORRIS DR, MT AMOS RD, MULLIGAN HWY, MUNI ST, NEILL CL, NEWMAN ST, NORTH ST, OAKEY CREEK RD, OAKY CREEK RD, OLD DAIRY RD, PALM ST, PALMER ST, POISON CREEK RD, POLAND ST, POLICE CAMP RD, QUARANTINE BAY ESP, QUARANTINE BAY RD, RACECOURSE RD, RAILWAY AVE, RAILWAY AVE EAST AVE, RAILWAY AVE W, RAINFOREST ST, RATCLIFFE RD, REID ST, ROSE ST, RYDER RD, SAVAGE ST, SCHWARTZ ST, SEAGREN ST, SIENNA ACCS, SIR KEN MORRIS DR, SLAUGHTER YARD RD, SLAUGHTERYARD RD, SMOKO LANE, SOLANDER RD, SOUTH RD, STARCKE ST, STARKE ST, TEA TREE RD, THE ESPLANADE, THEILE ST, THUPPI ST, UNIT ST, UNKNOWN ST, WALSH CL, WENKE ST, WILKINSON ST, WILTON ACCESS RD",
-        "SUBURBS": "COOKTOWN, ENDEAVOUR RIVER, HOPE VALE, KEATINGS LAGOON, MARTON, TREVETHAN CREEK"
+        "STREETS": "ADAMS ST, ANNAN RD, ARCHER POINT RD, BUHMANN ST, BURKITT ST, CHACE CL, CLAY CL, ESPLANADE, GAMPE DR, HOPE ST, HUTCHINSON ST, IDRESS DR, KELLERHAVEN ST, MASON ST, MT AMOS RD, MULLIGAN HWY, NEWMAN ST, QUARANTINE BAY ESP, QUARANTINE BAY RD, RACECOURSE RD, RAINFOREST ST, SAVAGE ST, SCHWARTZ ST, SEAGREN ST, THE ESPLANADE, UNKNOWN ST, WALSH CL, WILKINSON ST",
+        "SUBURBS": "COOKTOWN, KEATINGS LAGOON, TREVETHAN CREEK"
       }
     },
     {
@@ -612,142 +596,9 @@
         "STREETS": "BLAXLAND ST, GLENGOWAN CT, JIMBOUR DR, LYNDHURST CT, WELLCAMP ST, WYALLA ST, YANDILLA ST",
         "SUBURBS": "NEWTOWN"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              152.828515,
-              -25.272843
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.826032,
-                  -25.272014
-                ],
-                [
-                  152.826543,
-                  -25.272854
-                ],
-                [
-                  152.826628,
-                  -25.272957
-                ],
-                [
-                  152.827766,
-                  -25.273978
-                ],
-                [
-                  152.827906,
-                  -25.274066
-                ],
-                [
-                  152.830042,
-                  -25.274962
-                ],
-                [
-                  152.830633,
-                  -25.274836
-                ],
-                [
-                  152.831001,
-                  -25.274422
-                ],
-                [
-                  152.831059,
-                  -25.27394
-                ],
-                [
-                  152.830713,
-                  -25.273305
-                ],
-                [
-                  152.830696,
-                  -25.273277
-                ],
-                [
-                  152.829453,
-                  -25.271353
-                ],
-                [
-                  152.829316,
-                  -25.271216
-                ],
-                [
-                  152.828979,
-                  -25.270996
-                ],
-                [
-                  152.828778,
-                  -25.270918
-                ],
-                [
-                  152.827819,
-                  -25.270763
-                ],
-                [
-                  152.827783,
-                  -25.270758
-                ],
-                [
-                  152.827671,
-                  -25.270748
-                ],
-                [
-                  152.827657,
-                  -25.270747
-                ],
-                [
-                  152.827326,
-                  -25.270724
-                ],
-                [
-                  152.827025,
-                  -25.270792
-                ],
-                [
-                  152.826207,
-                  -25.271263
-                ],
-                [
-                  152.825977,
-                  -25.271625
-                ],
-                [
-                  152.825971,
-                  -25.271779
-                ],
-                [
-                  152.826032,
-                  -25.272014
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB5070",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "89",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "10:30AM 19 Apr 2024",
-        "EST_FIX_TIME": "5:30PM 19 Apr 2024",
-        "STREETS": "DUGONG AVE, HALCRO ST, LEAWARD BVD, LONG ST, OCEAN BLUE BVD, PEREGRINE AVE, SEAHAVEN CCT, SOUTHWIND CT",
-        "SUBURBS": "PIALBA, POINT VERNON"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713505201.363877"
+  "extracted": "1713505503.929218"
 }
