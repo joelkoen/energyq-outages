@@ -10,6 +10,75 @@
           {
             "type": "Point",
             "coordinates": [
+              150.493819,
+              -24.416489
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.491428,
+                  -24.413061
+                ],
+                [
+                  150.494795,
+                  -24.420217
+                ],
+                [
+                  150.495298,
+                  -24.420487
+                ],
+                [
+                  150.49573,
+                  -24.420128
+                ],
+                [
+                  150.49621,
+                  -24.417937
+                ],
+                [
+                  150.496129,
+                  -24.417588
+                ],
+                [
+                  150.492282,
+                  -24.412622
+                ],
+                [
+                  150.491639,
+                  -24.41249
+                ],
+                [
+                  150.491428,
+                  -24.413061
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5865",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "1:21PM 19 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 19 Apr 2024",
+        "STREETS": "DAWSON HWY",
+        "SUBURBS": "BILOELA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -89,6 +158,75 @@
         "EST_FIX_TIME": null,
         "STREETS": "AIRSTRIP ST, BASKETBALL COURT ST, DANIEL ST, MAIN ST, MAP ST, UNKNOWN ST, WARRIA ST",
         "SUBURBS": "MABUIAG ISLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.263383,
+              -15.764625
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.257857,
+                  -15.763439
+                ],
+                [
+                  145.260731,
+                  -15.766889
+                ],
+                [
+                  145.261307,
+                  -15.767008
+                ],
+                [
+                  145.268685,
+                  -15.763339
+                ],
+                [
+                  145.26891,
+                  -15.76278
+                ],
+                [
+                  145.268816,
+                  -15.762536
+                ],
+                [
+                  145.268357,
+                  -15.762242
+                ],
+                [
+                  145.258198,
+                  -15.762704
+                ],
+                [
+                  145.257857,
+                  -15.763439
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5237",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews working on-site",
+        "START": "7:34PM 15 Apr 2024",
+        "EST_FIX_TIME": "12:00PM 20 Apr 2024",
+        "STREETS": "ANGUS GULLY RD, COLLINGWOOD RD, HONEYFLOW DR",
+        "SUBURBS": "COOKTOWN, ROSSVILLE"
       }
     },
     {
@@ -302,91 +440,6 @@
           {
             "type": "Point",
             "coordinates": [
-              149.770509,
-              -26.847606
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  149.738704,
-                  -26.792054
-                ],
-                [
-                  149.742531,
-                  -26.822695
-                ],
-                [
-                  149.74255,
-                  -26.822776
-                ],
-                [
-                  149.765311,
-                  -26.889861
-                ],
-                [
-                  149.765411,
-                  -26.890025
-                ],
-                [
-                  149.768531,
-                  -26.893265
-                ],
-                [
-                  149.768723,
-                  -26.893388
-                ],
-                [
-                  149.80163,
-                  -26.905337
-                ],
-                [
-                  149.802314,
-                  -26.90484
-                ],
-                [
-                  149.779462,
-                  -26.790246
-                ],
-                [
-                  149.778943,
-                  -26.789874
-                ],
-                [
-                  149.739179,
-                  -26.791553
-                ],
-                [
-                  149.738704,
-                  -26.792054
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW7818",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "7",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "8:30AM 19 Apr 2024",
-        "EST_FIX_TIME": "2:30PM 19 Apr 2024",
-        "STREETS": "CONDAMINE HWY, DULACCA SOUTH RD, ROMA-CONDAMINE RD",
-        "SUBURBS": "CONDAMINE, DULACCA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               146.92093,
               -26.780351
             ]
@@ -589,8 +642,8 @@
           {
             "type": "Point",
             "coordinates": [
-              152.835127,
-              -25.277957
+              152.827982,
+              -25.273623
             ]
           },
           {
@@ -598,60 +651,60 @@
             "coordinates": [
               [
                 [
-                  152.825075,
-                  -25.275273
+                  152.825228,
+                  -25.275329
                 ],
                 [
-                  152.840964,
-                  -25.284164
+                  152.825387,
+                  -25.275361
                 ],
                 [
-                  152.84117,
-                  -25.284228
+                  152.825407,
+                  -25.275364
                 ],
                 [
-                  152.842555,
-                  -25.284365
+                  152.826818,
+                  -25.275589
                 ],
                 [
-                  152.842789,
-                  -25.284337
+                  152.826842,
+                  -25.275592
                 ],
                 [
-                  152.844969,
-                  -25.283559
+                  152.827387,
+                  -25.275655
                 ],
                 [
-                  152.845281,
-                  -25.28318
+                  152.827449,
+                  -25.275658
                 ],
                 [
-                  152.84541,
-                  -25.281843
+                  152.830364,
+                  -25.275656
                 ],
                 [
-                  152.845219,
-                  -25.281447
+                  152.830417,
+                  -25.275653
                 ],
                 [
-                  152.841924,
-                  -25.279143
+                  152.8306,
+                  -25.275635
                 ],
                 [
-                  152.841873,
-                  -25.279112
+                  152.831038,
+                  -25.275239
                 ],
                 [
-                  152.831188,
-                  -25.27341
+                  152.831121,
+                  -25.27458
                 ],
                 [
-                  152.83114,
-                  -25.273387
+                  152.830906,
+                  -25.274156
                 ],
                 [
-                  152.826639,
-                  -25.27155
+                  152.826713,
+                  -25.271587
                 ],
                 [
                   152.826152,
@@ -678,8 +731,8 @@
                   -25.274835
                 ],
                 [
-                  152.825075,
-                  -25.275273
+                  152.825228,
+                  -25.275329
                 ]
               ]
             ]
@@ -689,17 +742,17 @@
       "properties": {
         "EVENT_ID": "24WB5076",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "626",
+        "CUSTOMERS_AFFECTED": "135",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
         "STATUS": "Crews working on-site",
         "START": "12:53PM 19 Apr 2024",
         "EST_FIX_TIME": "4:00PM 19 Apr 2024",
-        "STREETS": "BEACH RD, BRYANT ST, CHARLES ST, CHARLTON ESP, ESPLANADE, HILLYARD ST, HUNTER ST, HYTHE ST, LEAWARD BVD, LONG ST, MAIN ST, OCEAN BLUE BVD, OLD MARYBOROUGH RD, PETERS LANE, QUARTERDECK AVE, REGATTA CT, SEAHAVEN CCT, SOUTHWIND CT, SPYGLASS CT, TAYLOR ST, THOMAS ST, TORQUAY RD, WATSON ST, YARINGA AVE",
+        "STREETS": "HYTHE ST, LEAWARD BVD, OCEAN BLUE BVD, QUARTERDECK AVE, REGATTA CT, SEAHAVEN CCT, SOUTHWIND CT, SPYGLASS CT, YARINGA AVE",
         "SUBURBS": "PIALBA, POINT VERNON"
       }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713496502.801214"
+  "extracted": "1713497101.521397"
 }
