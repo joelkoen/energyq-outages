@@ -827,9 +827,142 @@
         "STREETS": "GOOBURRUM RD",
         "SUBURBS": "GOOBURRUM"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.828515,
+              -25.272843
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.826032,
+                  -25.272014
+                ],
+                [
+                  152.826543,
+                  -25.272854
+                ],
+                [
+                  152.826628,
+                  -25.272957
+                ],
+                [
+                  152.827766,
+                  -25.273978
+                ],
+                [
+                  152.827906,
+                  -25.274066
+                ],
+                [
+                  152.830042,
+                  -25.274962
+                ],
+                [
+                  152.830633,
+                  -25.274836
+                ],
+                [
+                  152.831001,
+                  -25.274422
+                ],
+                [
+                  152.831059,
+                  -25.27394
+                ],
+                [
+                  152.830713,
+                  -25.273305
+                ],
+                [
+                  152.830696,
+                  -25.273277
+                ],
+                [
+                  152.829453,
+                  -25.271353
+                ],
+                [
+                  152.829316,
+                  -25.271216
+                ],
+                [
+                  152.828979,
+                  -25.270996
+                ],
+                [
+                  152.828778,
+                  -25.270918
+                ],
+                [
+                  152.827819,
+                  -25.270763
+                ],
+                [
+                  152.827783,
+                  -25.270758
+                ],
+                [
+                  152.827671,
+                  -25.270748
+                ],
+                [
+                  152.827657,
+                  -25.270747
+                ],
+                [
+                  152.827326,
+                  -25.270724
+                ],
+                [
+                  152.827025,
+                  -25.270792
+                ],
+                [
+                  152.826207,
+                  -25.271263
+                ],
+                [
+                  152.825977,
+                  -25.271625
+                ],
+                [
+                  152.825971,
+                  -25.271779
+                ],
+                [
+                  152.826032,
+                  -25.272014
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5070",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "89",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:30AM 19 Apr 2024",
+        "EST_FIX_TIME": "8:00PM 19 Apr 2024",
+        "STREETS": "DUGONG AVE, HALCRO ST, LEAWARD BVD, LONG ST, OCEAN BLUE BVD, PEREGRINE AVE, SEAHAVEN CCT, SOUTHWIND CT",
+        "SUBURBS": "PIALBA, POINT VERNON"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713489901.163806"
+  "extracted": "1713490207.282297"
 }
