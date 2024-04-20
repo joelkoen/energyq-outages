@@ -96,7 +96,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "21",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
+        "STATUS": "Work delayed - crews unable to continue",
         "START": "6:15PM 20 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "BURNETT HWY, LANIGAN'S LANE, OFF BURNETT HWY, OFF MCDONALD'S RD, TOMLIN RD",
@@ -354,6 +354,99 @@
           {
             "type": "Point",
             "coordinates": [
+              149.237017,
+              -21.577361
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.213517,
+                  -21.593772
+                ],
+                [
+                  149.217653,
+                  -21.593444
+                ],
+                [
+                  149.217794,
+                  -21.593413
+                ],
+                [
+                  149.230476,
+                  -21.588603
+                ],
+                [
+                  149.230501,
+                  -21.588593
+                ],
+                [
+                  149.260899,
+                  -21.575134
+                ],
+                [
+                  149.261008,
+                  -21.574384
+                ],
+                [
+                  149.244975,
+                  -21.56143
+                ],
+                [
+                  149.244673,
+                  -21.56132
+                ],
+                [
+                  149.230993,
+                  -21.56095
+                ],
+                [
+                  149.23055,
+                  -21.561195
+                ],
+                [
+                  149.213188,
+                  -21.592775
+                ],
+                [
+                  149.213167,
+                  -21.592819
+                ],
+                [
+                  149.213026,
+                  -21.59316
+                ],
+                [
+                  149.213517,
+                  -21.593772
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3767",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "28",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews on route",
+        "START": "8:24PM 20 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "EAST INNESTON RD, INNESTON RD, JOHNSON RD, KOUMALA RD, LANDING RD, LOLOMA RD, SOUTH INNESTON RD",
+        "SUBURBS": "KOUMALA, SARINA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -410,5 +503,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713609902.697931"
+  "extracted": "1713610202.04069"
 }
