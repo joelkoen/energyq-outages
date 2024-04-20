@@ -220,9 +220,102 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.80746,
+              -26.54294
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.763754,
+                  -26.550019
+                ],
+                [
+                  150.820174,
+                  -26.576126
+                ],
+                [
+                  150.820371,
+                  -26.576175
+                ],
+                [
+                  150.844166,
+                  -26.577576
+                ],
+                [
+                  150.844684,
+                  -26.57724
+                ],
+                [
+                  150.85139,
+                  -26.554211
+                ],
+                [
+                  150.851406,
+                  -26.554085
+                ],
+                [
+                  150.851035,
+                  -26.541058
+                ],
+                [
+                  150.851023,
+                  -26.540974
+                ],
+                [
+                  150.843172,
+                  -26.508611
+                ],
+                [
+                  150.84246,
+                  -26.508304
+                ],
+                [
+                  150.766701,
+                  -26.542182
+                ],
+                [
+                  150.766455,
+                  -26.542427
+                ],
+                [
+                  150.763514,
+                  -26.549459
+                ],
+                [
+                  150.763754,
+                  -26.550019
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7952",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:07PM 20 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BELL'S RD, NUDLEY SCHOOL RD, PELICAN BACK RD, RENNICKS RD",
+        "SUBURBS": "BURNCLUITH, PELICAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713585901.425791"
+  "extracted": "1713586203.989078"
 }
