@@ -78,9 +78,118 @@
         "STREETS": "EUMUNDI NOOSA RD, TALLGUM AVE, TIMBERCOACH LANE",
         "SUBURBS": "EUMUNDI, VERRIERDALE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.433874,
+              -28.148448
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.431696,
+                  -28.149531
+                ],
+                [
+                  153.435046,
+                  -28.150092
+                ],
+                [
+                  153.435406,
+                  -28.150034
+                ],
+                [
+                  153.436142,
+                  -28.149635
+                ],
+                [
+                  153.436221,
+                  -28.149582
+                ],
+                [
+                  153.43629,
+                  -28.149527
+                ],
+                [
+                  153.436447,
+                  -28.14927
+                ],
+                [
+                  153.436463,
+                  -28.149185
+                ],
+                [
+                  153.436413,
+                  -28.148902
+                ],
+                [
+                  153.436371,
+                  -28.148829
+                ],
+                [
+                  153.436263,
+                  -28.148705
+                ],
+                [
+                  153.434054,
+                  -28.14691
+                ],
+                [
+                  153.433594,
+                  -28.146803
+                ],
+                [
+                  153.433271,
+                  -28.14687
+                ],
+                [
+                  153.433009,
+                  -28.147008
+                ],
+                [
+                  153.431441,
+                  -28.148556
+                ],
+                [
+                  153.431314,
+                  -28.148807
+                ],
+                [
+                  153.431285,
+                  -28.149036
+                ],
+                [
+                  153.431696,
+                  -28.149531
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755525-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "22",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "9:01PM 20 Apr 2024",
+        "EST_FIX_TIME": "11:00PM 20 Apr 2024",
+        "STREETS": "JAMBEROO CT, VALLEY DR",
+        "SUBURBS": "TALLEBUDGERA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713614404.947946"
+  "extracted": "1713614701.540486"
 }
