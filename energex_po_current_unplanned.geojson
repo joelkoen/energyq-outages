@@ -263,13 +263,90 @@
         "REASON": "Under Investigation",
         "STATUS": "Awaiting",
         "START": "1:38PM 20 Apr 2024",
-        "EST_FIX_TIME": "4:00PM 20 Apr 2024",
+        "EST_FIX_TIME": "6:00PM 20 Apr 2024",
         "STREETS": "ALMOND CT, ASHWOOD CT, BELAH CT, CALLITRIS CRES, CASTAWAYS CT, CHERRYWOOD CL, CHESTNUT CT, COCONUT GR, CRUSOE CT, DAVID LOW WAY, DAYBREAK CT, DOVETREE CT, DRIFTWOOD DR, GOSSAMER CT, HAWTHORN GR, JASMIN CT, KESTREL CRES, LORILET ST, MAHOGANY DR, MELALEUCA ST, MIMOSA ST, MOONBEAM CRES, PEPPERTREE CL, PERSIMMON DR, POPLAR PL, REDWOOD AVE, ROYENA PL, SANDALWOOD CL, TRISTANIA DR, TROPICANA RISE, WALNUT CT, WAVECREST DR",
         "SUBURBS": "CASTAWAYS BEACH, MARCUS BEACH, PEREGIAN BEACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.693113,
+              -27.511448
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.690045,
+                  -27.510414
+                ],
+                [
+                  152.69142,
+                  -27.511302
+                ],
+                [
+                  152.691474,
+                  -27.511332
+                ],
+                [
+                  152.693883,
+                  -27.512506
+                ],
+                [
+                  152.693911,
+                  -27.512519
+                ],
+                [
+                  152.695645,
+                  -27.513241
+                ],
+                [
+                  152.696309,
+                  -27.513039
+                ],
+                [
+                  152.696109,
+                  -27.512439
+                ],
+                [
+                  152.690592,
+                  -27.509655
+                ],
+                [
+                  152.689916,
+                  -27.509804
+                ],
+                [
+                  152.690045,
+                  -27.510414
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755484-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "2:08PM 20 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 20 Apr 2024",
+        "STREETS": "PINE MOUNTAIN RD",
+        "SUBURBS": "BORALLON"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713588303.869419"
+  "extracted": "1713588601.234701"
 }
