@@ -96,7 +96,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "21",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "6:15PM 20 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "BURNETT HWY, LANIGAN'S LANE, OFF BURNETT HWY, OFF MCDONALD'S RD, TOMLIN RD",
@@ -269,6 +269,91 @@
           {
             "type": "Point",
             "coordinates": [
+              148.846956,
+              -21.044587
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.837696,
+                  -21.046332
+                ],
+                [
+                  148.839651,
+                  -21.052319
+                ],
+                [
+                  148.840181,
+                  -21.052634
+                ],
+                [
+                  148.852985,
+                  -21.05086
+                ],
+                [
+                  148.853375,
+                  -21.050544
+                ],
+                [
+                  148.856215,
+                  -21.041719
+                ],
+                [
+                  148.856167,
+                  -21.041356
+                ],
+                [
+                  148.853813,
+                  -21.03769
+                ],
+                [
+                  148.853511,
+                  -21.037483
+                ],
+                [
+                  148.84924,
+                  -21.036541
+                ],
+                [
+                  148.84881,
+                  -21.036644
+                ],
+                [
+                  148.837835,
+                  -21.045863
+                ],
+                [
+                  148.837696,
+                  -21.046332
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3766",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "5:13PM 20 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CHIDGEYS RD, PERNAS RD, VOLKERS RD",
+        "SUBURBS": "GEEBERGA, KUTTABUL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -325,5 +410,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713606001.297602"
+  "extracted": "1713606303.393819"
 }
