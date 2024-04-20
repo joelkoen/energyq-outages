@@ -150,7 +150,7 @@
       "properties": {
         "EVENT_ID": "INCD-755432-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "827",
+        "CUSTOMERS_AFFECTED": "790",
         "REASON": "Under Investigation",
         "STATUS": "In Progress",
         "START": "8:54AM 20 Apr 2024",
@@ -158,9 +158,98 @@
         "STREETS": "AMELIA PL, ANGUS CRES, BEAUMONT CT, BIGGS RD, BRAFORD RD, BROLGA LANE, BULLOCK CT, BUSHLAND PL, COLLEGE RD, DE VERE RD, DROUGHTMASTER CRES, DULONG RD, DULONG SCHOOL RD, ELAINE CL, FLAXTON DR, GOODEY WAY, HEATH LANE, HEREFORD DR, JEWETT RD, KUREELPA FALLS RD, LEIGHA PL, LILLY PILLY LANE, LYNVALE PL, MACADAMIA RISE, MAPLETON FOREST RD, MAROO PL, MAROOCHY SPRING DR, MURRAY GREY DR, NAMBOUR MAPLETON RD, PHILIPPS RD, PLATYPUS CREEK RD, POST OFFICE RD, RAINBOW PARK DR, SHAMLEY HEATH RD, SHERWELL RD, SHORTHORN CRES, SMITH RD, SPRING PASTURES DR, TALANA DR, TAMARIN DR, TEMBLER PL, THOMPSON RD, THRUSHS RD, TOONA PL, VINCES WAY, WARRUGA ST, WILLANDRA PL, WOODLAND PL",
         "SUBURBS": "DULONG, IMAGE FLAT, KUREELPA, MAPLETON, PERWILLOWEN, TOWEN MOUNTAIN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.946281,
+              -26.829195
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.944007,
+                  -26.83264
+                ],
+                [
+                  152.948139,
+                  -26.829745
+                ],
+                [
+                  152.948288,
+                  -26.829575
+                ],
+                [
+                  152.949349,
+                  -26.827476
+                ],
+                [
+                  152.949342,
+                  -26.82709
+                ],
+                [
+                  152.948628,
+                  -26.82579
+                ],
+                [
+                  152.947764,
+                  -26.825731
+                ],
+                [
+                  152.944254,
+                  -26.830238
+                ],
+                [
+                  152.944233,
+                  -26.830267
+                ],
+                [
+                  152.943459,
+                  -26.831444
+                ],
+                [
+                  152.943409,
+                  -26.831549
+                ],
+                [
+                  152.943214,
+                  -26.83216
+                ],
+                [
+                  152.943416,
+                  -26.832659
+                ],
+                [
+                  152.944007,
+                  -26.83264
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755442-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "10:47AM 20 Apr 2024",
+        "EST_FIX_TIME": "12:30PM 20 Apr 2024",
+        "STREETS": "CLARKES RD, OLD GYMPIE RD",
+        "SUBURBS": "BEERWAH, MOUNT MELLUM"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713574210.067899"
+  "extracted": "1713574501.623447"
 }
