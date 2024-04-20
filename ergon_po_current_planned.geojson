@@ -70,27 +70,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.519277,
-          -23.386078
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA5226",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "116",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "8:30AM 21 Apr 2024",
-        "EST_FIX_TIME": "2:30PM 21 Apr 2024",
-        "STREETS": "ARTHUR ST, EAST LANE, EAST ST, FRANCIS ST, QUAY ST, SOUTH ST",
-        "SUBURBS": "DEPOT HILL, ROCKHAMPTON, ROCKHAMPTON CITY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           150.521767,
           -23.389888
         ]
@@ -105,69 +84,6 @@
         "EST_FIX_TIME": "4:00PM 21 Apr 2024",
         "STREETS": "ARTHUR ST, BOLSOVER ST, EAST ST, QUAY ST, WOOD ST",
         "SUBURBS": "DEPOT HILL"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.525015,
-          -23.357071
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA5446",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "8:30AM 21 Apr 2024",
-        "EST_FIX_TIME": "2:30PM 21 Apr 2024",
-        "STREETS": "CLIFTON ST",
-        "SUBURBS": "BERSERKER"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.517423,
-          -23.385002
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA5454",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "8:30AM 21 Apr 2024",
-        "EST_FIX_TIME": "2:30PM 21 Apr 2024",
-        "STREETS": "EAST LANE",
-        "SUBURBS": "ROCKHAMPTON CITY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.742093,
-          -16.943745
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN3293",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "5",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "8:30AM 21 Apr 2024",
-        "EST_FIX_TIME": "2:30PM 21 Apr 2024",
-        "STREETS": "ISHMAEL RD",
-        "SUBURBS": "EARLVILLE"
       }
     },
     {
@@ -217,6 +133,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.887469,
+          -21.108033
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2958",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "106",
+        "REASON": "The loss of supply is to remove vegetation growing near powerlines",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 21 Apr 2024",
+        "EST_FIX_TIME": "12:00PM 21 Apr 2024",
+        "STREETS": "BATHORN DR, CAMILLERIS RD, DEVEREUX CREEK RD, DEVILS POOL RD, GROUP RD, SMITH CROSS RD, VEZZOLIS RD",
+        "SUBURBS": "DEVEREUX CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.728963,
           -21.198159
         ]
@@ -247,11 +184,53 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "84",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 21 Apr 2024",
         "EST_FIX_TIME": "2:30PM 21 Apr 2024",
         "STREETS": "ALFRED ST, NELSON ST, SHAKESPEARE ST, WELLINGTON ST",
         "SUBURBS": "MACKAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.593565,
+          -20.705943
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3390",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "35",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 21 Apr 2024",
+        "EST_FIX_TIME": "3:00PM 21 Apr 2024",
+        "STREETS": "BLOOMSBURY BACK RD, BRUCE HWY, DON HAUSKNECHT RD, DOUGHERTYS RD, MIDGE POINT RD, O'DONNELLS RD",
+        "SUBURBS": "BLOOMSBURY, MIDGE POINT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.588691,
+          -20.714068
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3391",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 21 Apr 2024",
+        "EST_FIX_TIME": "3:00PM 21 Apr 2024",
+        "STREETS": "DOUGHERTYS RD, FORBES RD",
+        "SUBURBS": "BLOOMSBURY"
       }
     },
     {
@@ -336,48 +315,6 @@
         "EST_FIX_TIME": "2:00PM 21 Apr 2024",
         "STREETS": "SOUTH ST",
         "SUBURBS": "TOOWOOMBA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          147.309381,
-          -28.070908
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW6894",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "197",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "8:30AM 21 Apr 2024",
-        "EST_FIX_TIME": "1:30PM 21 Apr 2024",
-        "STREETS": "ABBIEGLASSIE-BOATMAN RD, BALONE HWY, BALONNE HWY, BELMORE ST, BOLLON DIRRANBANDI RD, BOLLON RD, CARDIFF RD, CASHEL VALE RD, CORACK RD, DIRRANBANDI-BOLLON RD, DUNBAR RD, FERNLEE RD, GEORGE ST, HOMEBOIN-ST GEORGE RD, JANE ST, JHELUM PLAINS RD, KULKI RD, LOOP RD, MAIN ST, MARY ST, MITCHELL BOLLON RD, MULGA DOWNS RD, MUNDA MUNDA RD, MURRA MURRA RD, NORTH KULKI RD, RUNNYMEDE RD, SHIRLO RD, SUNSET VALLEY RD, TAMBINGEY RD, UNKNOWN RD, WALLAM ST, WILLIAM ST, WOOLERINA RD",
-        "SUBURBS": "BARGUNYAH, BELINGARA, BOLLON, CUNNAMULLA, DIRRANBANDI, MITCHELL, ST GEORGE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.207213,
-          -26.542554
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW6976",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "721",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "8:30AM 21 Apr 2024",
-        "EST_FIX_TIME": "12:30PM 21 Apr 2024",
-        "STREETS": "BANKS ST, BARDLOMEY RD, BARNARD RD, BASS ST, BEDWELL ST, BEVERLEY RD, BINDAROO RD, BISHOPS LANE, BLUE HILLS RD, BLUEHILLS RD, BLYTHDALE NORTH RD, BOWENS LANE, BOX GULLY RD, BURKE ST, BURTONS RD, CAMELOT RD, CATTLE CREEK RD, CHADFORD RD, CHADFORD ST, CLELAND'S RD, COLLEGE ST, COOK ST, COTTAGE CREEK RD, CREEK ST, DAISYBANK RD, DRURY ST, EAST ST, EMERYS RD, FLINDERS ST, FORESTRY RD, FREEMANS RD, GARDEN ST, GEORGE ST, GERHARDTS LANE, HIGH ST, HILL ST, HILLVIEW RD, HOUSTON RD, IONA RD, JENKINSEN RD, KANGAROO CREEK RD, KIMBLER RD, LAMEN LANE, LANDSBOROUGH ST, LUCKONA RD, MASCOTTE RD, MASSON LANE, MAY ST, MAYFIELD RD, MCLENNANS RD, MICROWAVE RD, MOONGOOL RD, MOUNT SALTBUSH RD, MOUNTAIN RD, MT EVERDALE RD, MT HOPE RD, MT LEIGH RD, MT SALTBUSH RD, MUGGINS RD, MUNDALYA RD, MYALL LANE, NUGENTS RD, OLD WARREGO HWY, PERRY ST, PICKANJINNIE NORTH RD, PINE HILLS RD, RASLIE RD, RUSSELL ST, SCATTERING PLAINS RD, SCOTT ST, SCOTTS RD, SEAWRIGHTS RD, SHORT ST, SILVER VALLEY RD, SIX MILE LANE, STAKE YARD RD, STEPHENSON ST, SUGARLOAF RD, SUNNYSIDE RD, SURAT RD, SWANS RD, TASMAN ST, THOMBY RD, TOEHOLD LANE, TRAFFORD PARK RD, TWINE ST, UN-NAMED RD, UNKNOWN RD, WALLABELLA RD, WALLUMBILLA NORTH RD, WALLUMBILLA SOUTH RD, WAROOBY LANE, WARREGO HWY, WASHPOOL RD, WATTANOOKA RD, WEST ST, WILLS ST, YARRAWONGA RD, YULEBA NORTH RD, YULEBA-SURAT RD, YULEBA-TAROOM RD",
-        "SUBURBS": "BLYTHDALE, JACKSON, PICKANJINNIE, ROMA, SURAT, TINGUN, WALLUMBILLA, WALLUMBILLA NORTH, WALLUMBILLA SOUTH, YULEBA"
       }
     },
     {
@@ -509,5 +446,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713651602.326545"
+  "extracted": "1713652209.659275"
 }
