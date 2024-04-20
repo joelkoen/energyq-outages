@@ -195,9 +195,82 @@
         "STREETS": "CORAL CT, DUMFRIES CT, KERTES RD, MALTRY ST, WILSON DR",
         "SUBURBS": "CAMIRA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.218506,
+              -27.522187
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.216535,
+                  -27.523423
+                ],
+                [
+                  153.216585,
+                  -27.523432
+                ],
+                [
+                  153.216752,
+                  -27.523437
+                ],
+                [
+                  153.220377,
+                  -27.522998
+                ],
+                [
+                  153.220807,
+                  -27.522633
+                ],
+                [
+                  153.220552,
+                  -27.522155
+                ],
+                [
+                  153.218052,
+                  -27.520936
+                ],
+                [
+                  153.217382,
+                  -27.52109
+                ],
+                [
+                  153.216206,
+                  -27.522738
+                ],
+                [
+                  153.216535,
+                  -27.523423
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755543-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "52",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "3:42AM 21 Apr 2024",
+        "EST_FIX_TIME": "6:00AM 21 Apr 2024",
+        "STREETS": "FINUCANE RD, ST ANTHONY DR, WINDEMERE RD",
+        "SUBURBS": "ALEXANDRA HILLS"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713634801.549392"
+  "extracted": "1713635104.404954"
 }
