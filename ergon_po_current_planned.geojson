@@ -16,7 +16,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "28",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 21 Apr 2024",
         "EST_FIX_TIME": "10:30AM 21 Apr 2024",
         "STREETS": "DENNING ST, HARWOOD ST, YAAMBA RD",
@@ -280,6 +280,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          147.405354,
+          -19.579749
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5572",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "49",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 21 Apr 2024",
+        "EST_FIX_TIME": "2:00PM 21 Apr 2024",
+        "STREETS": "MACKENZIE ST, MACMILLAN ST, QUEEN ST, WICKHAM ST, YOUNG ST",
+        "SUBURBS": "AYR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.917005,
           -27.572925
         ]
@@ -457,7 +478,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "6",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 21 Apr 2024",
         "EST_FIX_TIME": "1:00PM 21 Apr 2024",
         "STREETS": "BRIGHT ST, BRUCE HWY",
@@ -467,5 +488,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713650709.346882"
+  "extracted": "1713651008.052591"
 }
