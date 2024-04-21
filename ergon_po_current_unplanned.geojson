@@ -426,9 +426,150 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.36666,
+              -24.910266
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.364782,
+                  -24.91226
+                ],
+                [
+                  152.365389,
+                  -24.912279
+                ],
+                [
+                  152.365545,
+                  -24.912261
+                ],
+                [
+                  152.366275,
+                  -24.912066
+                ],
+                [
+                  152.366317,
+                  -24.912052
+                ],
+                [
+                  152.368045,
+                  -24.911429
+                ],
+                [
+                  152.36811,
+                  -24.911401
+                ],
+                [
+                  152.36862,
+                  -24.911133
+                ],
+                [
+                  152.36886,
+                  -24.910822
+                ],
+                [
+                  152.369007,
+                  -24.910063
+                ],
+                [
+                  152.368979,
+                  -24.909819
+                ],
+                [
+                  152.368749,
+                  -24.909291
+                ],
+                [
+                  152.36871,
+                  -24.90922
+                ],
+                [
+                  152.368547,
+                  -24.908981
+                ],
+                [
+                  152.368545,
+                  -24.908978
+                ],
+                [
+                  152.368277,
+                  -24.90859
+                ],
+                [
+                  152.368275,
+                  -24.908587
+                ],
+                [
+                  152.36815,
+                  -24.90841
+                ],
+                [
+                  152.367508,
+                  -24.908254
+                ],
+                [
+                  152.366175,
+                  -24.908884
+                ],
+                [
+                  152.366148,
+                  -24.908897
+                ],
+                [
+                  152.365558,
+                  -24.90922
+                ],
+                [
+                  152.365387,
+                  -24.909378
+                ],
+                [
+                  152.364549,
+                  -24.910678
+                ],
+                [
+                  152.364488,
+                  -24.910828
+                ],
+                [
+                  152.364313,
+                  -24.911732
+                ],
+                [
+                  152.364782,
+                  -24.91226
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5110",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "93",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:01PM 21 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BROADMEADOW AVE, DAWN PDE, PARADISE AVE, THOMAS THOMSEN DR",
+        "SUBURBS": "BUNDABERG, THABEBAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713690903.691447"
+  "extracted": "1713691201.517971"
 }
