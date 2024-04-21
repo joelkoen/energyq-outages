@@ -267,7 +267,7 @@
         "REASON": "Under Investigation",
         "STATUS": "In Progress",
         "START": "12:16AM 22 Apr 2024",
-        "EST_FIX_TIME": "2:30AM 22 Apr 2024",
+        "EST_FIX_TIME": "3:30AM 22 Apr 2024",
         "STREETS": "BARWOOD CT, MAGPIE ST, WINDSOR RD",
         "SUBURBS": "BURNSIDE, NAMBOUR"
       }
@@ -585,9 +585,94 @@
         "STREETS": "ALBION ST, ANNIE ST, ATHERTON ST, BATES CT, BIGGS ST, CAMBERWELL ST, CAMBRIDGE ST, CASTLEMAINE ST, CASWELL ST, CHORLTON ST, DESHON ST, DIDSBURY ST, DIDSWITH ST, EDGAR ST, FLOWER ST, HOLDEN ST, KINGFISHER LANE, LEAMINGTON ST, LEONARD ST, LERNA ST, LINE ST, LISBURN ST, LOGAN RD, LONGLANDS ST, LUCINDA ST, MAYNARD ST, MOUNTJOY ST, NORMAN ST, PHIPPS ST, RAILWAY ST, STANLEY ST E, SWORD ST, TURBO DR, VULTURE ST, WITHINGTON ST",
         "SUBURBS": "COORPAROO, EAST BRISBANE, WOOLLOONGABBA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.922624,
+              -26.76538
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.920113,
+                  -26.76704
+                ],
+                [
+                  152.924831,
+                  -26.766555
+                ],
+                [
+                  152.92527,
+                  -26.766178
+                ],
+                [
+                  152.925618,
+                  -26.764232
+                ],
+                [
+                  152.925013,
+                  -26.763719
+                ],
+                [
+                  152.922536,
+                  -26.764214
+                ],
+                [
+                  152.922453,
+                  -26.764237
+                ],
+                [
+                  152.921075,
+                  -26.764748
+                ],
+                [
+                  152.920929,
+                  -26.76483
+                ],
+                [
+                  152.920442,
+                  -26.765227
+                ],
+                [
+                  152.920354,
+                  -26.76532
+                ],
+                [
+                  152.91963,
+                  -26.76635
+                ],
+                [
+                  152.920113,
+                  -26.76704
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755732-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "2:21AM 22 Apr 2024",
+        "EST_FIX_TIME": "4:00AM 22 Apr 2024",
+        "STREETS": "JILLIAN RD, RATCLIFFE RD",
+        "SUBURBS": "DIAMOND VALLEY, MOOLOOLAH VALLEY"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713716701.225577"
+  "extracted": "1713717301.028988"
 }
