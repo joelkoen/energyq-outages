@@ -88,7 +88,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "41",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Work delayed - crews unable to continue",
+        "STATUS": "Crews working on-site",
         "START": "8:55PM 21 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "CAIN LANE, CARIGE RD, GLADSTONE MONTO RD, LAURENKAR RD, MERCER RD, MONTO RD, MOORE RD, RACECOURSE RD",
@@ -182,6 +182,59 @@
         "EST_FIX_TIME": null,
         "STREETS": "BANANA RD, CASTLE CREEK RD, HEINICKES RD, LEICHHARDT HWY, LETCHFORD RD, POPE'S RD, WATSONS RD",
         "SUBURBS": "THEODORE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.78217,
+              -24.461583
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.782662,
+                  -24.461567
+                ],
+                [
+                  151.782153,
+                  -24.461133
+                ],
+                [
+                  151.781679,
+                  -24.461598
+                ],
+                [
+                  151.782187,
+                  -24.462033
+                ],
+                [
+                  151.782662,
+                  -24.461567
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5914",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 22 Apr 2024",
+        "EST_FIX_TIME": "2:00PM 22 Apr 2024",
+        "STREETS": "GORGE RD",
+        "SUBURBS": "LOWMEAD"
       }
     },
     {
@@ -774,5 +827,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713739800.429161"
+  "extracted": "1713740100.423097"
 }
