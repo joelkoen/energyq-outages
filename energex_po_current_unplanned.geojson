@@ -94,9 +94,110 @@
         "STREETS": "IPSWICH RD, RANDOLPH ST, SHETTLESTON ST",
         "SUBURBS": "ROCKLEA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.972383,
+              -27.493541
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.970878,
+                  -27.493304
+                ],
+                [
+                  152.971039,
+                  -27.493866
+                ],
+                [
+                  152.97106,
+                  -27.493923
+                ],
+                [
+                  152.971261,
+                  -27.494365
+                ],
+                [
+                  152.971686,
+                  -27.494646
+                ],
+                [
+                  152.971979,
+                  -27.494669
+                ],
+                [
+                  152.972293,
+                  -27.494601
+                ],
+                [
+                  152.972841,
+                  -27.494294
+                ],
+                [
+                  152.972881,
+                  -27.494269
+                ],
+                [
+                  152.973887,
+                  -27.493573
+                ],
+                [
+                  152.973726,
+                  -27.492785
+                ],
+                [
+                  152.973461,
+                  -27.492713
+                ],
+                [
+                  152.973438,
+                  -27.492707
+                ],
+                [
+                  152.972138,
+                  -27.492413
+                ],
+                [
+                  152.971755,
+                  -27.492463
+                ],
+                [
+                  152.97111,
+                  -27.492804
+                ],
+                [
+                  152.970878,
+                  -27.493304
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755741-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "120",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:00AM 22 Apr 2024",
+        "EST_FIX_TIME": "9:30AM 22 Apr 2024",
+        "STREETS": "PAYNE ST, STANLEY ST, WAVERLEY RD, WOOLLEY ST",
+        "SUBURBS": "INDOOROOPILLY, TARINGA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713736500.46651"
+  "extracted": "1713737101.535311"
 }
