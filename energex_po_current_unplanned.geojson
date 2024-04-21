@@ -78,9 +78,94 @@
         "STREETS": "COOEEIMBARDI RD, ESK KILCOY RD",
         "SUBURBS": "CABOONBAH, COOEEIMBARDI"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.007678,
+              -26.688689
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.991213,
+                  -26.683506
+                ],
+                [
+                  153.01026,
+                  -26.699817
+                ],
+                [
+                  153.010777,
+                  -26.699915
+                ],
+                [
+                  153.023363,
+                  -26.695855
+                ],
+                [
+                  153.023689,
+                  -26.695503
+                ],
+                [
+                  153.024139,
+                  -26.693032
+                ],
+                [
+                  153.024144,
+                  -26.69292
+                ],
+                [
+                  153.024137,
+                  -26.692855
+                ],
+                [
+                  153.023962,
+                  -26.692551
+                ],
+                [
+                  153.004289,
+                  -26.677526
+                ],
+                [
+                  153.003747,
+                  -26.677463
+                ],
+                [
+                  152.991343,
+                  -26.682771
+                ],
+                [
+                  152.991213,
+                  -26.683506
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755617-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "220",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "4:17PM 21 Apr 2024",
+        "EST_FIX_TIME": "7:00PM 21 Apr 2024",
+        "STREETS": "ARMSTRONG CT, BRUCE HWY, CHEVALLUM RD, HERITAGE PL, LEAFY LANE, LIANA PL, MONS RD, OWEN CREEK RD, RAINFOREST RD, SANDALWOOD LANE, SAWREYS RD, SUNRIDGE FARM RD, WINSTON RD",
+        "SUBURBS": "CHEVALLUM, FOREST GLEN, MONS, PALMWOODS, WOOMBYE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713680103.507219"
+  "extracted": "1713680401.298277"
 }
