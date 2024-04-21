@@ -163,9 +163,142 @@
         "STREETS": "ARMSTRONG CT, BRUCE HWY, CHEVALLUM RD, HERITAGE PL, LEAFY LANE, LIANA PL, MONS RD, OWEN CREEK RD, RAINFOREST RD, SANDALWOOD LANE, SAWREYS RD, SUNRIDGE FARM RD, WINSTON RD",
         "SUBURBS": "CHEVALLUM, FOREST GLEN, MONS, PALMWOODS, WOOMBYE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.08698,
+              -26.528836
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.084258,
+                  -26.527824
+                ],
+                [
+                  153.084449,
+                  -26.528096
+                ],
+                [
+                  153.084469,
+                  -26.528123
+                ],
+                [
+                  153.085023,
+                  -26.528801
+                ],
+                [
+                  153.085048,
+                  -26.528829
+                ],
+                [
+                  153.086827,
+                  -26.530686
+                ],
+                [
+                  153.08713,
+                  -26.530838
+                ],
+                [
+                  153.087658,
+                  -26.530911
+                ],
+                [
+                  153.087754,
+                  -26.530916
+                ],
+                [
+                  153.088216,
+                  -26.5309
+                ],
+                [
+                  153.088335,
+                  -26.530883
+                ],
+                [
+                  153.089232,
+                  -26.530651
+                ],
+                [
+                  153.089587,
+                  -26.530298
+                ],
+                [
+                  153.08978,
+                  -26.529352
+                ],
+                [
+                  153.089706,
+                  -26.529024
+                ],
+                [
+                  153.089558,
+                  -26.528821
+                ],
+                [
+                  153.089468,
+                  -26.528728
+                ],
+                [
+                  153.087837,
+                  -26.527447
+                ],
+                [
+                  153.087704,
+                  -26.527371
+                ],
+                [
+                  153.087242,
+                  -26.527195
+                ],
+                [
+                  153.087141,
+                  -26.527167
+                ],
+                [
+                  153.084795,
+                  -26.526756
+                ],
+                [
+                  153.084197,
+                  -26.527182
+                ],
+                [
+                  153.084181,
+                  -26.527566
+                ],
+                [
+                  153.084258,
+                  -26.527824
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755620-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "119",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "4:33PM 21 Apr 2024",
+        "EST_FIX_TIME": "6:30PM 21 Apr 2024",
+        "STREETS": "BANKSIA AVE, ELIZABETH ST, PERRY ST, RUSSELL ST, SEABREEZE AVE, SEASPRAY AVE, SUNRISE AVE",
+        "SUBURBS": "COOLUM BEACH"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713681300.97438"
+  "extracted": "1713681601.494113"
 }
