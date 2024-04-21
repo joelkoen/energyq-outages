@@ -126,9 +126,118 @@
         "STREETS": "BANTING ST, BOUNDARY RD, IPSWICH RD, RANDOLPH ST, REGINALD ST, SHETTLESTON ST",
         "SUBURBS": "ROCKLEA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.764967,
+              -26.965342
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.744568,
+                  -26.950552
+                ],
+                [
+                  152.751581,
+                  -26.981749
+                ],
+                [
+                  152.751693,
+                  -26.981954
+                ],
+                [
+                  152.752062,
+                  -26.982339
+                ],
+                [
+                  152.752382,
+                  -26.982493
+                ],
+                [
+                  152.76852,
+                  -26.984276
+                ],
+                [
+                  152.768711,
+                  -26.984265
+                ],
+                [
+                  152.77084,
+                  -26.983756
+                ],
+                [
+                  152.771058,
+                  -26.983647
+                ],
+                [
+                  152.782059,
+                  -26.974253
+                ],
+                [
+                  152.78213,
+                  -26.974179
+                ],
+                [
+                  152.785366,
+                  -26.969869
+                ],
+                [
+                  152.785352,
+                  -26.969348
+                ],
+                [
+                  152.77074,
+                  -26.951782
+                ],
+                [
+                  152.770641,
+                  -26.951692
+                ],
+                [
+                  152.762994,
+                  -26.946488
+                ],
+                [
+                  152.762577,
+                  -26.946408
+                ],
+                [
+                  152.74495,
+                  -26.950023
+                ],
+                [
+                  152.744568,
+                  -26.950552
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755743-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "390",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:33AM 22 Apr 2024",
+        "EST_FIX_TIME": "9:00AM 22 Apr 2024",
+        "STREETS": "ANTHOULLA AVE, CANANDO ST, COCHRAN ST, FARROW CL, FIDDLEWOOD CT, GUMTREE CT, HALDANE ST, HEATHER CT, IRONBARK DR, KAURI CT, KROPP RD, LANCEWOOD ST, MONTANUS DR, NEURUM RD, SCOTT LANE, SIPPEL DR, TILPAWAI RD, WALKER LANE, WESTWOOD AVE, YATES RD",
+        "SUBURBS": "WOODFORD"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713731403.748733"
+  "extracted": "1713731701.061976"
 }
