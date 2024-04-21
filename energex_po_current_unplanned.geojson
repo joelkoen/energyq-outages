@@ -118,9 +118,126 @@
         "STREETS": "BEN LEXCEN DR, BICENTENNIAL DR, COOYAR ST, CORONA ST, CULGOA ST, EDWARDS ST, EENIE CREEK RD, EUGARIE ST, HONEYSUCKLE LANE, MAINSAIL SQ, NAIRANA REST, NEBULA ST, OCEANIA CRES, PACIFIC AVE, RAY ST, SOLWAY DR, SUNSHINE BEACH RD, WEYBA ST",
         "SUBURBS": "NOOSA HEADS, SUNSHINE BEACH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.999341,
+              -27.561123
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.991976,
+                  -27.564364
+                ],
+                [
+                  152.998759,
+                  -27.565157
+                ],
+                [
+                  152.998871,
+                  -27.565159
+                ],
+                [
+                  152.999632,
+                  -27.565096
+                ],
+                [
+                  152.99976,
+                  -27.56507
+                ],
+                [
+                  153.003801,
+                  -27.563747
+                ],
+                [
+                  153.004063,
+                  -27.563553
+                ],
+                [
+                  153.007066,
+                  -27.559017
+                ],
+                [
+                  153.007074,
+                  -27.55857
+                ],
+                [
+                  153.006539,
+                  -27.557701
+                ],
+                [
+                  153.006362,
+                  -27.557534
+                ],
+                [
+                  153.005592,
+                  -27.557109
+                ],
+                [
+                  153.005103,
+                  -27.557086
+                ],
+                [
+                  152.996576,
+                  -27.56079
+                ],
+                [
+                  152.996554,
+                  -27.5608
+                ],
+                [
+                  152.994895,
+                  -27.561611
+                ],
+                [
+                  152.994888,
+                  -27.561614
+                ],
+                [
+                  152.992141,
+                  -27.563006
+                ],
+                [
+                  152.991958,
+                  -27.563165
+                ],
+                [
+                  152.991608,
+                  -27.563684
+                ],
+                [
+                  152.991976,
+                  -27.564364
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755738-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "111",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:12AM 22 Apr 2024",
+        "EST_FIX_TIME": "7:30AM 22 Apr 2024",
+        "STREETS": "BANTING ST, BOUNDARY RD, IPSWICH RD, RANDOLPH ST, REGINALD ST, SHETTLESTON ST",
+        "SUBURBS": "ROCKLEA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713726601.219223"
+  "extracted": "1713727201.440063"
 }
