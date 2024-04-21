@@ -1,8 +1,86 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.498238,
+              -27.129679
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.484311,
+                  -27.143
+                ],
+                [
+                  152.488607,
+                  -27.143855
+                ],
+                [
+                  152.488844,
+                  -27.143851
+                ],
+                [
+                  152.512261,
+                  -27.138346
+                ],
+                [
+                  152.512548,
+                  -27.137653
+                ],
+                [
+                  152.503939,
+                  -27.126491
+                ],
+                [
+                  152.503873,
+                  -27.126421
+                ],
+                [
+                  152.491143,
+                  -27.115504
+                ],
+                [
+                  152.4903,
+                  -27.115735
+                ],
+                [
+                  152.483928,
+                  -27.142465
+                ],
+                [
+                  152.484311,
+                  -27.143
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755589-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "12:07PM 21 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 21 Apr 2024",
+        "STREETS": "COOEEIMBARDI RD, ESK KILCOY RD",
+        "SUBURBS": "CABOONBAH, COOEEIMBARDI"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713665100.947216"
+  "extracted": "1713665401.279331"
 }
