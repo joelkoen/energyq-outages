@@ -602,9 +602,102 @@
         "STREETS": "ARDARA CT, AURORA LANE, AUTUMNFIELD AVE, BENJAMIN RD, BIGAL AVE, BIRON ST, BLOSSOM ST, BOBERMIEN RD, BRIGHT ST, BUXTON AVE, CARABEEN RD, CERULEAN PL, COOLRIDGE CCT, CULGOA CRES, DARNELL ST, DARRAU AVE, DAYBREAK ST, DEW ST, DOMES LANE, ELMER LANE, EVERGLADE ST, FIGWOOD CT, FLORENCE CT, FROG HOLLOW CT, GAYLE CT, GEOFF PHILP DR, GEORGINA DR, GRASSLANDS ST, GREENSTONE ST, HASTINGS CT, HIGHLANDS ST, HOTZ RD, JARDINE CT, JILLIAN CT, KATHERINE CT, KOORUHMAN CT, LADY ARDEE CCT, LAMBENT ST, LARIMAR AVE, MASON ST, MESA ST, MILBY ST, MOLLENHAGEN RD, MYERS ST, OLIVINE CCT, ORB ST, PEAK LANE, PEPPERINA DR, PINEHILL ST, PIONEER DR, POSSUM CT, RAILWAY PDE, RIDGEVIEW LANE, ROBIUS CT, SARAH CT, SEAWEST ST, SEPIA ST, SHILIN ST, SIENNA CCT, SKYBLUE CCT, SPRINGRISE PL, STOCKLEIGH RD, SUMMERVIEW AVE, TALLWOODS CCT, TEMPERA PL, TREELINE CCT, TREETOPS ST, VANTAGE LANE, VERDI ST, WATERFORD TAMBORINE RD, WATERFORD-TAMBORINE RD, WENLOCK CT, WILDFLOWER ST, WINTERPEAK CL, YARRABILBA DR",
         "SUBURBS": "LOGAN VILLAGE, STOCKLEIGH, YARRABILBA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.998268,
+              -27.98567
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.996655,
+                  -27.984383
+                ],
+                [
+                  152.997539,
+                  -27.988073
+                ],
+                [
+                  152.997911,
+                  -27.988417
+                ],
+                [
+                  152.998495,
+                  -27.988549
+                ],
+                [
+                  152.999107,
+                  -27.988241
+                ],
+                [
+                  152.999712,
+                  -27.986449
+                ],
+                [
+                  152.999732,
+                  -27.986346
+                ],
+                [
+                  152.999891,
+                  -27.983976
+                ],
+                [
+                  152.999709,
+                  -27.983602
+                ],
+                [
+                  152.999398,
+                  -27.983372
+                ],
+                [
+                  152.999218,
+                  -27.983286
+                ],
+                [
+                  152.997356,
+                  -27.982791
+                ],
+                [
+                  152.996702,
+                  -27.983201
+                ],
+                [
+                  152.996645,
+                  -27.984268
+                ],
+                [
+                  152.996655,
+                  -27.984383
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755634-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "69",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:36PM 21 Apr 2024",
+        "EST_FIX_TIME": "7:30PM 21 Apr 2024",
+        "STREETS": "ANNA ST, EAGLESFIELD ST, MONTAGUE ST, SELWYN ST",
+        "SUBURBS": "BEAUDESERT"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713684901.027266"
+  "extracted": "1713685201.163284"
 }
