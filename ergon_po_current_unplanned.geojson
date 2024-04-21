@@ -10,6 +10,99 @@
           {
             "type": "Point",
             "coordinates": [
+              151.176073,
+              -24.093939
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.152295,
+                  -24.114615
+                ],
+                [
+                  151.161478,
+                  -24.12082
+                ],
+                [
+                  151.161696,
+                  -24.120903
+                ],
+                [
+                  151.1795,
+                  -24.123375
+                ],
+                [
+                  151.180038,
+                  -24.123073
+                ],
+                [
+                  151.200644,
+                  -24.066858
+                ],
+                [
+                  151.200233,
+                  -24.066266
+                ],
+                [
+                  151.186174,
+                  -24.064821
+                ],
+                [
+                  151.186125,
+                  -24.064818
+                ],
+                [
+                  151.158321,
+                  -24.064503
+                ],
+                [
+                  151.158055,
+                  -24.064572
+                ],
+                [
+                  151.151733,
+                  -24.068197
+                ],
+                [
+                  151.151502,
+                  -24.068584
+                ],
+                [
+                  151.152095,
+                  -24.114257
+                ],
+                [
+                  151.152295,
+                  -24.114615
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5910",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "41",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:55PM 21 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CAIN LANE, CARIGE RD, GLADSTONE MONTO RD, LAURENKAR RD, MERCER RD, MONTO RD, MOORE RD, RACECOURSE RD",
+        "SUBURBS": "CALLIOPE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -329,5 +422,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713698401.218712"
+  "extracted": "1713698703.514016"
 }
