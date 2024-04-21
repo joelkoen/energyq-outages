@@ -176,7 +176,7 @@
         "EVENT_ID": "24CA5913",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "20",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
         "STATUS": "Crews working on-site",
         "START": "6:27AM 22 Apr 2024",
         "EST_FIX_TIME": null,
@@ -715,6 +715,71 @@
           {
             "type": "Point",
             "coordinates": [
+              151.912585,
+              -27.742575
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.907883,
+                  -27.743352
+                ],
+                [
+                  151.911363,
+                  -27.745428
+                ],
+                [
+                  151.912013,
+                  -27.745364
+                ],
+                [
+                  151.917232,
+                  -27.740453
+                ],
+                [
+                  151.917287,
+                  -27.739897
+                ],
+                [
+                  151.916691,
+                  -27.739722
+                ],
+                [
+                  151.907991,
+                  -27.742555
+                ],
+                [
+                  151.907883,
+                  -27.743352
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7991",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:01AM 22 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "GREENMOUNT-ETONVALE RD, MCNALLY RD",
+        "SUBURBS": "GREENMOUNT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.704204,
               -24.799842
             ]
@@ -835,5 +900,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713741900.546339"
+  "extracted": "1713742201.934716"
 }
