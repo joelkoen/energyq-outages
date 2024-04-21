@@ -177,7 +177,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "20",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "6:27AM 22 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "BANANA RD, CASTLE CREEK RD, HEINICKES RD, LEICHHARDT HWY, LETCHFORD RD, POPE'S RD, WATSONS RD",
@@ -580,9 +580,86 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.745972,
+              -27.795621
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.727377,
+                  -27.783577
+                ],
+                [
+                  151.730089,
+                  -27.791611
+                ],
+                [
+                  151.73009,
+                  -27.791613
+                ],
+                [
+                  151.735736,
+                  -27.807979
+                ],
+                [
+                  151.73646,
+                  -27.808243
+                ],
+                [
+                  151.75977,
+                  -27.797082
+                ],
+                [
+                  151.76001,
+                  -27.79683
+                ],
+                [
+                  151.764567,
+                  -27.784787
+                ],
+                [
+                  151.764106,
+                  -27.784194
+                ],
+                [
+                  151.727881,
+                  -27.782998
+                ],
+                [
+                  151.727377,
+                  -27.783577
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7980",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:15AM 22 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRYCE RD, COOPERS RD, HAYDEN RD, PITTSWORTH-FELTON RD, TOOWOOMBA-KARARA RD",
+        "SUBURBS": "FELTON, FELTON EAST"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713731700.529023"
+  "extracted": "1713732002.012422"
 }
