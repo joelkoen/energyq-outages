@@ -707,6 +707,91 @@
           {
             "type": "Point",
             "coordinates": [
+              148.850254,
+              -26.022746
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.787179,
+                  -26.048599
+                ],
+                [
+                  148.839661,
+                  -26.065754
+                ],
+                [
+                  148.839779,
+                  -26.065779
+                ],
+                [
+                  148.886075,
+                  -26.070095
+                ],
+                [
+                  148.886155,
+                  -26.070097
+                ],
+                [
+                  148.900882,
+                  -26.069323
+                ],
+                [
+                  148.901348,
+                  -26.068934
+                ],
+                [
+                  148.913489,
+                  -25.989077
+                ],
+                [
+                  148.913189,
+                  -25.9886
+                ],
+                [
+                  148.878702,
+                  -25.975395
+                ],
+                [
+                  148.878178,
+                  -25.975471
+                ],
+                [
+                  148.787019,
+                  -26.047836
+                ],
+                [
+                  148.787179,
+                  -26.048599
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7981",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 22 Apr 2024",
+        "EST_FIX_TIME": "3:00PM 22 Apr 2024",
+        "STREETS": "DUCK CREEK RD, MYALL DOWNS RD",
+        "SUBURBS": "INJUNE, ROMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.704204,
               -24.799842
             ]
@@ -827,5 +912,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713740100.423097"
+  "extracted": "1713740404.615456"
 }
