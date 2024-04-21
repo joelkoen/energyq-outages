@@ -247,7 +247,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "4",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 22 Apr 2024",
         "EST_FIX_TIME": "2:30PM 22 Apr 2024",
         "STREETS": "FARRELL DR, FERRARIS RD",
@@ -448,6 +448,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.90266,
+          -25.667444
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4081",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "54",
+        "REASON": "The loss of supply is to remove vegetation growing near powerlines",
+        "STATUS": "Crews working on-site",
+        "START": "8:20AM 22 Apr 2024",
+        "EST_FIX_TIME": "12:00PM 22 Apr 2024",
+        "STREETS": "ADAIR ST, DAVIES RD, DEACON LANE, ESPLANADE, LEVINGE LANE, ROBERTSON ST, SCRIMSHAW PL",
+        "SUBURBS": "BOONOOROO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.909171,
           -26.580129
         ]
@@ -530,5 +551,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713738000.531362"
+  "extracted": "1713738300.688587"
 }
