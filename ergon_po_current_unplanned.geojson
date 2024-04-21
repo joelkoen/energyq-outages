@@ -301,9 +301,110 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.236507,
+              -28.570637
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.234984,
+                  -28.573225
+                ],
+                [
+                  148.235761,
+                  -28.5742
+                ],
+                [
+                  148.23614,
+                  -28.57439
+                ],
+                [
+                  148.237248,
+                  -28.574464
+                ],
+                [
+                  148.237797,
+                  -28.574041
+                ],
+                [
+                  148.237899,
+                  -28.572519
+                ],
+                [
+                  148.2379,
+                  -28.572512
+                ],
+                [
+                  148.238121,
+                  -28.568054
+                ],
+                [
+                  148.237895,
+                  -28.56766
+                ],
+                [
+                  148.236465,
+                  -28.566811
+                ],
+                [
+                  148.235678,
+                  -28.5671
+                ],
+                [
+                  148.235479,
+                  -28.568008
+                ],
+                [
+                  148.235473,
+                  -28.568046
+                ],
+                [
+                  148.235343,
+                  -28.569126
+                ],
+                [
+                  148.235343,
+                  -28.569127
+                ],
+                [
+                  148.234894,
+                  -28.572918
+                ],
+                [
+                  148.234984,
+                  -28.573225
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7965",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:45AM 21 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CHARLES ST, HORACE ST, IDA ST, ST GEORGE RIVER RD",
+        "SUBURBS": "DIRRANBANDI"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713667801.723123"
+  "extracted": "1713668101.264206"
 }
