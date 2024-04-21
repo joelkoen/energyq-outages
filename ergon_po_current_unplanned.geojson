@@ -455,6 +455,67 @@
           {
             "type": "Point",
             "coordinates": [
+              147.238033,
+              -19.841639
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.238566,
+                  -19.842859
+                ],
+                [
+                  147.238455,
+                  -19.840381
+                ],
+                [
+                  147.237957,
+                  -19.839948
+                ],
+                [
+                  147.237501,
+                  -19.840419
+                ],
+                [
+                  147.237612,
+                  -19.842897
+                ],
+                [
+                  147.238109,
+                  -19.843329
+                ],
+                [
+                  147.238566,
+                  -19.842859
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7688",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "7:58AM 22 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "KIRKNIE RD, STEVENS RD",
+        "SUBURBS": "HOME HILL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -713,5 +774,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713738300.688587"
+  "extracted": "1713738900.647877"
 }
