@@ -173,7 +173,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "20",
         "REASON": "The loss of supply is due to fallen power lines.  ",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "1:21PM 22 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "ISISFORD-ARRILALAH RD, ISISFORD-JUNDAH RD, L'REACH-STONEHENGE RD, OFF JUNDAH RD",
@@ -267,87 +267,6 @@
         "EST_FIX_TIME": "12:00PM 26 Apr 2024",
         "STREETS": "AIRSTRIP ST, BASKETBALL COURT ST, DANIEL ST, MAIN ST, MAP ST, UNKNOWN ST, WARRIA ST",
         "SUBURBS": "MABUIAG ISLAND"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              143.762824,
-              -9.594694
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  143.756536,
-                  -9.590487
-                ],
-                [
-                  143.758037,
-                  -9.5946
-                ],
-                [
-                  143.758109,
-                  -9.594727
-                ],
-                [
-                  143.760244,
-                  -9.597393
-                ],
-                [
-                  143.760395,
-                  -9.597515
-                ],
-                [
-                  143.7642,
-                  -9.59943
-                ],
-                [
-                  143.764578,
-                  -9.599445
-                ],
-                [
-                  143.769056,
-                  -9.597625
-                ],
-                [
-                  143.769113,
-                  -9.596817
-                ],
-                [
-                  143.757192,
-                  -9.589943
-                ],
-                [
-                  143.756672,
-                  -9.589987
-                ],
-                [
-                  143.756536,
-                  -9.590487
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN5564",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "30",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
-        "START": "3:45PM 22 Apr 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "ERUB ISLAND RD, MEDIGEE VILLAGE, ROAD NO 1, ROAD NO 5, ROAD NO 6, SAADI VILLAGE, SCHOOL ST, UNKNOWN ST",
-        "SUBURBS": "DARNLEY ISLAND, ERUB ISLAND"
       }
     },
     {
@@ -750,5 +669,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713765001.361856"
+  "extracted": "1713765301.184125"
 }
