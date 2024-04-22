@@ -280,6 +280,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.226536,
+          -24.737013
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA4907",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "11:25AM 22 Apr 2024",
+        "EST_FIX_TIME": "1:00PM 22 Apr 2024",
+        "STREETS": "CRANA RD",
+        "SUBURBS": "MUNGUNGO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.273484,
           -24.723453
         ]
@@ -2947,27 +2968,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.733578,
-          -19.380518
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ6946",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "192",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:35AM 22 Apr 2024",
-        "EST_FIX_TIME": "12:30PM 22 Apr 2024",
-        "STREETS": "ALLUNGA ST, BARBARA ST, BENOWA ST, CHAMPAGNE CRES, FRAMARA DR, INGLONG ST, JINNA CT, KAWANA CT, KORO CT, KULGUN CRES, MUNBILLA DR, RITA CT, SAMANTHA ST, WONGA CT",
-        "SUBURBS": "KELSO"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           147.221691,
           -19.746865
         ]
@@ -4165,27 +4165,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.90266,
-          -25.667444
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB4081",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "54",
-        "REASON": "The loss of supply is to remove vegetation growing near powerlines",
-        "STATUS": "Crews working on-site",
-        "START": "8:20AM 22 Apr 2024",
-        "EST_FIX_TIME": "12:00PM 22 Apr 2024",
-        "STREETS": "ADAIR ST, DAVIES RD, DEACON LANE, ESPLANADE, LEVINGE LANE, ROBERTSON ST, SCRIMSHAW PL",
-        "SUBURBS": "BOONOOROO"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           151.909171,
           -26.580129
         ]
@@ -4457,5 +4436,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1713750000.625504"
+  "extracted": "1713750303.402874"
 }
