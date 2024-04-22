@@ -218,9 +218,126 @@
         "STREETS": "ABALONE AVE, ACALYPHA ST, ALLAMANDA ST, ASTER ST, AVONDALE RD, AZALEA ST, BAMBERRY ST, BARCELONA TCE, BASKET BEACH RD, BAYSWATER RD, BEAUMONT DR, BILAMBIL DR, BLAXLAND ST, BOEING RIDGE RD, BOWEN AVE, CALWOOD CRES, CAMELLIA ST, CANAIPA RIDGE RD, CARNATION CT, CASTLE WOOD CRES, CENTRE RD, COCO PALMS DR, COLEUS ST, CONDOR AVE, COOMBAH DR, COWDEROY DR, DAHLIA ST, DARLING ST, DARWALLAH AVE, DELMAR PDE, DICKENSON DR, DOUBLE ISLAND OLOOK, DUCAT DR, EUCALYPT ST, FENTON RD, FERNANDO RD, FLAMINGO ST, FLINDERS ST, FRANGIPANNI ST, GILCREST RD, GLENFIELD AVE, HACKING RIDGE RD, HEMP HILL RD, HIGHLAND RIDGE RD, HUME ST, ISLAND VIEW RD, KURRAJONG RD, LEICHHARDT TCE, LETITIA AVE, LITTLE COVE RD, LOFTUS CRES, MAGNOLIA ST, MAHER AVE, MAIN VIEW DR, MARTIN PL, MAYBROOK AVE, MONACO AVE, MURRAY CRES, OXLEY AVE, PALM BEACH RD, PENN ST, PETUNIA ST, POINSETTIA CT, RAMPART DR, RANORA AVE, ROSE BAY DR, SCENIC DR, SEAWARD DR, STOCK ST, STUART ST, TAHLIN DR, THE AVENUE, TOOLONA AVE, TREVANNA AVE, TULIP ST, WAHINE DR, WARATAH ST, WARRIE RD, WENTWORTH PDE, WOOMERA ST, ZINNIA ST",
         "SUBURBS": "RUSSELL ISLAND"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.977937,
+              -27.485376
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.971029,
+                  -27.488976
+                ],
+                [
+                  152.972271,
+                  -27.49006
+                ],
+                [
+                  152.972755,
+                  -27.490173
+                ],
+                [
+                  152.973513,
+                  -27.489994
+                ],
+                [
+                  152.97362,
+                  -27.489957
+                ],
+                [
+                  152.981225,
+                  -27.486363
+                ],
+                [
+                  152.981378,
+                  -27.486252
+                ],
+                [
+                  152.984853,
+                  -27.482523
+                ],
+                [
+                  152.98497,
+                  -27.482221
+                ],
+                [
+                  152.984948,
+                  -27.481543
+                ],
+                [
+                  152.984527,
+                  -27.481112
+                ],
+                [
+                  152.981022,
+                  -27.480579
+                ],
+                [
+                  152.98084,
+                  -27.480581
+                ],
+                [
+                  152.977157,
+                  -27.481229
+                ],
+                [
+                  152.976959,
+                  -27.481305
+                ],
+                [
+                  152.976613,
+                  -27.481526
+                ],
+                [
+                  152.976516,
+                  -27.481608
+                ],
+                [
+                  152.971455,
+                  -27.48716
+                ],
+                [
+                  152.971369,
+                  -27.487298
+                ],
+                [
+                  152.970904,
+                  -27.488507
+                ],
+                [
+                  152.971029,
+                  -27.488976
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755855-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "700",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "12:02PM 22 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 22 Apr 2024",
+        "STREETS": "BENT ST, BRIXTON ST, BYWONG ST, CAMP ST, CROSS ST, DARLEY ST, DEAN ST, DEMPSTER ST, DUKE ST, ELIZABETH ST, EXMOUTH ST, GOWER ST, HILLSDON RD, IVY ST, LODGE ST, MARKET ST, MISKIN ST, MOUNT ST, ORCHARD ST, PAISLEY ST, SOUDAN ST, STANLEY TCE, TERRACE ST, VERA ST, WARRAWEE ST, WILMAC ST, WOOL ST",
+        "SUBURBS": "TARINGA, TOOWONG"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713751202.405211"
+  "extracted": "1713751500.544466"
 }
