@@ -298,83 +298,6 @@
           {
             "type": "Point",
             "coordinates": [
-              151.930783,
-              -24.907229
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.884475,
-                  -24.921874
-                ],
-                [
-                  151.929023,
-                  -24.940148
-                ],
-                [
-                  151.929593,
-                  -24.940037
-                ],
-                [
-                  151.97738,
-                  -24.89134
-                ],
-                [
-                  151.977201,
-                  -24.890624
-                ],
-                [
-                  151.934237,
-                  -24.874336
-                ],
-                [
-                  151.933951,
-                  -24.874311
-                ],
-                [
-                  151.887768,
-                  -24.882792
-                ],
-                [
-                  151.887373,
-                  -24.883199
-                ],
-                [
-                  151.884186,
-                  -24.921429
-                ],
-                [
-                  151.884475,
-                  -24.921874
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB5113",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "22",
-        "REASON": "The loss of supply is due to a pole fire.",
-        "STATUS": "Crews working on-site",
-        "START": "7:10AM 22 Apr 2024",
-        "EST_FIX_TIME": "5:00PM 22 Apr 2024",
-        "STREETS": "BRUCE HWY, CROZIERS RD, GOSSNERS RD, HUNTERS RD, JENSENS RD, KOLAN FLATS RD, MAILMANS RD, MONDURAN RD",
-        "SUBURBS": "DAMASCUS, GIN GIN, MAROONDAN, MONDURAN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               152.671424,
               -25.513596
             ]
@@ -508,9 +431,102 @@
         "STREETS": "MARRINGTON CL, TAROMEO RISE",
         "SUBURBS": "TAROMEO"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.564207,
+              -26.075845
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.560934,
+                  -26.076436
+                ],
+                [
+                  152.562875,
+                  -26.078355
+                ],
+                [
+                  152.563355,
+                  -26.07849
+                ],
+                [
+                  152.565323,
+                  -26.078078
+                ],
+                [
+                  152.565586,
+                  -26.077936
+                ],
+                [
+                  152.567444,
+                  -26.076012
+                ],
+                [
+                  152.567528,
+                  -26.075543
+                ],
+                [
+                  152.566556,
+                  -26.073446
+                ],
+                [
+                  152.565919,
+                  -26.073199
+                ],
+                [
+                  152.56267,
+                  -26.07432
+                ],
+                [
+                  152.562654,
+                  -26.074326
+                ],
+                [
+                  152.561909,
+                  -26.07461
+                ],
+                [
+                  152.561685,
+                  -26.074778
+                ],
+                [
+                  152.560885,
+                  -26.075887
+                ],
+                [
+                  152.560934,
+                  -26.076436
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5137",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
+        "STATUS": "Outage reported",
+        "START": "1:45PM 22 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DAPHNE CRES, DONALD DR",
+        "SUBURBS": "CURRA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713767701.586801"
+  "extracted": "1713768001.659059"
 }
