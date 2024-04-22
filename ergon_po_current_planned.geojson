@@ -142,7 +142,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 23 Apr 2024",
         "EST_FIX_TIME": "3:30PM 23 Apr 2024",
         "STREETS": "SELMA RD",
@@ -1078,6 +1078,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.369914,
+          -25.050589
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB2854",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:15AM 23 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 23 Apr 2024",
+        "STREETS": "GOODWOOD RD",
+        "SUBURBS": "KINKUNA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.40301,
           -26.307292
         ]
@@ -1129,7 +1150,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "61",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 23 Apr 2024",
         "EST_FIX_TIME": "2:30PM 23 Apr 2024",
         "STREETS": "BOAT HARBOUR DR, MACBEL CT",
@@ -1202,5 +1223,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713823203.584501"
+  "extracted": "1713823501.004752"
 }
