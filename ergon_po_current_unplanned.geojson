@@ -382,9 +382,142 @@
         "STREETS": "BARTLEYS RD, CANNINGVALE RD, CUTMORES RD, DON BARTLEY RD, GIFFORDS RD, HERMITAGE-EMU VALE RD, HERMITAGE-EMUVALE RD, HOWARDS RD, JUNABEE RD, MURPHYS RD, ROONA RD, RYANS RD",
         "SUBURBS": "HERMITAGE, JUNABEE, SWAN CREEK, WARWICK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.363244,
+              -24.891662
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.361132,
+                  -24.893287
+                ],
+                [
+                  152.36187,
+                  -24.893056
+                ],
+                [
+                  152.361873,
+                  -24.893055
+                ],
+                [
+                  152.362204,
+                  -24.892949
+                ],
+                [
+                  152.362236,
+                  -24.892937
+                ],
+                [
+                  152.363999,
+                  -24.892246
+                ],
+                [
+                  152.364011,
+                  -24.892241
+                ],
+                [
+                  152.36551,
+                  -24.891609
+                ],
+                [
+                  152.365511,
+                  -24.891608
+                ],
+                [
+                  152.365746,
+                  -24.891509
+                ],
+                [
+                  152.366016,
+                  -24.890993
+                ],
+                [
+                  152.365874,
+                  -24.890471
+                ],
+                [
+                  152.365543,
+                  -24.89015
+                ],
+                [
+                  152.365221,
+                  -24.890058
+                ],
+                [
+                  152.365047,
+                  -24.890038
+                ],
+                [
+                  152.362546,
+                  -24.89016
+                ],
+                [
+                  152.362386,
+                  -24.890192
+                ],
+                [
+                  152.362089,
+                  -24.890302
+                ],
+                [
+                  152.36189,
+                  -24.890438
+                ],
+                [
+                  152.361102,
+                  -24.891335
+                ],
+                [
+                  152.361055,
+                  -24.891398
+                ],
+                [
+                  152.360534,
+                  -24.892257
+                ],
+                [
+                  152.360473,
+                  -24.892481
+                ],
+                [
+                  152.360479,
+                  -24.892867
+                ],
+                [
+                  152.361132,
+                  -24.893287
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5151",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "66",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:37AM 23 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AVENELL ST, BLAMEY ST, DUNN RD, HORT ST",
+        "SUBURBS": "AVENELL HEIGHTS"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713819900.45916"
+  "extracted": "1713820503.500241"
 }
