@@ -106,9 +106,106 @@
         "STREETS": "SUMMERHILL PL",
         "SUBURBS": "WOODHILL"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.99586,
+              -27.498159
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.994725,
+                  -27.496579
+                ],
+                [
+                  152.994729,
+                  -27.497438
+                ],
+                [
+                  152.994759,
+                  -27.497588
+                ],
+                [
+                  152.994918,
+                  -27.497981
+                ],
+                [
+                  152.994918,
+                  -27.497982
+                ],
+                [
+                  152.99542,
+                  -27.49922
+                ],
+                [
+                  152.995421,
+                  -27.499221
+                ],
+                [
+                  152.995742,
+                  -27.500008
+                ],
+                [
+                  152.996586,
+                  -27.500163
+                ],
+                [
+                  152.996779,
+                  -27.49998
+                ],
+                [
+                  152.996917,
+                  -27.499688
+                ],
+                [
+                  152.996996,
+                  -27.49788
+                ],
+                [
+                  152.996871,
+                  -27.497566
+                ],
+                [
+                  152.995612,
+                  -27.49628
+                ],
+                [
+                  152.995052,
+                  -27.496154
+                ],
+                [
+                  152.994725,
+                  -27.496579
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756104-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "34",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "8:12AM 23 Apr 2024",
+        "EST_FIX_TIME": "11:00AM 23 Apr 2024",
+        "STREETS": "CARMODY RD, GUILFOYLE ST, IRONSIDE ST",
+        "SUBURBS": "ST LUCIA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713823500.319029"
+  "extracted": "1713824103.290735"
 }
