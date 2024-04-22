@@ -1,8 +1,102 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.962085,
+              -27.26565
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.960035,
+                  -27.26473
+                ],
+                [
+                  152.960058,
+                  -27.266718
+                ],
+                [
+                  152.960061,
+                  -27.266764
+                ],
+                [
+                  152.960184,
+                  -27.267741
+                ],
+                [
+                  152.96034,
+                  -27.268019
+                ],
+                [
+                  152.960545,
+                  -27.268192
+                ],
+                [
+                  152.961092,
+                  -27.268278
+                ],
+                [
+                  152.963872,
+                  -27.267198
+                ],
+                [
+                  152.964135,
+                  -27.266607
+                ],
+                [
+                  152.962669,
+                  -27.263536
+                ],
+                [
+                  152.96231,
+                  -27.263271
+                ],
+                [
+                  152.96101,
+                  -27.263022
+                ],
+                [
+                  152.960414,
+                  -27.263351
+                ],
+                [
+                  152.960051,
+                  -27.264613
+                ],
+                [
+                  152.960035,
+                  -27.26473
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755874-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "77",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "12:55PM 22 Apr 2024",
+        "EST_FIX_TIME": "3:30PM 22 Apr 2024",
+        "STREETS": "D'AGUILAR ST, DAYBORO RD, HOPKINS ST, HUNTER CCT, KIRRI AVE, KURRUMBA DR, WARGON CT",
+        "SUBURBS": "PETRIE"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713754501.125184"
+  "extracted": "1713754804.391121"
 }
