@@ -553,9 +553,102 @@
         "STREETS": "BANDICOOT LANE, BANKSIA RD, BILBOROUGH CT, BOY-ULL RD, CANYON PDE, EE-JUNG RD, LYREBIRD RIDGE RD, MUNDORA RD, REPEATER STATION RD, SPRINGBROOK RD, WATTLE GR",
         "SUBURBS": "CURRUMBIN VALLEY, SPRINGBROOK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.029954,
+              -26.723787
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.026798,
+                  -26.725194
+                ],
+                [
+                  153.027545,
+                  -26.726196
+                ],
+                [
+                  153.028269,
+                  -26.726302
+                ],
+                [
+                  153.03199,
+                  -26.72373
+                ],
+                [
+                  153.032007,
+                  -26.723718
+                ],
+                [
+                  153.03316,
+                  -26.722847
+                ],
+                [
+                  153.033193,
+                  -26.722183
+                ],
+                [
+                  153.032678,
+                  -26.721719
+                ],
+                [
+                  153.032446,
+                  -26.7216
+                ],
+                [
+                  153.031012,
+                  -26.721271
+                ],
+                [
+                  153.030608,
+                  -26.721334
+                ],
+                [
+                  153.027032,
+                  -26.723486
+                ],
+                [
+                  153.026811,
+                  -26.723825
+                ],
+                [
+                  153.026715,
+                  -26.724907
+                ],
+                [
+                  153.026798,
+                  -26.725194
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755921-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "18",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "2:05PM 22 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 22 Apr 2024",
+        "STREETS": "WILSON RD",
+        "SUBURBS": "TANAWHA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713759000.459048"
+  "extracted": "1713759303.500705"
 }
