@@ -102,7 +102,7 @@
         "REASON": "Damage due to severe weather",
         "STATUS": "In Progress",
         "START": "1:00PM 22 Apr 2024",
-        "EST_FIX_TIME": "4:30PM 22 Apr 2024",
+        "EST_FIX_TIME": "6:00PM 22 Apr 2024",
         "STREETS": "ARCADIA DR, AVILKA PL, BARBARA CT, BEERWAH PDE, BELTON CT, BIONDI CRES, CHANTILLY CRES, CLARKES RD, COASTAL AVE, FLINDERS AVE, FOLEY RD, GREBER RD, GREENVIEW AVE, HARRY PL, HEIGHTS RD, JAMES CT, JOLLY CRES, KATHERINE ST, LITCHIE ST, MANGROVE ST, MATTHEW ST, MCDONALD CT, MELLUMVIEW DR, MILLER ST, MONTROSE ST, NEWELLS RD, NORTH ST, OLD GYMPIE RD, OLD LANDSBOROUGH RD, PACIFIC PL, PARKSIDE DR, PINE CAMP RD, ROYS RD, SIMPSON ST, STEVE IRWIN WAY, THOMPSON RD, TUDOR CT, USHER BVD",
         "SUBURBS": "BEERWAH, MOUNT MELLUM"
       }
@@ -438,9 +438,9 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "61",
         "REASON": "Under Investigation",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "1:07PM 22 Apr 2024",
-        "EST_FIX_TIME": "3:30PM 22 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 22 Apr 2024",
         "STREETS": "BEAUFORTIA CT, COLISA CRES, COPEINA CT, CYDONIA CT",
         "SUBURBS": "REGENTS PARK"
       }
@@ -562,8 +562,8 @@
           {
             "type": "Point",
             "coordinates": [
-              153.029954,
-              -26.723787
+              153.022761,
+              -26.730608
             ]
           },
           {
@@ -571,28 +571,44 @@
             "coordinates": [
               [
                 [
-                  153.026798,
-                  -26.725194
+                  153.011677,
+                  -26.734391
                 ],
                 [
-                  153.027545,
-                  -26.726196
+                  153.011702,
+                  -26.735277
                 ],
                 [
-                  153.028269,
-                  -26.726302
+                  153.012038,
+                  -26.735691
                 ],
                 [
-                  153.03199,
-                  -26.72373
+                  153.025538,
+                  -26.739958
                 ],
                 [
-                  153.032007,
-                  -26.723718
+                  153.025909,
+                  -26.739944
                 ],
                 [
-                  153.03316,
-                  -26.722847
+                  153.032865,
+                  -26.737173
+                ],
+                [
+                  153.033133,
+                  -26.736916
+                ],
+                [
+                  153.033814,
+                  -26.735251
+                ],
+                [
+                  153.033845,
+                  -26.735079
+                ],
+                [
+                  153.033339,
+                  -26.722485
                 ],
                 [
                   153.033193,
@@ -611,24 +627,24 @@
                   -26.721271
                 ],
                 [
-                  153.030608,
-                  -26.721334
+                  153.030853,
+                  -26.721258
                 ],
                 [
-                  153.027032,
-                  -26.723486
+                  153.0235,
+                  -26.721707
                 ],
                 [
-                  153.026811,
-                  -26.723825
+                  153.023148,
+                  -26.721869
                 ],
                 [
-                  153.026715,
-                  -26.724907
+                  153.011794,
+                  -26.73409
                 ],
                 [
-                  153.026798,
-                  -26.725194
+                  153.011677,
+                  -26.734391
                 ]
               ]
             ]
@@ -636,19 +652,136 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-755921-g",
+        "EVENT_ID": "INCD-755944-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "18",
+        "CUSTOMERS_AFFECTED": "43",
         "REASON": "Under Investigation",
         "STATUS": "Awaiting",
         "START": "2:05PM 22 Apr 2024",
-        "EST_FIX_TIME": "4:00PM 22 Apr 2024",
-        "STREETS": "WILSON RD",
-        "SUBURBS": "TANAWHA"
+        "EST_FIX_TIME": "5:30PM 22 Apr 2024",
+        "STREETS": "PALM CREEK RD, SIPPY CREEK RD, WILSON RD",
+        "SUBURBS": "ILKLEY, TANAWHA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.990297,
+              -27.893704
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.988228,
+                  -27.893558
+                ],
+                [
+                  152.98828,
+                  -27.893683
+                ],
+                [
+                  152.988529,
+                  -27.893931
+                ],
+                [
+                  152.988632,
+                  -27.893977
+                ],
+                [
+                  152.98869,
+                  -27.893999
+                ],
+                [
+                  152.988756,
+                  -27.894019
+                ],
+                [
+                  152.988791,
+                  -27.894029
+                ],
+                [
+                  152.991096,
+                  -27.894589
+                ],
+                [
+                  152.991568,
+                  -27.894491
+                ],
+                [
+                  152.991871,
+                  -27.89425
+                ],
+                [
+                  152.99191,
+                  -27.894216
+                ],
+                [
+                  152.992211,
+                  -27.893919
+                ],
+                [
+                  152.992244,
+                  -27.893882
+                ],
+                [
+                  152.992365,
+                  -27.893734
+                ],
+                [
+                  152.992262,
+                  -27.893111
+                ],
+                [
+                  152.992062,
+                  -27.892974
+                ],
+                [
+                  152.991765,
+                  -27.892882
+                ],
+                [
+                  152.988848,
+                  -27.892819
+                ],
+                [
+                  152.988454,
+                  -27.892973
+                ],
+                [
+                  152.988323,
+                  -27.893106
+                ],
+                [
+                  152.988228,
+                  -27.893558
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755950-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "21",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "2:49PM 22 Apr 2024",
+        "EST_FIX_TIME": "5:30PM 22 Apr 2024",
+        "STREETS": "BAMBOO DR, SUMMERHILL PL",
+        "SUBURBS": "WOODHILL"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713760800.411912"
+  "extracted": "1713761400.960953"
 }
