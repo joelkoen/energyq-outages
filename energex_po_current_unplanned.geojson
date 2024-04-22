@@ -106,9 +106,118 @@
         "STREETS": "SUMMERHILL PL",
         "SUBURBS": "WOODHILL"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.897601,
+              -26.734593
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.88387,
+                  -26.745617
+                ],
+                [
+                  152.886932,
+                  -26.748723
+                ],
+                [
+                  152.887054,
+                  -26.748813
+                ],
+                [
+                  152.887361,
+                  -26.748975
+                ],
+                [
+                  152.887518,
+                  -26.749028
+                ],
+                [
+                  152.891733,
+                  -26.749783
+                ],
+                [
+                  152.892031,
+                  -26.749754
+                ],
+                [
+                  152.905053,
+                  -26.744688
+                ],
+                [
+                  152.905155,
+                  -26.744634
+                ],
+                [
+                  152.910827,
+                  -26.740796
+                ],
+                [
+                  152.911027,
+                  -26.740447
+                ],
+                [
+                  152.911393,
+                  -26.727535
+                ],
+                [
+                  152.911309,
+                  -26.727273
+                ],
+                [
+                  152.906569,
+                  -26.720888
+                ],
+                [
+                  152.906266,
+                  -26.720699
+                ],
+                [
+                  152.90016,
+                  -26.719404
+                ],
+                [
+                  152.899606,
+                  -26.719624
+                ],
+                [
+                  152.883808,
+                  -26.745098
+                ],
+                [
+                  152.88387,
+                  -26.745617
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756069-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "87",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "12:51AM 23 Apr 2024",
+        "EST_FIX_TIME": "3:30AM 23 Apr 2024",
+        "STREETS": "BALMORAL RD, BENECKE RD, BROOKS RD, GERRARD RD, JOHNSONS RD, MALENY-MONTVILLE RD, UPPER LANDERSHUTE RD, UPPER RAMBERT RD",
+        "SUBURBS": "BALMORAL RIDGE, EUDLO, LANDERS SHOOT, MONTVILLE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713797401.349286"
+  "extracted": "1713797701.179808"
 }
