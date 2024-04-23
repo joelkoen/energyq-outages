@@ -332,9 +332,110 @@
         "STREETS": "LAXTON RD",
         "SUBURBS": "PALMVIEW"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.65348,
+              -26.286179
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.630626,
+                  -26.291896
+                ],
+                [
+                  152.64591,
+                  -26.301468
+                ],
+                [
+                  152.646173,
+                  -26.301549
+                ],
+                [
+                  152.675996,
+                  -26.302748
+                ],
+                [
+                  152.676516,
+                  -26.302243
+                ],
+                [
+                  152.672194,
+                  -26.270004
+                ],
+                [
+                  152.671638,
+                  -26.26961
+                ],
+                [
+                  152.6636,
+                  -26.270467
+                ],
+                [
+                  152.663413,
+                  -26.270521
+                ],
+                [
+                  152.634745,
+                  -26.285071
+                ],
+                [
+                  152.634631,
+                  -26.28515
+                ],
+                [
+                  152.633486,
+                  -26.286212
+                ],
+                [
+                  152.633421,
+                  -26.286288
+                ],
+                [
+                  152.63132,
+                  -26.289323
+                ],
+                [
+                  152.631277,
+                  -26.2894
+                ],
+                [
+                  152.630444,
+                  -26.291364
+                ],
+                [
+                  152.630626,
+                  -26.291896
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756149-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "82",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:09AM 23 Apr 2024",
+        "EST_FIX_TIME": "1:30PM 23 Apr 2024",
+        "STREETS": "BURGESS RD, CALICO CREEK RD, COLLINS RD, GILLDORA RD, LAGOON POCKET RD, MARY VALLEY RD, MCINTOSH CREEK RD, PALING RD, ROBINSON RD",
+        "SUBURBS": "CALICO CREEK, GILLDORA, LAGOON POCKET, LONG FLAT, MCINTOSH CREEK"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713834301.078769"
+  "extracted": "1713834600.257907"
 }
