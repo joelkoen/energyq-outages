@@ -211,9 +211,98 @@
         "STREETS": "CARRAMAR ST, GRAYSON ST, ISON ST, KITSON ST, LAWSON ST",
         "SUBURBS": "MORNINGSIDE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.122547,
+              -27.57477
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.121436,
+                  -27.575768
+                ],
+                [
+                  153.121583,
+                  -27.575793
+                ],
+                [
+                  153.121853,
+                  -27.575772
+                ],
+                [
+                  153.12228,
+                  -27.575632
+                ],
+                [
+                  153.122382,
+                  -27.575586
+                ],
+                [
+                  153.123802,
+                  -27.574759
+                ],
+                [
+                  153.124021,
+                  -27.574287
+                ],
+                [
+                  153.123606,
+                  -27.573935
+                ],
+                [
+                  153.122297,
+                  -27.573747
+                ],
+                [
+                  153.122006,
+                  -27.573782
+                ],
+                [
+                  153.121908,
+                  -27.573822
+                ],
+                [
+                  153.121661,
+                  -27.574037
+                ],
+                [
+                  153.121074,
+                  -27.575129
+                ],
+                [
+                  153.121436,
+                  -27.575768
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756267-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "29",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "9:09PM 23 Apr 2024",
+        "EST_FIX_TIME": "10:30PM 23 Apr 2024",
+        "STREETS": "ALTITUDE ST, ZENITH ST",
+        "SUBURBS": "ROCHEDALE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713870601.047506"
+  "extracted": "1713870904.267086"
 }
