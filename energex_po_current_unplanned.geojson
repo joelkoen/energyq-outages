@@ -1,8 +1,86 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.895039,
+              -26.600224
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.892387,
+                  -26.59827
+                ],
+                [
+                  152.894443,
+                  -26.601174
+                ],
+                [
+                  152.894519,
+                  -26.601257
+                ],
+                [
+                  152.896599,
+                  -26.603051
+                ],
+                [
+                  152.89742,
+                  -26.602875
+                ],
+                [
+                  152.89769,
+                  -26.602187
+                ],
+                [
+                  152.897613,
+                  -26.60176
+                ],
+                [
+                  152.89398,
+                  -26.597555
+                ],
+                [
+                  152.893447,
+                  -26.597397
+                ],
+                [
+                  152.892675,
+                  -26.597593
+                ],
+                [
+                  152.892387,
+                  -26.59827
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756346-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "5:17AM 24 Apr 2024",
+        "EST_FIX_TIME": "7:00AM 24 Apr 2024",
+        "STREETS": "KUREELPA FALLS RD",
+        "SUBURBS": "KUREELPA"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713901200.481307"
+  "extracted": "1713901503.253505"
 }
