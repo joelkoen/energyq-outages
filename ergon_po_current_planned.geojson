@@ -793,7 +793,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "105",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 24 Apr 2024",
         "EST_FIX_TIME": "1:00PM 24 Apr 2024",
         "STREETS": "CLEARWATER CT, GREENTREE CCT, SASSAFRAS CT, SEABROOK CCT",
@@ -819,6 +819,48 @@
         "EST_FIX_TIME": "4:00PM 24 Apr 2024",
         "STREETS": "CHUBB ST, POTTS ST",
         "SUBURBS": "BELGIAN GARDENS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.813489,
+          -19.262964
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6782",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:01AM 24 Apr 2024",
+        "EST_FIX_TIME": "3:00PM 24 Apr 2024",
+        "STREETS": "FLINDERS ST",
+        "SUBURBS": "TOWNSVILLE CITY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.812482,
+          -19.264749
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6820",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:02AM 24 Apr 2024",
+        "EST_FIX_TIME": "3:00PM 24 Apr 2024",
+        "STREETS": "FLINDERS ST",
+        "SUBURBS": "TOWNSVILLE CITY"
       }
     },
     {
@@ -1244,5 +1286,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713909604.824569"
+  "extracted": "1713909900.313375"
 }
