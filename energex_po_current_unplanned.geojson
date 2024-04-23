@@ -10,6 +10,107 @@
           {
             "type": "Point",
             "coordinates": [
+              152.782561,
+              -27.628539
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.778947,
+                  -27.629752
+                ],
+                [
+                  152.779285,
+                  -27.63111
+                ],
+                [
+                  152.779933,
+                  -27.631443
+                ],
+                [
+                  152.78541,
+                  -27.629888
+                ],
+                [
+                  152.785443,
+                  -27.629877
+                ],
+                [
+                  152.785995,
+                  -27.629682
+                ],
+                [
+                  152.786175,
+                  -27.628951
+                ],
+                [
+                  152.782954,
+                  -27.625929
+                ],
+                [
+                  152.782863,
+                  -27.625861
+                ],
+                [
+                  152.782576,
+                  -27.625695
+                ],
+                [
+                  152.782177,
+                  -27.625635
+                ],
+                [
+                  152.781383,
+                  -27.62581
+                ],
+                [
+                  152.781072,
+                  -27.626013
+                ],
+                [
+                  152.7794,
+                  -27.628452
+                ],
+                [
+                  152.779356,
+                  -27.628534
+                ],
+                [
+                  152.778965,
+                  -27.629501
+                ],
+                [
+                  152.778947,
+                  -27.629752
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756341-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "142",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "3:47AM 24 Apr 2024",
+        "EST_FIX_TIME": "10:00AM 24 Apr 2024",
+        "STREETS": "COOINDA ST, ROBERTSON RD, THORNTON ST, TRUDY ST",
+        "SUBURBS": "EASTERN HEIGHTS, RACEVIEW, SILKSTONE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.895039,
               -26.600224
             ]
@@ -247,5 +348,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713906601.138488"
+  "extracted": "1713906903.882676"
 }
