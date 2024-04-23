@@ -79,6 +79,155 @@
           {
             "type": "Point",
             "coordinates": [
+              151.236884,
+              -23.879481
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.2245,
+                  -23.883685
+                ],
+                [
+                  151.224962,
+                  -23.884687
+                ],
+                [
+                  151.225279,
+                  -23.884945
+                ],
+                [
+                  151.238012,
+                  -23.88828
+                ],
+                [
+                  151.238474,
+                  -23.888182
+                ],
+                [
+                  151.241117,
+                  -23.885996
+                ],
+                [
+                  151.24116,
+                  -23.885956
+                ],
+                [
+                  151.249166,
+                  -23.877449
+                ],
+                [
+                  151.249283,
+                  -23.877195
+                ],
+                [
+                  151.2493,
+                  -23.877022
+                ],
+                [
+                  151.249252,
+                  -23.876783
+                ],
+                [
+                  151.247594,
+                  -23.873664
+                ],
+                [
+                  151.247563,
+                  -23.873614
+                ],
+                [
+                  151.246614,
+                  -23.872289
+                ],
+                [
+                  151.246371,
+                  -23.872114
+                ],
+                [
+                  151.242087,
+                  -23.870689
+                ],
+                [
+                  151.241783,
+                  -23.870681
+                ],
+                [
+                  151.238684,
+                  -23.871518
+                ],
+                [
+                  151.238668,
+                  -23.871522
+                ],
+                [
+                  151.231139,
+                  -23.873809
+                ],
+                [
+                  151.23103,
+                  -23.873857
+                ],
+                [
+                  151.230601,
+                  -23.874107
+                ],
+                [
+                  151.230466,
+                  -23.874224
+                ],
+                [
+                  151.225594,
+                  -23.88045
+                ],
+                [
+                  151.225571,
+                  -23.880482
+                ],
+                [
+                  151.224825,
+                  -23.881632
+                ],
+                [
+                  151.224762,
+                  -23.88179
+                ],
+                [
+                  151.224467,
+                  -23.883436
+                ],
+                [
+                  151.2245,
+                  -23.883685
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5998",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1304",
+        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+        "STATUS": "Outage reported",
+        "START": "5:17PM 23 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALDER ST, ALEXIS CT, ANGIE CT, ATHOLL CT, BEAK ST, BEECH AVE, BIRCH CT, BROLGA AVE, BURSARIA CT, CASSIA CT, CEDRELA ST, CERI CT, CHANEL CT, CHARLOTTE CT, CLARANCE DR, COCKATOO DR, COLEUS ST, CORAL CT, CUPANIA CT, CURLEW DR, DANIEL DR, DAWSON HWY, ELLINGTON ST, EMMADALE DR, ERIN CL, GANNET ST, GEORGIA CT, GOSHAWK ST, GREVILLEA CRES, HARRIER AVE, HERON CT, HICKORY AVE, IRONBARK AVE, JACARANDA CT, JACKSON CT, JORDANA CT, KATHERINE CT, KATRINA BVD, KENNETH CT, LEONIE CT, LLANA CT, LOIS CT, LORIKEET AVE, LUSCOMBE CT, MAHOGANY CT, MELIA CT, MYRTLE CT, NORMA ST, OLSEN AVE, OREGON CT, PAPERBARK ST, PARSONS PL, PENDA AVE, POWELL CL, RADIATA ST, ROBERTSON CL, ROE O'NEILL DR, ROSEMOUNT PL, ROSEWOOD CT, SANDPIPER AVE, SARAH CT, SHARYN DR, SKUA ST, SUN VALLEY RD, TEAK ST, WALNUT ST, WARATAH ST, WATTLE ST, WICKS ST, WILLOW ST, WILSON ST, WOOLLYBUTT ST, YALDARA CT",
+        "SUBURBS": "GLADSTONE, KIN KORA, NEW AUCKLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -386,5 +535,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713857101.616549"
+  "extracted": "1713857405.406275"
 }
