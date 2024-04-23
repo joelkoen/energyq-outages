@@ -540,99 +540,6 @@
           {
             "type": "Point",
             "coordinates": [
-              152.111443,
-              -28.231871
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.080716,
-                  -28.235581
-                ],
-                [
-                  152.095038,
-                  -28.257814
-                ],
-                [
-                  152.095663,
-                  -28.258011
-                ],
-                [
-                  152.106213,
-                  -28.254407
-                ],
-                [
-                  152.106254,
-                  -28.254391
-                ],
-                [
-                  152.133526,
-                  -28.242534
-                ],
-                [
-                  152.133609,
-                  -28.242489
-                ],
-                [
-                  152.141984,
-                  -28.236884
-                ],
-                [
-                  152.142171,
-                  -28.236415
-                ],
-                [
-                  152.135561,
-                  -28.213019
-                ],
-                [
-                  152.135291,
-                  -28.212723
-                ],
-                [
-                  152.11909,
-                  -28.205731
-                ],
-                [
-                  152.118533,
-                  -28.205797
-                ],
-                [
-                  152.080823,
-                  -28.235019
-                ],
-                [
-                  152.080716,
-                  -28.235581
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW8023",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "38",
-        "REASON": "The loss of supply is due to fallen power lines.  ",
-        "STATUS": "Work delayed - crews unable to continue",
-        "START": "8:39PM 22 Apr 2024",
-        "EST_FIX_TIME": "3:00PM 23 Apr 2024",
-        "STREETS": "BARTLEYS RD, CANNINGVALE RD, CUTMORES RD, DON BARTLEY RD, GIFFORDS RD, HERMITAGE-EMU VALE RD, HERMITAGE-EMUVALE RD, HOWARDS RD, JUNABEE RD, MURPHYS RD, ROONA RD, RYANS RD",
-        "SUBURBS": "HERMITAGE, JUNABEE, SWAN CREEK, WARWICK"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               151.308131,
               -28.099609
             ]
@@ -717,9 +624,110 @@
         "STREETS": "EZZY RD, HAIN RD, KOOROONGARRA CEMETERY RD, KOOROONGARRA RD, MABBET RD, MILLWOOD RD, MOSQUITO CREEK RD, STAFFORD RD, STONEHENGE RD",
         "SUBURBS": "KOOROONGARRA, LEYBURN, MILLMERRAN, MILLWOOD, MOUNT EMLYN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.274913,
+              -27.855234
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.245683,
+                  -27.835764
+                ],
+                [
+                  151.268906,
+                  -27.882592
+                ],
+                [
+                  151.26901,
+                  -27.882728
+                ],
+                [
+                  151.271292,
+                  -27.884765
+                ],
+                [
+                  151.271908,
+                  -27.884836
+                ],
+                [
+                  151.287099,
+                  -27.876896
+                ],
+                [
+                  151.287308,
+                  -27.876685
+                ],
+                [
+                  151.304186,
+                  -27.841628
+                ],
+                [
+                  151.304142,
+                  -27.841201
+                ],
+                [
+                  151.296529,
+                  -27.831066
+                ],
+                [
+                  151.296232,
+                  -27.830879
+                ],
+                [
+                  151.272845,
+                  -27.825632
+                ],
+                [
+                  151.272536,
+                  -27.825649
+                ],
+                [
+                  151.245965,
+                  -27.834929
+                ],
+                [
+                  151.245643,
+                  -27.835342
+                ],
+                [
+                  151.24564,
+                  -27.835577
+                ],
+                [
+                  151.245683,
+                  -27.835764
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8056",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "224",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "1:00PM 23 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 23 Apr 2024",
+        "STREETS": "BRUCE RD, CAMPBELL ST, CHARLES ST, CHARLOTTE ST, COMMENS ST, DOOLEY RD, EDWARD ST, GOLF CLUB RD, GORE HWY, HERBERT ST, LINDENMAYERS RD, MARGARET ST, MARY ST, MILL RD, MILLMERRAN CECIL PLAINS RD, NARDOO ST, WALLACE RD, WALPOLE ST, WEAVER ST, WILLIAM ST",
+        "SUBURBS": "MILLMERRAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713841800.396746"
+  "extracted": "1713842101.480212"
 }
