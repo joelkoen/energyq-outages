@@ -624,9 +624,102 @@
         "STREETS": "BARTLEYS RD, CANNINGVALE RD, CUTMORES RD, DON BARTLEY RD, GIFFORDS RD, HERMITAGE-EMU VALE RD, HERMITAGE-EMUVALE RD, HOWARDS RD, JUNABEE RD, MURPHYS RD, ROONA RD, RYANS RD",
         "SUBURBS": "HERMITAGE, JUNABEE, SWAN CREEK, WARWICK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.308131,
+              -28.099609
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.222508,
+                  -28.045821
+                ],
+                [
+                  151.248577,
+                  -28.139583
+                ],
+                [
+                  151.248933,
+                  -28.139909
+                ],
+                [
+                  151.393111,
+                  -28.175501
+                ],
+                [
+                  151.393754,
+                  -28.175038
+                ],
+                [
+                  151.393352,
+                  -28.169494
+                ],
+                [
+                  151.393274,
+                  -28.169282
+                ],
+                [
+                  151.305498,
+                  -28.046477
+                ],
+                [
+                  151.305439,
+                  -28.04641
+                ],
+                [
+                  151.29689,
+                  -28.038319
+                ],
+                [
+                  151.296825,
+                  -28.038267
+                ],
+                [
+                  151.275061,
+                  -28.023764
+                ],
+                [
+                  151.27454,
+                  -28.023717
+                ],
+                [
+                  151.222785,
+                  -28.045305
+                ],
+                [
+                  151.222508,
+                  -28.045821
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8055",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "38",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:36PM 23 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "EZZY RD, HAIN RD, KOOROONGARRA CEMETERY RD, KOOROONGARRA RD, MABBET RD, MILLWOOD RD, MOSQUITO CREEK RD, STAFFORD RD, STONEHENGE RD",
+        "SUBURBS": "KOOROONGARRA, LEYBURN, MILLMERRAN, MILLWOOD, MOUNT EMLYN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713840001.606493"
+  "extracted": "1713840301.984095"
 }
