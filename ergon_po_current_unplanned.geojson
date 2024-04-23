@@ -370,9 +370,78 @@
         "STREETS": "BROADMERE RD, GLENHAUGHTON RD",
         "SUBURBS": "BROADMERE, TAROOM"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.420149,
+              -24.875367
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.419421,
+                  -24.875485
+                ],
+                [
+                  152.420311,
+                  -24.876037
+                ],
+                [
+                  152.420907,
+                  -24.876008
+                ],
+                [
+                  152.421036,
+                  -24.875476
+                ],
+                [
+                  152.420897,
+                  -24.875203
+                ],
+                [
+                  152.420635,
+                  -24.874975
+                ],
+                [
+                  152.419884,
+                  -24.874696
+                ],
+                [
+                  152.419263,
+                  -24.874901
+                ],
+                [
+                  152.419421,
+                  -24.875485
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5211",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:47AM 24 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ST JOHNS RD",
+        "SUBURBS": "BUNDABERG, WOONGARRA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713912900.605614"
+  "extracted": "1713913500.51871"
 }
