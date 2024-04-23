@@ -289,9 +289,90 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              149.489903,
+              -25.435061
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.362352,
+                  -25.35903
+                ],
+                [
+                  149.524675,
+                  -25.508936
+                ],
+                [
+                  149.525007,
+                  -25.50907
+                ],
+                [
+                  149.594254,
+                  -25.511845
+                ],
+                [
+                  149.594699,
+                  -25.511632
+                ],
+                [
+                  149.617532,
+                  -25.478039
+                ],
+                [
+                  149.617484,
+                  -25.477506
+                ],
+                [
+                  149.541157,
+                  -25.397976
+                ],
+                [
+                  149.5409,
+                  -25.397834
+                ],
+                [
+                  149.362825,
+                  -25.358276
+                ],
+                [
+                  149.362275,
+                  -25.358491
+                ],
+                [
+                  149.362352,
+                  -25.35903
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8058",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "18",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 24 Apr 2024",
+        "EST_FIX_TIME": "2:00PM 24 Apr 2024",
+        "STREETS": "BROADMERE RD, GLENHAUGHTON RD",
+        "SUBURBS": "BROADMERE, TAROOM"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713912601.560286"
+  "extracted": "1713912900.605614"
 }
