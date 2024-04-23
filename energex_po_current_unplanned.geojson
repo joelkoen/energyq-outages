@@ -283,9 +283,62 @@
         "STREETS": "BILBY CT, BONNEY ST, BONNYDOON CT, BUENA VISTA RD, ELIZABETH ST, ERBACHER RD, HUNTINGDALE DR, KELKS HILL RD, KILLARNEY CRES, KOORALBYN CT, KOOYONGA CT, LINSAY CCT, MUIRFIELD CRES, MURRAY CRES, NAMBOUR CONNECTION RD, PARADISE PL, PLATYPUS PL, POSSUM PL, SUNNINGDALE CT, TURNBERRY CT",
         "SUBURBS": "NAMBOUR"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.301077,
+              -27.719096
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.301585,
+                  -27.719099
+                ],
+                [
+                  152.30108,
+                  -27.718645
+                ],
+                [
+                  152.30057,
+                  -27.719093
+                ],
+                [
+                  152.301075,
+                  -27.719547
+                ],
+                [
+                  152.301585,
+                  -27.719099
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756318-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "12:50AM 24 Apr 2024",
+        "EST_FIX_TIME": "3:30AM 24 Apr 2024",
+        "STREETS": "ROPELEY-ROCKSIDE RD",
+        "SUBURBS": "ROCKSIDE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713883801.214366"
+  "extracted": "1713884101.083885"
 }
