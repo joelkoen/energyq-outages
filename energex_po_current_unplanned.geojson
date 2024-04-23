@@ -284,9 +284,74 @@
         "STREETS": "BURGESS RD",
         "SUBURBS": "CALICO CREEK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.358465,
+              -27.754404
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.35427,
+                  -27.757315
+                ],
+                [
+                  152.363315,
+                  -27.753047
+                ],
+                [
+                  152.363229,
+                  -27.752217
+                ],
+                [
+                  152.360623,
+                  -27.751493
+                ],
+                [
+                  152.360138,
+                  -27.751583
+                ],
+                [
+                  152.353699,
+                  -27.756576
+                ],
+                [
+                  152.353614,
+                  -27.757172
+                ],
+                [
+                  152.35427,
+                  -27.757315
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756182-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "1:08PM 23 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 23 Apr 2024",
+        "STREETS": "MULGOWIE SCHOOL RD",
+        "SUBURBS": "MULGOWIE, THORNTON"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713841500.352246"
+  "extracted": "1713841800.344855"
 }
