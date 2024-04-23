@@ -531,9 +531,94 @@
         "STREETS": "EZZY RD, HAIN RD, KOOROONGARRA CEMETERY RD, KOOROONGARRA RD, MABBET RD, MILLWOOD RD, MOSQUITO CREEK RD, STAFFORD RD, STONEHENGE RD",
         "SUBURBS": "KOOROONGARRA, LEYBURN, MILLMERRAN, MILLWOOD, MOUNT EMLYN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.621561,
+              -25.96631
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.61854,
+                  -25.965375
+                ],
+                [
+                  152.618929,
+                  -25.966012
+                ],
+                [
+                  152.619012,
+                  -25.966112
+                ],
+                [
+                  152.622169,
+                  -25.968988
+                ],
+                [
+                  152.622989,
+                  -25.968826
+                ],
+                [
+                  152.624404,
+                  -25.965346
+                ],
+                [
+                  152.624422,
+                  -25.965289
+                ],
+                [
+                  152.624583,
+                  -25.964639
+                ],
+                [
+                  152.624398,
+                  -25.964183
+                ],
+                [
+                  152.623706,
+                  -25.963708
+                ],
+                [
+                  152.623274,
+                  -25.963632
+                ],
+                [
+                  152.618845,
+                  -25.964724
+                ],
+                [
+                  152.61854,
+                  -25.965375
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5204",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:19PM 23 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARBORSEVENTEEN RD, WARDS RD",
+        "SUBURBS": "GLENWOOD"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713861002.563388"
+  "extracted": "1713861301.257105"
 }
