@@ -474,6 +474,123 @@
           {
             "type": "Point",
             "coordinates": [
+              147.295797,
+              -19.61774
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.273424,
+                  -19.61476
+                ],
+                [
+                  147.28522,
+                  -19.626851
+                ],
+                [
+                  147.28534,
+                  -19.62694
+                ],
+                [
+                  147.296156,
+                  -19.632596
+                ],
+                [
+                  147.296305,
+                  -19.632645
+                ],
+                [
+                  147.304592,
+                  -19.634016
+                ],
+                [
+                  147.304679,
+                  -19.634022
+                ],
+                [
+                  147.317706,
+                  -19.633892
+                ],
+                [
+                  147.31817,
+                  -19.633361
+                ],
+                [
+                  147.314916,
+                  -19.61591
+                ],
+                [
+                  147.314902,
+                  -19.615857
+                ],
+                [
+                  147.314775,
+                  -19.615462
+                ],
+                [
+                  147.314714,
+                  -19.615341
+                ],
+                [
+                  147.310102,
+                  -19.608891
+                ],
+                [
+                  147.309995,
+                  -19.608784
+                ],
+                [
+                  147.304465,
+                  -19.604823
+                ],
+                [
+                  147.304294,
+                  -19.604745
+                ],
+                [
+                  147.290622,
+                  -19.601457
+                ],
+                [
+                  147.290209,
+                  -19.601541
+                ],
+                [
+                  147.273479,
+                  -19.614099
+                ],
+                [
+                  147.273424,
+                  -19.61476
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7830",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "49",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "STATUS": "Outage reported",
+        "START": "2:00AM 25 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BARRETT RD, CORICA RD, MILANESE RD, SEXTON RD, TOMLINS RD, WATERVIEW RD",
+        "SUBURBS": "AIRVILLE, AYR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -530,5 +647,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713975001.014936"
+  "extracted": "1713975303.789415"
 }
