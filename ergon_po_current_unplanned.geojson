@@ -237,6 +237,155 @@
           {
             "type": "Point",
             "coordinates": [
+              148.780845,
+              -21.073774
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.679272,
+                  -21.10104
+                ],
+                [
+                  148.692221,
+                  -21.12392
+                ],
+                [
+                  148.692314,
+                  -21.124036
+                ],
+                [
+                  148.717884,
+                  -21.146797
+                ],
+                [
+                  148.71819,
+                  -21.14692
+                ],
+                [
+                  148.84804,
+                  -21.153264
+                ],
+                [
+                  148.848267,
+                  -21.153223
+                ],
+                [
+                  148.859959,
+                  -21.148151
+                ],
+                [
+                  148.860101,
+                  -21.148057
+                ],
+                [
+                  148.866131,
+                  -21.142267
+                ],
+                [
+                  148.866162,
+                  -21.142233
+                ],
+                [
+                  148.882403,
+                  -21.123205
+                ],
+                [
+                  148.882456,
+                  -21.122716
+                ],
+                [
+                  148.880178,
+                  -21.118553
+                ],
+                [
+                  148.880153,
+                  -21.118513
+                ],
+                [
+                  148.849477,
+                  -21.074396
+                ],
+                [
+                  148.849397,
+                  -21.074309
+                ],
+                [
+                  148.755836,
+                  -20.994399
+                ],
+                [
+                  148.755455,
+                  -20.994284
+                ],
+                [
+                  148.747529,
+                  -20.995183
+                ],
+                [
+                  148.747443,
+                  -20.9952
+                ],
+                [
+                  148.711185,
+                  -21.005853
+                ],
+                [
+                  148.710894,
+                  -21.00609
+                ],
+                [
+                  148.709096,
+                  -21.009636
+                ],
+                [
+                  148.709071,
+                  -21.009697
+                ],
+                [
+                  148.679984,
+                  -21.098198
+                ],
+                [
+                  148.679981,
+                  -21.098209
+                ],
+                [
+                  148.679234,
+                  -21.100706
+                ],
+                [
+                  148.679272,
+                  -21.10104
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3847",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "433",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
+        "STATUS": "Outage reported",
+        "START": "2:50PM 24 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARGENTS RD, BERRIWERRI CATTLE CREEK RD, BOURKES RD, BRADSHAWS RD, BROWNSEYS RD, CALEN MOUNT CHARLTON RD, CAMILLERIS RD, COYNES RD, DEVEREUX CREEK RD, DOWS CREEK RD, FOREST RD, GAKOWSKIS RD, GARGETT OWENS CREEK RD, GARNHAM MORROWS RD, GEEBERGA BUTHURRA RD, GRIFFINS RD, HARRIS RD, J LAMBS RD, JENNERS RD, KANES RD, LANGDON LUMBURRA RD, MCFAULS RD, MCGREGOR CREEK RD, MCGREGORS RD, MCLENNANS RD, MIRANI MOUNT OSSA RD, MIRANI-MOUNT OSSA RD, MORRIS RD, MOUNT MARTIN GAP RD, MOUNT MARTIN LOOP RD, MOUNT MARTIN RD, MOUNT OSSA RD, MOUNT TOBY RD, OLD STATION RD, OWENS CREEK LOOP RD, OWENS CREEK RD, PAGDENS RD, PAKULA GAP RD, ROGERS RD, RUGGERIS RD, SAMS RD, SCHOOL RD, SUGARLOAF RD, THOMAS RD, WILLIAMS RD, WOODS RD",
+        "SUBURBS": "CALEN, DEVEREUX CREEK, DOWS CREEK, GARGETT, KUNGURRI, KUTTABUL, MIRANI, MOUNT CHARLTON, MOUNT MARTIN, MOUNT OSSA, OWENS CREEK, PINNACLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -293,5 +442,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713934200.719686"
+  "extracted": "1713934501.1471"
 }
