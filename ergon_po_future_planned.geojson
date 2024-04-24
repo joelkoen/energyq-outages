@@ -39,7 +39,7 @@
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Crews working on-site",
         "START": "8:46AM 24 Apr 2024",
-        "EST_FIX_TIME": "3:00PM 24 Apr 2024",
+        "EST_FIX_TIME": "5:00PM 24 Apr 2024",
         "STREETS": "CAPRICORN HWY, DENISON RD, FORK LAGOONS RD, MARSHALL RD",
         "SUBURBS": "EMERALD"
       }
@@ -1687,6 +1687,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          149.089109,
+          -21.025047
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3380",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "122",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "3:00PM 24 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 24 Apr 2024",
+        "STREETS": "BARROW HILL RD, GALEA CT, LE GARDES RD, MACKAY HABANA RD, MAPALO RD, SANTS RD, THOMPSON CT, YAKAPARI HABANA RD",
+        "SUBURBS": "HABANA, THE LEAP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           149.152967,
           -21.210246
         ]
@@ -2202,7 +2223,7 @@
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
         "STATUS": "Crews working on-site",
         "START": "8:00AM 24 Apr 2024",
-        "EST_FIX_TIME": "3:00PM 24 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 24 Apr 2024",
         "STREETS": "BARKLY HWY, BREAKAWAY DR, ELIANA BVD, LITTLE BEND, LLOYD CL, SMYTH CRES, VAIENTE PDE",
         "SUBURBS": "BREAKAWAY, FISHER, MOUNT ISA"
       }
@@ -2926,27 +2947,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.97521,
-          -26.009489
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB4403",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "13",
-        "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:31AM 24 Apr 2024",
-        "EST_FIX_TIME": "3:30PM 24 Apr 2024",
-        "STREETS": "NORTH OAKFIELD RD, OAKFIELD RD",
-        "SUBURBS": "TANSEY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           152.618067,
           -25.970756
         ]
@@ -2966,5 +2966,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1713934803.621189"
+  "extracted": "1713935100.566999"
 }
