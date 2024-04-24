@@ -1,8 +1,118 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.97595,
+              -27.75422
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.966193,
+                  -27.7652
+                ],
+                [
+                  152.980158,
+                  -27.767463
+                ],
+                [
+                  152.980741,
+                  -27.76713
+                ],
+                [
+                  152.986104,
+                  -27.748312
+                ],
+                [
+                  152.98591,
+                  -27.747835
+                ],
+                [
+                  152.975406,
+                  -27.741064
+                ],
+                [
+                  152.975106,
+                  -27.740978
+                ],
+                [
+                  152.974652,
+                  -27.74098
+                ],
+                [
+                  152.974368,
+                  -27.741058
+                ],
+                [
+                  152.973794,
+                  -27.741407
+                ],
+                [
+                  152.973732,
+                  -27.741452
+                ],
+                [
+                  152.973145,
+                  -27.741943
+                ],
+                [
+                  152.973057,
+                  -27.742041
+                ],
+                [
+                  152.972964,
+                  -27.74218
+                ],
+                [
+                  152.972914,
+                  -27.742282
+                ],
+                [
+                  152.972738,
+                  -27.742806
+                ],
+                [
+                  152.972736,
+                  -27.742812
+                ],
+                [
+                  152.965796,
+                  -27.764633
+                ],
+                [
+                  152.966193,
+                  -27.7652
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756498-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "90",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "10:07PM 24 Apr 2024",
+        "EST_FIX_TIME": "12:30AM 25 Apr 2024",
+        "STREETS": "HIVES RD, KOOLENA RD, LANCE RD, OLSON RD, TEVIOT RD",
+        "SUBURBS": "GREENBANK, NORTH MACLEAN"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713960303.327839"
+  "extracted": "1713960601.608899"
 }
