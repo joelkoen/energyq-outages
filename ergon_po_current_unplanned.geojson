@@ -369,9 +369,78 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.947007,
+              -26.614067
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.947344,
+                  -26.616517
+                ],
+                [
+                  151.947676,
+                  -26.612956
+                ],
+                [
+                  151.947664,
+                  -26.612813
+                ],
+                [
+                  151.947326,
+                  -26.611546
+                ],
+                [
+                  151.94678,
+                  -26.611204
+                ],
+                [
+                  151.946338,
+                  -26.611651
+                ],
+                [
+                  151.946344,
+                  -26.61648
+                ],
+                [
+                  151.946824,
+                  -26.61693
+                ],
+                [
+                  151.947344,
+                  -26.616517
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5225",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:49PM 24 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "HODGELEIGH RD, MALAR RD, SMITHS RD",
+        "SUBURBS": "COOLABUNIA, NANANGO"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713935100.566999"
+  "extracted": "1713935401.231709"
 }
