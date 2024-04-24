@@ -616,6 +616,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.564368,
+          -25.845307
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6265",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "1:06PM 24 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 24 Apr 2024",
+        "STREETS": "RONALD ST",
+        "SUBURBS": "INJUNE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.298525,
           -27.770693
         ]
@@ -651,27 +672,6 @@
         "EST_FIX_TIME": "3:00PM 24 Apr 2024",
         "STREETS": "CAMBOOYA ST, CATON ST, HANRAHAN RD, ROWBOTHAM RD, TOOWOOMBA-KARARA RD, WESTBROOK RD, WYREEMA RD",
         "SUBURBS": "DRAYTON, TOOWOOMBA, WESTBROOK"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.704204,
-          -24.799842
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB4260",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "214",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Crews working on-site",
-        "START": "9:00AM 24 Apr 2024",
-        "EST_FIX_TIME": "2:00PM 24 Apr 2024",
-        "STREETS": "ALLAN RD, BAILEYS RD, BARTON RD, BRUCE HWY, CARMANS RD, CLAUDE WHARTON DR, COOLIBAH CRES, CROZIERS RD, DALGA RD, DIAMOND HILL RD, E CLAXTON RD, FORESTRY RD, GAETA RD, GOSSNERS RD, HABBERMANS RD, HUNTERS RD, JENSENS RD, KALPOWAR RD, KALPOWER RD, KANTAKA RD, KOLAN FLATS RD, LANGDONS RD, LESTERS RD, MAILMANS RD, MONDURAN DAM RD, MONDURAN RD, MOOLYUNG RD, MOONEY RD, MOUNT TOONBORO RD, MOUNT WALKER RD, RICKARDS RD, ROFFEYS RD, ROSEHILL RD, TESSELLARIS TRAIL RD, WEBSTER RD",
-        "SUBURBS": "DAMASCUS, GAETA, GIN GIN, KOLONGA, MAROONDAN, MONDURAN, MOUNT TOONBORO, TAKILBERAN, WATERLOO, WONBAH, YANDARAN"
       }
     },
     {
@@ -761,5 +761,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713927900.454891"
+  "extracted": "1713928201.158388"
 }
