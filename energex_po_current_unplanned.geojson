@@ -82,9 +82,82 @@
         "STREETS": "COOINDA ST, ROBERTSON RD, TRUDY ST",
         "SUBURBS": "EASTERN HEIGHTS, RACEVIEW, SILKSTONE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.647809,
+              -26.244555
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.644816,
+                  -26.241681
+                ],
+                [
+                  152.645796,
+                  -26.247516
+                ],
+                [
+                  152.646418,
+                  -26.247885
+                ],
+                [
+                  152.650499,
+                  -26.246924
+                ],
+                [
+                  152.650803,
+                  -26.246257
+                ],
+                [
+                  152.649144,
+                  -26.243735
+                ],
+                [
+                  152.649018,
+                  -26.243607
+                ],
+                [
+                  152.645615,
+                  -26.241255
+                ],
+                [
+                  152.645056,
+                  -26.241225
+                ],
+                [
+                  152.644816,
+                  -26.241681
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756413-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:20AM 24 Apr 2024",
+        "EST_FIX_TIME": "1:30PM 24 Apr 2024",
+        "STREETS": "LAWSON RD, MCINTOSH CREEK RD",
+        "SUBURBS": "JONES HILL, MCINTOSH CREEK"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713923400.430282"
+  "extracted": "1713923701.103122"
 }
