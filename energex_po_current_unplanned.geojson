@@ -288,9 +288,126 @@
         "STREETS": "ALTON ST, BEAUDESERT RD, BELLEVUE AVE, BLACKWOOD RD, DOLLIS ST, DOUGLAS RD, FAIRLIE TCE, FREWIN ST, HENSON RD, KELLETT RD, LILLIAN AVE, MUSGRAVE RD, NESS RD, NICHOLSON AVE, NORBURY ST, OLIVIA AVE, SWAY ST, TUCKETT RD",
         "SUBURBS": "ARCHERFIELD, COOPERS PLAINS, ROCKLEA, SALISBURY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.098797,
+              -27.480164
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.097672,
+                  -27.479874
+                ],
+                [
+                  153.097877,
+                  -27.480605
+                ],
+                [
+                  153.097962,
+                  -27.480766
+                ],
+                [
+                  153.098005,
+                  -27.480817
+                ],
+                [
+                  153.098193,
+                  -27.480954
+                ],
+                [
+                  153.098293,
+                  -27.480997
+                ],
+                [
+                  153.09848,
+                  -27.481041
+                ],
+                [
+                  153.098789,
+                  -27.481058
+                ],
+                [
+                  153.098939,
+                  -27.481046
+                ],
+                [
+                  153.099571,
+                  -27.480911
+                ],
+                [
+                  153.099922,
+                  -27.480304
+                ],
+                [
+                  153.099642,
+                  -27.479682
+                ],
+                [
+                  153.099508,
+                  -27.479512
+                ],
+                [
+                  153.099407,
+                  -27.479433
+                ],
+                [
+                  153.099118,
+                  -27.479321
+                ],
+                [
+                  153.098501,
+                  -27.47927
+                ],
+                [
+                  153.098407,
+                  -27.47927
+                ],
+                [
+                  153.098222,
+                  -27.479285
+                ],
+                [
+                  153.098118,
+                  -27.479304
+                ],
+                [
+                  153.098011,
+                  -27.479334
+                ],
+                [
+                  153.097672,
+                  -27.479874
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756439-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "Damage due to severe weather",
+        "STATUS": "Awaiting",
+        "START": "1:01PM 24 Apr 2024",
+        "EST_FIX_TIME": "3:30PM 24 Apr 2024",
+        "STREETS": "ETTRICK CT, FOXMONT DR",
+        "SUBURBS": "CARINA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713927604.034525"
+  "extracted": "1713927900.376766"
 }
