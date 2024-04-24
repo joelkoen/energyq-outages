@@ -256,6 +256,91 @@
           {
             "type": "Point",
             "coordinates": [
+              145.611209,
+              -17.347825
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.608799,
+                  -17.347877
+                ],
+                [
+                  145.608892,
+                  -17.349564
+                ],
+                [
+                  145.609395,
+                  -17.349991
+                ],
+                [
+                  145.61318,
+                  -17.34974
+                ],
+                [
+                  145.613618,
+                  -17.349281
+                ],
+                [
+                  145.613593,
+                  -17.348075
+                ],
+                [
+                  145.613408,
+                  -17.347724
+                ],
+                [
+                  145.612884,
+                  -17.347341
+                ],
+                [
+                  145.612871,
+                  -17.347332
+                ],
+                [
+                  145.610419,
+                  -17.34566
+                ],
+                [
+                  145.60972,
+                  -17.345839
+                ],
+                [
+                  145.608842,
+                  -17.347664
+                ],
+                [
+                  145.608799,
+                  -17.347877
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5670",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews on route",
+        "START": "11:40PM 24 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "GLASPY RD, LAKE BARRINE RD, LORENSEN CL, MUNDEY RD",
+        "SUBURBS": "MALANDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -381,5 +466,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713966303.20309"
+  "extracted": "1713966601.816075"
 }
