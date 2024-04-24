@@ -240,6 +240,107 @@
           {
             "type": "Point",
             "coordinates": [
+              145.70089,
+              -16.814544
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.699962,
+                  -16.816101
+                ],
+                [
+                  145.701751,
+                  -16.816266
+                ],
+                [
+                  145.70224,
+                  -16.81567
+                ],
+                [
+                  145.702155,
+                  -16.815432
+                ],
+                [
+                  145.702139,
+                  -16.815392
+                ],
+                [
+                  145.701129,
+                  -16.813237
+                ],
+                [
+                  145.70097,
+                  -16.813052
+                ],
+                [
+                  145.700629,
+                  -16.812823
+                ],
+                [
+                  145.699902,
+                  -16.813096
+                ],
+                [
+                  145.699776,
+                  -16.813648
+                ],
+                [
+                  145.699769,
+                  -16.813688
+                ],
+                [
+                  145.699681,
+                  -16.814349
+                ],
+                [
+                  145.69968,
+                  -16.814356
+                ],
+                [
+                  145.699573,
+                  -16.81528
+                ],
+                [
+                  145.699572,
+                  -16.815287
+                ],
+                [
+                  145.69954,
+                  -16.815608
+                ],
+                [
+                  145.699962,
+                  -16.816101
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5673",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "62",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "STATUS": "Crews on route",
+        "START": "12:36AM 25 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MURRINDA GDNS, OAKVILLE PDE, REDCAP BEND, THOOLEER VSTA",
+        "SUBURBS": "TRINITY PARK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -365,5 +466,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713970501.067122"
+  "extracted": "1713970804.873525"
 }
