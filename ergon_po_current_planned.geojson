@@ -553,6 +553,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.798432,
+          -19.245022
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6723",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "12:46PM 24 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 24 Apr 2024",
+        "STREETS": "BUNDOCK ST",
+        "SUBURBS": "BELGIAN GARDENS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.813489,
           -19.262964
         ]
@@ -763,27 +784,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.4997,
-          -26.753264
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB3188",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:50AM 24 Apr 2024",
-        "EST_FIX_TIME": "2:30PM 24 Apr 2024",
-        "STREETS": "BUNYA HWY",
-        "SUBURBS": "BOYNESIDE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           151.704204,
           -24.799842
         ]
@@ -887,5 +887,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1713926701.692693"
+  "extracted": "1713927001.276605"
 }
