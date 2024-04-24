@@ -155,9 +155,142 @@
         "STREETS": "LAWSON RD, MCINTOSH CREEK RD",
         "SUBURBS": "JONES HILL, MCINTOSH CREEK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.025317,
+              -27.556053
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.020858,
+                  -27.550454
+                ],
+                [
+                  153.020938,
+                  -27.560741
+                ],
+                [
+                  153.020967,
+                  -27.560889
+                ],
+                [
+                  153.021312,
+                  -27.56175
+                ],
+                [
+                  153.021313,
+                  -27.561752
+                ],
+                [
+                  153.021668,
+                  -27.562626
+                ],
+                [
+                  153.022008,
+                  -27.562907
+                ],
+                [
+                  153.022554,
+                  -27.563042
+                ],
+                [
+                  153.022653,
+                  -27.563058
+                ],
+                [
+                  153.026896,
+                  -27.563327
+                ],
+                [
+                  153.027393,
+                  -27.563065
+                ],
+                [
+                  153.028995,
+                  -27.559955
+                ],
+                [
+                  153.029037,
+                  -27.559821
+                ],
+                [
+                  153.029774,
+                  -27.55435
+                ],
+                [
+                  153.029776,
+                  -27.554256
+                ],
+                [
+                  153.029751,
+                  -27.55401
+                ],
+                [
+                  153.029699,
+                  -27.553848
+                ],
+                [
+                  153.027996,
+                  -27.550824
+                ],
+                [
+                  153.02796,
+                  -27.55077
+                ],
+                [
+                  153.026569,
+                  -27.548974
+                ],
+                [
+                  153.026149,
+                  -27.548779
+                ],
+                [
+                  153.025892,
+                  -27.54878
+                ],
+                [
+                  153.025748,
+                  -27.5488
+                ],
+                [
+                  153.021218,
+                  -27.550019
+                ],
+                [
+                  153.020858,
+                  -27.550454
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756431-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "534",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "12:20PM 24 Apr 2024",
+        "EST_FIX_TIME": "3:00PM 24 Apr 2024",
+        "STREETS": "ALTON ST, BEAUDESERT RD, BELLEVUE AVE, BLACKWOOD RD, DOLLIS ST, DOUGLAS RD, FAIRLIE TCE, FREWIN ST, HENSON RD, KELLETT RD, LILLIAN AVE, MUSGRAVE RD, NESS RD, NICHOLSON AVE, NORBURY ST, OLIVIA AVE, SWAY ST, TUCKETT RD",
+        "SUBURBS": "ARCHERFIELD, COOPERS PLAINS, ROCKLEA, SALISBURY"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1713925200.288957"
+  "extracted": "1713925500.245885"
 }
