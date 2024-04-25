@@ -245,6 +245,107 @@
           {
             "type": "Point",
             "coordinates": [
+              146.797575,
+              -19.265192
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.795522,
+                  -19.266412
+                ],
+                [
+                  146.79748,
+                  -19.266521
+                ],
+                [
+                  146.797519,
+                  -19.266521
+                ],
+                [
+                  146.799197,
+                  -19.266483
+                ],
+                [
+                  146.79933,
+                  -19.266461
+                ],
+                [
+                  146.799663,
+                  -19.266361
+                ],
+                [
+                  146.79999,
+                  -19.265991
+                ],
+                [
+                  146.800029,
+                  -19.265726
+                ],
+                [
+                  146.799895,
+                  -19.265346
+                ],
+                [
+                  146.79972,
+                  -19.265179
+                ],
+                [
+                  146.799643,
+                  -19.265119
+                ],
+                [
+                  146.797731,
+                  -19.263926
+                ],
+                [
+                  146.797361,
+                  -19.263863
+                ],
+                [
+                  146.796143,
+                  -19.264135
+                ],
+                [
+                  146.795823,
+                  -19.264379
+                ],
+                [
+                  146.795121,
+                  -19.265765
+                ],
+                [
+                  146.795522,
+                  -19.266412
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7835",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "108",
+        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+        "STATUS": "Outage reported",
+        "START": "1:34AM 26 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ECHLIN ST, GARRICK ST, MARGARET ST, PLANT ST",
+        "SUBURBS": "WEST END"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -301,5 +402,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714059601.368217"
+  "extracted": "1714059903.315326"
 }
