@@ -245,6 +245,107 @@
           {
             "type": "Point",
             "coordinates": [
+              146.644827,
+              -19.302766
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.643645,
+                  -19.301188
+                ],
+                [
+                  146.643717,
+                  -19.302403
+                ],
+                [
+                  146.643724,
+                  -19.302461
+                ],
+                [
+                  146.644024,
+                  -19.303983
+                ],
+                [
+                  146.644175,
+                  -19.304238
+                ],
+                [
+                  146.644821,
+                  -19.304782
+                ],
+                [
+                  146.645505,
+                  -19.304731
+                ],
+                [
+                  146.645902,
+                  -19.304271
+                ],
+                [
+                  146.646009,
+                  -19.303949
+                ],
+                [
+                  146.645924,
+                  -19.302927
+                ],
+                [
+                  146.64589,
+                  -19.30279
+                ],
+                [
+                  146.645259,
+                  -19.301339
+                ],
+                [
+                  146.645096,
+                  -19.301143
+                ],
+                [
+                  146.6449,
+                  -19.30101
+                ],
+                [
+                  146.644819,
+                  -19.300966
+                ],
+                [
+                  146.644316,
+                  -19.300751
+                ],
+                [
+                  146.643645,
+                  -19.301188
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7831",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:38AM 25 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BENJAMIN RD, RANGEWOOD DR",
+        "SUBURBS": "RANGEWOOD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -301,5 +402,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714008901.226311"
+  "extracted": "1714009201.395699"
 }
