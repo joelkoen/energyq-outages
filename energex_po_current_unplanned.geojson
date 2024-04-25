@@ -1,8 +1,126 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.266544,
+              -27.630715
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.242723,
+                  -27.658853
+                ],
+                [
+                  153.271562,
+                  -27.655019
+                ],
+                [
+                  153.271949,
+                  -27.654759
+                ],
+                [
+                  153.290937,
+                  -27.617551
+                ],
+                [
+                  153.290947,
+                  -27.617199
+                ],
+                [
+                  153.290821,
+                  -27.616914
+                ],
+                [
+                  153.290821,
+                  -27.616913
+                ],
+                [
+                  153.290559,
+                  -27.616325
+                ],
+                [
+                  153.290356,
+                  -27.616109
+                ],
+                [
+                  153.286922,
+                  -27.6142
+                ],
+                [
+                  153.286919,
+                  -27.614199
+                ],
+                [
+                  153.282735,
+                  -27.611909
+                ],
+                [
+                  153.282651,
+                  -27.611872
+                ],
+                [
+                  153.255475,
+                  -27.602605
+                ],
+                [
+                  153.255245,
+                  -27.602577
+                ],
+                [
+                  153.250298,
+                  -27.603002
+                ],
+                [
+                  153.249939,
+                  -27.603184
+                ],
+                [
+                  153.244375,
+                  -27.609919
+                ],
+                [
+                  153.244277,
+                  -27.610169
+                ],
+                [
+                  153.242142,
+                  -27.658389
+                ],
+                [
+                  153.242723,
+                  -27.658853
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756557-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "485",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "9:48PM 25 Apr 2024",
+        "EST_FIX_TIME": "12:00AM 26 Apr 2024",
+        "STREETS": "BARADINE ST, BOTTLETREE CRES, BRIGALOW PL, DOUBLE JUMP RD, ELKHORN ST, FLAMETREE CRES, GERMAN CHURCH RD, GILES RD, GOLDEN WATTLE AVE, HABERMANN RD, HARDWOOD DR, HEINEMANN RD, LACEBARK CL, LANCASTER CCT, MARBLEWOOD ST, SUGARGUM AVE, TEVIOT RD, WHITEASH ST",
+        "SUBURBS": "CARBROOK, MOUNT COTTON, REDLAND BAY"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714045508.169052"
+  "extracted": "1714045801.106026"
 }
