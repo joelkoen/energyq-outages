@@ -313,9 +313,86 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.114349,
+              -27.833202
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.091633,
+                  -27.823493
+                ],
+                [
+                  152.096483,
+                  -27.827308
+                ],
+                [
+                  152.09651,
+                  -27.827328
+                ],
+                [
+                  152.123289,
+                  -27.845621
+                ],
+                [
+                  152.123909,
+                  -27.845619
+                ],
+                [
+                  152.137066,
+                  -27.83649
+                ],
+                [
+                  152.136973,
+                  -27.83573
+                ],
+                [
+                  152.102025,
+                  -27.820817
+                ],
+                [
+                  152.101697,
+                  -27.820783
+                ],
+                [
+                  152.091859,
+                  -27.822717
+                ],
+                [
+                  152.091633,
+                  -27.823493
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8138",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "20",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:32PM 25 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BONGEEN RD, GATTON CLIFTON RD, HIRSTGLEN RD, LACK RD, MILLMERRAN-CECIL PLAINS RD",
+        "SUBURBS": "GREENMOUNT, HIRSTGLEN, MILLMERRAN, PILTON, ST HELENS"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714024201.301615"
+  "extracted": "1714024500.970179"
 }
