@@ -168,6 +168,71 @@
           {
             "type": "Point",
             "coordinates": [
+              149.061706,
+              -21.038621
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.060061,
+                  -21.037938
+                ],
+                [
+                  149.060473,
+                  -21.039834
+                ],
+                [
+                  149.061304,
+                  -21.040043
+                ],
+                [
+                  149.063282,
+                  -21.037947
+                ],
+                [
+                  149.063351,
+                  -21.037445
+                ],
+                [
+                  149.062879,
+                  -21.037198
+                ],
+                [
+                  149.060489,
+                  -21.037398
+                ],
+                [
+                  149.060061,
+                  -21.037938
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3858",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "3:20PM 25 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "GARDINERS RD",
+        "SUBURBS": "HABANA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               147.503726,
               -19.633457
             ]
@@ -394,5 +459,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714024500.970179"
+  "extracted": "1714024804.753603"
 }
