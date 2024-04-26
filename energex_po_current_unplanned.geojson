@@ -1,8 +1,142 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.462436,
+              -27.686887
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.407771,
+                  -27.656532
+                ],
+                [
+                  152.443106,
+                  -27.708525
+                ],
+                [
+                  152.443111,
+                  -27.708532
+                ],
+                [
+                  152.463756,
+                  -27.737785
+                ],
+                [
+                  152.464069,
+                  -27.737985
+                ],
+                [
+                  152.483118,
+                  -27.741966
+                ],
+                [
+                  152.483508,
+                  -27.741906
+                ],
+                [
+                  152.483646,
+                  -27.741828
+                ],
+                [
+                  152.483791,
+                  -27.741702
+                ],
+                [
+                  152.503182,
+                  -27.716322
+                ],
+                [
+                  152.503232,
+                  -27.716238
+                ],
+                [
+                  152.517066,
+                  -27.685963
+                ],
+                [
+                  152.5171,
+                  -27.685739
+                ],
+                [
+                  152.51654,
+                  -27.681647
+                ],
+                [
+                  152.516523,
+                  -27.681575
+                ],
+                [
+                  152.508043,
+                  -27.655831
+                ],
+                [
+                  152.507994,
+                  -27.65573
+                ],
+                [
+                  152.507325,
+                  -27.654714
+                ],
+                [
+                  152.50724,
+                  -27.654618
+                ],
+                [
+                  152.506463,
+                  -27.653951
+                ],
+                [
+                  152.506401,
+                  -27.653905
+                ],
+                [
+                  152.47072,
+                  -27.631851
+                ],
+                [
+                  152.470229,
+                  -27.631808
+                ],
+                [
+                  152.408003,
+                  -27.655884
+                ],
+                [
+                  152.407771,
+                  -27.656532
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756653-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "273",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "12:02PM 26 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 26 Apr 2024",
+        "STREETS": "ALFRED ST, ARCHERY RD, ASHBY RD, BAKERS RD, BEAMES DR, BRENNAN RD, CLANCYS RD, CUMMINGS RD, DOONANS RD, FOREST RIDGE CRES, GATTON ST, GEORGE ST, GILLAMS RD, GORDON RD, GRANDCHESTER MT MORT RD, HIDDENVALE RD, HOGAN RD, HORNBUCKLES RD, HORNBUCKLES RD W, IPSWICH ST, LONG GULLY RD, MCKENNA RD, MEADOW FLAT RD, NEUMANN RD, OLD GRANDCHESTER RD, PARK RD, PENNELL RD, RAFTERS RD, RAILWAY ST, ROSEWOOD LAIDLEY RD, SCHOOL RD, SCHREIWEIS RD, SIPPELS RD, SOUTHERN ST, STOKES RD, SYMES ST, TOMMARY RD, WEST RD, WILLIAM ST",
+        "SUBURBS": "CALVERT, GRANDCHESTER, LAIDLEY, LAIDLEY SOUTH, LOWER MOUNT WALKER, MT MORT, SUMMERHOLM"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714096806.131994"
+  "extracted": "1714097101.18836"
 }
