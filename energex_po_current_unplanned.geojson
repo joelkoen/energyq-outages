@@ -151,9 +151,86 @@
         "STREETS": "BAYVIEW ST",
         "SUBURBS": "RUNAWAY BAY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.645449,
+              -27.52014
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.641952,
+                  -27.519793
+                ],
+                [
+                  152.646949,
+                  -27.521316
+                ],
+                [
+                  152.647104,
+                  -27.52134
+                ],
+                [
+                  152.648769,
+                  -27.521364
+                ],
+                [
+                  152.649277,
+                  -27.520983
+                ],
+                [
+                  152.648923,
+                  -27.520481
+                ],
+                [
+                  152.643459,
+                  -27.519009
+                ],
+                [
+                  152.643347,
+                  -27.51899
+                ],
+                [
+                  152.642151,
+                  -27.518916
+                ],
+                [
+                  152.64162,
+                  -27.519277
+                ],
+                [
+                  152.641952,
+                  -27.519793
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756717-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "4:34PM 26 Apr 2024",
+        "EST_FIX_TIME": "7:00PM 26 Apr 2024",
+        "STREETS": "GLAMORGAN VALE RD",
+        "SUBURBS": "GLAMORGAN VALE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714113005.101036"
+  "extracted": "1714113300.409714"
 }
