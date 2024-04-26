@@ -10,6 +10,75 @@
           {
             "type": "Point",
             "coordinates": [
+              149.783525,
+              -24.071545
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.775404,
+                  -24.072596
+                ],
+                [
+                  149.785564,
+                  -24.073129
+                ],
+                [
+                  149.785778,
+                  -24.073097
+                ],
+                [
+                  149.79182,
+                  -24.070827
+                ],
+                [
+                  149.79211,
+                  -24.070296
+                ],
+                [
+                  149.791577,
+                  -24.069961
+                ],
+                [
+                  149.775375,
+                  -24.071698
+                ],
+                [
+                  149.774941,
+                  -24.072159
+                ],
+                [
+                  149.775404,
+                  -24.072596
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6103",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "11:27AM 26 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BARALABA-DUARINGA RD",
+        "SUBURBS": "BARALABA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -406,5 +475,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714104004.526684"
+  "extracted": "1714104301.085239"
 }
