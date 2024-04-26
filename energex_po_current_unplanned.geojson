@@ -1,8 +1,86 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.424722,
+              -28.003459
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.423639,
+                  -28.003168
+                ],
+                [
+                  153.424515,
+                  -28.004334
+                ],
+                [
+                  153.425013,
+                  -28.00453
+                ],
+                [
+                  153.425372,
+                  -28.004483
+                ],
+                [
+                  153.425806,
+                  -28.004034
+                ],
+                [
+                  153.425801,
+                  -28.003033
+                ],
+                [
+                  153.425402,
+                  -28.002595
+                ],
+                [
+                  153.424348,
+                  -28.002388
+                ],
+                [
+                  153.423989,
+                  -28.002436
+                ],
+                [
+                  153.423812,
+                  -28.002525
+                ],
+                [
+                  153.423639,
+                  -28.003168
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756661-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "128",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "12:27PM 26 Apr 2024",
+        "EST_FIX_TIME": "3:00PM 26 Apr 2024",
+        "STREETS": "PENINSULAR DR, WATSON ESP",
+        "SUBURBS": "SURFERS PARADISE"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714098301.054374"
+  "extracted": "1714098604.396119"
 }
