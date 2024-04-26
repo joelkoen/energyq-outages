@@ -1844,7 +1844,7 @@
         "CUSTOMERS_AFFECTED": "25",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 27 Apr 2024",
+        "START": "8:31AM 27 Apr 2024",
         "EST_FIX_TIME": "2:30PM 27 Apr 2024",
         "STREETS": "HARPER RD, HOEY RD, SPEEWAH RD",
         "SUBURBS": "SPEEWAH"
@@ -2935,7 +2935,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "15",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 27 Apr 2024",
         "EST_FIX_TIME": "3:00PM 27 Apr 2024",
         "STREETS": "PEAK DOWNS HWY, RETREAT RD",
@@ -4795,6 +4795,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.144643,
+          -27.103873
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7214",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:51AM 27 Apr 2024",
+        "EST_FIX_TIME": "2:00PM 27 Apr 2024",
+        "STREETS": "LEICHHARDT HWY",
+        "SUBURBS": "CONDAMINE, TARA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.253205,
           -27.58146
         ]
@@ -6263,5 +6284,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1714172101.757781"
+  "extracted": "1714172701.249632"
 }
