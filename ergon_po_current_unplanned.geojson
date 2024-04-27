@@ -220,9 +220,62 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              149.254012,
+              -27.972103
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.25452,
+                  -27.972095
+                ],
+                [
+                  149.254002,
+                  -27.971652
+                ],
+                [
+                  149.253504,
+                  -27.972112
+                ],
+                [
+                  149.254021,
+                  -27.972554
+                ],
+                [
+                  149.25452,
+                  -27.972095
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8183",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "5:07PM 27 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "TEELBA RD",
+        "SUBURBS": "ST GEORGE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714247701.282825"
+  "extracted": "1714248301.713221"
 }
