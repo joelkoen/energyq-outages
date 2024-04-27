@@ -1,8 +1,74 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.088733,
+              -26.516787
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.087813,
+                  -26.515759
+                ],
+                [
+                  153.088234,
+                  -26.517953
+                ],
+                [
+                  153.08873,
+                  -26.518328
+                ],
+                [
+                  153.089183,
+                  -26.518327
+                ],
+                [
+                  153.089654,
+                  -26.517723
+                ],
+                [
+                  153.08878,
+                  -26.51553
+                ],
+                [
+                  153.08818,
+                  -26.515246
+                ],
+                [
+                  153.087813,
+                  -26.515759
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756790-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "4:08PM 27 Apr 2024",
+        "EST_FIX_TIME": "6:30PM 27 Apr 2024",
+        "STREETS": "DAVID LOW WAY",
+        "SUBURBS": "COOLUM BEACH"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714197901.146095"
+  "extracted": "1714198201.003683"
 }
