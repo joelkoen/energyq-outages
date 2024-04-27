@@ -78,9 +78,142 @@
         "STREETS": "PENINSULAR DR, WATSON ESP",
         "SUBURBS": "SURFERS PARADISE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.811911,
+              -26.459072
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.779008,
+                  -26.447326
+                ],
+                [
+                  152.780839,
+                  -26.46127
+                ],
+                [
+                  152.780886,
+                  -26.461414
+                ],
+                [
+                  152.789106,
+                  -26.476647
+                ],
+                [
+                  152.789118,
+                  -26.476667
+                ],
+                [
+                  152.799842,
+                  -26.494228
+                ],
+                [
+                  152.799978,
+                  -26.49437
+                ],
+                [
+                  152.80496,
+                  -26.497785
+                ],
+                [
+                  152.805657,
+                  -26.497707
+                ],
+                [
+                  152.831169,
+                  -26.468773
+                ],
+                [
+                  152.831256,
+                  -26.468625
+                ],
+                [
+                  152.839806,
+                  -26.443649
+                ],
+                [
+                  152.839818,
+                  -26.443607
+                ],
+                [
+                  152.844814,
+                  -26.421926
+                ],
+                [
+                  152.844625,
+                  -26.421474
+                ],
+                [
+                  152.843549,
+                  -26.420743
+                ],
+                [
+                  152.843259,
+                  -26.420652
+                ],
+                [
+                  152.830232,
+                  -26.420358
+                ],
+                [
+                  152.830216,
+                  -26.420358
+                ],
+                [
+                  152.821684,
+                  -26.420417
+                ],
+                [
+                  152.821502,
+                  -26.420449
+                ],
+                [
+                  152.784012,
+                  -26.433962
+                ],
+                [
+                  152.783722,
+                  -26.434241
+                ],
+                [
+                  152.77903,
+                  -26.447132
+                ],
+                [
+                  152.779008,
+                  -26.447326
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756763-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "208",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "10:58AM 27 Apr 2024",
+        "EST_FIX_TIME": "1:30PM 27 Apr 2024",
+        "STREETS": "BLACK MOUNTAIN RD, COOROY BELLI CREEK RD, CRAWFORDS LANE, CRAWFORDS RD, DONNELLYS RD, GEVERS RD, GILLILAND RD, HAPPY JACK CREEK RD, HILARY RD, HONEYTREE LANE, KENILWORTH SKYRING CREEK RD, NEWSPAPER HILL RD, OLD MILL RD, SKYRING CREEK RD, TOP FORESTRY RD, WALLABY CT, WELLINGTON RD",
+        "SUBURBS": "BELLI PARK, BLACK MOUNTAIN, CARTERS RIDGE, RIDGEWOOD"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714179300.422348"
+  "extracted": "1714179604.551462"
 }
