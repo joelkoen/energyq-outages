@@ -185,7 +185,7 @@
         "CUSTOMERS_AFFECTED": "53",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 28 Apr 2024",
+        "START": "8:32AM 28 Apr 2024",
         "EST_FIX_TIME": "2:30PM 28 Apr 2024",
         "STREETS": "BRUCE HWY, BRUCE ST, HIGH ST, JOHN ST, MAGAZINE RD, MILL ST, OFF BRUCE HWY, RAILWAY RES, SIX MILE RD, SOUTH ULAM RD",
         "SUBURBS": "BAJOOL"
@@ -427,6 +427,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          147.43122,
+          -19.58881
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7130",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 28 Apr 2024",
+        "EST_FIX_TIME": "2:30PM 28 Apr 2024",
+        "STREETS": "RITA ISLAND RD",
+        "SUBURBS": "AYR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.87424,
           -27.621525
         ]
@@ -593,5 +614,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714257601.322832"
+  "extracted": "1714257904.434932"
 }
