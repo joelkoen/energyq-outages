@@ -10,6 +10,107 @@
           {
             "type": "Point",
             "coordinates": [
+              150.819515,
+              -23.278741
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.817526,
+                  -23.279875
+                ],
+                [
+                  150.817675,
+                  -23.280315
+                ],
+                [
+                  150.818385,
+                  -23.280571
+                ],
+                [
+                  150.819437,
+                  -23.280011
+                ],
+                [
+                  150.819475,
+                  -23.279988
+                ],
+                [
+                  150.82132,
+                  -23.278784
+                ],
+                [
+                  150.821505,
+                  -23.278284
+                ],
+                [
+                  150.821222,
+                  -23.277428
+                ],
+                [
+                  150.820944,
+                  -23.277144
+                ],
+                [
+                  150.820704,
+                  -23.277051
+                ],
+                [
+                  150.820583,
+                  -23.277021
+                ],
+                [
+                  150.819766,
+                  -23.276914
+                ],
+                [
+                  150.819645,
+                  -23.276912
+                ],
+                [
+                  150.81942,
+                  -23.276935
+                ],
+                [
+                  150.819051,
+                  -23.277157
+                ],
+                [
+                  150.817569,
+                  -23.279513
+                ],
+                [
+                  150.817526,
+                  -23.279875
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6131",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "42",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:54PM 27 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "KENNEDY ST, REEF ST, SANDY LANE, SOPHIES WAY",
+        "SUBURBS": "ZILZIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -185,7 +286,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "33",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "3:38PM 27 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "EAST ESP, MARTIN ST, RYAN ST, THE CORSO",
@@ -269,6 +370,111 @@
           {
             "type": "Point",
             "coordinates": [
+              146.740098,
+              -19.307983
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.738798,
+                  -19.308517
+                ],
+                [
+                  146.739469,
+                  -19.309909
+                ],
+                [
+                  146.740067,
+                  -19.310145
+                ],
+                [
+                  146.740778,
+                  -19.309894
+                ],
+                [
+                  146.741085,
+                  -19.309521
+                ],
+                [
+                  146.741365,
+                  -19.307156
+                ],
+                [
+                  146.741365,
+                  -19.307148
+                ],
+                [
+                  146.74142,
+                  -19.306606
+                ],
+                [
+                  146.741438,
+                  -19.306425
+                ],
+                [
+                  146.741438,
+                  -19.306337
+                ],
+                [
+                  146.741414,
+                  -19.306109
+                ],
+                [
+                  146.740617,
+                  -19.305822
+                ],
+                [
+                  146.738983,
+                  -19.30726
+                ],
+                [
+                  146.738833,
+                  -19.30754
+                ],
+                [
+                  146.738811,
+                  -19.307727
+                ],
+                [
+                  146.73881,
+                  -19.307738
+                ],
+                [
+                  146.738757,
+                  -19.308288
+                ],
+                [
+                  146.738798,
+                  -19.308517
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7906",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "40",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews working on-site",
+        "START": "3:30PM 27 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BAMFORD LANE, JULIA ST, NELIA ST, PINE ST, TAMARIND ST",
+        "SUBURBS": "KIRWAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -325,5 +531,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714197301.246274"
+  "extracted": "1714197901.270871"
 }
