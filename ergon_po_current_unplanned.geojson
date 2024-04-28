@@ -209,7 +209,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "165",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "12:02PM 28 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "BARTLE FRERE RD, BIGGS RD, BRUCE HWY, CONNAUGHTON RD, EMSON RD, JOYCE RD, KNUST RD, MENZIES RD, PRICE RD, ROGERS RD, THIELE RD, WATSON RD, WOOPEN CREEK RD",
@@ -624,9 +624,126 @@
         "STREETS": "BEVERLEY RD, BURTONS RD, DAISYBANK RD, MAYFIELD RD",
         "SUBURBS": "ROMA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.970279,
+              -27.551996
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.960534,
+                  -27.547885
+                ],
+                [
+                  151.9607,
+                  -27.548337
+                ],
+                [
+                  151.96071,
+                  -27.548362
+                ],
+                [
+                  151.962442,
+                  -27.552287
+                ],
+                [
+                  151.962443,
+                  -27.552289
+                ],
+                [
+                  151.962685,
+                  -27.552827
+                ],
+                [
+                  151.962724,
+                  -27.552897
+                ],
+                [
+                  151.972453,
+                  -27.566931
+                ],
+                [
+                  151.973373,
+                  -27.566803
+                ],
+                [
+                  151.980011,
+                  -27.543105
+                ],
+                [
+                  151.980025,
+                  -27.542964
+                ],
+                [
+                  151.979761,
+                  -27.539665
+                ],
+                [
+                  151.979653,
+                  -27.539417
+                ],
+                [
+                  151.97887,
+                  -27.538539
+                ],
+                [
+                  151.978705,
+                  -27.538419
+                ],
+                [
+                  151.975747,
+                  -27.537061
+                ],
+                [
+                  151.975203,
+                  -27.537108
+                ],
+                [
+                  151.961102,
+                  -27.547041
+                ],
+                [
+                  151.961062,
+                  -27.547073
+                ],
+                [
+                  151.960661,
+                  -27.547424
+                ],
+                [
+                  151.960534,
+                  -27.547885
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8190",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "797",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:35PM 28 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALFORD ST, ALLINGA ST, BALMORAL CL, BEATTY ST, BRIDGE ST, BRODIE ST, CHATSWOOD CL, COLLINS ST, COVENTRY CT, CURZON ST, DALSTON CT, FERGUSON ST, GENTLE ST, GEOFFREY ST, GLENDOWER ST, GRASMERE CT, HARVEY ST, HUNTINGDALE CT, JELLICOE ST, KNIGHT ST, KOOROONGAH ST, LOCHEL ST, MACKENZIE ST, MARTINDALE CT, MARY ST, MOLONEY ST, NEW ST, PICCADILLY CT, RANGE ST, RANNERDALE CL, RHYDE ST, SHERWOOD ST, SIDNEY ST, ST IVES CT, ST PETERS CL, STONEHAVEN ST, STUART ST, WARANA AVE, WENDY CT, WINDEMERE TCE, WONDERLEY ST, WOOLDRIDGE ST",
+        "SUBURBS": "EAST TOOWOOMBA, MOUNT LOFTY, NORTH TOOWOOMBA, TOOWOOMBA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714271703.22089"
+  "extracted": "1714272001.623409"
 }
