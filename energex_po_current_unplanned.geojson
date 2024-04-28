@@ -1,8 +1,98 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.39484,
+              -28.008929
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.392896,
+                  -28.009544
+                ],
+                [
+                  153.393061,
+                  -28.009577
+                ],
+                [
+                  153.39307,
+                  -28.009579
+                ],
+                [
+                  153.394432,
+                  -28.009828
+                ],
+                [
+                  153.39465,
+                  -28.009826
+                ],
+                [
+                  153.396722,
+                  -28.009398
+                ],
+                [
+                  153.397115,
+                  -28.008945
+                ],
+                [
+                  153.396693,
+                  -28.008513
+                ],
+                [
+                  153.393541,
+                  -28.00803
+                ],
+                [
+                  153.393031,
+                  -28.008225
+                ],
+                [
+                  153.39273,
+                  -28.008625
+                ],
+                [
+                  153.39271,
+                  -28.008654
+                ],
+                [
+                  153.392566,
+                  -28.008882
+                ],
+                [
+                  153.392896,
+                  -28.009544
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756929-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "5:32PM 28 Apr 2024",
+        "EST_FIX_TIME": "8:00PM 28 Apr 2024",
+        "STREETS": "ASHMORE RD, CARRARA ST",
+        "SUBURBS": "BENOWA"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714289405.183505"
+  "extracted": "1714289701.080757"
 }
