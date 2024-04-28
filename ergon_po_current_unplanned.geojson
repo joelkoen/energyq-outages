@@ -10,6 +10,148 @@
           {
             "type": "Point",
             "coordinates": [
+              148.819878,
+              -25.254798
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.820374,
+                  -25.254792
+                ],
+                [
+                  148.819871,
+                  -25.254347
+                ],
+                [
+                  148.819382,
+                  -25.254804
+                ],
+                [
+                  148.819885,
+                  -25.25525
+                ],
+                [
+                  148.820374,
+                  -25.254792
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6141",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:44PM 28 Apr 2024",
+        "EST_FIX_TIME": "2:00PM 28 Apr 2024",
+        "STREETS": "ARCADIA VALLEY RD",
+        "SUBURBS": "INJUNE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              147.639937,
+              -22.810384
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.634038,
+                  -22.811295
+                ],
+                [
+                  147.636523,
+                  -22.81233
+                ],
+                [
+                  147.636738,
+                  -22.81237
+                ],
+                [
+                  147.645659,
+                  -22.81211
+                ],
+                [
+                  147.646117,
+                  -22.811765
+                ],
+                [
+                  147.64588,
+                  -22.811263
+                ],
+                [
+                  147.642846,
+                  -22.809703
+                ],
+                [
+                  147.642762,
+                  -22.809669
+                ],
+                [
+                  147.638648,
+                  -22.808411
+                ],
+                [
+                  147.63839,
+                  -22.808399
+                ],
+                [
+                  147.634365,
+                  -22.809232
+                ],
+                [
+                  147.633991,
+                  -22.809593
+                ],
+                [
+                  147.633758,
+                  -22.810803
+                ],
+                [
+                  147.634038,
+                  -22.811295
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6143",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "12:28PM 28 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CEMETARY RD, NUGGET LANE, OFF CAPELLA RD, TURRAMA RD",
+        "SUBURBS": "CLERMONT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -745,5 +887,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714273201.612493"
+  "extracted": "1714273801.124084"
 }
