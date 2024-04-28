@@ -510,9 +510,86 @@
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
         "STATUS": "Crews working on-site",
         "START": "2:58PM 28 Apr 2024",
-        "EST_FIX_TIME": null,
+        "EST_FIX_TIME": "3:15PM 28 Apr 2024",
         "STREETS": "BAULD RD, BELSON RD, BURTON CL, CLARKES TRK, ELIAS RD, FIRST AVE, FITTOCK ST, FORD RD, FOURTH AVE, GILLIES AVE, HARRIMANS RD, HILLCREST RD, HITCH CONOLE RD, HOGAN HOSIE RD, HOGAN RD, HOSIE RD, ITHACA CL, KENNEDY HWY, KENNY RD, LANDRY RD, LONGLANDS GAP RD, LONGLANDS GAP-HERBERTON RD, MAHONEY RD, MALANDA RD, MALANDA-MILLAA MILLAA RD, MCKELL RD, MERRAGALLAN RD, MILLAA MALANDA RD, MILLAA MILLAA MALANDA RD, MILLAA MILLAA RD, MILLAA MILLAA-MALANDA RD, MOREGATTA RD, NASH RD, OLD MILLAA RD, PATTERSON RD, PELLING CL, PETERSEN RD, PICKLES RD, PLATH RD, ROCK RD, SEAMARK RD, SECOND AVE, SHEEHAN CL, SHEEHAN RD, SOLEY RD, THIAKI CREEK RD, THIRD AVE, TURNER RD, UPPER BARRON RD, WAKEFORD RD",
         "SUBURBS": "ATHERTON, EAST BARRON, EVELYN, GLEN ALLYN, JAGGAN, MALANDA, MILLAA MILLAA, MINBUN, TARZALI, UPPER BARRON, WONDECLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.012454,
+              -17.520027
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.012274,
+                  -17.520827
+                ],
+                [
+                  146.01299,
+                  -17.520529
+                ],
+                [
+                  146.013271,
+                  -17.520159
+                ],
+                [
+                  146.01329,
+                  -17.519978
+                ],
+                [
+                  146.013056,
+                  -17.519542
+                ],
+                [
+                  146.012483,
+                  -17.519226
+                ],
+                [
+                  146.011788,
+                  -17.519519
+                ],
+                [
+                  146.011646,
+                  -17.520134
+                ],
+                [
+                  146.011637,
+                  -17.520186
+                ],
+                [
+                  146.011618,
+                  -17.520367
+                ],
+                [
+                  146.012274,
+                  -17.520827
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5722",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "2:48PM 28 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ACACIA ST, HICKORY ST",
+        "SUBURBS": "GOONDI"
       }
     },
     {
@@ -1088,5 +1165,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714280405.629168"
+  "extracted": "1714280701.214111"
 }
