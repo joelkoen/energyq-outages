@@ -293,6 +293,127 @@
           {
             "type": "Point",
             "coordinates": [
+              145.675638,
+              -17.525637
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.630104,
+                  -17.501757
+                ],
+                [
+                  145.632658,
+                  -17.511056
+                ],
+                [
+                  145.635326,
+                  -17.520743
+                ],
+                [
+                  145.635472,
+                  -17.520969
+                ],
+                [
+                  145.645941,
+                  -17.529689
+                ],
+                [
+                  145.645942,
+                  -17.52969
+                ],
+                [
+                  145.681215,
+                  -17.558889
+                ],
+                [
+                  145.681615,
+                  -17.55899
+                ],
+                [
+                  145.698409,
+                  -17.555788
+                ],
+                [
+                  145.698573,
+                  -17.555724
+                ],
+                [
+                  145.715631,
+                  -17.545097
+                ],
+                [
+                  145.715683,
+                  -17.545059
+                ],
+                [
+                  145.721173,
+                  -17.540473
+                ],
+                [
+                  145.721146,
+                  -17.53977
+                ],
+                [
+                  145.655404,
+                  -17.492728
+                ],
+                [
+                  145.655191,
+                  -17.492643
+                ],
+                [
+                  145.65267,
+                  -17.492283
+                ],
+                [
+                  145.652481,
+                  -17.492293
+                ],
+                [
+                  145.641133,
+                  -17.495172
+                ],
+                [
+                  145.641015,
+                  -17.495219
+                ],
+                [
+                  145.63032,
+                  -17.501252
+                ],
+                [
+                  145.630104,
+                  -17.501757
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5723",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "84",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "4:47PM 28 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BROOKS RD, CAMPBELL RD, DAVIS RD, JUNCTION RD, PALMERSTON HWY, THERESA CREEK RD, WATSON RD, ZILLIE FALLS RD",
+        "SUBURBS": "ELLINJAA, MILLAA MILLAA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -749,5 +870,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714287301.283796"
+  "extracted": "1714287604.15734"
 }
