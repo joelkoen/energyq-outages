@@ -99,6 +99,131 @@
           {
             "type": "Point",
             "coordinates": [
+              150.590797,
+              -24.524037
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.49714,
+                  -24.493708
+                ],
+                [
+                  150.520761,
+                  -24.602009
+                ],
+                [
+                  150.521533,
+                  -24.602286
+                ],
+                [
+                  150.578025,
+                  -24.564919
+                ],
+                [
+                  150.578053,
+                  -24.564899
+                ],
+                [
+                  150.627014,
+                  -24.527311
+                ],
+                [
+                  150.627022,
+                  -24.527305
+                ],
+                [
+                  150.633808,
+                  -24.521857
+                ],
+                [
+                  150.633889,
+                  -24.521773
+                ],
+                [
+                  150.638864,
+                  -24.515142
+                ],
+                [
+                  150.638865,
+                  -24.515141
+                ],
+                [
+                  150.656245,
+                  -24.491796
+                ],
+                [
+                  150.656266,
+                  -24.491765
+                ],
+                [
+                  150.68446,
+                  -24.446461
+                ],
+                [
+                  150.684011,
+                  -24.445788
+                ],
+                [
+                  150.550729,
+                  -24.450886
+                ],
+                [
+                  150.550601,
+                  -24.450906
+                ],
+                [
+                  150.532408,
+                  -24.456152
+                ],
+                [
+                  150.532399,
+                  -24.456154
+                ],
+                [
+                  150.500739,
+                  -24.465874
+                ],
+                [
+                  150.500406,
+                  -24.466252
+                ],
+                [
+                  150.497134,
+                  -24.49357
+                ],
+                [
+                  150.49714,
+                  -24.493708
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6156",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "377",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "11:22AM 28 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AERODROME RD, AUSTEN ST, BLANCHES RD, BLANCHS RD, BRITTEN ST, BURNETT HWY, BURROWS RD, COCKS MILLARD RD, COX MILLARD RD, DIMITREFF LANE, DRUMBERLE RD, DRUMBURLE RD, FORD ST, GAIRDNERS RD, HALLS RD, HINTON RD, HINTONS LANE, KIRKWOODS LANE, LANDS END RD, LESLIE ST, LOOKERBIE RD, MAGGACIS RD, MCLAUGHLINS RD, MEISSNERS RD, MULLERS LANE, MULLERS RD, OLD THANGOOL RD, PARKERS LANE, RACECOURSE RD, RAMSAY ST, RED HILL RD, RUSSELLS LANE, RUSSIAN CLUB RD, SCORIA RD, SEMPLES RD, STANLEY ST, THANGOOL LOOKERBIE RD, THANGOOL RD, THOMSONS LANE, TOLLEMACHES RD, WINSTON ST, ZIEBARTHS RD",
+        "SUBURBS": "BILOELA, THANGOOL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -745,5 +870,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714276501.781874"
+  "extracted": "1714276804.112302"
 }
