@@ -103,111 +103,6 @@
           {
             "type": "Point",
             "coordinates": [
-              152.955636,
-              -27.571629
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.953668,
-                  -27.570173
-                ],
-                [
-                  152.953973,
-                  -27.572469
-                ],
-                [
-                  152.953981,
-                  -27.572513
-                ],
-                [
-                  152.95407,
-                  -27.572874
-                ],
-                [
-                  152.954187,
-                  -27.573347
-                ],
-                [
-                  152.954667,
-                  -27.573702
-                ],
-                [
-                  152.955276,
-                  -27.573718
-                ],
-                [
-                  152.955485,
-                  -27.573683
-                ],
-                [
-                  152.955623,
-                  -27.573632
-                ],
-                [
-                  152.955635,
-                  -27.573628
-                ],
-                [
-                  152.957327,
-                  -27.572955
-                ],
-                [
-                  152.957604,
-                  -27.572408
-                ],
-                [
-                  152.956715,
-                  -27.569871
-                ],
-                [
-                  152.956238,
-                  -27.569555
-                ],
-                [
-                  152.955125,
-                  -27.56954
-                ],
-                [
-                  152.955042,
-                  -27.569545
-                ],
-                [
-                  152.954095,
-                  -27.569673
-                ],
-                [
-                  152.953668,
-                  -27.570173
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-757134-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "85",
-        "REASON": "Emergency Repairs",
-        "STATUS": "Awaiting",
-        "START": "4:45PM 29 Apr 2024",
-        "EST_FIX_TIME": "7:30PM 29 Apr 2024",
-        "STREETS": "BALFOUR ST, IPSWICH RD, SCOTTS RD, WINSLOW ST",
-        "SUBURBS": "DARRA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               153.053027,
               -27.302735
             ]
@@ -316,9 +211,86 @@
         "STREETS": "CHERRY ST, NATHAN ST, ODARE ST, VANCOUVER ST",
         "SUBURBS": "BRIGHTON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.756709,
+              -27.571359
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.749065,
+                  -27.570338
+                ],
+                [
+                  152.754062,
+                  -27.57642
+                ],
+                [
+                  152.754531,
+                  -27.576601
+                ],
+                [
+                  152.763658,
+                  -27.575635
+                ],
+                [
+                  152.764102,
+                  -27.575228
+                ],
+                [
+                  152.764352,
+                  -27.57282
+                ],
+                [
+                  152.76419,
+                  -27.572446
+                ],
+                [
+                  152.756497,
+                  -27.566172
+                ],
+                [
+                  152.755895,
+                  -27.566118
+                ],
+                [
+                  152.749214,
+                  -27.569684
+                ],
+                [
+                  152.749065,
+                  -27.570338
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757142-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "30",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:44PM 29 Apr 2024",
+        "EST_FIX_TIME": "9:00PM 29 Apr 2024",
+        "STREETS": "BLACKWALL RD, FRANCIS ST, KHOLO RD, POWERS RD, THORNTON RD",
+        "SUBURBS": "CHUWAR, MUIRLEA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714376400.291864"
+  "extracted": "1714376707.142927"
 }
