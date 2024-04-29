@@ -1414,6 +1414,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.918369,
+          -27.547456
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7475",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:11AM 30 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 30 Apr 2024",
+        "STREETS": "GREENWATTLE ST, TOMKINSON ST",
+        "SUBURBS": "WILSONTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.918563,
+          -27.553574
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7479",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:10AM 30 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 30 Apr 2024",
+        "STREETS": "JIMBOUR DR, NANDI CT, RISDON ST",
+        "SUBURBS": "NEWTOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           149.06322,
           -27.151515
         ]
@@ -1601,5 +1643,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714425001.065707"
+  "extracted": "1714425302.904406"
 }
