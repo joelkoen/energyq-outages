@@ -10,6 +10,67 @@
           {
             "type": "Point",
             "coordinates": [
+              150.312956,
+              -24.142434
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.313681,
+                  -24.143114
+                ],
+                [
+                  150.313176,
+                  -24.141504
+                ],
+                [
+                  150.312568,
+                  -24.141196
+                ],
+                [
+                  150.312232,
+                  -24.141754
+                ],
+                [
+                  150.312737,
+                  -24.143364
+                ],
+                [
+                  150.313345,
+                  -24.143672
+                ],
+                [
+                  150.313681,
+                  -24.143114
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6229",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 30 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 30 Apr 2024",
+        "STREETS": "GOOVIGEN RD",
+        "SUBURBS": "GOOVIGEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -329,102 +390,9 @@
         "STREETS": "CRAVENTOWN RD, EIDSVOLD THEODORE RD, RADIO STATION RD, ROSS CROSSING RD, WATER SUPPLY RD",
         "SUBURBS": "EIDSVOLD"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.726226,
-              -26.753068
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.69257,
-                  -26.738711
-                ],
-                [
-                  151.70986,
-                  -26.77257
-                ],
-                [
-                  151.710609,
-                  -26.772747
-                ],
-                [
-                  151.758831,
-                  -26.741573
-                ],
-                [
-                  151.758872,
-                  -26.741544
-                ],
-                [
-                  151.759593,
-                  -26.740966
-                ],
-                [
-                  151.759755,
-                  -26.7407
-                ],
-                [
-                  151.759925,
-                  -26.73972
-                ],
-                [
-                  151.759478,
-                  -26.739203
-                ],
-                [
-                  151.693964,
-                  -26.733389
-                ],
-                [
-                  151.69348,
-                  -26.733613
-                ],
-                [
-                  151.693117,
-                  -26.734181
-                ],
-                [
-                  151.693054,
-                  -26.734354
-                ],
-                [
-                  151.692528,
-                  -26.738472
-                ],
-                [
-                  151.69257,
-                  -26.738711
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB5291",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "50",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
-        "START": "2:25AM 30 Apr 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "ELLESMERE RD, KUMBIA BACK RD, KUMBIA BROOKLANDS RD, KUMBIA RD, OAKEY CREEK BACK RD",
-        "SUBURBS": "ALICE CREEK, BROOKLANDS, ELLESMERE, HALY CREEK, KUMBIA"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714431300.927046"
+  "extracted": "1714431604.714091"
 }
