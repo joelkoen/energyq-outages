@@ -1,8 +1,102 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.052485,
+              -27.305133
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.050314,
+                  -27.303825
+                ],
+                [
+                  153.05079,
+                  -27.305871
+                ],
+                [
+                  153.050994,
+                  -27.306148
+                ],
+                [
+                  153.052606,
+                  -27.307162
+                ],
+                [
+                  153.053037,
+                  -27.307226
+                ],
+                [
+                  153.054298,
+                  -27.306901
+                ],
+                [
+                  153.054657,
+                  -27.306399
+                ],
+                [
+                  153.054163,
+                  -27.303499
+                ],
+                [
+                  153.05383,
+                  -27.303141
+                ],
+                [
+                  153.053587,
+                  -27.303065
+                ],
+                [
+                  153.053412,
+                  -27.30304
+                ],
+                [
+                  153.050919,
+                  -27.303081
+                ],
+                [
+                  153.050482,
+                  -27.30332
+                ],
+                [
+                  153.050362,
+                  -27.303521
+                ],
+                [
+                  153.050314,
+                  -27.303825
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757152-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "108",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "7:37PM 29 Apr 2024",
+        "EST_FIX_TIME": "10:30PM 29 Apr 2024",
+        "STREETS": "DUNNE ST, NATHAN ST, SUNWELL ST, WICKHAM ST",
+        "SUBURBS": "BRIGHTON"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714391401.080854"
+  "extracted": "1714391701.650111"
 }
