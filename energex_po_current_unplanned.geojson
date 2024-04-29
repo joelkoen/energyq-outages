@@ -1,8 +1,158 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.056675,
+              -27.416575
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.051231,
+                  -27.418723
+                ],
+                [
+                  153.051364,
+                  -27.421538
+                ],
+                [
+                  153.05145,
+                  -27.421771
+                ],
+                [
+                  153.051515,
+                  -27.421859
+                ],
+                [
+                  153.051987,
+                  -27.422055
+                ],
+                [
+                  153.054275,
+                  -27.421845
+                ],
+                [
+                  153.054308,
+                  -27.421841
+                ],
+                [
+                  153.059871,
+                  -27.420998
+                ],
+                [
+                  153.060218,
+                  -27.420788
+                ],
+                [
+                  153.061978,
+                  -27.418211
+                ],
+                [
+                  153.062052,
+                  -27.417995
+                ],
+                [
+                  153.062119,
+                  -27.416538
+                ],
+                [
+                  153.062097,
+                  -27.416387
+                ],
+                [
+                  153.061438,
+                  -27.414462
+                ],
+                [
+                  153.061368,
+                  -27.414334
+                ],
+                [
+                  153.061049,
+                  -27.413928
+                ],
+                [
+                  153.061005,
+                  -27.413879
+                ],
+                [
+                  153.058215,
+                  -27.411211
+                ],
+                [
+                  153.057671,
+                  -27.411095
+                ],
+                [
+                  153.055441,
+                  -27.411823
+                ],
+                [
+                  153.055272,
+                  -27.411915
+                ],
+                [
+                  153.055084,
+                  -27.41207
+                ],
+                [
+                  153.055012,
+                  -27.412145
+                ],
+                [
+                  153.05291,
+                  -27.414857
+                ],
+                [
+                  153.052859,
+                  -27.41494
+                ],
+                [
+                  153.051325,
+                  -27.418231
+                ],
+                [
+                  153.051293,
+                  -27.418331
+                ],
+                [
+                  153.051238,
+                  -27.418631
+                ],
+                [
+                  153.051231,
+                  -27.418723
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757166-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1856",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "12:56AM 30 Apr 2024",
+        "EST_FIX_TIME": "3:00AM 30 Apr 2024",
+        "STREETS": "ADELAIDE ST, ALEXANDRA RD, ALMA RD, ARMAGH ST, BAYVIEW TCE, CHILDS ST, CLARKSON ST, COLLINS ST, DENHAM ST, DRANE ST, ELIZA ST, ELLIOTT ST, FRANZ RD, GARNET ST, GELLIBRAND ST, HAIG ST, HOCKINGS ST, JUNCTION RD, LIVERPOOL RD, LONDON RD, LUKIN ST, MAXWELL ST, NELLIE ST, RAILWAY PDE, REID AVE, SANDGATE RD, STUCKEY RD, THE AVENUE, THOMAS ST, VICTORIA ST, VINE ST, WAGNER RD, WINIFRED ST, WOLSELEY ST",
+        "SUBURBS": "CLAYFIELD, NUNDAH"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714402501.560697"
+  "extracted": "1714402805.473765"
 }
