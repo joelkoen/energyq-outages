@@ -211,9 +211,122 @@
         "STREETS": "RIVER RD, YANDINA-COOLUM RD",
         "SUBURBS": "MAROOCHY RIVER, VALDORA, YANDINA CREEK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.391181,
+              -27.939453
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.384204,
+                  -27.939097
+                ],
+                [
+                  153.385659,
+                  -27.941031
+                ],
+                [
+                  153.385974,
+                  -27.941221
+                ],
+                [
+                  153.387126,
+                  -27.941441
+                ],
+                [
+                  153.38721,
+                  -27.941451
+                ],
+                [
+                  153.397625,
+                  -27.941868
+                ],
+                [
+                  153.398143,
+                  -27.941521
+                ],
+                [
+                  153.398157,
+                  -27.941465
+                ],
+                [
+                  153.398129,
+                  -27.941181
+                ],
+                [
+                  153.398069,
+                  -27.941059
+                ],
+                [
+                  153.398031,
+                  -27.940995
+                ],
+                [
+                  153.397362,
+                  -27.940069
+                ],
+                [
+                  153.397128,
+                  -27.939745
+                ],
+                [
+                  153.396986,
+                  -27.939616
+                ],
+                [
+                  153.396904,
+                  -27.939566
+                ],
+                [
+                  153.396793,
+                  -27.939515
+                ],
+                [
+                  153.389183,
+                  -27.937041
+                ],
+                [
+                  153.388838,
+                  -27.937039
+                ],
+                [
+                  153.384456,
+                  -27.938421
+                ],
+                [
+                  153.384204,
+                  -27.939097
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757093-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "390",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "2:05PM 29 Apr 2024",
+        "EST_FIX_TIME": "4:30PM 29 Apr 2024",
+        "STREETS": "ALLIED DR, BROWN ST, CALVARY CT, CLOVELLY PL, FREEMAN ST, KENNY DR, OLSEN AVE, ROTARY PL",
+        "SUBURBS": "ARUNDEL, LABRADOR"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714363500.325118"
+  "extracted": "1714363801.271715"
 }
