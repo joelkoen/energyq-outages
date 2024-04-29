@@ -10,6 +10,83 @@
           {
             "type": "Point",
             "coordinates": [
+              150.322414,
+              -24.104338
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.299461,
+                  -24.098305
+                ],
+                [
+                  150.310526,
+                  -24.123589
+                ],
+                [
+                  150.310877,
+                  -24.123862
+                ],
+                [
+                  150.34478,
+                  -24.13063
+                ],
+                [
+                  150.345366,
+                  -24.130098
+                ],
+                [
+                  150.333839,
+                  -24.07903
+                ],
+                [
+                  150.333379,
+                  -24.07867
+                ],
+                [
+                  150.317792,
+                  -24.078045
+                ],
+                [
+                  150.317394,
+                  -24.078207
+                ],
+                [
+                  150.29954,
+                  -24.097848
+                ],
+                [
+                  150.299461,
+                  -24.098305
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6216",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "21",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "5:17PM 29 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BURNETT HWY, DOONEY AND SMITH RD, FIVE-WAYS-LAKE PLEASANT RD, LAKE PLEASANT RD",
+        "SUBURBS": "GOOVIGEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -305,5 +382,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714381207.887821"
+  "extracted": "1714381801.177077"
 }
