@@ -99,8 +99,8 @@
           {
             "type": "Point",
             "coordinates": [
-              146.01685,
-              -17.599069
+              146.019794,
+              -17.59857
             ]
           },
           {
@@ -108,20 +108,20 @@
             "coordinates": [
               [
                 [
-                  146.006472,
-                  -17.596746
+                  146.012361,
+                  -17.599107
                 ],
                 [
-                  146.006638,
-                  -17.607462
+                  146.012882,
+                  -17.605525
                 ],
                 [
-                  146.007203,
-                  -17.607898
+                  146.013393,
+                  -17.60594
                 ],
                 [
-                  146.02023,
-                  -17.605354
+                  146.020178,
+                  -17.605361
                 ],
                 [
                   146.020477,
@@ -148,32 +148,16 @@
                   -17.5912
                 ],
                 [
-                  146.021363,
-                  -17.591198
+                  146.020972,
+                  -17.591312
                 ],
                 [
-                  146.014954,
-                  -17.590241
+                  146.012513,
+                  -17.598738
                 ],
                 [
-                  146.014775,
-                  -17.590247
-                ],
-                [
-                  146.009408,
-                  -17.591435
-                ],
-                [
-                  146.009094,
-                  -17.591671
-                ],
-                [
-                  146.006522,
-                  -17.596534
-                ],
-                [
-                  146.006472,
-                  -17.596746
+                  146.012361,
+                  -17.599107
                 ]
               ]
             ]
@@ -183,13 +167,114 @@
       "properties": {
         "EVENT_ID": "24FN5792",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "51",
+        "CUSTOMERS_AFFECTED": "25",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
         "STATUS": "Crews working on-site",
         "START": "5:20AM 30 Apr 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "BOMBARDERI RD, BOOGAN RD, ENCHONG RD, KATE BOYLAN RD, KURRIMINE RD, MCILWRATH RD, SOUTH JOHNSTONE RD",
-        "SUBURBS": "BOOGAN, MOURILYAN, SILKWOOD, SOUTH JOHNSTONE"
+        "STREETS": "BOMBARDERI RD, BOOGAN RD, ENCHONG RD, KATE BOYLAN RD",
+        "SUBURBS": "BOOGAN, MOURILYAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.035074,
+              -17.52859
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.033771,
+                  -17.528101
+                ],
+                [
+                  146.033801,
+                  -17.528964
+                ],
+                [
+                  146.033835,
+                  -17.529117
+                ],
+                [
+                  146.033938,
+                  -17.529363
+                ],
+                [
+                  146.034178,
+                  -17.529606
+                ],
+                [
+                  146.034993,
+                  -17.529965
+                ],
+                [
+                  146.035026,
+                  -17.529978
+                ],
+                [
+                  146.0352,
+                  -17.53004
+                ],
+                [
+                  146.035634,
+                  -17.529986
+                ],
+                [
+                  146.03608,
+                  -17.529686
+                ],
+                [
+                  146.03628,
+                  -17.529347
+                ],
+                [
+                  146.036376,
+                  -17.528021
+                ],
+                [
+                  146.03618,
+                  -17.527622
+                ],
+                [
+                  146.03551,
+                  -17.527162
+                ],
+                [
+                  146.034999,
+                  -17.52714
+                ],
+                [
+                  146.034005,
+                  -17.527696
+                ],
+                [
+                  146.033771,
+                  -17.528101
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5794",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "45",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:46AM 30 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANNIE ST, BENWELL ST, FITZGERALD ST, MOURILYAN RD",
+        "SUBURBS": "EAST INNISFAIL"
       }
     },
     {
@@ -527,5 +612,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714423800.936517"
+  "extracted": "1714424101.029848"
 }
