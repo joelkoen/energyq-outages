@@ -835,7 +835,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "4",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:00AM 30 Apr 2024",
         "EST_FIX_TIME": "3:00PM 30 Apr 2024",
         "STREETS": "HOFFMANS RD, POWER HOUSE RD, THORNLEY STATION",
@@ -898,7 +898,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "104",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:15AM 30 Apr 2024",
         "EST_FIX_TIME": "2:30PM 30 Apr 2024",
         "STREETS": "CHARLES ST, DESCHAMP ST, FULHAM RD, KEYS CT, LONSDALE ST, MOONEY ST, PLANET PL, SWANSON ST",
@@ -940,7 +940,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "13",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:00AM 30 Apr 2024",
         "EST_FIX_TIME": "2:30PM 30 Apr 2024",
         "STREETS": "CHARLES ST",
@@ -1393,6 +1393,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.956386,
+          -27.45019
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7481",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:49AM 30 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 30 Apr 2024",
+        "STREETS": "BENN CT, MELROSE ST",
+        "SUBURBS": "HIGHFIELDS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           149.06322,
           -27.151515
         ]
@@ -1622,5 +1643,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714427102.566644"
+  "extracted": "1714427400.39867"
 }
