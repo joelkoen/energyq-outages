@@ -868,6 +868,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.610775,
+          -17.555313
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3873",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "97",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 30 Apr 2024",
+        "EST_FIX_TIME": "2:00PM 30 Apr 2024",
+        "STREETS": "BARTER RD, BIGGS RD, BIGGS RD E, KJELLBERG RD, MIDDLEBROOK RD, MULLINS RD, OLD PALMERSTON HWY, PALMERSTON HWY, PERRY RD, PHEASANT RD, WHITING RD",
+        "SUBURBS": "BEATRICE, MAALAN, MIDDLEBROOK, MILLAA MILLAA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.735145,
           -16.831527
         ]
@@ -3325,27 +3346,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.800007,
-          -19.280379
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ7365",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "10",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "12:30PM 04 May 2024",
-        "EST_FIX_TIME": "6:00PM 04 May 2024",
-        "STREETS": "CHARTERS TOWERS RD, HUGHES ST",
-        "SUBURBS": "HERMIT PARK"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           148.245894,
           -20.008687
         ]
@@ -5717,5 +5717,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1714433701.284214"
+  "extracted": "1714434001.253736"
 }
