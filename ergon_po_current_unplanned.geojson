@@ -249,6 +249,107 @@
           {
             "type": "Point",
             "coordinates": [
+              149.071148,
+              -21.210579
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.063698,
+                  -21.211327
+                ],
+                [
+                  149.066681,
+                  -21.216085
+                ],
+                [
+                  149.06701,
+                  -21.216301
+                ],
+                [
+                  149.072543,
+                  -21.217236
+                ],
+                [
+                  149.073053,
+                  -21.217005
+                ],
+                [
+                  149.078649,
+                  -21.207186
+                ],
+                [
+                  149.07859,
+                  -21.20668
+                ],
+                [
+                  149.077542,
+                  -21.205529
+                ],
+                [
+                  149.077537,
+                  -21.205523
+                ],
+                [
+                  149.077222,
+                  -21.205191
+                ],
+                [
+                  149.076954,
+                  -21.205047
+                ],
+                [
+                  149.070789,
+                  -21.203927
+                ],
+                [
+                  149.070637,
+                  -21.203922
+                ],
+                [
+                  149.065745,
+                  -21.204495
+                ],
+                [
+                  149.065338,
+                  -21.20483
+                ],
+                [
+                  149.063647,
+                  -21.210985
+                ],
+                [
+                  149.063698,
+                  -21.211327
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3892",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:34PM 29 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BELLS RD, GRANTS RD",
+        "SUBURBS": "PALMYRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -305,5 +406,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714386301.529642"
+  "extracted": "1714386901.482746"
 }
