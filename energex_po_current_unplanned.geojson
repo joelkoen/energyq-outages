@@ -1,8 +1,118 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.532843,
+              -27.437267
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.493321,
+                  -27.426062
+                ],
+                [
+                  152.537768,
+                  -27.477066
+                ],
+                [
+                  152.538048,
+                  -27.477227
+                ],
+                [
+                  152.545802,
+                  -27.478918
+                ],
+                [
+                  152.546381,
+                  -27.47867
+                ],
+                [
+                  152.555308,
+                  -27.461576
+                ],
+                [
+                  152.555314,
+                  -27.461564
+                ],
+                [
+                  152.572433,
+                  -27.426226
+                ],
+                [
+                  152.572452,
+                  -27.425913
+                ],
+                [
+                  152.569129,
+                  -27.416363
+                ],
+                [
+                  152.56904,
+                  -27.416214
+                ],
+                [
+                  152.555443,
+                  -27.401094
+                ],
+                [
+                  152.555122,
+                  -27.40093
+                ],
+                [
+                  152.514963,
+                  -27.395617
+                ],
+                [
+                  152.514481,
+                  -27.395796
+                ],
+                [
+                  152.495406,
+                  -27.419
+                ],
+                [
+                  152.495327,
+                  -27.419142
+                ],
+                [
+                  152.493234,
+                  -27.425661
+                ],
+                [
+                  152.493321,
+                  -27.426062
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757181-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "294",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "7:24AM 30 Apr 2024",
+        "EST_FIX_TIME": "10:00AM 30 Apr 2024",
+        "STREETS": "BEACON RD, BLUE GUM DR, BRIGHTVIEW RD, CLARENDON RD, CLARENDON STATION RD, CROWS ASH CT, FOREST HILL FERNVALE RD, FOREST HILL-FERNVALE RD, GREY GUM ST, GUTTERIDGE RD, HANRAHAN RD, JENSENS SWAMP RD, KENT RD, LOWOOD-PATRICK ESTATE RD, MAHON RD, MAHONS RD, NUNNS RD, PATRICK ESTATE RD, PATRICK RD, RED ASH CT, RIFLE RANGE RD, RIVER OAK CT, SCHIMKES LANE, SIPPELS RD, VINEYARD RD, WEST RD, WYATTS RD",
+        "SUBURBS": "BRIGHTVIEW, CLARENDON, COOMINYA, LOWOOD, PATRICK ESTATE, RIFLE RANGE, TARAMPA"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714425601.146349"
+  "extracted": "1714425901.151607"
 }
