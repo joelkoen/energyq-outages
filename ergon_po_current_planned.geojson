@@ -238,27 +238,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.2057,
-          -23.879292
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA5765",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "9:00AM 30 Apr 2024",
-        "EST_FIX_TIME": "10:00AM 30 Apr 2024",
-        "STREETS": "WYARA CL",
-        "SUBURBS": "CLINTON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           151.250413,
           -23.892754
         ]
@@ -399,6 +378,27 @@
         "EST_FIX_TIME": "4:30PM 30 Apr 2024",
         "STREETS": "KOWINKA ST, YANGOORA ST",
         "SUBURBS": "WHITE ROCK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.574672,
+          -17.352113
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5005",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:30AM 30 Apr 2024",
+        "EST_FIX_TIME": "12:30PM 30 Apr 2024",
+        "STREETS": "UPPER BARRON RD",
+        "SUBURBS": "MALANDA, UPPER BARRON"
       }
     },
     {
@@ -1118,5 +1118,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714433404.138795"
+  "extracted": "1714433701.284214"
 }
