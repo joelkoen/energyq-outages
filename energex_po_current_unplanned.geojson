@@ -243,9 +243,211 @@
         "STREETS": "CANOPUS CT",
         "SUBURBS": "KINGSTON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.005566,
+              -27.470714
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.002189,
+                  -27.473578
+                ],
+                [
+                  153.003458,
+                  -27.474569
+                ],
+                [
+                  153.004173,
+                  -27.474526
+                ],
+                [
+                  153.004963,
+                  -27.473718
+                ],
+                [
+                  153.005,
+                  -27.473675
+                ],
+                [
+                  153.007225,
+                  -27.470749
+                ],
+                [
+                  153.007256,
+                  -27.470704
+                ],
+                [
+                  153.009091,
+                  -27.467559
+                ],
+                [
+                  153.008965,
+                  -27.467003
+                ],
+                [
+                  153.008936,
+                  -27.466981
+                ],
+                [
+                  153.008661,
+                  -27.46688
+                ],
+                [
+                  153.008434,
+                  -27.466861
+                ],
+                [
+                  153.008385,
+                  -27.466859
+                ],
+                [
+                  153.0067,
+                  -27.466864
+                ],
+                [
+                  153.006417,
+                  -27.466942
+                ],
+                [
+                  153.003825,
+                  -27.468512
+                ],
+                [
+                  153.003628,
+                  -27.468746
+                ],
+                [
+                  153.002041,
+                  -27.473099
+                ],
+                [
+                  153.002189,
+                  -27.473578
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757291-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "479",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "1:20PM 30 Apr 2024",
+        "EST_FIX_TIME": "4:00PM 30 Apr 2024",
+        "STREETS": "CORONATION DR, CRIBB ST, DOUGLAS ST, FORT LANE, GARDNER CL, GRAHAM ST, MARIE ST, MCDOUGALL ST, MILTON RD, PARK RD, PATEN ST, RAILWAY TCE, WALSH ST",
+        "SUBURBS": "MILTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.40907,
+              -28.067069
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.40809,
+                  -28.066593
+                ],
+                [
+                  153.408172,
+                  -28.067005
+                ],
+                [
+                  153.40824,
+                  -28.067163
+                ],
+                [
+                  153.408445,
+                  -28.067458
+                ],
+                [
+                  153.408531,
+                  -28.067551
+                ],
+                [
+                  153.408774,
+                  -28.067753
+                ],
+                [
+                  153.408878,
+                  -28.06782
+                ],
+                [
+                  153.40909,
+                  -28.067922
+                ],
+                [
+                  153.409194,
+                  -28.067959
+                ],
+                [
+                  153.409483,
+                  -28.068032
+                ],
+                [
+                  153.41005,
+                  -28.067843
+                ],
+                [
+                  153.410011,
+                  -28.067307
+                ],
+                [
+                  153.408979,
+                  -28.066223
+                ],
+                [
+                  153.408374,
+                  -28.066106
+                ],
+                [
+                  153.40809,
+                  -28.066593
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757292-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "Damage due to severe weather",
+        "STATUS": "Awaiting",
+        "START": "1:22PM 30 Apr 2024",
+        "EST_FIX_TIME": "6:00PM 30 Apr 2024",
+        "STREETS": "MANLY DR",
+        "SUBURBS": "ROBINA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714447201.378943"
+  "extracted": "1714447500.275411"
 }
