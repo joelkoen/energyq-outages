@@ -172,6 +172,107 @@
           {
             "type": "Point",
             "coordinates": [
+              145.732878,
+              -16.952841
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.730742,
+                  -16.952614
+                ],
+                [
+                  145.732625,
+                  -16.954893
+                ],
+                [
+                  145.732852,
+                  -16.955043
+                ],
+                [
+                  145.733026,
+                  -16.955095
+                ],
+                [
+                  145.733076,
+                  -16.955107
+                ],
+                [
+                  145.734557,
+                  -16.955386
+                ],
+                [
+                  145.735098,
+                  -16.954817
+                ],
+                [
+                  145.73391,
+                  -16.950897
+                ],
+                [
+                  145.733722,
+                  -16.950649
+                ],
+                [
+                  145.73318,
+                  -16.950296
+                ],
+                [
+                  145.732648,
+                  -16.9503
+                ],
+                [
+                  145.731007,
+                  -16.951407
+                ],
+                [
+                  145.730827,
+                  -16.951645
+                ],
+                [
+                  145.730773,
+                  -16.951815
+                ],
+                [
+                  145.73077,
+                  -16.951825
+                ],
+                [
+                  145.730658,
+                  -16.95221
+                ],
+                [
+                  145.730742,
+                  -16.952614
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5826",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "66",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "6:35PM 30 Apr 2024",
+        "EST_FIX_TIME": "10:00PM 30 Apr 2024",
+        "STREETS": "BARNES ST, GRANDVIEW CRES, JACAMUNDA CCT",
+        "SUBURBS": "EARLVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -547,5 +648,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714473301.459731"
+  "extracted": "1714473601.404151"
 }
