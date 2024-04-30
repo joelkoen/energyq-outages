@@ -652,9 +652,126 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.43461,
+              -28.359146
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.32575,
+                  -28.478042
+                ],
+                [
+                  152.329573,
+                  -28.482321
+                ],
+                [
+                  152.330286,
+                  -28.482397
+                ],
+                [
+                  152.393764,
+                  -28.43854
+                ],
+                [
+                  152.393808,
+                  -28.438506
+                ],
+                [
+                  152.429219,
+                  -28.407628
+                ],
+                [
+                  152.429273,
+                  -28.407574
+                ],
+                [
+                  152.446218,
+                  -28.387095
+                ],
+                [
+                  152.446228,
+                  -28.387083
+                ],
+                [
+                  152.543578,
+                  -28.260854
+                ],
+                [
+                  152.543357,
+                  -28.260186
+                ],
+                [
+                  152.478533,
+                  -28.235895
+                ],
+                [
+                  152.478007,
+                  -28.235966
+                ],
+                [
+                  152.417107,
+                  -28.281557
+                ],
+                [
+                  152.417099,
+                  -28.281563
+                ],
+                [
+                  152.384663,
+                  -28.306846
+                ],
+                [
+                  152.38459,
+                  -28.306916
+                ],
+                [
+                  152.328742,
+                  -28.373785
+                ],
+                [
+                  152.328643,
+                  -28.37404
+                ],
+                [
+                  152.325641,
+                  -28.477752
+                ],
+                [
+                  152.32575,
+                  -28.478042
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8249",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "124",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:34AM 01 May 2024",
+        "EST_FIX_TIME": "2:30PM 01 May 2024",
+        "STREETS": "ACACIA PEAK RD, ACACIA PLATEAU RD, ACACIA SCRUB RD, BOWLEYS RD, CARNEYS CREEK RD, CONDAMINE RIVER RD, GOULDS FALLS RD, HOLMES RD, HORNEMANS RD, MT LINDESAY RD, NEW KOREELAH RD, OLD KOREELAH RD, SMITHS RD, SPRING CREEK RD, WATTS RD, WHITE SWAMP RD, WISSEMANN RD, WOODENBONG RD",
+        "SUBURBS": "ACACIA CREEK, ACACIA PLATEAU, BOONAH, CENTRAL KOREELAH, CROFTBY, HEWETSONS MILL, KILLARNEY, LEGUME, NEW KOREELAH, OLD KOREELAH, THE FALLS, THE HEAD, WHITE SWAMP"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714516800.957663"
+  "extracted": "1714517103.564386"
 }
