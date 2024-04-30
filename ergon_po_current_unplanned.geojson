@@ -426,6 +426,83 @@
           {
             "type": "Point",
             "coordinates": [
+              149.171318,
+              -21.460805
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.170425,
+                  -21.462212
+                ],
+                [
+                  149.171166,
+                  -21.461766
+                ],
+                [
+                  149.171246,
+                  -21.461706
+                ],
+                [
+                  149.172434,
+                  -21.4606
+                ],
+                [
+                  149.172506,
+                  -21.460514
+                ],
+                [
+                  149.172849,
+                  -21.459987
+                ],
+                [
+                  149.172738,
+                  -21.459399
+                ],
+                [
+                  149.1721,
+                  -21.459429
+                ],
+                [
+                  149.169827,
+                  -21.461509
+                ],
+                [
+                  149.169787,
+                  -21.462113
+                ],
+                [
+                  149.170425,
+                  -21.462212
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3918",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "10:40PM 30 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "RANGE RD",
+        "SUBURBS": "SARINA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -482,5 +559,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714491903.57016"
+  "extracted": "1714492201.309219"
 }
