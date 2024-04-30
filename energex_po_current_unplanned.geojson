@@ -344,9 +344,94 @@
         "STREETS": "CANOPUS CT",
         "SUBURBS": "KINGSTON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.206218,
+              -27.578745
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.204869,
+                  -27.577408
+                ],
+                [
+                  153.205333,
+                  -27.57858
+                ],
+                [
+                  153.205619,
+                  -27.579302
+                ],
+                [
+                  153.206144,
+                  -27.580626
+                ],
+                [
+                  153.206333,
+                  -27.580847
+                ],
+                [
+                  153.206828,
+                  -27.581153
+                ],
+                [
+                  153.207428,
+                  -27.581138
+                ],
+                [
+                  153.207591,
+                  -27.580623
+                ],
+                [
+                  153.205903,
+                  -27.576628
+                ],
+                [
+                  153.205377,
+                  -27.576338
+                ],
+                [
+                  153.204928,
+                  -27.576718
+                ],
+                [
+                  153.204846,
+                  -27.577189
+                ],
+                [
+                  153.204869,
+                  -27.577408
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757233-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "10:30AM 30 Apr 2024",
+        "EST_FIX_TIME": "1:00PM 30 Apr 2024",
+        "STREETS": "HENDERSON RD",
+        "SUBURBS": "SHELDON"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714437001.564297"
+  "extracted": "1714437301.22812"
 }
