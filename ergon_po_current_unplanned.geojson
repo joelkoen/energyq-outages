@@ -10,6 +10,75 @@
           {
             "type": "Point",
             "coordinates": [
+              150.151439,
+              -25.07587
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.14873,
+                  -25.078364
+                ],
+                [
+                  150.15475,
+                  -25.074093
+                ],
+                [
+                  150.154839,
+                  -25.073463
+                ],
+                [
+                  150.154148,
+                  -25.073377
+                ],
+                [
+                  150.151036,
+                  -25.075509
+                ],
+                [
+                  150.151023,
+                  -25.075518
+                ],
+                [
+                  150.148115,
+                  -25.077657
+                ],
+                [
+                  150.148038,
+                  -25.078288
+                ],
+                [
+                  150.14873,
+                  -25.078364
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6299",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "5:44AM 01 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CRACOW RD",
+        "SUBURBS": "THEODORE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -656,5 +725,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714513201.596082"
+  "extracted": "1714513502.357527"
 }

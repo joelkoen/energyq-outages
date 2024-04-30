@@ -268,7 +268,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "50",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 01 May 2024",
         "EST_FIX_TIME": "2:30PM 01 May 2024",
         "STREETS": "FRENEY RD, SANDY CREEK RD, SCOUGALL RD, TEA PLANTATION RD, TULLY GORGE RD",
@@ -352,7 +352,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:00AM 01 May 2024",
         "EST_FIX_TIME": "2:00PM 01 May 2024",
         "STREETS": "BRUCE HWY, RAY JONES DR",
@@ -1183,6 +1183,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.935244,
+          -27.598893
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7687",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:43AM 01 May 2024",
+        "EST_FIX_TIME": "4:00PM 01 May 2024",
+        "STREETS": "BRYAN ST",
+        "SUBURBS": "DARLING HEIGHTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.972032,
           -27.544559
         ]
@@ -1664,5 +1685,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714513201.596082"
+  "extracted": "1714513502.357527"
 }
