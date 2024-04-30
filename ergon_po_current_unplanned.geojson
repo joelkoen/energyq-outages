@@ -99,6 +99,91 @@
           {
             "type": "Point",
             "coordinates": [
+              145.729806,
+              -16.952187
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.727629,
+                  -16.952697
+                ],
+                [
+                  145.729551,
+                  -16.954068
+                ],
+                [
+                  145.729748,
+                  -16.95415
+                ],
+                [
+                  145.730475,
+                  -16.954274
+                ],
+                [
+                  145.731007,
+                  -16.95396
+                ],
+                [
+                  145.731982,
+                  -16.950851
+                ],
+                [
+                  145.731902,
+                  -16.95044
+                ],
+                [
+                  145.731754,
+                  -16.95026
+                ],
+                [
+                  145.731279,
+                  -16.950099
+                ],
+                [
+                  145.73069,
+                  -16.950231
+                ],
+                [
+                  145.730555,
+                  -16.950283
+                ],
+                [
+                  145.727668,
+                  -16.951946
+                ],
+                [
+                  145.727629,
+                  -16.952697
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5828",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "35",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "5:32AM 01 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "GRANADILLA DR",
+        "SUBURBS": "EARLVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -474,5 +559,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714508401.726635"
+  "extracted": "1714508701.333625"
 }
