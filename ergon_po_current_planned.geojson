@@ -133,6 +133,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          144.716478,
+          -22.365513
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5237",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 30 Apr 2024",
+        "EST_FIX_TIME": "11:00AM 30 Apr 2024",
+        "STREETS": "ARAMAC-MUTTABURRA RD, MUTTABURRA-PRAIRIE RD, POTOSI RD, UNKNOWN ST",
+        "SUBURBS": "MUTTABURRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.574848,
           -23.724004
         ]
@@ -207,7 +228,7 @@
         "REASON": "The loss of supply is to connect new customers to the electricity network",
         "STATUS": "Crews working on-site",
         "START": "8:44AM 30 Apr 2024",
-        "EST_FIX_TIME": "9:30AM 30 Apr 2024",
+        "EST_FIX_TIME": "10:30AM 30 Apr 2024",
         "STREETS": "GREGORY HWY",
         "SUBURBS": "GINDIE"
       }
@@ -1181,5 +1202,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714434601.304155"
+  "extracted": "1714434900.315295"
 }
