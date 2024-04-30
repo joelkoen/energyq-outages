@@ -625,7 +625,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "27",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 01 May 2024",
         "EST_FIX_TIME": "12:30PM 01 May 2024",
         "STREETS": "FILIPPO CL, GALVIN ST, NEARY CL, WIMBLE ST",
@@ -1351,6 +1351,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.804573,
+          -21.303349
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3505",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 01 May 2024",
+        "EST_FIX_TIME": "3:00PM 01 May 2024",
+        "STREETS": "PINEVALE RD, WELSHS RD",
+        "SUBURBS": "PINEVALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           149.202461,
           -21.432044
         ]
@@ -1444,7 +1465,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "51",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 01 May 2024",
         "EST_FIX_TIME": "3:00PM 01 May 2024",
         "STREETS": "BAROS ST, BROOKE LANE, DAYDREAM CCT, WATERWAY DR",
@@ -1486,7 +1507,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "149",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 01 May 2024",
         "EST_FIX_TIME": "2:30PM 01 May 2024",
         "STREETS": "BADELONA ST, CADIZ CT, CASTELLANA ST, CORRES CT, LLORET CT, MARBELLA ST, SERRANO CRES, SOTELO ST, VALENCIA ST, WATTLE ST",
@@ -4289,5 +4310,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1714515302.820157"
+  "extracted": "1714515600.359203"
 }
