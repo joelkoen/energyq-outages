@@ -68,7 +68,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "4",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "7:54PM 30 Apr 2024",
         "EST_FIX_TIME": null,
         "STREETS": "MOUNT RAE RD",
@@ -491,107 +491,6 @@
           {
             "type": "Point",
             "coordinates": [
-              146.285909,
-              -18.576028
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  146.283569,
-                  -18.580038
-                ],
-                [
-                  146.285708,
-                  -18.581115
-                ],
-                [
-                  146.285911,
-                  -18.581167
-                ],
-                [
-                  146.286641,
-                  -18.581195
-                ],
-                [
-                  146.287123,
-                  -18.580839
-                ],
-                [
-                  146.288494,
-                  -18.574838
-                ],
-                [
-                  146.288501,
-                  -18.574689
-                ],
-                [
-                  146.288137,
-                  -18.571777
-                ],
-                [
-                  146.287783,
-                  -18.571392
-                ],
-                [
-                  146.287067,
-                  -18.571218
-                ],
-                [
-                  146.287026,
-                  -18.57121
-                ],
-                [
-                  146.284779,
-                  -18.570861
-                ],
-                [
-                  146.284232,
-                  -18.571257
-                ],
-                [
-                  146.283326,
-                  -18.579014
-                ],
-                [
-                  146.283324,
-                  -18.579059
-                ],
-                [
-                  146.283317,
-                  -18.579634
-                ],
-                [
-                  146.283569,
-                  -18.580038
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ8043",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "165",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews on route",
-        "START": "5:56PM 30 Apr 2024",
-        "EST_FIX_TIME": "9:30PM 30 Apr 2024",
-        "STREETS": "ACACIA RD, ALMA ST, ECHIDNA ST, HERRON ST, HINCHINBROOK CT, HOFFENSETZ ST, LUCINDA RD, MACROSSAN ST, MAMBRINI ST, MONA RD, RIVER AVE, RUPP ST, SCOTT ST, SHAWS AVE",
-        "SUBURBS": "HALIFAX"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -648,5 +547,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714473012.62205"
+  "extracted": "1714473301.459731"
 }
