@@ -511,27 +511,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.154647,
-          -21.025548
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK3467",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "11",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:00AM 01 May 2024",
-        "EST_FIX_TIME": "11:00AM 01 May 2024",
-        "STREETS": "SHOAL POINT RD",
-        "SUBURBS": "BUCASIA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           148.804573,
           -21.303349
         ]
@@ -924,6 +903,27 @@
         "EST_FIX_TIME": "2:30PM 01 May 2024",
         "STREETS": "ADAVALE RIVER RD, ADAVALE-BLACK RD, ADAVALE-BLACKALL RD, ADAVALE-CHARLEVILLE RD, AMBATHALA RD, AMBETHELLA RD, AUGATHELLA-CHARLEVILLE RD, BUDGERYGAR RD, CANAWAY RD, CHARLEVILLE-ADAVALE RD, CHEEPIE RD, CHEEPIE-ADAVALE RD, DIAMANTINA DEVELOPMENTAL RD, MAIN ST, MCKINLAY ST, MILO RD, NELSON ST, QUILPIE-ADAVALE RD, RED RD, SHEPHERD ST, TRINIDAD RD, UNKNOWN RD, WELLCLOSE RD",
         "SUBURBS": "ADAVALE, CHARLEVILLE, CHEEPIE, JUNDAH, QUILPIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.50419,
+          -27.811645
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7369",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 01 May 2024",
+        "EST_FIX_TIME": "3:00PM 01 May 2024",
+        "STREETS": "BALMORAL RD, GIBBS RD, HOLMES RD, JANZ RD, KEENE RD, MADDERN RD, MANN SILO RD, SCHOOL RD, YARRAMALONG RD",
+        "SUBURBS": "BROOKSTEAD, KINCORA, PAMPAS"
       }
     },
     {
@@ -1412,5 +1412,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714519201.190125"
+  "extracted": "1714519501.095067"
 }
