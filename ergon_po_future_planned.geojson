@@ -3073,6 +3073,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.916745,
+          -27.563661
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7679",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:46AM 01 May 2024",
+        "EST_FIX_TIME": "4:00PM 01 May 2024",
+        "STREETS": "BLUE GUM DR, WALNUT CT",
+        "SUBURBS": "NEWTOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.935244,
           -27.598893
         ]
@@ -3607,7 +3628,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "30",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 01 May 2024",
         "EST_FIX_TIME": "3:00PM 01 May 2024",
         "STREETS": "GOODWOOD RD, SIMS RD, WEBBS RD",
@@ -4478,5 +4499,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1714513502.357527"
+  "extracted": "1714513800.323331"
 }
