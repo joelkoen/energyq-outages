@@ -10,6 +10,79 @@
           {
             "type": "Point",
             "coordinates": [
+              150.477866,
+              -22.991284
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.47178,
+                  -23.002804
+                ],
+                [
+                  150.475061,
+                  -23.008743
+                ],
+                [
+                  150.47585,
+                  -23.008845
+                ],
+                [
+                  150.483886,
+                  -23.000894
+                ],
+                [
+                  150.484001,
+                  -23.000472
+                ],
+                [
+                  150.476569,
+                  -22.974058
+                ],
+                [
+                  150.476067,
+                  -22.973722
+                ],
+                [
+                  150.475615,
+                  -22.974115
+                ],
+                [
+                  150.471731,
+                  -23.002542
+                ],
+                [
+                  150.47178,
+                  -23.002804
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6305",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "5:23AM 01 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CANAL CREEK RD, CHARCOAL RD",
+        "SUBURBS": "ROSSMOYA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -656,5 +729,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714514401.357815"
+  "extracted": "1714514701.343704"
 }
