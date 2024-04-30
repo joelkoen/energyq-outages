@@ -1,8 +1,86 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.959334,
+              -27.48038
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.953904,
+                  -27.480005
+                ],
+                [
+                  152.959068,
+                  -27.484748
+                ],
+                [
+                  152.959499,
+                  -27.484881
+                ],
+                [
+                  152.95996,
+                  -27.484825
+                ],
+                [
+                  152.960279,
+                  -27.48467
+                ],
+                [
+                  152.964647,
+                  -27.480076
+                ],
+                [
+                  152.964764,
+                  -27.479733
+                ],
+                [
+                  152.964316,
+                  -27.476247
+                ],
+                [
+                  152.963626,
+                  -27.475879
+                ],
+                [
+                  152.95408,
+                  -27.479271
+                ],
+                [
+                  152.953904,
+                  -27.480005
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757415-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "3:15AM 01 May 2024",
+        "EST_FIX_TIME": "8:30AM 01 May 2024",
+        "STREETS": "MT COOT-THA RD, SIR SAMUEL GRIFFITH DR",
+        "SUBURBS": "MT COOTTHA"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714507800.409909"
+  "extracted": "1714508101.356829"
 }
