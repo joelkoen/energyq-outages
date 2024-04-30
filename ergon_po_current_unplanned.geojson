@@ -168,6 +168,131 @@
           {
             "type": "Point",
             "coordinates": [
+              146.800787,
+              -19.292137
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.796593,
+                  -19.294033
+                ],
+                [
+                  146.796718,
+                  -19.294606
+                ],
+                [
+                  146.796754,
+                  -19.294708
+                ],
+                [
+                  146.796931,
+                  -19.295064
+                ],
+                [
+                  146.797153,
+                  -19.295278
+                ],
+                [
+                  146.798322,
+                  -19.295816
+                ],
+                [
+                  146.798484,
+                  -19.295859
+                ],
+                [
+                  146.799068,
+                  -19.295913
+                ],
+                [
+                  146.799232,
+                  -19.295901
+                ],
+                [
+                  146.804755,
+                  -19.294567
+                ],
+                [
+                  146.804988,
+                  -19.293823
+                ],
+                [
+                  146.799834,
+                  -19.288504
+                ],
+                [
+                  146.799418,
+                  -19.288362
+                ],
+                [
+                  146.797694,
+                  -19.288592
+                ],
+                [
+                  146.797369,
+                  -19.288781
+                ],
+                [
+                  146.797265,
+                  -19.288923
+                ],
+                [
+                  146.797187,
+                  -19.289104
+                ],
+                [
+                  146.796963,
+                  -19.290327
+                ],
+                [
+                  146.79696,
+                  -19.29035
+                ],
+                [
+                  146.796919,
+                  -19.290672
+                ],
+                [
+                  146.796918,
+                  -19.290682
+                ],
+                [
+                  146.796586,
+                  -19.293897
+                ],
+                [
+                  146.796593,
+                  -19.294033
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8041",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "307",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "4:31PM 30 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOWEN RD, CARMODY ST, FORREST ST, HALLORAN ST, HODEL ST, JAMESON ST, LINDSAY ST, NORRIS ST, QUEENS RD, SHERRIFF ST, SPRING ST",
+        "SUBURBS": "HERMIT PARK, ROSSLEA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -224,5 +349,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714462205.906465"
+  "extracted": "1714462501.421353"
 }
