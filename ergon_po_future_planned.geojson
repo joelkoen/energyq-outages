@@ -1750,6 +1750,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          144.980504,
+          -18.998931
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6624",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:00AM 01 May 2024",
+        "EST_FIX_TIME": "8:00AM 01 May 2024",
+        "STREETS": "CASSIA CT",
+        "SUBURBS": "GREENVALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.325512,
           -19.004541
         ]
@@ -4123,6 +4144,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.715274,
+          -25.540434
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4862",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:06AM 01 May 2024",
+        "EST_FIX_TIME": "5:00PM 01 May 2024",
+        "STREETS": "CAMBRIDGE ST, GRANVILLE TCE",
+        "SUBURBS": "GRANVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.717467,
+          -25.54245
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4865",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:05AM 01 May 2024",
+        "EST_FIX_TIME": "5:00PM 01 May 2024",
+        "STREETS": "DUNDAS ST, MAY ST, MIRAMONT ST",
+        "SUBURBS": "GRANVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.721514,
           -25.546403
         ]
@@ -4436,5 +4499,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1714511101.148045"
+  "extracted": "1714511401.888377"
 }
