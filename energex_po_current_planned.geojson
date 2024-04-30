@@ -91,6 +91,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.653897,
+          -26.220121
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-745259-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "Planned Maintenance",
+        "STATUS": "In Progress",
+        "START": "10:00AM 30 Apr 2024",
+        "EST_FIX_TIME": "12:30PM 30 Apr 2024",
+        "STREETS": "SORENSEN RD",
+        "SUBURBS": "SOUTHSIDE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           153.301702,
           -27.613744
         ]
@@ -971,5 +992,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714436700.285218"
+  "extracted": "1714437001.564297"
 }
