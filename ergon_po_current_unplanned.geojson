@@ -10,6 +10,79 @@
           {
             "type": "Point",
             "coordinates": [
+              150.659303,
+              -23.072837
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.658271,
+                  -23.072551
+                ],
+                [
+                  150.659065,
+                  -23.073707
+                ],
+                [
+                  150.659799,
+                  -23.073803
+                ],
+                [
+                  150.660244,
+                  -23.07344
+                ],
+                [
+                  150.660336,
+                  -23.072865
+                ],
+                [
+                  150.659929,
+                  -23.072257
+                ],
+                [
+                  150.659628,
+                  -23.072055
+                ],
+                [
+                  150.658796,
+                  -23.071871
+                ],
+                [
+                  150.658285,
+                  -23.072047
+                ],
+                [
+                  150.658271,
+                  -23.072551
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6273",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "7:54PM 30 Apr 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MOUNT RAE RD",
+        "SUBURBS": "BUNGUNDARRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -418,8 +491,8 @@
           {
             "type": "Point",
             "coordinates": [
-              146.306535,
-              -18.602352
+              146.285909,
+              -18.576028
             ]
           },
           {
@@ -427,76 +500,36 @@
             "coordinates": [
               [
                 [
-                  146.283358,
-                  -18.579822
+                  146.283569,
+                  -18.580038
                 ],
                 [
-                  146.29055,
-                  -18.595234
+                  146.285708,
+                  -18.581115
                 ],
                 [
-                  146.290618,
-                  -18.595339
+                  146.285911,
+                  -18.581167
                 ],
                 [
-                  146.324179,
-                  -18.633772
+                  146.286641,
+                  -18.581195
                 ],
                 [
-                  146.324829,
-                  -18.633843
+                  146.287123,
+                  -18.580839
                 ],
                 [
-                  146.325365,
-                  -18.633456
+                  146.288494,
+                  -18.574838
                 ],
                 [
-                  146.325501,
-                  -18.633302
+                  146.288501,
+                  -18.574689
                 ],
                 [
-                  146.329221,
-                  -18.626383
-                ],
-                [
-                  146.32923,
-                  -18.626365
-                ],
-                [
-                  146.329712,
-                  -18.625362
-                ],
-                [
-                  146.329754,
-                  -18.625154
-                ],
-                [
-                  146.329527,
-                  -18.620207
-                ],
-                [
-                  146.329523,
-                  -18.620167
-                ],
-                [
-                  146.329471,
-                  -18.619802
-                ],
-                [
-                  146.329382,
-                  -18.619592
-                ],
-                [
-                  146.320433,
-                  -18.608133
-                ],
-                [
-                  146.320415,
-                  -18.608111
-                ],
-                [
-                  146.288028,
-                  -18.571539
+                  146.288137,
+                  -18.571777
                 ],
                 [
                   146.287783,
@@ -531,8 +564,8 @@
                   -18.579634
                 ],
                 [
-                  146.283358,
-                  -18.579822
+                  146.283569,
+                  -18.580038
                 ]
               ]
             ]
@@ -542,13 +575,13 @@
       "properties": {
         "EVENT_ID": "24NQ8043",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "435",
+        "CUSTOMERS_AFFECTED": "165",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
         "STATUS": "Crews on route",
         "START": "5:56PM 30 Apr 2024",
-        "EST_FIX_TIME": "11:30PM 30 Apr 2024",
-        "STREETS": "ACACIA RD, ALMA ST, BARRAMUNDI ST, BOAT RAMP RD, BREAM ST, DOLPHIN CRES, ECHIDNA ST, GROPER ST, GRUNTER ST, HERRING ST, HERRON ST, HINCHINBROOK CT, HOFFENSETZ ST, JOHN DORY ST, LUCINDA RD, MACROSSAN ST, MAHONYS RD, MAMBRINI ST, MONA RD, REITANO'S RD, RIVER AVE, RUPP ST, SALMON ST, SARDINE ST, SCOTT ST, SHAWS AVE, TAYLORS BEACH RD, TREVALLY ST, TROUT ST, WHITING ST",
-        "SUBURBS": "HALIFAX, TAYLORS BEACH"
+        "EST_FIX_TIME": "9:30PM 30 Apr 2024",
+        "STREETS": "ACACIA RD, ALMA ST, ECHIDNA ST, HERRON ST, HINCHINBROOK CT, HOFFENSETZ ST, LUCINDA RD, MACROSSAN ST, MAMBRINI ST, MONA RD, RIVER AVE, RUPP ST, SCOTT ST, SHAWS AVE",
+        "SUBURBS": "HALIFAX"
       }
     },
     {
@@ -615,5 +648,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714472701.386682"
+  "extracted": "1714473012.62205"
 }
