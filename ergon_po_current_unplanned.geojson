@@ -10,91 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              144.716478,
-              -22.365513
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  144.585417,
-                  -22.569216
-                ],
-                [
-                  144.68121,
-                  -22.424478
-                ],
-                [
-                  144.681214,
-                  -22.424472
-                ],
-                [
-                  144.848384,
-                  -22.162259
-                ],
-                [
-                  144.848238,
-                  -22.161654
-                ],
-                [
-                  144.847581,
-                  -22.161755
-                ],
-                [
-                  144.75024,
-                  -22.280621
-                ],
-                [
-                  144.750198,
-                  -22.280681
-                ],
-                [
-                  144.612535,
-                  -22.519243
-                ],
-                [
-                  144.612533,
-                  -22.519247
-                ],
-                [
-                  144.584573,
-                  -22.56877
-                ],
-                [
-                  144.584763,
-                  -22.569372
-                ],
-                [
-                  144.585417,
-                  -22.569216
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA6234",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "8",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
-        "START": "10:05AM 30 Apr 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "ARAMAC-MUTTABURRA RD, MUTTABURRA-PRAIRIE RD, POTOSI RD, UNKNOWN ST",
-        "SUBURBS": "MUTTABURRA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -305,9 +220,94 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.043538,
+              -28.230661
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.043869,
+                  -28.231675
+                ],
+                [
+                  152.043902,
+                  -28.231495
+                ],
+                [
+                  152.043902,
+                  -28.231494
+                ],
+                [
+                  152.043927,
+                  -28.231361
+                ],
+                [
+                  152.043927,
+                  -28.23136
+                ],
+                [
+                  152.04421,
+                  -28.22979
+                ],
+                [
+                  152.043789,
+                  -28.229275
+                ],
+                [
+                  152.043207,
+                  -28.229646
+                ],
+                [
+                  152.043156,
+                  -28.229917
+                ],
+                [
+                  152.043156,
+                  -28.22992
+                ],
+                [
+                  152.042866,
+                  -28.231532
+                ],
+                [
+                  152.043287,
+                  -28.232047
+                ],
+                [
+                  152.043869,
+                  -28.231675
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8260",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:38AM 30 Apr 2024",
+        "EST_FIX_TIME": "12:00PM 30 Apr 2024",
+        "STREETS": "EAST ST",
+        "SUBURBS": "WARWICK"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714437301.243742"
+  "extracted": "1714437600.444797"
 }
