@@ -669,9 +669,82 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.514703,
+              -28.829323
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.466359,
+                  -28.894782
+                ],
+                [
+                  145.562694,
+                  -28.923193
+                ],
+                [
+                  145.563369,
+                  -28.922749
+                ],
+                [
+                  145.558419,
+                  -28.805445
+                ],
+                [
+                  145.558385,
+                  -28.8053
+                ],
+                [
+                  145.528158,
+                  -28.735743
+                ],
+                [
+                  145.52767,
+                  -28.735454
+                ],
+                [
+                  145.527195,
+                  -28.73576
+                ],
+                [
+                  145.466037,
+                  -28.894209
+                ],
+                [
+                  145.466359,
+                  -28.894782
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8332",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 02 May 2024",
+        "EST_FIX_TIME": "12:00PM 02 May 2024",
+        "STREETS": "GLENTUCKIE RD, MITCHELL HWY",
+        "SUBURBS": "CUNNAMULLA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714604701.015574"
+  "extracted": "1714605000.384498"
 }
