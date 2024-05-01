@@ -374,6 +374,83 @@
           {
             "type": "Point",
             "coordinates": [
+              142.728157,
+              -20.19799
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  142.57551,
+                  -20.266325
+                ],
+                [
+                  142.637232,
+                  -20.338622
+                ],
+                [
+                  142.63778,
+                  -20.338758
+                ],
+                [
+                  142.880578,
+                  -20.247844
+                ],
+                [
+                  142.880832,
+                  -20.24723
+                ],
+                [
+                  142.784473,
+                  -20.05744
+                ],
+                [
+                  142.783848,
+                  -20.057223
+                ],
+                [
+                  142.693104,
+                  -20.095387
+                ],
+                [
+                  142.692898,
+                  -20.095553
+                ],
+                [
+                  142.575482,
+                  -20.265797
+                ],
+                [
+                  142.57551,
+                  -20.266325
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8063",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "11:12AM 01 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BYLONG STATION, PIALAH STATION, RUNNYMEDE STATION, SOLWAY DOWNS STATION, SOMERVILLE STATION, TRIVALORE STATION, TRIVILORE STATION",
+        "SUBURBS": "MAXWELTON, RICHMOND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -632,5 +709,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714525801.39457"
+  "extracted": "1714526104.425501"
 }
