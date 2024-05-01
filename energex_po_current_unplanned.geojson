@@ -94,9 +94,118 @@
         "STREETS": "ASHBURTON CT, BARRINGTON PL, BOTTLEBRUSH CT, COVENTRY PL, CRAIGSLEA DR, HEATHBROOK CT, MAHOGANY DR, OLD GYMPIE RD, PORTER RD",
         "SUBURBS": "CABOOLTURE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.278821,
+              -27.53392
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.276652,
+                  -27.534101
+                ],
+                [
+                  153.276705,
+                  -27.534273
+                ],
+                [
+                  153.276949,
+                  -27.534547
+                ],
+                [
+                  153.27883,
+                  -27.535473
+                ],
+                [
+                  153.279044,
+                  -27.535529
+                ],
+                [
+                  153.279673,
+                  -27.535563
+                ],
+                [
+                  153.279775,
+                  -27.535569
+                ],
+                [
+                  153.28005,
+                  -27.535583
+                ],
+                [
+                  153.280051,
+                  -27.535584
+                ],
+                [
+                  153.280476,
+                  -27.535606
+                ],
+                [
+                  153.281003,
+                  -27.53507
+                ],
+                [
+                  153.280605,
+                  -27.533209
+                ],
+                [
+                  153.280507,
+                  -27.533015
+                ],
+                [
+                  153.27994,
+                  -27.532369
+                ],
+                [
+                  153.279338,
+                  -27.532234
+                ],
+                [
+                  153.27701,
+                  -27.533141
+                ],
+                [
+                  153.276712,
+                  -27.533486
+                ],
+                [
+                  153.276639,
+                  -27.533911
+                ],
+                [
+                  153.276652,
+                  -27.534101
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757635-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "116",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "10:19PM 01 May 2024",
+        "EST_FIX_TIME": "12:00AM 02 May 2024",
+        "STREETS": "COBURG ST E, GOTHA ST, PASSAGE ST, PRINCESS ST",
+        "SUBURBS": "CLEVELAND"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714566604.330281"
+  "extracted": "1714566901.403244"
 }
