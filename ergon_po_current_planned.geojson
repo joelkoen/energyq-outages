@@ -457,7 +457,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "16",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 02 May 2024",
         "EST_FIX_TIME": "2:30PM 02 May 2024",
         "STREETS": "FARLEIGH HABANA RD, FARLEIGH-HABANA RD, MACKAY HABANA RD",
@@ -1267,6 +1267,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.724379,
+          -25.538957
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4847",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:22AM 02 May 2024",
+        "EST_FIX_TIME": "5:00PM 02 May 2024",
+        "STREETS": "BANANA ST, CARDIGAN ST",
+        "SUBURBS": "GRANVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.723527,
           -25.534775
         ]
@@ -1280,6 +1301,27 @@
         "START": "7:19AM 02 May 2024",
         "EST_FIX_TIME": "5:00PM 02 May 2024",
         "STREETS": "BURNS ST, ODESSA ST, ROSS ST",
+        "SUBURBS": "GRANVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.72436,
+          -25.5361
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4849",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:20AM 02 May 2024",
+        "EST_FIX_TIME": "5:00PM 02 May 2024",
+        "STREETS": "ROSS ST",
         "SUBURBS": "GRANVILLE"
       }
     },
@@ -1302,6 +1344,27 @@
         "EST_FIX_TIME": "11:00AM 02 May 2024",
         "STREETS": "AERODROME RD, FAIRCLOTH CRES",
         "SUBURBS": "BUNDABERG, KENSINGTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.72209,
+          -25.536555
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4932",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:20AM 02 May 2024",
+        "EST_FIX_TIME": "5:00PM 02 May 2024",
+        "STREETS": "BANANA ST, ELLIOTT ST, GICK ST, MARYBOROUGH ST, MURRAY ST, ODESSA ST",
+        "SUBURBS": "GRANVILLE"
       }
     },
     {
@@ -1433,5 +1496,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714598400.392826"
+  "extracted": "1714598701.622729"
 }
