@@ -184,7 +184,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "78",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 02 May 2024",
         "EST_FIX_TIME": "2:30PM 02 May 2024",
         "STREETS": "BAMBER ST, BEAHR RD, BRYANT ST, CLARKE KENNEDY ST, DOWZER ST, KEIR RD, KIRK ST, VENTURATO CL",
@@ -415,7 +415,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "12",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 02 May 2024",
         "EST_FIX_TIME": "2:30PM 02 May 2024",
         "STREETS": "PINEVALE RD, WHITEFORDS RD",
@@ -567,6 +567,27 @@
         "EST_FIX_TIME": "2:30PM 02 May 2024",
         "STREETS": "ABBOTT ST, FIG TREE POCKET, LAKESHORE CCT, LAKEWOOD DR, RIVER BVD, SUNVIEW CT, WATERFORD GR, WATERPARK PL, WATERSIDE PL",
         "SUBURBS": "IDALIA, OONOONBA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.489045,
+          -20.713729
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7003",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "30",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 02 May 2024",
+        "EST_FIX_TIME": "3:00PM 02 May 2024",
+        "STREETS": "CARBONATE ST, ISAACSON RD, SKEWES ST, URQUHART ST",
+        "SUBURBS": "SOLDIERS HILL"
       }
     },
     {
@@ -1213,7 +1234,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "53",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 02 May 2024",
         "EST_FIX_TIME": "2:30PM 02 May 2024",
         "STREETS": "BAYRIDGE HEIGHTS DR, MIA CT, PARAME CT, PEAT CT, SAMARAI DR",
@@ -1234,7 +1255,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "61",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 02 May 2024",
         "EST_FIX_TIME": "2:30PM 02 May 2024",
         "STREETS": "BAYRIDGE HEIGHTS DR, BEAGLE AVE, MIA CT, SAMARAI DR, TERESA ST",
@@ -1255,7 +1276,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "65",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 02 May 2024",
         "EST_FIX_TIME": "2:30PM 02 May 2024",
         "STREETS": "BAYRIDGE HEIGHTS DR, MAGGS HILL RD, SANDY VIEW DR, STEEL ST",
@@ -1276,7 +1297,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "57",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 02 May 2024",
         "EST_FIX_TIME": "2:30PM 02 May 2024",
         "STREETS": "HORIZON CT, RIDGE VIEW CT, SAMARAI DR, SANDY VIEW DR, SUMMIT RIDGE DR, SUNAD CT, TERESA ST",
@@ -1328,5 +1349,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714601401.057142"
+  "extracted": "1714601702.821477"
 }
