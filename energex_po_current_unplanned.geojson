@@ -118,9 +118,98 @@
         "STREETS": "AMAROO AVE, BAMBAROO CL, CRESCENT DR, HILLCREST AVE, NAMBOUR-MAPLETON RD, NORMAN AVE, PATTERSON ST, PERLAN ST, ROBYN ST, ST JAMES CT",
         "SUBURBS": "NAMBOUR"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.165266,
+              -27.64712
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.164496,
+                  -27.647756
+                ],
+                [
+                  153.165546,
+                  -27.647876
+                ],
+                [
+                  153.165565,
+                  -27.647878
+                ],
+                [
+                  153.165826,
+                  -27.647899
+                ],
+                [
+                  153.166371,
+                  -27.647529
+                ],
+                [
+                  153.166473,
+                  -27.647024
+                ],
+                [
+                  153.166445,
+                  -27.646777
+                ],
+                [
+                  153.166377,
+                  -27.646624
+                ],
+                [
+                  153.165875,
+                  -27.64634
+                ],
+                [
+                  153.165732,
+                  -27.646348
+                ],
+                [
+                  153.165545,
+                  -27.646391
+                ],
+                [
+                  153.164343,
+                  -27.6469
+                ],
+                [
+                  153.16406,
+                  -27.647379
+                ],
+                [
+                  153.164496,
+                  -27.647756
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757581-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "Damage due to severe weather",
+        "STATUS": "Awaiting",
+        "START": "3:15PM 01 May 2024",
+        "EST_FIX_TIME": "6:00PM 01 May 2024",
+        "STREETS": "HESTER ST",
+        "SUBURBS": "SHAILER PARK"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714540503.309513"
+  "extracted": "1714540801.062"
 }
