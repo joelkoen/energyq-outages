@@ -1085,7 +1085,7 @@
       "properties": {
         "EVENT_ID": "24NQ6790",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "91",
+        "CUSTOMERS_AFFECTED": "90",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:30AM 02 May 2024",
@@ -2443,6 +2443,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.723527,
+          -25.534775
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4848",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:19AM 02 May 2024",
+        "EST_FIX_TIME": "5:00PM 02 May 2024",
+        "STREETS": "BURNS ST, ODESSA ST, ROSS ST",
+        "SUBURBS": "GRANVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.440967,
           -24.835364
         ]
@@ -2651,5 +2672,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1714598103.247265"
+  "extracted": "1714598400.392826"
 }
