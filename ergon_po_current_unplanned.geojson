@@ -516,6 +516,75 @@
           {
             "type": "Point",
             "coordinates": [
+              146.626937,
+              -19.210428
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.624709,
+                  -19.212738
+                ],
+                [
+                  146.628193,
+                  -19.213594
+                ],
+                [
+                  146.628779,
+                  -19.213243
+                ],
+                [
+                  146.629476,
+                  -19.209855
+                ],
+                [
+                  146.629384,
+                  -19.20949
+                ],
+                [
+                  146.627549,
+                  -19.207261
+                ],
+                [
+                  146.626744,
+                  -19.207348
+                ],
+                [
+                  146.624398,
+                  -19.212109
+                ],
+                [
+                  146.624709,
+                  -19.212738
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8098",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:15AM 02 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "HOLSTEIN PL",
+        "SUBURBS": "BLACK RIVER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -645,5 +714,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714605302.82018"
+  "extracted": "1714605600.592329"
 }
