@@ -110,9 +110,110 @@
         "STREETS": "COBURG ST E, GOTHA ST, PASSAGE ST, PRINCESS ST",
         "SUBURBS": "CLEVELAND"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.310006,
+              -28.004694
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.308286,
+                  -28.004789
+                ],
+                [
+                  153.308287,
+                  -28.005195
+                ],
+                [
+                  153.308291,
+                  -28.005249
+                ],
+                [
+                  153.308313,
+                  -28.005411
+                ],
+                [
+                  153.308325,
+                  -28.005465
+                ],
+                [
+                  153.308369,
+                  -28.005624
+                ],
+                [
+                  153.309048,
+                  -28.005935
+                ],
+                [
+                  153.311402,
+                  -28.005117
+                ],
+                [
+                  153.311725,
+                  -28.0047
+                ],
+                [
+                  153.311727,
+                  -28.004477
+                ],
+                [
+                  153.311491,
+                  -28.004093
+                ],
+                [
+                  153.31048,
+                  -28.003523
+                ],
+                [
+                  153.310187,
+                  -28.003453
+                ],
+                [
+                  153.31001,
+                  -28.003459
+                ],
+                [
+                  153.309713,
+                  -28.003557
+                ],
+                [
+                  153.308477,
+                  -28.004435
+                ],
+                [
+                  153.308286,
+                  -28.004789
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757642-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "37",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "11:10PM 01 May 2024",
+        "EST_FIX_TIME": "1:30AM 02 May 2024",
+        "STREETS": "BRANSTON CT, BROOK CT, BURN CT, EALING CT, RILL CT",
+        "SUBURBS": "NERANG"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714569001.105505"
+  "extracted": "1714569303.274463"
 }
