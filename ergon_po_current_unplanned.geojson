@@ -346,6 +346,91 @@
           {
             "type": "Point",
             "coordinates": [
+              146.157095,
+              -20.207318
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.102312,
+                  -20.200834
+                ],
+                [
+                  146.113456,
+                  -20.303862
+                ],
+                [
+                  146.114201,
+                  -20.30419
+                ],
+                [
+                  146.187357,
+                  -20.25723
+                ],
+                [
+                  146.18756,
+                  -20.256932
+                ],
+                [
+                  146.211878,
+                  -20.120695
+                ],
+                [
+                  146.211621,
+                  -20.120216
+                ],
+                [
+                  146.191054,
+                  -20.110446
+                ],
+                [
+                  146.190604,
+                  -20.110456
+                ],
+                [
+                  146.144205,
+                  -20.135185
+                ],
+                [
+                  146.14403,
+                  -20.135345
+                ],
+                [
+                  146.102379,
+                  -20.200555
+                ],
+                [
+                  146.102312,
+                  -20.200834
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8096",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "30",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:16AM 02 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CLERMONT HWY, CONNOLLY RD, CORRAL RD, DIAMANTINA RD, FLINDERS HWY, FLORENCE RD, JESMOND RD, JESMOND STATION, LIONTOWN RD, MCARDLE RD, WINDSOR STATION",
+        "SUBURBS": "BLACK JACK, BROUGHTON, CHARTERS TOWERS, SEVENTY MILE RANGE, SOUTHERN CROSS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -402,5 +487,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714599301.158602"
+  "extracted": "1714599601.157431"
 }
