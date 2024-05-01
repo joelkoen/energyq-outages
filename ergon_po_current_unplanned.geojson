@@ -168,6 +168,67 @@
           {
             "type": "Point",
             "coordinates": [
+              149.263038,
+              -21.608106
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.265479,
+                  -21.607157
+                ],
+                [
+                  149.260396,
+                  -21.608173
+                ],
+                [
+                  149.260024,
+                  -21.608708
+                ],
+                [
+                  149.260597,
+                  -21.609056
+                ],
+                [
+                  149.265681,
+                  -21.60804
+                ],
+                [
+                  149.266052,
+                  -21.607504
+                ],
+                [
+                  149.265479,
+                  -21.607157
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3981",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "11:37AM 01 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "TEDLANDS RD",
+        "SUBURBS": "KOUMALA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               147.424055,
               -19.668895
             ]
@@ -628,5 +689,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714527600.466188"
+  "extracted": "1714527902.502107"
 }
