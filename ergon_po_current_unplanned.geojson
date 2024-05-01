@@ -220,9 +220,126 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.024265,
+              -28.221845
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.022146,
+                  -28.221457
+                ],
+                [
+                  152.022313,
+                  -28.22305
+                ],
+                [
+                  152.022459,
+                  -28.223326
+                ],
+                [
+                  152.023359,
+                  -28.224125
+                ],
+                [
+                  152.023707,
+                  -28.224257
+                ],
+                [
+                  152.025452,
+                  -28.224292
+                ],
+                [
+                  152.025833,
+                  -28.224152
+                ],
+                [
+                  152.025998,
+                  -28.223998
+                ],
+                [
+                  152.026135,
+                  -28.223724
+                ],
+                [
+                  152.026385,
+                  -28.220994
+                ],
+                [
+                  152.026281,
+                  -28.220684
+                ],
+                [
+                  152.025383,
+                  -28.219645
+                ],
+                [
+                  152.025048,
+                  -28.219473
+                ],
+                [
+                  152.02442,
+                  -28.219398
+                ],
+                [
+                  152.024064,
+                  -28.219474
+                ],
+                [
+                  152.022843,
+                  -28.220218
+                ],
+                [
+                  152.02276,
+                  -28.220281
+                ],
+                [
+                  152.02239,
+                  -28.22063
+                ],
+                [
+                  152.022263,
+                  -28.220849
+                ],
+                [
+                  152.022154,
+                  -28.221326
+                ],
+                [
+                  152.022146,
+                  -28.221457
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8376",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "107",
+        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+        "STATUS": "Outage reported",
+        "START": "6:13PM 01 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MARIAN ST, MOGRIDGE ST, MYRTLE AVE, PRATTEN ST, WANTLEY ST, WATTLE AVE",
+        "SUBURBS": "WARWICK"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714551901.149772"
+  "extracted": "1714552203.533032"
 }
