@@ -814,7 +814,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "38",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "7:00AM 02 May 2024",
         "EST_FIX_TIME": "3:00PM 02 May 2024",
         "STREETS": "HOPE ST",
@@ -1429,9 +1429,30 @@
         "STREETS": "LINKFIELD CONNECTION RD, NOLAN RD, SCOUTS CROSSING RD, SOUTH PINE RD",
         "SUBURBS": "BRENDALE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.905965,
+          -26.699609
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757651-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "24",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 02 May 2024",
+        "EST_FIX_TIME": "3:00PM 02 May 2024",
+        "STREETS": "BALMORAL RD, BOONGALA AVE, PALMWOODS-MONTVILLE RD",
+        "SUBURBS": "MONTVILLE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1714593900.317049"
+  "extracted": "1714594201.270969"
 }
