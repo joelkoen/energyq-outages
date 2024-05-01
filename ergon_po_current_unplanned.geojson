@@ -99,103 +99,6 @@
           {
             "type": "Point",
             "coordinates": [
-              141.748848,
-              -15.478143
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  141.743704,
-                  -15.474328
-                ],
-                [
-                  141.743908,
-                  -15.477015
-                ],
-                [
-                  141.743934,
-                  -15.477135
-                ],
-                [
-                  141.744815,
-                  -15.479501
-                ],
-                [
-                  141.745005,
-                  -15.479729
-                ],
-                [
-                  141.753347,
-                  -15.484828
-                ],
-                [
-                  141.75392,
-                  -15.484769
-                ],
-                [
-                  141.753993,
-                  -15.484215
-                ],
-                [
-                  141.746141,
-                  -15.471581
-                ],
-                [
-                  141.745458,
-                  -15.471458
-                ],
-                [
-                  141.744275,
-                  -15.47235
-                ],
-                [
-                  141.744141,
-                  -15.472511
-                ],
-                [
-                  141.743901,
-                  -15.472998
-                ],
-                [
-                  141.74386,
-                  -15.473133
-                ],
-                [
-                  141.743707,
-                  -15.474235
-                ],
-                [
-                  141.743704,
-                  -15.474328
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN5831",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "101",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
-        "START": "6:50AM 01 May 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "CHAPMAN RD, CHELLIKEE ST, GILBERT WHITE ST, KOWANYAMA ST, MINBANGAR ST, PINDI ST, SHELFO RD",
-        "SUBURBS": "KOWANYAMA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -441,6 +344,99 @@
         "EST_FIX_TIME": null,
         "STREETS": "BYLONG STATION, PIALAH STATION, RUNNYMEDE STATION, SOLWAY DOWNS STATION, SOMERVILLE STATION, TRIVALORE STATION, TRIVILORE STATION",
         "SUBURBS": "MAXWELTON, RICHMOND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.719986,
+              -19.375822
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.717681,
+                  -19.376027
+                ],
+                [
+                  146.719565,
+                  -19.377313
+                ],
+                [
+                  146.719798,
+                  -19.377396
+                ],
+                [
+                  146.721317,
+                  -19.377534
+                ],
+                [
+                  146.721432,
+                  -19.377531
+                ],
+                [
+                  146.722033,
+                  -19.377447
+                ],
+                [
+                  146.722438,
+                  -19.377015
+                ],
+                [
+                  146.722489,
+                  -19.375581
+                ],
+                [
+                  146.722138,
+                  -19.37513
+                ],
+                [
+                  146.718178,
+                  -19.37411
+                ],
+                [
+                  146.717591,
+                  -19.374437
+                ],
+                [
+                  146.717549,
+                  -19.374599
+                ],
+                [
+                  146.717535,
+                  -19.374685
+                ],
+                [
+                  146.717483,
+                  -19.375637
+                ],
+                [
+                  146.717681,
+                  -19.376027
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8064",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "11:13AM 01 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ELBERRY CRES, MAIDEN COMBE CT, PEONY CT, SHETLAND PL",
+        "SUBURBS": "KELSO"
       }
     },
     {
@@ -709,5 +705,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714526104.425501"
+  "extracted": "1714526401.103868"
 }
