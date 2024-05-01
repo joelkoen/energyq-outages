@@ -168,6 +168,67 @@
           {
             "type": "Point",
             "coordinates": [
+              149.309562,
+              -21.659358
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.310046,
+                  -21.659023
+                ],
+                [
+                  149.309358,
+                  -21.658828
+                ],
+                [
+                  149.308755,
+                  -21.659129
+                ],
+                [
+                  149.309077,
+                  -21.659692
+                ],
+                [
+                  149.309766,
+                  -21.659887
+                ],
+                [
+                  149.310368,
+                  -21.659586
+                ],
+                [
+                  149.310046,
+                  -21.659023
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3983",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:00PM 01 May 2024",
+        "EST_FIX_TIME": "5:00PM 01 May 2024",
+        "STREETS": "PRICE RD",
+        "SUBURBS": "KOUMALA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -309,5 +370,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714536601.225306"
+  "extracted": "1714536901.284503"
 }
