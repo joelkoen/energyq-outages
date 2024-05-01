@@ -111,10 +111,10 @@
         "EVENT_ID": "INCD-757565-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "110",
-        "REASON": "Emergency Repairs",
+        "REASON": "Powerlines down",
         "STATUS": "Awaiting",
         "START": "2:32PM 01 May 2024",
-        "EST_FIX_TIME": "7:00PM 01 May 2024",
+        "EST_FIX_TIME": "10:00PM 01 May 2024",
         "STREETS": "AMAROO AVE, BAMBAROO CL, CRESCENT DR, HILLCREST AVE, NAMBOUR-MAPLETON RD, NORMAN AVE, PATTERSON ST, PERLAN ST, ROBYN ST, ST JAMES CT",
         "SUBURBS": "NAMBOUR"
       }
@@ -364,90 +364,9 @@
         "STREETS": "ALCOCK RD, ANDERSON ST, ARGYLL ST, ASHBURTON CT, AVALA CRES, BARRINGTON PL, BEERBURRUM RD, BLUETONGUE RD, BOTTLEBRUSH CT, BREADSELL DR, CARAWATHA RD, CESSNOCK CT, CLEARWATER CRES, COUNTRY CT, COVENTRY PL, COWIE ST, CRAIGSLEA DR, DANCES RD, DELL CT, DRADANI CT, DUDGEON ST, FIELD RD, FIN CT, FLAMETREE CT, GERALD CT, GHEKO RIDGE RD, GRIGOR ST, HAMMOND RD, HATCHMAN CT, HEATHBROOK CT, HONEYFLOWER PL, JARRAHDALE TCE, JENSEN RD, KENNEDY ST, KIRBY RD, KIRRANG DR, LYNANDA CT, LYNDHURST TCE, MAHOGANY DR, MCDOUGALL RD, MCGINN CT, MCNABB ST, NASH CT, NORTHVIEW PL, OLD GYMPIE RD, PAULSEN ST, PETERS DR, PORTER RD, PUMICESTONE RD, RUBY ST, SCHOOL RD, SMITHS RD, SOLDIER RD, SOURRIS CT, THREE PONDS PL, TIMBERGROVE RD, TWIN VIEW RD, WHISH ST",
         "SUBURBS": "CABOOLTURE, ELIMBAH"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              152.925432,
-              -27.587537
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.92365,
-                  -27.585161
-                ],
-                [
-                  152.923949,
-                  -27.588203
-                ],
-                [
-                  152.923951,
-                  -27.588216
-                ],
-                [
-                  152.924199,
-                  -27.590083
-                ],
-                [
-                  152.925033,
-                  -27.590372
-                ],
-                [
-                  152.926698,
-                  -27.589095
-                ],
-                [
-                  152.926799,
-                  -27.58899
-                ],
-                [
-                  152.927214,
-                  -27.588392
-                ],
-                [
-                  152.927184,
-                  -27.587879
-                ],
-                [
-                  152.924556,
-                  -27.584846
-                ],
-                [
-                  152.92397,
-                  -27.584701
-                ],
-                [
-                  152.92365,
-                  -27.585161
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-757612-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "25",
-        "REASON": "Emergency Repairs",
-        "STATUS": "Awaiting",
-        "START": "4:38PM 01 May 2024",
-        "EST_FIX_TIME": "7:30PM 01 May 2024",
-        "STREETS": "AIRY ST, AKENSIDE ST, IPSWICH RD, WACOL STATION RD",
-        "SUBURBS": "WACOL"
-      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714548001.043471"
+  "extracted": "1714548300.643637"
 }
