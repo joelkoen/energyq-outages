@@ -102,9 +102,118 @@
         "STREETS": "BONNELL RD, SYLVAN WAY",
         "SUBURBS": "THORNTON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.747804,
+              -27.643985
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.746108,
+                  -27.643464
+                ],
+                [
+                  152.746112,
+                  -27.64606
+                ],
+                [
+                  152.746943,
+                  -27.646407
+                ],
+                [
+                  152.749218,
+                  -27.644727
+                ],
+                [
+                  152.74938,
+                  -27.644509
+                ],
+                [
+                  152.7495,
+                  -27.644149
+                ],
+                [
+                  152.749481,
+                  -27.643843
+                ],
+                [
+                  152.748605,
+                  -27.642011
+                ],
+                [
+                  152.748328,
+                  -27.641769
+                ],
+                [
+                  152.74815,
+                  -27.641705
+                ],
+                [
+                  152.748026,
+                  -27.641676
+                ],
+                [
+                  152.747036,
+                  -27.641564
+                ],
+                [
+                  152.746582,
+                  -27.641723
+                ],
+                [
+                  152.746322,
+                  -27.642001
+                ],
+                [
+                  152.746255,
+                  -27.642093
+                ],
+                [
+                  152.746167,
+                  -27.642256
+                ],
+                [
+                  152.746116,
+                  -27.642449
+                ],
+                [
+                  152.746108,
+                  -27.64346
+                ],
+                [
+                  152.746108,
+                  -27.643464
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757492-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "79",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:25AM 01 May 2024",
+        "EST_FIX_TIME": "1:00PM 01 May 2024",
+        "STREETS": "BARRY WALLACE PL, BERRY ST, GREAVE ST, GREENWAY ST, MCMILLAN ST, SUTTON ST",
+        "SUBURBS": "CHURCHILL, YAMANTO"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714527003.907093"
+  "extracted": "1714527601.387347"
 }
