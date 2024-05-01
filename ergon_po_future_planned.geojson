@@ -532,8 +532,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.185105,
-          -21.445196
+          149.18304,
+          -21.449886
         ]
       },
       "properties": {
@@ -544,7 +544,7 @@
         "STATUS": "Crews working on-site",
         "START": "8:30AM 02 May 2024",
         "EST_FIX_TIME": "2:30PM 02 May 2024",
-        "STREETS": "RANGE RD",
+        "STREETS": "LANGDON RD, MARLBOROUGH-SARINA RD, NEWBERY RD, RANGE RD",
         "SUBURBS": "SARINA"
       }
     },
@@ -1477,6 +1477,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.830531,
+          -28.596134
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7526",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "75",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 02 May 2024",
+        "EST_FIX_TIME": "3:30PM 02 May 2024",
+        "STREETS": "AMIENS RD, BAPAUME RD, BRADLEY LANE, BUTLER RD, CANNON CREEK RD, MENGEL RD, PINE RD, QUIRKS RD, ROBERTSON RD",
+        "SUBURBS": "AMIENS, BAPAUME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.678613,
           -27.11815
         ]
@@ -2294,5 +2315,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1714602606.596239"
+  "extracted": "1714602901.120783"
 }

@@ -161,7 +161,7 @@
             "type": "Point",
             "coordinates": [
               145.261352,
-              -15.579155
+              -15.579383
             ]
           },
           {
@@ -201,28 +201,12 @@
                   -15.490824
                 ],
                 [
-                  145.274643,
-                  -15.490606
+                  145.274611,
+                  -15.490595
                 ],
                 [
-                  145.246389,
-                  -15.480213
-                ],
-                [
-                  145.246287,
-                  -15.480187
-                ],
-                [
-                  145.24483,
-                  -15.479993
-                ],
-                [
-                  145.244727,
-                  -15.47999
-                ],
-                [
-                  145.239391,
-                  -15.48043
+                  145.239563,
+                  -15.480447
                 ],
                 [
                   145.239284,
@@ -260,12 +244,12 @@
       "properties": {
         "EVENT_ID": "24FN5888",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "213",
+        "CUSTOMERS_AFFECTED": "112",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
         "STATUS": "Crews working on-site",
         "START": "4:26AM 02 May 2024",
         "EST_FIX_TIME": "11:00AM 02 May 2024",
-        "STREETS": "ADAMS ST, ANNAN RD, ARCHER POINT RD, BUHMANN ST, BURKITT ST, CHACE CL, CLAY CL, ESPLANADE, GAMPE DR, HOPE ST, HUTCHINSON ST, IDRESS DR, KELLERHAVEN ST, MASON ST, MT AMOS RD, MULLIGAN HWY, NEWMAN ST, QUARANTINE BAY ESP, QUARANTINE BAY RD, RACECOURSE RD, RAINFOREST ST, SAVAGE ST, SCHWARTZ ST, SEAGREN ST, THE ESPLANADE, UNKNOWN ST, WALSH CL, WILKINSON ST",
+        "STREETS": "ANNAN RD, ARCHER POINT RD, BUHMANN ST, CLAY CL, ESPLANADE, GAMPE DR, HUTCHINSON ST, IDRESS DR, KELLERHAVEN ST, MT AMOS RD, MULLIGAN HWY, QUARANTINE BAY ESP, QUARANTINE BAY RD, RAINFOREST ST, SCHWARTZ ST, THE ESPLANADE, UNKNOWN ST, WALSH CL, WILKINSON ST",
         "SUBURBS": "COOKTOWN, KEATINGS LAGOON, TREVETHAN CREEK"
       }
     },
@@ -487,6 +471,83 @@
           {
             "type": "Point",
             "coordinates": [
+              142.222505,
+              -10.58002
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  142.218077,
+                  -10.577803
+                ],
+                [
+                  142.218976,
+                  -10.580473
+                ],
+                [
+                  142.219015,
+                  -10.580557
+                ],
+                [
+                  142.22019,
+                  -10.582557
+                ],
+                [
+                  142.220629,
+                  -10.582779
+                ],
+                [
+                  142.226531,
+                  -10.582189
+                ],
+                [
+                  142.226932,
+                  -10.581825
+                ],
+                [
+                  142.226694,
+                  -10.58134
+                ],
+                [
+                  142.218719,
+                  -10.57726
+                ],
+                [
+                  142.218214,
+                  -10.577318
+                ],
+                [
+                  142.218077,
+                  -10.577803
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5899",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "77",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "7:42AM 02 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "HARGRAVE ST, HASTINGS ST, JOHN ST, LOBAN ST, SUMMERS ST",
+        "SUBURBS": "THURSDAY ISLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -626,7 +687,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "30",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "7:16AM 02 May 2024",
         "EST_FIX_TIME": null,
         "STREETS": "CLERMONT HWY, CONNOLLY RD, CORRAL RD, DIAMANTINA RD, FLINDERS HWY, FLORENCE RD, JESMOND RD, JESMOND STATION, LIONTOWN RD, MCARDLE RD, WINDSOR STATION",
@@ -697,5 +758,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714602606.596239"
+  "extracted": "1714602901.120783"
 }
