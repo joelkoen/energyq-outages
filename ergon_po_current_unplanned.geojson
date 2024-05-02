@@ -71,6 +71,79 @@
           {
             "type": "Point",
             "coordinates": [
+              150.388004,
+              -23.636811
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.387426,
+                  -23.636798
+                ],
+                [
+                  150.387432,
+                  -23.636836
+                ],
+                [
+                  150.387478,
+                  -23.636971
+                ],
+                [
+                  150.387493,
+                  -23.636999
+                ],
+                [
+                  150.38781,
+                  -23.637236
+                ],
+                [
+                  150.388006,
+                  -23.637283
+                ],
+                [
+                  150.388581,
+                  -23.637014
+                ],
+                [
+                  150.388367,
+                  -23.636453
+                ],
+                [
+                  150.38815,
+                  -23.63634
+                ],
+                [
+                  150.387426,
+                  -23.636798
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6406",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:50AM 02 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "JAMES ST",
+        "SUBURBS": "MOUNT MORGAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -150,6 +223,67 @@
         "EST_FIX_TIME": "12:00PM 06 May 2024",
         "STREETS": "AIRSTRIP ST, BASKETBALL COURT ST, DANIEL ST, MAIN ST, MAP ST, UNKNOWN ST, WARRIA ST",
         "SUBURBS": "MABUIAG ISLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.003047,
+              -17.383081
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.002968,
+                  -17.382573
+                ],
+                [
+                  146.002562,
+                  -17.382865
+                ],
+                [
+                  146.002467,
+                  -17.383498
+                ],
+                [
+                  146.003126,
+                  -17.383589
+                ],
+                [
+                  146.003532,
+                  -17.383297
+                ],
+                [
+                  146.003627,
+                  -17.382664
+                ],
+                [
+                  146.002968,
+                  -17.382573
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5933",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "12:47PM 02 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRAMSTON BEACH RD",
+        "SUBURBS": "BRAMSTON BEACH, GRAHAM RANGE"
       }
     },
     {
@@ -795,5 +929,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714624801.724927"
+  "extracted": "1714625104.967699"
 }
