@@ -103,6 +103,95 @@
           {
             "type": "Point",
             "coordinates": [
+              148.160039,
+              -23.553679
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.154545,
+                  -23.557323
+                ],
+                [
+                  148.165572,
+                  -23.556529
+                ],
+                [
+                  148.166022,
+                  -23.556041
+                ],
+                [
+                  148.165816,
+                  -23.553794
+                ],
+                [
+                  148.165816,
+                  -23.553788
+                ],
+                [
+                  148.165707,
+                  -23.552776
+                ],
+                [
+                  148.165564,
+                  -23.552498
+                ],
+                [
+                  148.163615,
+                  -23.55073
+                ],
+                [
+                  148.163596,
+                  -23.550713
+                ],
+                [
+                  148.162764,
+                  -23.550035
+                ],
+                [
+                  148.162114,
+                  -23.550036
+                ],
+                [
+                  148.154182,
+                  -23.556535
+                ],
+                [
+                  148.154056,
+                  -23.55705
+                ],
+                [
+                  148.154545,
+                  -23.557323
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6414",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "72",
+        "REASON": "The loss of supply is due to a vehicle accident.",
+        "STATUS": "Crews working on-site",
+        "START": "4:42PM 02 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BAIRD ST, MAYFAIR DR, MILLIKEN ST, MITCHELL ST, NEWMAN DR, WINDERMERE ST",
+        "SUBURBS": "EMERALD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -317,5 +406,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714635302.589088"
+  "extracted": "1714635600.469156"
 }
