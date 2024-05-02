@@ -71,6 +71,115 @@
           {
             "type": "Point",
             "coordinates": [
+              150.527205,
+              -23.311318
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.524073,
+                  -23.311304
+                ],
+                [
+                  150.526617,
+                  -23.313355
+                ],
+                [
+                  150.526738,
+                  -23.313427
+                ],
+                [
+                  150.527137,
+                  -23.313593
+                ],
+                [
+                  150.527369,
+                  -23.313632
+                ],
+                [
+                  150.52777,
+                  -23.313609
+                ],
+                [
+                  150.527885,
+                  -23.313589
+                ],
+                [
+                  150.529998,
+                  -23.312976
+                ],
+                [
+                  150.530337,
+                  -23.312493
+                ],
+                [
+                  150.53012,
+                  -23.31079
+                ],
+                [
+                  150.530116,
+                  -23.310766
+                ],
+                [
+                  150.529861,
+                  -23.309414
+                ],
+                [
+                  150.529479,
+                  -23.309049
+                ],
+                [
+                  150.529237,
+                  -23.309003
+                ],
+                [
+                  150.529003,
+                  -23.309012
+                ],
+                [
+                  150.528216,
+                  -23.309222
+                ],
+                [
+                  150.528186,
+                  -23.30923
+                ],
+                [
+                  150.524229,
+                  -23.31054
+                ],
+                [
+                  150.524073,
+                  -23.311304
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6396",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "128",
+        "REASON": "The loss of supply is due to a vehicle accident.",
+        "STATUS": "Outage reported",
+        "START": "11:47AM 02 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARTHUR APPLETON PL, BRUCE HISKENS CT, CHERRY CT, FOULKES ST, GEOFF WILSON DR, JIM GOLDSTON AVE, MAPLE ST, REDWOOD CL, SPRINGFIELD DR, STAN JONES ST, TEAK CL",
+        "SUBURBS": "NORMAN GARDENS, NORTH ROCKHAMPTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -435,5 +544,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714617019.058103"
+  "extracted": "1714617300.476927"
 }
