@@ -253,6 +253,115 @@
           {
             "type": "Point",
             "coordinates": [
+              146.202168,
+              -18.879857
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.16516,
+                  -18.859678
+                ],
+                [
+                  146.169361,
+                  -18.883548
+                ],
+                [
+                  146.169605,
+                  -18.883872
+                ],
+                [
+                  146.182239,
+                  -18.890306
+                ],
+                [
+                  146.182323,
+                  -18.890339
+                ],
+                [
+                  146.225018,
+                  -18.902932
+                ],
+                [
+                  146.225341,
+                  -18.902917
+                ],
+                [
+                  146.236469,
+                  -18.8985
+                ],
+                [
+                  146.236749,
+                  -18.89818
+                ],
+                [
+                  146.239183,
+                  -18.887701
+                ],
+                [
+                  146.239074,
+                  -18.887302
+                ],
+                [
+                  146.212787,
+                  -18.859265
+                ],
+                [
+                  146.212615,
+                  -18.859148
+                ],
+                [
+                  146.208739,
+                  -18.857615
+                ],
+                [
+                  146.208566,
+                  -18.85758
+                ],
+                [
+                  146.16572,
+                  -18.856782
+                ],
+                [
+                  146.165237,
+                  -18.857219
+                ],
+                [
+                  146.165154,
+                  -18.859588
+                ],
+                [
+                  146.16516,
+                  -18.859678
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8145",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "57",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:12AM 03 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ABSWOLD RD, BAMBAROO RD, BAMBAROO SCHOOL RD, BRUCE HWY, CATASTIS RD, HECHTS RD, JAYASURIAS RD, PROBERT RD, SAWPIT GLY, WATERFALL CREEK, ZAMMITS RD",
+        "SUBURBS": "BAMBAROO, COOLBIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -309,5 +418,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714680903.280638"
+  "extracted": "1714681201.378157"
 }
