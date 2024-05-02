@@ -1,8 +1,90 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.184205,
+              -27.8544
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.154721,
+                  -27.819854
+                ],
+                [
+                  152.187959,
+                  -27.874663
+                ],
+                [
+                  152.188023,
+                  -27.874745
+                ],
+                [
+                  152.212875,
+                  -27.900126
+                ],
+                [
+                  152.213497,
+                  -27.900228
+                ],
+                [
+                  152.213749,
+                  -27.899713
+                ],
+                [
+                  152.186361,
+                  -27.808902
+                ],
+                [
+                  152.185804,
+                  -27.808572
+                ],
+                [
+                  152.155349,
+                  -27.812137
+                ],
+                [
+                  152.154907,
+                  -27.81257
+                ],
+                [
+                  152.154661,
+                  -27.819626
+                ],
+                [
+                  152.154721,
+                  -27.819854
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757709-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "11:05AM 02 May 2024",
+        "EST_FIX_TIME": "1:30PM 02 May 2024",
+        "STREETS": "BLACK DUCK CREEK RD, CHALK MINE RD, PICKERINGS RD",
+        "SUBURBS": "BLACK DUCK CREEK, JUNCTION VIEW"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714611900.291203"
+  "extracted": "1714612201.332438"
 }
