@@ -1582,6 +1582,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.929497,
+          -27.593578
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7689",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:13AM 03 May 2024",
+        "EST_FIX_TIME": "4:00PM 03 May 2024",
+        "STREETS": "GORMAN ST",
+        "SUBURBS": "DARLING HEIGHTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.93665,
+          -27.588617
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7692",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:14AM 03 May 2024",
+        "EST_FIX_TIME": "4:00PM 03 May 2024",
+        "STREETS": "HONEY ST",
+        "SUBURBS": "HARRISTOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.956634,
           -27.569932
         ]
@@ -2210,5 +2252,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1714684202.143392"
+  "extracted": "1714684503.108166"
 }
