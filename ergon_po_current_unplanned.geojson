@@ -399,6 +399,75 @@
           {
             "type": "Point",
             "coordinates": [
+              141.416017,
+              -20.80041
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  141.40287,
+                  -20.733684
+                ],
+                [
+                  141.427769,
+                  -20.867283
+                ],
+                [
+                  141.428278,
+                  -20.867654
+                ],
+                [
+                  141.428719,
+                  -20.867213
+                ],
+                [
+                  141.429163,
+                  -20.842421
+                ],
+                [
+                  141.429152,
+                  -20.842317
+                ],
+                [
+                  141.403809,
+                  -20.73351
+                ],
+                [
+                  141.403249,
+                  -20.733165
+                ],
+                [
+                  141.40287,
+                  -20.733684
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8118",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "5:39PM 01 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BINDOORAN STATION, MALVIE DOWNS STATION, STRATHBYRNE STATION",
+        "SUBURBS": "JULIA CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               147.377665,
               -19.541881
             ]
@@ -750,5 +819,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714623000.600408"
+  "extracted": "1714623305.414143"
 }
