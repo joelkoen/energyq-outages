@@ -919,7 +919,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "236",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 03 May 2024",
         "EST_FIX_TIME": "12:00PM 03 May 2024",
         "STREETS": "EDISON ST, ENDERS CT, GALVANI ST, HALDANE ST, HALLEY ST, HARGREAVES ST, KEPLER ST, LISTER CRES, MACFARLANE ST, NEWTON ST, NOBEL ST, RAYLEIGH ST, ROBBINS CT, STEPHENSON ST",
@@ -1150,7 +1150,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "14",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 03 May 2024",
         "EST_FIX_TIME": "3:00PM 03 May 2024",
         "STREETS": "ALDINGHAM RD, APSLEY STATION, DAHLIA STATION, FAIRYMEAD STATION, KYWONG STATION, LESWALT STATION, WANDO STATION",
@@ -1239,6 +1239,27 @@
         "EST_FIX_TIME": "2:00PM 05 May 2024",
         "STREETS": "ACTIVITY RD, BARNES ST, CAMERON WAY, COMMERCIAL RD, DAVIS RD, ENGINEERING RD, INDUSTRIAL AVE, LANSKEY RD, PROGRESS RD, RICHARDSON RD, RYAN RD",
         "SUBURBS": "LANSKEY, RYAN, SUNSET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.175516,
+          -27.336321
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW6853",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 03 May 2024",
+        "EST_FIX_TIME": "3:00PM 03 May 2024",
+        "STREETS": "HENNINGS RD, NANDI-GRASSDALE RD, SPRINGVALE RD",
+        "SUBURBS": "NANDI, ST RUTH, TIPTON"
       }
     },
     {
@@ -2147,5 +2168,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1714687500.588547"
+  "extracted": "1714687800.422724"
 }
