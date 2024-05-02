@@ -10,6 +10,99 @@
           {
             "type": "Point",
             "coordinates": [
+              148.165582,
+              -23.55371
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.163136,
+                  -23.552314
+                ],
+                [
+                  148.163159,
+                  -23.553135
+                ],
+                [
+                  148.163295,
+                  -23.553435
+                ],
+                [
+                  148.165557,
+                  -23.55561
+                ],
+                [
+                  148.165977,
+                  -23.555745
+                ],
+                [
+                  148.166308,
+                  -23.555704
+                ],
+                [
+                  148.166669,
+                  -23.555477
+                ],
+                [
+                  148.168028,
+                  -23.553235
+                ],
+                [
+                  148.167847,
+                  -23.552625
+                ],
+                [
+                  148.166821,
+                  -23.552073
+                ],
+                [
+                  148.166638,
+                  -23.552016
+                ],
+                [
+                  148.163847,
+                  -23.551674
+                ],
+                [
+                  148.163401,
+                  -23.551838
+                ],
+                [
+                  148.163244,
+                  -23.552019
+                ],
+                [
+                  148.163136,
+                  -23.552314
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6413",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "58",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "5:25PM 02 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DESGRAND ST, MITCHELL ST, NEWMAN DR",
+        "SUBURBS": "EMERALD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -224,5 +317,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714635006.223993"
+  "extracted": "1714635302.589088"
 }
