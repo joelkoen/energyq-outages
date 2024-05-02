@@ -710,7 +710,7 @@
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:00AM 03 May 2024",
+        "START": "8:18AM 03 May 2024",
         "EST_FIX_TIME": "4:00PM 03 May 2024",
         "STREETS": "PENELOPE RD",
         "SUBURBS": "CLUDEN, STUART"
@@ -1666,6 +1666,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.981133,
+          -26.565789
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4824",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "65",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 03 May 2024",
+        "EST_FIX_TIME": "12:30PM 03 May 2024",
+        "STREETS": "BOOIE RD, MALAR CRES, ROBIN AND LEE RD, ROBIN-LEES RD",
+        "SUBURBS": "BOOIE, NANANGO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.081324,
           -26.323391
         ]
@@ -1916,5 +1937,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1714689004.842418"
+  "extracted": "1714689300.290666"
 }
