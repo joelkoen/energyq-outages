@@ -129,9 +129,9 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "8",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
-        "START": "10:50AM 02 May 2024",
-        "EST_FIX_TIME": null,
+        "STATUS": "Crews working on-site",
+        "START": "2:46PM 02 May 2024",
+        "EST_FIX_TIME": "5:00PM 02 May 2024",
         "STREETS": "JAMES ST",
         "SUBURBS": "MOUNT MORGAN"
       }
@@ -643,79 +643,6 @@
           {
             "type": "Point",
             "coordinates": [
-              145.514703,
-              -28.829323
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  145.466359,
-                  -28.894782
-                ],
-                [
-                  145.562694,
-                  -28.923193
-                ],
-                [
-                  145.563369,
-                  -28.922749
-                ],
-                [
-                  145.558419,
-                  -28.805445
-                ],
-                [
-                  145.558385,
-                  -28.8053
-                ],
-                [
-                  145.528158,
-                  -28.735743
-                ],
-                [
-                  145.52767,
-                  -28.735454
-                ],
-                [
-                  145.527195,
-                  -28.73576
-                ],
-                [
-                  145.466037,
-                  -28.894209
-                ],
-                [
-                  145.466359,
-                  -28.894782
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW8332",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "7",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "9:00AM 02 May 2024",
-        "EST_FIX_TIME": "3:00PM 02 May 2024",
-        "STREETS": "GLENTUCKIE RD, MITCHELL HWY",
-        "SUBURBS": "CUNNAMULLA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               151.771243,
               -26.127021
             ]
@@ -929,5 +856,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714625104.967699"
+  "extracted": "1714625401.330664"
 }
