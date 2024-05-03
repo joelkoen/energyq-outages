@@ -257,6 +257,95 @@
           {
             "type": "Point",
             "coordinates": [
+              139.733528,
+              -21.30178
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  139.542262,
+                  -20.902468
+                ],
+                [
+                  139.504368,
+                  -21.696824
+                ],
+                [
+                  139.504368,
+                  -21.696825
+                ],
+                [
+                  139.504242,
+                  -21.699604
+                ],
+                [
+                  139.504538,
+                  -21.700037
+                ],
+                [
+                  139.508225,
+                  -21.701463
+                ],
+                [
+                  139.50846,
+                  -21.701495
+                ],
+                [
+                  139.962387,
+                  -21.654766
+                ],
+                [
+                  139.962814,
+                  -21.654309
+                ],
+                [
+                  139.954035,
+                  -21.328125
+                ],
+                [
+                  139.953911,
+                  -21.327835
+                ],
+                [
+                  139.543092,
+                  -20.902186
+                ],
+                [
+                  139.542577,
+                  -20.902065
+                ],
+                [
+                  139.542262,
+                  -20.902468
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8198",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "93",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:20AM 04 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ASHOVER STATION, ATNYER ST, BOULIA RD, BUSHY PARK STATION, CARMODY ST, DIAMANTINA DEVELOPMENTAL RD, DILLON ST, DUCHESS RD, DUKE ST, FLYNN RAIL SDNG, LETHAM ST, MALBONVALE STATION, MARK ST, MATHESON ST, MAYFIELD STATION, RIFLE CREEK, RIFLE CREEK STATION, SPORTS PDE, STANBROKE STATION, YAPPO CREEK",
+        "SUBURBS": "ALPURRURULAM, DAJARRA, DUCHESS, MORNINGTON, MOUNT ISA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -396,7 +485,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "19",
         "REASON": "The loss of supply is due to damage caused by storm activity.",
-        "STATUS": "Work delayed - crews unable to continue",
+        "STATUS": "Crews working on-site",
         "START": "4:51PM 03 May 2024",
         "EST_FIX_TIME": null,
         "STREETS": "BLUFF RD, BULLOO DEVELOPMENTAL RD, MITCHELL HWY, QUILPIE-THARGOMINDAH RD, TOOMPINE RD, YERREL RD, YOWAH RD",
@@ -624,5 +713,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714774801.558996"
+  "extracted": "1714775101.454609"
 }
