@@ -500,6 +500,107 @@
           {
             "type": "Point",
             "coordinates": [
+              149.502896,
+              -27.459247
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.302603,
+                  -27.61909
+                ],
+                [
+                  149.303468,
+                  -27.624123
+                ],
+                [
+                  149.303944,
+                  -27.624506
+                ],
+                [
+                  149.370965,
+                  -27.627354
+                ],
+                [
+                  149.371054,
+                  -27.627351
+                ],
+                [
+                  149.505253,
+                  -27.611835
+                ],
+                [
+                  149.505423,
+                  -27.611788
+                ],
+                [
+                  149.703125,
+                  -27.519299
+                ],
+                [
+                  149.703194,
+                  -27.51854
+                ],
+                [
+                  149.40325,
+                  -27.316673
+                ],
+                [
+                  149.403167,
+                  -27.316628
+                ],
+                [
+                  149.344826,
+                  -27.291139
+                ],
+                [
+                  149.344105,
+                  -27.291476
+                ],
+                [
+                  149.31483,
+                  -27.46354
+                ],
+                [
+                  149.314826,
+                  -27.463576
+                ],
+                [
+                  149.302598,
+                  -27.61899
+                ],
+                [
+                  149.302603,
+                  -27.61909
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8456",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "46",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 04 May 2024",
+        "EST_FIX_TIME": "3:00PM 04 May 2024",
+        "STREETS": "GLENEARN RD, HURST RD, NEW SETTLERS RD, PENFOLDS RD, ROCKY GLEN RD, STUARTS RD, TEELBA RD, TELGAZLIE RD, UNGABILLA RD",
+        "SUBURBS": "COOMRITH, FLINTON, GLENMORGAN, MEANDARRA, SURAT, TEELBA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               144.653827,
               -27.870463
             ]
@@ -867,5 +968,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714778701.133404"
+  "extracted": "1714779006.029061"
 }
