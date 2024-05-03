@@ -70,13 +70,94 @@
         "REASON": "Emergency Repairs",
         "STATUS": "In Progress",
         "START": "10:04PM 03 May 2024",
-        "EST_FIX_TIME": "8:00AM 04 May 2024",
+        "EST_FIX_TIME": "10:00AM 04 May 2024",
         "STREETS": "DRYSDALE AVE, WILLIAMSON RD",
         "SUBURBS": "TAMBORINE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.898541,
+              -27.610949
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.897016,
+                  -27.611473
+                ],
+                [
+                  152.897173,
+                  -27.611683
+                ],
+                [
+                  152.89766,
+                  -27.611881
+                ],
+                [
+                  152.899713,
+                  -27.611644
+                ],
+                [
+                  152.900142,
+                  -27.611296
+                ],
+                [
+                  152.899922,
+                  -27.610817
+                ],
+                [
+                  152.898529,
+                  -27.610017
+                ],
+                [
+                  152.897885,
+                  -27.610089
+                ],
+                [
+                  152.89708,
+                  -27.610856
+                ],
+                [
+                  152.896954,
+                  -27.611076
+                ],
+                [
+                  152.896941,
+                  -27.611134
+                ],
+                [
+                  152.897016,
+                  -27.611473
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758053-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "35",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "7:48AM 04 May 2024",
+        "EST_FIX_TIME": "9:30AM 04 May 2024",
+        "STREETS": "CHURCH ST, QUEEN ST",
+        "SUBURBS": "GOODNA"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714773001.023165"
+  "extracted": "1714773301.538045"
 }
