@@ -280,19 +280,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.583148,
-          -28.034604
+          148.573984,
+          -28.041872
         ]
       },
       "properties": {
-        "EVENT_ID": "24SW7220",
+        "EVENT_ID": "24SW7217",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
+        "CUSTOMERS_AFFECTED": "4",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:58AM 03 May 2024",
+        "START": "11:21AM 03 May 2024",
         "EST_FIX_TIME": "1:30PM 03 May 2024",
-        "STREETS": "SCOTT ST",
+        "STREETS": "ROBERT ST",
         "SUBURBS": "ST GEORGE"
       }
     },
@@ -469,6 +469,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.637162,
+          -25.490725
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4845",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 03 May 2024",
+        "EST_FIX_TIME": "2:30PM 03 May 2024",
+        "STREETS": "MAXWELL RD, OLD COACH RD",
+        "SUBURBS": "OAKHURST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.440967,
           -24.835364
         ]
@@ -488,5 +509,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714699200.549008"
+  "extracted": "1714699501.161328"
 }
