@@ -952,9 +952,102 @@
         "STREETS": "KOGAN-CONDAMINE RD, VANRENEN RD",
         "SUBURBS": "CHINCHILLA, CROSSROADS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.8901,
+              -25.317494
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.887102,
+                  -25.315985
+                ],
+                [
+                  152.890062,
+                  -25.319723
+                ],
+                [
+                  152.890282,
+                  -25.319878
+                ],
+                [
+                  152.891054,
+                  -25.320155
+                ],
+                [
+                  152.891634,
+                  -25.320003
+                ],
+                [
+                  152.892045,
+                  -25.319495
+                ],
+                [
+                  152.892067,
+                  -25.319465
+                ],
+                [
+                  152.893099,
+                  -25.317949
+                ],
+                [
+                  152.893078,
+                  -25.317448
+                ],
+                [
+                  152.891902,
+                  -25.315979
+                ],
+                [
+                  152.891653,
+                  -25.315816
+                ],
+                [
+                  152.888265,
+                  -25.314833
+                ],
+                [
+                  152.887798,
+                  -25.314915
+                ],
+                [
+                  152.887187,
+                  -25.315376
+                ],
+                [
+                  152.887102,
+                  -25.315985
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5409",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "35",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:45AM 03 May 2024",
+        "EST_FIX_TIME": "2:30PM 03 May 2024",
+        "STREETS": "BOORAL RD, ELLENGOWAN ST, SOUTHERN CROSS CCT, VICTORY EAST ST",
+        "SUBURBS": "URANGAN, WONDUNNA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714695601.53324"
+  "extracted": "1714695901.015206"
 }
