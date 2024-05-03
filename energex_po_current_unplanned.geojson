@@ -1,8 +1,82 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.085267,
+              -27.838798
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.084079,
+                  -27.839561
+                ],
+                [
+                  153.085826,
+                  -27.839713
+                ],
+                [
+                  153.086273,
+                  -27.839545
+                ],
+                [
+                  153.086902,
+                  -27.83884
+                ],
+                [
+                  153.08668,
+                  -27.838136
+                ],
+                [
+                  153.085908,
+                  -27.837884
+                ],
+                [
+                  153.085483,
+                  -27.837914
+                ],
+                [
+                  153.083879,
+                  -27.838719
+                ],
+                [
+                  153.083632,
+                  -27.839205
+                ],
+                [
+                  153.084079,
+                  -27.839561
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758034-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "10:04PM 03 May 2024",
+        "EST_FIX_TIME": "12:00AM 04 May 2024",
+        "STREETS": "DRYSDALE AVE, WILLIAMSON RD",
+        "SUBURBS": "TAMBORINE"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714741500.370928"
+  "extracted": "1714742103.788629"
 }
