@@ -559,9 +559,110 @@
         "STREETS": "BALONE HWY, BALONNE HWY, CASHEL VALE RD, FERNLEE RD, KULKI RD, MULGA DOWNS RD, MUNDA MUNDA RD, MURRA MURRA RD, NORTH KULKI RD, RUNNYMEDE RD, TAMBINGEY RD, UNKNOWN RD, WOOLERINA RD",
         "SUBURBS": "BOLLON, CUNNAMULLA, ST GEORGE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.103573,
+              -26.883726
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.100601,
+                  -26.885995
+                ],
+                [
+                  152.106053,
+                  -26.885232
+                ],
+                [
+                  152.106189,
+                  -26.885195
+                ],
+                [
+                  152.106839,
+                  -26.884922
+                ],
+                [
+                  152.107099,
+                  -26.884666
+                ],
+                [
+                  152.107149,
+                  -26.88454
+                ],
+                [
+                  152.10705,
+                  -26.884088
+                ],
+                [
+                  152.104685,
+                  -26.881723
+                ],
+                [
+                  152.10455,
+                  -26.881628
+                ],
+                [
+                  152.104232,
+                  -26.881473
+                ],
+                [
+                  152.10379,
+                  -26.881457
+                ],
+                [
+                  152.100296,
+                  -26.882834
+                ],
+                [
+                  152.099996,
+                  -26.883246
+                ],
+                [
+                  152.099997,
+                  -26.884873
+                ],
+                [
+                  152.099998,
+                  -26.884887
+                ],
+                [
+                  152.100022,
+                  -26.885565
+                ],
+                [
+                  152.100601,
+                  -26.885995
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5445",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "50",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "11:22PM 03 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "COULSON ST, DOUGLAS ST, GLADYS ST, HART ST, MILLER ST, MOORE ST, MORRIS ST, MUIR ST",
+        "SUBURBS": "BLACKBUTT"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714759204.212815"
+  "extracted": "1714759501.238448"
 }
