@@ -82,9 +82,102 @@
         "STREETS": "EKERT RD, GRANITE LANE",
         "SUBURBS": "CURRAMORE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.100379,
+              -27.647449
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.098542,
+                  -27.648676
+                ],
+                [
+                  153.098662,
+                  -27.64939
+                ],
+                [
+                  153.099252,
+                  -27.649767
+                ],
+                [
+                  153.100871,
+                  -27.649513
+                ],
+                [
+                  153.101273,
+                  -27.649184
+                ],
+                [
+                  153.102037,
+                  -27.646606
+                ],
+                [
+                  153.102047,
+                  -27.646563
+                ],
+                [
+                  153.102217,
+                  -27.645621
+                ],
+                [
+                  153.101527,
+                  -27.645131
+                ],
+                [
+                  153.099796,
+                  -27.645753
+                ],
+                [
+                  153.099547,
+                  -27.645946
+                ],
+                [
+                  153.099218,
+                  -27.646452
+                ],
+                [
+                  153.099169,
+                  -27.646555
+                ],
+                [
+                  153.098555,
+                  -27.648486
+                ],
+                [
+                  153.098542,
+                  -27.648676
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758130-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "75",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "8:19PM 04 May 2024",
+        "EST_FIX_TIME": "10:00PM 04 May 2024",
+        "STREETS": "BARDON RD, CARBEEN CT, MAY ST, POPE ST, SYCAMORE CT, WAIN AVE",
+        "SUBURBS": "BERRINBA, LOGAN CENTRAL, WOODRIDGE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714818001.15409"
+  "extracted": "1714818301.60996"
 }
