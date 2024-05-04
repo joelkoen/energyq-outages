@@ -714,6 +714,91 @@
           {
             "type": "Point",
             "coordinates": [
+              151.051156,
+              -27.127693
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.984707,
+                  -27.158937
+                ],
+                [
+                  151.074684,
+                  -27.174341
+                ],
+                [
+                  151.075154,
+                  -27.174199
+                ],
+                [
+                  151.117928,
+                  -27.131338
+                ],
+                [
+                  151.117998,
+                  -27.130828
+                ],
+                [
+                  151.102115,
+                  -27.103791
+                ],
+                [
+                  151.101829,
+                  -27.103573
+                ],
+                [
+                  151.026599,
+                  -27.081045
+                ],
+                [
+                  151.026163,
+                  -27.081096
+                ],
+                [
+                  151.003292,
+                  -27.094548
+                ],
+                [
+                  151.003082,
+                  -27.094809
+                ],
+                [
+                  150.984315,
+                  -27.15838
+                ],
+                [
+                  150.984707,
+                  -27.158937
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8480",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "40",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "11:00AM 04 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CONDAMINE HWY, DAANDINE SOLDIERS RD, DAANDINE-NANDI RD, DALBY KOGAN RD, DALBY-KOGAN RD, DULEEN-DAANDINE RD, HOSIERS RD, LEAHYS RD, NANDI RD, OLD WARREGO HWY, THETEN RD, WARREGO HWY",
+        "SUBURBS": "DAANDINE, DALBY, KUPUNN, MACALISTER, RANGES BRIDGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               150.71213,
               -25.736065
             ]
@@ -871,5 +956,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714784403.724504"
+  "extracted": "1714784701.598688"
 }
