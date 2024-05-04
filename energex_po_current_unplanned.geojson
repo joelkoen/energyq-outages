@@ -1,8 +1,102 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.243051,
+              -27.8995
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.24138,
+                  -27.899595
+                ],
+                [
+                  153.241559,
+                  -27.90021
+                ],
+                [
+                  153.241577,
+                  -27.900259
+                ],
+                [
+                  153.242013,
+                  -27.901262
+                ],
+                [
+                  153.242666,
+                  -27.901522
+                ],
+                [
+                  153.244308,
+                  -27.900971
+                ],
+                [
+                  153.244635,
+                  -27.900581
+                ],
+                [
+                  153.24472,
+                  -27.899541
+                ],
+                [
+                  153.244721,
+                  -27.899504
+                ],
+                [
+                  153.244711,
+                  -27.898478
+                ],
+                [
+                  153.244658,
+                  -27.89828
+                ],
+                [
+                  153.244276,
+                  -27.8976
+                ],
+                [
+                  153.243468,
+                  -27.897478
+                ],
+                [
+                  153.241518,
+                  -27.899158
+                ],
+                [
+                  153.24138,
+                  -27.899595
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758134-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "12:59AM 05 May 2024",
+        "EST_FIX_TIME": "4:00AM 05 May 2024",
+        "STREETS": "WELCHES RD, YALLANBEE CT",
+        "SUBURBS": "WONGAWALLAN"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714837201.354075"
+  "extracted": "1714837503.916739"
 }
