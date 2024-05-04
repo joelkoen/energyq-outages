@@ -62,9 +62,110 @@
         "STREETS": "YALLANBEE CT",
         "SUBURBS": "WONGAWALLAN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.995593,
+              -26.54275
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.993488,
+                  -26.543555
+                ],
+                [
+                  152.99353,
+                  -26.544945
+                ],
+                [
+                  152.994249,
+                  -26.545339
+                ],
+                [
+                  152.995816,
+                  -26.544664
+                ],
+                [
+                  152.995987,
+                  -26.544545
+                ],
+                [
+                  152.99634,
+                  -26.54416
+                ],
+                [
+                  152.996347,
+                  -26.544152
+                ],
+                [
+                  152.996477,
+                  -26.544003
+                ],
+                [
+                  152.996559,
+                  -26.543868
+                ],
+                [
+                  152.997699,
+                  -26.540826
+                ],
+                [
+                  152.997527,
+                  -26.540322
+                ],
+                [
+                  152.997291,
+                  -26.540161
+                ],
+                [
+                  152.996614,
+                  -26.540219
+                ],
+                [
+                  152.995191,
+                  -26.541647
+                ],
+                [
+                  152.995189,
+                  -26.541648
+                ],
+                [
+                  152.993614,
+                  -26.543243
+                ],
+                [
+                  152.993488,
+                  -26.543555
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758150-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "8:45AM 05 May 2024",
+        "EST_FIX_TIME": "11:30AM 05 May 2024",
+        "STREETS": "CHANTS RD, VALDORA RD, VALDORA VIEW",
+        "SUBURBS": "VALDORA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714862704.92418"
+  "extracted": "1714863001.087467"
 }
