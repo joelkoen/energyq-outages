@@ -74,9 +74,106 @@
         "STREETS": "DRYSDALE AVE, WILLIAMSON RD",
         "SUBURBS": "TAMBORINE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.240023,
+              -27.70493
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.238331,
+                  -27.707519
+                ],
+                [
+                  153.238448,
+                  -27.708242
+                ],
+                [
+                  153.238944,
+                  -27.70863
+                ],
+                [
+                  153.239727,
+                  -27.708638
+                ],
+                [
+                  153.240189,
+                  -27.708384
+                ],
+                [
+                  153.241666,
+                  -27.705684
+                ],
+                [
+                  153.241715,
+                  -27.70545
+                ],
+                [
+                  153.241362,
+                  -27.701626
+                ],
+                [
+                  153.240959,
+                  -27.701221
+                ],
+                [
+                  153.240409,
+                  -27.701451
+                ],
+                [
+                  153.240098,
+                  -27.70197
+                ],
+                [
+                  153.240098,
+                  -27.70197
+                ],
+                [
+                  153.238959,
+                  -27.703875
+                ],
+                [
+                  153.238905,
+                  -27.704019
+                ],
+                [
+                  153.238332,
+                  -27.707387
+                ],
+                [
+                  153.238331,
+                  -27.707519
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758065-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "16",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "9:21AM 04 May 2024",
+        "EST_FIX_TIME": "12:00PM 04 May 2024",
+        "STREETS": "ENKELMANNS RD, MARSHALL RD, ROTARY PARK RD",
+        "SUBURBS": "ALBERTON"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714782604.505706"
+  "extracted": "1714782901.1265"
 }
