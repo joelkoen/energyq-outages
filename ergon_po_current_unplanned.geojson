@@ -10,99 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              150.517896,
-              -23.386784
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  150.506671,
-                  -23.396049
-                ],
-                [
-                  150.526379,
-                  -23.401255
-                ],
-                [
-                  150.526965,
-                  -23.400993
-                ],
-                [
-                  150.529475,
-                  -23.395368
-                ],
-                [
-                  150.529412,
-                  -23.394922
-                ],
-                [
-                  150.52496,
-                  -23.389537
-                ],
-                [
-                  150.524958,
-                  -23.389534
-                ],
-                [
-                  150.520464,
-                  -23.384172
-                ],
-                [
-                  150.520457,
-                  -23.384164
-                ],
-                [
-                  150.514758,
-                  -23.377658
-                ],
-                [
-                  150.514683,
-                  -23.37759
-                ],
-                [
-                  150.507541,
-                  -23.372313
-                ],
-                [
-                  150.506747,
-                  -23.372657
-                ],
-                [
-                  150.506317,
-                  -23.395608
-                ],
-                [
-                  150.506671,
-                  -23.396049
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA6502",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "1296",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
-        "START": "12:52PM 04 May 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "ALMA LANE, ALMA ST, ARTHUR ST, BARTLEM ST, BOLSOVER ST, CAMPBELL ST, CAROLINE ST, CARR ST, DENHAM ST, DENISON LANE, DENISON ST, DERBY ST, EAST LANE, EAST ST, ELIZABETH ST, FITZROY ST, FRANCIS ST, GEORGE ST, GLADSTONE RD, JANE ST, JOHN ST, KENT ST, LITTLE GLADSTONE RD, LUCIUS ST, MURRAY ST, O'CONNELL ST, QUAY LANE, QUAY ST, RICHARDSON RD, SOUTH ST, STANLEY ST, VICTOR ST, WEST ST, WHARF ST, WILLIAM ST, WOOD ST",
-        "SUBURBS": "ALLENSTOWN, DEPOT HILL, NORTH ROCKHAMPTON, ROCKHAMPTON, ROCKHAMPTON CITY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -859,9 +766,98 @@
         "STREETS": "CONDAMINE HWY, DAANDINE SOLDIERS RD, DAANDINE-NANDI RD, DALBY KOGAN RD, DALBY-KOGAN RD, DULEEN-DAANDINE RD, HOSIERS RD, LEAHYS RD, NANDI RD, OLD WARREGO HWY, THETEN RD, WARREGO HWY",
         "SUBURBS": "DAANDINE, DALBY, KUPUNN, MACALISTER, RANGES BRIDGE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.968482,
+              -27.543534
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.963389,
+                  -27.541951
+                ],
+                [
+                  151.967889,
+                  -27.545382
+                ],
+                [
+                  151.968163,
+                  -27.545487
+                ],
+                [
+                  151.972295,
+                  -27.545891
+                ],
+                [
+                  151.972593,
+                  -27.545839
+                ],
+                [
+                  151.973481,
+                  -27.545405
+                ],
+                [
+                  151.973691,
+                  -27.544812
+                ],
+                [
+                  151.973223,
+                  -27.543961
+                ],
+                [
+                  151.972962,
+                  -27.543743
+                ],
+                [
+                  151.970949,
+                  -27.543005
+                ],
+                [
+                  151.970897,
+                  -27.542988
+                ],
+                [
+                  151.963857,
+                  -27.541177
+                ],
+                [
+                  151.963273,
+                  -27.541395
+                ],
+                [
+                  151.963389,
+                  -27.541951
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8483",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "39",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:05PM 04 May 2024",
+        "EST_FIX_TIME": "3:00PM 04 May 2024",
+        "STREETS": "BENJAMIN ST, NORTH ST, RANGE ST, RODERIC CT, VIDEO AVE, WARANA AVE",
+        "SUBURBS": "MOUNT LOFTY, TOOWOOMBA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714795204.831038"
+  "extracted": "1714795500.357104"
 }
