@@ -122,13 +122,106 @@
         "REASON": "Under Investigation",
         "STATUS": "In Progress",
         "START": "11:03PM 05 May 2024",
-        "EST_FIX_TIME": "6:30AM 06 May 2024",
+        "EST_FIX_TIME": "8:30AM 06 May 2024",
         "STREETS": "COVE RD",
         "SUBURBS": "STANMORE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.381496,
+              -28.07833
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.374536,
+                  -28.074167
+                ],
+                [
+                  153.375161,
+                  -28.081315
+                ],
+                [
+                  153.375502,
+                  -28.081707
+                ],
+                [
+                  153.379505,
+                  -28.082933
+                ],
+                [
+                  153.379614,
+                  -28.082955
+                ],
+                [
+                  153.379856,
+                  -28.082979
+                ],
+                [
+                  153.380057,
+                  -28.082964
+                ],
+                [
+                  153.388199,
+                  -28.080838
+                ],
+                [
+                  153.388455,
+                  -28.080126
+                ],
+                [
+                  153.385706,
+                  -28.077029
+                ],
+                [
+                  153.385581,
+                  -28.076928
+                ],
+                [
+                  153.380227,
+                  -28.073884
+                ],
+                [
+                  153.379967,
+                  -28.073813
+                ],
+                [
+                  153.375059,
+                  -28.073681
+                ],
+                [
+                  153.374536,
+                  -28.074167
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758207-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1109",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:02AM 06 May 2024",
+        "EST_FIX_TIME": "8:30AM 06 May 2024",
+        "STREETS": "ARBOUR AVE, CAMPUS CRES, EASTHILL DR, GLADES DR, INVESTIGATOR DR, LAVER DR, RIVERWALK AVE, ROBINA PKWY, ROBINA TOWN CENTRE DR, THE GARDENWAY, WATERFRONT PL",
+        "SUBURBS": "ROBINA"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1714939204.692958"
+  "extracted": "1714939801.333692"
 }
