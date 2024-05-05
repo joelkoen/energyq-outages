@@ -10,6 +10,115 @@
           {
             "type": "Point",
             "coordinates": [
+              151.221165,
+              -25.011653
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.179766,
+                  -25.008761
+                ],
+                [
+                  151.181409,
+                  -25.029803
+                ],
+                [
+                  151.181417,
+                  -25.029861
+                ],
+                [
+                  151.184407,
+                  -25.043285
+                ],
+                [
+                  151.184801,
+                  -25.043638
+                ],
+                [
+                  151.211901,
+                  -25.048242
+                ],
+                [
+                  151.212034,
+                  -25.048248
+                ],
+                [
+                  151.224915,
+                  -25.04724
+                ],
+                [
+                  151.225188,
+                  -25.047138
+                ],
+                [
+                  151.257265,
+                  -25.023006
+                ],
+                [
+                  151.257423,
+                  -25.022792
+                ],
+                [
+                  151.262563,
+                  -25.00759
+                ],
+                [
+                  151.262354,
+                  -25.007076
+                ],
+                [
+                  151.206467,
+                  -24.975058
+                ],
+                [
+                  151.205879,
+                  -24.9751
+                ],
+                [
+                  151.186412,
+                  -24.99061
+                ],
+                [
+                  151.186268,
+                  -24.990808
+                ],
+                [
+                  151.17979,
+                  -25.008587
+                ],
+                [
+                  151.179766,
+                  -25.008761
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6515",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "32",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:55AM 06 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BURNETT HWY, CANNINDAH RD, KAPALDO RD, KEYWORTHS RD, MULGILDIE PLATEAU RD, TELLEBANG RD, WEIR RD",
+        "SUBURBS": "MONTO, MULGILDIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -309,5 +418,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714944001.411199"
+  "extracted": "1714944301.312521"
 }
