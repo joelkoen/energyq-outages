@@ -10,6 +10,91 @@
           {
             "type": "Point",
             "coordinates": [
+              150.498464,
+              -24.456131
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.482375,
+                  -24.473569
+                ],
+                [
+                  150.492643,
+                  -24.471691
+                ],
+                [
+                  150.492933,
+                  -24.471529
+                ],
+                [
+                  150.515845,
+                  -24.445095
+                ],
+                [
+                  150.515595,
+                  -24.444382
+                ],
+                [
+                  150.494094,
+                  -24.438693
+                ],
+                [
+                  150.493698,
+                  -24.438743
+                ],
+                [
+                  150.485198,
+                  -24.443557
+                ],
+                [
+                  150.48513,
+                  -24.443604
+                ],
+                [
+                  150.481249,
+                  -24.446771
+                ],
+                [
+                  150.481084,
+                  -24.447118
+                ],
+                [
+                  150.481786,
+                  -24.473138
+                ],
+                [
+                  150.482375,
+                  -24.473569
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6516",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews on route",
+        "START": "7:20AM 06 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MEISSNERS RD, MULLERS LANE, SEMPLES RD",
+        "SUBURBS": "BILOELA, PROSPECT, THANGOOL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -309,5 +394,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714949701.410306"
+  "extracted": "1714950005.127772"
 }
