@@ -10,6 +10,147 @@
           {
             "type": "Point",
             "coordinates": [
+              148.365702,
+              -24.073418
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.246721,
+                  -24.148377
+                ],
+                [
+                  148.266954,
+                  -24.248242
+                ],
+                [
+                  148.267235,
+                  -24.248571
+                ],
+                [
+                  148.325965,
+                  -24.273004
+                ],
+                [
+                  148.326003,
+                  -24.273018
+                ],
+                [
+                  148.413702,
+                  -24.301525
+                ],
+                [
+                  148.414101,
+                  -24.301497
+                ],
+                [
+                  148.483093,
+                  -24.267292
+                ],
+                [
+                  148.483351,
+                  -24.266903
+                ],
+                [
+                  148.484692,
+                  -24.201115
+                ],
+                [
+                  148.484692,
+                  -24.201099
+                ],
+                [
+                  148.483598,
+                  -24.142567
+                ],
+                [
+                  148.483598,
+                  -24.142564
+                ],
+                [
+                  148.476066,
+                  -23.863434
+                ],
+                [
+                  148.475802,
+                  -23.863044
+                ],
+                [
+                  148.442813,
+                  -23.847287
+                ],
+                [
+                  148.442609,
+                  -23.847237
+                ],
+                [
+                  148.395802,
+                  -23.84531
+                ],
+                [
+                  148.395379,
+                  -23.8455
+                ],
+                [
+                  148.266702,
+                  -24.012661
+                ],
+                [
+                  148.266658,
+                  -24.01273
+                ],
+                [
+                  148.249487,
+                  -24.0464
+                ],
+                [
+                  148.249467,
+                  -24.046444
+                ],
+                [
+                  148.248204,
+                  -24.049798
+                ],
+                [
+                  148.248177,
+                  -24.04994
+                ],
+                [
+                  148.246713,
+                  -24.148288
+                ],
+                [
+                  148.246721,
+                  -24.148377
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6509",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "69",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
+        "STATUS": "Outage reported",
+        "START": "12:29PM 05 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARCTURUS RD, DAWSON HWY, GAP RD, KILMORE RD, OFF DAWSON HWY, OFF GAP RD, OFF TEN CHAIN RD, ORION CREEK RD, ORION TEN CHAIN RD, SPRINGTON RD, TEN CHAIN RD, THREE CHAIN RD, TOONBA RD, UNKNOWN ST, YANDINA RD",
+        "SUBURBS": "SPRINGSURE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -169,7 +310,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "7",
         "REASON": "The loss of supply is due to fallen power lines.  ",
-        "STATUS": "Crews on route",
+        "STATUS": "Work delayed - crews unable to continue",
         "START": "6:03AM 05 May 2024",
         "EST_FIX_TIME": null,
         "STREETS": "LITTLE MULGRAVE RD, NIELSEN RD, PAPACEK ACCESS RD",
@@ -390,5 +531,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714877103.170009"
+  "extracted": "1714877401.380138"
 }
