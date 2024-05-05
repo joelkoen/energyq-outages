@@ -354,6 +354,71 @@
           {
             "type": "Point",
             "coordinates": [
+              146.696985,
+              -19.359512
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.693804,
+                  -19.357885
+                ],
+                [
+                  146.693809,
+                  -19.361181
+                ],
+                [
+                  146.694493,
+                  -19.361586
+                ],
+                [
+                  146.699902,
+                  -19.35909
+                ],
+                [
+                  146.700165,
+                  -19.358617
+                ],
+                [
+                  146.699767,
+                  -19.358238
+                ],
+                [
+                  146.694354,
+                  -19.357438
+                ],
+                [
+                  146.693804,
+                  -19.357885
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8210",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "1:20PM 05 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "WOODFIELD RD",
+        "SUBURBS": "GUMLOW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -410,5 +475,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714892404.552089"
+  "extracted": "1714892701.455414"
 }
