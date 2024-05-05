@@ -95,6 +95,115 @@
           {
             "type": "Point",
             "coordinates": [
+              150.727749,
+              -23.141236
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.726157,
+                  -23.141872
+                ],
+                [
+                  150.72632,
+                  -23.142122
+                ],
+                [
+                  150.726457,
+                  -23.142258
+                ],
+                [
+                  150.726699,
+                  -23.142415
+                ],
+                [
+                  150.726932,
+                  -23.142495
+                ],
+                [
+                  150.728917,
+                  -23.142673
+                ],
+                [
+                  150.72941,
+                  -23.142042
+                ],
+                [
+                  150.729291,
+                  -23.141792
+                ],
+                [
+                  150.729283,
+                  -23.141776
+                ],
+                [
+                  150.728395,
+                  -23.140102
+                ],
+                [
+                  150.72826,
+                  -23.139948
+                ],
+                [
+                  150.728058,
+                  -23.139799
+                ],
+                [
+                  150.727447,
+                  -23.139802
+                ],
+                [
+                  150.726456,
+                  -23.140547
+                ],
+                [
+                  150.726311,
+                  -23.140729
+                ],
+                [
+                  150.72613,
+                  -23.141146
+                ],
+                [
+                  150.726095,
+                  -23.141304
+                ],
+                [
+                  150.726088,
+                  -23.14163
+                ],
+                [
+                  150.726157,
+                  -23.141872
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6518",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "26",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews on route",
+        "START": "8:47AM 06 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CARIBBEAN CRES, JAVA CT, TASMAN CRES",
+        "SUBURBS": "YEPPOON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -338,6 +447,91 @@
           {
             "type": "Point",
             "coordinates": [
+              139.497037,
+              -20.699261
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  139.49573,
+                  -20.702714
+                ],
+                [
+                  139.497499,
+                  -20.702183
+                ],
+                [
+                  139.497745,
+                  -20.702012
+                ],
+                [
+                  139.498876,
+                  -20.700483
+                ],
+                [
+                  139.498961,
+                  -20.700197
+                ],
+                [
+                  139.498677,
+                  -20.696216
+                ],
+                [
+                  139.498095,
+                  -20.695809
+                ],
+                [
+                  139.498035,
+                  -20.695822
+                ],
+                [
+                  139.497737,
+                  -20.696022
+                ],
+                [
+                  139.495569,
+                  -20.699301
+                ],
+                [
+                  139.495501,
+                  -20.699479
+                ],
+                [
+                  139.495113,
+                  -20.702227
+                ],
+                [
+                  139.49573,
+                  -20.702714
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8215",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "8:08AM 06 May 2024",
+        "EST_FIX_TIME": "10:30AM 06 May 2024",
+        "STREETS": "DAVIS RD, LANSKEY RD, RICHARDSON RD, RYAN RD",
+        "SUBURBS": "RYAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -394,5 +588,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714950904.692845"
+  "extracted": "1714951501.157342"
 }
