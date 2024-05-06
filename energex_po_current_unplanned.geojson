@@ -1,8 +1,106 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.089383,
+              -27.48103
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.087648,
+                  -27.481431
+                ],
+                [
+                  153.087997,
+                  -27.483278
+                ],
+                [
+                  153.08876,
+                  -27.483588
+                ],
+                [
+                  153.089234,
+                  -27.48333
+                ],
+                [
+                  153.089419,
+                  -27.483153
+                ],
+                [
+                  153.091125,
+                  -27.480226
+                ],
+                [
+                  153.091117,
+                  -27.479797
+                ],
+                [
+                  153.090666,
+                  -27.479077
+                ],
+                [
+                  153.090351,
+                  -27.47886
+                ],
+                [
+                  153.088655,
+                  -27.478471
+                ],
+                [
+                  153.08803,
+                  -27.478831
+                ],
+                [
+                  153.087883,
+                  -27.479586
+                ],
+                [
+                  153.087706,
+                  -27.480495
+                ],
+                [
+                  153.0877,
+                  -27.480543
+                ],
+                [
+                  153.087642,
+                  -27.481326
+                ],
+                [
+                  153.087648,
+                  -27.481431
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758310-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "86",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:29AM 07 May 2024",
+        "EST_FIX_TIME": "8:00AM 07 May 2024",
+        "STREETS": "BANBURY ST, DARCY RD, HULL ST, LUNGA ST, MADISON PL, TODMAN ST",
+        "SUBURBS": "CARINA"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715027404.798287"
+  "extracted": "1715027700.384146"
 }
