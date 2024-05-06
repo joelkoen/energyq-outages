@@ -358,9 +358,86 @@
         "STREETS": "C BLACKWELL RD",
         "SUBURBS": "WESTBROOK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.830287,
+              -26.592041
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.82557,
+                  -26.595998
+                ],
+                [
+                  151.82653,
+                  -26.596086
+                ],
+                [
+                  151.826722,
+                  -26.59607
+                ],
+                [
+                  151.833907,
+                  -26.594172
+                ],
+                [
+                  151.834257,
+                  -26.593829
+                ],
+                [
+                  151.835453,
+                  -26.588507
+                ],
+                [
+                  151.834785,
+                  -26.587997
+                ],
+                [
+                  151.825777,
+                  -26.591066
+                ],
+                [
+                  151.825455,
+                  -26.591454
+                ],
+                [
+                  151.825122,
+                  -26.595517
+                ],
+                [
+                  151.82557,
+                  -26.595998
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5465",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "2:10PM 06 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "GOODGER RD, KINGAROY COOYAR RD, RAILWAY RD",
+        "SUBURBS": "KINGAROY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714970401.245548"
+  "extracted": "1714970703.63641"
 }
