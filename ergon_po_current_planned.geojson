@@ -238,6 +238,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          147.408299,
+          -19.568983
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ6836",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "85",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 07 May 2024",
+        "EST_FIX_TIME": "2:30PM 07 May 2024",
+        "STREETS": "CAMERON ST, CHIPPENDALE ST, COX ST, MUNRO ST, ROSSITER ST, SPILLER ST, WILMINGTON ST",
+        "SUBURBS": "AYR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.70095,
           -19.24212
         ]
@@ -635,5 +656,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715037305.057449"
+  "extracted": "1715037600.329789"
 }

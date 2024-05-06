@@ -253,6 +253,107 @@
           {
             "type": "Point",
             "coordinates": [
+              146.768675,
+              -19.283837
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.767391,
+                  -19.284535
+                ],
+                [
+                  146.767394,
+                  -19.284679
+                ],
+                [
+                  146.767597,
+                  -19.285039
+                ],
+                [
+                  146.767913,
+                  -19.28525
+                ],
+                [
+                  146.768246,
+                  -19.285328
+                ],
+                [
+                  146.769484,
+                  -19.28518
+                ],
+                [
+                  146.769897,
+                  -19.28478
+                ],
+                [
+                  146.769959,
+                  -19.284238
+                ],
+                [
+                  146.769885,
+                  -19.283945
+                ],
+                [
+                  146.769019,
+                  -19.282669
+                ],
+                [
+                  146.76878,
+                  -19.282489
+                ],
+                [
+                  146.768364,
+                  -19.282347
+                ],
+                [
+                  146.767743,
+                  -19.282655
+                ],
+                [
+                  146.767413,
+                  -19.283832
+                ],
+                [
+                  146.767397,
+                  -19.283944
+                ],
+                [
+                  146.767391,
+                  -19.284521
+                ],
+                [
+                  146.767391,
+                  -19.284535
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8242",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "28",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:17AM 07 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRISTOL ST, CAMBRIDGE ST, MCDONALD ST",
+        "SUBURBS": "GULLIVER, VINCENT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -309,5 +410,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715037305.057449"
+  "extracted": "1715037600.329789"
 }
