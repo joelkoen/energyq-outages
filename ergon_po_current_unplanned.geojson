@@ -253,6 +253,115 @@
           {
             "type": "Point",
             "coordinates": [
+              147.376202,
+              -19.718351
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.35471,
+                  -19.728796
+                ],
+                [
+                  147.380685,
+                  -19.734827
+                ],
+                [
+                  147.380755,
+                  -19.734838
+                ],
+                [
+                  147.382685,
+                  -19.735004
+                ],
+                [
+                  147.38286,
+                  -19.734988
+                ],
+                [
+                  147.386944,
+                  -19.733874
+                ],
+                [
+                  147.387242,
+                  -19.733635
+                ],
+                [
+                  147.397939,
+                  -19.71252
+                ],
+                [
+                  147.397981,
+                  -19.712259
+                ],
+                [
+                  147.397415,
+                  -19.708634
+                ],
+                [
+                  147.397334,
+                  -19.708441
+                ],
+                [
+                  147.393068,
+                  -19.702678
+                ],
+                [
+                  147.392739,
+                  -19.702489
+                ],
+                [
+                  147.386325,
+                  -19.701698
+                ],
+                [
+                  147.386073,
+                  -19.701732
+                ],
+                [
+                  147.367171,
+                  -19.709499
+                ],
+                [
+                  147.36696,
+                  -19.709669
+                ],
+                [
+                  147.354422,
+                  -19.728112
+                ],
+                [
+                  147.35471,
+                  -19.728796
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8218",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "76",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:51PM 06 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BAPTY RD, BECKE RD, BURSTALL RD, HURNEY RD, IONA RD, MENKENS RD, NEW RIFLE RANGE RD, OLD RIFLE RANGE RD, PLAIN RD, RIFLE RANGE RD, TUFFIN RD",
+        "SUBURBS": "AYR, FREDERICKSFIELD, HOME HILL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -439,5 +548,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714971001.262859"
+  "extracted": "1714971301.468358"
 }
