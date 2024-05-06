@@ -247,7 +247,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "59",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 07 May 2024",
         "EST_FIX_TIME": "3:00PM 07 May 2024",
         "STREETS": "CASSADY ST, CLAY ST, FORGAN ST, JESSON ST",
@@ -511,6 +511,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.746021,
+          -26.83776
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7761",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:36AM 07 May 2024",
+        "EST_FIX_TIME": "12:30PM 07 May 2024",
+        "STREETS": "B RIDER'S RD",
+        "SUBURBS": "BRIGALOW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.322823,
           -27.334231
         ]
@@ -546,27 +567,6 @@
         "EST_FIX_TIME": "11:00AM 07 May 2024",
         "STREETS": "MORT ST",
         "SUBURBS": "TOOWOOMBA CITY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.866289,
-          -26.511559
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB4445",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:00AM 07 May 2024",
-        "EST_FIX_TIME": "10:00AM 07 May 2024",
-        "STREETS": "SCHELLBACHS RD, TESSMANNS RD N",
-        "SUBURBS": "BOOIE, KINGAROY"
       }
     },
     {
@@ -656,5 +656,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715035200.471927"
+  "extracted": "1715035801.148715"
 }
