@@ -322,6 +322,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          153.188143,
+          -27.668665
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-754588-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "In Progress",
+        "START": "8:00AM 07 May 2024",
+        "EST_FIX_TIME": "2:30PM 07 May 2024",
+        "STREETS": "TORRES ST",
+        "SUBURBS": "LOGANHOLME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           153.060724,
           -27.435868
         ]
@@ -488,5 +509,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715037000.582155"
+  "extracted": "1715037302.054683"
 }
