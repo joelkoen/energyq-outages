@@ -100,7 +100,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "130",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 07 May 2024",
         "EST_FIX_TIME": "2:30PM 07 May 2024",
         "STREETS": "FINLAYVALE RD, HIGH FALLS RD, KINGFISHER LANE, O'DONOGHUE RD, OLD FORESTRY RD, POLETTI RD, PONY CLUB RD, RANKINE RD, ROBIN CL, ROBIN RD, SPLENDOUR RD, SYNDICATE RD, TATI RD, WHITELEY RD, WHITELY RD, WHYANBEEL RD",
@@ -574,6 +574,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.613261,
+          -27.423246
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7722",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "42",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:02AM 07 May 2024",
+        "EST_FIX_TIME": "2:00PM 07 May 2024",
+        "STREETS": "AJUGA CT, BROOKVALE PARK RD, JONDARYAN MOUNT TYSON RD, NORGAARD RD, WARREGO HWY",
+        "SUBURBS": "JONDARYAN, OAKEY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.955252,
           -27.465386
         ]
@@ -782,5 +803,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715032802.448485"
+  "extracted": "1715033100.336648"
 }
