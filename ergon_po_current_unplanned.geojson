@@ -10,6 +10,91 @@
           {
             "type": "Point",
             "coordinates": [
+              150.498464,
+              -24.456131
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.482375,
+                  -24.473569
+                ],
+                [
+                  150.492643,
+                  -24.471691
+                ],
+                [
+                  150.492933,
+                  -24.471529
+                ],
+                [
+                  150.515845,
+                  -24.445095
+                ],
+                [
+                  150.515595,
+                  -24.444382
+                ],
+                [
+                  150.494094,
+                  -24.438693
+                ],
+                [
+                  150.493698,
+                  -24.438743
+                ],
+                [
+                  150.485198,
+                  -24.443557
+                ],
+                [
+                  150.48513,
+                  -24.443604
+                ],
+                [
+                  150.481249,
+                  -24.446771
+                ],
+                [
+                  150.481084,
+                  -24.447118
+                ],
+                [
+                  150.481786,
+                  -24.473138
+                ],
+                [
+                  150.482375,
+                  -24.473569
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6534",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "7:14AM 07 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MEISSNERS RD, MULLERS LANE, SEMPLES RD",
+        "SUBURBS": "BILOELA, PROSPECT, THANGOOL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -253,107 +338,6 @@
           {
             "type": "Point",
             "coordinates": [
-              146.768675,
-              -19.283837
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  146.767391,
-                  -19.284535
-                ],
-                [
-                  146.767394,
-                  -19.284679
-                ],
-                [
-                  146.767597,
-                  -19.285039
-                ],
-                [
-                  146.767913,
-                  -19.28525
-                ],
-                [
-                  146.768246,
-                  -19.285328
-                ],
-                [
-                  146.769484,
-                  -19.28518
-                ],
-                [
-                  146.769897,
-                  -19.28478
-                ],
-                [
-                  146.769959,
-                  -19.284238
-                ],
-                [
-                  146.769885,
-                  -19.283945
-                ],
-                [
-                  146.769019,
-                  -19.282669
-                ],
-                [
-                  146.76878,
-                  -19.282489
-                ],
-                [
-                  146.768364,
-                  -19.282347
-                ],
-                [
-                  146.767743,
-                  -19.282655
-                ],
-                [
-                  146.767413,
-                  -19.283832
-                ],
-                [
-                  146.767397,
-                  -19.283944
-                ],
-                [
-                  146.767391,
-                  -19.284521
-                ],
-                [
-                  146.767391,
-                  -19.284535
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ8242",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "28",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "9:17AM 07 May 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "BRISTOL ST, CAMBRIDGE ST, MCDONALD ST",
-        "SUBURBS": "GULLIVER, VINCENT"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -406,9 +390,106 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.56635,
+              -25.842319
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.563712,
+                  -25.84495
+                ],
+                [
+                  148.568042,
+                  -25.843401
+                ],
+                [
+                  148.568119,
+                  -25.843366
+                ],
+                [
+                  148.569039,
+                  -25.842856
+                ],
+                [
+                  148.569264,
+                  -25.842573
+                ],
+                [
+                  148.56958,
+                  -25.841349
+                ],
+                [
+                  148.569402,
+                  -25.840892
+                ],
+                [
+                  148.568589,
+                  -25.840314
+                ],
+                [
+                  148.568547,
+                  -25.840287
+                ],
+                [
+                  148.567676,
+                  -25.839791
+                ],
+                [
+                  148.56745,
+                  -25.839723
+                ],
+                [
+                  148.566971,
+                  -25.839688
+                ],
+                [
+                  148.566523,
+                  -25.839879
+                ],
+                [
+                  148.56312,
+                  -25.844271
+                ],
+                [
+                  148.563136,
+                  -25.84481
+                ],
+                [
+                  148.563712,
+                  -25.84495
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8535",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "34",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "9:22AM 07 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "FIRST AVE, FLOWER ST, HUTTON ST, RAILWAY PDE, STATION ST, THIRD AVE",
+        "SUBURBS": "INJUNE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715037901.285231"
+  "extracted": "1715038205.494619"
 }
