@@ -3493,6 +3493,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.331519,
+          -18.526706
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7260",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:42AM 07 May 2024",
+        "EST_FIX_TIME": "3:30PM 08 May 2024",
+        "STREETS": "DUNGENESS RD, KEAST ST",
+        "SUBURBS": "LUCINDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.72833,
           -19.381847
         ]
@@ -5728,7 +5749,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:00AM 07 May 2024",
         "EST_FIX_TIME": "10:00AM 07 May 2024",
         "STREETS": "SCHELLBACHS RD, TESSMANNS RD N",
@@ -6767,5 +6788,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1715031600.427453"
+  "extracted": "1715031902.451349"
 }
