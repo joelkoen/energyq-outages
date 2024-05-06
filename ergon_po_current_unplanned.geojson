@@ -305,9 +305,118 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.290911,
+              -27.308766
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.247079,
+                  -27.308436
+                ],
+                [
+                  151.257794,
+                  -27.326044
+                ],
+                [
+                  151.257851,
+                  -27.326119
+                ],
+                [
+                  151.262615,
+                  -27.331176
+                ],
+                [
+                  151.26304,
+                  -27.331335
+                ],
+                [
+                  151.329689,
+                  -27.32676
+                ],
+                [
+                  151.329747,
+                  -27.326753
+                ],
+                [
+                  151.333616,
+                  -27.326073
+                ],
+                [
+                  151.333819,
+                  -27.325993
+                ],
+                [
+                  151.334696,
+                  -27.325413
+                ],
+                [
+                  151.334787,
+                  -27.324766
+                ],
+                [
+                  151.316266,
+                  -27.304454
+                ],
+                [
+                  151.316051,
+                  -27.304316
+                ],
+                [
+                  151.309177,
+                  -27.302028
+                ],
+                [
+                  151.309156,
+                  -27.302021
+                ],
+                [
+                  151.254159,
+                  -27.286198
+                ],
+                [
+                  151.253517,
+                  -27.28651
+                ],
+                [
+                  151.247035,
+                  -27.308104
+                ],
+                [
+                  151.247079,
+                  -27.308436
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8511",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
+        "STATUS": "Crews working on-site",
+        "START": "3:38PM 06 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CECIL PLAINS RD, CHRISTENSENS RD, DUNCANS RD, NEWTON-STEPHENS RD, PRENZLERS RD, STARKS RD, WORTHINGTON RD, WORTHINGTONS RD",
+        "SUBURBS": "CECIL PLAINS, DALBY, ST RUTH"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1714985401.44893"
+  "extracted": "1714985701.500319"
 }
