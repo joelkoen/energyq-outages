@@ -168,6 +168,91 @@
           {
             "type": "Point",
             "coordinates": [
+              148.662142,
+              -20.267616
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.658019,
+                  -20.262656
+                ],
+                [
+                  148.665409,
+                  -20.273108
+                ],
+                [
+                  148.66601,
+                  -20.273267
+                ],
+                [
+                  148.666266,
+                  -20.27273
+                ],
+                [
+                  148.663434,
+                  -20.263644
+                ],
+                [
+                  148.663184,
+                  -20.263366
+                ],
+                [
+                  148.662448,
+                  -20.263029
+                ],
+                [
+                  148.662386,
+                  -20.263005
+                ],
+                [
+                  148.660235,
+                  -20.26235
+                ],
+                [
+                  148.660199,
+                  -20.262341
+                ],
+                [
+                  148.658527,
+                  -20.261966
+                ],
+                [
+                  148.658024,
+                  -20.262147
+                ],
+                [
+                  148.658019,
+                  -20.262656
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4095",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews on route",
+        "START": "4:30PM 07 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "PALUMA RD",
+        "SUBURBS": "WOODWARK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -309,5 +394,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715066401.545126"
+  "extracted": "1715066701.3226"
 }
