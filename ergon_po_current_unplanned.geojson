@@ -168,6 +168,115 @@
           {
             "type": "Point",
             "coordinates": [
+              147.601399,
+              -19.794739
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.575143,
+                  -19.822983
+                ],
+                [
+                  147.600831,
+                  -19.84793
+                ],
+                [
+                  147.60089,
+                  -19.847978
+                ],
+                [
+                  147.615969,
+                  -19.858512
+                ],
+                [
+                  147.616523,
+                  -19.858522
+                ],
+                [
+                  147.620849,
+                  -19.855715
+                ],
+                [
+                  147.620891,
+                  -19.855685
+                ],
+                [
+                  147.626305,
+                  -19.851284
+                ],
+                [
+                  147.626465,
+                  -19.851015
+                ],
+                [
+                  147.627784,
+                  -19.843483
+                ],
+                [
+                  147.627772,
+                  -19.843285
+                ],
+                [
+                  147.594805,
+                  -19.734395
+                ],
+                [
+                  147.594769,
+                  -19.73431
+                ],
+                [
+                  147.593371,
+                  -19.731775
+                ],
+                [
+                  147.593149,
+                  -19.731575
+                ],
+                [
+                  147.591746,
+                  -19.730956
+                ],
+                [
+                  147.591074,
+                  -19.731291
+                ],
+                [
+                  147.575014,
+                  -19.822594
+                ],
+                [
+                  147.575143,
+                  -19.822983
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8286",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "74",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:15AM 08 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AIVU AVE, BOWEN RD, BRUCE HWY, KESTREL LANE, KOOKABURRA TCE, ROCKY PONDS RD, SEAGULL LANE, THE ESPLANADE, WAKALA RD",
+        "SUBURBS": "GUMLU, HOME HILL, WUNJUNGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -285,5 +394,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715119800.336372"
+  "extracted": "1715120400.280415"
 }
