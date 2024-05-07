@@ -118,9 +118,118 @@
         "STREETS": "MOONBI ST",
         "SUBURBS": "BRENDALE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.01787,
+              -27.883346
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.012659,
+                  -27.885793
+                ],
+                [
+                  153.013612,
+                  -27.895997
+                ],
+                [
+                  153.014472,
+                  -27.896284
+                ],
+                [
+                  153.017495,
+                  -27.893689
+                ],
+                [
+                  153.017515,
+                  -27.893671
+                ],
+                [
+                  153.018886,
+                  -27.892352
+                ],
+                [
+                  153.019004,
+                  -27.892159
+                ],
+                [
+                  153.023084,
+                  -27.878101
+                ],
+                [
+                  153.023021,
+                  -27.877747
+                ],
+                [
+                  153.017818,
+                  -27.870438
+                ],
+                [
+                  153.016982,
+                  -27.870408
+                ],
+                [
+                  153.013635,
+                  -27.874379
+                ],
+                [
+                  153.013574,
+                  -27.874474
+                ],
+                [
+                  153.013276,
+                  -27.8751
+                ],
+                [
+                  153.013237,
+                  -27.875242
+                ],
+                [
+                  153.012663,
+                  -27.881883
+                ],
+                [
+                  153.012661,
+                  -27.881918
+                ],
+                [
+                  153.012657,
+                  -27.885755
+                ],
+                [
+                  153.012659,
+                  -27.885793
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758525-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "115",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "8:31PM 07 May 2024",
+        "EST_FIX_TIME": "11:00PM 07 May 2024",
+        "STREETS": "BANKSIA CT, BIRCHWOOD ST, BLACKBEAN ST, CASCARA DR, MILLSTREAM RD, TEAK ST",
+        "SUBURBS": "CEDAR VALE, VERESDALE SCRUB"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715077803.425304"
+  "extracted": "1715078101.561157"
 }
