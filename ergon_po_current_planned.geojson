@@ -28,6 +28,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          149.983935,
+          -24.360578
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5621",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:30AM 07 May 2024",
+        "EST_FIX_TIME": "3:30PM 07 May 2024",
+        "STREETS": "BACKENS RD, BANANA BARALABA RD, KRAUSES RD, THEODORE BARALABA RD",
+        "SUBURBS": "BANANA, MOURA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.167889,
           -23.504423
         ]
@@ -322,6 +343,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.3956,
+          -20.520108
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7503",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "10:09AM 07 May 2024",
+        "EST_FIX_TIME": "1:00PM 07 May 2024",
+        "STREETS": "BAHR RD, CAPE RD, GILMORE ST, WANDOVALE RD",
+        "SUBURBS": "PENTLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.182856,
           -26.49326
         ]
@@ -572,5 +614,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715040600.466277"
+  "extracted": "1715041200.347201"
 }
