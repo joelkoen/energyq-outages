@@ -58,7 +58,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 08 May 2024",
         "EST_FIX_TIME": "1:30PM 08 May 2024",
         "STREETS": "MINERVA HILLS RD",
@@ -175,6 +175,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.728377,
+          -22.723472
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5925",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 08 May 2024",
+        "EST_FIX_TIME": "2:00PM 08 May 2024",
+        "STREETS": "DINGO-MT FLORA RD, MAY DOWNS-ROLFE CK RD, ROLFE CK-BOOROONDA RD, WARWICK PARK RD",
+        "SUBURBS": "DYSART, MIDDLEMOUNT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.737518,
           -16.925026
         ]
@@ -184,7 +205,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "150",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 08 May 2024",
         "EST_FIX_TIME": "12:30PM 08 May 2024",
         "STREETS": "HAYWARD ST, KEEBLE ST, MCCOOMBE ST, MOODY ST",
@@ -268,7 +289,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "87",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 08 May 2024",
         "EST_FIX_TIME": "2:30PM 08 May 2024",
         "STREETS": "ALLAMANDA ST, BOUGAINVILIA ST, MELALEUCA DR, THOOLEER CL",
@@ -784,6 +805,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.536352,
+          -20.720803
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7562",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "71",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 08 May 2024",
+        "EST_FIX_TIME": "3:00PM 08 May 2024",
+        "STREETS": "BARKLY HWY, BREAKAWAY DR, ELIANA BVD, LITTLE BEND, LLOYD CL, SMYTH CRES, VAIENTE PDE",
+        "SUBURBS": "BREAKAWAY, FISHER, MOUNT ISA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           147.10866,
           -19.395852
         ]
@@ -814,7 +856,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "40",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 08 May 2024",
         "EST_FIX_TIME": "2:30PM 08 May 2024",
         "STREETS": "AMIENS RD, BAMBERRY RD, BAPAUME RD, DONNELLYS CASTLE RD, MENGEL RD, QUIRKS RD",
@@ -994,27 +1036,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.134919,
-          -25.73953
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB4801",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "31",
-        "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "9:00AM 08 May 2024",
-        "EST_FIX_TIME": "3:00PM 08 May 2024",
-        "STREETS": "BIGGENDEN-WOOLOOGA RD, BOOUBYJAN RD, INNOOROOLABAR RD, MALARGA RD, NEARDIE RD, PINE MOUNTAIN RD, WARD RD, WESTWOOD RD, WOOP WOOP RD",
-        "SUBURBS": "BIGGENDEN, BOOMPA, BROOWEENA, GIGOOMGAN, TEEBAR"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           150.958109,
           -26.043138
         ]
@@ -1118,5 +1139,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715119201.963306"
+  "extracted": "1715119800.336372"
 }
