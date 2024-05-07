@@ -305,9 +305,86 @@
         "STREETS": "DAPHNE ST, GORE HWY, LORD ST, MADELAINE ST, MANN SILO RD, MARCH ST, WARE ST",
         "SUBURBS": "BROOKSTEAD"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.95326,
+              -27.564937
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.951951,
+                  -27.565318
+                ],
+                [
+                  151.95257,
+                  -27.565929
+                ],
+                [
+                  151.952791,
+                  -27.566057
+                ],
+                [
+                  151.953672,
+                  -27.566309
+                ],
+                [
+                  151.954321,
+                  -27.565967
+                ],
+                [
+                  151.954576,
+                  -27.564822
+                ],
+                [
+                  151.954505,
+                  -27.56449
+                ],
+                [
+                  151.953869,
+                  -27.563615
+                ],
+                [
+                  151.953063,
+                  -27.563566
+                ],
+                [
+                  151.951944,
+                  -27.564722
+                ],
+                [
+                  151.951951,
+                  -27.565318
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8567",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "31",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "9:53PM 07 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANNAND ST, HERRIES ST, RUTHVEN ST",
+        "SUBURBS": "TOOWOOMBA, TOOWOOMBA CITY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715087401.215565"
+  "extracted": "1715087702.625857"
 }
