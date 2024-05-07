@@ -385,6 +385,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.469392,
+          -23.456598
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5473",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "219",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 08 May 2024",
+        "EST_FIX_TIME": "2:00PM 08 May 2024",
+        "STREETS": "ANNIE CL, ASH CT, JOSEPH ST, LILLYPILLY AVE, LUCAS ST, MIMOSA CT, POINCIANA PL, ROSEWOOD AVE, WILLIAM CL, ZAMIA WAY",
+        "SUBURBS": "GRACEMERE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.815493,
           -25.364104
         ]
@@ -2830,7 +2851,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "48",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 08 May 2024",
         "EST_FIX_TIME": "2:30PM 08 May 2024",
         "STREETS": "BOGGA RD, BRUCE HWY, HOLDINGS RD, LANDING RD, LITTLE BOGGA RD, MOUNT PELION RD, ONE MILE CREEK RD, WILLS RD",
@@ -3691,7 +3712,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "32",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 08 May 2024",
         "EST_FIX_TIME": "2:30PM 08 May 2024",
         "STREETS": "FORBES ST, TOMKINS ST",
@@ -3712,7 +3733,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "24",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 08 May 2024",
         "EST_FIX_TIME": "2:30PM 08 May 2024",
         "STREETS": "EDITH ST, FORBES ST, MINEHANE ST",
@@ -6284,5 +6305,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1715119800.336372"
+  "extracted": "1715120101.356613"
 }
