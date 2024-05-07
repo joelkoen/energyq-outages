@@ -305,9 +305,86 @@
         "STREETS": "DAPHNE ST, GORE HWY, LORD ST, MADELAINE ST, MANN SILO RD, MARCH ST, WARE ST",
         "SUBURBS": "BROOKSTEAD"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.873603,
+              -28.689621
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.869564,
+                  -28.689654
+                ],
+                [
+                  151.875441,
+                  -28.691094
+                ],
+                [
+                  151.875638,
+                  -28.691108
+                ],
+                [
+                  151.877581,
+                  -28.690904
+                ],
+                [
+                  151.878014,
+                  -28.690573
+                ],
+                [
+                  151.877824,
+                  -28.690095
+                ],
+                [
+                  151.874949,
+                  -28.688217
+                ],
+                [
+                  151.874571,
+                  -28.688133
+                ],
+                [
+                  151.869627,
+                  -28.688775
+                ],
+                [
+                  151.869192,
+                  -28.689192
+                ],
+                [
+                  151.869564,
+                  -28.689654
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8565",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "3:30PM 07 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "NECTAR LANE, THORNDALE RD",
+        "SUBURBS": "BROADWATER, SEVERNLEA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715063405.045356"
+  "extracted": "1715063702.755131"
 }
