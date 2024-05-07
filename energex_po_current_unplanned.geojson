@@ -1,8 +1,118 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.018683,
+              -27.517002
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.016988,
+                  -27.518135
+                ],
+                [
+                  153.017358,
+                  -27.518347
+                ],
+                [
+                  153.017541,
+                  -27.518412
+                ],
+                [
+                  153.019294,
+                  -27.518696
+                ],
+                [
+                  153.019748,
+                  -27.518566
+                ],
+                [
+                  153.020443,
+                  -27.517928
+                ],
+                [
+                  153.020584,
+                  -27.517573
+                ],
+                [
+                  153.020392,
+                  -27.515681
+                ],
+                [
+                  153.019687,
+                  -27.515307
+                ],
+                [
+                  153.018339,
+                  -27.515827
+                ],
+                [
+                  153.018163,
+                  -27.515941
+                ],
+                [
+                  153.017354,
+                  -27.516747
+                ],
+                [
+                  153.017323,
+                  -27.516782
+                ],
+                [
+                  153.017222,
+                  -27.516905
+                ],
+                [
+                  153.0172,
+                  -27.516934
+                ],
+                [
+                  153.016872,
+                  -27.517408
+                ],
+                [
+                  153.016823,
+                  -27.517502
+                ],
+                [
+                  153.016781,
+                  -27.517612
+                ],
+                [
+                  153.016988,
+                  -27.518135
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758434-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "134",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "12:26PM 07 May 2024",
+        "EST_FIX_TIME": "3:00PM 07 May 2024",
+        "STREETS": "BELFAST ST, CORK ST, DUBLIN ST, KILLARNEY ST, PARK RD",
+        "SUBURBS": "YERONGA"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715048701.236492"
+  "extracted": "1715049007.577769"
 }
