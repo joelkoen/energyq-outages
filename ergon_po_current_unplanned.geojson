@@ -10,6 +10,115 @@
           {
             "type": "Point",
             "coordinates": [
+              151.382597,
+              -24.528323
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.380868,
+                  -24.527396
+                ],
+                [
+                  151.381518,
+                  -24.528508
+                ],
+                [
+                  151.381553,
+                  -24.52856
+                ],
+                [
+                  151.381962,
+                  -24.529075
+                ],
+                [
+                  151.382044,
+                  -24.529156
+                ],
+                [
+                  151.383294,
+                  -24.530114
+                ],
+                [
+                  151.383838,
+                  -24.530168
+                ],
+                [
+                  151.384087,
+                  -24.530049
+                ],
+                [
+                  151.384326,
+                  -24.529505
+                ],
+                [
+                  151.383697,
+                  -24.527807
+                ],
+                [
+                  151.383682,
+                  -24.527772
+                ],
+                [
+                  151.383263,
+                  -24.526892
+                ],
+                [
+                  151.382889,
+                  -24.526628
+                ],
+                [
+                  151.382382,
+                  -24.526553
+                ],
+                [
+                  151.382355,
+                  -24.52655
+                ],
+                [
+                  151.381594,
+                  -24.526478
+                ],
+                [
+                  151.381169,
+                  -24.526633
+                ],
+                [
+                  151.380928,
+                  -24.52689
+                ],
+                [
+                  151.380868,
+                  -24.527396
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6591",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 08 May 2024",
+        "EST_FIX_TIME": "12:00PM 08 May 2024",
+        "STREETS": "BEECH ST, CEDAR ST, GUM ST, PINE ST, WATTLE LANE",
+        "SUBURBS": "BOYNE VALLEY, BUILYAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -519,5 +628,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715121903.6495"
+  "extracted": "1715122201.121081"
 }
