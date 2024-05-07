@@ -471,9 +471,94 @@
         "STREETS": "FIRST AVE, FLOWER ST, HUTTON ST, RAILWAY PDE, STATION ST, THIRD AVE",
         "SUBURBS": "INJUNE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.44772,
+              -27.757979
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.444911,
+                  -27.759638
+                ],
+                [
+                  151.447575,
+                  -27.76179
+                ],
+                [
+                  151.448099,
+                  -27.761877
+                ],
+                [
+                  151.448723,
+                  -27.761661
+                ],
+                [
+                  151.449025,
+                  -27.761367
+                ],
+                [
+                  151.450651,
+                  -27.756403
+                ],
+                [
+                  151.450664,
+                  -27.756203
+                ],
+                [
+                  151.450315,
+                  -27.754354
+                ],
+                [
+                  151.449494,
+                  -27.754082
+                ],
+                [
+                  151.44584,
+                  -27.756766
+                ],
+                [
+                  151.445687,
+                  -27.756957
+                ],
+                [
+                  151.444777,
+                  -27.759149
+                ],
+                [
+                  151.444911,
+                  -27.759638
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8551",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "33",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "12:54PM 07 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DAPHNE ST, GORE HWY, LORD ST, MADELAINE ST, MANN SILO RD, MARCH ST, WARE ST",
+        "SUBURBS": "BROOKSTEAD"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715050501.664671"
+  "extracted": "1715050802.652398"
 }
