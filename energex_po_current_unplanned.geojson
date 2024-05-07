@@ -1,8 +1,70 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.840175,
+              -28.192014
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.839986,
+                  -28.190193
+                ],
+                [
+                  152.839357,
+                  -28.193694
+                ],
+                [
+                  152.839781,
+                  -28.194211
+                ],
+                [
+                  152.840364,
+                  -28.193836
+                ],
+                [
+                  152.840992,
+                  -28.190334
+                ],
+                [
+                  152.840569,
+                  -28.189818
+                ],
+                [
+                  152.839986,
+                  -28.190193
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758515-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:21PM 07 May 2024",
+        "EST_FIX_TIME": "3:00AM 08 May 2024",
+        "STREETS": "PANITZ RD",
+        "SUBURBS": "RATHDOWNEY"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715092501.102469"
+  "extracted": "1715092801.399263"
 }
