@@ -305,9 +305,70 @@
         "STREETS": "DAPHNE ST, GORE HWY, LORD ST, MADELAINE ST, MANN SILO RD, MARCH ST, WARE ST",
         "SUBURBS": "BROOKSTEAD"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.92127,
+              -27.578481
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.921607,
+                  -27.577953
+                ],
+                [
+                  151.920713,
+                  -27.578131
+                ],
+                [
+                  151.92033,
+                  -27.578668
+                ],
+                [
+                  151.920933,
+                  -27.579009
+                ],
+                [
+                  151.921827,
+                  -27.578832
+                ],
+                [
+                  151.92221,
+                  -27.578295
+                ],
+                [
+                  151.921607,
+                  -27.577953
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8568",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews on route",
+        "START": "9:53PM 07 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANZAC AVE",
+        "SUBURBS": "HARRISTOWN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715089802.338201"
+  "extracted": "1715090101.900213"
 }
