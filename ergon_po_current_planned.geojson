@@ -600,6 +600,27 @@
         ]
       },
       "properties": {
+        "EVENT_ID": "24MK3780",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "121",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 09 May 2024",
+        "EST_FIX_TIME": "9:00AM 09 May 2024",
+        "STREETS": "AGATHA CT, CORAL REEF CT, MIRAN KHAN DR, OCEAN VIEW CRES, THERESA CT, WILSON RD",
+        "SUBURBS": "ARMSTRONG BEACH, FRESHWATER POINT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.302763,
+          -21.430053
+        ]
+      },
+      "properties": {
         "EVENT_ID": "24MK3781",
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "121",
@@ -710,7 +731,7 @@
         "CUSTOMERS_AFFECTED": "20",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 09 May 2024",
+        "START": "8:33AM 09 May 2024",
         "EST_FIX_TIME": "2:00PM 09 May 2024",
         "STREETS": "BOND LANE, HANN HWY, KENNEDY DEVELOPMENT RD, MT BECKFORD STATION, SHOWGROUNDS RES",
         "SUBURBS": "HUGHENDEN"
@@ -1036,6 +1057,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.022427,
+          -28.218044
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8281",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:05AM 09 May 2024",
+        "EST_FIX_TIME": "3:00PM 09 May 2024",
+        "STREETS": "GORE ST",
+        "SUBURBS": "WARWICK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.023172,
           -28.21541
         ]
@@ -1286,5 +1328,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715209500.356856"
+  "extracted": "1715209800.302843"
 }
