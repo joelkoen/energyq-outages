@@ -474,9 +474,102 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.112969,
+              -27.107938
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.984707,
+                  -27.158937
+                ],
+                [
+                  151.074684,
+                  -27.174341
+                ],
+                [
+                  151.074814,
+                  -27.174348
+                ],
+                [
+                  151.241157,
+                  -27.163699
+                ],
+                [
+                  151.241624,
+                  -27.163223
+                ],
+                [
+                  151.240157,
+                  -27.141271
+                ],
+                [
+                  151.239937,
+                  -27.140925
+                ],
+                [
+                  151.076818,
+                  -27.042119
+                ],
+                [
+                  151.076805,
+                  -27.042111
+                ],
+                [
+                  151.075775,
+                  -27.041528
+                ],
+                [
+                  151.075186,
+                  -27.041561
+                ],
+                [
+                  151.003249,
+                  -27.094577
+                ],
+                [
+                  151.003082,
+                  -27.094809
+                ],
+                [
+                  150.984315,
+                  -27.15838
+                ],
+                [
+                  150.984707,
+                  -27.158937
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8622",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "101",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:57AM 09 May 2024",
+        "EST_FIX_TIME": "9:10AM 09 May 2024",
+        "STREETS": "CASEYS RD, CONDAMINE HWY, DAANDINE RD, DAANDINE SOLDIERS RD, DAANDINE-NANDI RD, DALBY KOGAN RD, DALBY-KOGAN RD, DULEEN-DAANDINE RD, GREENBANK RD, HOSIERS RD, JANDOWAE RD, LEAHYS RD, LUCHT'S RD, MACALISTER WILKIE CREEK RD, MCCAY ST, NANDI RD, OLD WARREGO HWY, THETEN RD, WARREGO HWY, YARALLA RD, YARRALA RD",
+        "SUBURBS": "DAANDINE, DALBY, KUPUNN, MACALISTER, RANGES BRIDGE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715208901.294195"
+  "extracted": "1715209206.239466"
 }
