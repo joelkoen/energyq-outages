@@ -193,7 +193,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "872",
         "REASON": "The loss of supply is due to the operating of protective equipment. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "7:16PM 08 May 2024",
         "EST_FIX_TIME": null,
         "STREETS": "BORZI RD, BOW ST, CASSOWARY RD, CHOOKS RDGE, CORAL SEA DR, CRAWFORD ST, DAINTREE HORIZON DR, DAINTREE RD, DAN HART LANE, ENID MAY LANE, FINLAYVALE RD, FOXTON AVE, FRONT ST, GERYGONE CL, GORGE RD, GORGE VIEW CRES, GROGAN ST, HARPER ST, HART ST, HOSPITAL ST, INGLES ST, JACK ST, JANKAJI CL, JOHNSTON RD, JUNCTION RD, KANKARR ST, LOWER CASSOWARY RD, MANJAL ST, MIDDLEMISS ST, MILL ST, MONARCH DR, MOSSMAN ST, MOUNTAIN VIEW DR, MULLAVEY ST, OWEN ST, PADOVAN RD, PONZO RD, RIFLEBIRD CRES, SANTACATTERINA RD, SHANNONVALE RD, SPOONBILL CL, THOMAS ST, THOMSON LOW DR, UPPER CASSOWARY RD, WALKARR CL, WATSON CL, WILKINSON RD, WILLIAM ST, WILSON ST",
@@ -467,9 +467,134 @@
         "STREETS": "ALDERLEY ST, ANZAC AVE",
         "SUBURBS": "HARRISTOWN, TOOWOOMBA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.973063,
+              -27.674772
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.933371,
+                  -27.694007
+                ],
+                [
+                  151.954982,
+                  -27.706718
+                ],
+                [
+                  151.955102,
+                  -27.70677
+                ],
+                [
+                  151.970727,
+                  -27.711369
+                ],
+                [
+                  151.970783,
+                  -27.711382
+                ],
+                [
+                  151.980555,
+                  -27.713189
+                ],
+                [
+                  151.980806,
+                  -27.713178
+                ],
+                [
+                  152.009226,
+                  -27.705398
+                ],
+                [
+                  152.00953,
+                  -27.705166
+                ],
+                [
+                  152.009764,
+                  -27.704744
+                ],
+                [
+                  152.009815,
+                  -27.704567
+                ],
+                [
+                  152.012975,
+                  -27.647099
+                ],
+                [
+                  152.012711,
+                  -27.646682
+                ],
+                [
+                  151.99148,
+                  -27.63639
+                ],
+                [
+                  151.99109,
+                  -27.636355
+                ],
+                [
+                  151.972048,
+                  -27.641585
+                ],
+                [
+                  151.971986,
+                  -27.641606
+                ],
+                [
+                  151.943258,
+                  -27.653328
+                ],
+                [
+                  151.942988,
+                  -27.653595
+                ],
+                [
+                  151.937977,
+                  -27.667026
+                ],
+                [
+                  151.937958,
+                  -27.667096
+                ],
+                [
+                  151.933151,
+                  -27.69356
+                ],
+                [
+                  151.933371,
+                  -27.694007
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8616",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "281",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:09PM 08 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARCHER CRES, BOLAND RD, BREYDON RD, CARROLL RD, ELLIOT CL, GEITZ RD, GORMANS GAP RD, GRIFFIN RD, HARRISON RD, HELL HOLE CREEK RD, HODGSON VALE RD, HODGSON VALE-RAMSAY RD, HOOPMANN RD, KIEPES RD, LINDEMANNS RD, MEYNINK RD, MOUNT FLAG RD, MOUNT NEALE RD, MT NEALE RD, NASS RD, PRESTON BOUNDARY RD, PRESTON RD, ROCKMOUNT RD, SAVAGE RD, SAWPIT RD, SHERLOCK CL, WALKERS SPRINGS RD, WILSON RD, ZELLER AVE",
+        "SUBURBS": "CAMBOOYA, HODGSON VALE, PRESTON, RAMSAY, TOOWOOMBA, UPPER FLAGSTONE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715166601.597437"
+  "extracted": "1715166903.181247"
 }
