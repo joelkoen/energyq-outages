@@ -576,9 +576,110 @@
         "STREETS": "BOLAND RD, BREYDON RD, GRIFFIN RD, HARRISON RD, HODGSON VALE RD, HODGSON VALE-RAMSAY RD, HOOPMANN RD, LINDEMANNS RD, MEYNINK RD, MOUNT NEALE RD, MT NEALE RD, PRESTON BOUNDARY RD, SAVAGE RD, SAWPIT RD, WILSON RD",
         "SUBURBS": "CAMBOOYA, HODGSON VALE, PRESTON, RAMSAY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              149.137277,
+              -26.146048
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.882969,
+                  -26.140179
+                ],
+                [
+                  148.913131,
+                  -26.314495
+                ],
+                [
+                  148.913466,
+                  -26.314853
+                ],
+                [
+                  148.996117,
+                  -26.339921
+                ],
+                [
+                  148.996537,
+                  -26.339879
+                ],
+                [
+                  149.139554,
+                  -26.261311
+                ],
+                [
+                  149.139686,
+                  -26.261205
+                ],
+                [
+                  149.25007,
+                  -26.135138
+                ],
+                [
+                  149.250071,
+                  -26.135137
+                ],
+                [
+                  149.391586,
+                  -25.972333
+                ],
+                [
+                  149.391516,
+                  -25.971711
+                ],
+                [
+                  149.387749,
+                  -25.96882
+                ],
+                [
+                  149.387455,
+                  -25.968714
+                ],
+                [
+                  149.080826,
+                  -25.952175
+                ],
+                [
+                  149.080434,
+                  -25.952314
+                ],
+                [
+                  148.883101,
+                  -26.139798
+                ],
+                [
+                  148.882969,
+                  -26.140179
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8619",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "72",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "1:17AM 09 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DANGARFIELD RD, DURHAM DOWNS RD, GLEN ARDEN RD, MT SALTBUSH RD, MYALL DOWNS RD, NIELLA RD, NORTH KOORINGA RD, NUGENT HILLS RD, NUGGET HILLS RD, PINE HILLS RD, ROMA TAROOM RD, ROMA-TAROOM RD, SPRING GULLY RD, WEST MYALL RD, WYBARA RD",
+        "SUBURBS": "EUROMBAH, ROMA, TAROOM, WALLUMBILLA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715181901.205583"
+  "extracted": "1715182209.332568"
 }
