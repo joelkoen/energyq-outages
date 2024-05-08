@@ -483,6 +483,91 @@
           {
             "type": "Point",
             "coordinates": [
+              149.555854,
+              -27.877232
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.539863,
+                  -27.88286
+                ],
+                [
+                  149.545401,
+                  -27.896991
+                ],
+                [
+                  149.545954,
+                  -27.897289
+                ],
+                [
+                  149.559447,
+                  -27.895529
+                ],
+                [
+                  149.559596,
+                  -27.895488
+                ],
+                [
+                  149.571568,
+                  -27.890295
+                ],
+                [
+                  149.571845,
+                  -27.889812
+                ],
+                [
+                  149.568618,
+                  -27.873294
+                ],
+                [
+                  149.568529,
+                  -27.873105
+                ],
+                [
+                  149.555495,
+                  -27.857175
+                ],
+                [
+                  149.554634,
+                  -27.857232
+                ],
+                [
+                  149.539892,
+                  -27.882505
+                ],
+                [
+                  149.539863,
+                  -27.88286
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8612",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:48AM 09 May 2024",
+        "EST_FIX_TIME": "2:00PM 09 May 2024",
+        "STREETS": "FLINTON RD, GRILLS RD, HERZIC RD, HUGHE'S RD, QUINN ST",
+        "SUBURBS": "FLINTON, MEANDARRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.773306,
               -26.374072
             ]
@@ -563,5 +648,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715211902.548021"
+  "extracted": "1715212500.309481"
 }
