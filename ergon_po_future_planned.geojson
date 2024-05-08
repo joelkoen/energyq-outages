@@ -1372,6 +1372,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.117958,
+          -17.935057
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5010",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "26",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 09 May 2024",
+        "EST_FIX_TIME": "2:30PM 09 May 2024",
+        "STREETS": "KENNEDY ESP, UNKNOWN ST",
+        "SUBURBS": "SOUTH MISSION BEACH, TULLY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.377417,
           -16.413177
         ]
@@ -2032,7 +2053,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "46",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 09 May 2024",
         "EST_FIX_TIME": "2:00PM 09 May 2024",
         "STREETS": "LARKIN CL, TUMBARE ST, TURNER AVE",
@@ -3255,6 +3276,27 @@
         "EST_FIX_TIME": "2:00PM 09 May 2024",
         "STREETS": "BARNSDALE STATION, BEENFIELD STATION, ELROSE STATION, IVELLEN STATION, LONGFORD STATION, MARONAN STATION",
         "SUBURBS": "CLONCURRY, JULIA CREEK, MCKINLAY, OORINDI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.208916,
+          -20.828818
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7280",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 09 May 2024",
+        "EST_FIX_TIME": "2:00PM 09 May 2024",
+        "STREETS": "HANN HWY",
+        "SUBURBS": "HUGHENDEN"
       }
     },
     {
@@ -4795,27 +4837,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.946191,
-          -27.571483
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW8165",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:06AM 09 May 2024",
-        "EST_FIX_TIME": "11:00AM 09 May 2024",
-        "STREETS": "JOYCE ST",
-        "SUBURBS": "SOUTH TOOWOOMBA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           152.013254,
           -28.225872
         ]
@@ -5124,27 +5145,6 @@
         "EST_FIX_TIME": "12:30PM 10 May 2024",
         "STREETS": "BEATRICE ST, MAY ST, TARGO ST",
         "SUBURBS": "BUNDABERG, WALKERVALE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.687367,
-          -25.524389
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB4982",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:02AM 09 May 2024",
-        "EST_FIX_TIME": "4:00PM 09 May 2024",
-        "STREETS": "SUSSEX ST",
-        "SUBURBS": "MARYBOROUGH"
       }
     },
     {
@@ -5675,5 +5675,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1715207700.304404"
+  "extracted": "1715208001.26067"
 }
