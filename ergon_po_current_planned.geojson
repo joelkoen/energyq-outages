@@ -616,6 +616,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.717359,
+          -20.912762
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2968",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:30AM 09 May 2024",
+        "EST_FIX_TIME": "3:30PM 09 May 2024",
+        "STREETS": "BARREN CREEK RD, BARRON POCKET RD, CALEN MOUNT CHARLTON RD",
+        "SUBURBS": "CALEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.673918,
           -20.292079
         ]
@@ -714,6 +735,27 @@
         "EST_FIX_TIME": "12:30PM 09 May 2024",
         "STREETS": "PALM RIDGE DR",
         "SUBURBS": "RICHMOND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.172455,
+          -21.161669
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3662",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:41AM 09 May 2024",
+        "EST_FIX_TIME": "4:00PM 09 May 2024",
+        "STREETS": "CANNAN ST",
+        "SUBURBS": "SOUTH MACKAY"
       }
     },
     {
@@ -1003,7 +1045,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "31",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 09 May 2024",
         "EST_FIX_TIME": "2:30PM 09 May 2024",
         "STREETS": "BOUNDARY ST, FIFTEENTH AVE, SEVENTH ST, SIXTEENTH AVE",
@@ -1360,7 +1402,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "13",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 09 May 2024",
         "EST_FIX_TIME": "2:30PM 09 May 2024",
         "STREETS": "ANZAC AVE, VACY ST",
@@ -1717,7 +1759,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "4",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "10:00AM 09 May 2024",
         "EST_FIX_TIME": "11:30AM 09 May 2024",
         "STREETS": "BEERON RD",
@@ -1748,5 +1790,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715204401.131198"
+  "extracted": "1715204702.533633"
 }
