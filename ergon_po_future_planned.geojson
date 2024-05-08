@@ -5455,7 +5455,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "31",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 09 May 2024",
         "EST_FIX_TIME": "3:00PM 09 May 2024",
         "STREETS": "ABINGTON RD, COACH RD, HORTON RD, MULLERS RD, REDRIDGE CRES",
@@ -5649,6 +5649,48 @@
         "EST_FIX_TIME": "4:00PM 13 May 2024",
         "STREETS": "MUNGAR RD, PILERWA RD",
         "SUBURBS": "MUNGAR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.719582,
+          -25.540368
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5048",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:12AM 09 May 2024",
+        "EST_FIX_TIME": "5:00PM 09 May 2024",
+        "STREETS": "ARNAUD ST, HOLME ST, PEARSON ST",
+        "SUBURBS": "GRANVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.723072,
+          -25.539833
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5051",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:11AM 09 May 2024",
+        "EST_FIX_TIME": "5:00PM 09 May 2024",
+        "STREETS": "CARDIGAN ST, HOLME ST, STEINDL ST, STUART CT",
+        "SUBURBS": "GRANVILLE"
       }
     },
     {
@@ -6074,5 +6116,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1715202600.421644"
+  "extracted": "1715202902.842749"
 }
