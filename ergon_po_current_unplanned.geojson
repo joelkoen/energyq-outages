@@ -390,9 +390,86 @@
         "STREETS": "ANZAC AVE",
         "SUBURBS": "HARRISTOWN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.920609,
+              -27.580201
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.917125,
+                  -27.581153
+                ],
+                [
+                  151.917499,
+                  -27.583512
+                ],
+                [
+                  151.918223,
+                  -27.583852
+                ],
+                [
+                  151.923819,
+                  -27.581396
+                ],
+                [
+                  151.924094,
+                  -27.580917
+                ],
+                [
+                  151.923334,
+                  -27.576904
+                ],
+                [
+                  151.922686,
+                  -27.576549
+                ],
+                [
+                  151.922076,
+                  -27.576719
+                ],
+                [
+                  151.921877,
+                  -27.576825
+                ],
+                [
+                  151.917275,
+                  -27.580766
+                ],
+                [
+                  151.917125,
+                  -27.581153
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8609",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "26",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "7:07PM 08 May 2024",
+        "EST_FIX_TIME": "11:00PM 08 May 2024",
+        "STREETS": "ALDERLEY ST, ANZAC AVE",
+        "SUBURBS": "HARRISTOWN, TOOWOOMBA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715162701.249626"
+  "extracted": "1715163000.493087"
 }
