@@ -499,7 +499,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "5",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 09 May 2024",
         "EST_FIX_TIME": "12:00PM 09 May 2024",
         "STREETS": "BEW RD",
@@ -773,7 +773,7 @@
         "CUSTOMERS_AFFECTED": "11",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:00AM 09 May 2024",
+        "START": "8:02AM 09 May 2024",
         "EST_FIX_TIME": "3:00PM 09 May 2024",
         "STREETS": "BRUCE HWY N, HERMANS RD, PETER DELAMOTHE RD, WYLIE PARK RD",
         "SUBURBS": "BOWEN"
@@ -1057,6 +1057,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.269091,
+          -27.874108
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7960",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:40AM 09 May 2024",
+        "EST_FIX_TIME": "2:30PM 09 May 2024",
+        "STREETS": "ATTLEIGH ST, CAMPBELL ST, MILL RD, WALPOLE ST",
+        "SUBURBS": "MILLMERRAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.93266,
           -27.56408
         ]
@@ -1204,6 +1225,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.686926,
+          -25.524269
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4983",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:40AM 09 May 2024",
+        "EST_FIX_TIME": "4:00PM 09 May 2024",
+        "STREETS": "SUSSEX ST",
+        "SUBURBS": "MARYBOROUGH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.684629,
           -25.523454
         ]
@@ -1328,5 +1370,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715208001.26067"
+  "extracted": "1715208301.915403"
 }
