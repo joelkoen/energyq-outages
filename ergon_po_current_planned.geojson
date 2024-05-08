@@ -70,6 +70,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.745428,
+          -16.981186
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5008",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "1:33PM 08 May 2024",
+        "EST_FIX_TIME": "4:30PM 08 May 2024",
+        "STREETS": "WHITTON ST",
+        "SUBURBS": "WHITE ROCK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.74427,
           -16.982466
         ]
@@ -189,27 +210,6 @@
         "EST_FIX_TIME": "3:30PM 08 May 2024",
         "STREETS": "CHING CREEK RD",
         "SUBURBS": "SARINA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.828367,
-          -20.927201
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK3663",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "48",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:46AM 08 May 2024",
-        "EST_FIX_TIME": "2:30PM 08 May 2024",
-        "STREETS": "BOGGA RD, BRUCE HWY, HOLDINGS RD, LANDING RD, LITTLE BOGGA RD, MOUNT PELION RD, ONE MILE CREEK RD, WILLS RD",
-        "SUBURBS": "MOUNT PELION"
       }
     },
     {
@@ -614,5 +614,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715138701.58153"
+  "extracted": "1715139300.475503"
 }
