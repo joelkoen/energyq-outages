@@ -99,6 +99,107 @@
           {
             "type": "Point",
             "coordinates": [
+              145.367254,
+              -16.476883
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.339412,
+                  -16.476551
+                ],
+                [
+                  145.342267,
+                  -16.478387
+                ],
+                [
+                  145.34228,
+                  -16.478395
+                ],
+                [
+                  145.390555,
+                  -16.507203
+                ],
+                [
+                  145.391147,
+                  -16.507123
+                ],
+                [
+                  145.395195,
+                  -16.502831
+                ],
+                [
+                  145.395292,
+                  -16.50238
+                ],
+                [
+                  145.379639,
+                  -16.458435
+                ],
+                [
+                  145.379603,
+                  -16.458358
+                ],
+                [
+                  145.378627,
+                  -16.456706
+                ],
+                [
+                  145.378611,
+                  -16.456682
+                ],
+                [
+                  145.377017,
+                  -16.454345
+                ],
+                [
+                  145.376745,
+                  -16.454156
+                ],
+                [
+                  145.34671,
+                  -16.446563
+                ],
+                [
+                  145.346134,
+                  -16.4469
+                ],
+                [
+                  145.339216,
+                  -16.476074
+                ],
+                [
+                  145.339412,
+                  -16.476551
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6076",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1202",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:16PM 08 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALCHERA DR, ALLAN CL, BERZINSKI ST, BLAIN ST, BOW ST, CAPTAIN COOK HWY, CASSOWARY RD, CONNOLLY ST, CORAL SEA DR, CRAWFORD ST, DAINTREE HORIZON DR, DAINTREE RD, DAN HART LANE, ENID MAY LANE, FINLAYVALE RD, FOREST GLEN RD, FOXTON AVE, FRONT ST, GERYGONE CL, GORGE RD, GORGE VIEW CRES, GROGAN ST, HARPER ST, HART ST, HOSPITAL ST, INGLES ST, ISLAND POINT RD, JACK ST, JANKAJI CL, JOHNSTON RD, JUNCTION RD, KANKARR ST, MANJAL ST, MAXWELL ST, MIDDLEMISS ST, MILL ST, MONARCH DR, MOSSMAN MOUNT MOLLOY RD, MOSSMAN ST, MT MOLLOY RD, MULLAVEY ST, NOLI CL, OWEN ST, PONZO RD, PRINGLE ST, QUAID ST, REX HWY, REX RANGE RD, RIFLEBIRD CRES, SANTACATTERINA RD, SATINASH ST, SAWMILL RD, SHANNONVALE RD, SPOONBILL CL, THERESE DR, THOMAS ST, UNMETERED SUPPLY, UPPER CASSOWARY RD, WALKARR CL, WARATAH CL, WATSON CL, WATTLE ST, WHITE OAK AVE, WILLIAM ST, WILSON ST",
+        "SUBURBS": "CASSOWARY, FINLAYVALE, MANGO PARK, MOSSMAN, MOSSMAN GORGE, NORTH MOSSMAN, PORT DOUGLAS, SHANNONVALE, SOUTH MOSSMAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -426,5 +527,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715159702.810429"
+  "extracted": "1715160001.157089"
 }
