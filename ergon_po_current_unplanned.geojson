@@ -632,9 +632,118 @@
         "STREETS": "CHERRY CL, GEOFFREY WAY, JANELLE CT, PARKWAY DR, PREECE DR",
         "SUBURBS": "HIGHFIELDS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.927364,
+              -27.456835
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.92542,
+                  -27.456855
+                ],
+                [
+                  151.92588,
+                  -27.457232
+                ],
+                [
+                  151.92607,
+                  -27.457331
+                ],
+                [
+                  151.927014,
+                  -27.457595
+                ],
+                [
+                  151.927067,
+                  -27.457607
+                ],
+                [
+                  151.92855,
+                  -27.457871
+                ],
+                [
+                  151.9287,
+                  -27.457877
+                ],
+                [
+                  151.928968,
+                  -27.457852
+                ],
+                [
+                  151.929308,
+                  -27.45712
+                ],
+                [
+                  151.928653,
+                  -27.456404
+                ],
+                [
+                  151.928617,
+                  -27.456368
+                ],
+                [
+                  151.928309,
+                  -27.456097
+                ],
+                [
+                  151.928057,
+                  -27.455977
+                ],
+                [
+                  151.927116,
+                  -27.455802
+                ],
+                [
+                  151.927006,
+                  -27.455793
+                ],
+                [
+                  151.926297,
+                  -27.455801
+                ],
+                [
+                  151.926056,
+                  -27.455859
+                ],
+                [
+                  151.925514,
+                  -27.456131
+                ],
+                [
+                  151.92542,
+                  -27.456855
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8687",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "16",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "4:50PM 09 May 2024",
+        "EST_FIX_TIME": "6:00PM 09 May 2024",
+        "STREETS": "PARKWAY DR, WOOLMER RD",
+        "SUBURBS": "HIGHFIELDS"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715237102.592821"
+  "extracted": "1715237401.408315"
 }
