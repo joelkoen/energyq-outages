@@ -324,9 +324,114 @@
         "STREETS": "ALABASTER DR, ASHMORE RD, GARDEN GR, NERANG-BROADBEACH RD, PLATEAU CRES, ROSS ST, SOUTH SHIELDS DR, THE BOULEVARDE, THE DRESS CIR, THEATRE DR",
         "SUBURBS": "BENOWA, CARRARA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.94839,
+              -26.861026
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.946117,
+                  -26.86091
+                ],
+                [
+                  152.946355,
+                  -26.861365
+                ],
+                [
+                  152.946426,
+                  -26.861464
+                ],
+                [
+                  152.946495,
+                  -26.861538
+                ],
+                [
+                  152.946538,
+                  -26.861579
+                ],
+                [
+                  152.947424,
+                  -26.862314
+                ],
+                [
+                  152.947627,
+                  -26.862417
+                ],
+                [
+                  152.947942,
+                  -26.862498
+                ],
+                [
+                  152.948226,
+                  -26.862496
+                ],
+                [
+                  152.950336,
+                  -26.861928
+                ],
+                [
+                  152.950692,
+                  -26.861537
+                ],
+                [
+                  152.950423,
+                  -26.861095
+                ],
+                [
+                  152.947119,
+                  -26.859554
+                ],
+                [
+                  152.946442,
+                  -26.859744
+                ],
+                [
+                  152.946277,
+                  -26.860024
+                ],
+                [
+                  152.946236,
+                  -26.860115
+                ],
+                [
+                  152.946088,
+                  -26.860599
+                ],
+                [
+                  152.946117,
+                  -26.86091
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758892-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "25",
+        "REASON": "Powerlines down",
+        "STATUS": "Awaiting",
+        "START": "5:52PM 09 May 2024",
+        "EST_FIX_TIME": "8:30PM 09 May 2024",
+        "STREETS": "CARALAN WAY, EMMA PL, ROBERTS RD",
+        "SUBURBS": "BEERWAH"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715241001.127312"
+  "extracted": "1715241301.19034"
 }
