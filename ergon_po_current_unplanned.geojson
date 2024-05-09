@@ -99,6 +99,127 @@
           {
             "type": "Point",
             "coordinates": [
+              142.219184,
+              -10.233038
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  142.215038,
+                  -10.233794
+                ],
+                [
+                  142.215071,
+                  -10.234154
+                ],
+                [
+                  142.215074,
+                  -10.234178
+                ],
+                [
+                  142.21516,
+                  -10.234749
+                ],
+                [
+                  142.215177,
+                  -10.234821
+                ],
+                [
+                  142.215315,
+                  -10.235243
+                ],
+                [
+                  142.21537,
+                  -10.235356
+                ],
+                [
+                  142.216633,
+                  -10.237214
+                ],
+                [
+                  142.217185,
+                  -10.237378
+                ],
+                [
+                  142.21974,
+                  -10.236323
+                ],
+                [
+                  142.219974,
+                  -10.236105
+                ],
+                [
+                  142.22333,
+                  -10.229316
+                ],
+                [
+                  142.223257,
+                  -10.228814
+                ],
+                [
+                  142.222759,
+                  -10.228697
+                ],
+                [
+                  142.217917,
+                  -10.230535
+                ],
+                [
+                  142.217855,
+                  -10.230564
+                ],
+                [
+                  142.216323,
+                  -10.231423
+                ],
+                [
+                  142.21617,
+                  -10.231563
+                ],
+                [
+                  142.215917,
+                  -10.231932
+                ],
+                [
+                  142.215888,
+                  -10.231981
+                ],
+                [
+                  142.215085,
+                  -10.233548
+                ],
+                [
+                  142.215038,
+                  -10.233794
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6121",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "81",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "STATUS": "Outage reported",
+        "START": "5:00AM 10 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AIRPORT RD, GERAINELGAU ST, IKILGAU ST, ITALAU ST, ITALGATI ST, ITALGAU ST, KANAIAN ST, KIRIRILGAU ST, MEIMALGAU RD, MEPAU ST, MUALGAU RD, NEW ST, NEWILGAU RD, ST PAULS RD, UNKNOWN ST, WAGALGAU RD",
+        "SUBURBS": "KUBIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -357,5 +478,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715284500.264608"
+  "extracted": "1715285101.46294"
 }
