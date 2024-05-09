@@ -231,9 +231,102 @@
         "STREETS": "ANDERS ST, ANN ST, BELL ST, BLACKSMITH CT, BONELLO CCT, BRANSON ST, BRISBANE ST, BUSHMAN DR, CAMP CABLE RD, CERINA CCT, COMMERCIAL CCT, CROSS ST, CULLIGAN WAY, CUSACK LANE, DAMPER CT, DRIFTER CT, DROVER CRES, ELDERBERRY DR, EUPHEMIA ST, FLAGSTONIAN DR, GATES RD, GLYNTON RD, HILL ST, HOMESTEAD DR, JACKEROO CT, JOHANNA ST, JOHN ST, MANNING ST, MARY ST, MCGOLDRICK ST, MEADOW RD, MEEDS LANE, MERTON ST, MT LINDESAY HWY, MUSTER CT, NICHOLS ST, OVERLANDER CT, PALE OAK CT, PASTORAL CT, PAUL CT, QUEEN ST, RINGER CT, SALES ST, SALTER CL, SEILS DR, SHEARER CT, SHORT ST, SPRING ST, SQUATTER CT, SWEET MYRTLE CT, TAMBORINE ST, TEAMSTER CT, TRAILBLAZER DR, TUCKEROO DR, WALKER CCT, WEEPING FIG CT, WHARF ST, WHITTLING CT, WOOLSHED CT",
         "SUBURBS": "FLAGSTONE, JIMBOOMBA, RIVERBEND, SOUTH MACLEAN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.37051,
+              -28.006595
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.358908,
+                  -28.00992
+                ],
+                [
+                  153.359571,
+                  -28.011007
+                ],
+                [
+                  153.359573,
+                  -28.011011
+                ],
+                [
+                  153.360049,
+                  -28.011775
+                ],
+                [
+                  153.360441,
+                  -28.012006
+                ],
+                [
+                  153.381569,
+                  -28.013962
+                ],
+                [
+                  153.382111,
+                  -28.013391
+                ],
+                [
+                  153.377745,
+                  -27.999556
+                ],
+                [
+                  153.377228,
+                  -27.999227
+                ],
+                [
+                  153.369416,
+                  -27.999601
+                ],
+                [
+                  153.36928,
+                  -27.999624
+                ],
+                [
+                  153.368922,
+                  -27.999731
+                ],
+                [
+                  153.368708,
+                  -27.999856
+                ],
+                [
+                  153.358978,
+                  -28.009403
+                ],
+                [
+                  153.358908,
+                  -28.00992
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758886-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "618",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:27PM 09 May 2024",
+        "EST_FIX_TIME": "8:00PM 09 May 2024",
+        "STREETS": "ALABASTER DR, ASHMORE RD, GARDEN GR, NERANG-BROADBEACH RD, PLATEAU CRES, ROSS ST, SOUTH SHIELDS DR, THE BOULEVARDE, THE DRESS CIR, THEATRE DR",
+        "SUBURBS": "BENOWA, CARRARA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715239501.389316"
+  "extracted": "1715239803.705775"
 }
