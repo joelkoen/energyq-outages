@@ -386,6 +386,71 @@
           {
             "type": "Point",
             "coordinates": [
+              149.024325,
+              -21.086428
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.022369,
+                  -21.08461
+                ],
+                [
+                  149.024049,
+                  -21.088668
+                ],
+                [
+                  149.024884,
+                  -21.088772
+                ],
+                [
+                  149.026281,
+                  -21.086996
+                ],
+                [
+                  149.026192,
+                  -21.086374
+                ],
+                [
+                  149.023115,
+                  -21.084092
+                ],
+                [
+                  149.022531,
+                  -21.084083
+                ],
+                [
+                  149.022369,
+                  -21.08461
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4185",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
+        "STATUS": "Outage reported",
+        "START": "4:11PM 09 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BONSONS SCRUB RD",
+        "SUBURBS": "THE LEAP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -745,5 +810,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715238601.435652"
+  "extracted": "1715239201.302258"
 }
