@@ -1,78 +1,8 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              153.034199,
-              -27.820399
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.029109,
-                  -27.821184
-                ],
-                [
-                  153.038969,
-                  -27.823989
-                ],
-                [
-                  153.039628,
-                  -27.823503
-                ],
-                [
-                  153.03874,
-                  -27.817232
-                ],
-                [
-                  153.038238,
-                  -27.816837
-                ],
-                [
-                  153.030224,
-                  -27.816808
-                ],
-                [
-                  153.029729,
-                  -27.817153
-                ],
-                [
-                  153.02877,
-                  -27.820647
-                ],
-                [
-                  153.029109,
-                  -27.821184
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-758849-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "16",
-        "REASON": "Under Investigation",
-        "STATUS": "In Progress",
-        "START": "2:45PM 09 May 2024",
-        "EST_FIX_TIME": "11:30PM 09 May 2024",
-        "STREETS": "JOHANNA ST, MT LINDESAY HWY, TAMBORINE ST",
-        "SUBURBS": "JIMBOOMBA"
-      }
-    }
-  ],
+  "features": [],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715254501.565828"
+  "extracted": "1715254801.333832"
 }
