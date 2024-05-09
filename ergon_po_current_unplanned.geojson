@@ -326,6 +326,107 @@
           {
             "type": "Point",
             "coordinates": [
+              149.141549,
+              -21.394741
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.105715,
+                  -21.390664
+                ],
+                [
+                  149.106108,
+                  -21.393362
+                ],
+                [
+                  149.106166,
+                  -21.393524
+                ],
+                [
+                  149.128409,
+                  -21.430076
+                ],
+                [
+                  149.128914,
+                  -21.430297
+                ],
+                [
+                  149.155422,
+                  -21.425795
+                ],
+                [
+                  149.155778,
+                  -21.425533
+                ],
+                [
+                  149.173464,
+                  -21.387819
+                ],
+                [
+                  149.173491,
+                  -21.387744
+                ],
+                [
+                  149.177384,
+                  -21.372754
+                ],
+                [
+                  149.177179,
+                  -21.372269
+                ],
+                [
+                  149.155869,
+                  -21.359205
+                ],
+                [
+                  149.155375,
+                  -21.359186
+                ],
+                [
+                  149.112594,
+                  -21.380847
+                ],
+                [
+                  149.112421,
+                  -21.380994
+                ],
+                [
+                  149.105791,
+                  -21.390354
+                ],
+                [
+                  149.105715,
+                  -21.390664
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4188",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "77",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:10PM 09 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BELLS GAP RD, DAWLISH RD, HOMEBUSH RD, SARINA HOMEBUSH RD, SARINA-HOMEBUSH RD, UPPER ALLIGATOR CREEK RD",
+        "SUBURBS": "ALLIGATOR CREEK, HOMEBUSH, MUNBURA, SARINA, SUNNYSIDE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -378,118 +479,9 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.929605,
-              -27.455327
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.927272,
-                  -27.455345
-                ],
-                [
-                  151.929153,
-                  -27.456702
-                ],
-                [
-                  151.929209,
-                  -27.456737
-                ],
-                [
-                  151.929784,
-                  -27.457047
-                ],
-                [
-                  151.92989,
-                  -27.45709
-                ],
-                [
-                  151.930681,
-                  -27.457317
-                ],
-                [
-                  151.931176,
-                  -27.457221
-                ],
-                [
-                  151.931805,
-                  -27.456709
-                ],
-                [
-                  151.931957,
-                  -27.456473
-                ],
-                [
-                  151.932061,
-                  -27.456053
-                ],
-                [
-                  151.931978,
-                  -27.455694
-                ],
-                [
-                  151.930769,
-                  -27.454191
-                ],
-                [
-                  151.930633,
-                  -27.454075
-                ],
-                [
-                  151.929847,
-                  -27.453622
-                ],
-                [
-                  151.929674,
-                  -27.453559
-                ],
-                [
-                  151.928455,
-                  -27.453338
-                ],
-                [
-                  151.927914,
-                  -27.453559
-                ],
-                [
-                  151.92715,
-                  -27.454775
-                ],
-                [
-                  151.927272,
-                  -27.455345
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW8659",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "26",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews on route",
-        "START": "11:15AM 09 May 2024",
-        "EST_FIX_TIME": "7:30PM 09 May 2024",
-        "STREETS": "CHERRY CL, GEOFFREY WAY, JANELLE CT, PARKWAY DR, PREECE DR",
-        "SUBURBS": "HIGHFIELDS"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715242201.205527"
+  "extracted": "1715242503.169038"
 }
