@@ -742,6 +742,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          149.014769,
+          -28.955242
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW7857",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 10 May 2024",
+        "EST_FIX_TIME": "2:00PM 10 May 2024",
+        "STREETS": "TALWOOD RD",
+        "SUBURBS": "MUNGINDI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.24272,
           -26.40253
         ]
@@ -868,27 +889,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.355319,
-          -24.882429
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB4962",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:30AM 10 May 2024",
-        "EST_FIX_TIME": "12:30PM 10 May 2024",
-        "STREETS": "BEATRICE ST, MAY ST, TARGO ST",
-        "SUBURBS": "BUNDABERG, WALKERVALE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           152.718067,
           -25.536845
         ]
@@ -950,5 +950,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715296503.661002"
+  "extracted": "1715296801.696925"
 }
