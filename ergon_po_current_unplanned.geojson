@@ -535,9 +535,118 @@
         "STREETS": "BESTS RD, BURRADOO RD, BUTLERS RD, GREEN LANE, LUCKIES LANE, MOORES BICE RD, SOUTH DRILLHAM RD",
         "SUBURBS": "DRILLHAM, DRILLHAM SOUTH, MILES"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.929605,
+              -27.455327
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.927272,
+                  -27.455345
+                ],
+                [
+                  151.929153,
+                  -27.456702
+                ],
+                [
+                  151.929209,
+                  -27.456737
+                ],
+                [
+                  151.929784,
+                  -27.457047
+                ],
+                [
+                  151.92989,
+                  -27.45709
+                ],
+                [
+                  151.930681,
+                  -27.457317
+                ],
+                [
+                  151.931176,
+                  -27.457221
+                ],
+                [
+                  151.931805,
+                  -27.456709
+                ],
+                [
+                  151.931957,
+                  -27.456473
+                ],
+                [
+                  151.932061,
+                  -27.456053
+                ],
+                [
+                  151.931978,
+                  -27.455694
+                ],
+                [
+                  151.930769,
+                  -27.454191
+                ],
+                [
+                  151.930633,
+                  -27.454075
+                ],
+                [
+                  151.929847,
+                  -27.453622
+                ],
+                [
+                  151.929674,
+                  -27.453559
+                ],
+                [
+                  151.928455,
+                  -27.453338
+                ],
+                [
+                  151.927914,
+                  -27.453559
+                ],
+                [
+                  151.92715,
+                  -27.454775
+                ],
+                [
+                  151.927272,
+                  -27.455345
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8659",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "26",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews on route",
+        "START": "11:15AM 09 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CHERRY CL, GEOFFREY WAY, JANELLE CT, PARKWAY DR, PREECE DR",
+        "SUBURBS": "HIGHFIELDS"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715222401.440281"
+  "extracted": "1715222701.689162"
 }
