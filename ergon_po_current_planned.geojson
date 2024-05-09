@@ -709,7 +709,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "4",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 10 May 2024",
         "EST_FIX_TIME": "3:00PM 10 May 2024",
         "STREETS": "CORK STATION, LARK QUARRY RD, RED HILL STATION",
@@ -1204,6 +1204,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.718067,
+          -25.536845
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5053",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:05AM 10 May 2024",
+        "EST_FIX_TIME": "5:00PM 10 May 2024",
+        "STREETS": "DALE ST, REGENT ST, STEINDL ST",
+        "SUBURBS": "GRANVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.720087,
+          -25.534708
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5054",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:06AM 10 May 2024",
+        "EST_FIX_TIME": "5:00PM 10 May 2024",
+        "STREETS": "BANANA ST, DALE ST, REGENT ST",
+        "SUBURBS": "GRANVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.622722,
           -25.636209
         ]
@@ -1223,5 +1265,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715288701.069795"
+  "extracted": "1715289001.110613"
 }
