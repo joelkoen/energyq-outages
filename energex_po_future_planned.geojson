@@ -2044,6 +2044,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          153.132163,
+          -26.704334
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756685-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "In Progress",
+        "START": "7:30AM 10 May 2024",
+        "EST_FIX_TIME": "3:00PM 10 May 2024",
+        "STREETS": "NAROOMA CT",
+        "SUBURBS": "BUDDINA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           153.198679,
           -27.977536
         ]
@@ -2231,5 +2252,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1715294101.118138"
+  "extracted": "1715294401.049797"
 }
