@@ -10,107 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              150.508425,
-              -23.317449
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  150.497086,
-                  -23.318236
-                ],
-                [
-                  150.499975,
-                  -23.325547
-                ],
-                [
-                  150.500063,
-                  -23.325686
-                ],
-                [
-                  150.502962,
-                  -23.328802
-                ],
-                [
-                  150.503486,
-                  -23.328936
-                ],
-                [
-                  150.516251,
-                  -23.325022
-                ],
-                [
-                  150.516427,
-                  -23.324926
-                ],
-                [
-                  150.519314,
-                  -23.322477
-                ],
-                [
-                  150.519472,
-                  -23.322163
-                ],
-                [
-                  150.519765,
-                  -23.315319
-                ],
-                [
-                  150.519745,
-                  -23.315172
-                ],
-                [
-                  150.517116,
-                  -23.307005
-                ],
-                [
-                  150.516843,
-                  -23.306721
-                ],
-                [
-                  150.514963,
-                  -23.305963
-                ],
-                [
-                  150.514479,
-                  -23.306013
-                ],
-                [
-                  150.497255,
-                  -23.317718
-                ],
-                [
-                  150.497086,
-                  -23.318236
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA6692",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "93",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
-        "START": "2:25PM 09 May 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "BOUNDARY RD, BRUCE HWY, BURKE ST, BUSH CRES, FEATHERSTONE ST, GREGORY ST, IBIS AVE, JOHNSON ST, LAWSON ST, MCLAUGHLIN ST, NUTTALL ST, STURT ST, WADE ST, WILLS ST, YAAMBA RD, YEPPOON RD",
-        "SUBURBS": "GLENLEE, KAWANA, NORTH ROCKHAMPTON, PARKHURST, ROCKYVIEW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               150.691506,
               -23.035681
             ]
@@ -161,7 +60,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "1:42PM 09 May 2024",
         "EST_FIX_TIME": null,
         "STREETS": "WOODBURY RD",
@@ -986,9 +885,110 @@
         "STREETS": "CAMBOOYA FELTON RD, CORNFORD RD, HAMILTON ST, HIGH ST, HOFFMANN RD, HURGA RD, PITTSWORTH RD, RAILWAY ST, RICHARDSON RD, ROSENBERGER RD, SINCLAIR ST, STATION ST, UMBIRAM BANCHORY RD, UMBIRAM RD, UMBIRAM SCHOOL RD, UMBIRAM-SOUTHBROOK RD, WEST BANCHORY RD, WESTBROOK WYREEMA RD, WYREEMA ATHOL RD",
         "SUBURBS": "CAMBOOYA, SOUTHBROOK, UMBIRAM, WYREEMA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.928715,
+              -27.45801
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.925357,
+                  -27.456792
+                ],
+                [
+                  151.92818,
+                  -27.460177
+                ],
+                [
+                  151.928181,
+                  -27.460177
+                ],
+                [
+                  151.929851,
+                  -27.462171
+                ],
+                [
+                  151.930091,
+                  -27.462327
+                ],
+                [
+                  151.931245,
+                  -27.462682
+                ],
+                [
+                  151.931913,
+                  -27.462267
+                ],
+                [
+                  151.932072,
+                  -27.455966
+                ],
+                [
+                  151.931978,
+                  -27.455694
+                ],
+                [
+                  151.930769,
+                  -27.454191
+                ],
+                [
+                  151.930633,
+                  -27.454075
+                ],
+                [
+                  151.929847,
+                  -27.453622
+                ],
+                [
+                  151.929674,
+                  -27.453559
+                ],
+                [
+                  151.928455,
+                  -27.453338
+                ],
+                [
+                  151.927968,
+                  -27.453489
+                ],
+                [
+                  151.925376,
+                  -27.456234
+                ],
+                [
+                  151.925357,
+                  -27.456792
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8683",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "79",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "3:20PM 09 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CHERRY CL, DELVUE CRES, GEOFFREY WAY, JANELLE CT, JODY CT, PARKWAY DR, PREECE DR, WOOLMER RD",
+        "SUBURBS": "HIGHFIELDS"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715233503.489649"
+  "extracted": "1715233801.088103"
 }
