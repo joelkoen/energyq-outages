@@ -341,9 +341,82 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.268308,
+              -27.180341
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.267853,
+                  -27.181008
+                ],
+                [
+                  151.268283,
+                  -27.181066
+                ],
+                [
+                  151.268807,
+                  -27.180826
+                ],
+                [
+                  151.269168,
+                  -27.180193
+                ],
+                [
+                  151.269052,
+                  -27.17965
+                ],
+                [
+                  151.268435,
+                  -27.179616
+                ],
+                [
+                  151.267685,
+                  -27.180075
+                ],
+                [
+                  151.26749,
+                  -27.18031
+                ],
+                [
+                  151.267449,
+                  -27.180426
+                ],
+                [
+                  151.267853,
+                  -27.181008
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8704",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:21AM 10 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CUNNINGHAM ST",
+        "SUBURBS": "DALBY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715297100.243581"
+  "extracted": "1715297700.320038"
 }
