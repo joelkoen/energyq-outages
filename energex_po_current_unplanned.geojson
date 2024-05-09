@@ -1,8 +1,86 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.390482,
+              -27.540415
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.381432,
+                  -27.535172
+                ],
+                [
+                  152.389096,
+                  -27.546632
+                ],
+                [
+                  152.38992,
+                  -27.546689
+                ],
+                [
+                  152.391612,
+                  -27.544873
+                ],
+                [
+                  152.391623,
+                  -27.54486
+                ],
+                [
+                  152.399532,
+                  -27.535704
+                ],
+                [
+                  152.399165,
+                  -27.534978
+                ],
+                [
+                  152.385152,
+                  -27.534141
+                ],
+                [
+                  152.385058,
+                  -27.534144
+                ],
+                [
+                  152.381807,
+                  -27.534493
+                ],
+                [
+                  152.381432,
+                  -27.535172
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758805-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "11:35AM 09 May 2024",
+        "EST_FIX_TIME": "2:00PM 09 May 2024",
+        "STREETS": "CURTIN RD, HARM DR, JEW RD, KIMLIN RD, QUALISCHEFSKI RD",
+        "SUBURBS": "CROWLEY VALE, GLENORE GROVE"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715218501.08799"
+  "extracted": "1715218800.268252"
 }
