@@ -217,6 +217,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.529402,
+          -23.368028
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5970",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "233",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:34AM 11 May 2024",
+        "EST_FIX_TIME": "2:30PM 11 May 2024",
+        "STREETS": "BAWDEN ST, BEDFORD ST, BERSERKER ST, BURNETT ST, CHARLES ST, ELPHINSTONE ST, LAKES CREEK RD, LUCAS ST, NOBBS ST, PRINCESS ST, RANDWICK ST, RODBORO ST, TOMKINS ST",
+        "SUBURBS": "BERSERKER, NORTH ROCKHAMPTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.377417,
           -16.413177
         ]
@@ -698,5 +719,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715382301.13168"
+  "extracted": "1715382601.118649"
 }
