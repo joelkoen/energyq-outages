@@ -196,6 +196,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          149.682945,
+          -23.647934
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5245",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "112",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "STATUS": "Crews working on-site",
+        "START": "9:05AM 11 May 2024",
+        "EST_FIX_TIME": "3:00PM 11 May 2024",
+        "STREETS": "ALICE ST, APIS CREEK RD, CHARLOTTE ST, EDWARD ST, ELIZABETH ST, KING ST, LUTZOW RD, MARGARET ST, MARY ST, MONOMEATH RD, OFF ALICE ST, OFF ANN ST, OFF ELIZABETH ST, OUSTON ACCESS RD, PRINCESS ST, VICTORIA ST, WILLIAM ST",
+        "SUBURBS": "DUARINGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           149.684566,
           -23.647934
         ]
@@ -4081,27 +4102,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.510531,
-          -21.696759
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ7617",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "68",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:00AM 11 May 2024",
-        "EST_FIX_TIME": "9:30AM 11 May 2024",
-        "STREETS": "ATNYER ST, BOULIA RD, CARMODY ST, DIAMANTINA DEVELOPMENTAL RD, DILLON ST, LETHAM ST, MARK ST, MATHESON ST, SPORTS PDE",
-        "SUBURBS": "ALPURRURULAM, DAJARRA, MOUNT ISA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           147.468294,
           -19.516569
         ]
@@ -6221,5 +6221,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1715383501.470368"
+  "extracted": "1715383803.858554"
 }
