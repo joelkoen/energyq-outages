@@ -322,6 +322,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.815493,
+          -25.364104
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5534",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "85",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "11:30AM 10 May 2024",
+        "EST_FIX_TIME": "3:00PM 10 May 2024",
+        "STREETS": "BLACKALL-TAMBO RD, LANGLO RD, LANGLO RIVER RD, OFF LANDSBOROUGH HWY, OFF LANGLO RD, OFF WARD RD, RAVENSBOURNE RD, UNKNOWN ST, WARD RD",
+        "SUBURBS": "BLACKALL, CHARLEVILLE, LANGLO, TAMBO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.581914,
           -24.377357
         ]
@@ -1911,27 +1932,6 @@
         "EST_FIX_TIME": "12:30PM 14 May 2024",
         "STREETS": "ARTHUR BAILLIE RD, BELLVIEW DR, BELLVIEW DR W, BEW RD, FERN TREE POCKET RD, MCGIDIGAN RD, SOUTH ARM CL, SUNNYSIDE RD, TULLY FALLS RD",
         "SUBURBS": "RAVENSHOE, VINE CREEK"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.727371,
-          -16.929058
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN5834",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "36",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Crews working on-site",
-        "START": "8:30AM 10 May 2024",
-        "EST_FIX_TIME": "2:30PM 10 May 2024",
-        "STREETS": "CLOHESY CT, GRIMES CL",
-        "SUBURBS": "KANIMBLA"
       }
     },
     {
@@ -5297,5 +5297,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1715304603.470993"
+  "extracted": "1715304900.266699"
 }
