@@ -245,6 +245,139 @@
           {
             "type": "Point",
             "coordinates": [
+              146.78121,
+              -19.278566
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.77369,
+                  -19.277261
+                ],
+                [
+                  146.773851,
+                  -19.278534
+                ],
+                [
+                  146.773866,
+                  -19.278605
+                ],
+                [
+                  146.774338,
+                  -19.280163
+                ],
+                [
+                  146.774363,
+                  -19.280227
+                ],
+                [
+                  146.775707,
+                  -19.282991
+                ],
+                [
+                  146.775896,
+                  -19.28319
+                ],
+                [
+                  146.77974,
+                  -19.285363
+                ],
+                [
+                  146.780059,
+                  -19.285421
+                ],
+                [
+                  146.782513,
+                  -19.285044
+                ],
+                [
+                  146.782778,
+                  -19.284913
+                ],
+                [
+                  146.787683,
+                  -19.28013
+                ],
+                [
+                  146.7878,
+                  -19.279938
+                ],
+                [
+                  146.788731,
+                  -19.276813
+                ],
+                [
+                  146.788638,
+                  -19.2764
+                ],
+                [
+                  146.786608,
+                  -19.2741
+                ],
+                [
+                  146.786599,
+                  -19.274091
+                ],
+                [
+                  146.784489,
+                  -19.271834
+                ],
+                [
+                  146.783963,
+                  -19.271712
+                ],
+                [
+                  146.774496,
+                  -19.275166
+                ],
+                [
+                  146.774318,
+                  -19.27528
+                ],
+                [
+                  146.774032,
+                  -19.275572
+                ],
+                [
+                  146.773909,
+                  -19.275811
+                ],
+                [
+                  146.773692,
+                  -19.277137
+                ],
+                [
+                  146.77369,
+                  -19.277261
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8431",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "979",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:21PM 10 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BAILEY ST, BARBELER ST, BAYSWATER RD, BUSSEY ST, COOPER ST, CORCORAN ST, DESAILLY ST, FERGUSON ST, GERARD ST, GOODWIN ST, GROSVENOR ST, HALSTEAD ST, HAMMETT ST, HARVEY ST, HINDLEY ST, HOPKINS ST, HOWLETT ST, HUGH ST, KENT ST, KINGSTON ST, MASON ST, MCDOUGALL ST, MCLACHLAN ST, MCLEOD ST, PALMERSTON ST, REARDON ST, SARGEANT ST, SCOTT ST, STRANGE ST, TIPPETT ST, TOBRUK ST, URQUHART ST",
+        "SUBURBS": "CURRAJONG, GULLIVER, HYDE PARK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -301,5 +434,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715322004.078508"
+  "extracted": "1715322301.046863"
 }
