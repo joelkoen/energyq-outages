@@ -118,9 +118,74 @@
         "STREETS": "BOBBY JONES CT, LADY CAROLINE CL",
         "SUBURBS": "KOORALBYN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.922861,
+              -28.015062
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.921719,
+                  -28.017273
+                ],
+                [
+                  152.924673,
+                  -28.015534
+                ],
+                [
+                  152.92478,
+                  -28.014866
+                ],
+                [
+                  152.922847,
+                  -28.012851
+                ],
+                [
+                  152.921965,
+                  -28.013038
+                ],
+                [
+                  152.920943,
+                  -28.016791
+                ],
+                [
+                  152.921146,
+                  -28.017266
+                ],
+                [
+                  152.921719,
+                  -28.017273
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-759017-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "12:17PM 10 May 2024",
+        "EST_FIX_TIME": "3:00PM 10 May 2024",
+        "STREETS": "FLOOD RD, SANDY CREEK RD",
+        "SUBURBS": "JOSEPHVILLE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715307303.898481"
+  "extracted": "1715307601.063867"
 }
