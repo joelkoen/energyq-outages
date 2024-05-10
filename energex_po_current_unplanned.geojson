@@ -118,9 +118,74 @@
         "STREETS": "BOBBY JONES CT, LADY CAROLINE CL",
         "SUBURBS": "KOORALBYN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.917499,
+              -27.654744
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.917114,
+                  -27.655314
+                ],
+                [
+                  152.917328,
+                  -27.655368
+                ],
+                [
+                  152.917941,
+                  -27.65509
+                ],
+                [
+                  152.918118,
+                  -27.65466
+                ],
+                [
+                  152.917908,
+                  -27.65412
+                ],
+                [
+                  152.917271,
+                  -27.654197
+                ],
+                [
+                  152.91688,
+                  -27.654573
+                ],
+                [
+                  152.917114,
+                  -27.655314
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-759102-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "8:25PM 10 May 2024",
+        "EST_FIX_TIME": "11:00PM 10 May 2024",
+        "STREETS": "WOODCREST WAY",
+        "SUBURBS": "SPRINGFIELD"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715336701.015254"
+  "extracted": "1715337002.835377"
 }
