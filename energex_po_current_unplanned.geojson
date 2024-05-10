@@ -1,8 +1,90 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.958051,
+              -26.460283
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.955289,
+                  -26.461918
+                ],
+                [
+                  152.960866,
+                  -26.461733
+                ],
+                [
+                  152.961334,
+                  -26.461392
+                ],
+                [
+                  152.9611,
+                  -26.460892
+                ],
+                [
+                  152.956868,
+                  -26.458674
+                ],
+                [
+                  152.956422,
+                  -26.458648
+                ],
+                [
+                  152.955293,
+                  -26.459074
+                ],
+                [
+                  152.954996,
+                  -26.4594
+                ],
+                [
+                  152.954785,
+                  -26.460329
+                ],
+                [
+                  152.954774,
+                  -26.460417
+                ],
+                [
+                  152.954769,
+                  -26.461464
+                ],
+                [
+                  152.955289,
+                  -26.461918
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758976-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "10:27AM 10 May 2024",
+        "EST_FIX_TIME": "1:00PM 10 May 2024",
+        "STREETS": "BALKIN RD, EUMUNDI RANGE RD",
+        "SUBURBS": "EUMUNDI"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715300701.102002"
+  "extracted": "1715301003.247379"
 }
