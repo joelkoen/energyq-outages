@@ -362,6 +362,91 @@
           {
             "type": "Point",
             "coordinates": [
+              149.181653,
+              -21.083305
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.178089,
+                  -21.083885
+                ],
+                [
+                  149.178847,
+                  -21.085209
+                ],
+                [
+                  149.178917,
+                  -21.085302
+                ],
+                [
+                  149.179098,
+                  -21.085485
+                ],
+                [
+                  149.179388,
+                  -21.085627
+                ],
+                [
+                  149.183004,
+                  -21.086074
+                ],
+                [
+                  149.183045,
+                  -21.086077
+                ],
+                [
+                  149.18472,
+                  -21.08615
+                ],
+                [
+                  149.185217,
+                  -21.085626
+                ],
+                [
+                  149.184365,
+                  -21.080781
+                ],
+                [
+                  149.183656,
+                  -21.08046
+                ],
+                [
+                  149.178278,
+                  -21.083277
+                ],
+                [
+                  149.178089,
+                  -21.083885
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4189",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "145",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews working on-site",
+        "START": "5:55PM 09 May 2024",
+        "EST_FIX_TIME": "7:33PM 09 May 2024",
+        "STREETS": "BARRAMUNDI CT, BEDFORD RD, BREAM CT, EMPEROR DR, FERNLEIGH AVE, FLOUNDER CT, MARSHALL AVE, PERCH CT, TROUT AVE, WRASSE CT",
+        "SUBURBS": "ANDERGROVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -414,70 +499,9 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.980512,
-              -26.242706
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.983133,
-                  -26.243949
-                ],
-                [
-                  151.978498,
-                  -26.240748
-                ],
-                [
-                  151.977799,
-                  -26.240832
-                ],
-                [
-                  151.977891,
-                  -26.241463
-                ],
-                [
-                  151.982526,
-                  -26.244663
-                ],
-                [
-                  151.983226,
-                  -26.24458
-                ],
-                [
-                  151.983133,
-                  -26.243949
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB5601",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is due to fallen power lines.  ",
-        "STATUS": "Crews working on-site",
-        "START": "10:26AM 10 May 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "BARAMBAH RD, BUNYA HWY",
-        "SUBURBS": "MOONDOONER, MURGON"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715306402.842046"
+  "extracted": "1715307001.048762"
 }
