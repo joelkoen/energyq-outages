@@ -772,7 +772,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "10",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 11 May 2024",
         "EST_FIX_TIME": "2:30PM 11 May 2024",
         "STREETS": "CLONMEL RD, SCRUBBY MOUNTAIN RD, WONGALEE RD",
@@ -1680,6 +1680,27 @@
         "EST_FIX_TIME": "2:00PM 15 May 2024",
         "STREETS": "WOLFRAM RD",
         "SUBURBS": "DIMBULAH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.75383,
+          -16.974533
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5276",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:43AM 11 May 2024",
+        "EST_FIX_TIME": "4:30PM 11 May 2024",
+        "STREETS": "ACADEMY CL, CILENTO CL, HOLLYWOOD BVD",
+        "SUBURBS": "WHITE ROCK"
       }
     },
     {
@@ -6221,5 +6242,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1715377201.322233"
+  "extracted": "1715377503.144957"
 }
