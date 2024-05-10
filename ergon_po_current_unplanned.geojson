@@ -430,9 +430,74 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.269043,
+              -27.236033
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.261895,
+                  -27.234613
+                ],
+                [
+                  151.273033,
+                  -27.238324
+                ],
+                [
+                  151.27355,
+                  -27.238233
+                ],
+                [
+                  151.276505,
+                  -27.235799
+                ],
+                [
+                  151.276215,
+                  -27.23502
+                ],
+                [
+                  151.262122,
+                  -27.233743
+                ],
+                [
+                  151.26158,
+                  -27.234089
+                ],
+                [
+                  151.261895,
+                  -27.234613
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8747",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "5:30PM 10 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRANCH CREEK RD, CECIL PLAINS RD, DALBY-CECIL PLAINS RD",
+        "SUBURBS": "DALBY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715329802.772038"
+  "extracted": "1715330101.254391"
 }
