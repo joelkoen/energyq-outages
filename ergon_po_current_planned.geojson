@@ -238,6 +238,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.79158,
+          -23.324312
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5996",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:10AM 11 May 2024",
+        "EST_FIX_TIME": "2:30PM 11 May 2024",
+        "STREETS": "MUSA DR",
+        "SUBURBS": "KEPPEL SANDS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.377417,
           -16.413177
         ]
@@ -441,6 +462,27 @@
         "EST_FIX_TIME": "2:30PM 11 May 2024",
         "STREETS": "BEVILACQUA RD, HOBSON RD, IVANHOE RD, MCALLISTER RD, MINUZZO RD, RITA ISLAND RD, RUDDYS RD, SEAFORTH RD",
         "SUBURBS": "AYR, JARVISFIELD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.510531,
+          -21.696759
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7617",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "68",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 11 May 2024",
+        "EST_FIX_TIME": "8:15AM 11 May 2024",
+        "STREETS": "ATNYER ST, BOULIA RD, CARMODY ST, DIAMANTINA DEVELOPMENTAL RD, DILLON ST, LETHAM ST, MARK ST, MATHESON ST, SPORTS PDE",
+        "SUBURBS": "ALPURRURULAM, DAJARRA, MOUNT ISA"
       }
     },
     {
@@ -719,5 +761,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715382601.118649"
+  "extracted": "1715382903.857646"
 }
