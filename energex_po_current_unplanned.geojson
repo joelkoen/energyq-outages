@@ -1,8 +1,142 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.048916,
+              -27.416696
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.041873,
+                  -27.414687
+                ],
+                [
+                  153.043392,
+                  -27.419999
+                ],
+                [
+                  153.043401,
+                  -27.420026
+                ],
+                [
+                  153.044213,
+                  -27.422267
+                ],
+                [
+                  153.044567,
+                  -27.422565
+                ],
+                [
+                  153.046196,
+                  -27.422942
+                ],
+                [
+                  153.046389,
+                  -27.422953
+                ],
+                [
+                  153.049183,
+                  -27.422625
+                ],
+                [
+                  153.049259,
+                  -27.422611
+                ],
+                [
+                  153.051665,
+                  -27.421983
+                ],
+                [
+                  153.051829,
+                  -27.421909
+                ],
+                [
+                  153.053539,
+                  -27.420753
+                ],
+                [
+                  153.053723,
+                  -27.420508
+                ],
+                [
+                  153.054777,
+                  -27.416944
+                ],
+                [
+                  153.054785,
+                  -27.416912
+                ],
+                [
+                  153.055932,
+                  -27.41142
+                ],
+                [
+                  153.055941,
+                  -27.411354
+                ],
+                [
+                  153.05596,
+                  -27.410889
+                ],
+                [
+                  153.055315,
+                  -27.410439
+                ],
+                [
+                  153.052965,
+                  -27.411038
+                ],
+                [
+                  153.052951,
+                  -27.411042
+                ],
+                [
+                  153.042237,
+                  -27.414083
+                ],
+                [
+                  153.04192,
+                  -27.414347
+                ],
+                [
+                  153.041892,
+                  -27.41441
+                ],
+                [
+                  153.041873,
+                  -27.414687
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-759180-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1508",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "4:11AM 12 May 2024",
+        "EST_FIX_TIME": "6:30AM 12 May 2024",
+        "STREETS": "ADAMSON ST, ADELAIDE ST, ARMAGH ST, BALMAIN ST, BAYVIEW TCE, BELLEVUE TCE, BELLS LANE, BONNEY AVE, BRENTWOOD ST, COOMA ST, DICKSON ST, DRANE ST, GREGORY ST, HAMLEY ST, HIGHCLERE ST, HOWIE ST, HUDSON RD, JACKSON ST, JUNCTION RD, KEDRON ST, KEITH ST, KEMBLE ST, KENT RD, MILMAN ST, MORRISON RD, NORMAN PDE, PARK AVE, QUEENS RD, RAILWAY PDE, RAWSON ST, ROSE ST, ROSEBY AVE, SANDGATE RD, SANDRINGHAM ST, SHIRLEY ST, STOPFORD ST, SYDNEY ST, VICTORIA PDE, VIEW ST, WILDMAN LANE, WILDMAN ST, WOOLOOWIN AVE",
+        "SUBURBS": "CLAYFIELD, WOOLOOWIN"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715451002.555626"
+  "extracted": "1715451601.31927"
 }
