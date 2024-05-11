@@ -245,6 +245,71 @@
           {
             "type": "Point",
             "coordinates": [
+              146.841446,
+              -19.296356
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.831299,
+                  -19.310729
+                ],
+                [
+                  146.852308,
+                  -19.293537
+                ],
+                [
+                  146.852351,
+                  -19.292893
+                ],
+                [
+                  146.842035,
+                  -19.281954
+                ],
+                [
+                  146.841233,
+                  -19.282102
+                ],
+                [
+                  146.830541,
+                  -19.310233
+                ],
+                [
+                  146.830719,
+                  -19.310759
+                ],
+                [
+                  146.831299,
+                  -19.310729
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8456",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "6:13PM 11 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "PORT ACCESS RD, RACECOURSE RD",
+        "SUBURBS": "CLUDEN, STUART"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.690948,
               -19.366853
             ]
@@ -584,5 +649,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715415001.299152"
+  "extracted": "1715415303.225637"
 }
