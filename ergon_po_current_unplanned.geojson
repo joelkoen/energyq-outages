@@ -370,9 +370,110 @@
         "STREETS": "BRANCH CREEK RD, CECIL PLAINS RD, DALBY-CECIL PLAINS RD",
         "SUBURBS": "DALBY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.239395,
+              -25.164768
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.188722,
+                  -25.174683
+                ],
+                [
+                  152.192917,
+                  -25.178409
+                ],
+                [
+                  152.19298,
+                  -25.178457
+                ],
+                [
+                  152.210379,
+                  -25.189483
+                ],
+                [
+                  152.210476,
+                  -25.189531
+                ],
+                [
+                  152.212802,
+                  -25.190388
+                ],
+                [
+                  152.213074,
+                  -25.190415
+                ],
+                [
+                  152.289899,
+                  -25.178039
+                ],
+                [
+                  152.290211,
+                  -25.177329
+                ],
+                [
+                  152.284688,
+                  -25.17052
+                ],
+                [
+                  152.284683,
+                  -25.170513
+                ],
+                [
+                  152.25838,
+                  -25.139291
+                ],
+                [
+                  152.257909,
+                  -25.139121
+                ],
+                [
+                  152.193537,
+                  -25.148547
+                ],
+                [
+                  152.193128,
+                  -25.148918
+                ],
+                [
+                  152.188579,
+                  -25.174289
+                ],
+                [
+                  152.188722,
+                  -25.174683
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5624",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "354",
+        "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
+        "STATUS": "Crews working on-site",
+        "START": "8:36AM 12 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRANDS RD, CEMETERY RD, CHILDERS RD, CHRISTENSEN ST, CLAYTONS RD, CORDALBA RD, FARNSFIELD RD, GARDNER ST, GROVE CT, HENRICKSENS RD, HODGES RD, HOLME ST, ICM-CORDALBA RD, IRWINS RD, ISIS CENTRAL MILL RD, ISIS HWY, JENSEN ST, JOHN ST, KELLYS RD, KINGSTON DR, KNOCKROE RD, KURUNDI ST, LEONARD CT, LYNWOOD RD, MCDONALDS RD, MILL RD, NORMAN ST, NORTH ISIS RD, OLD SCHOOL RD, PITT ST, PROMISEDLAND RD, QUEEN ST, REDBANK CT, SWANTONS RD, WARRENERS RD",
+        "SUBURBS": "CHILDERS, CORDALBA, FARNSFIELD, ISIS CENTRAL, NORTH GREGORY, NORTH ISIS"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715467201.096211"
+  "extracted": "1715467503.040972"
 }
