@@ -176,6 +176,163 @@
           {
             "type": "Point",
             "coordinates": [
+              145.729197,
+              -16.899989
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.705479,
+                  -16.889491
+                ],
+                [
+                  145.70939,
+                  -16.906447
+                ],
+                [
+                  145.709607,
+                  -16.906737
+                ],
+                [
+                  145.739252,
+                  -16.923761
+                ],
+                [
+                  145.739303,
+                  -16.923786
+                ],
+                [
+                  145.743715,
+                  -16.925658
+                ],
+                [
+                  145.744251,
+                  -16.925549
+                ],
+                [
+                  145.744558,
+                  -16.925224
+                ],
+                [
+                  145.744566,
+                  -16.925215
+                ],
+                [
+                  145.752852,
+                  -16.915971
+                ],
+                [
+                  145.752916,
+                  -16.915473
+                ],
+                [
+                  145.731931,
+                  -16.875427
+                ],
+                [
+                  145.731792,
+                  -16.875268
+                ],
+                [
+                  145.730585,
+                  -16.874405
+                ],
+                [
+                  145.730239,
+                  -16.87432
+                ],
+                [
+                  145.724334,
+                  -16.875123
+                ],
+                [
+                  145.724323,
+                  -16.875125
+                ],
+                [
+                  145.716952,
+                  -16.876291
+                ],
+                [
+                  145.716821,
+                  -16.876331
+                ],
+                [
+                  145.714486,
+                  -16.877434
+                ],
+                [
+                  145.714456,
+                  -16.87745
+                ],
+                [
+                  145.710331,
+                  -16.87977
+                ],
+                [
+                  145.71031,
+                  -16.879783
+                ],
+                [
+                  145.709186,
+                  -16.880495
+                ],
+                [
+                  145.709086,
+                  -16.880581
+                ],
+                [
+                  145.70862,
+                  -16.881111
+                ],
+                [
+                  145.70858,
+                  -16.881163
+                ],
+                [
+                  145.707226,
+                  -16.883253
+                ],
+                [
+                  145.707171,
+                  -16.883372
+                ],
+                [
+                  145.705485,
+                  -16.889273
+                ],
+                [
+                  145.705479,
+                  -16.889491
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6160",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2462",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:21PM 11 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ADAM DR, ADELAIDE ST, ALAMEIN ST, ALFRED ST, ANDERSON ST, ANDREW ST, ANIVAS CL, ARMBRUST ST, AVON ST, BARCLAY RD, BARRON VIEW DR, BEHAN ST, BELLEVILLE ST, BENFER CT, BLUE HILLS CRES, BRINSMEAD RD, CANOPY CL, CARD AVE, CASSOWARY ST, CHRISTIES DR, CLEARWATER ST, COCHRANE ST, COMINOS PL, CORKILL ST, DALZIEL ST, DELTA VIEW CL, DOLLISSON ST, DONALDSON ST, DOWN ST, DUFFY ST, ENGLISH ST, FITCH CT, GRAY ST, HARDWICK ST, HOARE ST, JACARANDA CL, JENSEN ST, KAMERUNGA RD, KEEBLE ST, LAVIS RD, LE GRANDE ST, LEE ST, LEON CL, LITTLE PEASE ST, LORIDAN DR, LORIKEET ST, LOWER FRESHWATER RD, MAGAZINE ST, MAHOGANY ST, MAREE ST, MARETT ST, MASON ST, MAYERS ST, MCCORMACK ST, MEGAN CL, MELLER ST, MERRYBROOK ST, MESTON CRES, MICHAEL DWYER CL, MILES ST, MOODY ST, MORRIS ST, MULLIGAN ST, NIELSEN ST, OLD CASSOWARY ST, OLD SMITHFIELD RD, PASSCHENDAELE ST, PATIENCE ST, PEASE ST, PERKINS ST, PETERSEN ST, PRIMO ST, QUONDONG CL, RADIATA CT, RESERVOIR RD, RIVERVIEW CL, SATINAY CL, SILKWOOD CL, SIMON ST, STRATFORD CH, TERESA ST, TODD CL, VALLELY ST, WEST ST, WILUNGA ST, WIMBLE ST",
+        "SUBURBS": "BARRON, BRINSMEAD, EDGE HILL, FRESHWATER, MANOORA, MANUNDA, STRATFORD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -612,5 +769,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715419201.564029"
+  "extracted": "1715419500.980638"
 }
