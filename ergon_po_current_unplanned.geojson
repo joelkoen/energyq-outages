@@ -92,7 +92,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "27",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "6:26AM 12 May 2024",
         "EST_FIX_TIME": null,
         "STREETS": "BANANA RD, CASTLE CREEK RD, HEINICKES RD, LEICHHARDT HWY, LETCHFORD RD, POPE'S RD, WATSONS RD",
@@ -265,6 +265,91 @@
           {
             "type": "Point",
             "coordinates": [
+              142.733363,
+              -21.130645
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  142.450113,
+                  -21.107569
+                ],
+                [
+                  142.475173,
+                  -21.495601
+                ],
+                [
+                  142.475251,
+                  -21.495821
+                ],
+                [
+                  142.529763,
+                  -21.573292
+                ],
+                [
+                  142.530545,
+                  -21.57332
+                ],
+                [
+                  142.854738,
+                  -21.181966
+                ],
+                [
+                  142.854777,
+                  -21.18191
+                ],
+                [
+                  143.016597,
+                  -20.909302
+                ],
+                [
+                  143.016614,
+                  -20.908895
+                ],
+                [
+                  142.90952,
+                  -20.688106
+                ],
+                [
+                  142.90875,
+                  -20.68797
+                ],
+                [
+                  142.450258,
+                  -21.107219
+                ],
+                [
+                  142.450113,
+                  -21.107569
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8459",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "30",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:50AM 12 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BALCOMO STATION, BORA STATION, CARNWATH STATION, CLAREBOROUGH STATION, COLERAINE STATION, FLINDERS HWY, GLEN NEVIS STATION, JUDITH ROYAL STATION, LESLEW DOWNS STATION, LONSDALE STATION, MAROOLA STATION, PATROY STATION, PLAINBY STATION, ROBYN DOWNS STATION, ROSE DOWNS STATION, SARRE STATION, TARBRAX STATION, WIMMERA STATION, WINCHESTER STATION, WINDSOR PARK STATION, WINTON RD, WOLSTON STATION, WYANGARIE STATION",
+        "SUBURBS": "MAXWELTON, RICHMOND, WINTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -386,5 +471,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715464201.37099"
+  "extracted": "1715464501.223589"
 }
