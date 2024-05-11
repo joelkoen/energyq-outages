@@ -352,7 +352,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 12 May 2024",
         "EST_FIX_TIME": "1:30PM 12 May 2024",
         "STREETS": "WEIR RD",
@@ -1570,7 +1570,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "81",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:00AM 12 May 2024",
         "EST_FIX_TIME": "1:00PM 12 May 2024",
         "STREETS": "FERRY RD, LITTLE LUI ST, LUI ST, ORCHID CL, SAGAUKAZ ST, SEBASIO ST, UNKNOWN ST",
@@ -4438,6 +4438,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.779941,
+          -19.258221
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7759",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:36AM 12 May 2024",
+        "EST_FIX_TIME": "4:00PM 12 May 2024",
+        "STREETS": "HALIFAX ST",
+        "SUBURBS": "GARBUTT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.775655,
           -19.25854
         ]
@@ -6601,6 +6622,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.715549,
+          -25.530893
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5376",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:36AM 12 May 2024",
+        "EST_FIX_TIME": "5:00PM 12 May 2024",
+        "STREETS": "ADMIRAL ST, BANANA ST, O'BRIEN ST, WOLSELEY ST",
+        "SUBURBS": "GRANVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.727245,
           -25.546511
         ]
@@ -6620,5 +6662,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1715463301.625026"
+  "extracted": "1715463600.30206"
 }
