@@ -71,6 +71,99 @@
           {
             "type": "Point",
             "coordinates": [
+              147.640249,
+              -22.404592
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.546598,
+                  -22.407774
+                ],
+                [
+                  147.549383,
+                  -22.427252
+                ],
+                [
+                  147.5497,
+                  -22.427617
+                ],
+                [
+                  147.708065,
+                  -22.480354
+                ],
+                [
+                  147.708196,
+                  -22.480379
+                ],
+                [
+                  147.733389,
+                  -22.481981
+                ],
+                [
+                  147.733899,
+                  -22.481442
+                ],
+                [
+                  147.70681,
+                  -22.355321
+                ],
+                [
+                  147.706795,
+                  -22.355266
+                ],
+                [
+                  147.69745,
+                  -22.329342
+                ],
+                [
+                  147.697002,
+                  -22.329034
+                ],
+                [
+                  147.618773,
+                  -22.327203
+                ],
+                [
+                  147.618387,
+                  -22.327366
+                ],
+                [
+                  147.546706,
+                  -22.407425
+                ],
+                [
+                  147.546598,
+                  -22.407774
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6793",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "32",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "STATUS": "Outage reported",
+        "START": "2:30PM 12 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DIAMOND DOWNS RD, KENLOGAN RD, KILCUMMIN ACCESS RD, MT MCLAREN RD, OFF KILCUMMIN RD, OFF PEAK DOWNS HWY, OFF ROUND RD, UNKNOWN ST",
+        "SUBURBS": "CLERMONT, KILCUMMIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -346,5 +439,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715490301.255052"
+  "extracted": "1715490601.028445"
 }
