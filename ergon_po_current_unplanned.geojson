@@ -10,6 +10,99 @@
           {
             "type": "Point",
             "coordinates": [
+              150.521592,
+              -23.36218
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.520149,
+                  -23.362381
+                ],
+                [
+                  150.520349,
+                  -23.362931
+                ],
+                [
+                  150.520615,
+                  -23.3632
+                ],
+                [
+                  150.520985,
+                  -23.363351
+                ],
+                [
+                  150.521076,
+                  -23.363378
+                ],
+                [
+                  150.522233,
+                  -23.363615
+                ],
+                [
+                  150.522825,
+                  -23.36322
+                ],
+                [
+                  150.522988,
+                  -23.361733
+                ],
+                [
+                  150.522989,
+                  -23.361725
+                ],
+                [
+                  150.523035,
+                  -23.361223
+                ],
+                [
+                  150.522443,
+                  -23.360745
+                ],
+                [
+                  150.521918,
+                  -23.360852
+                ],
+                [
+                  150.521736,
+                  -23.360927
+                ],
+                [
+                  150.520325,
+                  -23.361872
+                ],
+                [
+                  150.520149,
+                  -23.362381
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6788",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "29",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews on route",
+        "START": "12:18PM 12 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ASCOT LANE, ELPHINSTONE ST, MUSGRAVE ST",
+        "SUBURBS": "BERSERKER, NORTH ROCKHAMPTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -309,5 +402,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715480701.367012"
+  "extracted": "1715481004.958106"
 }
