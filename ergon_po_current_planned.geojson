@@ -238,6 +238,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          142.383816,
+          -10.898275
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN4611",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 13 May 2024",
+        "EST_FIX_TIME": "1:00PM 13 May 2024",
+        "STREETS": "SAGAUKAZ ST",
+        "SUBURBS": "BAMAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.426885,
           -17.011579
         ]
@@ -378,6 +399,27 @@
         "EST_FIX_TIME": "4:00PM 13 May 2024",
         "STREETS": "KINDERMAR ST",
         "SUBURBS": "SOUTH MACKAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.919066,
+          -21.188175
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3802",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "73",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 13 May 2024",
+        "EST_FIX_TIME": "1:00PM 13 May 2024",
+        "STREETS": "ALLANDALE RD, BRAND RD, FORDYCES RD, KELLYS RD, LEICHHARDT RD, MARGE CAMERONS RD, MARIAN ETON RD, MARKEYS RD, MULLERS RD, N LAMBS RD, PLATHS RD",
+        "SUBURBS": "ALLANDALE, MARIAN, MIRANI, NORTH ETON"
       }
     },
     {
@@ -542,7 +584,7 @@
         "CUSTOMERS_AFFECTED": "90",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 13 May 2024",
+        "START": "8:33AM 13 May 2024",
         "EST_FIX_TIME": "2:30PM 13 May 2024",
         "STREETS": "BENOWA ST, CHAMPAGNE CRES, FRAMARA DR, JINNA CT, MUNBILLA DR, SAMANTHA ST, WONGA CT",
         "SUBURBS": "KELSO"
@@ -866,5 +908,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715553901.528847"
+  "extracted": "1715554201.308873"
 }
