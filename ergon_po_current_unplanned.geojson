@@ -220,9 +220,70 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.119562,
+              -27.392971
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.118759,
+                  -27.394227
+                ],
+                [
+                  152.120999,
+                  -27.393447
+                ],
+                [
+                  152.121048,
+                  -27.392628
+                ],
+                [
+                  152.119072,
+                  -27.391714
+                ],
+                [
+                  152.118341,
+                  -27.392052
+                ],
+                [
+                  152.118077,
+                  -27.393746
+                ],
+                [
+                  152.118759,
+                  -27.394227
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8764",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews on route",
+        "START": "2:47PM 12 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "KYNOCH RD, PERSEVERANCE HALL RD",
+        "SUBURBS": "PERSEVERANCE, RAVENSBOURNE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715489701.273916"
+  "extracted": "1715490005.218507"
 }
