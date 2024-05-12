@@ -164,6 +164,107 @@
           {
             "type": "Point",
             "coordinates": [
+              145.08827,
+              -23.654023
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  144.904454,
+                  -23.595137
+                ],
+                [
+                  144.904693,
+                  -23.59929
+                ],
+                [
+                  144.904751,
+                  -23.599481
+                ],
+                [
+                  144.959133,
+                  -23.691803
+                ],
+                [
+                  144.959208,
+                  -23.691897
+                ],
+                [
+                  145.057001,
+                  -23.787177
+                ],
+                [
+                  145.057692,
+                  -23.787198
+                ],
+                [
+                  145.124436,
+                  -23.729969
+                ],
+                [
+                  145.124491,
+                  -23.729913
+                ],
+                [
+                  145.272037,
+                  -23.551684
+                ],
+                [
+                  145.272086,
+                  -23.551211
+                ],
+                [
+                  145.259894,
+                  -23.528345
+                ],
+                [
+                  145.259465,
+                  -23.528092
+                ],
+                [
+                  144.914018,
+                  -23.520849
+                ],
+                [
+                  144.91352,
+                  -23.521249
+                ],
+                [
+                  144.904456,
+                  -23.595062
+                ],
+                [
+                  144.904454,
+                  -23.595137
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6795",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "57",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:08PM 12 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARAMAC RD, BARCALDINE DOWNS RD, BARCALDINE-ISISFOR RD, BARCALDINE-ISISFORD RD, BARCALDINE-L'REACH RD, BLOODWOOD DR, LANDSBOROUGH HWY, OFF LANDSBOROUGH HWY, SALTERN CREEK RD, SANDALWOOD DR",
+        "SUBURBS": "BARCALDINE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -439,5 +540,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715494201.531254"
+  "extracted": "1715494503.991434"
 }
