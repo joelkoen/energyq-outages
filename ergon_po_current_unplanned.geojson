@@ -152,6 +152,107 @@
           {
             "type": "Point",
             "coordinates": [
+              144.801218,
+              -22.805906
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  144.569985,
+                  -22.887672
+                ],
+                [
+                  144.579339,
+                  -22.892069
+                ],
+                [
+                  144.579506,
+                  -22.892115
+                ],
+                [
+                  144.797568,
+                  -22.914389
+                ],
+                [
+                  144.797955,
+                  -22.914269
+                ],
+                [
+                  144.977492,
+                  -22.75749
+                ],
+                [
+                  144.97752,
+                  -22.757463
+                ],
+                [
+                  145.0327,
+                  -22.700195
+                ],
+                [
+                  145.032398,
+                  -22.699446
+                ],
+                [
+                  145.015167,
+                  -22.697422
+                ],
+                [
+                  145.014941,
+                  -22.697446
+                ],
+                [
+                  144.775498,
+                  -22.777555
+                ],
+                [
+                  144.775433,
+                  -22.777581
+                ],
+                [
+                  144.572647,
+                  -22.877899
+                ],
+                [
+                  144.572406,
+                  -22.878178
+                ],
+                [
+                  144.569736,
+                  -22.88715
+                ],
+                [
+                  144.569985,
+                  -22.887672
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6810",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:34AM 13 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARAMAC-MUTTABURRA RD, BOWEN DOWNS RD, CROSSMOOR RD, MUTTABURRA RD, OFF ARAMAC-MUTTABURRA RD",
+        "SUBURBS": "ARAMAC, MUTTABURRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -467,5 +568,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715556900.516617"
+  "extracted": "1715557201.237447"
 }
