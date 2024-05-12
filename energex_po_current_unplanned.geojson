@@ -1,8 +1,110 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.944607,
+              -27.562921
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.940423,
+                  -27.560507
+                ],
+                [
+                  152.942979,
+                  -27.563841
+                ],
+                [
+                  152.94299,
+                  -27.563855
+                ],
+                [
+                  152.945782,
+                  -27.567219
+                ],
+                [
+                  152.946066,
+                  -27.567388
+                ],
+                [
+                  152.948168,
+                  -27.567857
+                ],
+                [
+                  152.948797,
+                  -27.567424
+                ],
+                [
+                  152.948879,
+                  -27.561325
+                ],
+                [
+                  152.948718,
+                  -27.560989
+                ],
+                [
+                  152.945231,
+                  -27.558096
+                ],
+                [
+                  152.944779,
+                  -27.557985
+                ],
+                [
+                  152.941719,
+                  -27.558573
+                ],
+                [
+                  152.941561,
+                  -27.55863
+                ],
+                [
+                  152.94059,
+                  -27.55916
+                ],
+                [
+                  152.940348,
+                  -27.559538
+                ],
+                [
+                  152.940335,
+                  -27.560245
+                ],
+                [
+                  152.940423,
+                  -27.560507
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-759230-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "80",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:09PM 12 May 2024",
+        "EST_FIX_TIME": "1:30AM 13 May 2024",
+        "STREETS": "CLINKER ST, EBBERN ST, GRAVEL PIT RD, LIMESTONE ST, MONIER RD, NORTHOLT ST, PERIVALE ST, SUDBURY ST, SUMNERS RD",
+        "SUBURBS": "DARRA"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715519101.016596"
+  "extracted": "1715519400.984238"
 }
