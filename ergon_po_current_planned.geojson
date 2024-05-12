@@ -28,6 +28,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          144.801218,
+          -22.805906
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5137",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 13 May 2024",
+        "EST_FIX_TIME": "3:00PM 13 May 2024",
+        "STREETS": "ARAMAC-MUTTABURRA RD, BOWEN DOWNS RD, CROSSMOOR RD, MUTTABURRA RD, OFF ARAMAC-MUTTABURRA RD",
+        "SUBURBS": "ARAMAC, MUTTABURRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.249276,
           -24.300241
         ]
@@ -574,27 +595,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.775655,
-          -19.25854
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ7763",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "7:06AM 13 May 2024",
-        "EST_FIX_TIME": "4:00PM 13 May 2024",
-        "STREETS": "LANCASTER ST",
-        "SUBURBS": "GARBUTT"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           146.778329,
           -19.263371
         ]
@@ -845,5 +845,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715555401.406607"
+  "extracted": "1715556000.392099"
 }

@@ -362,9 +362,110 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.485429,
+              -24.881387
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.481843,
+                  -24.879625
+                ],
+                [
+                  152.484499,
+                  -24.884512
+                ],
+                [
+                  152.484558,
+                  -24.884595
+                ],
+                [
+                  152.485546,
+                  -24.88571
+                ],
+                [
+                  152.485772,
+                  -24.885853
+                ],
+                [
+                  152.48685,
+                  -24.886183
+                ],
+                [
+                  152.487244,
+                  -24.886151
+                ],
+                [
+                  152.487324,
+                  -24.886111
+                ],
+                [
+                  152.487497,
+                  -24.885966
+                ],
+                [
+                  152.489054,
+                  -24.883835
+                ],
+                [
+                  152.489058,
+                  -24.883341
+                ],
+                [
+                  152.486877,
+                  -24.880278
+                ],
+                [
+                  152.486828,
+                  -24.88022
+                ],
+                [
+                  152.483203,
+                  -24.87659
+                ],
+                [
+                  152.482354,
+                  -24.876805
+                ],
+                [
+                  152.481801,
+                  -24.879337
+                ],
+                [
+                  152.481843,
+                  -24.879625
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5638",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "154",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:10AM 13 May 2024",
+        "EST_FIX_TIME": "11:30AM 13 May 2024",
+        "STREETS": "ADMIRALTY PL, ARTHUR BROWN CT, ARUNDA ST, BAROLIN ESP, BISDEE ST, BLAKE CL, BOBBY PL, DAISY CT, ESPLANADE, HOMESTEAD BVD, MAJESTIC PL, MARIAN ST, MOKERA ST, PEGGY DR, TARNI ST",
+        "SUBURBS": "CORAL COVE, INNES PARK"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715555401.406607"
+  "extracted": "1715556000.392099"
 }
