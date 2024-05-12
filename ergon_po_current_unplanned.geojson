@@ -10,6 +10,119 @@
           {
             "type": "Point",
             "coordinates": [
+              148.865766,
+              -23.509049
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.834513,
+                  -23.499773
+                ],
+                [
+                  148.864614,
+                  -23.585144
+                ],
+                [
+                  148.865162,
+                  -23.58545
+                ],
+                [
+                  148.871618,
+                  -23.584445
+                ],
+                [
+                  148.871642,
+                  -23.584441
+                ],
+                [
+                  148.895659,
+                  -23.579567
+                ],
+                [
+                  148.895768,
+                  -23.579532
+                ],
+                [
+                  148.896764,
+                  -23.579084
+                ],
+                [
+                  148.897039,
+                  -23.578673
+                ],
+                [
+                  148.897019,
+                  -23.57723
+                ],
+                [
+                  148.897019,
+                  -23.577229
+                ],
+                [
+                  148.896992,
+                  -23.575458
+                ],
+                [
+                  148.896991,
+                  -23.575438
+                ],
+                [
+                  148.896685,
+                  -23.570642
+                ],
+                [
+                  148.896657,
+                  -23.570516
+                ],
+                [
+                  148.843357,
+                  -23.432946
+                ],
+                [
+                  148.842839,
+                  -23.432649
+                ],
+                [
+                  148.84241,
+                  -23.433048
+                ],
+                [
+                  148.834492,
+                  -23.499584
+                ],
+                [
+                  148.834513,
+                  -23.499773
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6792",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1165",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:20PM 12 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ACACIA ST, ADAMS CRES, BAUMAN WAY, BENDEE CRES, BIRT ST, BLACKBUTT ST, BLAIN ST, BOONERY ST, BOREE ST, BOX ST, BREDHAUER ST, BREMNER ST, CARDINAL CT, CEDAR ST, COMOLLATTI ST, CONACHAN ST, CORDINGLY ST, DEACON DR, DIAMOND DR, DONOVAN ST, DUTTON ST, ELM ST, EVANS ST, FERN ST, FIG ST, GUM ST, HAWKINS DR, HOBLER CT, HUNTER ST, HUTTON CT, IRONBARK ST, JARROTT ST, KAJEWSKI ST, KENDRICK CCT, KURRAJONG ST, LAWLESS ST, LILLIAN ST, LITTLEFIELD ST, MACKENZIE ST, MONGER ST, MULGA ST, OFF WEIR RD, OHL ST, OLIFFE ST, PARK ST, PENDULA LANE, PENROSE CCT, SCANTLEBURY ST, STOWER ST, SUMMER RED CCT, WEBLEY ST, WEIR RD, WILGA ST, WILLIAMS ST, YEATES AVE",
+        "SUBURBS": "BLACKWATER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -309,5 +422,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715487601.320724"
+  "extracted": "1715487901.923601"
 }
