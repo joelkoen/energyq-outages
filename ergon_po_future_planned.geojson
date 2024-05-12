@@ -520,7 +520,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "7:30AM 13 May 2024",
         "EST_FIX_TIME": "4:30PM 13 May 2024",
         "STREETS": "MURPHY ST",
@@ -541,7 +541,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "8",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "7:30AM 13 May 2024",
         "EST_FIX_TIME": "4:30PM 13 May 2024",
         "STREETS": "BERESFORD CRES, PERRY ST, SINGLETON ST",
@@ -562,7 +562,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "7:30AM 13 May 2024",
         "EST_FIX_TIME": "4:30PM 13 May 2024",
         "STREETS": "FRASER CT, MURPHY ST",
@@ -1759,7 +1759,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "5",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "7:30AM 13 May 2024",
         "EST_FIX_TIME": "4:30PM 13 May 2024",
         "STREETS": "SKULL RD",
@@ -4312,6 +4312,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.721976,
+          -19.374333
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7687",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "102",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Work scheduled",
+        "START": "8:30AM 17 May 2024",
+        "EST_FIX_TIME": "2:30PM 17 May 2024",
+        "STREETS": "ELBERRY CRES, HAMMOND WAY, MABEL CT, MAIDEN COMBE CT, PEONY CT, RAVEN CT, ROSEWOOD AVE, SHETLAND PL, WAYNE ST",
+        "SUBURBS": "KELSO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.175158,
           -20.051039
         ]
@@ -6125,7 +6146,7 @@
       "properties": {
         "EVENT_ID": "24SW8606",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
+        "CUSTOMERS_AFFECTED": "4",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:30AM 17 May 2024",
@@ -6356,7 +6377,7 @@
       "properties": {
         "EVENT_ID": "24WB4525",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "29",
+        "CUSTOMERS_AFFECTED": "30",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:30AM 16 May 2024",
@@ -7061,5 +7082,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1715548800.334068"
+  "extracted": "1715549101.867761"
 }
