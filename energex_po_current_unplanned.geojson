@@ -1,8 +1,110 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.065816,
+              -27.419133
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.063792,
+                  -27.418178
+                ],
+                [
+                  153.063985,
+                  -27.421002
+                ],
+                [
+                  153.064003,
+                  -27.421098
+                ],
+                [
+                  153.064042,
+                  -27.42122
+                ],
+                [
+                  153.064543,
+                  -27.421549
+                ],
+                [
+                  153.064676,
+                  -27.421545
+                ],
+                [
+                  153.064829,
+                  -27.42152
+                ],
+                [
+                  153.06711,
+                  -27.420808
+                ],
+                [
+                  153.067439,
+                  -27.420467
+                ],
+                [
+                  153.067839,
+                  -27.418607
+                ],
+                [
+                  153.067838,
+                  -27.41843
+                ],
+                [
+                  153.06752,
+                  -27.417075
+                ],
+                [
+                  153.06699,
+                  -27.416717
+                ],
+                [
+                  153.065984,
+                  -27.41678
+                ],
+                [
+                  153.065759,
+                  -27.416843
+                ],
+                [
+                  153.064037,
+                  -27.417763
+                ],
+                [
+                  153.063792,
+                  -27.418178
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-759260-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "98",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "8:48AM 13 May 2024",
+        "EST_FIX_TIME": "10:00AM 13 May 2024",
+        "STREETS": "CORONELLA ST, DERBY ST, DONCASTER ST, GERLER RD, MATONG ST, PRING ST, WOODVILLE ST, ZILLMAN RD",
+        "SUBURBS": "HENDRA"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715554500.24583"
+  "extracted": "1715555100.314496"
 }
