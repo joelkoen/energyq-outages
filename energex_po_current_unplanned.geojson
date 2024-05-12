@@ -1,8 +1,126 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.09999,
+              -27.544844
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.092911,
+                  -27.544256
+                ],
+                [
+                  153.093896,
+                  -27.545608
+                ],
+                [
+                  153.094014,
+                  -27.545722
+                ],
+                [
+                  153.103488,
+                  -27.552152
+                ],
+                [
+                  153.104157,
+                  -27.552108
+                ],
+                [
+                  153.10587,
+                  -27.550543
+                ],
+                [
+                  153.105995,
+                  -27.550348
+                ],
+                [
+                  153.10602,
+                  -27.550269
+                ],
+                [
+                  153.106026,
+                  -27.55025
+                ],
+                [
+                  153.107139,
+                  -27.545941
+                ],
+                [
+                  153.107146,
+                  -27.545775
+                ],
+                [
+                  153.105856,
+                  -27.537922
+                ],
+                [
+                  153.105339,
+                  -27.537537
+                ],
+                [
+                  153.104318,
+                  -27.537565
+                ],
+                [
+                  153.104143,
+                  -27.537598
+                ],
+                [
+                  153.104059,
+                  -27.537629
+                ],
+                [
+                  153.103997,
+                  -27.537656
+                ],
+                [
+                  153.093149,
+                  -27.543212
+                ],
+                [
+                  153.0929,
+                  -27.54354
+                ],
+                [
+                  153.092834,
+                  -27.543946
+                ],
+                [
+                  153.092911,
+                  -27.544256
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-759234-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "716",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:16AM 13 May 2024",
+        "EST_FIX_TIME": "7:30AM 13 May 2024",
+        "STREETS": "ADNAR ST, ALBERON ST, AMINYA ST, BANNING ST, BROADWATER RD, CATANIA ST, CHINIALA ST, COLINGTON ST, CRESTHAVEN DR, DIRKALA ST, GRALUNGA ST, GREENLAND ST, HAM RD, HEWTON CT, IRANDI ST, JILLOONG ST, KOOLA ST, KOUMALA ST, LIATOKI ST, MAILEY ST, MIANDETTA ST, MORIALTA ST, MOURILYAN ST, NARAF ST, NEV CL, NOVELLO ST, PARARI ST, SALANDRA ST, TANDANYA ST, TOULON ST, TRIDENT ST",
+        "SUBURBS": "MANSFIELD, WISHART"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715541304.343448"
+  "extracted": "1715541601.150965"
 }
