@@ -919,7 +919,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "19",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 13 May 2024",
         "EST_FIX_TIME": "2:30PM 13 May 2024",
         "STREETS": "BRUCE HWY, MAGAZINE RD, OFF BRUCE HWY, SIX MILE RD",
@@ -1024,7 +1024,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "52",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 13 May 2024",
         "EST_FIX_TIME": "10:30AM 13 May 2024",
         "STREETS": "BURNETT HWY, DRUMBURLE RD, HINTON RD, HINTONS LANE, LANDS END RD, MEISSNERS RD, MULLERS LANE, RED HILL RD, SEMPLES RD, ZIEBARTHS RD",
@@ -4060,6 +4060,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          142.142576,
+          -20.9321
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7524",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "26",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:30AM 13 May 2024",
+        "EST_FIX_TIME": "12:00PM 13 May 2024",
+        "STREETS": "ALEXMERE STATION, ARDBRIN STATION, BELFORD STATION, BUNDA RD, CHANNEL DOWNS, CLARAFIELD STATION, EDITH DOWNS STATION, FLINDERS HWY, GAROMNA STATION, HELEN DOWNS STATION, MAIN ST, MINAMERE STATION, NONDA WEST STATION, PROA STATION, QUAMBETOOK STATION, RAILWAY ST, WENSLEY STATION, WIVENHOE STATION, YORKSHIRE DOWNS STATION",
+        "SUBURBS": "JULIA CREEK, MAXWELTON, NELIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           141.265753,
           -19.979124
         ]
@@ -4809,27 +4830,6 @@
         "EST_FIX_TIME": "2:30PM 16 May 2024",
         "STREETS": "A MCINTYRES RD, BOONARGA RD, BRAITHWAITES RD, BRIGALOW-CANAGA RD, BURNCLUITH HALL RD, BURRA BURRI CREEK RD, D ATKINS RD, D MCINTYRES RD, INVERAI RD, LEN MIDDLETON'S RD, MARTIN RD, OLSENS RD, PELICAN BACK RD, PIT RD, RENNICKS RD, STANKES RD, SULLIVANS RD, WIDDONS RD, WONDAI RD, WYCHIE RD",
         "SUBURBS": "BRIGALOW, CANAGA, CHINCHILLA, EARLE, PELICAN, WYCHIE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.090954,
-          -27.012242
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW6696",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "22",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "8:30AM 13 May 2024",
-        "EST_FIX_TIME": "2:30PM 13 May 2024",
-        "STREETS": "ALEXANDER'S RD, HAMILTON RD, JANDOWAE MACALISTER RD, JIMBOUR - MACALISTER RD, MACALISTER BELL RD, MACALISTER PIRRINUAN RD, MACALISTER WILKIE CREEK RD, MITCHELLS RD, WARREGO HWY",
-        "SUBURBS": "JIMBOUR, MACALISTER"
       }
     },
     {
@@ -6998,5 +6998,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1715550001.17387"
+  "extracted": "1715550600.587666"
 }
