@@ -313,9 +313,94 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.78466,
+              -27.520084
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.776346,
+                  -27.519898
+                ],
+                [
+                  151.778824,
+                  -27.526114
+                ],
+                [
+                  151.779263,
+                  -27.526412
+                ],
+                [
+                  151.78457,
+                  -27.526761
+                ],
+                [
+                  151.784917,
+                  -27.526667
+                ],
+                [
+                  151.792974,
+                  -27.521076
+                ],
+                [
+                  151.792972,
+                  -27.520364
+                ],
+                [
+                  151.782962,
+                  -27.513487
+                ],
+                [
+                  151.782532,
+                  -27.513407
+                ],
+                [
+                  151.779775,
+                  -27.514016
+                ],
+                [
+                  151.779448,
+                  -27.514246
+                ],
+                [
+                  151.776374,
+                  -27.51954
+                ],
+                [
+                  151.776346,
+                  -27.519898
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8760",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "1:05PM 12 May 2024",
+        "EST_FIX_TIME": "5:00PM 12 May 2024",
+        "STREETS": "BRIMBLECOMBE RD, GOWRIE MOUNTAIN SCHOOL RD",
+        "SUBURBS": "KINGSTHORPE, WELLCAMP"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715483401.340213"
+  "extracted": "1715483703.766768"
 }
