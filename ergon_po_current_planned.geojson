@@ -49,6 +49,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          149.684566,
+          -23.647934
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5251",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "63",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "STATUS": "Crews working on-site",
+        "START": "9:02AM 13 May 2024",
+        "EST_FIX_TIME": "3:00PM 13 May 2024",
+        "STREETS": "ALICE ST, APIS CREEK RD, CHARLOTTE ST, EDWARD ST, ELIZABETH ST, KING ST, LUTZOW RD, MARGARET ST, MONOMEATH RD, OFF ALICE ST, OFF ANN ST, OFF ELIZABETH ST, OUSTON ACCESS RD, PRINCESS ST, VICTORIA ST, WILLIAM ST",
+        "SUBURBS": "DUARINGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.249276,
           -24.300241
         ]
@@ -845,5 +866,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715556000.392099"
+  "extracted": "1715556301.561033"
 }
