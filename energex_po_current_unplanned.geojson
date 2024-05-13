@@ -243,9 +243,150 @@
         "STREETS": "BAINBRIDGE RD, BENIAN RD, BLUE GUM RD, BLUNDER RD, BREWERY RD, BRIERE RD, BROADBENT ST, BROOYAR ST, BURANDA RD, CALLAGHAN RD, CONWAY CT, CROSS RD, CRUST RD, CUMBRAE RD, DEANS RD, DENNIS RD, DIGGINGS RD, DUGGAN RD, EEL CREEK RD, ELJAYS RD, EUSTON RD, FISHERMANS POCKET RD, GEIGER RD, GLASTONBURY CREEK RD, GLASTONBURY RD, GLENBAR RD, GREENDALE RD, HERRON RD, HOLLAND RD, IRONBARK CT, JACARANDA CL, JADE CL, JAMES DEAN RD, JELLICK RD, JEREMY RD, JIMBOUR RD, KEWINS RD, KOOKABURRA CT, LITSCHNER RD, LITTLE RD, LONG RD, LYMBURNER RD, MAHON RD, MARYS CREEK RD, MATTHEW RD, MCHUGH CT, MINYA RD, MOOLOO RD, O'BRIEN RD, OLD GREENDALE RD, PAFF RD, PALM DR, PINE ST, PORTAS RD, RED GUM DR, ROCKS RD, RODNEY RD, ROSELEA AVE, RUBY RD, SCRUBBY CREEK RD, SILKY OAK DR, STOCKDEN RD, TILBA RD, TIPUANA TCE, TRANQUIL CT, WAUGH RD, WESTRIDGE CL, WIDGEE CROSSING RD, WILSON RD, WYUNA DR",
         "SUBURBS": "FISHERMANS POCKET, GLASTONBURY, GYMPIE, LANGSHAW, MARYS CREEK, MOOLOO, NAHRUNDA, PIE CREEK, SCRUBBY CREEK, SOUTHSIDE, THE PALMS, TWO MILE, UPPER GLASTONBURY, WIDGEE CROSSING NTH, WIDGEE CROSSING STH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.972334,
+              -27.082247
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.969914,
+                  -27.082098
+                ],
+                [
+                  152.97066,
+                  -27.083611
+                ],
+                [
+                  152.970997,
+                  -27.083866
+                ],
+                [
+                  152.972138,
+                  -27.084126
+                ],
+                [
+                  152.972338,
+                  -27.084135
+                ],
+                [
+                  152.97291,
+                  -27.084057
+                ],
+                [
+                  152.973028,
+                  -27.084027
+                ],
+                [
+                  152.973185,
+                  -27.083969
+                ],
+                [
+                  152.973225,
+                  -27.083952
+                ],
+                [
+                  152.974135,
+                  -27.083527
+                ],
+                [
+                  152.97416,
+                  -27.083515
+                ],
+                [
+                  152.974273,
+                  -27.083454
+                ],
+                [
+                  152.974509,
+                  -27.083155
+                ],
+                [
+                  152.974532,
+                  -27.083054
+                ],
+                [
+                  152.974539,
+                  -27.083014
+                ],
+                [
+                  152.974741,
+                  -27.081323
+                ],
+                [
+                  152.974743,
+                  -27.081308
+                ],
+                [
+                  152.974755,
+                  -27.081153
+                ],
+                [
+                  152.97475,
+                  -27.081048
+                ],
+                [
+                  152.974721,
+                  -27.080889
+                ],
+                [
+                  152.974712,
+                  -27.080851
+                ],
+                [
+                  152.974668,
+                  -27.080695
+                ],
+                [
+                  152.974108,
+                  -27.080359
+                ],
+                [
+                  152.973888,
+                  -27.080387
+                ],
+                [
+                  152.973798,
+                  -27.080406
+                ],
+                [
+                  152.970214,
+                  -27.081488
+                ],
+                [
+                  152.969914,
+                  -27.082098
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-9135-h",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "95",
+        "REASON": "Damage due to severe weather",
+        "STATUS": "Awaiting",
+        "START": "12:56PM 13 May 2024",
+        "EST_FIX_TIME": "3:30PM 13 May 2024",
+        "STREETS": "CADAGA PL, CAMDEN ST, DUNDAS CL, KARRI CL, SHEW CT, SUMMERFIELDS DR",
+        "SUBURBS": "CABOOLTURE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715568900.363175"
+  "extracted": "1715569204.842694"
 }
