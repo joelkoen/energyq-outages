@@ -10,6 +10,71 @@
           {
             "type": "Point",
             "coordinates": [
+              150.119962,
+              -24.703837
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.113476,
+                  -24.714464
+                ],
+                [
+                  150.124492,
+                  -24.715681
+                ],
+                [
+                  150.125043,
+                  -24.715265
+                ],
+                [
+                  150.126824,
+                  -24.692458
+                ],
+                [
+                  150.12647,
+                  -24.691993
+                ],
+                [
+                  150.125897,
+                  -24.692211
+                ],
+                [
+                  150.113101,
+                  -24.713801
+                ],
+                [
+                  150.113476,
+                  -24.714464
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6819",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 14 May 2024",
+        "EST_FIX_TIME": "3:00PM 14 May 2024",
+        "STREETS": "KIANGA RD",
+        "SUBURBS": "THEODORE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               150.727749,
               -23.141236
             ]
@@ -390,9 +455,70 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.269069,
+              -26.400139
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.268661,
+                  -26.399672
+                ],
+                [
+                  146.268494,
+                  -26.40043
+                ],
+                [
+                  146.268888,
+                  -26.400961
+                ],
+                [
+                  146.269477,
+                  -26.400606
+                ],
+                [
+                  146.269644,
+                  -26.399848
+                ],
+                [
+                  146.269251,
+                  -26.399317
+                ],
+                [
+                  146.268661,
+                  -26.399672
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8811",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:56AM 14 May 2024",
+        "EST_FIX_TIME": "11:00AM 14 May 2024",
+        "STREETS": "MURWEH DR",
+        "SUBURBS": "CHARLEVILLE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715640900.427063"
+  "extracted": "1715641500.690418"
 }
