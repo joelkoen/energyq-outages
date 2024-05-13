@@ -197,11 +197,72 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "13",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "6:56AM 14 May 2024",
         "EST_FIX_TIME": null,
         "STREETS": "CHEESEBOROUGH RD, MCMILLANS LANE, MELROSE DR, MELROSE RD",
         "SUBURBS": "CLERMONT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.730246,
+              -23.323699
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.728511,
+                  -23.322287
+                ],
+                [
+                  150.729259,
+                  -23.325485
+                ],
+                [
+                  150.730142,
+                  -23.325641
+                ],
+                [
+                  150.731982,
+                  -23.32311
+                ],
+                [
+                  150.731708,
+                  -23.322425
+                ],
+                [
+                  150.729119,
+                  -23.321758
+                ],
+                [
+                  150.728511,
+                  -23.322287
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6860",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "7:42AM 14 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "HOFFMANS RD",
+        "SUBURBS": "COOWONGA"
       }
     },
     {
@@ -426,5 +487,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715637000.64751"
+  "extracted": "1715637604.950179"
 }
