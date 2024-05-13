@@ -110,9 +110,102 @@
         "STREETS": "BELLS CREEK RD, BELLS ESP, BLACKWING ST, GREENSHANK ST, ROYS RD, THE ESPLANADE, WADERBIRD CRES, WARREGO DR, WHIMBREL CT",
         "SUBURBS": "BELLS CREEK, COOCHIN CREEK, PELICAN WATERS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.014367,
+              -26.693636
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.012133,
+                  -26.69559
+                ],
+                [
+                  153.01229,
+                  -26.695879
+                ],
+                [
+                  153.012599,
+                  -26.696113
+                ],
+                [
+                  153.014048,
+                  -26.696498
+                ],
+                [
+                  153.014413,
+                  -26.69647
+                ],
+                [
+                  153.015416,
+                  -26.696025
+                ],
+                [
+                  153.01559,
+                  -26.695898
+                ],
+                [
+                  153.016541,
+                  -26.694803
+                ],
+                [
+                  153.016622,
+                  -26.694383
+                ],
+                [
+                  153.015388,
+                  -26.691046
+                ],
+                [
+                  153.014711,
+                  -26.690774
+                ],
+                [
+                  153.013986,
+                  -26.691057
+                ],
+                [
+                  153.013715,
+                  -26.691316
+                ],
+                [
+                  153.012112,
+                  -26.695235
+                ],
+                [
+                  153.012133,
+                  -26.69559
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-759504-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "6:21AM 14 May 2024",
+        "EST_FIX_TIME": "8:00AM 14 May 2024",
+        "STREETS": "LIANA PL, SAWREYS RD",
+        "SUBURBS": "FOREST GLEN"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715633400.505149"
+  "extracted": "1715633700.490195"
 }
