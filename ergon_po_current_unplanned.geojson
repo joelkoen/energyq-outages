@@ -415,6 +415,95 @@
           {
             "type": "Point",
             "coordinates": [
+              145.833414,
+              -18.45042
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.776597,
+                  -18.421325
+                ],
+                [
+                  145.846944,
+                  -18.469672
+                ],
+                [
+                  145.847086,
+                  -18.469739
+                ],
+                [
+                  145.884532,
+                  -18.48033
+                ],
+                [
+                  145.884972,
+                  -18.480242
+                ],
+                [
+                  145.890275,
+                  -18.47597
+                ],
+                [
+                  145.890395,
+                  -18.475427
+                ],
+                [
+                  145.870172,
+                  -18.435638
+                ],
+                [
+                  145.869976,
+                  -18.43544
+                ],
+                [
+                  145.861354,
+                  -18.430888
+                ],
+                [
+                  145.861185,
+                  -18.430836
+                ],
+                [
+                  145.776934,
+                  -18.42051
+                ],
+                [
+                  145.776433,
+                  -18.420792
+                ],
+                [
+                  145.776597,
+                  -18.421325
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8507",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "80",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:04PM 13 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ABERGOWRIE RD, BULLOCK CREEK RD, CANTAMESSAS RD, CAPRAS RD, CELOTTOS RD, HANSENS RD, KOALA ST, KOKODA RD, MAIN ST, MCCARTHYS RD, OLD GOWRIE RD, ROSEVALE RD, VENABLES RD, WOMBAT ST",
+        "SUBURBS": "ABERGOWRIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.489307,
               -27.937811
             ]
@@ -467,110 +556,9 @@
         "STREETS": "MILLMERRAN LEYBURN RD, OWEN SCRUB RD",
         "SUBURBS": "LEYBURN, YANDILLA"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              152.485429,
-              -24.881387
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.481843,
-                  -24.879625
-                ],
-                [
-                  152.484499,
-                  -24.884512
-                ],
-                [
-                  152.484558,
-                  -24.884595
-                ],
-                [
-                  152.485546,
-                  -24.88571
-                ],
-                [
-                  152.485772,
-                  -24.885853
-                ],
-                [
-                  152.48685,
-                  -24.886183
-                ],
-                [
-                  152.487244,
-                  -24.886151
-                ],
-                [
-                  152.487324,
-                  -24.886111
-                ],
-                [
-                  152.487497,
-                  -24.885966
-                ],
-                [
-                  152.489054,
-                  -24.883835
-                ],
-                [
-                  152.489058,
-                  -24.883341
-                ],
-                [
-                  152.486877,
-                  -24.880278
-                ],
-                [
-                  152.486828,
-                  -24.88022
-                ],
-                [
-                  152.483203,
-                  -24.87659
-                ],
-                [
-                  152.482354,
-                  -24.876805
-                ],
-                [
-                  152.481801,
-                  -24.879337
-                ],
-                [
-                  152.481843,
-                  -24.879625
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB5638",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "154",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "9:10AM 13 May 2024",
-        "EST_FIX_TIME": "1:30PM 13 May 2024",
-        "STREETS": "ADMIRALTY PL, ARTHUR BROWN CT, ARUNDA ST, BAROLIN ESP, BISDEE ST, BLAKE CL, BOBBY PL, DAISY CT, ESPLANADE, HOMESTEAD BVD, MAJESTIC PL, MARIAN ST, MOKERA ST, PEGGY DR, TARNI ST",
-        "SUBURBS": "CORAL COVE, INNES PARK"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715566200.3597"
+  "extracted": "1715566503.393744"
 }
