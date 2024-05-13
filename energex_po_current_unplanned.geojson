@@ -102,9 +102,114 @@
         "STREETS": "BASNETT ST, HAMILTON RD, MAUNDRELL TCE, SHORDLEY ST",
         "SUBURBS": "CHERMSIDE WEST"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.075969,
+              -27.596181
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.074212,
+                  -27.595801
+                ],
+                [
+                  153.07467,
+                  -27.596325
+                ],
+                [
+                  153.074819,
+                  -27.59644
+                ],
+                [
+                  153.074911,
+                  -27.596487
+                ],
+                [
+                  153.074954,
+                  -27.596506
+                ],
+                [
+                  153.076893,
+                  -27.597283
+                ],
+                [
+                  153.077598,
+                  -27.596957
+                ],
+                [
+                  153.077695,
+                  -27.596511
+                ],
+                [
+                  153.077698,
+                  -27.5965
+                ],
+                [
+                  153.077738,
+                  -27.596286
+                ],
+                [
+                  153.077744,
+                  -27.59624
+                ],
+                [
+                  153.077762,
+                  -27.595982
+                ],
+                [
+                  153.077365,
+                  -27.595514
+                ],
+                [
+                  153.076397,
+                  -27.595323
+                ],
+                [
+                  153.076368,
+                  -27.595318
+                ],
+                [
+                  153.074692,
+                  -27.595078
+                ],
+                [
+                  153.074176,
+                  -27.595294
+                ],
+                [
+                  153.074212,
+                  -27.595801
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-759497-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "45",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "12:46AM 14 May 2024",
+        "EST_FIX_TIME": "2:00AM 14 May 2024",
+        "STREETS": "ABERCORN ST, CLEMATIS CT, EUCALYPTUS CRES, HILL RD",
+        "SUBURBS": "RUNCORN"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715611504.332782"
+  "extracted": "1715611801.246983"
 }
