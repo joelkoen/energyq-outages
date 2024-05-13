@@ -10,75 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              153.188534,
-              -27.838488
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.183317,
-                  -27.84195
-                ],
-                [
-                  153.187805,
-                  -27.841835
-                ],
-                [
-                  153.188167,
-                  -27.841686
-                ],
-                [
-                  153.19424,
-                  -27.835708
-                ],
-                [
-                  153.194249,
-                  -27.835112
-                ],
-                [
-                  153.193586,
-                  -27.835027
-                ],
-                [
-                  153.183026,
-                  -27.84112
-                ],
-                [
-                  153.182818,
-                  -27.841633
-                ],
-                [
-                  153.183317,
-                  -27.84195
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-759415-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "6",
-        "REASON": "Under Investigation",
-        "STATUS": "Awaiting",
-        "START": "5:44PM 13 May 2024",
-        "EST_FIX_TIME": "8:00PM 13 May 2024",
-        "STREETS": "CEDAR CREEK RD, SCHMIDT RD",
-        "SUBURBS": "CEDAR CREEK"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               153.01175,
               -27.384339
             ]
@@ -163,7 +94,7 @@
       "properties": {
         "EVENT_ID": "INCD-759421-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "45",
+        "CUSTOMERS_AFFECTED": "46",
         "REASON": "Under Investigation",
         "STATUS": "Awaiting",
         "START": "6:20PM 13 May 2024",
@@ -171,9 +102,86 @@
         "STREETS": "BASNETT ST, HAMILTON RD, MAUNDRELL TCE, SHORDLEY ST",
         "SUBURBS": "CHERMSIDE WEST"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.045608,
+              -27.669768
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.043472,
+                  -27.67102
+                ],
+                [
+                  153.045375,
+                  -27.671308
+                ],
+                [
+                  153.045798,
+                  -27.6712
+                ],
+                [
+                  153.048126,
+                  -27.669349
+                ],
+                [
+                  153.048017,
+                  -27.668609
+                ],
+                [
+                  153.047163,
+                  -27.668227
+                ],
+                [
+                  153.046677,
+                  -27.668243
+                ],
+                [
+                  153.043399,
+                  -27.669973
+                ],
+                [
+                  153.04319,
+                  -27.670187
+                ],
+                [
+                  153.043089,
+                  -27.6704
+                ],
+                [
+                  153.043472,
+                  -27.67102
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-759425-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "33",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:25PM 13 May 2024",
+        "EST_FIX_TIME": "8:00PM 13 May 2024",
+        "STREETS": "BENNETT DR, DRACON ST, VANSITTART RD",
+        "SUBURBS": "REGENTS PARK"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715588701.460097"
+  "extracted": "1715589002.905145"
 }
