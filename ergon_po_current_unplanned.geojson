@@ -10,6 +10,91 @@
           {
             "type": "Point",
             "coordinates": [
+              148.351845,
+              -22.473367
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.315798,
+                  -22.520051
+                ],
+                [
+                  148.31656,
+                  -22.52327
+                ],
+                [
+                  148.317276,
+                  -22.523565
+                ],
+                [
+                  148.382336,
+                  -22.488883
+                ],
+                [
+                  148.382579,
+                  -22.488527
+                ],
+                [
+                  148.387892,
+                  -22.426286
+                ],
+                [
+                  148.387559,
+                  -22.425821
+                ],
+                [
+                  148.378875,
+                  -22.42317
+                ],
+                [
+                  148.378318,
+                  -22.42335
+                ],
+                [
+                  148.360871,
+                  -22.44788
+                ],
+                [
+                  148.360856,
+                  -22.447902
+                ],
+                [
+                  148.315852,
+                  -22.519727
+                ],
+                [
+                  148.315798,
+                  -22.520051
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6830",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "1:30PM 13 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "GOLDEN MILE RD, SARAJI RD",
+        "SUBURBS": "DYSART"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -224,5 +309,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715575503.050845"
+  "extracted": "1715575801.437915"
 }
