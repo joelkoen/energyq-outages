@@ -119,6 +119,99 @@
           {
             "type": "Point",
             "coordinates": [
+              147.672362,
+              -22.812888
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.669312,
+                  -22.812107
+                ],
+                [
+                  147.669621,
+                  -22.813483
+                ],
+                [
+                  147.669913,
+                  -22.81381
+                ],
+                [
+                  147.67161,
+                  -22.814452
+                ],
+                [
+                  147.671781,
+                  -22.814485
+                ],
+                [
+                  147.674812,
+                  -22.814564
+                ],
+                [
+                  147.675309,
+                  -22.814168
+                ],
+                [
+                  147.675413,
+                  -22.813393
+                ],
+                [
+                  147.675275,
+                  -22.813019
+                ],
+                [
+                  147.673631,
+                  -22.811485
+                ],
+                [
+                  147.673354,
+                  -22.811356
+                ],
+                [
+                  147.672258,
+                  -22.811213
+                ],
+                [
+                  147.672113,
+                  -22.811214
+                ],
+                [
+                  147.669712,
+                  -22.811569
+                ],
+                [
+                  147.669312,
+                  -22.812107
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6859",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:56AM 14 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CHEESEBOROUGH RD, MCMILLANS LANE, MELROSE DR, MELROSE RD",
+        "SUBURBS": "CLERMONT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -333,5 +426,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715634301.376239"
+  "extracted": "1715634601.12282"
 }
