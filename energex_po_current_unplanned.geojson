@@ -1,70 +1,8 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              152.972995,
-              -27.083283
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.972856,
-                  -27.082814
-                ],
-                [
-                  152.972539,
-                  -27.083021
-                ],
-                [
-                  152.972429,
-                  -27.083652
-                ],
-                [
-                  152.973134,
-                  -27.083751
-                ],
-                [
-                  152.973451,
-                  -27.083544
-                ],
-                [
-                  152.973561,
-                  -27.082913
-                ],
-                [
-                  152.972856,
-                  -27.082814
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-9135-h",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "Damage due to severe weather",
-        "STATUS": "Awaiting",
-        "START": "12:56PM 13 May 2024",
-        "EST_FIX_TIME": "7:30PM 13 May 2024",
-        "STREETS": "SUMMERFIELDS DR",
-        "SUBURBS": "CABOOLTURE"
-      }
-    }
-  ],
+  "features": [],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715585701.104866"
+  "extracted": "1715586001.196478"
 }
