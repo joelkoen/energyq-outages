@@ -10,6 +10,115 @@
           {
             "type": "Point",
             "coordinates": [
+              150.727749,
+              -23.141235
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.726157,
+                  -23.141872
+                ],
+                [
+                  150.72632,
+                  -23.142122
+                ],
+                [
+                  150.726614,
+                  -23.142325
+                ],
+                [
+                  150.727082,
+                  -23.142438
+                ],
+                [
+                  150.727139,
+                  -23.142449
+                ],
+                [
+                  150.728898,
+                  -23.142671
+                ],
+                [
+                  150.72941,
+                  -23.142042
+                ],
+                [
+                  150.729291,
+                  -23.141792
+                ],
+                [
+                  150.729283,
+                  -23.141776
+                ],
+                [
+                  150.728395,
+                  -23.140102
+                ],
+                [
+                  150.72826,
+                  -23.139948
+                ],
+                [
+                  150.728058,
+                  -23.139799
+                ],
+                [
+                  150.727447,
+                  -23.139802
+                ],
+                [
+                  150.726456,
+                  -23.140547
+                ],
+                [
+                  150.726311,
+                  -23.140729
+                ],
+                [
+                  150.72613,
+                  -23.141146
+                ],
+                [
+                  150.726095,
+                  -23.141304
+                ],
+                [
+                  150.726088,
+                  -23.14163
+                ],
+                [
+                  150.726157,
+                  -23.141872
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6858",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "25",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:15AM 14 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CARIBBEAN CRES, JAVA CT, TASMAN CRES",
+        "SUBURBS": "YEPPOON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -224,5 +333,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715631901.44364"
+  "extracted": "1715632203.476338"
 }
