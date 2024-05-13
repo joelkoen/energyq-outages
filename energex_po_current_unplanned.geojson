@@ -1,8 +1,78 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.188534,
+              -27.838488
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.183317,
+                  -27.84195
+                ],
+                [
+                  153.187805,
+                  -27.841835
+                ],
+                [
+                  153.188167,
+                  -27.841686
+                ],
+                [
+                  153.19424,
+                  -27.835708
+                ],
+                [
+                  153.194249,
+                  -27.835112
+                ],
+                [
+                  153.193586,
+                  -27.835027
+                ],
+                [
+                  153.183026,
+                  -27.84112
+                ],
+                [
+                  153.182818,
+                  -27.841633
+                ],
+                [
+                  153.183317,
+                  -27.84195
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-759415-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:44PM 13 May 2024",
+        "EST_FIX_TIME": "8:00PM 13 May 2024",
+        "STREETS": "CEDAR CREEK RD, SCHMIDT RD",
+        "SUBURBS": "CEDAR CREEK"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715586001.196478"
+  "extracted": "1715586303.235715"
 }
