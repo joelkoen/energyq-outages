@@ -70,6 +70,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.590096,
+          -24.64647
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5450",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:03AM 14 May 2024",
+        "EST_FIX_TIME": "2:30PM 14 May 2024",
+        "STREETS": "DIAMANTINA DEVELOPMENT RD",
+        "SUBURBS": "BEDOURIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.355008,
           -24.438402
         ]
@@ -147,27 +168,6 @@
         "EST_FIX_TIME": "4:30PM 14 May 2024",
         "STREETS": "BERESFORD CRES, MENZIES ST",
         "SUBURBS": "DYSART"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.510966,
-          -23.08817
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA5750",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:30AM 14 May 2024",
-        "EST_FIX_TIME": "10:30AM 14 May 2024",
-        "STREETS": "CROSSMORE RD, MUTTABURRA RD",
-        "SUBURBS": "LONGREACH"
       }
     },
     {
@@ -1076,5 +1076,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715646900.586823"
+  "extracted": "1715647201.720201"
 }

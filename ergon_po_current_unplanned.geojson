@@ -285,9 +285,118 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.796162,
+              -20.182526
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.367127,
+                  -20.086157
+                ],
+                [
+                  145.367506,
+                  -20.089006
+                ],
+                [
+                  145.367721,
+                  -20.08933
+                ],
+                [
+                  145.874177,
+                  -20.396121
+                ],
+                [
+                  145.874616,
+                  -20.396159
+                ],
+                [
+                  146.114113,
+                  -20.304235
+                ],
+                [
+                  146.114201,
+                  -20.30419
+                ],
+                [
+                  146.187357,
+                  -20.25723
+                ],
+                [
+                  146.187557,
+                  -20.256946
+                ],
+                [
+                  146.225196,
+                  -20.080518
+                ],
+                [
+                  146.224988,
+                  -20.080051
+                ],
+                [
+                  146.219508,
+                  -20.076684
+                ],
+                [
+                  146.219339,
+                  -20.07662
+                ],
+                [
+                  145.810702,
+                  -20.000056
+                ],
+                [
+                  145.810678,
+                  -20.000052
+                ],
+                [
+                  145.588323,
+                  -19.968894
+                ],
+                [
+                  145.588019,
+                  -19.968947
+                ],
+                [
+                  145.367368,
+                  -20.085707
+                ],
+                [
+                  145.367127,
+                  -20.086157
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8546",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "131",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:30AM 14 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BACK CREEK RD, BANAGHER STATION, BARRINGTON STATION, BRACEBOROUGH RD, BRACEBOROUGH STATION, CLERMONT HWY, CONNOLLY RD, CORRAL RD, DIAMANTINA RD, FLINDERS HWY, FLORENCE RD, GAMMA RD, GAMMA STATION, GLENDILLON STATION, HUEY RD, JESMOND RD, JESMOND STATION, JOSH RD, KAPUNDA RD, KRISTY RD, LAKEVIEW STATION, LEAKE RD, LIONTOWN RD, MCARDLE RD, MYOLA RD, MYOLA STATION, OAKLAND STATION, POWLATHANGA RD, POWLATHANGA STATION, RED FALLS RD, REDLANDS STATION, RISDALE RD, SEVERNVALE RD, SOUTHERN CROSS STATION, SOUTHWALK RD, TARANGIE STATION, THALANGA STATION, TOOMBA STATION, ULGULA RD, WINDSOR STATION",
+        "SUBURBS": "BALFES CREEK, BASALT, BLACK JACK, BROUGHTON, CHARTERS TOWERS, SEVENTY MILE RANGE, SOUTHERN CROSS"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715646900.586823"
+  "extracted": "1715647201.720201"
 }
