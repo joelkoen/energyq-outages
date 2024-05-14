@@ -366,6 +366,91 @@
           {
             "type": "Point",
             "coordinates": [
+              145.41208,
+              -17.040812
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.410651,
+                  -17.042739
+                ],
+                [
+                  145.413306,
+                  -17.042747
+                ],
+                [
+                  145.413772,
+                  -17.042358
+                ],
+                [
+                  145.413877,
+                  -17.041636
+                ],
+                [
+                  145.413882,
+                  -17.041584
+                ],
+                [
+                  145.413909,
+                  -17.040502
+                ],
+                [
+                  145.413907,
+                  -17.040449
+                ],
+                [
+                  145.41381,
+                  -17.039457
+                ],
+                [
+                  145.413449,
+                  -17.039059
+                ],
+                [
+                  145.412643,
+                  -17.038877
+                ],
+                [
+                  145.412135,
+                  -17.039082
+                ],
+                [
+                  145.410251,
+                  -17.042052
+                ],
+                [
+                  145.410651,
+                  -17.042739
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6272",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
+        "STATUS": "Crews on route",
+        "START": "2:58PM 14 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "COOLAMON CL",
+        "SUBURBS": "MAREEBA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -430,5 +515,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715664603.267699"
+  "extracted": "1715664901.132982"
 }
