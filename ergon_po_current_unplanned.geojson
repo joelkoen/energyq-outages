@@ -361,9 +361,118 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.859147,
+              -26.69649
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.780725,
+                  -26.788885
+                ],
+                [
+                  150.783499,
+                  -26.811172
+                ],
+                [
+                  150.78429,
+                  -26.811489
+                ],
+                [
+                  150.791952,
+                  -26.806591
+                ],
+                [
+                  150.791969,
+                  -26.80658
+                ],
+                [
+                  150.881652,
+                  -26.743912
+                ],
+                [
+                  150.881685,
+                  -26.743886
+                ],
+                [
+                  150.928737,
+                  -26.704509
+                ],
+                [
+                  150.928892,
+                  -26.70424
+                ],
+                [
+                  150.937571,
+                  -26.647153
+                ],
+                [
+                  150.937573,
+                  -26.647048
+                ],
+                [
+                  150.935309,
+                  -26.626184
+                ],
+                [
+                  150.934991,
+                  -26.625808
+                ],
+                [
+                  150.808543,
+                  -26.581492
+                ],
+                [
+                  150.807954,
+                  -26.581647
+                ],
+                [
+                  150.786231,
+                  -26.608668
+                ],
+                [
+                  150.786136,
+                  -26.60892
+                ],
+                [
+                  150.780722,
+                  -26.788822
+                ],
+                [
+                  150.780725,
+                  -26.788885
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8851",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "70",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:10PM 14 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "A MCINTYRES RD, BOONARGA RD, BRAITHWAITES RD, BRIGALOW-CANAGA RD, BURNCLUITH HALL RD, BURRA BURRI CREEK RD, D ATKINS RD, D MCINTYRES RD, INVERAI RD, LEN MIDDLETON'S RD, MARTIN RD, OLSENS RD, PELICAN BACK RD, PIT RD, RENNICKS RD, STANKES RD, SULLIVANS RD, WIDDONS RD, WONDAI RD, WYCHIE RD",
+        "SUBURBS": "BRIGALOW, CANAGA, CHINCHILLA, EARLE, PELICAN, WYCHIE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715667600.76918"
+  "extracted": "1715667901.198549"
 }
