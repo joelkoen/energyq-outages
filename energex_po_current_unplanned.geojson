@@ -1,8 +1,150 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.473043,
+              -28.122064
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.468106,
+                  -28.117789
+                ],
+                [
+                  153.468439,
+                  -28.118784
+                ],
+                [
+                  153.468466,
+                  -28.118845
+                ],
+                [
+                  153.472637,
+                  -28.1268
+                ],
+                [
+                  153.472758,
+                  -28.126944
+                ],
+                [
+                  153.47296,
+                  -28.127106
+                ],
+                [
+                  153.47304,
+                  -28.127159
+                ],
+                [
+                  153.474763,
+                  -28.128074
+                ],
+                [
+                  153.474948,
+                  -28.128133
+                ],
+                [
+                  153.477369,
+                  -28.128458
+                ],
+                [
+                  153.477953,
+                  -28.128041
+                ],
+                [
+                  153.477997,
+                  -28.127446
+                ],
+                [
+                  153.477981,
+                  -28.1273
+                ],
+                [
+                  153.477333,
+                  -28.125155
+                ],
+                [
+                  153.477285,
+                  -28.125051
+                ],
+                [
+                  153.474361,
+                  -28.120443
+                ],
+                [
+                  153.474337,
+                  -28.120408
+                ],
+                [
+                  153.471674,
+                  -28.116979
+                ],
+                [
+                  153.471666,
+                  -28.116969
+                ],
+                [
+                  153.47104,
+                  -28.116207
+                ],
+                [
+                  153.470741,
+                  -28.116033
+                ],
+                [
+                  153.468936,
+                  -28.11567
+                ],
+                [
+                  153.468319,
+                  -28.116048
+                ],
+                [
+                  153.468217,
+                  -28.116708
+                ],
+                [
+                  153.468216,
+                  -28.116713
+                ],
+                [
+                  153.468088,
+                  -28.117603
+                ],
+                [
+                  153.468106,
+                  -28.117789
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-759771-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1310",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "9:24AM 15 May 2024",
+        "EST_FIX_TIME": "11:30AM 15 May 2024",
+        "STREETS": "CYPRESS TCE, EIGHTH AVE, ELEVENTH AVE, FIFTH AVE, FOURTH AVE, GOLD COAST HWY, HAWAII AVE, JEFFERSON LANE, LEYTE AVE, MOLUCCA AVE, NINTH AVE, PALM BEACH AVE, SECOND AVE, SEVENTH AVE, TENTH AVE, THIRD AVE",
+        "SUBURBS": "PALM BEACH"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715728801.073618"
+  "extracted": "1715729101.285417"
 }
