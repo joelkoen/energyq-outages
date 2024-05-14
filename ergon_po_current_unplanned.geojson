@@ -321,6 +321,71 @@
           {
             "type": "Point",
             "coordinates": [
+              148.693013,
+              -23.445926
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.681673,
+                  -23.451482
+                ],
+                [
+                  148.704791,
+                  -23.441216
+                ],
+                [
+                  148.70504,
+                  -23.440659
+                ],
+                [
+                  148.704468,
+                  -23.44037
+                ],
+                [
+                  148.682918,
+                  -23.444991
+                ],
+                [
+                  148.682555,
+                  -23.445319
+                ],
+                [
+                  148.680986,
+                  -23.450963
+                ],
+                [
+                  148.681673,
+                  -23.451482
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6882",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "1:37PM 14 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "OFF CAPRICORN HWY, OFF LURLINE RD, YACKAM RD",
+        "SUBURBS": "BLACKWATER, COMET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -842,5 +907,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715657700.474198"
+  "extracted": "1715658000.33454"
 }
