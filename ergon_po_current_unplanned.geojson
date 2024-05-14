@@ -431,9 +431,94 @@
         "STREETS": "GUNYARRA RD",
         "SUBURBS": "ANDROMACHE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.801376,
+              -19.242958
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.800353,
+                  -19.243122
+                ],
+                [
+                  146.800382,
+                  -19.243149
+                ],
+                [
+                  146.80047,
+                  -19.243213
+                ],
+                [
+                  146.801799,
+                  -19.243965
+                ],
+                [
+                  146.802518,
+                  -19.243567
+                ],
+                [
+                  146.80251,
+                  -19.243193
+                ],
+                [
+                  146.802486,
+                  -19.243062
+                ],
+                [
+                  146.802356,
+                  -19.242683
+                ],
+                [
+                  146.802101,
+                  -19.242413
+                ],
+                [
+                  146.801037,
+                  -19.241951
+                ],
+                [
+                  146.800389,
+                  -19.242217
+                ],
+                [
+                  146.800234,
+                  -19.242653
+                ],
+                [
+                  146.800353,
+                  -19.243122
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8568",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "32",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews on route",
+        "START": "11:22AM 14 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ISLEY ST, ROSE ST",
+        "SUBURBS": "NORTH WARD"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715651401.62094"
+  "extracted": "1715652004.805424"
 }
