@@ -159,9 +159,126 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.235111,
+              -20.010492
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.232915,
+                  -20.009109
+                ],
+                [
+                  148.233024,
+                  -20.010332
+                ],
+                [
+                  148.233033,
+                  -20.010389
+                ],
+                [
+                  148.233257,
+                  -20.011374
+                ],
+                [
+                  148.233519,
+                  -20.011687
+                ],
+                [
+                  148.234799,
+                  -20.012264
+                ],
+                [
+                  148.234804,
+                  -20.012266
+                ],
+                [
+                  148.235693,
+                  -20.012655
+                ],
+                [
+                  148.236292,
+                  -20.012495
+                ],
+                [
+                  148.237256,
+                  -20.011123
+                ],
+                [
+                  148.237307,
+                  -20.010719
+                ],
+                [
+                  148.236743,
+                  -20.00925
+                ],
+                [
+                  148.236628,
+                  -20.009081
+                ],
+                [
+                  148.235971,
+                  -20.008473
+                ],
+                [
+                  148.235643,
+                  -20.008344
+                ],
+                [
+                  148.234291,
+                  -20.008328
+                ],
+                [
+                  148.234147,
+                  -20.008348
+                ],
+                [
+                  148.233412,
+                  -20.008558
+                ],
+                [
+                  148.233323,
+                  -20.008592
+                ],
+                [
+                  148.233164,
+                  -20.008673
+                ],
+                [
+                  148.232915,
+                  -20.009109
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8593",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "66",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:45PM 14 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BUNTING ST, DON ST, LEICHHARDT LANE, LEICHHARDT ST, LIVINGSTONE ST, MITCHELL ST, REYNOLDS ST",
+        "SUBURBS": "BOWEN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715680501.336347"
+  "extracted": "1715681101.312629"
 }
