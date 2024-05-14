@@ -665,67 +665,6 @@
           {
             "type": "Point",
             "coordinates": [
-              148.483883,
-              -20.557315
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  148.483872,
-                  -20.554201
-                ],
-                [
-                  148.482945,
-                  -20.5603
-                ],
-                [
-                  148.483351,
-                  -20.560811
-                ],
-                [
-                  148.483894,
-                  -20.560428
-                ],
-                [
-                  148.484821,
-                  -20.554329
-                ],
-                [
-                  148.484414,
-                  -20.553818
-                ],
-                [
-                  148.483872,
-                  -20.554201
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK4278",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "11:28AM 14 May 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "GUNYARRA RD",
-        "SUBURBS": "ANDROMACHE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               146.768675,
               -19.283837
             ]
@@ -897,9 +836,9 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "32",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "11:22AM 14 May 2024",
-        "EST_FIX_TIME": "4:00PM 14 May 2024",
+        "EST_FIX_TIME": "1:44PM 14 May 2024",
         "STREETS": "ISLEY ST, ROSE ST",
         "SUBURBS": "NORTH WARD"
       }
@@ -907,5 +846,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715658000.33454"
+  "extracted": "1715658304.234514"
 }
