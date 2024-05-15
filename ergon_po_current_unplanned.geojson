@@ -276,9 +276,62 @@
         "STREETS": "BUNTING ST, DON ST, LEICHHARDT LANE, LEICHHARDT ST, LIVINGSTONE ST, MITCHELL ST, REYNOLDS ST",
         "SUBURBS": "BOWEN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.589789,
+              -18.72206
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.590264,
+                  -18.722061
+                ],
+                [
+                  146.58979,
+                  -18.721608
+                ],
+                [
+                  146.589315,
+                  -18.722059
+                ],
+                [
+                  146.589788,
+                  -18.722512
+                ],
+                [
+                  146.590264,
+                  -18.722061
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8612",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "11:44PM 14 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MAYTOWN CRES, SOLOMON DAM RD, WILSON ST",
+        "SUBURBS": "PALM ISLAND"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715734500.368606"
+  "extracted": "1715734801.651063"
 }
