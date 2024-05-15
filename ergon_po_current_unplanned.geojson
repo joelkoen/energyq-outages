@@ -401,9 +401,118 @@
         "STREETS": "ARTHUR CREEK RD, BRAUERS RD, BUCHBACH RD, BUNDABERG - LOWMEAD RD, CALLAGHAN ST, CATTLE STATION RD, DIAMOND HILL RD, FERRY RD, FORESTRY RD, FREWENS RD, GRILLS RD, HILL ST, HINRICHS RD, HIPATHITE RD, JAMES ST, LEABONS RD, LITTLE ST, LLOYD JONES RD, LOWER WATERLOO RD, MAISEYS RD, MARGETTS RD, MATTONS RD, MCGHEES RD, MCPHERSON ST, MINERAL RD, MOLLENHAGENS RD, MONDURAN RD, MOOLYUNG RD, NEILS RD, NEWITTS RD, OLSEN LANE, PARK ST, PETERSENS RD, QUARRY RD, ROSEDALE RD, ROWS RD, SHOWGROUNDS RD, SLAUGHTER YARDS RD, STEGEMANS RD, STIRRAT ST, TINDELS RD, TOP WATERLOO RD, WAREE RD, WATALGAN RD, WATERLOO HALL RD, WATERLOO RD, WATERLOO-WATALGAN RD, WATSON RD, WILLS RD, WINFIELD RD",
         "SUBURBS": "AVONDALE, BERAJONDO, BUCCA, MOUNT WATALGAN, ROSEDALE, WATALGAN, WATERLOO, WINFIELD, YANDARAN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.326515,
+              -24.873513
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.323855,
+                  -24.873927
+                ],
+                [
+                  152.324015,
+                  -24.875057
+                ],
+                [
+                  152.324274,
+                  -24.875397
+                ],
+                [
+                  152.324871,
+                  -24.875684
+                ],
+                [
+                  152.325077,
+                  -24.875735
+                ],
+                [
+                  152.326707,
+                  -24.875806
+                ],
+                [
+                  152.327115,
+                  -24.875639
+                ],
+                [
+                  152.329156,
+                  -24.87333
+                ],
+                [
+                  152.329175,
+                  -24.872789
+                ],
+                [
+                  152.328075,
+                  -24.871367
+                ],
+                [
+                  152.327462,
+                  -24.871219
+                ],
+                [
+                  152.327229,
+                  -24.871319
+                ],
+                [
+                  152.327167,
+                  -24.871351
+                ],
+                [
+                  152.325858,
+                  -24.87214
+                ],
+                [
+                  152.325846,
+                  -24.872147
+                ],
+                [
+                  152.324892,
+                  -24.872759
+                ],
+                [
+                  152.324831,
+                  -24.872805
+                ],
+                [
+                  152.323999,
+                  -24.873547
+                ],
+                [
+                  152.323855,
+                  -24.873927
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5727",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "85",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "4:40PM 15 May 2024",
+        "EST_FIX_TIME": "6:00PM 15 May 2024",
+        "STREETS": "BOURBONG ST, BYRNE ST, ISAMBERT LANE, KOKODA ST, OCONNELL ST, PARKER ST, PENNY ST, WOONGARRA ST",
+        "SUBURBS": "BUNDABERG, MILLBANK"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715755201.134968"
+  "extracted": "1715755503.335128"
 }
