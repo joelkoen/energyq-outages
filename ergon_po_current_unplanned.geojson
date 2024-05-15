@@ -168,6 +168,91 @@
           {
             "type": "Point",
             "coordinates": [
+              148.416011,
+              -26.857666
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.298554,
+                  -26.916168
+                ],
+                [
+                  148.421035,
+                  -26.987207
+                ],
+                [
+                  148.421315,
+                  -26.987279
+                ],
+                [
+                  148.533199,
+                  -26.985981
+                ],
+                [
+                  148.533691,
+                  -26.98547
+                ],
+                [
+                  148.530406,
+                  -26.963635
+                ],
+                [
+                  148.530362,
+                  -26.963502
+                ],
+                [
+                  148.428906,
+                  -26.771291
+                ],
+                [
+                  148.428676,
+                  -26.771081
+                ],
+                [
+                  148.332836,
+                  -26.728052
+                ],
+                [
+                  148.332115,
+                  -26.728384
+                ],
+                [
+                  148.298331,
+                  -26.915717
+                ],
+                [
+                  148.298554,
+                  -26.916168
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8909",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "4:09PM 15 May 2024",
+        "EST_FIX_TIME": "8:00PM 15 May 2024",
+        "STREETS": "BULLAGAI RD, DUNKELD RD, HIDDENVALE RD, MIRRABOOKA RD, MOONYA LANE, MT ABUNDANCE RD, STINSON RD, TANNABY RD",
+        "SUBURBS": "MUCKADILLA, ROMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.995883,
               -24.665994
             ]
@@ -320,5 +405,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715753401.313337"
+  "extracted": "1715753702.072148"
 }
