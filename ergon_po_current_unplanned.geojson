@@ -10,6 +10,75 @@
           {
             "type": "Point",
             "coordinates": [
+              148.828572,
+              -23.392698
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.821886,
+                  -23.392629
+                ],
+                [
+                  148.830476,
+                  -23.404831
+                ],
+                [
+                  148.831343,
+                  -23.404746
+                ],
+                [
+                  148.835325,
+                  -23.395151
+                ],
+                [
+                  148.835282,
+                  -23.394747
+                ],
+                [
+                  148.82553,
+                  -23.380565
+                ],
+                [
+                  148.82464,
+                  -23.380708
+                ],
+                [
+                  148.821819,
+                  -23.392284
+                ],
+                [
+                  148.821886,
+                  -23.392629
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6961",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:11PM 15 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "OFF WEIR RD, WEIR RD",
+        "SUBURBS": "BLACKWATER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -514,5 +583,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715757001.020819"
+  "extracted": "1715757304.440151"
 }
