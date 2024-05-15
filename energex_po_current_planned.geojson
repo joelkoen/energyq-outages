@@ -373,7 +373,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "6",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "Cancelled",
         "START": "8:00PM 15 May 2024",
         "EST_FIX_TIME": "3:30AM 16 May 2024",
         "STREETS": "MILTON RD",
@@ -462,27 +462,6 @@
         "EST_FIX_TIME": "3:00PM 15 May 2024",
         "STREETS": "EDEN AVE",
         "SUBURBS": "COOLANGATTA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.929355,
-          -26.799754
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-755750-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
-        "START": "8:00AM 15 May 2024",
-        "EST_FIX_TIME": "3:00PM 15 May 2024",
-        "STREETS": "UPPER MT MELLUM RD",
-        "SUBURBS": "MOUNT MELLUM"
       }
     },
     {
@@ -883,9 +862,30 @@
         "STREETS": "LANDSBOROUGH-MALENY RD, MT MELLUM RD, OCEAN VIEW RD, UPPER MT MELLUM RD",
         "SUBURBS": "MOUNT MELLUM"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.004252,
+          -27.468858
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-759893-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00PM 15 May 2024",
+        "EST_FIX_TIME": "3:30AM 16 May 2024",
+        "STREETS": "MILTON RD",
+        "SUBURBS": "MILTON"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715752501.767135"
+  "extracted": "1715752801.61853"
 }
