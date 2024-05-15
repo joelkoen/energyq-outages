@@ -70,6 +70,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          149.684566,
+          -23.647934
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5260",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "64",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 16 May 2024",
+        "EST_FIX_TIME": "2:30PM 16 May 2024",
+        "STREETS": "ALICE ST, APIS CREEK RD, CHARLOTTE ST, EDWARD ST, ELIZABETH ST, KING ST, LUTZOW RD, MARGARET ST, MONOMEATH RD, OFF ALICE ST, OFF ANN ST, OFF ELIZABETH ST, OUSTON ACCESS RD, PRINCESS ST, VICTORIA ST, WILLIAM ST",
+        "SUBURBS": "DUARINGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.855066,
           -23.484676
         ]
@@ -3262,48 +3283,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.20402,
-          -24.798387
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB5022",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:00AM 16 May 2024",
-        "EST_FIX_TIME": "2:00PM 16 May 2024",
-        "STREETS": "QUINNS RD",
-        "SUBURBS": "MOORLAND"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.204107,
-          -24.800917
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB5025",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:00AM 16 May 2024",
-        "EST_FIX_TIME": "2:00PM 16 May 2024",
-        "STREETS": "QUINNS RD",
-        "SUBURBS": "MOORLAND"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           152.666777,
           -25.508946
         ]
@@ -3617,5 +3596,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1715816401.256021"
+  "extracted": "1715816703.57382"
 }
