@@ -99,6 +99,87 @@
           {
             "type": "Point",
             "coordinates": [
+              145.968044,
+              -17.542266
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.963996,
+                  -17.545101
+                ],
+                [
+                  145.964564,
+                  -17.546354
+                ],
+                [
+                  145.965136,
+                  -17.546606
+                ],
+                [
+                  145.967483,
+                  -17.545902
+                ],
+                [
+                  145.967731,
+                  -17.545727
+                ],
+                [
+                  145.971066,
+                  -17.541071
+                ],
+                [
+                  145.97112,
+                  -17.540973
+                ],
+                [
+                  145.972093,
+                  -17.538461
+                ],
+                [
+                  145.97191,
+                  -17.537926
+                ],
+                [
+                  145.971326,
+                  -17.537977
+                ],
+                [
+                  145.964103,
+                  -17.544594
+                ],
+                [
+                  145.963996,
+                  -17.545101
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6333",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:41PM 15 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "PALMERSTON HWY, QUARRY RD, SPANNAGLE RD",
+        "SUBURBS": "PIN GIN HILL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -163,5 +244,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715773201.236974"
+  "extracted": "1715773502.598225"
 }
