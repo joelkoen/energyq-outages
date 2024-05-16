@@ -249,6 +249,103 @@
           {
             "type": "Point",
             "coordinates": [
+              145.779834,
+              -17.067109
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.776554,
+                  -17.066627
+                ],
+                [
+                  145.776667,
+                  -17.067244
+                ],
+                [
+                  145.777062,
+                  -17.067614
+                ],
+                [
+                  145.777279,
+                  -17.067644
+                ],
+                [
+                  145.777298,
+                  -17.067646
+                ],
+                [
+                  145.779163,
+                  -17.067829
+                ],
+                [
+                  145.779169,
+                  -17.067829
+                ],
+                [
+                  145.779554,
+                  -17.067862
+                ],
+                [
+                  145.779554,
+                  -17.067862
+                ],
+                [
+                  145.78261,
+                  -17.068118
+                ],
+                [
+                  145.783115,
+                  -17.067735
+                ],
+                [
+                  145.782749,
+                  -17.067226
+                ],
+                [
+                  145.777623,
+                  -17.066167
+                ],
+                [
+                  145.777582,
+                  -17.06616
+                ],
+                [
+                  145.777074,
+                  -17.0661
+                ],
+                [
+                  145.776554,
+                  -17.066627
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6350",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:53AM 16 May 2024",
+        "EST_FIX_TIME": "1:00PM 16 May 2024",
+        "STREETS": "HALL RD, LITTLES RD",
+        "SUBURBS": "GORDONVALE, MERINGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -483,5 +580,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715820601.171353"
+  "extracted": "1715820900.387028"
 }
