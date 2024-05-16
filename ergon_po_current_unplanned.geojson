@@ -88,9 +88,9 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "17",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "2:04PM 16 May 2024",
-        "EST_FIX_TIME": "4:00PM 16 May 2024",
+        "EST_FIX_TIME": "5:00PM 16 May 2024",
         "STREETS": "ALBERT ST, ANN ST, EDWARD ST, OLGA ST, VICTORIA ST",
         "SUBURBS": "DUARINGA"
       }
@@ -486,9 +486,98 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.899179,
+              -25.325443
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.894757,
+                  -25.325248
+                ],
+                [
+                  152.894847,
+                  -25.326836
+                ],
+                [
+                  152.895281,
+                  -25.327259
+                ],
+                [
+                  152.897719,
+                  -25.32753
+                ],
+                [
+                  152.897954,
+                  -25.327505
+                ],
+                [
+                  152.901754,
+                  -25.326196
+                ],
+                [
+                  152.901977,
+                  -25.326043
+                ],
+                [
+                  152.90358,
+                  -25.324064
+                ],
+                [
+                  152.903602,
+                  -25.32356
+                ],
+                [
+                  152.903094,
+                  -25.323355
+                ],
+                [
+                  152.89922,
+                  -25.323987
+                ],
+                [
+                  152.899203,
+                  -25.32399
+                ],
+                [
+                  152.895147,
+                  -25.324786
+                ],
+                [
+                  152.894757,
+                  -25.325248
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5766",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "20",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "4:10PM 16 May 2024",
+        "EST_FIX_TIME": "5:30PM 16 May 2024",
+        "STREETS": "SHORE RD E",
+        "SUBURBS": "BOORAL"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715839203.247001"
+  "extracted": "1715839500.507739"
 }
