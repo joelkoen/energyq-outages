@@ -10,6 +10,99 @@
           {
             "type": "Point",
             "coordinates": [
+              149.671984,
+              -23.710727
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.664897,
+                  -23.712976
+                ],
+                [
+                  149.668973,
+                  -23.713253
+                ],
+                [
+                  149.668995,
+                  -23.713254
+                ],
+                [
+                  149.669883,
+                  -23.713278
+                ],
+                [
+                  149.670094,
+                  -23.71324
+                ],
+                [
+                  149.670847,
+                  -23.712936
+                ],
+                [
+                  149.670871,
+                  -23.712926
+                ],
+                [
+                  149.679256,
+                  -23.709029
+                ],
+                [
+                  149.67951,
+                  -23.708517
+                ],
+                [
+                  149.679024,
+                  -23.708175
+                ],
+                [
+                  149.67151,
+                  -23.708336
+                ],
+                [
+                  149.671264,
+                  -23.708403
+                ],
+                [
+                  149.664676,
+                  -23.712142
+                ],
+                [
+                  149.664457,
+                  -23.712633
+                ],
+                [
+                  149.664897,
+                  -23.712976
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6995",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "2:04PM 16 May 2024",
+        "EST_FIX_TIME": "4:00PM 16 May 2024",
+        "STREETS": "ALBERT ST, ANN ST, EDWARD ST, OLGA ST, VICTORIA ST",
+        "SUBURBS": "DUARINGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -332,102 +425,9 @@
         "STREETS": "ACACIA RD, ALICE ST, ALMA ST, ANABRANCH RD, ANDERSSEN ST, ARGAET ST, ATKINSON AVE, BARBAGALLO'S RD, BARRAMUNDI ST, BLUE BUTTERFLY RD, BOAT RAMP RD, BREAM ST, BRUCE HWY, BRUCE PDE, BULLOCK PADDOCK RD, CARR CRES, CARUSO'S RD, CHATMANS RD, CHRISTIES RD, COOKS LANE, CORDELIA SCHOOL RD, CRISPS RD, DENNEY ST, DOLPHIN CRES, DUNGENESS RD, ECHIDNA ST, EDDLESTON DR, FARRELL DR, FERRARIS RD, FERRERO ST, FISSORES RD, FIVE MILE RD, FORRESTHOME RD, FOUR MILE RD, FRACCHIA'S RD, FULTON DR, GANGEMI'S RD, GANGEMIS RD, GIRGENTIS RD, GOLF LINKS RD, GOSSNER ST, GROPER ST, GRUNTER ST, HALIFAX RD, HERRING ST, HERRON ST, HINCHINBROOK CT, HOBBS ST, HOFFENSETZ ST, JESSUP AVE, JOHN DORY ST, JONES RD, KANGAROO ST, KEAST ST, KEMPS RD, LUCINDA RD, MACKNADE MILL, MACMILLANS RD, MACROSSAN ST, MAHONYS RD, MAMBRINI ST, MANDA RD, MARBELLI ST, MARINIS RD, MERRYBANK RD, MILL RD, MONA RD, MORAVCIKS RD, MORLEYS RD, MT CUDMORE RD, MT GARDINER RD, MUSGRAVE ST, NEAMES INLET RD, OGG ST, OLD WHARF RD, PARRAVICINIS RD, PATTERSON PDE, PEARSON ST, QUARRY RD, REITANO'S RD, RIGBY ST, RIVER AVE, RIVER RD, RIVERDOWNS DR, ROSENDAHL ST, RUPP ST, SALMON ST, SARDINE ST, SCHOOL RD, SCOTT ST, SCUDERI'S RD, SEYMOUR RD, SHAWS AVE, SPENCER ST, STEPHENSEN AVE, STEPHENSONS RD, TAYLORS BEACH RD, TREVALLY ST, TROUT ST, UFERS RD, VALLE'S RD, VASS ST, VELLA'S RD, VICTORIA MILL, VICTORIA TCE, VITALES RD, WARING ST, WHITING ST",
         "SUBURBS": "BEMERSIDE, BLACKROCK, BRAEMEADOWS, CARDWELL RANGE, CORDELIA, FORREST HOME, HALIFAX, INGHAM, LUCINDA, MACKNADE, RUNGOO, TAYLORS BEACH, VICTORIA ESTATE"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              150.523313,
-              -27.225034
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  150.484152,
-                  -27.255214
-                ],
-                [
-                  150.493905,
-                  -27.25777
-                ],
-                [
-                  150.494197,
-                  -27.257768
-                ],
-                [
-                  150.551481,
-                  -27.241877
-                ],
-                [
-                  150.551798,
-                  -27.241618
-                ],
-                [
-                  150.558846,
-                  -27.226303
-                ],
-                [
-                  150.558865,
-                  -27.226253
-                ],
-                [
-                  150.561239,
-                  -27.218716
-                ],
-                [
-                  150.561247,
-                  -27.218686
-                ],
-                [
-                  150.562789,
-                  -27.212024
-                ],
-                [
-                  150.56251,
-                  -27.211525
-                ],
-                [
-                  150.516701,
-                  -27.192297
-                ],
-                [
-                  150.51603,
-                  -27.192516
-                ],
-                [
-                  150.483836,
-                  -27.254591
-                ],
-                [
-                  150.484152,
-                  -27.255214
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW8939",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "52",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
-        "START": "10:28AM 16 May 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "ARNOLDS RD, BISLEY RD, KOGAN RD, RIDGE RD",
-        "SUBURBS": "TARA"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715832002.790464"
+  "extracted": "1715832600.543914"
 }
