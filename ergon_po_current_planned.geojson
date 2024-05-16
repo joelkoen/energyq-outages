@@ -217,6 +217,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.414498,
+          -16.356085
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5742",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:35AM 17 May 2024",
+        "EST_FIX_TIME": "2:30PM 17 May 2024",
+        "STREETS": "JANBAL ST, MARLIN DR",
+        "SUBURBS": "WONGA BEACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.480036,
           -17.254571
         ]
@@ -647,7 +668,7 @@
         "CUSTOMERS_AFFECTED": "62",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 17 May 2024",
+        "START": "8:34AM 17 May 2024",
         "EST_FIX_TIME": "2:00PM 17 May 2024",
         "STREETS": "BLAKES RD, CONNOLLY DAM RD, HOMESTEAD RD, KINGSLEIGH RD, MAHERS RD, MORGAN PARK RD, NEW ENGLAND HWY, ROSENTHAL RD, SCRYMGEOUR RD, SMELTER RD",
         "SUBURBS": "MORGAN PARK, ROSENTHAL, ROSENTHAL HEIGHTS, WARWICK, WILDASH"
@@ -845,5 +866,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715898900.315098"
+  "extracted": "1715899200.341108"
 }
