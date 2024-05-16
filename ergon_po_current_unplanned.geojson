@@ -260,9 +260,134 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.364017,
+              -24.893528
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.361709,
+                  -24.892785
+                ],
+                [
+                  152.361744,
+                  -24.893096
+                ],
+                [
+                  152.361763,
+                  -24.893183
+                ],
+                [
+                  152.362263,
+                  -24.894675
+                ],
+                [
+                  152.36246,
+                  -24.894917
+                ],
+                [
+                  152.363159,
+                  -24.895345
+                ],
+                [
+                  152.363631,
+                  -24.895383
+                ],
+                [
+                  152.364894,
+                  -24.894881
+                ],
+                [
+                  152.364897,
+                  -24.89488
+                ],
+                [
+                  152.365313,
+                  -24.894712
+                ],
+                [
+                  152.36532,
+                  -24.894709
+                ],
+                [
+                  152.365542,
+                  -24.894615
+                ],
+                [
+                  152.365792,
+                  -24.894375
+                ],
+                [
+                  152.366324,
+                  -24.893173
+                ],
+                [
+                  152.366079,
+                  -24.892599
+                ],
+                [
+                  152.363949,
+                  -24.891674
+                ],
+                [
+                  152.363531,
+                  -24.891672
+                ],
+                [
+                  152.362887,
+                  -24.891942
+                ],
+                [
+                  152.362883,
+                  -24.891944
+                ],
+                [
+                  152.362297,
+                  -24.892196
+                ],
+                [
+                  152.36229,
+                  -24.892199
+                ],
+                [
+                  152.361983,
+                  -24.892336
+                ],
+                [
+                  152.361709,
+                  -24.892785
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5770",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "73",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:05PM 16 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRADY ST, COLE ST, DEEGAN CT, GAMMIE CT, MARSHALL ST, MCCARTHY RD, MCGILL CRES, TASKE ST, VANDENBERG ST",
+        "SUBURBS": "AVENELL HEIGHTS, THABEBAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715857801.222528"
+  "extracted": "1715858103.838954"
 }
