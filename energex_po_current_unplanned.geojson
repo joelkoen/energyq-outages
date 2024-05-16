@@ -1,8 +1,62 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.847893,
+              -27.485207
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.848399,
+                  -27.485208
+                ],
+                [
+                  152.847894,
+                  -27.484756
+                ],
+                [
+                  152.847387,
+                  -27.485207
+                ],
+                [
+                  152.847893,
+                  -27.485659
+                ],
+                [
+                  152.848399,
+                  -27.485208
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-760030-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "11:47AM 16 May 2024",
+        "EST_FIX_TIME": "1:30PM 16 May 2024",
+        "STREETS": "PACEY RD",
+        "SUBURBS": "UPPER BROOKFIELD"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715826301.317329"
+  "extracted": "1715826901.335057"
 }
