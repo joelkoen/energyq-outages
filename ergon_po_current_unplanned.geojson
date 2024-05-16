@@ -386,9 +386,102 @@
         "STREETS": "ALBANY DOWNS RD, EAST MARANOA RD, MIDDLE RD, MITCHELL ST GEORGE RD, MYOLA RD",
         "SUBURBS": "MITCHELL"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.523313,
+              -27.225034
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.484152,
+                  -27.255214
+                ],
+                [
+                  150.493905,
+                  -27.25777
+                ],
+                [
+                  150.494197,
+                  -27.257768
+                ],
+                [
+                  150.551481,
+                  -27.241877
+                ],
+                [
+                  150.551798,
+                  -27.241618
+                ],
+                [
+                  150.558846,
+                  -27.226303
+                ],
+                [
+                  150.558865,
+                  -27.226253
+                ],
+                [
+                  150.561239,
+                  -27.218716
+                ],
+                [
+                  150.561247,
+                  -27.218686
+                ],
+                [
+                  150.562789,
+                  -27.212024
+                ],
+                [
+                  150.56251,
+                  -27.211525
+                ],
+                [
+                  150.516701,
+                  -27.192297
+                ],
+                [
+                  150.51603,
+                  -27.192516
+                ],
+                [
+                  150.483836,
+                  -27.254591
+                ],
+                [
+                  150.484152,
+                  -27.255214
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8939",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "52",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:28AM 16 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARNOLDS RD, BISLEY RD, KOGAN RD, RIDGE RD",
+        "SUBURBS": "TARA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715819402.726514"
+  "extracted": "1715819700.486414"
 }
