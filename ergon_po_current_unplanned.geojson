@@ -232,6 +232,111 @@
           {
             "type": "Point",
             "coordinates": [
+              150.555042,
+              -24.417996
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.550159,
+                  -24.422381
+                ],
+                [
+                  150.55079,
+                  -24.422431
+                ],
+                [
+                  150.551119,
+                  -24.422348
+                ],
+                [
+                  150.553982,
+                  -24.42047
+                ],
+                [
+                  150.554005,
+                  -24.420453
+                ],
+                [
+                  150.554579,
+                  -24.420027
+                ],
+                [
+                  150.554599,
+                  -24.420012
+                ],
+                [
+                  150.559032,
+                  -24.41635
+                ],
+                [
+                  150.559138,
+                  -24.416224
+                ],
+                [
+                  150.559928,
+                  -24.41484
+                ],
+                [
+                  150.559957,
+                  -24.414779
+                ],
+                [
+                  150.560219,
+                  -24.414085
+                ],
+                [
+                  150.560024,
+                  -24.413561
+                ],
+                [
+                  150.559422,
+                  -24.413604
+                ],
+                [
+                  150.551326,
+                  -24.420348
+                ],
+                [
+                  150.551321,
+                  -24.420353
+                ],
+                [
+                  150.549865,
+                  -24.421603
+                ],
+                [
+                  150.550159,
+                  -24.422381
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7005",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "22",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:20PM 16 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BAILEYS LANE",
+        "SUBURBS": "BILOELA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -385,5 +490,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715837701.179624"
+  "extracted": "1715838001.193396"
 }
