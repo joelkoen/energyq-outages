@@ -159,9 +159,62 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.895024,
+              -25.31803
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.895518,
+                  -25.31801
+                ],
+                [
+                  152.895002,
+                  -25.317581
+                ],
+                [
+                  152.89453,
+                  -25.31805
+                ],
+                [
+                  152.895046,
+                  -25.318479
+                ],
+                [
+                  152.895518,
+                  -25.31801
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5768",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:34PM 16 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOORAL RD",
+        "SUBURBS": "URANGAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715846405.978792"
+  "extracted": "1715846701.316423"
 }
