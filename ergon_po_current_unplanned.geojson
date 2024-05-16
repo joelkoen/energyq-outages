@@ -244,6 +244,139 @@
           {
             "type": "Point",
             "coordinates": [
+              151.051174,
+              -24.753558
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.962004,
+                  -24.660984
+                ],
+                [
+                  150.972271,
+                  -24.785024
+                ],
+                [
+                  150.972326,
+                  -24.7852
+                ],
+                [
+                  151.005195,
+                  -24.842117
+                ],
+                [
+                  151.005557,
+                  -24.842353
+                ],
+                [
+                  151.116957,
+                  -24.857883
+                ],
+                [
+                  151.117173,
+                  -24.857869
+                ],
+                [
+                  151.118869,
+                  -24.857404
+                ],
+                [
+                  151.118923,
+                  -24.857386
+                ],
+                [
+                  151.124734,
+                  -24.855097
+                ],
+                [
+                  151.124918,
+                  -24.854971
+                ],
+                [
+                  151.14023,
+                  -24.83815
+                ],
+                [
+                  151.140343,
+                  -24.837846
+                ],
+                [
+                  151.139834,
+                  -24.82479
+                ],
+                [
+                  151.139794,
+                  -24.824628
+                ],
+                [
+                  151.139376,
+                  -24.823743
+                ],
+                [
+                  151.139371,
+                  -24.823733
+                ],
+                [
+                  151.061268,
+                  -24.66879
+                ],
+                [
+                  151.061247,
+                  -24.668752
+                ],
+                [
+                  151.058837,
+                  -24.664955
+                ],
+                [
+                  151.058518,
+                  -24.664741
+                ],
+                [
+                  150.982747,
+                  -24.649233
+                ],
+                [
+                  150.982381,
+                  -24.649289
+                ],
+                [
+                  150.962238,
+                  -24.660566
+                ],
+                [
+                  150.962004,
+                  -24.660984
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7010",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "224",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:06PM 16 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BERT'S RD, BURNETT HWY, CANIA RD, CEDAR CREEK RD, CLONMEL RD, COPPIN RD, GLADSTONE RD, GLEN VALLEY RD, LARSENS RD, MACKS RD, MILL RD, OFF BURNETT HWY, OFF CANIA RD, PHIL MARSHALL DR, POWERS RD, ROTH'S RD, SCRUBBY MOUNTAIN RD, STAATZ CROSSING RD, WASHPOOL RD, WONGALEE RD, YARROL RD, YOULAMBIE RD",
+        "SUBURBS": "MONTO, MOONFORD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -397,5 +530,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715843101.181143"
+  "extracted": "1715843401.717344"
 }
