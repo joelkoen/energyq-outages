@@ -103,6 +103,135 @@
           {
             "type": "Point",
             "coordinates": [
+              150.498941,
+              -23.372834
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.495667,
+                  -23.371901
+                ],
+                [
+                  150.495861,
+                  -23.372835
+                ],
+                [
+                  150.496109,
+                  -23.373147
+                ],
+                [
+                  150.500674,
+                  -23.375427
+                ],
+                [
+                  150.500678,
+                  -23.375429
+                ],
+                [
+                  150.50102,
+                  -23.375596
+                ],
+                [
+                  150.501332,
+                  -23.375641
+                ],
+                [
+                  150.501841,
+                  -23.375559
+                ],
+                [
+                  150.502218,
+                  -23.374967
+                ],
+                [
+                  150.501788,
+                  -23.373823
+                ],
+                [
+                  150.501772,
+                  -23.373786
+                ],
+                [
+                  150.501361,
+                  -23.372944
+                ],
+                [
+                  150.501324,
+                  -23.372881
+                ],
+                [
+                  150.500797,
+                  -23.372141
+                ],
+                [
+                  150.500731,
+                  -23.372067
+                ],
+                [
+                  150.499008,
+                  -23.370509
+                ],
+                [
+                  150.498748,
+                  -23.370386
+                ],
+                [
+                  150.49645,
+                  -23.370027
+                ],
+                [
+                  150.495906,
+                  -23.370326
+                ],
+                [
+                  150.495863,
+                  -23.370443
+                ],
+                [
+                  150.495841,
+                  -23.370529
+                ],
+                [
+                  150.495738,
+                  -23.371239
+                ],
+                [
+                  150.495663,
+                  -23.371757
+                ],
+                [
+                  150.495667,
+                  -23.371901
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6997",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "158",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "4:00PM 16 May 2024",
+        "EST_FIX_TIME": "8:00PM 16 May 2024",
+        "STREETS": "ARROW ST, BADEN POWELL ST, BAPAUME ST, CALLAN ST, CAMPBELL LANE, GEORGE ST, GILLESPIE ST, HARDACRE ST, MURRAY ST, NORTH ST, RUNDLE ST, WOODVILLE ST",
+        "SUBURBS": "ROCKHAMPTON, ROCKHAMPTON CITY, WANDAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -256,5 +385,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715836801.721624"
+  "extracted": "1715837101.607416"
 }
