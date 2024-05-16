@@ -212,9 +212,82 @@
         "STREETS": "BOORAL RD",
         "SUBURBS": "URANGAN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.896866,
+              -25.322084
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.895305,
+                  -25.32181
+                ],
+                [
+                  152.897681,
+                  -25.323187
+                ],
+                [
+                  152.898366,
+                  -25.323047
+                ],
+                [
+                  152.898634,
+                  -25.32266
+                ],
+                [
+                  152.898592,
+                  -25.32213
+                ],
+                [
+                  152.897713,
+                  -25.32119
+                ],
+                [
+                  152.897351,
+                  -25.321032
+                ],
+                [
+                  152.895587,
+                  -25.320982
+                ],
+                [
+                  152.895098,
+                  -25.321298
+                ],
+                [
+                  152.895305,
+                  -25.32181
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5769",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:14PM 16 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOORAL RD, ISLAND VIEW DR",
+        "SUBURBS": "URANGAN, WONDUNNA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715846701.316423"
+  "extracted": "1715847001.257327"
 }
