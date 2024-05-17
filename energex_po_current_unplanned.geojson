@@ -110,9 +110,102 @@
         "STREETS": "CLUNE ST, ENGLEFIELD RD, IRWIN TCE, LUCOCK ST, STEPHENSON ST",
         "SUBURBS": "OXLEY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.943138,
+              -26.408506
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.940894,
+                  -26.409068
+                ],
+                [
+                  152.942105,
+                  -26.411333
+                ],
+                [
+                  152.94266,
+                  -26.411578
+                ],
+                [
+                  152.942942,
+                  -26.411525
+                ],
+                [
+                  152.943252,
+                  -26.411339
+                ],
+                [
+                  152.944797,
+                  -26.40931
+                ],
+                [
+                  152.944818,
+                  -26.40928
+                ],
+                [
+                  152.945416,
+                  -26.408341
+                ],
+                [
+                  152.945379,
+                  -26.407842
+                ],
+                [
+                  152.943438,
+                  -26.405565
+                ],
+                [
+                  152.942823,
+                  -26.405433
+                ],
+                [
+                  152.941845,
+                  -26.405856
+                ],
+                [
+                  152.941575,
+                  -26.406155
+                ],
+                [
+                  152.940859,
+                  -26.408764
+                ],
+                [
+                  152.940894,
+                  -26.409068
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-760311-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "Powerlines down",
+        "STATUS": "Awaiting",
+        "START": "4:14PM 17 May 2024",
+        "EST_FIX_TIME": "7:00PM 17 May 2024",
+        "STREETS": "BIDNERS RD, COOROY NOOSA RD, FIG TREE LANE, HAYWARD RD",
+        "SUBURBS": "LAKE MACDONALD"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715926201.299472"
+  "extracted": "1715926502.634885"
 }
