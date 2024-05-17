@@ -10,6 +10,67 @@
           {
             "type": "Point",
             "coordinates": [
+              151.81686,
+              -24.538699
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.817415,
+                  -24.539247
+                ],
+                [
+                  151.817285,
+                  -24.538061
+                ],
+                [
+                  151.816746,
+                  -24.537658
+                ],
+                [
+                  151.816305,
+                  -24.538151
+                ],
+                [
+                  151.816436,
+                  -24.539337
+                ],
+                [
+                  151.816975,
+                  -24.53974
+                ],
+                [
+                  151.817415,
+                  -24.539247
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7025",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:30AM 17 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "TABLELAND RD",
+        "SUBURBS": "BERAJONDO, ROSEDALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -293,6 +354,91 @@
           {
             "type": "Point",
             "coordinates": [
+              145.552088,
+              -17.190682
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.54845,
+                  -17.19041
+                ],
+                [
+                  145.551157,
+                  -17.191474
+                ],
+                [
+                  145.551299,
+                  -17.191506
+                ],
+                [
+                  145.555507,
+                  -17.191817
+                ],
+                [
+                  145.556001,
+                  -17.191469
+                ],
+                [
+                  145.555717,
+                  -17.190947
+                ],
+                [
+                  145.554728,
+                  -17.190568
+                ],
+                [
+                  145.554636,
+                  -17.190543
+                ],
+                [
+                  145.55041,
+                  -17.189829
+                ],
+                [
+                  145.550409,
+                  -17.189829
+                ],
+                [
+                  145.548708,
+                  -17.189546
+                ],
+                [
+                  145.548176,
+                  -17.189867
+                ],
+                [
+                  145.54845,
+                  -17.19041
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6386",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "10:48AM 17 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MALCOLM RD, TINAROO FALLS DAM RD",
+        "SUBURBS": "KAIRI, TINAROO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -511,5 +657,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715908503.846075"
+  "extracted": "1715908800.56055"
 }
