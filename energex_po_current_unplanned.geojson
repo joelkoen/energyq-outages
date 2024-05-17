@@ -167,9 +167,82 @@
         "STREETS": "NORTH ARM RD",
         "SUBURBS": "NORTH ARM"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.78542,
+              -27.148792
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.780855,
+                  -27.145233
+                ],
+                [
+                  152.784,
+                  -27.152265
+                ],
+                [
+                  152.784431,
+                  -27.152548
+                ],
+                [
+                  152.789503,
+                  -27.152885
+                ],
+                [
+                  152.789985,
+                  -27.152221
+                ],
+                [
+                  152.787956,
+                  -27.148849
+                ],
+                [
+                  152.787807,
+                  -27.148697
+                ],
+                [
+                  152.781619,
+                  -27.144699
+                ],
+                [
+                  152.781013,
+                  -27.144709
+                ],
+                [
+                  152.780855,
+                  -27.145233
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-760341-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:47PM 17 May 2024",
+        "EST_FIX_TIME": "2:00AM 18 May 2024",
+        "STREETS": "CLIFFORD RD, KUHN RD, MT PLEASANT RD",
+        "SUBURBS": "MT PLEASANT"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1715955601.408313"
+  "extracted": "1715955901.51653"
 }
