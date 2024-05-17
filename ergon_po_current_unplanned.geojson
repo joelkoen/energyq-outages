@@ -321,9 +321,90 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.688231,
+              -25.52259
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.682999,
+                  -25.528528
+                ],
+                [
+                  152.691735,
+                  -25.521997
+                ],
+                [
+                  152.691835,
+                  -25.521896
+                ],
+                [
+                  152.694203,
+                  -25.518606
+                ],
+                [
+                  152.694159,
+                  -25.518062
+                ],
+                [
+                  152.692932,
+                  -25.516806
+                ],
+                [
+                  152.692562,
+                  -25.516654
+                ],
+                [
+                  152.689942,
+                  -25.516651
+                ],
+                [
+                  152.689515,
+                  -25.516871
+                ],
+                [
+                  152.682258,
+                  -25.527951
+                ],
+                [
+                  152.682361,
+                  -25.528523
+                ],
+                [
+                  152.682999,
+                  -25.528528
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5786",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "95",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:00PM 17 May 2024",
+        "EST_FIX_TIME": "3:00AM 18 May 2024",
+        "STREETS": "BOYS AVE, CORSER AVE, FRENCH AVE, NEPTUNE ST, WINSTON NOBLE DR, WYNNE PDE",
+        "SUBURBS": "MARYBOROUGH"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715946601.780251"
+  "extracted": "1715946901.304233"
 }
