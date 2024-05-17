@@ -1771,6 +1771,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          149.263038,
+          -21.608106
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2148",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 18 May 2024",
+        "EST_FIX_TIME": "2:00PM 18 May 2024",
+        "STREETS": "TEDLANDS RD",
+        "SUBURBS": "KOUMALA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.69196,
           -20.279785
         ]
@@ -3129,6 +3150,27 @@
         "EST_FIX_TIME": "2:30PM 22 May 2024",
         "STREETS": "BRAMPTON AVE, CORDELIA AVE, FRANGIPANI ST, HIBISCUS ST, LABURNUM ST, LINDEMAN AVE",
         "SUBURBS": "CRANBROOK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.740913,
+          -20.816936
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7969",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 18 May 2024",
+        "EST_FIX_TIME": "12:00PM 18 May 2024",
+        "STREETS": "ELDER CREEK BORE, ELDER CREEK STATION",
+        "SUBURBS": "CLONCURRY"
       }
     },
     {
@@ -5171,5 +5213,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1715983501.31479"
+  "extracted": "1715983801.405024"
 }
