@@ -168,6 +168,91 @@
           {
             "type": "Point",
             "coordinates": [
+              145.552088,
+              -17.190682
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.54845,
+                  -17.19041
+                ],
+                [
+                  145.551157,
+                  -17.191474
+                ],
+                [
+                  145.551299,
+                  -17.191506
+                ],
+                [
+                  145.555507,
+                  -17.191817
+                ],
+                [
+                  145.556001,
+                  -17.191469
+                ],
+                [
+                  145.555717,
+                  -17.190947
+                ],
+                [
+                  145.554728,
+                  -17.190568
+                ],
+                [
+                  145.554636,
+                  -17.190543
+                ],
+                [
+                  145.55041,
+                  -17.189829
+                ],
+                [
+                  145.550409,
+                  -17.189829
+                ],
+                [
+                  145.548708,
+                  -17.189546
+                ],
+                [
+                  145.548176,
+                  -17.189867
+                ],
+                [
+                  145.54845,
+                  -17.19041
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6401",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews on route",
+        "START": "5:14PM 17 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MALCOLM RD, TINAROO FALLS DAM RD",
+        "SUBURBS": "KAIRI, TINAROO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -315,7 +400,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "23",
         "REASON": "The loss of supply is due to damage caused by accidental contact with powerlines by a third party. ",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "1:39PM 17 May 2024",
         "EST_FIX_TIME": null,
         "STREETS": "DAANDINE-NANDI RD, DULEEN DAANDINE RD, DULEEN-DAANDINE RD, GREENBANK RD, HOADLEY'S RD, KUPUNN RD",
@@ -325,5 +410,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715931003.189337"
+  "extracted": "1715931301.079202"
 }
