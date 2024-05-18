@@ -228,9 +228,118 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.96965,
+              -19.611184
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.922875,
+                  -19.592771
+                ],
+                [
+                  146.927788,
+                  -19.62828
+                ],
+                [
+                  146.927803,
+                  -19.628346
+                ],
+                [
+                  146.931162,
+                  -19.639429
+                ],
+                [
+                  146.931591,
+                  -19.639755
+                ],
+                [
+                  146.990419,
+                  -19.643138
+                ],
+                [
+                  146.990515,
+                  -19.643134
+                ],
+                [
+                  147.006231,
+                  -19.641012
+                ],
+                [
+                  147.006424,
+                  -19.640943
+                ],
+                [
+                  147.016239,
+                  -19.63489
+                ],
+                [
+                  147.016429,
+                  -19.634362
+                ],
+                [
+                  147.010591,
+                  -19.618508
+                ],
+                [
+                  147.010374,
+                  -19.618263
+                ],
+                [
+                  146.937182,
+                  -19.579242
+                ],
+                [
+                  146.936739,
+                  -19.57923
+                ],
+                [
+                  146.92345,
+                  -19.585406
+                ],
+                [
+                  146.923184,
+                  -19.585792
+                ],
+                [
+                  146.922871,
+                  -19.592693
+                ],
+                [
+                  146.922875,
+                  -19.592771
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8746",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "71",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:19PM 18 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "COOK RD, HABERECHT RD, MOUNTVIEW DR, OLD COACH RD, TOLSON RD, WEBB RD, WOODSTOCK GIRU RD",
+        "SUBURBS": "MAJORS CREEK, WOODSTOCK"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716024001.321997"
+  "extracted": "1716024301.41478"
 }
