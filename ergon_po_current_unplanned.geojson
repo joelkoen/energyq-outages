@@ -422,9 +422,150 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              147.416527,
+              -19.575435
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.406578,
+                  -19.577156
+                ],
+                [
+                  147.406776,
+                  -19.577989
+                ],
+                [
+                  147.406858,
+                  -19.578158
+                ],
+                [
+                  147.407432,
+                  -19.578894
+                ],
+                [
+                  147.407626,
+                  -19.57904
+                ],
+                [
+                  147.41664,
+                  -19.582729
+                ],
+                [
+                  147.4168,
+                  -19.582765
+                ],
+                [
+                  147.423275,
+                  -19.583134
+                ],
+                [
+                  147.423719,
+                  -19.582906
+                ],
+                [
+                  147.425096,
+                  -19.580606
+                ],
+                [
+                  147.4251,
+                  -19.580598
+                ],
+                [
+                  147.425536,
+                  -19.579835
+                ],
+                [
+                  147.425571,
+                  -19.579757
+                ],
+                [
+                  147.426483,
+                  -19.577034
+                ],
+                [
+                  147.426422,
+                  -19.576642
+                ],
+                [
+                  147.423785,
+                  -19.573007
+                ],
+                [
+                  147.423576,
+                  -19.572846
+                ],
+                [
+                  147.411624,
+                  -19.568125
+                ],
+                [
+                  147.411603,
+                  -19.568118
+                ],
+                [
+                  147.410498,
+                  -19.567737
+                ],
+                [
+                  147.410166,
+                  -19.567739
+                ],
+                [
+                  147.409532,
+                  -19.567967
+                ],
+                [
+                  147.409327,
+                  -19.56811
+                ],
+                [
+                  147.407673,
+                  -19.570095
+                ],
+                [
+                  147.407575,
+                  -19.570311
+                ],
+                [
+                  147.406571,
+                  -19.576993
+                ],
+                [
+                  147.406578,
+                  -19.577156
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8742",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "970",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:21AM 18 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ADELAIDE ST, ALBERT CRES, ALICE ST, ANN ST, BRISBANE ST, CANBERRA ST, CATHERINE ST, CHARLOTTE ST, CHIPPENDALE ST, COLE ST, DARWIN ST, EDWARDS ST, ELIZABETH ST, GRAHAM ST, HOBART ST, KING ST, LITTLE CRES, LITTLE YOUNG ST, MACMILLAN ST, MARGARET ST, MARY ST, METHODIST LANE, MICHAEL ST, NORHAM RD, PARKER ST, QUEEN ST, RITA ISLAND RD, SOPER ST, SPILLER ST, SYDNEY ST, VICTORIA ST, WICKHAM ST, YOUNG ST",
+        "SUBURBS": "AYR"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1715991601.339978"
+  "extracted": "1715991901.460707"
 }
