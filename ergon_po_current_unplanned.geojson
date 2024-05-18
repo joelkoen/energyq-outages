@@ -10,6 +10,67 @@
           {
             "type": "Point",
             "coordinates": [
+              148.099981,
+              -23.569797
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.102449,
+                  -23.57538
+                ],
+                [
+                  148.098446,
+                  -23.563937
+                ],
+                [
+                  148.09783,
+                  -23.563645
+                ],
+                [
+                  148.097514,
+                  -23.564214
+                ],
+                [
+                  148.101517,
+                  -23.575658
+                ],
+                [
+                  148.102133,
+                  -23.575949
+                ],
+                [
+                  148.102449,
+                  -23.57538
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7047",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews on route",
+        "START": "6:17PM 18 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "SELMA RD",
+        "SUBURBS": "EMERALD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -341,5 +402,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716026101.667322"
+  "extracted": "1716026403.497761"
 }
