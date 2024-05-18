@@ -110,9 +110,110 @@
         "STREETS": "BANDICOOT LANE, BANKSIA RD, BILBOROUGH CT, BOY-ULL RD, CANYON PDE, EE-JUNG RD, LYREBIRD RIDGE RD, MUNDORA RD, REPEATER STATION RD, SPRINGBROOK RD, WATTLE GR",
         "SUBURBS": "CURRUMBIN VALLEY, SPRINGBROOK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.019662,
+              -27.578562
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.017304,
+                  -27.578994
+                ],
+                [
+                  153.018291,
+                  -27.580336
+                ],
+                [
+                  153.018685,
+                  -27.580539
+                ],
+                [
+                  153.018939,
+                  -27.580552
+                ],
+                [
+                  153.018971,
+                  -27.580553
+                ],
+                [
+                  153.020601,
+                  -27.580546
+                ],
+                [
+                  153.020744,
+                  -27.580527
+                ],
+                [
+                  153.021415,
+                  -27.580348
+                ],
+                [
+                  153.021755,
+                  -27.580046
+                ],
+                [
+                  153.02196,
+                  -27.579441
+                ],
+                [
+                  153.021979,
+                  -27.579361
+                ],
+                [
+                  153.022019,
+                  -27.579041
+                ],
+                [
+                  153.02192,
+                  -27.578719
+                ],
+                [
+                  153.02013,
+                  -27.57661
+                ],
+                [
+                  153.019359,
+                  -27.57657
+                ],
+                [
+                  153.017362,
+                  -27.578435
+                ],
+                [
+                  153.017304,
+                  -27.578994
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-760412-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "53",
+        "REASON": "Damage due to severe weather",
+        "STATUS": "Awaiting",
+        "START": "7:55AM 19 May 2024",
+        "EST_FIX_TIME": "10:30AM 19 May 2024",
+        "STREETS": "CALADENIA ST, HANIFY ST, MORTIMER RD, OXLEY ST, WATSON RD",
+        "SUBURBS": "ACACIA RIDGE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716069001.527379"
+  "extracted": "1716069604.450952"
 }
