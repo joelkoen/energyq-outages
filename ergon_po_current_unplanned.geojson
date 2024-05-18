@@ -10,6 +10,107 @@
           {
             "type": "Point",
             "coordinates": [
+              148.30833,
+              -23.598148
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.188319,
+                  -23.542147
+                ],
+                [
+                  148.199636,
+                  -23.587354
+                ],
+                [
+                  148.199685,
+                  -23.587472
+                ],
+                [
+                  148.200289,
+                  -23.588471
+                ],
+                [
+                  148.200479,
+                  -23.588646
+                ],
+                [
+                  148.383353,
+                  -23.681965
+                ],
+                [
+                  148.383908,
+                  -23.681914
+                ],
+                [
+                  148.428211,
+                  -23.647287
+                ],
+                [
+                  148.428352,
+                  -23.646783
+                ],
+                [
+                  148.382931,
+                  -23.536419
+                ],
+                [
+                  148.382536,
+                  -23.536132
+                ],
+                [
+                  148.198275,
+                  -23.514331
+                ],
+                [
+                  148.19775,
+                  -23.514632
+                ],
+                [
+                  148.188685,
+                  -23.538776
+                ],
+                [
+                  148.188661,
+                  -23.538877
+                ],
+                [
+                  148.188309,
+                  -23.541999
+                ],
+                [
+                  148.188319,
+                  -23.542147
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7051",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "130",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:05AM 19 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BAUHINIA RD, BONNIE DOON RD, CAPRICORN HWY, FOLEY RD, HOLZWART RD, KELLYS RD, LOCHLEES RD, OFF CAPRICORN HWY, OFF STOLZ RD, PEACEY RD, RAMSEYS RD, ROBERTS ST, RUNDLE ACCESS RD, STOLZ RD, TALAFA RD, WATTS RD",
+        "SUBURBS": "COMET, EMERALD, YAMALA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -365,5 +466,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716048301.256639"
+  "extracted": "1716048601.253226"
 }
