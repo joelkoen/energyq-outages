@@ -329,9 +329,118 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.331063,
+              -24.955945
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.289994,
+                  -24.972722
+                ],
+                [
+                  152.358658,
+                  -24.975767
+                ],
+                [
+                  152.358755,
+                  -24.975763
+                ],
+                [
+                  152.366734,
+                  -24.974674
+                ],
+                [
+                  152.36714,
+                  -24.974337
+                ],
+                [
+                  152.372589,
+                  -24.954197
+                ],
+                [
+                  152.372574,
+                  -24.953935
+                ],
+                [
+                  152.368389,
+                  -24.943459
+                ],
+                [
+                  152.368064,
+                  -24.943181
+                ],
+                [
+                  152.346792,
+                  -24.937507
+                ],
+                [
+                  152.34675,
+                  -24.937497
+                ],
+                [
+                  152.339288,
+                  -24.936128
+                ],
+                [
+                  152.339131,
+                  -24.936122
+                ],
+                [
+                  152.316781,
+                  -24.938601
+                ],
+                [
+                  152.316586,
+                  -24.938662
+                ],
+                [
+                  152.294954,
+                  -24.950535
+                ],
+                [
+                  152.294726,
+                  -24.950823
+                ],
+                [
+                  152.289536,
+                  -24.972176
+                ],
+                [
+                  152.289994,
+                  -24.972722
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5798",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "111",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:51AM 19 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CLAYTON RD, FIELDINGS RD, GILLENS CREEK RD, GILLENS SIDING RD, GOODWOOD RD, GORDONS RD, NEW VALLEY RD, PAYNES RD, PRICE ST, WISES RD, WOODS EAST RD, WOODS WEST RD",
+        "SUBURBS": "ALLOWAY, ELLIOTT, KENSINGTON"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716061800.328854"
+  "extracted": "1716062101.064896"
 }
