@@ -305,9 +305,70 @@
         "STREETS": "CARMILA WEST RD, LEICHHARDT CREEK RD",
         "SUBURBS": "CARMILA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              140.48022,
+              -20.553197
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  140.480369,
+                  -20.552767
+                ],
+                [
+                  140.480256,
+                  -20.552746
+                ],
+                [
+                  140.479696,
+                  -20.553099
+                ],
+                [
+                  140.480071,
+                  -20.553627
+                ],
+                [
+                  140.480185,
+                  -20.553648
+                ],
+                [
+                  140.480745,
+                  -20.553294
+                ],
+                [
+                  140.480369,
+                  -20.552767
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8750",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:11AM 19 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "LANARK STATION",
+        "SUBURBS": "CLONCURRY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716075904.767168"
+  "extracted": "1716076201.068706"
 }
