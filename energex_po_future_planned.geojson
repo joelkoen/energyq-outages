@@ -154,6 +154,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.610787,
+          -27.624309
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750379-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "3:00PM 24 May 2024",
+        "STREETS": "KARRABIN ROSEWOOD RD",
+        "SUBURBS": "ROSEWOOD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.940963,
           -27.521909
         ]
@@ -168,6 +189,27 @@
         "EST_FIX_TIME": "2:30PM 21 May 2024",
         "STREETS": "DUSK ST, KENMORE RD, TWILIGHT ST",
         "SUBURBS": "KENMORE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.364393,
+          -27.971771
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-750698-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "128",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "9:00AM 24 May 2024",
+        "EST_FIX_TIME": "1:30PM 24 May 2024",
+        "STREETS": "AQUARIUS CT, BATCHWORTH RD, CATHEDRAL AVE, GEMINI CCT, ORION CT, PRIMATE PL",
+        "SUBURBS": "MOLENDINAR"
       }
     },
     {
@@ -231,27 +273,6 @@
         "EST_FIX_TIME": "3:00PM 20 May 2024",
         "STREETS": "BEAMES DR, MILNE ST",
         "SUBURBS": "LAIDLEY, LAIDLEY SOUTH"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.039294,
-          -27.450938
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-752734-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "58",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Completed",
-        "START": "7:00AM 19 May 2024",
-        "EST_FIX_TIME": "3:00PM 19 May 2024",
-        "STREETS": "HYNES ST, KNAPP ST, LIGHT ST, PROSPECT ST, WICKHAM ST",
-        "SUBURBS": "FORTITUDE VALLEY"
       }
     },
     {
@@ -469,27 +490,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.761808,
-          -27.617397
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-753887-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "5",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Completed",
-        "START": "8:00AM 19 May 2024",
-        "EST_FIX_TIME": "4:00PM 19 May 2024",
-        "STREETS": "RODERICK ST, SOUTH ST",
-        "SUBURBS": "IPSWICH"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.137812,
           -27.620931
         ]
@@ -567,6 +567,48 @@
         "EST_FIX_TIME": "2:00PM 21 May 2024",
         "STREETS": "AFFLECK AVE, CAMION CT, HALY CT, KRONING CT, KRUGER CT, MIDSON ST, MOHR CT, WASHBROOK CRES",
         "SUBURBS": "PETRIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.996423,
+          -26.284136
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-754386-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "11:00AM 24 May 2024",
+        "STREETS": "ORCHARD AVE",
+        "SUBURBS": "BOREEN POINT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.782891,
+          -26.320691
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-754399-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "11:00AM 24 May 2024",
+        "EST_FIX_TIME": "2:00PM 24 May 2024",
+        "STREETS": "MCKELLAR RD, TOOMEY ST, TRAVESTON RD",
+        "SUBURBS": "TRAVESTON"
       }
     },
     {
@@ -658,27 +700,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.075511,
-          -27.681433
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-754644-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Completed",
-        "START": "7:00AM 19 May 2024",
-        "EST_FIX_TIME": "2:30PM 19 May 2024",
-        "STREETS": "PLATINUM ST, TITANIUM CT",
-        "SUBURBS": "CRESTMEAD"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           152.9336,
           -27.289668
         ]
@@ -700,20 +721,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.078728,
-          -27.670519
+          153.066702,
+          -27.596989
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-754700-g",
+        "EVENT_ID": "INCD-754649-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
+        "CUSTOMERS_AFFECTED": "22",
         "REASON": "Planned Maintenance",
-        "STATUS": "Completed",
-        "START": "6:30AM 19 May 2024",
-        "EST_FIX_TIME": "2:30PM 19 May 2024",
-        "STREETS": "WAYNE GOSS DR",
-        "SUBURBS": "BERRINBA"
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "2:30PM 24 May 2024",
+        "STREETS": "BRANDON RD",
+        "SUBURBS": "RUNCORN"
       }
     },
     {
@@ -889,6 +910,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          153.450104,
+          -28.099824
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755181-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "62",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "4:00PM 24 May 2024",
+        "STREETS": "OCEAN PDE, PINDARI AVE",
+        "SUBURBS": "BURLEIGH HEADS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.88485,
           -26.681423
         ]
@@ -931,6 +973,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.977401,
+          -27.51073
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755254-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Cancelled",
+        "START": "7:30AM 24 May 2024",
+        "EST_FIX_TIME": "2:30PM 24 May 2024",
+        "STREETS": "LUXFORD ST, QUEENSCROFT ST, ROSEBERY TCE",
+        "SUBURBS": "CHELMER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.982979,
           -27.470642
         ]
@@ -945,6 +1008,48 @@
         "EST_FIX_TIME": "2:30PM 20 May 2024",
         "STREETS": "HARWOOD ST",
         "SUBURBS": "BARDON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.586726,
+          -26.114522
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755262-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "3:30PM 24 May 2024",
+        "STREETS": "GREENHALGH RD",
+        "SUBURBS": "BELLS BRIDGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.589872,
+          -26.115473
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755304-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "3:00PM 24 May 2024",
+        "STREETS": "GREENHALGH RD",
+        "SUBURBS": "BELLS BRIDGE, CHATSWORTH"
       }
     },
     {
@@ -994,27 +1099,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.111177,
-          -27.221052
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-755805-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "108",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Completed",
-        "START": "8:00AM 19 May 2024",
-        "EST_FIX_TIME": "3:00PM 19 May 2024",
-        "STREETS": "GRANT ST, HERSCHELL CT, JACARANDA AVE, OXLEY AVE, PRINCE EDWARD PDE, STEVEN ST",
-        "SUBURBS": "REDCLIFFE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           152.799012,
           -26.756799
         ]
@@ -1050,6 +1134,27 @@
         "EST_FIX_TIME": "4:00PM 21 May 2024",
         "STREETS": "TREES RD",
         "SUBURBS": "TALLEBUDGERA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.072496,
+          -27.497467
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-755927-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "3:00PM 24 May 2024",
+        "STREETS": "MARTHA ST, WARILDA ST",
+        "SUBURBS": "CAMP HILL"
       }
     },
     {
@@ -1267,20 +1372,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.205813,
-          -27.535805
+          153.176609,
+          -27.464617
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-756409-g",
+        "EVENT_ID": "INCD-756391-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "52",
+        "CUSTOMERS_AFFECTED": "39",
         "REASON": "Planned Maintenance",
-        "STATUS": "Completed",
-        "START": "7:00AM 19 May 2024",
-        "EST_FIX_TIME": "2:30PM 19 May 2024",
-        "STREETS": "GLENCARRON CT, MELDAWN PL, REDLAND BAY RD",
-        "SUBURBS": "CAPALABA"
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "4:00PM 24 May 2024",
+        "STREETS": "ATLANTA ST, ESTELLE ST, GRETA ST",
+        "SUBURBS": "MANLY WEST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.964054,
+          -27.415109
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756395-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "20",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "3:00PM 24 May 2024",
+        "STREETS": "BELGENNY WAY, GLENORE ST, KENTVILLE ST, LOCKROSE ST, TALTARNI CCT",
+        "SUBURBS": "MITCHELTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.224632,
+          -27.484586
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756403-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "40",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "3:00PM 24 May 2024",
+        "STREETS": "BATH ST, CAVELL ST, MURRAY ST",
+        "SUBURBS": "BIRKDALE"
       }
     },
     {
@@ -1351,6 +1498,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          153.132183,
+          -26.734114
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756955-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "88",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "3:00PM 24 May 2024",
+        "STREETS": "DRIFTWOOD CT, HONEYSUCKLE DR, MALLARD PL, OCEANIC DR, SATINBIRD PL, THUNDERBIRD DR",
+        "SUBURBS": "BOKARINA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.109658,
+          -27.721137
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-756956-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "4:00PM 24 May 2024",
+        "STREETS": "LOGAN RESERVE RD",
+        "SUBURBS": "LOGAN RESERVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           153.256487,
           -27.541276
         ]
@@ -1386,6 +1575,27 @@
         "EST_FIX_TIME": "3:00PM 23 May 2024",
         "STREETS": "NYANZA ST",
         "SUBURBS": "WOODRIDGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.131393,
+          -26.73434
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757050-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "187",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "3:00PM 24 May 2024",
+        "STREETS": "BEACHCOMBER CT, BLUEBIRD PDE, BULLANDO ST, DRIFTWOOD CT, DUNE VISTA DR, MAGNOLIA DR, MARANA ST, MARINER PL, NICKLIN WAY, OCEANIC DR, PARARI ST, SEAFARER CT, TANDARA ST, WILUNA ST, WYANDA DR",
+        "SUBURBS": "BOKARINA, WARANA"
       }
     },
     {
@@ -1456,6 +1666,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.975617,
+          -27.581554
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757199-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "7:30AM 24 May 2024",
+        "EST_FIX_TIME": "2:30PM 24 May 2024",
+        "STREETS": "DELORME ST, ROSEMARY ST, THORNLAW ST",
+        "SUBURBS": "DURACK, INALA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           153.045018,
           -27.303223
         ]
@@ -1491,27 +1722,6 @@
         "EST_FIX_TIME": "3:00PM 22 May 2024",
         "STREETS": "CELTIC ST, WEAVER ST",
         "SUBURBS": "COOPERS PLAINS"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.255433,
-          -27.529563
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-757248-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "26",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Completed",
-        "START": "7:30AM 19 May 2024",
-        "EST_FIX_TIME": "3:00PM 19 May 2024",
-        "STREETS": "WELLINGTON ST",
-        "SUBURBS": "CLEVELAND"
       }
     },
     {
@@ -1582,62 +1792,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.071613,
-          -27.412205
+          152.952035,
+          -26.608827
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-757316-g",
+        "EVENT_ID": "INCD-757426-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "7",
+        "CUSTOMERS_AFFECTED": "20",
         "REASON": "Planned Maintenance",
-        "STATUS": "Completed",
-        "START": "12:00PM 19 May 2024",
-        "EST_FIX_TIME": "4:00PM 19 May 2024",
-        "STREETS": "HEDLEY AVE",
-        "SUBURBS": "HENDRA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.73728,
-          -27.670171
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-757320-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "6",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Completed",
-        "START": "8:00AM 19 May 2024",
-        "EST_FIX_TIME": "3:00PM 19 May 2024",
-        "STREETS": "IPSWICH BOONAH RD",
-        "SUBURBS": "PURGA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.290873,
-          -26.976497
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-757417-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "46",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Completed",
-        "START": "6:00AM 19 May 2024",
-        "EST_FIX_TIME": "9:00AM 19 May 2024",
-        "STREETS": "EMU CREEK RD, GLENHOWDEN RD, GRIEVES RD, MARONGHI CREEK RD, TURNERS RD, TURTLE CREEK RD",
-        "SUBURBS": "COLINTON, HARLIN"
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "2:30PM 24 May 2024",
+        "STREETS": "DUHS RD, KOCHO RD, VINE CT",
+        "SUBURBS": "IMAGE FLAT, NAMBOUR"
       }
     },
     {
@@ -1792,27 +1960,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.951519,
-          -27.397195
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-757510-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "33",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Completed",
-        "START": "8:00AM 19 May 2024",
-        "EST_FIX_TIME": "3:00PM 19 May 2024",
-        "STREETS": "ARALIA CT, ARALIA ST, SAMANTHA CT",
-        "SUBURBS": "FERNY HILLS"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           152.621283,
           -28.072113
         ]
@@ -1911,6 +2058,27 @@
         "EST_FIX_TIME": "4:00PM 21 May 2024",
         "STREETS": "ALBION RD, BARKER ST, CHURCH RD, EATONS CROSSING RD, EDEN DR, ESTELLE CT, LASCELLE CT, MILFORD CT",
         "SUBURBS": "CASHMERE, EATONS HILL, WARNER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.039449,
+          -27.476148
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757655-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "6:30AM 24 May 2024",
+        "EST_FIX_TIME": "7:30AM 24 May 2024",
+        "STREETS": "SHAFSTON AVE",
+        "SUBURBS": "KANGAROO POINT"
       }
     },
     {
@@ -2086,6 +2254,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          153.008463,
+          -27.368232
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757741-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "11:30AM 24 May 2024",
+        "EST_FIX_TIME": "3:30PM 24 May 2024",
+        "STREETS": "MUNEERA CRES, TARUN CL",
+        "SUBURBS": "ASPLEY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.038103,
+          -27.71339
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757745-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "3:00PM 24 May 2024",
+        "STREETS": "HILLCREST RD, MT LINDESAY HWY",
+        "SUBURBS": "PARK RIDGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           153.13577,
           -27.62734
         ]
@@ -2142,6 +2352,27 @@
         "EST_FIX_TIME": "4:00PM 21 May 2024",
         "STREETS": "CLARK RD, HAUTON RD",
         "SUBURBS": "MORAYFIELD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.687617,
+          -27.658464
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757872-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "53",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "3:00PM 24 May 2024",
+        "STREETS": "DOLBEN ST, TINWORTH ST, WIGMORE ST",
+        "SUBURBS": "WILLOWBANK"
       }
     },
     {
@@ -2254,6 +2485,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          153.105978,
+          -26.788246
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757927-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "158",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "3:00PM 24 May 2024",
+        "STREETS": "APPLEGUM DR, BLUEGUM CT, BRIGALOW ST, GREY GUM DR, JASON PL, LOTTE PL, MARK RD E, ST HELENA ST, SUGAR BAG RD, VIOLA CL",
+        "SUBURBS": "CALOUNDRA WEST, LITTLE MOUNTAIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.389153,
           -27.099614
         ]
@@ -2268,6 +2520,48 @@
         "EST_FIX_TIME": "3:30PM 22 May 2024",
         "STREETS": "BRISBANE VALLEY HWY, HAMILTONS LANE, MT BEPPO RD, OLD MT BEPPO RD",
         "SUBURBS": "MOUNT BEPPO, TOOGOOLAWAH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.132133,
+          -26.784222
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757980-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "141",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "3:00PM 24 May 2024",
+        "STREETS": "BEERBURRUM ST, COOLUM ST, COONOWRIN ST, COOROORA ST, LYON ST, MELLUM CT, SUTHERLAND ST, TRUNDLE ST",
+        "SUBURBS": "DICKY BEACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.969042,
+          -26.966021
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-757981-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "3:00PM 24 May 2024",
+        "STREETS": "ENDEAVOUR RD",
+        "SUBURBS": "BEERBURRUM"
       }
     },
     {
@@ -2331,27 +2625,6 @@
         "EST_FIX_TIME": "3:00PM 23 May 2024",
         "STREETS": "FORD RD, JENYNS CT",
         "SUBURBS": "BURBANK, PRIESTDALE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.049761,
-          -27.369619
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-758314-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "12",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Completed",
-        "START": "8:00AM 19 May 2024",
-        "EST_FIX_TIME": "3:30PM 19 May 2024",
-        "STREETS": "MORRISBY ST",
-        "SUBURBS": "GEEBUNG"
       }
     },
     {
@@ -2569,6 +2842,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.893825,
+          -27.477742
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758457-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "4:00PM 24 May 2024",
+        "STREETS": "SAVAGES RD",
+        "SUBURBS": "BROOKFIELD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.557555,
+          -27.109013
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758460-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "3:30PM 24 May 2024",
+        "STREETS": "ESK KILCOY RD",
+        "SUBURBS": "ESK, SOMERSET DAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.366575,
+          -27.68516
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758464-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "3:30PM 24 May 2024",
+        "STREETS": "MULGOWIE RD",
+        "SUBURBS": "LAIDLEY HEIGHTS, LAIDLEY SOUTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.612477,
+          -27.627701
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758468-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "28",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Cancelled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "3:00PM 24 May 2024",
+        "STREETS": "KARRABIN ROSEWOOD RD, WHITE LANE, YARROW RD",
+        "SUBURBS": "ROSEWOOD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.809899,
           -27.64533
         ]
@@ -2583,6 +2940,27 @@
         "EST_FIX_TIME": "4:00PM 22 May 2024",
         "STREETS": "PATRICK ST",
         "SUBURBS": "SWANBANK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.124015,
+          -27.758705
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758610-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "2:30PM 24 May 2024",
+        "STREETS": "FRYAR RD",
+        "SUBURBS": "LOGAN VILLAGE"
       }
     },
     {
@@ -2737,6 +3115,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          153.414891,
+          -28.01835
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758806-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "60",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "3:00PM 24 May 2024",
+        "STREETS": "ALVARADO CT, MONTEREY CT, PACIFIC BVD, PASADENA CT",
+        "SUBURBS": "BROADBEACH WATERS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           153.311013,
           -27.643739
         ]
@@ -2751,6 +3150,27 @@
         "EST_FIX_TIME": "3:00PM 20 May 2024",
         "STREETS": "JUNEE ST, OAKLAND AVE, WATERFRONT EASEMENT",
         "SUBURBS": "REDLAND BAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.612477,
+          -27.627701
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-758970-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "28",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 24 May 2024",
+        "EST_FIX_TIME": "3:00PM 24 May 2024",
+        "STREETS": "KARRABIN ROSEWOOD RD, WHITE LANE, YARROW RD",
+        "SUBURBS": "ROSEWOOD"
       }
     },
     {
@@ -2800,27 +3220,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.061254,
-          -26.651226
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-759326-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "12",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Completed",
-        "START": "8:00AM 19 May 2024",
-        "EST_FIX_TIME": "12:30PM 19 May 2024",
-        "STREETS": "SERVICE ST",
-        "SUBURBS": "MAROOCHYDORE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.141936,
           -27.627925
         ]
@@ -2835,6 +3234,27 @@
         "EST_FIX_TIME": "1:30PM 21 May 2024",
         "STREETS": "ACHILLES DR, CALOOLA DR, DELORAINE DR, EAMES CT, ENTRA CT, FORTRIL DR, GIBBON ST, ORLANDO CRES",
         "SUBURBS": "SPRINGWOOD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.045014,
+          -27.831585
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-759372-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "7:30AM 24 May 2024",
+        "EST_FIX_TIME": "3:00PM 24 May 2024",
+        "STREETS": "INGRAM RD",
+        "SUBURBS": "JIMBOOMBA"
       }
     },
     {
@@ -2903,5 +3323,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1716126901.469242"
+  "extracted": "1716127210.556443"
 }
