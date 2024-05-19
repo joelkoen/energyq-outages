@@ -10,6 +10,91 @@
           {
             "type": "Point",
             "coordinates": [
+              150.059767,
+              -23.412264
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.867008,
+                  -23.337838
+                ],
+                [
+                  150.017498,
+                  -23.496251
+                ],
+                [
+                  150.018022,
+                  -23.49638
+                ],
+                [
+                  150.185172,
+                  -23.444159
+                ],
+                [
+                  150.185288,
+                  -23.444107
+                ],
+                [
+                  150.252254,
+                  -23.402594
+                ],
+                [
+                  150.252466,
+                  -23.40228
+                ],
+                [
+                  150.252526,
+                  -23.401878
+                ],
+                [
+                  150.252146,
+                  -23.401376
+                ],
+                [
+                  149.891385,
+                  -23.328147
+                ],
+                [
+                  149.891096,
+                  -23.32817
+                ],
+                [
+                  149.867192,
+                  -23.337123
+                ],
+                [
+                  149.867008,
+                  -23.337838
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7060",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:50AM 20 May 2024",
+        "EST_FIX_TIME": "2:00PM 20 May 2024",
+        "STREETS": "BARRETT RD, COMMANCHE RD, DONOVAN RD, ROSEWOOD RD, STANWELL WAROULA RD, THIRSTY CREEK RD, TOOWARRA RD",
+        "SUBURBS": "GOGANGO, KALAPA, MORINISH, MORINISH SOUTH, STANWELL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -365,5 +450,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716162600.518957"
+  "extracted": "1716162900.502309"
 }
