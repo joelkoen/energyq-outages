@@ -62,9 +62,94 @@
         "STREETS": "TINGIRA ST",
         "SUBURBS": "PINKENBA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.055142,
+              -27.488092
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.054248,
+                  -27.488439
+                ],
+                [
+                  153.054789,
+                  -27.48885
+                ],
+                [
+                  153.055022,
+                  -27.488949
+                ],
+                [
+                  153.055351,
+                  -27.489005
+                ],
+                [
+                  153.05595,
+                  -27.488603
+                ],
+                [
+                  153.056034,
+                  -27.487793
+                ],
+                [
+                  153.056036,
+                  -27.487743
+                ],
+                [
+                  153.056032,
+                  -27.48756
+                ],
+                [
+                  153.055267,
+                  -27.48718
+                ],
+                [
+                  153.05518,
+                  -27.487226
+                ],
+                [
+                  153.05517,
+                  -27.487231
+                ],
+                [
+                  153.054307,
+                  -27.487713
+                ],
+                [
+                  153.054248,
+                  -27.488439
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-760502-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "18",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "5:53AM 20 May 2024",
+        "EST_FIX_TIME": "8:30AM 20 May 2024",
+        "STREETS": "CAVENDISH RD, MILSOM ST",
+        "SUBURBS": "COORPAROO"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716148201.771905"
+  "extracted": "1716148501.055222"
 }
