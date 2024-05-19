@@ -228,9 +228,102 @@
         "STREETS": "CURTIN AVE, CURTIN AVE E, CURTIN AVE W, FISON AVE W, INDUSTRY CT",
         "SUBURBS": "EAGLE FARM, PINKENBA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.129051,
+              -27.419812
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.121304,
+                  -27.421746
+                ],
+                [
+                  153.122119,
+                  -27.423178
+                ],
+                [
+                  153.122562,
+                  -27.423425
+                ],
+                [
+                  153.12699,
+                  -27.423493
+                ],
+                [
+                  153.127237,
+                  -27.42344
+                ],
+                [
+                  153.134753,
+                  -27.419859
+                ],
+                [
+                  153.134779,
+                  -27.419846
+                ],
+                [
+                  153.135615,
+                  -27.419387
+                ],
+                [
+                  153.135827,
+                  -27.419154
+                ],
+                [
+                  153.136798,
+                  -27.416713
+                ],
+                [
+                  153.136547,
+                  -27.416157
+                ],
+                [
+                  153.136527,
+                  -27.416148
+                ],
+                [
+                  153.13612,
+                  -27.416131
+                ],
+                [
+                  153.121573,
+                  -27.42112
+                ],
+                [
+                  153.121304,
+                  -27.421746
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-760494-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "18",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "12:34AM 20 May 2024",
+        "EST_FIX_TIME": "3:00AM 20 May 2024",
+        "STREETS": "EAGLE FARM RD, KIRRA ST, TINGIRA ST",
+        "SUBURBS": "PINKENBA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716129003.938195"
+  "extracted": "1716129302.467086"
 }
