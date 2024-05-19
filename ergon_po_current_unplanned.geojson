@@ -422,9 +422,90 @@
         "STREETS": "LANDING RD, LITTLE BOGGA RD, ONE MILE CREEK RD, WILLS RD",
         "SUBURBS": "MOUNT PELION"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.985328,
+              -18.468673
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.980426,
+                  -18.472428
+                ],
+                [
+                  145.984361,
+                  -18.471966
+                ],
+                [
+                  145.984605,
+                  -18.471865
+                ],
+                [
+                  145.989889,
+                  -18.467692
+                ],
+                [
+                  145.989912,
+                  -18.467673
+                ],
+                [
+                  145.990723,
+                  -18.46694
+                ],
+                [
+                  145.990724,
+                  -18.466284
+                ],
+                [
+                  145.989239,
+                  -18.46494
+                ],
+                [
+                  145.988612,
+                  -18.464919
+                ],
+                [
+                  145.980067,
+                  -18.471631
+                ],
+                [
+                  145.979933,
+                  -18.472158
+                ],
+                [
+                  145.980426,
+                  -18.472428
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8759",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+        "STATUS": "Outage reported",
+        "START": "7:57PM 19 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DALRYMPLE RD",
+        "SUBURBS": "ABERGOWRIE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716120601.340382"
+  "extracted": "1716120903.399141"
 }
