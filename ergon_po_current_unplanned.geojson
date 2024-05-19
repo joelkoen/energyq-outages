@@ -407,6 +407,99 @@
           {
             "type": "Point",
             "coordinates": [
+              140.310533,
+              -19.652152
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  140.038693,
+                  -19.362527
+                ],
+                [
+                  140.067021,
+                  -19.553914
+                ],
+                [
+                  140.067039,
+                  -19.55399
+                ],
+                [
+                  140.160376,
+                  -19.826823
+                ],
+                [
+                  140.160378,
+                  -19.826829
+                ],
+                [
+                  140.217385,
+                  -19.986163
+                ],
+                [
+                  140.217546,
+                  -19.986376
+                ],
+                [
+                  140.364381,
+                  -20.092375
+                ],
+                [
+                  140.365085,
+                  -20.092236
+                ],
+                [
+                  140.582351,
+                  -19.721674
+                ],
+                [
+                  140.582373,
+                  -19.721282
+                ],
+                [
+                  140.355569,
+                  -19.212155
+                ],
+                [
+                  140.354921,
+                  -19.211928
+                ],
+                [
+                  140.038951,
+                  -19.362063
+                ],
+                [
+                  140.038693,
+                  -19.362527
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8754",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:28PM 19 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALCALA STATION, BOOMARRA STATION, BURKE DEVELOPMENT RD, COOLULAH STATION, GLEESON STATION, GRANADA STATION, KAMILAROI STATION, MELINDA DOWNS STATION, NOBBIES STATION, NORMANTON RD, ROSEGREEN STATION, SALLEY CREEK, THREE WAYS RD, YAMBUNGAN STATION",
+        "SUBURBS": "CLONCURRY, JULIA CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               147.25415,
               -27.087368
             ]
@@ -592,5 +685,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716093005.341397"
+  "extracted": "1716093301.162151"
 }
