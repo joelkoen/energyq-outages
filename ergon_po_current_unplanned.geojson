@@ -353,9 +353,78 @@
         "STREETS": "KUNAPIPI RD, PRIMARY THOR",
         "SUBURBS": "BLOOMSBURY, LAGUNA QUAYS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.828468,
+              -20.9159
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.820312,
+                  -20.910235
+                ],
+                [
+                  148.82893,
+                  -20.924483
+                ],
+                [
+                  148.829767,
+                  -20.924481
+                ],
+                [
+                  148.836623,
+                  -20.913053
+                ],
+                [
+                  148.836439,
+                  -20.912437
+                ],
+                [
+                  148.82679,
+                  -20.907341
+                ],
+                [
+                  148.82637,
+                  -20.907317
+                ],
+                [
+                  148.820546,
+                  -20.909595
+                ],
+                [
+                  148.820312,
+                  -20.910235
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4438",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
+        "STATUS": "Outage reported",
+        "START": "8:23PM 19 May 2024",
+        "EST_FIX_TIME": "2:00AM 20 May 2024",
+        "STREETS": "LANDING RD, LITTLE BOGGA RD, ONE MILE CREEK RD, WILLS RD",
+        "SUBURBS": "MOUNT PELION"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716119701.193839"
+  "extracted": "1716120006.317729"
 }
