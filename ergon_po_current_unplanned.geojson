@@ -532,6 +532,75 @@
           {
             "type": "Point",
             "coordinates": [
+              151.681398,
+              -27.509458
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.680466,
+                  -27.508516
+                ],
+                [
+                  151.681016,
+                  -27.510533
+                ],
+                [
+                  151.681518,
+                  -27.510877
+                ],
+                [
+                  151.682002,
+                  -27.510514
+                ],
+                [
+                  151.682329,
+                  -27.50904
+                ],
+                [
+                  151.682121,
+                  -27.508582
+                ],
+                [
+                  151.681245,
+                  -27.50804
+                ],
+                [
+                  151.680671,
+                  -27.508039
+                ],
+                [
+                  151.680466,
+                  -27.508516
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9018",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:00AM 19 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CIESIOLKA RD",
+        "SUBURBS": "AUBIGNY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               149.922566,
               -26.01582
             ]
@@ -644,5 +713,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716083103.701516"
+  "extracted": "1716083401.472994"
 }
