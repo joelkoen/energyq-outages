@@ -305,9 +305,110 @@
         "STREETS": "CARMILA WEST RD, LEICHHARDT CREEK RD",
         "SUBURBS": "CARMILA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              147.25415,
+              -27.087368
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.913063,
+                  -27.261054
+                ],
+                [
+                  147.166932,
+                  -27.448213
+                ],
+                [
+                  147.16749,
+                  -27.448264
+                ],
+                [
+                  147.577951,
+                  -27.254314
+                ],
+                [
+                  147.578132,
+                  -27.254169
+                ],
+                [
+                  147.580358,
+                  -27.251238
+                ],
+                [
+                  147.580439,
+                  -27.251051
+                ],
+                [
+                  147.595391,
+                  -27.162002
+                ],
+                [
+                  147.595351,
+                  -27.161747
+                ],
+                [
+                  147.373806,
+                  -26.72661
+                ],
+                [
+                  147.372999,
+                  -26.726472
+                ],
+                [
+                  147.319062,
+                  -26.773116
+                ],
+                [
+                  147.31903,
+                  -26.773146
+                ],
+                [
+                  146.957392,
+                  -27.148034
+                ],
+                [
+                  146.957297,
+                  -27.14818
+                ],
+                [
+                  146.912909,
+                  -27.260556
+                ],
+                [
+                  146.913063,
+                  -27.261054
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8997",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "33",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 19 May 2024",
+        "EST_FIX_TIME": "3:00PM 19 May 2024",
+        "STREETS": "ALBURY RD, BOLLON RD, DUNDEE RD, GUNNAWARRA RD, KOKODA RD, MITCHELL-BOLLON RD, NABINE RD, NEBINE RD, TOMOO RD, UNKNOWN RD",
+        "SUBURBS": "BINDEBANGO, MITCHELL, MORVEN, MUNGALLALA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716076501.481813"
+  "extracted": "1716076805.750953"
 }
