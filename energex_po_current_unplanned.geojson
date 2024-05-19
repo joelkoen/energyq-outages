@@ -82,9 +82,102 @@
         "STREETS": "EKERT RD, GRANITE LANE",
         "SUBURBS": "CURRAMORE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.054687,
+              -27.348585
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.053016,
+                  -27.34819
+                ],
+                [
+                  153.053112,
+                  -27.348727
+                ],
+                [
+                  153.053391,
+                  -27.349062
+                ],
+                [
+                  153.05512,
+                  -27.34981
+                ],
+                [
+                  153.055698,
+                  -27.349723
+                ],
+                [
+                  153.056173,
+                  -27.349299
+                ],
+                [
+                  153.056294,
+                  -27.349127
+                ],
+                [
+                  153.056358,
+                  -27.348959
+                ],
+                [
+                  153.056222,
+                  -27.34848
+                ],
+                [
+                  153.055201,
+                  -27.347644
+                ],
+                [
+                  153.054941,
+                  -27.347531
+                ],
+                [
+                  153.053763,
+                  -27.34736
+                ],
+                [
+                  153.053225,
+                  -27.347612
+                ],
+                [
+                  153.053059,
+                  -27.347925
+                ],
+                [
+                  153.053016,
+                  -27.34819
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-760465-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "52",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:31PM 19 May 2024",
+        "EST_FIX_TIME": "8:00PM 19 May 2024",
+        "STREETS": "COLTHORPE ST, MARLIN ST, MULLER RD, ROSCOMMON RD",
+        "SUBURBS": "BOONDALL"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716107701.157648"
+  "extracted": "1716108001.000162"
 }
