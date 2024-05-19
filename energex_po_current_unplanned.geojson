@@ -175,9 +175,110 @@
         "STREETS": "COLTHORPE ST, MARLIN ST, MULLER RD, ROSCOMMON RD",
         "SUBURBS": "BOONDALL"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.362504,
+              -27.778044
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.360047,
+                  -27.778019
+                ],
+                [
+                  153.360136,
+                  -27.778607
+                ],
+                [
+                  153.360185,
+                  -27.77875
+                ],
+                [
+                  153.360721,
+                  -27.779701
+                ],
+                [
+                  153.361167,
+                  -27.77995
+                ],
+                [
+                  153.363382,
+                  -27.779981
+                ],
+                [
+                  153.363594,
+                  -27.779943
+                ],
+                [
+                  153.36469,
+                  -27.779515
+                ],
+                [
+                  153.36496,
+                  -27.77894
+                ],
+                [
+                  153.364416,
+                  -27.777678
+                ],
+                [
+                  153.364306,
+                  -27.777524
+                ],
+                [
+                  153.362888,
+                  -27.776232
+                ],
+                [
+                  153.36241,
+                  -27.776108
+                ],
+                [
+                  153.361193,
+                  -27.776359
+                ],
+                [
+                  153.360869,
+                  -27.776572
+                ],
+                [
+                  153.360111,
+                  -27.777732
+                ],
+                [
+                  153.360047,
+                  -27.778019
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-760478-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "49",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "7:21PM 19 May 2024",
+        "EST_FIX_TIME": "10:30PM 19 May 2024",
+        "STREETS": "BAY DR, MARINE CT, SAILS CT, SEAVIEW AVE, STAPYLTON JACOBS WELL RD",
+        "SUBURBS": "JACOBS WELL"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716110401.05645"
+  "extracted": "1716110701.112243"
 }
