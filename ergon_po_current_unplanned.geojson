@@ -168,6 +168,59 @@
           {
             "type": "Point",
             "coordinates": [
+              141.915951,
+              -12.03953
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  141.916409,
+                  -12.039539
+                ],
+                [
+                  141.91596,
+                  -12.03908
+                ],
+                [
+                  141.915494,
+                  -12.039522
+                ],
+                [
+                  141.915943,
+                  -12.039981
+                ],
+                [
+                  141.916409,
+                  -12.039539
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6431",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:04AM 19 May 2024",
+        "EST_FIX_TIME": "12:00PM 19 May 2024",
+        "STREETS": "NOUIGA ST",
+        "SUBURBS": "MAPOON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.67154,
               -20.608011
             ]
@@ -410,5 +463,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716077101.339765"
+  "extracted": "1716077401.916121"
 }
