@@ -70,6 +70,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.645394,
+          -17.304116
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5982",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 20 May 2024",
+        "EST_FIX_TIME": "2:00PM 20 May 2024",
+        "STREETS": "RUSSELL RD",
+        "SUBURBS": "MALANDA, YUNGABURRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.69196,
           -20.279785
         ]
@@ -362,5 +383,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716159606.908996"
+  "extracted": "1716159900.398467"
 }
