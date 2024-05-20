@@ -111,67 +111,6 @@
           {
             "type": "Point",
             "coordinates": [
-              150.442872,
-              -23.193219
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  150.444099,
-                  -23.197578
-                ],
-                [
-                  150.442609,
-                  -23.188722
-                ],
-                [
-                  150.442052,
-                  -23.188346
-                ],
-                [
-                  150.441645,
-                  -23.188861
-                ],
-                [
-                  150.443135,
-                  -23.197716
-                ],
-                [
-                  150.443692,
-                  -23.198093
-                ],
-                [
-                  150.444099,
-                  -23.197578
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA7140",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
-        "START": "11:18PM 20 May 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "GREISS RD",
-        "SUBURBS": "THE CAVES"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -347,7 +286,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "52",
         "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "9:06AM 21 May 2024",
         "EST_FIX_TIME": null,
         "STREETS": "BOMBARDERI RD, BOOGAN RD, ENCHONG RD, KATE BOYLAN RD, KURRIMINE RD, MCILWRATH RD, SOUTH JOHNSTONE RD",
@@ -450,5 +389,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716246902.198868"
+  "extracted": "1716247500.434936"
 }
