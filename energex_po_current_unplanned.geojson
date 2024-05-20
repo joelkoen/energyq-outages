@@ -197,15 +197,180 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "96",
         "REASON": "Under Investigation",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "1:06PM 20 May 2024",
-        "EST_FIX_TIME": "3:30PM 20 May 2024",
+        "EST_FIX_TIME": "3:00PM 20 May 2024",
         "STREETS": "HIGHVIEW DR, LISA ST, QUEEN ST, RUSSELL ST, WELLINGTON ST",
         "SUBURBS": "CLEVELAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.383908,
+              -28.004772
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.369724,
+                  -28.006566
+                ],
+                [
+                  153.386015,
+                  -28.01181
+                ],
+                [
+                  153.386017,
+                  -28.01181
+                ],
+                [
+                  153.386178,
+                  -28.011862
+                ],
+                [
+                  153.386222,
+                  -28.011874
+                ],
+                [
+                  153.388429,
+                  -28.012382
+                ],
+                [
+                  153.388502,
+                  -28.012394
+                ],
+                [
+                  153.388667,
+                  -28.012409
+                ],
+                [
+                  153.388837,
+                  -28.0124
+                ],
+                [
+                  153.389,
+                  -28.012367
+                ],
+                [
+                  153.389088,
+                  -28.012341
+                ],
+                [
+                  153.396809,
+                  -28.009372
+                ],
+                [
+                  153.397097,
+                  -28.009077
+                ],
+                [
+                  153.397973,
+                  -28.006231
+                ],
+                [
+                  153.397982,
+                  -28.006197
+                ],
+                [
+                  153.39819,
+                  -28.005235
+                ],
+                [
+                  153.398191,
+                  -28.005227
+                ],
+                [
+                  153.39826,
+                  -28.004875
+                ],
+                [
+                  153.398261,
+                  -28.004871
+                ],
+                [
+                  153.398315,
+                  -28.004576
+                ],
+                [
+                  153.398321,
+                  -28.004475
+                ],
+                [
+                  153.398123,
+                  -28.001627
+                ],
+                [
+                  153.398115,
+                  -28.001569
+                ],
+                [
+                  153.397815,
+                  -28.000189
+                ],
+                [
+                  153.397405,
+                  -27.99983
+                ],
+                [
+                  153.380561,
+                  -27.997179
+                ],
+                [
+                  153.380479,
+                  -27.997172
+                ],
+                [
+                  153.377391,
+                  -27.997134
+                ],
+                [
+                  153.376986,
+                  -27.997304
+                ],
+                [
+                  153.376832,
+                  -27.997476
+                ],
+                [
+                  153.376828,
+                  -27.99748
+                ],
+                [
+                  153.369495,
+                  -28.005865
+                ],
+                [
+                  153.369724,
+                  -28.006566
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-760628-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1337",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "2:17PM 20 May 2024",
+        "EST_FIX_TIME": "5:00PM 20 May 2024",
+        "STREETS": "ALLCHURCH AVE, ASHMORE RD, BENOWA RD, BOREE ST, CARRARA ST, CURRUMBURRA RD, HUDSON CT, IVOR CT, JARRAH PL, LAMBROS DR, MARBELLA DR, MARJORIE CRES, MARYANNE ST, MEDITERRANEAN DR, MILPARINKA TCE, NARANJA CRES, PENAMBER CT, PENELOPE CT, ROSS ST, SOUTH SHIELDS DR, ST KEVINS AVE, TAMBOURAH DR, TANYA CT, TRISTAN CT, WILLAMULKA AVE",
+        "SUBURBS": "ASHMORE, BENOWA"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716178503.449478"
+  "extracted": "1716178800.278826"
 }
