@@ -111,6 +111,67 @@
           {
             "type": "Point",
             "coordinates": [
+              150.442872,
+              -23.193219
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.444099,
+                  -23.197578
+                ],
+                [
+                  150.442609,
+                  -23.188722
+                ],
+                [
+                  150.442052,
+                  -23.188346
+                ],
+                [
+                  150.441645,
+                  -23.188861
+                ],
+                [
+                  150.443135,
+                  -23.197716
+                ],
+                [
+                  150.443692,
+                  -23.198093
+                ],
+                [
+                  150.444099,
+                  -23.197578
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7140",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "11:18PM 20 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "GREISS RD",
+        "SUBURBS": "THE CAVES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -288,5 +349,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716244202.193456"
+  "extracted": "1716244801.22137"
 }
