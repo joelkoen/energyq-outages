@@ -261,6 +261,107 @@
           {
             "type": "Point",
             "coordinates": [
+              146.01685,
+              -17.599069
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.006472,
+                  -17.596746
+                ],
+                [
+                  146.006638,
+                  -17.607462
+                ],
+                [
+                  146.007203,
+                  -17.607898
+                ],
+                [
+                  146.02023,
+                  -17.605354
+                ],
+                [
+                  146.020477,
+                  -17.605223
+                ],
+                [
+                  146.027126,
+                  -17.598523
+                ],
+                [
+                  146.027228,
+                  -17.598058
+                ],
+                [
+                  146.024967,
+                  -17.592037
+                ],
+                [
+                  146.024606,
+                  -17.591745
+                ],
+                [
+                  146.021372,
+                  -17.5912
+                ],
+                [
+                  146.021363,
+                  -17.591198
+                ],
+                [
+                  146.014954,
+                  -17.590241
+                ],
+                [
+                  146.014775,
+                  -17.590247
+                ],
+                [
+                  146.009408,
+                  -17.591435
+                ],
+                [
+                  146.009094,
+                  -17.591671
+                ],
+                [
+                  146.006522,
+                  -17.596534
+                ],
+                [
+                  146.006472,
+                  -17.596746
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6504",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "52",
+        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+        "STATUS": "Outage reported",
+        "START": "9:06AM 21 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOMBARDERI RD, BOOGAN RD, ENCHONG RD, KATE BOYLAN RD, KURRIMINE RD, MCILWRATH RD, SOUTH JOHNSTONE RD",
+        "SUBURBS": "BOOGAN, MOURILYAN, SILKWOOD, SOUTH JOHNSTONE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.997617,
               -18.632824
             ]
@@ -349,5 +450,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716246600.365131"
+  "extracted": "1716246902.198868"
 }
