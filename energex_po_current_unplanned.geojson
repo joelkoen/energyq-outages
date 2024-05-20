@@ -87,131 +87,6 @@
           {
             "type": "Point",
             "coordinates": [
-              153.257377,
-              -27.529102
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.254755,
-                  -27.528654
-                ],
-                [
-                  153.254777,
-                  -27.529009
-                ],
-                [
-                  153.254786,
-                  -27.529075
-                ],
-                [
-                  153.255178,
-                  -27.53076
-                ],
-                [
-                  153.255709,
-                  -27.531119
-                ],
-                [
-                  153.258228,
-                  -27.530962
-                ],
-                [
-                  153.258395,
-                  -27.530925
-                ],
-                [
-                  153.25915,
-                  -27.530632
-                ],
-                [
-                  153.259339,
-                  -27.530505
-                ],
-                [
-                  153.26,
-                  -27.529789
-                ],
-                [
-                  153.259908,
-                  -27.529138
-                ],
-                [
-                  153.256946,
-                  -27.5272
-                ],
-                [
-                  153.256678,
-                  -27.527113
-                ],
-                [
-                  153.256166,
-                  -27.527085
-                ],
-                [
-                  153.256054,
-                  -27.52709
-                ],
-                [
-                  153.255652,
-                  -27.527147
-                ],
-                [
-                  153.255603,
-                  -27.527156
-                ],
-                [
-                  153.255191,
-                  -27.527253
-                ],
-                [
-                  153.254814,
-                  -27.527661
-                ],
-                [
-                  153.254788,
-                  -27.528027
-                ],
-                [
-                  153.254788,
-                  -27.528032
-                ],
-                [
-                  153.254754,
-                  -27.528606
-                ],
-                [
-                  153.254755,
-                  -27.528654
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-760612-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "96",
-        "REASON": "Under Investigation",
-        "STATUS": "In Progress",
-        "START": "1:06PM 20 May 2024",
-        "EST_FIX_TIME": "3:00PM 20 May 2024",
-        "STREETS": "HIGHVIEW DR, LISA ST, QUEEN ST, RUSSELL ST, WELLINGTON ST",
-        "SUBURBS": "CLEVELAND"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               153.383908,
               -28.004772
             ]
@@ -368,9 +243,106 @@
         "STREETS": "ALLCHURCH AVE, ASHMORE RD, BENOWA RD, BOREE ST, CARRARA ST, CURRUMBURRA RD, HUDSON CT, IVOR CT, JARRAH PL, LAMBROS DR, MARBELLA DR, MARJORIE CRES, MARYANNE ST, MEDITERRANEAN DR, MILPARINKA TCE, NARANJA CRES, PENAMBER CT, PENELOPE CT, ROSS ST, SOUTH SHIELDS DR, ST KEVINS AVE, TAMBOURAH DR, TANYA CT, TRISTAN CT, WILLAMULKA AVE",
         "SUBURBS": "ASHMORE, BENOWA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.258063,
+              -28.184879
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.256478,
+                  -28.189369
+                ],
+                [
+                  153.260436,
+                  -28.185064
+                ],
+                [
+                  153.26055,
+                  -28.184761
+                ],
+                [
+                  153.260472,
+                  -28.183009
+                ],
+                [
+                  153.260413,
+                  -28.182814
+                ],
+                [
+                  153.259205,
+                  -28.180804
+                ],
+                [
+                  153.259054,
+                  -28.180651
+                ],
+                [
+                  153.258472,
+                  -28.180278
+                ],
+                [
+                  153.257915,
+                  -28.180254
+                ],
+                [
+                  153.256995,
+                  -28.180734
+                ],
+                [
+                  153.25675,
+                  -28.181052
+                ],
+                [
+                  153.255805,
+                  -28.186297
+                ],
+                [
+                  153.2558,
+                  -28.186335
+                ],
+                [
+                  153.255575,
+                  -28.189051
+                ],
+                [
+                  153.255895,
+                  -28.189504
+                ],
+                [
+                  153.256478,
+                  -28.189369
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-760637-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "51",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "2:39PM 20 May 2024",
+        "EST_FIX_TIME": "5:30PM 20 May 2024",
+        "STREETS": "LYREBIRD RIDGE RD, SPRINGBROOK RD",
+        "SUBURBS": "SPRINGBROOK"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716179700.397996"
+  "extracted": "1716180000.55451"
 }
