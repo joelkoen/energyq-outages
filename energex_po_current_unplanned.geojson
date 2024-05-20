@@ -203,9 +203,94 @@
         "STREETS": "BARNHAM ST, BESHAM PDE, DRAYTON TCE, ELM ST, GUM ST, HUTTON AVE, LOUIS ST, THOMAS ST, WEST AVE, WORTHING ST",
         "SUBURBS": "WYNNUM"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.170705,
+              -27.679134
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.169411,
+                  -27.679339
+                ],
+                [
+                  153.169966,
+                  -27.679969
+                ],
+                [
+                  153.17007,
+                  -27.680058
+                ],
+                [
+                  153.170435,
+                  -27.680289
+                ],
+                [
+                  153.170973,
+                  -27.680318
+                ],
+                [
+                  153.171374,
+                  -27.680122
+                ],
+                [
+                  153.171621,
+                  -27.67984
+                ],
+                [
+                  153.171999,
+                  -27.678548
+                ],
+                [
+                  153.171744,
+                  -27.678034
+                ],
+                [
+                  153.171565,
+                  -27.677951
+                ],
+                [
+                  153.171094,
+                  -27.677951
+                ],
+                [
+                  153.169574,
+                  -27.678661
+                ],
+                [
+                  153.169411,
+                  -27.679339
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-760684-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "6:02PM 20 May 2024",
+        "EST_FIX_TIME": "8:30PM 20 May 2024",
+        "STREETS": "POHON DR, TAHAN CRES, TANSEY DR",
+        "SUBURBS": "TANAH MERAH"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716192003.548609"
+  "extracted": "1716192301.503244"
 }
