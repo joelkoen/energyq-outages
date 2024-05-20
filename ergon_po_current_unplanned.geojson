@@ -10,6 +10,107 @@
           {
             "type": "Point",
             "coordinates": [
+              150.522542,
+              -24.51761
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.497147,
+                  -24.493735
+                ],
+                [
+                  150.502832,
+                  -24.513276
+                ],
+                [
+                  150.502883,
+                  -24.513388
+                ],
+                [
+                  150.510661,
+                  -24.525573
+                ],
+                [
+                  150.510687,
+                  -24.525609
+                ],
+                [
+                  150.523529,
+                  -24.54194
+                ],
+                [
+                  150.524246,
+                  -24.542022
+                ],
+                [
+                  150.543281,
+                  -24.527367
+                ],
+                [
+                  150.54339,
+                  -24.527249
+                ],
+                [
+                  150.547908,
+                  -24.520156
+                ],
+                [
+                  150.547937,
+                  -24.519756
+                ],
+                [
+                  150.546393,
+                  -24.516336
+                ],
+                [
+                  150.546356,
+                  -24.51627
+                ],
+                [
+                  150.540868,
+                  -24.508195
+                ],
+                [
+                  150.540624,
+                  -24.508011
+                ],
+                [
+                  150.497798,
+                  -24.493198
+                ],
+                [
+                  150.497147,
+                  -24.493735
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7091",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:31PM 20 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DRUMBURLE RD, LANDS END RD, RED HILL RD, ZIEBARTHS RD",
+        "SUBURBS": "BILOELA, THANGOOL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.193627,
               -9.952397
             ]
@@ -89,6 +190,115 @@
         "EST_FIX_TIME": "12:00PM 02 Jun 2024",
         "STREETS": "AIRSTRIP ST, BASKETBALL COURT ST, DANIEL ST, MAIN ST, MAP ST, UNKNOWN ST, WARRIA ST",
         "SUBURBS": "MABUIAG ISLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.037639,
+              -17.52752
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.036163,
+                  -17.527957
+                ],
+                [
+                  146.036216,
+                  -17.528055
+                ],
+                [
+                  146.036293,
+                  -17.528158
+                ],
+                [
+                  146.037025,
+                  -17.528893
+                ],
+                [
+                  146.037357,
+                  -17.529032
+                ],
+                [
+                  146.03763,
+                  -17.529037
+                ],
+                [
+                  146.037701,
+                  -17.529033
+                ],
+                [
+                  146.038298,
+                  -17.528954
+                ],
+                [
+                  146.03868,
+                  -17.528652
+                ],
+                [
+                  146.039157,
+                  -17.527306
+                ],
+                [
+                  146.038994,
+                  -17.526799
+                ],
+                [
+                  146.038167,
+                  -17.526202
+                ],
+                [
+                  146.037939,
+                  -17.526114
+                ],
+                [
+                  146.036962,
+                  -17.526004
+                ],
+                [
+                  146.03645,
+                  -17.526342
+                ],
+                [
+                  146.036251,
+                  -17.527099
+                ],
+                [
+                  146.036249,
+                  -17.527109
+                ],
+                [
+                  146.036121,
+                  -17.527647
+                ],
+                [
+                  146.036163,
+                  -17.527957
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6498",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "34",
+        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+        "STATUS": "Outage reported",
+        "START": "5:16PM 20 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "EAST ESP, MARTIN ST, RYAN ST, THE CORSO",
+        "SUBURBS": "EAST INNISFAIL"
       }
     },
     {
@@ -272,5 +482,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716189901.394275"
+  "extracted": "1716190203.742607"
 }
