@@ -297,9 +297,74 @@
         "STREETS": "EKERT RD, GRANITE LANE",
         "SUBURBS": "CURRAMORE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.156342,
+              -27.695678
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.155789,
+                  -27.695737
+                ],
+                [
+                  153.155892,
+                  -27.695959
+                ],
+                [
+                  153.156423,
+                  -27.696236
+                ],
+                [
+                  153.156863,
+                  -27.695852
+                ],
+                [
+                  153.156896,
+                  -27.695649
+                ],
+                [
+                  153.156472,
+                  -27.695139
+                ],
+                [
+                  153.156337,
+                  -27.69512
+                ],
+                [
+                  153.155789,
+                  -27.695737
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-760702-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "9:05PM 20 May 2024",
+        "EST_FIX_TIME": "4:00AM 21 May 2024",
+        "STREETS": "KING ARTHUR BVD",
+        "SUBURBS": "BETHANIA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716203101.466768"
+  "extracted": "1716203401.21956"
 }
