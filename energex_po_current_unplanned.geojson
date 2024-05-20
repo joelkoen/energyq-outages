@@ -62,9 +62,90 @@
         "STREETS": "TINGIRA ST",
         "SUBURBS": "PINKENBA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.037584,
+              -27.544439
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.037465,
+                  -27.54528
+                ],
+                [
+                  153.0382,
+                  -27.544901
+                ],
+                [
+                  153.038437,
+                  -27.5444
+                ],
+                [
+                  153.038317,
+                  -27.543975
+                ],
+                [
+                  153.037911,
+                  -27.543641
+                ],
+                [
+                  153.037623,
+                  -27.543597
+                ],
+                [
+                  153.037062,
+                  -27.543889
+                ],
+                [
+                  153.036909,
+                  -27.544265
+                ],
+                [
+                  153.036905,
+                  -27.544277
+                ],
+                [
+                  153.03673,
+                  -27.544748
+                ],
+                [
+                  153.036892,
+                  -27.54524
+                ],
+                [
+                  153.037465,
+                  -27.54528
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-760587-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "11:47AM 20 May 2024",
+        "EST_FIX_TIME": "2:00PM 20 May 2024",
+        "STREETS": "JAYBEL ST",
+        "SUBURBS": "SALISBURY"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716169504.048843"
+  "extracted": "1716169800.509417"
 }
