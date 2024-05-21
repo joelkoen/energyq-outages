@@ -191,9 +191,82 @@
         "STREETS": "AIRSTRIP ST, BASKETBALL COURT ST, DANIEL ST, MAIN ST, MAP ST, UNKNOWN ST, WARRIA ST",
         "SUBURBS": "MABUIAG ISLAND"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.412083,
+              -20.000793
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.410385,
+                  -20.003094
+                ],
+                [
+                  146.412415,
+                  -20.004044
+                ],
+                [
+                  146.41295,
+                  -20.003972
+                ],
+                [
+                  146.413834,
+                  -20.003205
+                ],
+                [
+                  146.413988,
+                  -20.002854
+                ],
+                [
+                  146.413784,
+                  -19.997964
+                ],
+                [
+                  146.413415,
+                  -19.997542
+                ],
+                [
+                  146.412887,
+                  -19.997766
+                ],
+                [
+                  146.410177,
+                  -20.002473
+                ],
+                [
+                  146.410385,
+                  -20.003094
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8805",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:37AM 21 May 2024",
+        "EST_FIX_TIME": "2:00PM 21 May 2024",
+        "STREETS": "FLINDERS HWY",
+        "SUBURBS": "SELLHEIM"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716255301.274422"
+  "extracted": "1716255601.419173"
 }
