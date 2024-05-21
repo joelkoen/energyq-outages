@@ -3124,7 +3124,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "32",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 22 May 2024",
         "EST_FIX_TIME": "2:30PM 22 May 2024",
         "STREETS": "CLIFFES RD, CLYDE MCLEANS RD, HOWLANDS RD, JANSENS RD, JIM MCLEANS RD, LONG MILE RD, MOUNT OSSA SEAFORTH RD, SURPRISE CREEK RD",
@@ -4867,7 +4867,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "20",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 22 May 2024",
         "EST_FIX_TIME": "2:30PM 22 May 2024",
         "STREETS": "FARRELL DR, FERRARIS RD, MARINIS RD, MONA RD, OLD WHARF RD, VELLA'S RD",
@@ -5287,7 +5287,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 22 May 2024",
         "EST_FIX_TIME": "1:00PM 22 May 2024",
         "STREETS": "TOOMPINE RD",
@@ -6097,6 +6097,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.014875,
+          -28.222219
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8837",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:05AM 22 May 2024",
+        "EST_FIX_TIME": "12:45PM 22 May 2024",
+        "STREETS": "GEORGE ST",
+        "SUBURBS": "WARWICK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.00982,
           -28.228255
         ]
@@ -6788,5 +6809,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1716328803.232866"
+  "extracted": "1716329400.424926"
 }
