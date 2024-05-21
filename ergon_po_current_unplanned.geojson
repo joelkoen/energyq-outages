@@ -134,9 +134,118 @@
         "STREETS": "ARKHURST RD, ARMIT CT, BLACKCURRANT DR, BLAIR RD, BLAIR SIDING RD, BRIDSONS RD, BRUCE HWY, CAPTAIN JACK DR, COWRY CRES, CRYSTAL BROOK RD, CRYSTALBROOK RD, DEICKE CRES, DINGO BEACH RD, EARLANDO RD, GLOUCESTER AVE, GLOUCESTER PASSAGE, GREGORY RIVER RD, GUMBRELL CT, HENNING CRES, HYDEAWAY BAY DR, KOOLACHU RD, MITRE CT, MUREX ST, OLDEN CT, OLIVE ST, PIONEER DR, RATTRAY AVE, READ RD, ROSERIC CRES, SADDLEBACK RD, SCALLOP CT, SPRUCE RD, SUNSET BCH, TROCHUS ST, UP RIVER RD, WANDARRA RD",
         "SUBURBS": "BOWEN, CAPE GLOUCESTER, CRYSTAL BROOK, DINGO BEACH, FOXDALE, GLOUCESTER, GREGORY, GREGORY RIVER, HIDEAWAY BAY, KOOLACHU, MYRTLEVALE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.855264,
+              -27.30491
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.848814,
+                  -27.304313
+                ],
+                [
+                  151.849562,
+                  -27.306306
+                ],
+                [
+                  151.849703,
+                  -27.306497
+                ],
+                [
+                  151.850479,
+                  -27.307123
+                ],
+                [
+                  151.850706,
+                  -27.307228
+                ],
+                [
+                  151.854256,
+                  -27.307945
+                ],
+                [
+                  151.854434,
+                  -27.307952
+                ],
+                [
+                  151.86147,
+                  -27.307119
+                ],
+                [
+                  151.861713,
+                  -27.306318
+                ],
+                [
+                  151.856221,
+                  -27.302499
+                ],
+                [
+                  151.855988,
+                  -27.30241
+                ],
+                [
+                  151.855316,
+                  -27.302317
+                ],
+                [
+                  151.85531,
+                  -27.302316
+                ],
+                [
+                  151.851788,
+                  -27.301868
+                ],
+                [
+                  151.851428,
+                  -27.301945
+                ],
+                [
+                  151.849183,
+                  -27.303347
+                ],
+                [
+                  151.848997,
+                  -27.303565
+                ],
+                [
+                  151.848817,
+                  -27.30402
+                ],
+                [
+                  151.848814,
+                  -27.304313
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9135",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "77",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "3:00PM 21 May 2024",
+        "EST_FIX_TIME": "8:00PM 21 May 2024",
+        "STREETS": "ALBERT ST, BARKER ST, EDWARD ST, HARTWIG ST, KING ST, LAU ST, MARKET ST, MOCATTA ST, PECHEY MACLAGAN RD",
+        "SUBURBS": "GOOMBUNGEE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716272701.548787"
+  "extracted": "1716273003.379434"
 }
