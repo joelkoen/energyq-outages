@@ -202,9 +202,90 @@
         "STREETS": "ALTISSIMO CT, ANGEL CT, APEX GR, ARIANNA CL, ARUBA PL, ATOLL CRES, AVANDEL CT, BASSINO CT, BETTINA CT, BONSOIR CT, BRANDY CT, BRENDALE ST, BUNYA PARK DR, CAMARA CT, CANDELLA CT, CHARLIE CL, CHURCH RD, COOLAMON CT, CORSO ST, CURRAJON ST, DELORE CL, DIANA CT, DOONSIDE PDE, DUET CT, EATONS CROSSING RD, ELDERBERRY CT, EMANUAL CT, EMMA PL, EXCELCIA CT, FAIRY PL, FEE PL, FELICIA PL, FIREWHEEL CT, FOAMBARK CT, FRIESA CT, GEORGETTE CT, GIRRAH ST, GLENDORE CT, GOWRIE ST, GRANADA DR, GYPSY CT, HANDEL CT, HARRY CT, HEATHERLEA ST, ILONA PL, JANNA CT, JESSICA CT, JUBILEE CT, KARDINAL CT, KARENA ST, LACEFLOWER CRES, LILAC CT, MARINA CT, MARYLIN TCE, MASCOTTE CT, MEDEO CT, MEILLAND CT, MELIA CT, MEMOIRE CT, MONICA CT, OPHELIA CRES, OSIRA CL, PARADISE CT, PASCALI CRES, PEACE CT, PEER CT, PENELOPE CT, PERLA CL, PHOENIX CT, PLUM PINE CT, PORTIA CL, QUEEN ELIZABETH DR, RENAE CT, ROTHSCHILD ST, ROUNDELAY CT, SARABAND DR, SARAH CT, SNOW WOOD DR, SONORA CT, SONYA CT, SOUTH PINE RD, SUNBEAM CT, SUNBLEST CT, SYLVIA CT, TALISMAN CT, TIFFANY CT, TONNERE CT, TORO CT, VALENCIA CT, VIRGO PL, WINDRUSH CL, ZORINA CT",
         "SUBURBS": "BRENDALE, EATONS HILL, WARNER"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.750362,
+              -26.692806
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.749393,
+                  -26.692851
+                ],
+                [
+                  152.749801,
+                  -26.695196
+                ],
+                [
+                  152.750475,
+                  -26.695549
+                ],
+                [
+                  152.750553,
+                  -26.695523
+                ],
+                [
+                  152.750876,
+                  -26.695141
+                ],
+                [
+                  152.750923,
+                  -26.694678
+                ],
+                [
+                  152.750923,
+                  -26.694677
+                ],
+                [
+                  152.75133,
+                  -26.690542
+                ],
+                [
+                  152.75094,
+                  -26.690062
+                ],
+                [
+                  152.750359,
+                  -26.690346
+                ],
+                [
+                  152.749418,
+                  -26.692624
+                ],
+                [
+                  152.749393,
+                  -26.692851
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-760930-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:20PM 21 May 2024",
+        "EST_FIX_TIME": "9:30PM 21 May 2024",
+        "STREETS": "EKERT RD, GRANITE LANE",
+        "SUBURBS": "CURRAMORE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716279601.267903"
+  "extracted": "1716279901.463957"
 }
