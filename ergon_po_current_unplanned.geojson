@@ -155,9 +155,78 @@
         "STREETS": "UP RIVER RD",
         "SUBURBS": "FOXDALE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.911443,
+              -26.187778
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.908646,
+                  -26.189213
+                ],
+                [
+                  151.914547,
+                  -26.187198
+                ],
+                [
+                  151.914845,
+                  -26.186638
+                ],
+                [
+                  151.914238,
+                  -26.186343
+                ],
+                [
+                  151.909359,
+                  -26.187551
+                ],
+                [
+                  151.909162,
+                  -26.187646
+                ],
+                [
+                  151.90814,
+                  -26.188453
+                ],
+                [
+                  151.908041,
+                  -26.189024
+                ],
+                [
+                  151.908646,
+                  -26.189213
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5894",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:07PM 21 May 2024",
+        "EST_FIX_TIME": "12:00PM 22 May 2024",
+        "STREETS": "CROWNTHORPE RD",
+        "SUBURBS": "TABLELANDS"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716291601.304543"
+  "extracted": "1716291903.168762"
 }
