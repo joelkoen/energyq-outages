@@ -251,9 +251,106 @@
         "STREETS": "ARKHURST RD, ARMIT CT, BLACKCURRANT DR, BLAIR RD, BLAIR SIDING RD, BRIDSONS RD, BRUCE HWY, CAPTAIN JACK DR, COWRY CRES, CRYSTAL BROOK RD, CRYSTALBROOK RD, DEICKE CRES, DINGO BEACH RD, EARLANDO RD, GLOUCESTER AVE, GLOUCESTER PASSAGE, GREGORY RIVER RD, GUMBRELL CT, HENNING CRES, HYDEAWAY BAY DR, KOOLACHU RD, MITRE CT, MUREX ST, OLDEN CT, OLIVE ST, PIONEER DR, RATTRAY AVE, READ RD, ROSERIC CRES, SADDLEBACK RD, SCALLOP CT, SPRUCE RD, SUNSET BCH, TROCHUS ST, UP RIVER RD, WANDARRA RD",
         "SUBURBS": "BOWEN, CAPE GLOUCESTER, CRYSTAL BROOK, DINGO BEACH, FOXDALE, GLOUCESTER, GREGORY, GREGORY RIVER, HIDEAWAY BAY, KOOLACHU, MYRTLEVALE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.411785,
+              -24.76624
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.409665,
+                  -24.767233
+                ],
+                [
+                  152.412658,
+                  -24.767842
+                ],
+                [
+                  152.412688,
+                  -24.767847
+                ],
+                [
+                  152.413024,
+                  -24.767896
+                ],
+                [
+                  152.413098,
+                  -24.767901
+                ],
+                [
+                  152.413435,
+                  -24.767904
+                ],
+                [
+                  152.413595,
+                  -24.767881
+                ],
+                [
+                  152.413903,
+                  -24.767787
+                ],
+                [
+                  152.414236,
+                  -24.767417
+                ],
+                [
+                  152.414284,
+                  -24.767072
+                ],
+                [
+                  152.414268,
+                  -24.766889
+                ],
+                [
+                  152.413613,
+                  -24.764837
+                ],
+                [
+                  152.412888,
+                  -24.764576
+                ],
+                [
+                  152.40952,
+                  -24.766408
+                ],
+                [
+                  152.409285,
+                  -24.766866
+                ],
+                [
+                  152.409665,
+                  -24.767233
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5893",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:50PM 21 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BURNETT HEADS RD, MARSHALL ST, YOUNG ST",
+        "SUBURBS": "BURNETT HEADS"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716281701.634915"
+  "extracted": "1716282004.098437"
 }
