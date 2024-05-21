@@ -1,78 +1,8 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              152.961017,
-              -27.330153
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.960324,
-                  -27.332389
-                ],
-                [
-                  152.962214,
-                  -27.331416
-                ],
-                [
-                  152.962466,
-                  -27.330993
-                ],
-                [
-                  152.962244,
-                  -27.328244
-                ],
-                [
-                  152.961433,
-                  -27.327917
-                ],
-                [
-                  152.959963,
-                  -27.328919
-                ],
-                [
-                  152.959765,
-                  -27.329249
-                ],
-                [
-                  152.959568,
-                  -27.331968
-                ],
-                [
-                  152.960324,
-                  -27.332389
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-760924-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "7",
-        "REASON": "Damage due to severe weather",
-        "STATUS": "In Progress",
-        "START": "5:58PM 21 May 2024",
-        "EST_FIX_TIME": "3:30AM 22 May 2024",
-        "STREETS": "SOUTH PINE RD",
-        "SUBURBS": "BRENDALE, WARNER"
-      }
-    }
-  ],
+  "features": [],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716311101.541173"
+  "extracted": "1716311401.32285"
 }
