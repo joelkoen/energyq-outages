@@ -91,27 +91,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.507139,
-          -23.497863
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA5415",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
-        "START": "8:30AM 22 May 2024",
-        "EST_FIX_TIME": "2:30PM 22 May 2024",
-        "STREETS": "ILFRACOMBE-ISISFOR RD, LANDSBOROUGH HWY, OFF MITCHELL ST",
-        "SUBURBS": "ILFRACOMBE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           144.887763,
           -24.698917
         ]
@@ -987,6 +966,27 @@
         "EST_FIX_TIME": "1:00PM 22 May 2024",
         "STREETS": "GREENMOUNT RD, RITCHIES RD, ROCKY WATERHOLE WOLLINGFORD RD, VELLAS RD",
         "SUBURBS": "GREENMOUNT, PLEYSTOWE, WALKERSTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.187311,
+          -21.12191
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4067",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:05AM 22 May 2024",
+        "EST_FIX_TIME": "4:00PM 22 May 2024",
+        "STREETS": "CANBERRA ST, GRENDON ST, UNGERER ST",
+        "SUBURBS": "NORTH MACKAY"
       }
     },
     {
@@ -2105,5 +2105,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716325501.227356"
+  "extracted": "1716325801.048192"
 }
