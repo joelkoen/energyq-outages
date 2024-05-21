@@ -436,7 +436,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 22 May 2024",
         "EST_FIX_TIME": "12:30PM 22 May 2024",
         "STREETS": "DAINTREE RD",
@@ -583,7 +583,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "7",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 22 May 2024",
         "EST_FIX_TIME": "2:30PM 22 May 2024",
         "STREETS": "HAMILTON RD, WHITNEY RD",
@@ -1150,7 +1150,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "16",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 22 May 2024",
         "EST_FIX_TIME": "3:30PM 22 May 2024",
         "STREETS": "KNUCKLEDOWN RD, MOUNT FOX RD, OAK HILLS RD, SILVER WATTLE RD",
@@ -1624,6 +1624,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.20003,
+          -24.806668
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5028",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "66",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:09AM 22 May 2024",
+        "EST_FIX_TIME": "2:00PM 22 May 2024",
+        "STREETS": "BUCCA RD, COBBS RD, HORWOOD DR, PARCEMI RD, QUINNS RD, ROSEDALE RD",
+        "SUBURBS": "BUCCA, MEADOWVALE, MOORLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.134919,
           -25.73953
         ]
@@ -1664,5 +1685,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716329400.424926"
+  "extracted": "1716329702.653611"
 }
