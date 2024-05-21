@@ -102,9 +102,78 @@
         "STREETS": "DRUMBURLE RD, LANDS END RD, RED HILL RD, ZIEBARTHS RD",
         "SUBURBS": "BILOELA, THANGOOL"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.865868,
+              -17.462737
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.864996,
+                  -17.46431
+                ],
+                [
+                  145.865416,
+                  -17.464122
+                ],
+                [
+                  145.865419,
+                  -17.46412
+                ],
+                [
+                  145.86737,
+                  -17.463229
+                ],
+                [
+                  145.86741,
+                  -17.462433
+                ],
+                [
+                  145.865202,
+                  -17.461165
+                ],
+                [
+                  145.86449,
+                  -17.461523
+                ],
+                [
+                  145.864327,
+                  -17.46387
+                ],
+                [
+                  145.864996,
+                  -17.46431
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6519",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "10:57AM 21 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "JOYCE RD",
+        "SUBURBS": "WOOPEN CREEK"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716257403.441171"
+  "extracted": "1716257702.7017"
 }
