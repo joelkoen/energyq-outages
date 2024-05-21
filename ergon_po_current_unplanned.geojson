@@ -478,9 +478,118 @@
         "STREETS": "JOANNE ST, SMILEY CT",
         "SUBURBS": "DEERAGUN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.509247,
+              -27.666461
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.353311,
+                  -27.675962
+                ],
+                [
+                  150.454203,
+                  -27.716243
+                ],
+                [
+                  150.454325,
+                  -27.716276
+                ],
+                [
+                  150.578333,
+                  -27.734987
+                ],
+                [
+                  150.578497,
+                  -27.734988
+                ],
+                [
+                  150.647823,
+                  -27.725162
+                ],
+                [
+                  150.647867,
+                  -27.725154
+                ],
+                [
+                  150.665176,
+                  -27.721278
+                ],
+                [
+                  150.665477,
+                  -27.720596
+                ],
+                [
+                  150.631644,
+                  -27.674161
+                ],
+                [
+                  150.631438,
+                  -27.674
+                ],
+                [
+                  150.575632,
+                  -27.650119
+                ],
+                [
+                  150.575548,
+                  -27.650091
+                ],
+                [
+                  150.364923,
+                  -27.597934
+                ],
+                [
+                  150.364294,
+                  -27.598266
+                ],
+                [
+                  150.363275,
+                  -27.602178
+                ],
+                [
+                  150.363266,
+                  -27.602224
+                ],
+                [
+                  150.353016,
+                  -27.675495
+                ],
+                [
+                  150.353311,
+                  -27.675962
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9045",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "31",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 21 May 2024",
+        "EST_FIX_TIME": "2:30PM 21 May 2024",
+        "STREETS": "COLEMANS RD, CROWDERS CREEK RD, LEICHHARDT HWY, MOONIE HWY, OLD MOONIE RD",
+        "SUBURBS": "MOONIE, TARA, WEIR RIVER"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716249000.449407"
+  "extracted": "1716249300.491786"
 }
