@@ -602,7 +602,7 @@
       "properties": {
         "EVENT_ID": "24CA5936",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "223",
+        "CUSTOMERS_AFFECTED": "222",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:30AM 26 May 2024",
@@ -3913,19 +3913,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.188712,
-          -21.102981
+          149.188743,
+          -21.103236
         ]
       },
       "properties": {
         "EVENT_ID": "24MK4126",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "5",
+        "CUSTOMERS_AFFECTED": "4",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Work scheduled",
         "START": "7:00AM 25 May 2024",
         "EST_FIX_TIME": "4:00PM 25 May 2024",
-        "STREETS": "ANDERGROVE RD, APOLLO DR",
+        "STREETS": "APOLLO DR",
         "SUBURBS": "ANDERGROVE"
       }
     },
@@ -4739,7 +4739,7 @@
       "properties": {
         "EVENT_ID": "24NQ7709",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "48",
+        "CUSTOMERS_AFFECTED": "47",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:30AM 26 May 2024",
@@ -5054,7 +5054,7 @@
       "properties": {
         "EVENT_ID": "24NQ8071",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "247",
+        "CUSTOMERS_AFFECTED": "246",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:30AM 22 May 2024",
@@ -5313,6 +5313,27 @@
         "EST_FIX_TIME": "4:00PM 24 May 2024",
         "STREETS": "PAXTON ST",
         "SUBURBS": "NORTH WARD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.796653,
+          -19.26747
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8300",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Work scheduled",
+        "START": "7:00AM 25 May 2024",
+        "EST_FIX_TIME": "4:00PM 25 May 2024",
+        "STREETS": "ECHLIN ST, INGHAM RD",
+        "SUBURBS": "WEST END"
       }
     },
     {
@@ -6694,7 +6715,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "206",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 22 May 2024",
         "EST_FIX_TIME": "2:30PM 22 May 2024",
         "STREETS": "BURRALONG RD, CARRICK WAY, CHAMPION CT, DENMANS CAMP RD, DOOLONG RD, GILSTON RD, JAEGER CT, JINDERA CT, KATHLEEN CRES, MAREE ST, MUNGARA CT, YABARA CT",
@@ -7250,5 +7271,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1716326104.790452"
+  "extracted": "1716326401.309149"
 }
