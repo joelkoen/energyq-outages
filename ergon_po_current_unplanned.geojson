@@ -10,6 +10,91 @@
           {
             "type": "Point",
             "coordinates": [
+              138.824664,
+              -17.940192
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  138.820829,
+                  -17.939322
+                ],
+                [
+                  138.823104,
+                  -17.942472
+                ],
+                [
+                  138.823389,
+                  -17.942655
+                ],
+                [
+                  138.827317,
+                  -17.943476
+                ],
+                [
+                  138.827807,
+                  -17.943285
+                ],
+                [
+                  138.828426,
+                  -17.942386
+                ],
+                [
+                  138.828499,
+                  -17.942079
+                ],
+                [
+                  138.827893,
+                  -17.937801
+                ],
+                [
+                  138.827788,
+                  -17.937573
+                ],
+                [
+                  138.82733,
+                  -17.937049
+                ],
+                [
+                  138.826831,
+                  -17.936909
+                ],
+                [
+                  138.821073,
+                  -17.93864
+                ],
+                [
+                  138.820829,
+                  -17.939322
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6543",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "83",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs.  ",
+        "STATUS": "Outage reported",
+        "START": "5:59AM 22 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CAIRNS DR, CASTICK RD, DOUGLAS RD, FRIDAY ST, GOODEEDAWA ST, GUNNALUNJA DR, KNOT ST, NICHOL ST, PASCOE ST, POTTER ST, READ ST, SCHOOL RD, SHARPE ST, SHEARWATER DR, STOCKYARD ST, YUGGAL ST",
+        "SUBURBS": "DOOMADGEE, GLEN EDEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.911443,
               -26.187778
             ]
@@ -74,5 +159,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716321901.431481"
+  "extracted": "1716322201.293764"
 }
