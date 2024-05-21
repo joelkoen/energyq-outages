@@ -171,9 +171,159 @@
         "STREETS": "JOYCE RD",
         "SUBURBS": "WOOPEN CREEK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              139.859045,
+              -18.105759
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  139.755837,
+                  -17.956909
+                ],
+                [
+                  139.874474,
+                  -18.232051
+                ],
+                [
+                  139.874537,
+                  -18.232155
+                ],
+                [
+                  139.879069,
+                  -18.237736
+                ],
+                [
+                  139.879149,
+                  -18.237813
+                ],
+                [
+                  139.902119,
+                  -18.255139
+                ],
+                [
+                  139.902846,
+                  -18.254953
+                ],
+                [
+                  139.962253,
+                  -18.112965
+                ],
+                [
+                  139.962109,
+                  -18.112447
+                ],
+                [
+                  139.756562,
+                  -17.956386
+                ],
+                [
+                  139.755989,
+                  -17.956379
+                ],
+                [
+                  139.755837,
+                  -17.956909
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6520",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "12:15PM 21 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BURKETOWN RD, NEU MAYER VALLEY STATION, UNKNOWN ST",
+        "SUBURBS": "NORMANTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.827349,
+              -27.429906
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.825943,
+                  -27.431489
+                ],
+                [
+                  151.828169,
+                  -27.431416
+                ],
+                [
+                  151.828642,
+                  -27.43107
+                ],
+                [
+                  151.829239,
+                  -27.428816
+                ],
+                [
+                  151.829003,
+                  -27.428324
+                ],
+                [
+                  151.828406,
+                  -27.428382
+                ],
+                [
+                  151.825583,
+                  -27.430708
+                ],
+                [
+                  151.825459,
+                  -27.431211
+                ],
+                [
+                  151.825943,
+                  -27.431489
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9134",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:30PM 21 May 2024",
+        "EST_FIX_TIME": "2:30PM 21 May 2024",
+        "STREETS": "KINGSTHORPE HADEN RD, LOBWEINS RD",
+        "SUBURBS": "YALANGUR"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716257702.7017"
+  "extracted": "1716258000.324079"
 }
