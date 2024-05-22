@@ -87,6 +87,99 @@
           {
             "type": "Point",
             "coordinates": [
+              151.322895,
+              -24.333402
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.246095,
+                  -24.303052
+                ],
+                [
+                  151.292645,
+                  -24.391283
+                ],
+                [
+                  151.29283,
+                  -24.391471
+                ],
+                [
+                  151.319169,
+                  -24.406289
+                ],
+                [
+                  151.319591,
+                  -24.406329
+                ],
+                [
+                  151.332898,
+                  -24.402016
+                ],
+                [
+                  151.333087,
+                  -24.401905
+                ],
+                [
+                  151.35965,
+                  -24.376781
+                ],
+                [
+                  151.359741,
+                  -24.376662
+                ],
+                [
+                  151.399694,
+                  -24.299697
+                ],
+                [
+                  151.399405,
+                  -24.299076
+                ],
+                [
+                  151.27307,
+                  -24.260475
+                ],
+                [
+                  151.272488,
+                  -24.260677
+                ],
+                [
+                  151.246112,
+                  -24.302631
+                ],
+                [
+                  151.246095,
+                  -24.303052
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7241",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "116",
+        "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
+        "STATUS": "Crews working on-site",
+        "START": "10:35AM 22 May 2024",
+        "EST_FIX_TIME": "10:35AM 22 May 2024",
+        "STREETS": "BOYNE ST, CALLIOPE-NAGOORIN RD, DARLY RD, DAWES LANE, DAWES ST, DEGALGIL ST, DELGALGIL ST, GENTLE ANNIE RD, GLADSTONE MONTO RD, GLADSTONE-MONTO RD, LINDLEY RD, MACGREGOR ST, MARBLE CREEK RD, MCDONALD ST, MILTON ST, MONTO RD, MORAN RD, NORTON RD, OFF MONTO RD, PAYNE RD, RAILWAY TCE, UBOBO ST",
+        "SUBURBS": "BOYNE VALLEY, NAGOORIN, UBOBO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.677936,
               -19.199166
             ]
@@ -300,5 +393,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716338400.60082"
+  "extracted": "1716338705.270856"
 }
