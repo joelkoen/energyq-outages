@@ -1,70 +1,8 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              149.991558,
-              -22.815146
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  150.011318,
-                  -22.804313
-                ],
-                [
-                  149.97132,
-                  -22.825193
-                ],
-                [
-                  149.971135,
-                  -22.825807
-                ],
-                [
-                  149.971798,
-                  -22.825979
-                ],
-                [
-                  150.011796,
-                  -22.805099
-                ],
-                [
-                  150.011981,
-                  -22.804485
-                ],
-                [
-                  150.011318,
-                  -22.804313
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA7273",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews working on-site",
-        "START": "7:55PM 22 May 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "OFF BRUCE HWY, PRINCHESTER SIDING RD",
-        "SUBURBS": "MARLBOROUGH, PRINCHESTER"
-      }
-    }
-  ],
+  "features": [],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716387601.175649"
+  "extracted": "1716387901.624937"
 }
