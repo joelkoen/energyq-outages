@@ -10,8 +10,8 @@
           {
             "type": "Point",
             "coordinates": [
-              148.133177,
-              -24.219277
+              148.097967,
+              -24.339699
             ]
           },
           {
@@ -19,28 +19,44 @@
             "coordinates": [
               [
                 [
-                  148.095919,
-                  -24.224263
+                  148.025494,
+                  -24.32138
                 ],
                 [
-                  148.104027,
-                  -24.238359
+                  148.043217,
+                  -24.411434
                 ],
                 [
-                  148.104332,
-                  -24.238584
+                  148.043218,
+                  -24.411442
                 ],
                 [
-                  148.166348,
-                  -24.254263
+                  148.05964,
+                  -24.48669
                 ],
                 [
-                  148.16646,
-                  -24.254279
+                  148.059843,
+                  -24.486972
                 ],
                 [
-                  148.169935,
-                  -24.2544
+                  148.072894,
+                  -24.495244
+                ],
+                [
+                  148.073495,
+                  -24.495217
+                ],
+                [
+                  148.13337,
+                  -24.448652
+                ],
+                [
+                  148.133536,
+                  -24.448386
+                ],
+                [
+                  148.170439,
+                  -24.254026
                 ],
                 [
                   148.170434,
@@ -75,8 +91,24 @@
                   -24.223735
                 ],
                 [
-                  148.095919,
-                  -24.224263
+                  148.095997,
+                  -24.223742
+                ],
+                [
+                  148.07201,
+                  -24.247072
+                ],
+                [
+                  148.071942,
+                  -24.247157
+                ],
+                [
+                  148.025552,
+                  -24.321075
+                ],
+                [
+                  148.025494,
+                  -24.32138
                 ]
               ]
             ]
@@ -86,12 +118,12 @@
       "properties": {
         "EVENT_ID": "24CA7274",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "24",
+        "CUSTOMERS_AFFECTED": "45",
         "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
         "STATUS": "Crews on route",
         "START": "5:07AM 23 May 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "DALMALLY RD, DAWSON HWY, EIGHT MILE LANE, ROLLESTON RD",
+        "STREETS": "AVOCA RD, DALMALLY RD, DAWSON HWY, EIGHT MILE LANE, ROLLESTON RD, WEALWANDANGIE RD",
         "SUBURBS": "SPRINGSURE"
       }
     },
@@ -185,92 +217,11 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "64",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "4:33AM 23 May 2024",
         "EST_FIX_TIME": null,
         "STREETS": "PARK ST, SHAKESPEARE ST, WENTFORD ST",
         "SUBURBS": "MACKAY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              146.671771,
-              -19.215924
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  146.669895,
-                  -19.230481
-                ],
-                [
-                  146.670822,
-                  -19.230377
-                ],
-                [
-                  146.67124,
-                  -19.229973
-                ],
-                [
-                  146.674177,
-                  -19.201857
-                ],
-                [
-                  146.673787,
-                  -19.201368
-                ],
-                [
-                  146.673243,
-                  -19.201701
-                ],
-                [
-                  146.670108,
-                  -19.213365
-                ],
-                [
-                  146.670094,
-                  -19.21345
-                ],
-                [
-                  146.669942,
-                  -19.215936
-                ],
-                [
-                  146.669942,
-                  -19.215945
-                ],
-                [
-                  146.669365,
-                  -19.230014
-                ],
-                [
-                  146.669895,
-                  -19.230481
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ8871",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "52",
-        "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
-        "STATUS": "Crews working on-site",
-        "START": "2:32AM 23 May 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "LIONEL TURNER DR, MT LOW PKWY, NORTHSHORE BVD",
-        "SUBURBS": "BURDELL, BUSHLAND BEACH, MOUNT LOW"
       }
     },
     {
@@ -345,5 +296,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716410401.079746"
+  "extracted": "1716410703.889296"
 }
