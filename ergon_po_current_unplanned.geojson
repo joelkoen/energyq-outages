@@ -10,6 +10,103 @@
           {
             "type": "Point",
             "coordinates": [
+              149.190791,
+              -21.148059
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.189473,
+                  -21.148321
+                ],
+                [
+                  149.189733,
+                  -21.149423
+                ],
+                [
+                  149.189939,
+                  -21.149704
+                ],
+                [
+                  149.190604,
+                  -21.150111
+                ],
+                [
+                  149.190996,
+                  -21.150168
+                ],
+                [
+                  149.191333,
+                  -21.15008
+                ],
+                [
+                  149.191625,
+                  -21.149864
+                ],
+                [
+                  149.191731,
+                  -21.149684
+                ],
+                [
+                  149.191765,
+                  -21.149613
+                ],
+                [
+                  149.192104,
+                  -21.148693
+                ],
+                [
+                  149.192109,
+                  -21.148413
+                ],
+                [
+                  149.191403,
+                  -21.146266
+                ],
+                [
+                  149.190986,
+                  -21.145949
+                ],
+                [
+                  149.190515,
+                  -21.146193
+                ],
+                [
+                  149.189515,
+                  -21.148018
+                ],
+                [
+                  149.189473,
+                  -21.148321
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4540",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "64",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "4:33AM 23 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "PARK ST, SHAKESPEARE ST, WENTFORD ST",
+        "SUBURBS": "MACKAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.679388,
               -19.21311
             ]
@@ -174,9 +271,126 @@
         "STREETS": "BAIRD CT, CHANNEL ST, CLEARWATER CT, COWRIE CT, CRAMER ST, CURRAWINYA CT, DAINTREE DR, DEEDES CRES, DUGONG CT, EUNGELLA CT, FILMOY PL, GILLING CT, GLENDOWER ST, GREENTREE CCT, HARRIER CT, HILLOCK CRES, HOLBOURNE ST, KENNARD CCT, KIRRAMA CT, LANFORD ST, LIONEL TURNER DR, LITTABELLA PL, LOCHERN WAY, MARIALA CT, MARINA DR, MOUNT LOW PKWY, MT LOW PKWY, NORTHSHORE BVD, RATTRAY ST, ROKEBY CT, SALONIKA CCT, SASSAFRAS CT, SEABROOK CCT, WIGTON CT, YANOOA CT",
         "SUBURBS": "BURDELL, BUSHLAND BEACH, MOUNT LOW"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.672262,
+              -19.234998
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.666155,
+                  -19.23649
+                ],
+                [
+                  146.668788,
+                  -19.239645
+                ],
+                [
+                  146.669076,
+                  -19.239809
+                ],
+                [
+                  146.671511,
+                  -19.240228
+                ],
+                [
+                  146.671613,
+                  -19.240235
+                ],
+                [
+                  146.67445,
+                  -19.240138
+                ],
+                [
+                  146.674852,
+                  -19.2399
+                ],
+                [
+                  146.676285,
+                  -19.237366
+                ],
+                [
+                  146.676316,
+                  -19.237297
+                ],
+                [
+                  146.678405,
+                  -19.231432
+                ],
+                [
+                  146.678233,
+                  -19.230921
+                ],
+                [
+                  146.677954,
+                  -19.230729
+                ],
+                [
+                  146.677889,
+                  -19.230692
+                ],
+                [
+                  146.676373,
+                  -19.229966
+                ],
+                [
+                  146.676204,
+                  -19.22992
+                ],
+                [
+                  146.67533,
+                  -19.229842
+                ],
+                [
+                  146.675293,
+                  -19.22984
+                ],
+                [
+                  146.670318,
+                  -19.229761
+                ],
+                [
+                  146.669902,
+                  -19.229981
+                ],
+                [
+                  146.66612,
+                  -19.235977
+                ],
+                [
+                  146.666155,
+                  -19.23649
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8872",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "168",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:09AM 23 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BAHAMA CT, BATTEN RD, CALI CT, FRENDON PDE, HOLLY CT, KILCORA ST, MINSKY CT, MT LOW PKWY, RHAIN ST",
+        "SUBURBS": "MOUNT LOW"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716405001.073148"
+  "extracted": "1716405303.545097"
 }
