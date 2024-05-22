@@ -95,6 +95,83 @@
           {
             "type": "Point",
             "coordinates": [
+              148.94235,
+              -21.15256
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.941493,
+                  -21.153352
+                ],
+                [
+                  148.942071,
+                  -21.154782
+                ],
+                [
+                  148.942591,
+                  -21.155069
+                ],
+                [
+                  148.943001,
+                  -21.154655
+                ],
+                [
+                  148.943233,
+                  -21.151648
+                ],
+                [
+                  148.943212,
+                  -21.151479
+                ],
+                [
+                  148.942838,
+                  -21.150366
+                ],
+                [
+                  148.942342,
+                  -21.150052
+                ],
+                [
+                  148.941903,
+                  -21.150434
+                ],
+                [
+                  148.941467,
+                  -21.153124
+                ],
+                [
+                  148.941493,
+                  -21.153352
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4545",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "7:12AM 23 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MARIAN ETON RD",
+        "SUBURBS": "MARIAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.22029,
               -20.008017
             ]
@@ -162,87 +239,6 @@
         "EST_FIX_TIME": null,
         "STREETS": "FLEMINGTON RD",
         "SUBURBS": "BOWEN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              146.943398,
-              -19.39171
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  146.942526,
-                  -19.390964
-                ],
-                [
-                  146.942719,
-                  -19.392491
-                ],
-                [
-                  146.943134,
-                  -19.392885
-                ],
-                [
-                  146.943325,
-                  -19.392908
-                ],
-                [
-                  146.943757,
-                  -19.392739
-                ],
-                [
-                  146.94427,
-                  -19.392121
-                ],
-                [
-                  146.944257,
-                  -19.391546
-                ],
-                [
-                  146.943562,
-                  -19.390779
-                ],
-                [
-                  146.943509,
-                  -19.390729
-                ],
-                [
-                  146.943307,
-                  -19.390566
-                ],
-                [
-                  146.942774,
-                  -19.390512
-                ],
-                [
-                  146.942526,
-                  -19.390964
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ8884",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "6",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
-        "START": "7:02AM 23 May 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "DUGGAN DR",
-        "SUBURBS": "ALLIGATOR CREEK"
       }
     },
     {
@@ -402,5 +398,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716421800.50442"
+  "extracted": "1716422101.124728"
 }
