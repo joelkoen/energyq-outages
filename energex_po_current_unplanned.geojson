@@ -118,7 +118,7 @@
         "REASON": "Under Investigation",
         "STATUS": "In Progress",
         "START": "4:20PM 22 May 2024",
-        "EST_FIX_TIME": "7:00PM 22 May 2024",
+        "EST_FIX_TIME": "7:30PM 22 May 2024",
         "STREETS": "LINDSAY PDE",
         "SUBURBS": "PARADISE POINT"
       }
@@ -200,7 +200,7 @@
           {
             "type": "Point",
             "coordinates": [
-              152.920685,
+              152.920515,
               -27.092153
             ]
           },
@@ -208,6 +208,14 @@
             "type": "Polygon",
             "coordinates": [
               [
+                [
+                  152.916744,
+                  -27.092371
+                ],
+                [
+                  152.917191,
+                  -27.092823
+                ],
                 [
                   152.917582,
                   -27.092974
@@ -249,24 +257,16 @@
                   -27.091478
                 ],
                 [
-                  152.919023,
-                  -27.091491
+                  152.91911,
+                  -27.091478
                 ],
                 [
-                  152.917523,
-                  -27.09184
+                  152.917082,
+                  -27.091622
                 ],
                 [
-                  152.917166,
-                  -27.092149
-                ],
-                [
-                  152.917085,
-                  -27.092395
-                ],
-                [
-                  152.917582,
-                  -27.092974
+                  152.916744,
+                  -27.092371
                 ]
               ]
             ]
@@ -277,16 +277,16 @@
         "EVENT_ID": "INCD-761158-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "36",
-        "REASON": "Under Investigation",
+        "REASON": "Emergency Repairs",
         "STATUS": "In Progress",
         "START": "5:37PM 22 May 2024",
-        "EST_FIX_TIME": "7:00PM 22 May 2024",
-        "STREETS": "BELLMERE RD, BISHOP LANE, TEDAR CL",
+        "EST_FIX_TIME": "8:30PM 22 May 2024",
+        "STREETS": "BELLMERE RD, BISHOP LANE, DOBSON LANE, TEDAR CL",
         "SUBURBS": "BELLMERE"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716366301.196279"
+  "extracted": "1716366601.600912"
 }

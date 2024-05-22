@@ -1,70 +1,8 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.28798,
-              -24.30832
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.288784,
-                  -24.307047
-                ],
-                [
-                  151.286516,
-                  -24.308926
-                ],
-                [
-                  151.286481,
-                  -24.309562
-                ],
-                [
-                  151.287176,
-                  -24.309594
-                ],
-                [
-                  151.289444,
-                  -24.307715
-                ],
-                [
-                  151.289479,
-                  -24.307079
-                ],
-                [
-                  151.288784,
-                  -24.307047
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA7241",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is due to fallen power lines.  ",
-        "STATUS": "Crews working on-site",
-        "START": "10:35AM 22 May 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "GLADSTONE-MONTO RD, MONTO RD",
-        "SUBURBS": "BOYNE VALLEY, NAGOORIN"
-      }
-    }
-  ],
+  "features": [],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716366301.031901"
+  "extracted": "1716366603.156874"
 }
