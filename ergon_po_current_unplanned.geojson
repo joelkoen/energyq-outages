@@ -87,6 +87,91 @@
           {
             "type": "Point",
             "coordinates": [
+              151.304279,
+              -24.935903
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.165458,
+                  -24.917837
+                ],
+                [
+                  151.20888,
+                  -24.95924
+                ],
+                [
+                  151.209049,
+                  -24.959346
+                ],
+                [
+                  151.356402,
+                  -25.014452
+                ],
+                [
+                  151.357031,
+                  -25.014238
+                ],
+                [
+                  151.4431,
+                  -24.858005
+                ],
+                [
+                  151.442645,
+                  -24.857353
+                ],
+                [
+                  151.252944,
+                  -24.862269
+                ],
+                [
+                  151.252899,
+                  -24.862272
+                ],
+                [
+                  151.240524,
+                  -24.863637
+                ],
+                [
+                  151.240278,
+                  -24.863729
+                ],
+                [
+                  151.16551,
+                  -24.917171
+                ],
+                [
+                  151.165458,
+                  -24.917837
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7237",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "65",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:00PM 22 May 2024",
+        "EST_FIX_TIME": "3:00PM 22 May 2024",
+        "STREETS": "CANNINDAH RD, CANNINDAH-YARROL RD, HAYS RD, LONGS RD, MCLAUGHLINS RD, MCLEODS RD, MOOROOKA RD, MOUNTAIN VIEW RD, VOSS RD, YARROL RD",
+        "SUBURBS": "MONTO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.322895,
               -24.333402
             ]
@@ -167,9 +252,62 @@
         "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
         "STATUS": "Crews working on-site",
         "START": "10:35AM 22 May 2024",
-        "EST_FIX_TIME": "10:35AM 22 May 2024",
+        "EST_FIX_TIME": null,
         "STREETS": "BOYNE ST, CALLIOPE-NAGOORIN RD, DARLY RD, DAWES LANE, DAWES ST, DEGALGIL ST, DELGALGIL ST, GENTLE ANNIE RD, GLADSTONE MONTO RD, GLADSTONE-MONTO RD, LINDLEY RD, MACGREGOR ST, MARBLE CREEK RD, MCDONALD ST, MILTON ST, MONTO RD, MORAN RD, NORTON RD, OFF MONTO RD, PAYNE RD, RAILWAY TCE, UBOBO ST",
         "SUBURBS": "BOYNE VALLEY, NAGOORIN, UBOBO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.194585,
+              -15.643776
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.195051,
+                  -15.64378
+                ],
+                [
+                  145.194589,
+                  -15.643324
+                ],
+                [
+                  145.194118,
+                  -15.643772
+                ],
+                [
+                  145.194581,
+                  -15.644228
+                ],
+                [
+                  145.195051,
+                  -15.64378
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6564",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:45AM 22 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "GAMPE DR, MULLIGAN HWY",
+        "SUBURBS": "COOKTOWN"
       }
     },
     {
@@ -393,5 +531,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716338705.270856"
+  "extracted": "1716339300.397375"
 }
