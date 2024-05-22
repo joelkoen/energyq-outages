@@ -332,9 +332,78 @@
         "STREETS": "BAIRD CT, CHANNEL ST, COWRIE CT, CRAMER ST, DEEDES CRES, DUGONG CT, FILMOY PL, GILLING CT, GLENDOWER ST, HARRIER CT, HILLOCK CRES, HOLBOURNE ST, KENNARD CCT, LANFORD ST, LIONEL TURNER DR, MT LOW PKWY, NORTHSHORE BVD, RATTRAY ST, SALONIKA CCT, WIGTON CT, YANOOA CT",
         "SUBURBS": "BURDELL, BUSHLAND BEACH, MOUNT LOW"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.736004,
+              -26.110827
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.716191,
+                  -26.111797
+                ],
+                [
+                  150.748173,
+                  -26.127598
+                ],
+                [
+                  150.748903,
+                  -26.12729
+                ],
+                [
+                  150.75605,
+                  -26.094551
+                ],
+                [
+                  150.755348,
+                  -26.094056
+                ],
+                [
+                  150.716366,
+                  -26.110608
+                ],
+                [
+                  150.716106,
+                  -26.110869
+                ],
+                [
+                  150.715958,
+                  -26.111255
+                ],
+                [
+                  150.716191,
+                  -26.111797
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9184",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "7:00AM 23 May 2024",
+        "EST_FIX_TIME": "11:00AM 23 May 2024",
+        "STREETS": "AISBETT'S RD, AUBURN RD, ORMONDE RD",
+        "SUBURBS": "AUBURN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716406801.239786"
+  "extracted": "1716407103.947044"
 }
