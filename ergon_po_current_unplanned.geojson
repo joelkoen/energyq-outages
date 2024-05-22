@@ -184,6 +184,87 @@
           {
             "type": "Point",
             "coordinates": [
+              146.943398,
+              -19.39171
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.942526,
+                  -19.390964
+                ],
+                [
+                  146.942719,
+                  -19.392491
+                ],
+                [
+                  146.943134,
+                  -19.392885
+                ],
+                [
+                  146.943325,
+                  -19.392908
+                ],
+                [
+                  146.943757,
+                  -19.392739
+                ],
+                [
+                  146.94427,
+                  -19.392121
+                ],
+                [
+                  146.944257,
+                  -19.391546
+                ],
+                [
+                  146.943562,
+                  -19.390779
+                ],
+                [
+                  146.943509,
+                  -19.390729
+                ],
+                [
+                  146.943307,
+                  -19.390566
+                ],
+                [
+                  146.942774,
+                  -19.390512
+                ],
+                [
+                  146.942526,
+                  -19.390964
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8884",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:02AM 23 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DUGGAN DR",
+        "SUBURBS": "ALLIGATOR CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               150.736004,
               -26.110827
             ]
@@ -248,5 +329,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716416102.238099"
+  "extracted": "1716416700.204561"
 }
