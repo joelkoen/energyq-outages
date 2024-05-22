@@ -172,8 +172,8 @@
           {
             "type": "Point",
             "coordinates": [
-              151.322895,
-              -24.333402
+              151.28798,
+              -24.30832
             ]
           },
           {
@@ -181,64 +181,32 @@
             "coordinates": [
               [
                 [
-                  151.246095,
-                  -24.303052
+                  151.288784,
+                  -24.307047
                 ],
                 [
-                  151.292645,
-                  -24.391283
+                  151.286516,
+                  -24.308926
                 ],
                 [
-                  151.29283,
-                  -24.391471
+                  151.286481,
+                  -24.309562
                 ],
                 [
-                  151.319169,
-                  -24.406289
+                  151.287176,
+                  -24.309594
                 ],
                 [
-                  151.319591,
-                  -24.406329
+                  151.289444,
+                  -24.307715
                 ],
                 [
-                  151.332898,
-                  -24.402016
+                  151.289479,
+                  -24.307079
                 ],
                 [
-                  151.333087,
-                  -24.401905
-                ],
-                [
-                  151.35965,
-                  -24.376781
-                ],
-                [
-                  151.359741,
-                  -24.376662
-                ],
-                [
-                  151.399694,
-                  -24.299697
-                ],
-                [
-                  151.399405,
-                  -24.299076
-                ],
-                [
-                  151.27307,
-                  -24.260475
-                ],
-                [
-                  151.272488,
-                  -24.260677
-                ],
-                [
-                  151.246112,
-                  -24.302631
-                ],
-                [
-                  151.246095,
-                  -24.303052
+                  151.288784,
+                  -24.307047
                 ]
               ]
             ]
@@ -248,13 +216,13 @@
       "properties": {
         "EVENT_ID": "24CA7241",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "116",
+        "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is due to fallen power lines.  ",
         "STATUS": "Crews working on-site",
         "START": "10:35AM 22 May 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "BOYNE ST, CALLIOPE-NAGOORIN RD, DARLY RD, DAWES LANE, DAWES ST, DEGALGIL ST, DELGALGIL ST, GENTLE ANNIE RD, GLADSTONE MONTO RD, GLADSTONE-MONTO RD, LINDLEY RD, MACGREGOR ST, MARBLE CREEK RD, MCDONALD ST, MILTON ST, MONTO RD, MORAN RD, NORTON RD, OFF MONTO RD, PAYNE RD, RAILWAY TCE, UBOBO ST",
-        "SUBURBS": "BOYNE VALLEY, NAGOORIN, UBOBO"
+        "STREETS": "GLADSTONE-MONTO RD, MONTO RD",
+        "SUBURBS": "BOYNE VALLEY, NAGOORIN"
       }
     },
     {
@@ -308,6 +276,87 @@
         "EST_FIX_TIME": null,
         "STREETS": "GAMPE DR, MULLIGAN HWY",
         "SUBURBS": "COOKTOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.944285,
+              -18.188272
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.94316,
+                  -18.190424
+                ],
+                [
+                  145.945746,
+                  -18.189098
+                ],
+                [
+                  145.945993,
+                  -18.188743
+                ],
+                [
+                  145.946083,
+                  -18.187851
+                ],
+                [
+                  145.946058,
+                  -18.187659
+                ],
+                [
+                  145.945559,
+                  -18.186296
+                ],
+                [
+                  145.944783,
+                  -18.186121
+                ],
+                [
+                  145.943412,
+                  -18.187397
+                ],
+                [
+                  145.943293,
+                  -18.187578
+                ],
+                [
+                  145.942488,
+                  -18.189882
+                ],
+                [
+                  145.942632,
+                  -18.190371
+                ],
+                [
+                  145.94316,
+                  -18.190424
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6574",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
+        "STATUS": "Outage reported",
+        "START": "10:17AM 22 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRUCE HWY",
+        "SUBURBS": "KENNEDY"
       }
     },
     {
@@ -422,5 +471,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716342600.396342"
+  "extracted": "1716342900.709632"
 }
