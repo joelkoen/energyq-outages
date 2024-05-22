@@ -191,9 +191,102 @@
         "STREETS": "MORLEY RD",
         "SUBURBS": "CANINA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.920685,
+              -27.092153
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.917582,
+                  -27.092974
+                ],
+                [
+                  152.923928,
+                  -27.092816
+                ],
+                [
+                  152.924286,
+                  -27.09206
+                ],
+                [
+                  152.923992,
+                  -27.091773
+                ],
+                [
+                  152.923858,
+                  -27.091679
+                ],
+                [
+                  152.923243,
+                  -27.091385
+                ],
+                [
+                  152.922984,
+                  -27.091331
+                ],
+                [
+                  152.91962,
+                  -27.091452
+                ],
+                [
+                  152.919611,
+                  -27.091452
+                ],
+                [
+                  152.919121,
+                  -27.091478
+                ],
+                [
+                  152.919023,
+                  -27.091491
+                ],
+                [
+                  152.917523,
+                  -27.09184
+                ],
+                [
+                  152.917166,
+                  -27.092149
+                ],
+                [
+                  152.917085,
+                  -27.092395
+                ],
+                [
+                  152.917582,
+                  -27.092974
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-761158-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "36",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:37PM 22 May 2024",
+        "EST_FIX_TIME": "7:30PM 22 May 2024",
+        "STREETS": "BELLMERE RD, BISHOP LANE, TEDAR CL",
+        "SUBURBS": "BELLMERE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716363301.355221"
+  "extracted": "1716363601.133261"
 }
