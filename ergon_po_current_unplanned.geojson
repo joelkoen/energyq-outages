@@ -10,6 +10,91 @@
           {
             "type": "Point",
             "coordinates": [
+              145.686854,
+              -16.780423
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.685272,
+                  -16.780583
+                ],
+                [
+                  145.686119,
+                  -16.781299
+                ],
+                [
+                  145.68634,
+                  -16.781403
+                ],
+                [
+                  145.687206,
+                  -16.781563
+                ],
+                [
+                  145.687263,
+                  -16.781571
+                ],
+                [
+                  145.687723,
+                  -16.7816
+                ],
+                [
+                  145.688077,
+                  -16.781476
+                ],
+                [
+                  145.68854,
+                  -16.781053
+                ],
+                [
+                  145.68842,
+                  -16.780319
+                ],
+                [
+                  145.686116,
+                  -16.779245
+                ],
+                [
+                  145.685499,
+                  -16.779438
+                ],
+                [
+                  145.685169,
+                  -16.780029
+                ],
+                [
+                  145.685272,
+                  -16.780583
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6604",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "18",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:30AM 23 May 2024",
+        "EST_FIX_TIME": "10:00AM 23 May 2024",
+        "STREETS": "GANNET ST, KEWARRA ST",
+        "SUBURBS": "KEWARRA BEACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               149.190791,
               -21.148059
             ]
@@ -414,5 +499,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716417903.947375"
+  "extracted": "1716418201.541864"
 }
