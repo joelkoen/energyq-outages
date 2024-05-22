@@ -62,9 +62,70 @@
         "STREETS": "GLADSTONE-MONTO RD, MONTO RD",
         "SUBURBS": "BOYNE VALLEY, NAGOORIN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.201572,
+              -23.527697
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.205408,
+                  -23.540509
+                ],
+                [
+                  148.198689,
+                  -23.514674
+                ],
+                [
+                  148.198098,
+                  -23.51434
+                ],
+                [
+                  148.197736,
+                  -23.514885
+                ],
+                [
+                  148.204456,
+                  -23.54072
+                ],
+                [
+                  148.205046,
+                  -23.541054
+                ],
+                [
+                  148.205408,
+                  -23.540509
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7267",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:02PM 22 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CAPRICORN HWY",
+        "SUBURBS": "EMERALD"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716354300.525477"
+  "extracted": "1716354600.392768"
 }
