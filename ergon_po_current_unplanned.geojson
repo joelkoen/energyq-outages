@@ -265,6 +265,91 @@
           {
             "type": "Point",
             "coordinates": [
+              151.304279,
+              -24.935903
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.165458,
+                  -24.917837
+                ],
+                [
+                  151.20888,
+                  -24.95924
+                ],
+                [
+                  151.209049,
+                  -24.959346
+                ],
+                [
+                  151.356402,
+                  -25.014452
+                ],
+                [
+                  151.357031,
+                  -25.014238
+                ],
+                [
+                  151.4431,
+                  -24.858005
+                ],
+                [
+                  151.442645,
+                  -24.857353
+                ],
+                [
+                  151.252944,
+                  -24.862269
+                ],
+                [
+                  151.252899,
+                  -24.862272
+                ],
+                [
+                  151.240524,
+                  -24.863637
+                ],
+                [
+                  151.240278,
+                  -24.863729
+                ],
+                [
+                  151.16551,
+                  -24.917171
+                ],
+                [
+                  151.165458,
+                  -24.917837
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7244",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "65",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "11:29AM 22 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CANNINDAH RD, CANNINDAH-YARROL RD, HAYS RD, LONGS RD, MCLAUGHLINS RD, MCLEODS RD, MOOROOKA RD, MOUNTAIN VIEW RD, VOSS RD, YARROL RD",
+        "SUBURBS": "MONTO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.194585,
               -15.643776
             ]
@@ -319,7 +404,7 @@
             "type": "Point",
             "coordinates": [
               146.677936,
-              -19.199166
+              -19.193046
             ]
           },
           {
@@ -335,28 +420,52 @@
                   -19.187486
                 ],
                 [
-                  146.664048,
-                  -19.187545
+                  146.664131,
+                  -19.187721
                 ],
                 [
-                  146.669538,
-                  -19.212628
+                  146.664339,
+                  -19.187989
                 ],
                 [
-                  146.669927,
-                  -19.212982
+                  146.664352,
+                  -19.188005
                 ],
                 [
-                  146.670585,
-                  -19.213084
+                  146.666733,
+                  -19.190806
                 ],
                 [
-                  146.670936,
-                  -19.213007
+                  146.66674,
+                  -19.190813
                 ],
                 [
-                  146.691397,
-                  -19.199262
+                  146.667089,
+                  -19.191206
+                ],
+                [
+                  146.667118,
+                  -19.191236
+                ],
+                [
+                  146.674519,
+                  -19.198157
+                ],
+                [
+                  146.674761,
+                  -19.198278
+                ],
+                [
+                  146.688409,
+                  -19.200845
+                ],
+                [
+                  146.688748,
+                  -19.200789
+                ],
+                [
+                  146.691369,
+                  -19.199279
                 ],
                 [
                   146.691591,
@@ -410,12 +519,12 @@
       "properties": {
         "EVENT_ID": "24NQ8824",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "894",
+        "CUSTOMERS_AFFECTED": "775",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Crews working on-site",
         "START": "6:39AM 22 May 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "ALBA CT, ALMOND CT, ANAMARI CT, BALSAM ST, BEECH CT, BILBAO PL, BIRCH CT, BUNYA ST, COOLAN CT, COUTTS DR, DEEDES CRES, DUNE PDE, EBONY CT, ELM CT, FIG CT, FUCHSIA CT, GARLAND RD, GOICOECHEA DR, GUM CT, HICKORY CT, HILLGROVE CT, JACOB CT, JAMAICA CRES, KIRRAMA CT, KURRAJONG CT, LASINDRA CT, LINUM CT, LIONEL TURNER DR, LIVISTONIA CL, LOTUS CT, LULU CT, MACADAMIA CT, MAHOGANY CT, MANUKA CT, MARGARITA CT, MARINA DR, MARITA CT, MELIA CT, MOSTYN CRES, MOUNT LOW PKWY, MT LOW PKWY, OCEAN PARK DR, PACIFIC AVE, PARK VIEW TCE, PINCER CT, RUMBALA CT, SANDALAN CT, SEABREEZE CT, SEASPRAY CT, SHELLWATER PL, SORREL CT, VESTERMAN CT, WATERVIEW DR, WEIR CT",
+        "STREETS": "ALBA CT, ALMOND CT, ANAMARI CT, BALSAM ST, BEECH CT, BIRCH CT, BUNYA ST, COOLAN CT, COUTTS DR, DUNE PDE, EBONY CT, ELM CT, FIG CT, FUCHSIA CT, GARLAND RD, GUM CT, HICKORY CT, HILLGROVE CT, JACOB CT, JAMAICA CRES, KIRRAMA CT, KURRAJONG CT, LASINDRA CT, LINUM CT, LIVISTONIA CL, LOTUS CT, LULU CT, MACADAMIA CT, MAHOGANY CT, MANUKA CT, MARGARITA CT, MARINA DR, MARITA CT, MELIA CT, MOSTYN CRES, MOUNT LOW PKWY, MT LOW PKWY, OCEAN PARK DR, PACIFIC AVE, PARK VIEW TCE, RUMBALA CT, SANDALAN CT, SEABREEZE CT, SEASPRAY CT, SHELLWATER PL, SORREL CT, VESTERMAN CT, WATERVIEW DR, WEIR CT",
         "SUBURBS": "BURDELL, BUSHLAND BEACH, MOUNT LOW"
       }
     },
@@ -531,5 +640,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716341404.610331"
+  "extracted": "1716341700.313586"
 }
