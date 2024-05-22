@@ -135,75 +135,6 @@
           {
             "type": "Point",
             "coordinates": [
-              148.90954,
-              -21.026914
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  148.896924,
-                  -21.039247
-                ],
-                [
-                  148.920943,
-                  -21.052119
-                ],
-                [
-                  148.921662,
-                  -21.051733
-                ],
-                [
-                  148.922374,
-                  -21.0021
-                ],
-                [
-                  148.921644,
-                  -21.001708
-                ],
-                [
-                  148.907147,
-                  -21.00996
-                ],
-                [
-                  148.90694,
-                  -21.010202
-                ],
-                [
-                  148.896706,
-                  -21.03871
-                ],
-                [
-                  148.896924,
-                  -21.039247
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK4539",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "52",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "6:30AM 23 May 2024",
-        "EST_FIX_TIME": "7:30AM 23 May 2024",
-        "STREETS": "BRUCE HWY, DEALS RD, KUTTABUL MOUNT JUKES RD, MCGILLS RD, MT JUKES RD, PROVES RD, WYSES RD",
-        "SUBURBS": "KUTTABUL, YAKAPARI"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               149.190791,
               -21.148059
             ]
@@ -301,6 +232,83 @@
           {
             "type": "Point",
             "coordinates": [
+              148.22029,
+              -20.008017
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.218509,
+                  -20.008011
+                ],
+                [
+                  148.219887,
+                  -20.008896
+                ],
+                [
+                  148.22009,
+                  -20.008969
+                ],
+                [
+                  148.220958,
+                  -20.009084
+                ],
+                [
+                  148.221435,
+                  -20.008867
+                ],
+                [
+                  148.22207,
+                  -20.007853
+                ],
+                [
+                  148.221712,
+                  -20.007174
+                ],
+                [
+                  148.2196,
+                  -20.00695
+                ],
+                [
+                  148.219398,
+                  -20.00697
+                ],
+                [
+                  148.218629,
+                  -20.007208
+                ],
+                [
+                  148.218509,
+                  -20.008011
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8877",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:04AM 23 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "FLEMINGTON RD",
+        "SUBURBS": "BOWEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               150.736004,
               -26.110827
             ]
@@ -365,5 +373,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716412201.266307"
+  "extracted": "1716412504.25115"
 }
