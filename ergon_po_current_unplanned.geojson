@@ -71,107 +71,6 @@
           {
             "type": "Point",
             "coordinates": [
-              145.719215,
-              -17.131148
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  145.682649,
-                  -17.110281
-                ],
-                [
-                  145.692725,
-                  -17.126051
-                ],
-                [
-                  145.692739,
-                  -17.126071
-                ],
-                [
-                  145.698809,
-                  -17.134508
-                ],
-                [
-                  145.698817,
-                  -17.134519
-                ],
-                [
-                  145.712366,
-                  -17.152192
-                ],
-                [
-                  145.712638,
-                  -17.152364
-                ],
-                [
-                  145.726517,
-                  -17.155464
-                ],
-                [
-                  145.726862,
-                  -17.155413
-                ],
-                [
-                  145.751628,
-                  -17.141355
-                ],
-                [
-                  145.751691,
-                  -17.141312
-                ],
-                [
-                  145.755781,
-                  -17.138015
-                ],
-                [
-                  145.75573,
-                  -17.137286
-                ],
-                [
-                  145.705689,
-                  -17.106899
-                ],
-                [
-                  145.705378,
-                  -17.106833
-                ],
-                [
-                  145.682989,
-                  -17.109596
-                ],
-                [
-                  145.682649,
-                  -17.110281
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN6593",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "144",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews working on-site",
-        "START": "3:20PM 22 May 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "APPALOOSA ST, BERYL ANN DR, BRAYS RD, BRONCO CL, DOWNING RD, FAIRWEATHER ACCESS RD, GALLET RD, GILLIES HWY, GOLDSBOROUGH RD, IRVIN ACCS, LITTLE MULGRAVE RD, NIELSEN RD, PALAMINO CT, PAPACEK ACCESS RD, ROOS RD",
-        "SUBURBS": "GOLDSBOROUGH, GORDONVALE, LITTLE MULGRAVE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               148.235727,
               -19.987677
             ]
@@ -260,13 +159,98 @@
         "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
         "STATUS": "Crews working on-site",
         "START": "4:00PM 22 May 2024",
-        "EST_FIX_TIME": null,
+        "EST_FIX_TIME": "6:00PM 22 May 2024",
         "STREETS": "CATALINA CT",
         "SUBURBS": "BOWEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.717988,
+              -19.380213
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.714506,
+                  -19.381997
+                ],
+                [
+                  146.716169,
+                  -19.382525
+                ],
+                [
+                  146.716383,
+                  -19.382545
+                ],
+                [
+                  146.720507,
+                  -19.382019
+                ],
+                [
+                  146.720901,
+                  -19.381698
+                ],
+                [
+                  146.721463,
+                  -19.379881
+                ],
+                [
+                  146.721481,
+                  -19.37978
+                ],
+                [
+                  146.721571,
+                  -19.378354
+                ],
+                [
+                  146.721019,
+                  -19.377881
+                ],
+                [
+                  146.719684,
+                  -19.378087
+                ],
+                [
+                  146.719507,
+                  -19.37815
+                ],
+                [
+                  146.714404,
+                  -19.381186
+                ],
+                [
+                  146.714506,
+                  -19.381997
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8866",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+        "STATUS": "Outage reported",
+        "START": "4:12PM 22 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "HAMMOND WAY",
+        "SUBURBS": "KELSO"
       }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716363903.024102"
+  "extracted": "1716364201.281659"
 }
