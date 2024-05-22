@@ -448,6 +448,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          143.209029,
+          -17.734717
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5626",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 23 May 2024",
+        "EST_FIX_TIME": "2:00PM 23 May 2024",
+        "STREETS": "UNKNOWN ST",
+        "SUBURBS": "GEORGETOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.089402,
           -17.949244
         ]
@@ -1088,7 +1109,7 @@
         "CUSTOMERS_AFFECTED": "60",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:00AM 23 May 2024",
+        "START": "9:00AM 23 May 2024",
         "EST_FIX_TIME": "2:00PM 23 May 2024",
         "STREETS": "BREAKAWAY DR, ELIANA BVD, LITTLE BEND, LLOYD CL, SMYTH CRES, VAIENTE PDE",
         "SUBURBS": "BREAKAWAY"
@@ -1622,5 +1643,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716419703.446299"
+  "extracted": "1716420000.315621"
 }
