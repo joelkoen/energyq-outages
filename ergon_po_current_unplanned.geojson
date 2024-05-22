@@ -71,6 +71,107 @@
           {
             "type": "Point",
             "coordinates": [
+              145.71419,
+              -17.131148
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.682649,
+                  -17.110281
+                ],
+                [
+                  145.692725,
+                  -17.126051
+                ],
+                [
+                  145.692739,
+                  -17.126071
+                ],
+                [
+                  145.698809,
+                  -17.134508
+                ],
+                [
+                  145.698817,
+                  -17.134519
+                ],
+                [
+                  145.712366,
+                  -17.152192
+                ],
+                [
+                  145.712638,
+                  -17.152364
+                ],
+                [
+                  145.726517,
+                  -17.155464
+                ],
+                [
+                  145.726866,
+                  -17.155411
+                ],
+                [
+                  145.74551,
+                  -17.144599
+                ],
+                [
+                  145.745732,
+                  -17.144139
+                ],
+                [
+                  145.745428,
+                  -17.142337
+                ],
+                [
+                  145.745283,
+                  -17.142078
+                ],
+                [
+                  145.705757,
+                  -17.10695
+                ],
+                [
+                  145.705378,
+                  -17.106833
+                ],
+                [
+                  145.682989,
+                  -17.109596
+                ],
+                [
+                  145.682649,
+                  -17.110281
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6593",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "140",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:20PM 22 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "APPALOOSA ST, BERYL ANN DR, BRAYS RD, BRONCO CL, FAIRWEATHER ACCESS RD, GALLET RD, GILLIES HWY, IRVIN ACCS, LITTLE MULGRAVE RD, NIELSEN RD, PALAMINO CT, PAPACEK ACCESS RD, ROOS RD",
+        "SUBURBS": "GOLDSBOROUGH, LITTLE MULGRAVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.124989,
               -25.106723
             ]
@@ -133,9 +234,9 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "10",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "9:37AM 22 May 2024",
-        "EST_FIX_TIME": null,
+        "EST_FIX_TIME": "5:30PM 22 May 2024",
         "STREETS": "PROMISEDLAND RD, SVENSSONS RD",
         "SUBURBS": "BOOYAL, CORDALBA"
       }
@@ -143,5 +244,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716357609.898663"
+  "extracted": "1716358201.214768"
 }
