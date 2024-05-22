@@ -1234,7 +1234,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "152",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 23 May 2024",
         "EST_FIX_TIME": "3:00PM 23 May 2024",
         "STREETS": "ALDVILLE RD, BALONNE HWY, CHARLEVILLE-BOLLON RD, CHARLEVILLE-WYANDRA RD, COONGOOLA LANE, ELMINA RD, KOONAWARRA RD, LINDEN-NEBINE RD, MACK ST, MACKS ST, MITCHELL HWY, MOODY ST, MOUNT ALFRED RD, MT ALFRED-QUILPIE RD, OLD CHARLEVILLE RD, RAILWAY ST, ROSEVALE RD, UNKNOWN RD, WARREGO ST, WESTERN WARREGO RD",
@@ -1288,6 +1288,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.787682,
+          -26.582777
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8280",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:43AM 23 May 2024",
+        "EST_FIX_TIME": "3:00PM 23 May 2024",
+        "STREETS": "DERRY ST",
+        "SUBURBS": "ROMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           147.130221,
           -26.423308
         ]
@@ -1297,7 +1318,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is to carry out training for Switching Operators",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 23 May 2024",
         "EST_FIX_TIME": "3:00PM 23 May 2024",
         "STREETS": "HILLGROVE RD",
@@ -1323,6 +1344,27 @@
         "EST_FIX_TIME": "3:00PM 23 May 2024",
         "STREETS": "GLEN EAGLES DR, ST ANDREWS CH",
         "SUBURBS": "DALBY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.011535,
+          -28.22331
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8655",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:41AM 23 May 2024",
+        "EST_FIX_TIME": "12:00PM 23 May 2024",
+        "STREETS": "HIGH ST, LOCKE ST",
+        "SUBURBS": "WARWICK"
       }
     },
     {
@@ -1364,6 +1406,48 @@
         "START": "8:38AM 23 May 2024",
         "EST_FIX_TIME": "3:00PM 23 May 2024",
         "STREETS": "SPRINGFIELD DR",
+        "SUBURBS": "DALBY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.221552,
+          -27.172024
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8836",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:39AM 23 May 2024",
+        "EST_FIX_TIME": "3:00PM 23 May 2024",
+        "STREETS": "SPRINGFIELD DR",
+        "SUBURBS": "DALBY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.230023,
+          -27.175208
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8840",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:41AM 23 May 2024",
+        "EST_FIX_TIME": "3:00PM 23 May 2024",
+        "STREETS": "SPRING CREEK DR",
         "SUBURBS": "DALBY"
       }
     },
@@ -1428,6 +1512,27 @@
         "EST_FIX_TIME": "2:30PM 23 May 2024",
         "STREETS": "WIDE BAY HWY",
         "SUBURBS": "KINBOMBI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.594676,
+          -25.59935
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5049",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:41AM 23 May 2024",
+        "EST_FIX_TIME": "2:30PM 23 May 2024",
+        "STREETS": "CLIFTON ST, JONES RD, MUNGAR TCE, UNKNOWN RD",
+        "SUBURBS": "MUNGAR"
       }
     },
     {
@@ -1538,5 +1643,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716417602.282598"
+  "extracted": "1716417903.947375"
 }

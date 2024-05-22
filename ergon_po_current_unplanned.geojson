@@ -265,6 +265,91 @@
           {
             "type": "Point",
             "coordinates": [
+              151.447081,
+              -27.828085
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.431561,
+                  -27.813825
+                ],
+                [
+                  151.443323,
+                  -27.839612
+                ],
+                [
+                  151.443487,
+                  -27.839803
+                ],
+                [
+                  151.448682,
+                  -27.843279
+                ],
+                [
+                  151.448856,
+                  -27.843355
+                ],
+                [
+                  151.45242,
+                  -27.844201
+                ],
+                [
+                  151.452874,
+                  -27.844113
+                ],
+                [
+                  151.462561,
+                  -27.836987
+                ],
+                [
+                  151.462601,
+                  -27.836327
+                ],
+                [
+                  151.436075,
+                  -27.812076
+                ],
+                [
+                  151.435529,
+                  -27.81197
+                ],
+                [
+                  151.431847,
+                  -27.813236
+                ],
+                [
+                  151.431561,
+                  -27.813825
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9180",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:40AM 23 May 2024",
+        "EST_FIX_TIME": "12:00PM 23 May 2024",
+        "STREETS": "AULFREYS RD, FYSH RD, YARRAMALONG RD",
+        "SUBURBS": "PAMPAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               150.736004,
               -26.110827
             ]
@@ -329,5 +414,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716417602.282598"
+  "extracted": "1716417903.947375"
 }
