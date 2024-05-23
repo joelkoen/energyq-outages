@@ -521,7 +521,7 @@
         "CUSTOMERS_AFFECTED": "57",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
         "STATUS": "Crews working on-site",
-        "START": "9:00AM 24 May 2024",
+        "START": "9:04AM 24 May 2024",
         "EST_FIX_TIME": "3:00PM 24 May 2024",
         "STREETS": "GRASSTREE BEACH RD, GRASSTREE RD, IRONSIDES RD, SARINA BEACH RD",
         "SUBURBS": "ALLIGATOR CREEK, GRASSTREE BEACH, SARINA"
@@ -1015,6 +1015,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.986181,
+          -26.998987
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB4764",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 24 May 2024",
+        "EST_FIX_TIME": "2:30PM 24 May 2024",
+        "STREETS": "COOYAR RD",
+        "SUBURBS": "MOUNT BINGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.472296,
           -26.016778
         ]
@@ -1076,5 +1097,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716505801.764291"
+  "extracted": "1716506103.431371"
 }
