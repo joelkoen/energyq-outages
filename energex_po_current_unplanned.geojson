@@ -118,9 +118,94 @@
         "STREETS": "ALEX RD, ATTUNGA LANE, MT GLORIOUS RD",
         "SUBURBS": "DUNDAS, MT GLORIOUS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.468162,
+              -27.437014
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.457695,
+                  -27.443554
+                ],
+                [
+                  152.475678,
+                  -27.448968
+                ],
+                [
+                  152.476207,
+                  -27.44885
+                ],
+                [
+                  152.478824,
+                  -27.446381
+                ],
+                [
+                  152.478931,
+                  -27.445916
+                ],
+                [
+                  152.472847,
+                  -27.431042
+                ],
+                [
+                  152.472751,
+                  -27.430898
+                ],
+                [
+                  152.467139,
+                  -27.425229
+                ],
+                [
+                  152.466794,
+                  -27.425078
+                ],
+                [
+                  152.466504,
+                  -27.42506
+                ],
+                [
+                  152.466007,
+                  -27.42533
+                ],
+                [
+                  152.457394,
+                  -27.442946
+                ],
+                [
+                  152.457695,
+                  -27.443554
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-761332-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "26",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "3:09PM 23 May 2024",
+        "EST_FIX_TIME": "6:30PM 23 May 2024",
+        "STREETS": "ATKINSONS DAM RD, BOYCES RD, WATSONS RD",
+        "SUBURBS": "ATKINSONS DAM, MOUNT TARAMPA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716440701.119757"
+  "extracted": "1716441000.496716"
 }
