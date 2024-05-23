@@ -87,6 +87,91 @@
           {
             "type": "Point",
             "coordinates": [
+              150.506869,
+              -27.225143
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.484152,
+                  -27.255214
+                ],
+                [
+                  150.493905,
+                  -27.25777
+                ],
+                [
+                  150.494337,
+                  -27.257706
+                ],
+                [
+                  150.517394,
+                  -27.243213
+                ],
+                [
+                  150.517563,
+                  -27.243031
+                ],
+                [
+                  150.529862,
+                  -27.218984
+                ],
+                [
+                  150.529901,
+                  -27.218726
+                ],
+                [
+                  150.529617,
+                  -27.217123
+                ],
+                [
+                  150.529577,
+                  -27.217004
+                ],
+                [
+                  150.516945,
+                  -27.192517
+                ],
+                [
+                  150.51603,
+                  -27.192516
+                ],
+                [
+                  150.483836,
+                  -27.254591
+                ],
+                [
+                  150.484152,
+                  -27.255214
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9140",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 23 May 2024",
+        "EST_FIX_TIME": "3:00PM 23 May 2024",
+        "STREETS": "KOGAN RD",
+        "SUBURBS": "TARA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.447081,
               -27.828085
             ]
@@ -236,5 +321,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716423601.291909"
+  "extracted": "1716423900.306186"
 }
