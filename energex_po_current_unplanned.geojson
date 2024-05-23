@@ -1,8 +1,86 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.991581,
+              -27.990531
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.989239,
+                  -27.990598
+                ],
+                [
+                  152.989674,
+                  -27.991123
+                ],
+                [
+                  152.989851,
+                  -27.991256
+                ],
+                [
+                  152.992496,
+                  -27.992462
+                ],
+                [
+                  152.993112,
+                  -27.992356
+                ],
+                [
+                  152.993875,
+                  -27.991576
+                ],
+                [
+                  152.993924,
+                  -27.991043
+                ],
+                [
+                  152.992319,
+                  -27.988736
+                ],
+                [
+                  152.9916,
+                  -27.988601
+                ],
+                [
+                  152.989361,
+                  -27.989958
+                ],
+                [
+                  152.989239,
+                  -27.990598
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-761410-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "28",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "6:46AM 24 May 2024",
+        "EST_FIX_TIME": "8:00AM 24 May 2024",
+        "STREETS": "BROMELTON ST, MCKEE ST, TELEMON ST",
+        "SUBURBS": "BEAUDESERT"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716497103.410394"
+  "extracted": "1716497701.135514"
 }
