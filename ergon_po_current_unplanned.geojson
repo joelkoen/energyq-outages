@@ -119,6 +119,123 @@
           {
             "type": "Point",
             "coordinates": [
+              151.210065,
+              -24.737889
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.104675,
+                  -24.615725
+                ],
+                [
+                  151.130309,
+                  -24.853397
+                ],
+                [
+                  151.130642,
+                  -24.85378
+                ],
+                [
+                  151.144935,
+                  -24.858203
+                ],
+                [
+                  151.145081,
+                  -24.858227
+                ],
+                [
+                  151.253635,
+                  -24.860544
+                ],
+                [
+                  151.253935,
+                  -24.860459
+                ],
+                [
+                  151.294374,
+                  -24.833941
+                ],
+                [
+                  151.294398,
+                  -24.833924
+                ],
+                [
+                  151.312789,
+                  -24.820259
+                ],
+                [
+                  151.312971,
+                  -24.819918
+                ],
+                [
+                  151.315455,
+                  -24.692814
+                ],
+                [
+                  151.315441,
+                  -24.6927
+                ],
+                [
+                  151.312484,
+                  -24.681583
+                ],
+                [
+                  151.312345,
+                  -24.681363
+                ],
+                [
+                  151.288511,
+                  -24.660633
+                ],
+                [
+                  151.288302,
+                  -24.660525
+                ],
+                [
+                  151.114602,
+                  -24.61645
+                ],
+                [
+                  151.114539,
+                  -24.616438
+                ],
+                [
+                  151.105235,
+                  -24.615235
+                ],
+                [
+                  151.104675,
+                  -24.615725
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7318",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "257",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:00PM 23 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BALLS RD, BANCROFT SCHOOL RD, BARRIMOON RD, BUKALI RD, BUKALI SCRUB RD, CAHA LANE RD, CAHALANE RD, CANNINDAH RD, COLLINGWOOD RD, COPPIN RD, CRANA RD, CYPRUS ST, DAKIEL RD, DENTS RD, DOYLES RD, FIRE CLAY RD, FOREST ST, FORREST ST, GLADSTONE MONTO RD, GLADSTONE RD, GOODYS RD, HARRIS ST, HAYS RD, KNIGHTS RD, LANGS RD, LOVEDAYS RD, MACKS RD, MONAL RD, PINE MOUNTAIN RD, PINE ST, VOSS RD, WILLIAMS RD, YOULAMBIE RD",
+        "SUBURBS": "BANCROFT, BUKALI, KALPOWAR, MONTO, MUNGUNGO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.999196,
               -17.607994
             ]
@@ -409,5 +526,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716440402.997486"
+  "extracted": "1716440700.244773"
 }
