@@ -219,9 +219,110 @@
         "STREETS": "ALAMEIN RD, EL ALAMEIN RD, LEE CREEK RD, TARAKAN RD, TOBRUK RD",
         "SUBURBS": "ABERGOWRIE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.930115,
+              -27.592936
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.927198,
+                  -27.592824
+                ],
+                [
+                  151.927477,
+                  -27.594213
+                ],
+                [
+                  151.927766,
+                  -27.594544
+                ],
+                [
+                  151.928754,
+                  -27.594942
+                ],
+                [
+                  151.928808,
+                  -27.594961
+                ],
+                [
+                  151.92942,
+                  -27.595136
+                ],
+                [
+                  151.929824,
+                  -27.5951
+                ],
+                [
+                  151.93029,
+                  -27.594865
+                ],
+                [
+                  151.930298,
+                  -27.59486
+                ],
+                [
+                  151.931037,
+                  -27.594471
+                ],
+                [
+                  151.931217,
+                  -27.594309
+                ],
+                [
+                  151.933031,
+                  -27.591514
+                ],
+                [
+                  151.932713,
+                  -27.590851
+                ],
+                [
+                  151.932177,
+                  -27.590735
+                ],
+                [
+                  151.931868,
+                  -27.590755
+                ],
+                [
+                  151.927506,
+                  -27.592328
+                ],
+                [
+                  151.927198,
+                  -27.592824
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9243",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "88",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:21PM 23 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DYSON DR, GAIL CT, GORMAN ST, LAVARACK ST, SHARON CT, STENNER ST, WARE CT, WUTH ST",
+        "SUBURBS": "DARLING HEIGHTS"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716459901.571304"
+  "extracted": "1716460203.394231"
 }
