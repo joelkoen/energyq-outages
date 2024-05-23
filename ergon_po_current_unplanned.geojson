@@ -1,8 +1,118 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              149.034117,
+              -21.328074
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.989188,
+                  -21.302175
+                ],
+                [
+                  148.992366,
+                  -21.324699
+                ],
+                [
+                  148.992496,
+                  -21.324953
+                ],
+                [
+                  149.007199,
+                  -21.339295
+                ],
+                [
+                  149.007409,
+                  -21.339414
+                ],
+                [
+                  149.061066,
+                  -21.354483
+                ],
+                [
+                  149.061559,
+                  -21.354357
+                ],
+                [
+                  149.07896,
+                  -21.33672
+                ],
+                [
+                  149.079046,
+                  -21.33623
+                ],
+                [
+                  149.077385,
+                  -21.33275
+                ],
+                [
+                  149.077242,
+                  -21.332579
+                ],
+                [
+                  149.051552,
+                  -21.313695
+                ],
+                [
+                  149.051432,
+                  -21.313631
+                ],
+                [
+                  149.037969,
+                  -21.308618
+                ],
+                [
+                  149.037883,
+                  -21.308595
+                ],
+                [
+                  149.004555,
+                  -21.30255
+                ],
+                [
+                  149.004493,
+                  -21.302542
+                ],
+                [
+                  148.989696,
+                  -21.301665
+                ],
+                [
+                  148.989188,
+                  -21.302175
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4576",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "188",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:11PM 23 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARTHUR CREEK RD, CARNEGIE CT, ETON HOMEBUSH RD, GRAHAM RD, IVAN JOHNSONS RD, LAMBS RD, MICALLEF RD, OAKENDEN RD, OAKENDEN SARINA RD, OAKENDEN SCHOOL RD, OSBORNES RD, SARINA HOMEBUSH RD, SARINA-HOMEBUSH RD, SEIVERS RD, SHACKLETON RD, SIDERIAL CT, SIEVERS RD, STANFORDS RD",
+        "SUBURBS": "HOMEBUSH, MACKAY, OAKENDEN"
+      }
+    }
+  ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716452103.552632"
+  "extracted": "1716452401.42546"
 }
