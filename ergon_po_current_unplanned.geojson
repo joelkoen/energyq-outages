@@ -110,9 +110,118 @@
         "STREETS": "ARTHUR CREEK RD, CARNEGIE CT, ETON HOMEBUSH RD, GRAHAM RD, IVAN JOHNSONS RD, LAMBS RD, MICALLEF RD, OAKENDEN RD, OAKENDEN SARINA RD, OAKENDEN SCHOOL RD, OSBORNES RD, SARINA HOMEBUSH RD, SARINA-HOMEBUSH RD, SEIVERS RD, SHACKLETON RD, SIDERIAL CT, SIEVERS RD, STANFORDS RD",
         "SUBURBS": "HOMEBUSH, MACKAY, OAKENDEN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.911176,
+              -18.457699
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.896851,
+                  -18.469589
+                ],
+                [
+                  145.902786,
+                  -18.472308
+                ],
+                [
+                  145.902923,
+                  -18.472347
+                ],
+                [
+                  145.912854,
+                  -18.473729
+                ],
+                [
+                  145.91289,
+                  -18.473733
+                ],
+                [
+                  145.920428,
+                  -18.474223
+                ],
+                [
+                  145.920907,
+                  -18.473924
+                ],
+                [
+                  145.92393,
+                  -18.465818
+                ],
+                [
+                  145.923948,
+                  -18.465753
+                ],
+                [
+                  145.925701,
+                  -18.457176
+                ],
+                [
+                  145.925707,
+                  -18.457043
+                ],
+                [
+                  145.924023,
+                  -18.441459
+                ],
+                [
+                  145.92323,
+                  -18.441175
+                ],
+                [
+                  145.903672,
+                  -18.458528
+                ],
+                [
+                  145.903638,
+                  -18.458562
+                ],
+                [
+                  145.901493,
+                  -18.460909
+                ],
+                [
+                  145.901439,
+                  -18.460981
+                ],
+                [
+                  145.896645,
+                  -18.468957
+                ],
+                [
+                  145.896851,
+                  -18.469589
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8935",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "28",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "7:44PM 23 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALAMEIN RD, EL ALAMEIN RD, LEE CREEK RD, TARAKAN RD, TOBRUK RD",
+        "SUBURBS": "ABERGOWRIE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716458104.22778"
+  "extracted": "1716458417.49418"
 }
