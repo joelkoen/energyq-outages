@@ -217,6 +217,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.469328,
+          -16.525615
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN3313",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "54",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 24 May 2024",
+        "EST_FIX_TIME": "1:00PM 24 May 2024",
+        "STREETS": "LAKE CL, NAUTILUS ST, OLD PORT RD, ULYSSES AVE",
+        "SUBURBS": "CRAIGLIE, PORT DOUGLAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.730821,
           -16.947567
         ]
@@ -378,27 +399,6 @@
         "EST_FIX_TIME": "2:30PM 24 May 2024",
         "STREETS": "BERTEI RD, FISHERS CREEK RD, GATTERA RD, JANKE RD, QUONDONG RD",
         "SUBURBS": "COORUMBA, NERADA, PIN GIN HILL"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.945491,
-          -17.643078
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN5948",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:30AM 24 May 2024",
-        "EST_FIX_TIME": "12:30PM 24 May 2024",
-        "STREETS": "UTCHEE CREEK RD",
-        "SUBURBS": "UTCHEE CREEK"
       }
     },
     {
@@ -1076,5 +1076,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716505500.741428"
+  "extracted": "1716505801.764291"
 }
