@@ -10,14 +10,22 @@
           {
             "type": "Point",
             "coordinates": [
-              149.035712,
-              -21.331222
+              149.034117,
+              -21.328074
             ]
           },
           {
             "type": "Polygon",
             "coordinates": [
               [
+                [
+                  148.989188,
+                  -21.302175
+                ],
+                [
+                  148.992366,
+                  -21.324699
+                ],
                 [
                   148.992496,
                   -21.324953
@@ -67,40 +75,24 @@
                   -21.308618
                 ],
                 [
-                  149.03782,
-                  -21.308587
+                  149.037883,
+                  -21.308595
                 ],
                 [
-                  149.026804,
-                  -21.307961
+                  149.004555,
+                  -21.30255
                 ],
                 [
-                  149.02674,
-                  -21.307962
+                  149.004493,
+                  -21.302542
                 ],
                 [
-                  149.013143,
-                  -21.308877
+                  148.989696,
+                  -21.301665
                 ],
                 [
-                  149.01298,
-                  -21.308916
-                ],
-                [
-                  148.994778,
-                  -21.316541
-                ],
-                [
-                  148.994509,
-                  -21.316839
-                ],
-                [
-                  148.992378,
-                  -21.324526
-                ],
-                [
-                  148.992496,
-                  -21.324953
+                  148.989188,
+                  -21.302175
                 ]
               ]
             ]
@@ -110,12 +102,12 @@
       "properties": {
         "EVENT_ID": "24MK4576",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "166",
+        "CUSTOMERS_AFFECTED": "188",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Crews working on-site",
         "START": "6:11PM 23 May 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "ARTHUR CREEK RD, CARNEGIE CT, GRAHAM RD, IVAN JOHNSONS RD, MICALLEF RD, OAKENDEN RD, OAKENDEN SARINA RD, OAKENDEN SCHOOL RD, OSBORNES RD, SARINA HOMEBUSH RD, SARINA-HOMEBUSH RD, SEIVERS RD, SHACKLETON RD, SIDERIAL CT, SIEVERS RD, STANFORDS RD",
+        "STREETS": "ARTHUR CREEK RD, CARNEGIE CT, ETON HOMEBUSH RD, GRAHAM RD, IVAN JOHNSONS RD, LAMBS RD, MICALLEF RD, OAKENDEN RD, OAKENDEN SARINA RD, OAKENDEN SCHOOL RD, OSBORNES RD, SARINA HOMEBUSH RD, SARINA-HOMEBUSH RD, SEIVERS RD, SHACKLETON RD, SIDERIAL CT, SIEVERS RD, STANFORDS RD",
         "SUBURBS": "HOMEBUSH, MACKAY, OAKENDEN"
       }
     },
@@ -223,5 +215,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716466201.580036"
+  "extracted": "1716466502.97915"
 }
