@@ -238,6 +238,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          144.007719,
+          -24.951756
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5541",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "30",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "10:30AM 23 May 2024",
+        "EST_FIX_TIME": "3:00PM 23 May 2024",
+        "STREETS": "JARLEY ST, MOUNT SLOCOMBE RTE, MT MARLOW RD, OFF JARLEY ST, QUILP ST, YARAKA-WINDORAH RD",
+        "SUBURBS": "ISISFORD, YARAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.52204,
           -23.387104
         ]
@@ -2674,27 +2695,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.063189,
-          -21.17468
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK4025",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "7",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:00AM 23 May 2024",
-        "EST_FIX_TIME": "12:00PM 23 May 2024",
-        "STREETS": "BOLD ST, KELLYS RD, STOCKROUTE RD",
-        "SUBURBS": "BAKERS CREEK, PALMYRA, WALKERSTON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           149.275811,
           -21.324294
         ]
@@ -2842,20 +2842,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.165874,
-          -21.115159
+          149.165771,
+          -21.101259
         ]
       },
       "properties": {
-        "EVENT_ID": "24MK4072",
+        "EVENT_ID": "24MK4074",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "5",
+        "CUSTOMERS_AFFECTED": "7",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:50AM 23 May 2024",
+        "START": "11:03AM 23 May 2024",
         "EST_FIX_TIME": "4:00PM 23 May 2024",
-        "STREETS": "ANNIE WOOD AVE, RAYMOND CROKER AVE",
-        "SUBURBS": "MOUNT PLEASANT"
+        "STREETS": "LEAHY ST",
+        "SUBURBS": "BEACONSFIELD"
       }
     },
     {
@@ -3871,27 +3871,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.236277,
-          -19.985087
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ7839",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:30AM 23 May 2024",
-        "EST_FIX_TIME": "12:30PM 23 May 2024",
-        "STREETS": "GOLF LINKS RD, WEBSTER ST",
-        "SUBURBS": "BOWEN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           148.235937,
           -19.986459
         ]
@@ -4472,27 +4451,6 @@
         "START": "8:00AM 26 May 2024",
         "EST_FIX_TIME": "2:00PM 26 May 2024",
         "STREETS": "SOUTH VICKERS RD",
-        "SUBURBS": "CONDON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.719575,
-          -19.329808
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ8470",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:30AM 23 May 2024",
-        "EST_FIX_TIME": "11:30AM 23 May 2024",
-        "STREETS": "TOUCAN CRES",
         "SUBURBS": "CONDON"
       }
     },
@@ -5675,5 +5633,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1716426005.014594"
+  "extracted": "1716426600.602178"
 }
