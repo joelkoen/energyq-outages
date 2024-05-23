@@ -87,6 +87,91 @@
           {
             "type": "Point",
             "coordinates": [
+              146.813973,
+              -19.249281
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.812872,
+                  -19.248801
+                ],
+                [
+                  146.813011,
+                  -19.249216
+                ],
+                [
+                  146.813043,
+                  -19.249289
+                ],
+                [
+                  146.813337,
+                  -19.249822
+                ],
+                [
+                  146.813512,
+                  -19.249999
+                ],
+                [
+                  146.814353,
+                  -19.25048
+                ],
+                [
+                  146.815074,
+                  -19.25007
+                ],
+                [
+                  146.815028,
+                  -19.249228
+                ],
+                [
+                  146.814871,
+                  -19.248915
+                ],
+                [
+                  146.813893,
+                  -19.248081
+                ],
+                [
+                  146.813232,
+                  -19.248104
+                ],
+                [
+                  146.812982,
+                  -19.248351
+                ],
+                [
+                  146.812872,
+                  -19.248801
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8901",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "112",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:43AM 23 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "THE STRAND",
+        "SUBURBS": "NORTH WARD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               150.506869,
               -27.225143
             ]
@@ -248,78 +333,9 @@
         "STREETS": "AULFREYS RD, FYSH RD, YARRAMALONG RD",
         "SUBURBS": "PAMPAS"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              150.736004,
-              -26.110827
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  150.716191,
-                  -26.111797
-                ],
-                [
-                  150.748173,
-                  -26.127598
-                ],
-                [
-                  150.748903,
-                  -26.12729
-                ],
-                [
-                  150.75605,
-                  -26.094551
-                ],
-                [
-                  150.755348,
-                  -26.094056
-                ],
-                [
-                  150.716366,
-                  -26.110608
-                ],
-                [
-                  150.716106,
-                  -26.110869
-                ],
-                [
-                  150.715958,
-                  -26.111255
-                ],
-                [
-                  150.716191,
-                  -26.111797
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW9184",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "6",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "7:00AM 23 May 2024",
-        "EST_FIX_TIME": "11:00AM 23 May 2024",
-        "STREETS": "AISBETT'S RD, AUBURN RD, ORMONDE RD",
-        "SUBURBS": "AUBURN"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716424500.244694"
+  "extracted": "1716425103.480848"
 }
