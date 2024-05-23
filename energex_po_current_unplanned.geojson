@@ -325,9 +325,203 @@
         "STREETS": "KARELYN DR, LAMBOURNE CT",
         "SUBURBS": "JOYNER, LAWNTON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.729402,
+              -27.626726
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.723796,
+                  -27.628283
+                ],
+                [
+                  152.728432,
+                  -27.628473
+                ],
+                [
+                  152.728651,
+                  -27.628439
+                ],
+                [
+                  152.735181,
+                  -27.62601
+                ],
+                [
+                  152.735485,
+                  -27.625517
+                ],
+                [
+                  152.735014,
+                  -27.625143
+                ],
+                [
+                  152.73171,
+                  -27.624978
+                ],
+                [
+                  152.731545,
+                  -27.624994
+                ],
+                [
+                  152.728969,
+                  -27.625637
+                ],
+                [
+                  152.728928,
+                  -27.625649
+                ],
+                [
+                  152.723642,
+                  -27.627409
+                ],
+                [
+                  152.723319,
+                  -27.627902
+                ],
+                [
+                  152.723796,
+                  -27.628283
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-761364-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "75",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "5:14PM 23 May 2024",
+        "EST_FIX_TIME": "8:00PM 23 May 2024",
+        "STREETS": "CHALK ST, COVERACK ST, KYNANCE ST, LANCELOT ST, SAMFORD RD",
+        "SUBURBS": "LEICHHARDT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.099065,
+              -27.622611
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.097001,
+                  -27.621736
+                ],
+                [
+                  153.097443,
+                  -27.622755
+                ],
+                [
+                  153.097465,
+                  -27.622798
+                ],
+                [
+                  153.097658,
+                  -27.623135
+                ],
+                [
+                  153.097771,
+                  -27.623266
+                ],
+                [
+                  153.098847,
+                  -27.624124
+                ],
+                [
+                  153.099544,
+                  -27.624106
+                ],
+                [
+                  153.099785,
+                  -27.623891
+                ],
+                [
+                  153.099786,
+                  -27.62389
+                ],
+                [
+                  153.100955,
+                  -27.622842
+                ],
+                [
+                  153.10096,
+                  -27.622837
+                ],
+                [
+                  153.10113,
+                  -27.622681
+                ],
+                [
+                  153.101069,
+                  -27.622006
+                ],
+                [
+                  153.099978,
+                  -27.621279
+                ],
+                [
+                  153.099704,
+                  -27.62119
+                ],
+                [
+                  153.097965,
+                  -27.621097
+                ],
+                [
+                  153.097903,
+                  -27.621097
+                ],
+                [
+                  153.097442,
+                  -27.621123
+                ],
+                [
+                  153.097001,
+                  -27.621736
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-761365-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "51",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:14PM 23 May 2024",
+        "EST_FIX_TIME": "8:30PM 23 May 2024",
+        "STREETS": "ALEXANDER ST, NYANZA ST, NYDIA ST, ROMILDA ST, SHANNON ST",
+        "SUBURBS": "WOODRIDGE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716448201.239376"
+  "extracted": "1716448503.147137"
 }
