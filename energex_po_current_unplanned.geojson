@@ -1,62 +1,8 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              153.385306,
-              -28.077308
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.385815,
-                  -28.077307
-                ],
-                [
-                  153.385305,
-                  -28.076857
-                ],
-                [
-                  153.384797,
-                  -28.07731
-                ],
-                [
-                  153.385308,
-                  -28.07776
-                ],
-                [
-                  153.385815,
-                  -28.077307
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-761289-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "6",
-        "REASON": "Damage due to severe weather",
-        "STATUS": "Awaiting",
-        "START": "1:09PM 23 May 2024",
-        "EST_FIX_TIME": "4:00PM 23 May 2024",
-        "STREETS": "ROBINA TOWN CENTRE DR",
-        "SUBURBS": "ROBINA"
-      }
-    }
-  ],
+  "features": [],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716435903.347712"
+  "extracted": "1716436200.350065"
 }
