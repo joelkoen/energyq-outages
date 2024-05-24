@@ -75,6 +75,83 @@
           {
             "type": "Point",
             "coordinates": [
+              150.558822,
+              -23.578252
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.527521,
+                  -23.589964
+                ],
+                [
+                  150.556067,
+                  -23.607981
+                ],
+                [
+                  150.556561,
+                  -23.608012
+                ],
+                [
+                  150.590036,
+                  -23.592655
+                ],
+                [
+                  150.590259,
+                  -23.592057
+                ],
+                [
+                  150.567785,
+                  -23.548748
+                ],
+                [
+                  150.567318,
+                  -23.548492
+                ],
+                [
+                  150.555422,
+                  -23.549052
+                ],
+                [
+                  150.555034,
+                  -23.54926
+                ],
+                [
+                  150.527384,
+                  -23.58935
+                ],
+                [
+                  150.527521,
+                  -23.589964
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7343",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "22",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:38AM 24 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOBS CREEK RD, BRUCE HWY, GALVIN RD, MCLEAN RD, UPPER ULAM RD, V RAMM RD, V. RAMM RD",
+        "SUBURBS": "BAJOOL, MIDGEE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               147.677452,
               -20.005539
             ]
@@ -260,5 +337,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716508500.346147"
+  "extracted": "1716508805.035007"
 }
