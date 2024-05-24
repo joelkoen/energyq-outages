@@ -10,6 +10,123 @@
           {
             "type": "Point",
             "coordinates": [
+              150.747389,
+              -23.126858
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.745634,
+                  -23.125705
+                ],
+                [
+                  150.745651,
+                  -23.126177
+                ],
+                [
+                  150.745733,
+                  -23.126411
+                ],
+                [
+                  150.747214,
+                  -23.128474
+                ],
+                [
+                  150.74731,
+                  -23.128573
+                ],
+                [
+                  150.747654,
+                  -23.128834
+                ],
+                [
+                  150.748174,
+                  -23.128891
+                ],
+                [
+                  150.74872,
+                  -23.128649
+                ],
+                [
+                  150.748937,
+                  -23.128458
+                ],
+                [
+                  150.749081,
+                  -23.128214
+                ],
+                [
+                  150.74914,
+                  -23.127999
+                ],
+                [
+                  150.749145,
+                  -23.126479
+                ],
+                [
+                  150.749087,
+                  -23.126265
+                ],
+                [
+                  150.748731,
+                  -23.12565
+                ],
+                [
+                  150.748633,
+                  -23.125533
+                ],
+                [
+                  150.747955,
+                  -23.12495
+                ],
+                [
+                  150.747627,
+                  -23.124829
+                ],
+                [
+                  150.746836,
+                  -23.124824
+                ],
+                [
+                  150.746572,
+                  -23.124893
+                ],
+                [
+                  150.745861,
+                  -23.125308
+                ],
+                [
+                  150.745634,
+                  -23.125705
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7359",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "81",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "1:44PM 24 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ADELAIDE ST, BARTLEM ST, CLIFF ST, FREEMAN ST, HILL ST, NORMANBY ST, RAYMOND TCE",
+        "SUBURBS": "YEPPOON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.301976,
               -27.224133
             ]
@@ -90,5 +207,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716530101.096091"
+  "extracted": "1716530403.158467"
 }
