@@ -10,6 +10,115 @@
           {
             "type": "Point",
             "coordinates": [
+              148.874772,
+              -23.581458
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.873942,
+                  -23.58345
+                ],
+                [
+                  148.874887,
+                  -23.583574
+                ],
+                [
+                  148.875211,
+                  -23.583512
+                ],
+                [
+                  148.875625,
+                  -23.58328
+                ],
+                [
+                  148.875858,
+                  -23.582926
+                ],
+                [
+                  148.876055,
+                  -23.58033
+                ],
+                [
+                  148.876003,
+                  -23.580095
+                ],
+                [
+                  148.875742,
+                  -23.57962
+                ],
+                [
+                  148.875325,
+                  -23.579373
+                ],
+                [
+                  148.874501,
+                  -23.579342
+                ],
+                [
+                  148.874296,
+                  -23.579375
+                ],
+                [
+                  148.873867,
+                  -23.579537
+                ],
+                [
+                  148.873573,
+                  -23.579862
+                ],
+                [
+                  148.8735,
+                  -23.580181
+                ],
+                [
+                  148.87349,
+                  -23.580278
+                ],
+                [
+                  148.873496,
+                  -23.580822
+                ],
+                [
+                  148.873496,
+                  -23.580823
+                ],
+                [
+                  148.873522,
+                  -23.583008
+                ],
+                [
+                  148.873942,
+                  -23.58345
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7374",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "75",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:45AM 25 May 2024",
+        "EST_FIX_TIME": "4:00PM 25 May 2024",
+        "STREETS": "BAUHINIA ST, FAY ST, SANDALWOOD ST, WEY ST",
+        "SUBURBS": "BLACKWATER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.557055,
               -20.680412
             ]
@@ -73,6 +182,119 @@
         "EST_FIX_TIME": null,
         "STREETS": "LAUDERDALE STATION, MILRAY RD, MILRAY STATION, RIVERVIEW STATION",
         "SUBURBS": "PENTLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.721801,
+              -27.445809
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.719929,
+                  -27.447332
+                ],
+                [
+                  151.723021,
+                  -27.447606
+                ],
+                [
+                  151.723492,
+                  -27.447407
+                ],
+                [
+                  151.724058,
+                  -27.446643
+                ],
+                [
+                  151.72411,
+                  -27.446238
+                ],
+                [
+                  151.723454,
+                  -27.444663
+                ],
+                [
+                  151.723279,
+                  -27.444457
+                ],
+                [
+                  151.72308,
+                  -27.444327
+                ],
+                [
+                  151.723065,
+                  -27.444317
+                ],
+                [
+                  151.722848,
+                  -27.444186
+                ],
+                [
+                  151.722618,
+                  -27.444111
+                ],
+                [
+                  151.722173,
+                  -27.444069
+                ],
+                [
+                  151.722155,
+                  -27.444068
+                ],
+                [
+                  151.721238,
+                  -27.444011
+                ],
+                [
+                  151.72116,
+                  -27.444011
+                ],
+                [
+                  151.720649,
+                  -27.44405
+                ],
+                [
+                  151.720205,
+                  -27.444383
+                ],
+                [
+                  151.720041,
+                  -27.444927
+                ],
+                [
+                  151.719491,
+                  -27.446768
+                ],
+                [
+                  151.719929,
+                  -27.447332
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9298",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "65",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "8:01AM 25 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CECIL ST, DELRAY ST, MURRAY ST, PROPOSCH ST, TOOWOOMBA RD",
+        "SUBURBS": "OAKEY"
       }
     },
     {
@@ -151,5 +373,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716590101.159878"
+  "extracted": "1716590401.155618"
 }
