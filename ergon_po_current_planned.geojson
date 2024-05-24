@@ -70,6 +70,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.456162,
+          -23.433071
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6600",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "STATUS": "Crews working on-site",
+        "START": "9:03AM 25 May 2024",
+        "EST_FIX_TIME": "12:30PM 25 May 2024",
+        "STREETS": "OLD CAPRICORN HWY",
+        "SUBURBS": "GRACEMERE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.416928,
           -17.000766
         ]
@@ -320,5 +341,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716591603.616388"
+  "extracted": "1716592201.313574"
 }
