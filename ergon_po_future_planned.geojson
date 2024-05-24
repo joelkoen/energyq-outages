@@ -2527,6 +2527,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          149.198925,
+          -21.146841
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4045",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "10:45AM 24 May 2024",
+        "EST_FIX_TIME": "4:30PM 24 May 2024",
+        "STREETS": "CREAL ST",
+        "SUBURBS": "EAST MACKAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           149.197397,
           -21.142409
         ]
@@ -3801,48 +3822,6 @@
         "EST_FIX_TIME": "3:30PM 28 May 2024",
         "STREETS": "HOBSON RD, IVANHOE RD, RITA ISLAND RD",
         "SUBURBS": "AYR"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.257567,
-          -18.676829
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ8160",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
-        "START": "8:30AM 26 May 2024",
-        "EST_FIX_TIME": "2:30PM 26 May 2024",
-        "STREETS": "FORREST BEACH RD",
-        "SUBURBS": "VICTORIA ESTATE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.260471,
-          -18.706429
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ8161",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
-        "START": "8:30AM 27 May 2024",
-        "EST_FIX_TIME": "2:30PM 27 May 2024",
-        "STREETS": "FORREST BEACH RD",
-        "SUBURBS": "FORREST BEACH"
       }
     },
     {
@@ -5402,5 +5381,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1716511502.077571"
+  "extracted": "1716511800.437237"
 }
