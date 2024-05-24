@@ -99,6 +99,87 @@
           {
             "type": "Point",
             "coordinates": [
+              145.621668,
+              -17.327116
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.619844,
+                  -17.321881
+                ],
+                [
+                  145.62036,
+                  -17.324291
+                ],
+                [
+                  145.620361,
+                  -17.324296
+                ],
+                [
+                  145.622572,
+                  -17.334068
+                ],
+                [
+                  145.623102,
+                  -17.334419
+                ],
+                [
+                  145.6235,
+                  -17.333932
+                ],
+                [
+                  145.622267,
+                  -17.320548
+                ],
+                [
+                  145.621911,
+                  -17.320149
+                ],
+                [
+                  145.620492,
+                  -17.319813
+                ],
+                [
+                  145.619909,
+                  -17.320231
+                ],
+                [
+                  145.619835,
+                  -17.321769
+                ],
+                [
+                  145.619844,
+                  -17.321881
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6665",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews working on-site",
+        "START": "6:52AM 25 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANDERSON RD",
+        "SUBURBS": "MALANDA, PEERAMON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.718693,
               -27.432565
             ]
@@ -211,5 +292,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716586203.977529"
+  "extracted": "1716586501.127967"
 }
