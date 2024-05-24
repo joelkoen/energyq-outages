@@ -118,9 +118,126 @@
         "STREETS": "ADELAIDE ST, BARTLEM ST, CLIFF ST, FREEMAN ST, HILL ST, NORMANBY ST, RAYMOND TCE",
         "SUBURBS": "YEPPOON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.038724,
+              -17.527732
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.012347,
+                  -17.524904
+                ],
+                [
+                  146.030825,
+                  -17.541374
+                ],
+                [
+                  146.03087,
+                  -17.54141
+                ],
+                [
+                  146.031827,
+                  -17.542072
+                ],
+                [
+                  146.031992,
+                  -17.542144
+                ],
+                [
+                  146.03289,
+                  -17.542351
+                ],
+                [
+                  146.032975,
+                  -17.542363
+                ],
+                [
+                  146.063695,
+                  -17.543986
+                ],
+                [
+                  146.064191,
+                  -17.543552
+                ],
+                [
+                  146.065154,
+                  -17.51935
+                ],
+                [
+                  146.06515,
+                  -17.519278
+                ],
+                [
+                  146.065095,
+                  -17.518843
+                ],
+                [
+                  146.065093,
+                  -17.518831
+                ],
+                [
+                  146.064114,
+                  -17.512532
+                ],
+                [
+                  146.063801,
+                  -17.512171
+                ],
+                [
+                  146.061734,
+                  -17.511493
+                ],
+                [
+                  146.06149,
+                  -17.511477
+                ],
+                [
+                  146.015783,
+                  -17.520172
+                ],
+                [
+                  146.015503,
+                  -17.520338
+                ],
+                [
+                  146.012295,
+                  -17.524295
+                ],
+                [
+                  146.012347,
+                  -17.524904
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6661",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1494",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "4:29PM 24 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AGNES ST, ALBA ST, ANNIE ST, BARTLE ST, BENWELL ST, BRADFORD ST, BREEN ST, BROWNLEE ST, BRUCE HWY, BUNDA ST, CAHILL ST, CARGILL ST, CARMEL ST, CASSOWARY ST, CHARLES ST, CHURCH ST, CLANCY ST, CLARE ST, COQUETTE POINT RD, CORINDA ST, CORONATION DR, DANELLE ST, DOVE ST, DUFFY ST, EAST ESP, EDITH ST, EMU ST, ERNEST ST, ESPLANADE, FITZGERALD ST, FLORENCE ST, GLADY ST, GRAHAM ST, HEAVEY ST, HICKEY ST, HILDA ST, HOWE ST, IBIS ST, JODRELL ST, JOHNSTON RD, KARBOOTA ST, KOOKABURRA CL, LEICHARDT ST, LILY ST, LOWER HICKEY ST, MAHOGANY ST, MARJORIE ST, MARTIN ST, MARTY ST, MARY ST, MCGOWAN DR, MEAGHER CL, MORIARTY ST, MOURILYAN RD, MYNARD RD, NOONE ST, PALMERSTON DR, PAYNE ST, PELICAN ST, PHYLLIS ST, PINE ST, POWER ST, PROPENSE ST, PUNCHARD ST, RILEY ST, RIVER RD, ROWNEY ST, RYAN ST, SCHEU ST, SHERWOOD ST, STATION ST, THE CORSO, TRAMWAY ST, TURNER ST, VANDELEUR CL, VELUTION ST, WEBB CRES",
+        "SUBURBS": "COQUETTE POINT, EAST INNISFAIL, GOONDI, GOONDI HILL, INNISFAIL, SOUTH INNISFAIL, WEBB"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716532203.453665"
+  "extracted": "1716532501.272473"
 }
