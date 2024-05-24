@@ -10,6 +10,91 @@
           {
             "type": "Point",
             "coordinates": [
+              145.380947,
+              -16.366023
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.37138,
+                  -16.370925
+                ],
+                [
+                  145.371617,
+                  -16.371332
+                ],
+                [
+                  145.371779,
+                  -16.371495
+                ],
+                [
+                  145.374138,
+                  -16.372903
+                ],
+                [
+                  145.374169,
+                  -16.372921
+                ],
+                [
+                  145.38421,
+                  -16.377916
+                ],
+                [
+                  145.384867,
+                  -16.377659
+                ],
+                [
+                  145.390491,
+                  -16.361609
+                ],
+                [
+                  145.390514,
+                  -16.361426
+                ],
+                [
+                  145.389909,
+                  -16.35442
+                ],
+                [
+                  145.38912,
+                  -16.354131
+                ],
+                [
+                  145.371465,
+                  -16.370377
+                ],
+                [
+                  145.37138,
+                  -16.370925
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6627",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "46",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:09PM 24 May 2024",
+        "EST_FIX_TIME": "5:00PM 24 May 2024",
+        "STREETS": "BAMBOO CREEK RD, DEAN RD, ELIZABETH CL, MIALLO BAMBOO CREEK RD, MIALLO BAMBOO RD",
+        "SUBURBS": "BAMBOO, MIALLO, WHYANBEEL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.654116,
               -19.315684
             ]
@@ -629,5 +714,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716523800.420463"
+  "extracted": "1716524102.649953"
 }
