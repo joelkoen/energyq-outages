@@ -84,15 +84,132 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "8",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "11:14PM 24 May 2024",
         "EST_FIX_TIME": "12:00PM 25 May 2024",
         "STREETS": "CRACOW RD, ISLA-DELUSION RD",
         "SUBURBS": "THEODORE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.718693,
+              -27.432565
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.707129,
+                  -27.431494
+                ],
+                [
+                  151.708154,
+                  -27.434597
+                ],
+                [
+                  151.708298,
+                  -27.434803
+                ],
+                [
+                  151.70951,
+                  -27.435787
+                ],
+                [
+                  151.709573,
+                  -27.43583
+                ],
+                [
+                  151.727171,
+                  -27.446161
+                ],
+                [
+                  151.727943,
+                  -27.445871
+                ],
+                [
+                  151.730272,
+                  -27.435231
+                ],
+                [
+                  151.730273,
+                  -27.435064
+                ],
+                [
+                  151.728973,
+                  -27.428725
+                ],
+                [
+                  151.728882,
+                  -27.428538
+                ],
+                [
+                  151.72361,
+                  -27.422189
+                ],
+                [
+                  151.723451,
+                  -27.422064
+                ],
+                [
+                  151.717358,
+                  -27.419025
+                ],
+                [
+                  151.717071,
+                  -27.41897
+                ],
+                [
+                  151.71107,
+                  -27.419412
+                ],
+                [
+                  151.710626,
+                  -27.419738
+                ],
+                [
+                  151.707265,
+                  -27.430328
+                ],
+                [
+                  151.70725,
+                  -27.430391
+                ],
+                [
+                  151.707113,
+                  -27.431307
+                ],
+                [
+                  151.707129,
+                  -27.431494
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9297",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "643",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:55AM 25 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BEALE ST, BELL ST, BRIDGE ST, CAMPBELL ST, CHERRY ST, COMAN LANE, CONNELLY LANE, COOYAR RD, CORY ST, CREEK ST, CUNLIFFE ST, CUNNINGHAM ST, DAVIDSON ST, DAVIS ST, DESMOND LANE, DESMOND ST, DONELY ST, FEDERAL ST, FITZPATRICK ST, GAYLE ST, JOHN ST, KATRINA ST, KENT ST, MASON ST, MCDONALD ST, MCGRATH LANE, MIDDLE ST, OAKEY CUTELLA RD, QUEEN ST, RAMSAY ST, ROME ST, ROSS ST, RUTLEDGE LANE, RUTLEDGE ST, STANLEY ST, TAYLOR ST, TYRRELL ST, VOLL AVE, WALKER LANE, WEST ST, WILKIE ST, YORK ST",
+        "SUBURBS": "OAKEY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716584102.095934"
+  "extracted": "1716584403.923442"
 }
