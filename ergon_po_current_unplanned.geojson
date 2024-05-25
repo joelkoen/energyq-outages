@@ -119,6 +119,59 @@
           {
             "type": "Point",
             "coordinates": [
+              148.527191,
+              -20.404392
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.52767,
+                  -20.404388
+                ],
+                [
+                  148.527187,
+                  -20.403941
+                ],
+                [
+                  148.526712,
+                  -20.404396
+                ],
+                [
+                  148.527196,
+                  -20.404844
+                ],
+                [
+                  148.52767,
+                  -20.404388
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4611",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "10:58AM 25 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "HADLOW RD",
+        "SUBURBS": "KELSEY CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.557055,
               -20.680412
             ]
@@ -373,9 +426,142 @@
         "STREETS": "BERLIN RD, GEORGE GREEN RD, NANANGO-YARRAMAN RD, YARRAMAN RD",
         "SUBURBS": "NANANGO"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.899772,
+              -25.29157
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.896955,
+                  -25.29034
+                ],
+                [
+                  152.897766,
+                  -25.292035
+                ],
+                [
+                  152.897825,
+                  -25.292127
+                ],
+                [
+                  152.899001,
+                  -25.293544
+                ],
+                [
+                  152.899039,
+                  -25.293584
+                ],
+                [
+                  152.899448,
+                  -25.293971
+                ],
+                [
+                  152.899963,
+                  -25.294086
+                ],
+                [
+                  152.901034,
+                  -25.293758
+                ],
+                [
+                  152.901231,
+                  -25.293645
+                ],
+                [
+                  152.901395,
+                  -25.293491
+                ],
+                [
+                  152.90144,
+                  -25.293442
+                ],
+                [
+                  152.902588,
+                  -25.292003
+                ],
+                [
+                  152.902584,
+                  -25.29147
+                ],
+                [
+                  152.902337,
+                  -25.291169
+                ],
+                [
+                  152.902292,
+                  -25.291121
+                ],
+                [
+                  152.901339,
+                  -25.290248
+                ],
+                [
+                  152.901317,
+                  -25.290229
+                ],
+                [
+                  152.901117,
+                  -25.290068
+                ],
+                [
+                  152.901017,
+                  -25.290005
+                ],
+                [
+                  152.900377,
+                  -25.289701
+                ],
+                [
+                  152.900302,
+                  -25.289673
+                ],
+                [
+                  152.898235,
+                  -25.289055
+                ],
+                [
+                  152.897714,
+                  -25.289181
+                ],
+                [
+                  152.897041,
+                  -25.28986
+                ],
+                [
+                  152.896955,
+                  -25.29034
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5973",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "126",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "11:08AM 25 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BURRUM ST, CARINGA ST, COOLOOLA CRES, HAMER DR, HANSEN ST, HERBERT ST, MILLER ST, ROSS ST, SMITH ST, WHITTAKER CL",
+        "SUBURBS": "URANGAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716599703.648568"
+  "extracted": "1716600001.271841"
 }
