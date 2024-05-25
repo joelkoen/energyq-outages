@@ -1771,6 +1771,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.413206,
+          -16.357882
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN5900",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "168",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 26 May 2024",
+        "EST_FIX_TIME": "2:00PM 26 May 2024",
+        "STREETS": "BARKA CL, CALOPHYLLUM CL, CAMELIA CL, DUWAR CL, GARDENIA CL, JANBAL ST, JIRIMANDI CL, KADAN CL, KALAL CL, LIFU CL, MARLIN DR, YUMBA CL",
+        "SUBURBS": "WONGA BEACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.413404,
           -16.998799
         ]
@@ -3171,6 +3192,27 @@
         "EST_FIX_TIME": "3:00PM 30 May 2024",
         "STREETS": "SHUTE HARBOUR RD",
         "SUBURBS": "HAMILTON PLAINS, MOUNT JULIAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.108053,
+          -21.083483
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4124",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "40",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:07AM 26 May 2024",
+        "EST_FIX_TIME": "1:30PM 26 May 2024",
+        "STREETS": "WAINAI RD",
+        "SUBURBS": "FARLEIGH"
       }
     },
     {
@@ -7250,5 +7292,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1716674701.024041"
+  "extracted": "1716675001.051365"
 }
