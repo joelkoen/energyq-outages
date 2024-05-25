@@ -1822,7 +1822,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "168",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:00AM 26 May 2024",
         "EST_FIX_TIME": "2:00PM 26 May 2024",
         "STREETS": "BARKA CL, CALOPHYLLUM CL, CAMELIA CL, DUWAR CL, GARDENIA CL, JANBAL ST, JIRIMANDI CL, KADAN CL, KALAL CL, LIFU CL, MARLIN DR, YUMBA CL",
@@ -3296,6 +3296,27 @@
         "START": "7:00AM 26 May 2024",
         "EST_FIX_TIME": "4:00PM 26 May 2024",
         "STREETS": "APOLLO DR",
+        "SUBURBS": "ANDERGROVE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.188945,
+          -21.103391
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4132",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:21AM 26 May 2024",
+        "EST_FIX_TIME": "4:00PM 26 May 2024",
+        "STREETS": "APOLLO DR, GEMINI DR",
         "SUBURBS": "ANDERGROVE"
       }
     },
@@ -5518,7 +5539,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "55",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 26 May 2024",
         "EST_FIX_TIME": "2:30PM 26 May 2024",
         "STREETS": "ANABRANCH RD, KILRIE RD, LORAM RD, RITA ISLAND RD, TOWERS RD",
@@ -7376,5 +7397,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1716672001.548357"
+  "extracted": "1716672301.085407"
 }
