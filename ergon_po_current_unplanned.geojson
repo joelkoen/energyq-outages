@@ -201,7 +201,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "333",
         "REASON": "The loss of supply is due to the operating of protective equipment. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "1:10PM 25 May 2024",
         "EST_FIX_TIME": null,
         "STREETS": "AIRPORT RD, ALEC CAMERON DR, BAYANBI ST, BEACH RD, BINTHIN ST, ELIM RD, ENDEAVOUR VALLEY RD, FLIERL ST, HOPE VALE RD, KELLER ST, KERNICH ST, KOTZUR ST, LINK RD, MC IVOR RD, MCIVOR RD, MCLEAN DR, MUNI ST, NORTH ST, PALM ST, POLAND ST, ROSE ST, TEA TREE RD, THEILE ST, THUPPI ST, UNKNOWN ST, WENKE ST",
@@ -216,8 +216,8 @@
           {
             "type": "Point",
             "coordinates": [
-              148.527191,
-              -20.404392
+              148.526086,
+              -20.404227
             ]
           },
           {
@@ -225,24 +225,44 @@
             "coordinates": [
               [
                 [
-                  148.52767,
-                  -20.404388
+                  148.523946,
+                  -20.407239
                 ],
                 [
-                  148.527187,
-                  -20.403941
+                  148.524001,
+                  -20.407622
                 ],
                 [
-                  148.526712,
-                  -20.404396
+                  148.524843,
+                  -20.407851
                 ],
                 [
-                  148.527196,
-                  -20.404844
+                  148.527775,
+                  -20.404566
                 ],
                 [
-                  148.52767,
-                  -20.404388
+                  148.527885,
+                  -20.40432
+                ],
+                [
+                  148.528226,
+                  -20.401081
+                ],
+                [
+                  148.527884,
+                  -20.400603
+                ],
+                [
+                  148.527323,
+                  -20.400831
+                ],
+                [
+                  148.523994,
+                  -20.406972
+                ],
+                [
+                  148.523946,
+                  -20.407239
                 ]
               ]
             ]
@@ -252,11 +272,11 @@
       "properties": {
         "EVENT_ID": "24MK4611",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
+        "CUSTOMERS_AFFECTED": "7",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "10:58AM 25 May 2024",
-        "EST_FIX_TIME": null,
+        "EST_FIX_TIME": "5:00PM 25 May 2024",
         "STREETS": "HADLOW RD",
         "SUBURBS": "KELSEY CREEK"
       }
@@ -543,5 +563,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716608101.839521"
+  "extracted": "1716608401.477162"
 }
