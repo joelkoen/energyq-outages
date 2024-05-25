@@ -70,9 +70,203 @@
         "STREETS": "KENNY RD, WENDT RD",
         "SUBURBS": "CHAMBERS FLAT"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.065055,
+              -27.436776
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.06423,
+                  -27.437963
+                ],
+                [
+                  153.064474,
+                  -27.43796
+                ],
+                [
+                  153.064536,
+                  -27.437956
+                ],
+                [
+                  153.065854,
+                  -27.437798
+                ],
+                [
+                  153.06628,
+                  -27.437451
+                ],
+                [
+                  153.066376,
+                  -27.437072
+                ],
+                [
+                  153.066386,
+                  -27.436922
+                ],
+                [
+                  153.066371,
+                  -27.436804
+                ],
+                [
+                  153.066177,
+                  -27.436497
+                ],
+                [
+                  153.065021,
+                  -27.435702
+                ],
+                [
+                  153.064787,
+                  -27.435613
+                ],
+                [
+                  153.064608,
+                  -27.435589
+                ],
+                [
+                  153.064063,
+                  -27.435868
+                ],
+                [
+                  153.063968,
+                  -27.436082
+                ],
+                [
+                  153.063937,
+                  -27.436183
+                ],
+                [
+                  153.063724,
+                  -27.437444
+                ],
+                [
+                  153.06423,
+                  -27.437963
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-761687-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "93",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:52AM 26 May 2024",
+        "EST_FIX_TIME": "9:00AM 26 May 2024",
+        "STREETS": "BALOWRIE ST, RACECOURSE RD",
+        "SUBURBS": "HAMILTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.092691,
+              -27.496618
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.090512,
+                  -27.495899
+                ],
+                [
+                  153.09161,
+                  -27.497612
+                ],
+                [
+                  153.091627,
+                  -27.497638
+                ],
+                [
+                  153.092209,
+                  -27.498418
+                ],
+                [
+                  153.09295,
+                  -27.498518
+                ],
+                [
+                  153.094625,
+                  -27.497299
+                ],
+                [
+                  153.094804,
+                  -27.497023
+                ],
+                [
+                  153.094871,
+                  -27.496663
+                ],
+                [
+                  153.09472,
+                  -27.496263
+                ],
+                [
+                  153.093859,
+                  -27.495531
+                ],
+                [
+                  153.093815,
+                  -27.495497
+                ],
+                [
+                  153.092744,
+                  -27.494776
+                ],
+                [
+                  153.092249,
+                  -27.494718
+                ],
+                [
+                  153.090761,
+                  -27.495257
+                ],
+                [
+                  153.090512,
+                  -27.495899
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-761692-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "111",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "8:00AM 26 May 2024",
+        "EST_FIX_TIME": "10:30AM 26 May 2024",
+        "STREETS": "ANZAC RD, GALLIPOLI RD, HERBERTSON RD, OLD CLEVELAND RD, PEMBROKE ST",
+        "SUBURBS": "CARINA, CARINA HEIGHTS"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716675601.206302"
+  "extracted": "1716675900.977395"
 }
