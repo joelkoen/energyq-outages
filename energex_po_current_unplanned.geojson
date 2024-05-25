@@ -1,8 +1,78 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.080839,
+              -27.761679
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.075192,
+                  -27.763249
+                ],
+                [
+                  153.086454,
+                  -27.763233
+                ],
+                [
+                  153.086956,
+                  -27.762844
+                ],
+                [
+                  153.086594,
+                  -27.762348
+                ],
+                [
+                  153.07787,
+                  -27.760109
+                ],
+                [
+                  153.077371,
+                  -27.760224
+                ],
+                [
+                  153.074832,
+                  -27.762478
+                ],
+                [
+                  153.074722,
+                  -27.76297
+                ],
+                [
+                  153.075192,
+                  -27.763249
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-761584-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "8:55PM 25 May 2024",
+        "EST_FIX_TIME": "12:00AM 26 May 2024",
+        "STREETS": "KENNY RD, WENDT RD",
+        "SUBURBS": "CHAMBERS FLAT"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716637801.43751"
+  "extracted": "1716638101.206914"
 }
