@@ -74,9 +74,126 @@
         "STREETS": "AIRPORT RD, UNKNOWN ST",
         "SUBURBS": "HOPE VALE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.119107,
+              -25.548267
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.99675,
+                  -25.536853
+                ],
+                [
+                  151.130656,
+                  -25.589535
+                ],
+                [
+                  151.130661,
+                  -25.589537
+                ],
+                [
+                  151.179942,
+                  -25.608288
+                ],
+                [
+                  151.180127,
+                  -25.608323
+                ],
+                [
+                  151.193644,
+                  -25.608487
+                ],
+                [
+                  151.193847,
+                  -25.608451
+                ],
+                [
+                  151.233897,
+                  -25.592836
+                ],
+                [
+                  151.234149,
+                  -25.592616
+                ],
+                [
+                  151.24151,
+                  -25.578629
+                ],
+                [
+                  151.241437,
+                  -25.578139
+                ],
+                [
+                  151.208301,
+                  -25.543604
+                ],
+                [
+                  151.208239,
+                  -25.54355
+                ],
+                [
+                  151.205877,
+                  -25.541808
+                ],
+                [
+                  151.205828,
+                  -25.541777
+                ],
+                [
+                  151.111637,
+                  -25.48808
+                ],
+                [
+                  151.111179,
+                  -25.488047
+                ],
+                [
+                  151.027724,
+                  -25.520201
+                ],
+                [
+                  151.027674,
+                  -25.520223
+                ],
+                [
+                  150.996705,
+                  -25.536047
+                ],
+                [
+                  150.99675,
+                  -25.536853
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6003",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "92",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:08PM 25 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "A CREEK RD, COONAMBULA EIDSVOLD RD, COONAMBULA RD, COONAMBULA-EIDSVOLD RD, CRISPS RD, LOAKES RD, MCCORDS RD, PEARLINGA, RIVERLEIGH RD, RIVERLEIGH SCHOOL RD, RIVERLEIGH STATION RD, STANMORE RD",
+        "SUBURBS": "COONAMBULA, MUNDUBBERA, O'BIL BIL, RIVERLEIGH"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716624601.050269"
+  "extracted": "1716624903.78174"
 }
