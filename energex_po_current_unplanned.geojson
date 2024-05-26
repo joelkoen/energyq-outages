@@ -10,8 +10,8 @@
           {
             "type": "Point",
             "coordinates": [
-              153.11562,
-              -27.439796
+              153.113713,
+              -27.442363
             ]
           },
           {
@@ -19,48 +19,32 @@
             "coordinates": [
               [
                 [
-                  153.110924,
-                  -27.442998
+                  153.113783,
+                  -27.441916
                 ],
                 [
-                  153.113754,
-                  -27.442814
+                  153.113775,
+                  -27.441915
                 ],
                 [
-                  153.113849,
-                  -27.442799
+                  153.113208,
+                  -27.442303
                 ],
                 [
-                  153.118348,
-                  -27.441714
+                  153.113643,
+                  -27.44281
                 ],
                 [
-                  153.118678,
-                  -27.441462
+                  153.113651,
+                  -27.442811
                 ],
                 [
-                  153.120832,
-                  -27.437154
+                  153.114219,
+                  -27.442422
                 ],
                 [
-                  153.120697,
-                  -27.436626
-                ],
-                [
-                  153.120091,
-                  -27.436594
-                ],
-                [
-                  153.110608,
-                  -27.442171
-                ],
-                [
-                  153.110408,
-                  -27.442693
-                ],
-                [
-                  153.110924,
-                  -27.442998
+                  153.113783,
+                  -27.441916
                 ]
               ]
             ]
@@ -70,7 +54,7 @@
       "properties": {
         "EVENT_ID": "INCD-761769-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "8",
+        "CUSTOMERS_AFFECTED": "4",
         "REASON": "Under Investigation",
         "STATUS": "Awaiting",
         "START": "7:16AM 27 May 2024",
@@ -159,13 +143,74 @@
         "REASON": "Under Investigation",
         "STATUS": "Awaiting",
         "START": "8:47AM 27 May 2024",
-        "EST_FIX_TIME": "12:00PM 27 May 2024",
+        "EST_FIX_TIME": "11:00AM 27 May 2024",
         "STREETS": "CORCET RD, KAMMHOLZ RD, NIETHE RD, WENDTS RD",
         "SUBURBS": "LOCKROSE, MOUNT TARAMPA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.411304,
+              -28.207636
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.411798,
+                  -28.207063
+                ],
+                [
+                  153.410567,
+                  -28.207332
+                ],
+                [
+                  153.410194,
+                  -28.207878
+                ],
+                [
+                  153.41081,
+                  -28.208208
+                ],
+                [
+                  153.412042,
+                  -28.20794
+                ],
+                [
+                  153.412415,
+                  -28.207394
+                ],
+                [
+                  153.411798,
+                  -28.207063
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-761794-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "8:53AM 27 May 2024",
+        "EST_FIX_TIME": "11:30AM 27 May 2024",
+        "STREETS": "TOMEWIN MOUNTAIN RD",
+        "SUBURBS": "CURRUMBIN VALLEY"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716763801.447956"
+  "extracted": "1716764101.301785"
 }
