@@ -110,9 +110,118 @@
         "STREETS": "DAVIES RD, FIGTREE CL, ROSEWOOD CL, WHITEING CL",
         "SUBURBS": "MALANDA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.722746,
+              -19.345744
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.721712,
+                  -19.345372
+                ],
+                [
+                  146.722048,
+                  -19.346234
+                ],
+                [
+                  146.722121,
+                  -19.346358
+                ],
+                [
+                  146.722396,
+                  -19.346688
+                ],
+                [
+                  146.722877,
+                  -19.346848
+                ],
+                [
+                  146.723281,
+                  -19.346759
+                ],
+                [
+                  146.72356,
+                  -19.346583
+                ],
+                [
+                  146.723686,
+                  -19.346416
+                ],
+                [
+                  146.723774,
+                  -19.346189
+                ],
+                [
+                  146.723781,
+                  -19.346099
+                ],
+                [
+                  146.72377,
+                  -19.34596
+                ],
+                [
+                  146.723571,
+                  -19.345153
+                ],
+                [
+                  146.723477,
+                  -19.344972
+                ],
+                [
+                  146.723338,
+                  -19.34481
+                ],
+                [
+                  146.722981,
+                  -19.344643
+                ],
+                [
+                  146.722868,
+                  -19.34464
+                ],
+                [
+                  146.722769,
+                  -19.344648
+                ],
+                [
+                  146.722071,
+                  -19.344771
+                ],
+                [
+                  146.721712,
+                  -19.345372
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9021",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "21",
+        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+        "STATUS": "Outage reported",
+        "START": "5:08PM 26 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "FINETTE CT, HAMISH AVE, IVY CT",
+        "SUBURBS": "RASMUSSEN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716707401.229472"
+  "extracted": "1716707703.539373"
 }
