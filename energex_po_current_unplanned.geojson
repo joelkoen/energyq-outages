@@ -1,8 +1,106 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.083164,
+              -27.59398
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.081737,
+                  -27.594822
+                ],
+                [
+                  153.082704,
+                  -27.595442
+                ],
+                [
+                  153.083073,
+                  -27.595522
+                ],
+                [
+                  153.083964,
+                  -27.595407
+                ],
+                [
+                  153.084391,
+                  -27.595035
+                ],
+                [
+                  153.084543,
+                  -27.59423
+                ],
+                [
+                  153.084543,
+                  -27.59423
+                ],
+                [
+                  153.084579,
+                  -27.594037
+                ],
+                [
+                  153.084709,
+                  -27.593349
+                ],
+                [
+                  153.084715,
+                  -27.593247
+                ],
+                [
+                  153.084687,
+                  -27.59285
+                ],
+                [
+                  153.084065,
+                  -27.592439
+                ],
+                [
+                  153.082949,
+                  -27.592673
+                ],
+                [
+                  153.082647,
+                  -27.592858
+                ],
+                [
+                  153.081614,
+                  -27.594201
+                ],
+                [
+                  153.081737,
+                  -27.594822
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-761748-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "39",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:11PM 26 May 2024",
+        "EST_FIX_TIME": "7:30PM 26 May 2024",
+        "STREETS": "EASTMERE ST, FOXDALE ST, PINE ST, WARRIGAL RD",
+        "SUBURBS": "RUNCORN"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716711001.062681"
+  "extracted": "1716711303.179574"
 }
