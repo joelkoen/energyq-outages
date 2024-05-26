@@ -253,6 +253,171 @@
           {
             "type": "Point",
             "coordinates": [
+              145.732853,
+              -16.95113
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.727561,
+                  -16.952637
+                ],
+                [
+                  145.731989,
+                  -16.957339
+                ],
+                [
+                  145.732201,
+                  -16.957469
+                ],
+                [
+                  145.73331,
+                  -16.957791
+                ],
+                [
+                  145.733477,
+                  -16.957809
+                ],
+                [
+                  145.736062,
+                  -16.957643
+                ],
+                [
+                  145.736132,
+                  -16.957633
+                ],
+                [
+                  145.736609,
+                  -16.957532
+                ],
+                [
+                  145.736807,
+                  -16.95744
+                ],
+                [
+                  145.737693,
+                  -16.956738
+                ],
+                [
+                  145.737835,
+                  -16.956546
+                ],
+                [
+                  145.737955,
+                  -16.956234
+                ],
+                [
+                  145.737983,
+                  -16.956115
+                ],
+                [
+                  145.738225,
+                  -16.953319
+                ],
+                [
+                  145.738224,
+                  -16.953238
+                ],
+                [
+                  145.737887,
+                  -16.949806
+                ],
+                [
+                  145.737874,
+                  -16.949735
+                ],
+                [
+                  145.73781,
+                  -16.949498
+                ],
+                [
+                  145.737777,
+                  -16.949412
+                ],
+                [
+                  145.736609,
+                  -16.947131
+                ],
+                [
+                  145.736589,
+                  -16.947097
+                ],
+                [
+                  145.735639,
+                  -16.94559
+                ],
+                [
+                  145.735622,
+                  -16.945564
+                ],
+                [
+                  145.735079,
+                  -16.944819
+                ],
+                [
+                  145.734865,
+                  -16.944658
+                ],
+                [
+                  145.734563,
+                  -16.944545
+                ],
+                [
+                  145.734406,
+                  -16.944514
+                ],
+                [
+                  145.732066,
+                  -16.94445
+                ],
+                [
+                  145.731753,
+                  -16.944554
+                ],
+                [
+                  145.730772,
+                  -16.945339
+                ],
+                [
+                  145.730645,
+                  -16.945498
+                ],
+                [
+                  145.727482,
+                  -16.952146
+                ],
+                [
+                  145.727561,
+                  -16.952637
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6690",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "567",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "1:59PM 26 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BALACLAVA RD, BARNES ST, BATES ST, CARROO ST, CAVENDISH ST, DANDALOO ST, DE JARLAIS ST, DOWNING ST, ENCLAVE BEND, GEORGE ST, GOMMORY CL, GORDON ST, GRANADILLA DR, GRANDVIEW CRES, HENLEY ST, HOAD PL, HOAD ST, JACAMUNDA CCT, KARWIN ST, LISSNER CRES, PEARL CL, PITT CT, TAMBA ST, TOOGOOD RD, UNKNOWN ST, WOOMERA ST, YARA ST",
+        "SUBURBS": "BAYVIEW HEIGHTS, EARLVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.25825,
               -26.083562
             ]
@@ -314,8 +479,8 @@
           {
             "type": "Point",
             "coordinates": [
-              152.169392,
-              -25.199395
+              152.165802,
+              -25.207263
             ]
           },
           {
@@ -331,60 +496,44 @@
                   -25.215128
                 ],
                 [
-                  152.143378,
+                  152.143394,
                   -25.2152
                 ],
                 [
-                  152.194248,
-                  -25.218386
+                  152.187448,
+                  -25.216675
                 ],
                 [
-                  152.194491,
-                  -25.218345
+                  152.187567,
+                  -25.216666
                 ],
                 [
-                  152.20266,
-                  -25.21489
+                  152.193686,
+                  -25.215505
                 ],
                 [
-                  152.202946,
-                  -25.214467
+                  152.194069,
+                  -25.215155
                 ],
                 [
-                  152.202582,
-                  -25.204381
+                  152.195767,
+                  -25.207611
                 ],
                 [
-                  152.202568,
-                  -25.204289
+                  152.195389,
+                  -25.207082
                 ],
                 [
-                  152.201123,
-                  -25.198876
+                  152.149863,
+                  -25.197858
                 ],
                 [
-                  152.201112,
-                  -25.19884
+                  152.149693,
+                  -25.19785
                 ],
                 [
-                  152.194454,
-                  -25.18068
-                ],
-                [
-                  152.193802,
-                  -25.180405
-                ],
-                [
-                  152.188347,
-                  -25.182387
-                ],
-                [
-                  152.188333,
-                  -25.182392
-                ],
-                [
-                  152.149,
-                  -25.197948
+                  152.149135,
+                  -25.197914
                 ],
                 [
                   152.148889,
@@ -414,17 +563,17 @@
       "properties": {
         "EVENT_ID": "24WB6015",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "79",
+        "CUSTOMERS_AFFECTED": "39",
         "REASON": "The loss of supply is due to fallen power lines.  ",
         "STATUS": "Outage reported",
         "START": "12:26PM 26 May 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "ADIES RD, BARKLES RD, BRUCE HWY, DINGO CREEK RD, HODGES RD, KEVIN LIVINGSTON DR, LARSENS RD, NORTH SOUTH RD, TREVORS RD, WOCO CREEK RD",
-        "SUBURBS": "APPLE TREE CREEK, CORDALBA, ISIS CENTRAL"
+        "STREETS": "ADIES RD, BARKLES RD, BRUCE HWY, DINGO CREEK RD, KEVIN LIVINGSTON DR, LARSENS RD, TREVORS RD, WOCO CREEK RD",
+        "SUBURBS": "ISIS CENTRAL"
       }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716695701.593214"
+  "extracted": "1716696301.659363"
 }
