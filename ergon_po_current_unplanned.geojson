@@ -10,6 +10,75 @@
           {
             "type": "Point",
             "coordinates": [
+              149.257685,
+              -21.318586
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.256782,
+                  -21.318958
+                ],
+                [
+                  149.257563,
+                  -21.319415
+                ],
+                [
+                  149.258245,
+                  -21.319241
+                ],
+                [
+                  149.258589,
+                  -21.318622
+                ],
+                [
+                  149.258489,
+                  -21.318083
+                ],
+                [
+                  149.258189,
+                  -21.317821
+                ],
+                [
+                  149.257629,
+                  -21.317756
+                ],
+                [
+                  149.256806,
+                  -21.318179
+                ],
+                [
+                  149.256782,
+                  -21.318958
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4619",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:03PM 26 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "JAMAE CT",
+        "SUBURBS": "ALLIGATOR CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.74193,
               -19.261685
             ]
@@ -238,7 +307,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "49",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "5:25PM 26 May 2024",
         "EST_FIX_TIME": null,
         "STREETS": "ANSTEYS RD, DOLLAR BILL DR, JUDGES RD, LIPPS RD, SWANFELS RD, TOP SWANFELS RD, WARRENERS RD",
@@ -248,5 +317,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716715501.127788"
+  "extracted": "1716715803.019596"
 }
