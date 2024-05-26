@@ -83,67 +83,6 @@
           {
             "type": "Point",
             "coordinates": [
-              145.102774,
-              -15.289195
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  145.103638,
-                  -15.289207
-                ],
-                [
-                  145.102421,
-                  -15.28843
-                ],
-                [
-                  145.101776,
-                  -15.288559
-                ],
-                [
-                  145.101909,
-                  -15.289184
-                ],
-                [
-                  145.103126,
-                  -15.289961
-                ],
-                [
-                  145.103771,
-                  -15.289832
-                ],
-                [
-                  145.103638,
-                  -15.289207
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN6673",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is due to the operating of protective equipment. ",
-        "STATUS": "Crews working on-site",
-        "START": "1:10PM 25 May 2024",
-        "EST_FIX_TIME": "4:00PM 26 May 2024",
-        "STREETS": "AIRPORT RD",
-        "SUBURBS": "HOPE VALE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               145.627175,
               -17.34273
             ]
@@ -243,6 +182,131 @@
         "EST_FIX_TIME": null,
         "STREETS": "DAVIES RD, FIGTREE CL, ROSEWOOD CL, WHITEING CL",
         "SUBURBS": "MALANDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.765177,
+              -16.911216
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.760319,
+                  -16.908558
+                ],
+                [
+                  145.762067,
+                  -16.91161
+                ],
+                [
+                  145.762099,
+                  -16.911659
+                ],
+                [
+                  145.763008,
+                  -16.912851
+                ],
+                [
+                  145.76305,
+                  -16.9129
+                ],
+                [
+                  145.763269,
+                  -16.913116
+                ],
+                [
+                  145.763362,
+                  -16.913187
+                ],
+                [
+                  145.763534,
+                  -16.913287
+                ],
+                [
+                  145.763581,
+                  -16.913311
+                ],
+                [
+                  145.769373,
+                  -16.915867
+                ],
+                [
+                  145.770035,
+                  -16.915407
+                ],
+                [
+                  145.769737,
+                  -16.912781
+                ],
+                [
+                  145.769608,
+                  -16.912517
+                ],
+                [
+                  145.767102,
+                  -16.910012
+                ],
+                [
+                  145.767045,
+                  -16.909964
+                ],
+                [
+                  145.762519,
+                  -16.906709
+                ],
+                [
+                  145.762354,
+                  -16.906633
+                ],
+                [
+                  145.762078,
+                  -16.906565
+                ],
+                [
+                  145.761769,
+                  -16.906591
+                ],
+                [
+                  145.761398,
+                  -16.906752
+                ],
+                [
+                  145.761206,
+                  -16.906904
+                ],
+                [
+                  145.760346,
+                  -16.90808
+                ],
+                [
+                  145.760319,
+                  -16.908558
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6691",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "641",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:27PM 26 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CHARLES ST, DIGGER ST, ENMORE ST, ESPLANADE, GROVE ST, LAKE ST, MCKENZIE ST, SHERIDAN ST",
+        "SUBURBS": "CAIRNS, CAIRNS NORTH, MANOORA"
       }
     },
     {
@@ -410,5 +474,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716697501.571214"
+  "extracted": "1716697803.570988"
 }
