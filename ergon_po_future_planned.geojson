@@ -847,27 +847,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.716478,
-          -22.365513
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA6659",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "8",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "9:30AM 27 May 2024",
-        "EST_FIX_TIME": "1:30PM 27 May 2024",
-        "STREETS": "ARAMAC-MUTTABURRA RD, MUTTABURRA-PRAIRIE RD, POTOSI RD, UNKNOWN ST",
-        "SUBURBS": "MUTTABURRA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           150.725981,
           -23.320138
         ]
@@ -1281,27 +1260,6 @@
         "EST_FIX_TIME": "4:30AM 31 May 2024",
         "STREETS": "ASCOT AVE, BARRETT ST, BROWN ST, EARL ST, EDGAR ST, FREDERICK ST, HANNAM ST, LYONS ST, MULGRAVE RD, SCOTT ST, SPENCE ST, STURT ST, WELLINGTON ST",
         "SUBURBS": "BUNGALOW, CAIRNS, WESTCOURT"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.497773,
-          -17.508255
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN5050",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "9:30AM 27 May 2024",
-        "EST_FIX_TIME": "2:00PM 27 May 2024",
-        "STREETS": "KENNEDY HWY",
-        "SUBURBS": "EVELYN CENTRAL"
       }
     },
     {
@@ -6622,6 +6580,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.826272,
+          -25.273389
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5524",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "45",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:29AM 27 May 2024",
+        "EST_FIX_TIME": "2:30PM 27 May 2024",
+        "STREETS": "LEAWARD BVD, QUARTERDECK AVE, SOUTHWIND CT, YARINGA AVE",
+        "SUBURBS": "PIALBA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.460849,
           -24.849012
         ]
@@ -6809,5 +6788,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1716765900.750189"
+  "extracted": "1716766201.386477"
 }
