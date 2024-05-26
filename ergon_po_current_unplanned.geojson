@@ -398,9 +398,126 @@
         "STREETS": "ROSSMORE RD",
         "SUBURBS": "KILKIVAN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.169392,
+              -25.199395
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.136062,
+                  -25.210933
+                ],
+                [
+                  152.143142,
+                  -25.215128
+                ],
+                [
+                  152.143378,
+                  -25.2152
+                ],
+                [
+                  152.194248,
+                  -25.218386
+                ],
+                [
+                  152.194491,
+                  -25.218345
+                ],
+                [
+                  152.20266,
+                  -25.21489
+                ],
+                [
+                  152.202946,
+                  -25.214467
+                ],
+                [
+                  152.202582,
+                  -25.204381
+                ],
+                [
+                  152.202568,
+                  -25.204289
+                ],
+                [
+                  152.201123,
+                  -25.198876
+                ],
+                [
+                  152.201112,
+                  -25.19884
+                ],
+                [
+                  152.194454,
+                  -25.18068
+                ],
+                [
+                  152.193802,
+                  -25.180405
+                ],
+                [
+                  152.188347,
+                  -25.182387
+                ],
+                [
+                  152.188333,
+                  -25.182392
+                ],
+                [
+                  152.149,
+                  -25.197948
+                ],
+                [
+                  152.148889,
+                  -25.198009
+                ],
+                [
+                  152.136092,
+                  -25.207254
+                ],
+                [
+                  152.135905,
+                  -25.207597
+                ],
+                [
+                  152.135837,
+                  -25.210546
+                ],
+                [
+                  152.136062,
+                  -25.210933
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6015",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "79",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
+        "STATUS": "Outage reported",
+        "START": "12:26PM 26 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ADIES RD, BARKLES RD, BRUCE HWY, DINGO CREEK RD, HODGES RD, KEVIN LIVINGSTON DR, LARSENS RD, NORTH SOUTH RD, TREVORS RD, WOCO CREEK RD",
+        "SUBURBS": "APPLE TREE CREEK, CORDALBA, ISIS CENTRAL"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716690901.074929"
+  "extracted": "1716691201.397712"
 }
