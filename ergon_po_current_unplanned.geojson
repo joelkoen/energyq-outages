@@ -143,9 +143,110 @@
         "STREETS": "ACACIA AVE, BEAURY ST, CULLENDORE ST, FLAGSTONE ST, SHORT ST, TENTERFIELD RD",
         "SUBURBS": "LEGUME"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.301155,
+              -28.162724
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.257887,
+                  -28.168031
+                ],
+                [
+                  152.268041,
+                  -28.180634
+                ],
+                [
+                  152.268118,
+                  -28.18071
+                ],
+                [
+                  152.274408,
+                  -28.185623
+                ],
+                [
+                  152.274907,
+                  -28.185712
+                ],
+                [
+                  152.344095,
+                  -28.164864
+                ],
+                [
+                  152.344424,
+                  -28.16433
+                ],
+                [
+                  152.337773,
+                  -28.140473
+                ],
+                [
+                  152.337765,
+                  -28.140448
+                ],
+                [
+                  152.337621,
+                  -28.140034
+                ],
+                [
+                  152.336991,
+                  -28.139736
+                ],
+                [
+                  152.286705,
+                  -28.153061
+                ],
+                [
+                  152.286612,
+                  -28.153095
+                ],
+                [
+                  152.261484,
+                  -28.164913
+                ],
+                [
+                  152.261403,
+                  -28.164961
+                ],
+                [
+                  152.25798,
+                  -28.167421
+                ],
+                [
+                  152.257887,
+                  -28.168031
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9350",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "49",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "5:25PM 26 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANSTEYS RD, DOLLAR BILL DR, JUDGES RD, LIPPS RD, SWANFELS RD, TOP SWANFELS RD, WARRENERS RD",
+        "SUBURBS": "SWANFELS, YANGAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716715201.194585"
+  "extracted": "1716715501.127788"
 }
