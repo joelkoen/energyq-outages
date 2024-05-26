@@ -10,6 +10,99 @@
           {
             "type": "Point",
             "coordinates": [
+              148.183844,
+              -22.663394
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.036971,
+                  -22.514191
+                ],
+                [
+                  148.056971,
+                  -22.593047
+                ],
+                [
+                  148.057026,
+                  -22.593174
+                ],
+                [
+                  148.19782,
+                  -22.812955
+                ],
+                [
+                  148.198412,
+                  -22.813146
+                ],
+                [
+                  148.293179,
+                  -22.77964
+                ],
+                [
+                  148.293484,
+                  -22.779303
+                ],
+                [
+                  148.33071,
+                  -22.596817
+                ],
+                [
+                  148.330717,
+                  -22.596695
+                ],
+                [
+                  148.330692,
+                  -22.596425
+                ],
+                [
+                  148.330371,
+                  -22.596037
+                ],
+                [
+                  148.123142,
+                  -22.527347
+                ],
+                [
+                  148.123061,
+                  -22.527328
+                ],
+                [
+                  148.037527,
+                  -22.513643
+                ],
+                [
+                  148.036971,
+                  -22.514191
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7403",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "30",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:45AM 26 May 2024",
+        "EST_FIX_TIME": "5:00PM 26 May 2024",
+        "STREETS": "CLERMONT-DYSART RD, CLUEN ACCESS RD, COTHERSTONE-GRENAD RD, DYSART CLERMONT RD, HUNTLEY RD, LUXOR RD, OFF PEAK DOWNS HWY, SARAJI RD, UNKNOWN ST",
+        "SUBURBS": "CAPELLA, CLERMONT, DYSART"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.761056,
               -16.908194
             ]
@@ -244,9 +337,70 @@
         "STREETS": "DAVIES RD, FIGTREE CL, ROSEWOOD CL, WHITEING CL",
         "SUBURBS": "MALANDA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.25825,
+              -26.083562
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.261823,
+                  -26.082488
+                ],
+                [
+                  152.25449,
+                  -26.083753
+                ],
+                [
+                  152.254094,
+                  -26.084279
+                ],
+                [
+                  152.254677,
+                  -26.084637
+                ],
+                [
+                  152.26201,
+                  -26.083372
+                ],
+                [
+                  152.262406,
+                  -26.082845
+                ],
+                [
+                  152.261823,
+                  -26.082488
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6014",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:45AM 26 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ROSSMORE RD",
+        "SUBURBS": "KILKIVAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716684303.788837"
+  "extracted": "1716684601.338008"
 }
