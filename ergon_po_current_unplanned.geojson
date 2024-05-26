@@ -110,9 +110,74 @@
         "STREETS": "FINETTE CT, HAMISH AVE, IVY CT",
         "SUBURBS": "RASMUSSEN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.305178,
+              -28.409429
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.303754,
+                  -28.409695
+                ],
+                [
+                  152.304876,
+                  -28.410447
+                ],
+                [
+                  152.305598,
+                  -28.41035
+                ],
+                [
+                  152.306599,
+                  -28.409107
+                ],
+                [
+                  152.306603,
+                  -28.408591
+                ],
+                [
+                  152.306056,
+                  -28.408411
+                ],
+                [
+                  152.303933,
+                  -28.408901
+                ],
+                [
+                  152.303754,
+                  -28.409695
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9348",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "16",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:12PM 26 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ACACIA AVE, BEAURY ST, CULLENDORE ST, FLAGSTONE ST, SHORT ST, TENTERFIELD RD",
+        "SUBURBS": "LEGUME"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716711901.602722"
+  "extracted": "1716712204.031442"
 }
