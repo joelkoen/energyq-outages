@@ -1,8 +1,98 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.570523,
+              -27.571213
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.569765,
+                  -27.571767
+                ],
+                [
+                  151.569808,
+                  -27.572026
+                ],
+                [
+                  151.57018,
+                  -27.572397
+                ],
+                [
+                  151.570691,
+                  -27.572516
+                ],
+                [
+                  151.571319,
+                  -27.572017
+                ],
+                [
+                  151.571019,
+                  -27.570128
+                ],
+                [
+                  151.570124,
+                  -27.569911
+                ],
+                [
+                  151.569893,
+                  -27.570169
+                ],
+                [
+                  151.569788,
+                  -27.570387
+                ],
+                [
+                  151.569767,
+                  -27.570522
+                ],
+                [
+                  151.569732,
+                  -27.570747
+                ],
+                [
+                  151.569727,
+                  -27.570823
+                ],
+                [
+                  151.56976,
+                  -27.571716
+                ],
+                [
+                  151.569765,
+                  -27.571767
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9357",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:07AM 27 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "JONDARYAN MOUNT TYSON RD",
+        "SUBURBS": "MOUNT TYSON"
+      }
+    }
+  ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716762901.497622"
+  "extracted": "1716763201.231224"
 }
