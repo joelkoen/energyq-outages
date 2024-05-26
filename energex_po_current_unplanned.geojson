@@ -1,8 +1,86 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.11562,
+              -27.439796
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.110924,
+                  -27.442998
+                ],
+                [
+                  153.113754,
+                  -27.442814
+                ],
+                [
+                  153.113849,
+                  -27.442799
+                ],
+                [
+                  153.118348,
+                  -27.441714
+                ],
+                [
+                  153.118678,
+                  -27.441462
+                ],
+                [
+                  153.120832,
+                  -27.437154
+                ],
+                [
+                  153.120697,
+                  -27.436626
+                ],
+                [
+                  153.120091,
+                  -27.436594
+                ],
+                [
+                  153.110608,
+                  -27.442171
+                ],
+                [
+                  153.110408,
+                  -27.442693
+                ],
+                [
+                  153.110924,
+                  -27.442998
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-761769-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "7:16AM 27 May 2024",
+        "EST_FIX_TIME": "10:00AM 27 May 2024",
+        "STREETS": "PARINGA RD",
+        "SUBURBS": "MURARRIE"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716758105.324446"
+  "extracted": "1716758401.233663"
 }
