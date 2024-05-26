@@ -793,7 +793,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "153",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 27 May 2024",
         "EST_FIX_TIME": "4:30PM 27 May 2024",
         "STREETS": "ADAMS ST, CARLO CRES, DINGWALL ST, GIORGI CL, HITCHCOCK ST, LIMPUS AVE, SCHOFIELD PDE",
@@ -2856,6 +2856,27 @@
         "EST_FIX_TIME": "3:00PM 30 May 2024",
         "STREETS": "SHUTE HARBOUR RD",
         "SUBURBS": "HAMILTON PLAINS, MOUNT JULIAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.190053,
+          -21.101268
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4141",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:07AM 27 May 2024",
+        "EST_FIX_TIME": "4:00PM 27 May 2024",
+        "STREETS": "MAGUIRE ST",
+        "SUBURBS": "ANDERGROVE"
       }
     },
     {
@@ -6706,6 +6727,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.471354,
+          -24.902205
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5612",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 27 May 2024",
+        "EST_FIX_TIME": "9:30AM 27 May 2024",
+        "STREETS": "ELLIOTT HEADS RD, RAINES RD",
+        "SUBURBS": "ELLIOTT HEADS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.858734,
           -26.538366
         ]
@@ -6830,5 +6872,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1716760802.408654"
+  "extracted": "1716761400.511335"
 }
