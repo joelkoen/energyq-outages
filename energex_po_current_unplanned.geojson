@@ -143,13 +143,82 @@
         "REASON": "Under Investigation",
         "STATUS": "In Progress",
         "START": "11:15AM 26 May 2024",
-        "EST_FIX_TIME": "1:30PM 26 May 2024",
+        "EST_FIX_TIME": "2:30PM 26 May 2024",
         "STREETS": "MEYRICKS RD",
         "SUBURBS": "GLASSHOUSE MOUNTAINS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.055982,
+              -27.665006
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.05416,
+                  -27.66327
+                ],
+                [
+                  153.054921,
+                  -27.667072
+                ],
+                [
+                  153.055821,
+                  -27.667269
+                ],
+                [
+                  153.056176,
+                  -27.666861
+                ],
+                [
+                  153.056239,
+                  -27.666767
+                ],
+                [
+                  153.057803,
+                  -27.663615
+                ],
+                [
+                  153.057391,
+                  -27.662984
+                ],
+                [
+                  153.05471,
+                  -27.662742
+                ],
+                [
+                  153.05416,
+                  -27.66327
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-761731-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "63",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "1:36PM 26 May 2024",
+        "EST_FIX_TIME": "4:00PM 26 May 2024",
+        "STREETS": "AMMONS ST, COYLE CT, DOWNING ST, HUGHES ST, YANCEY ST",
+        "SUBURBS": "BROWNS PLAINS"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716694500.374478"
+  "extracted": "1716694801.321592"
 }
