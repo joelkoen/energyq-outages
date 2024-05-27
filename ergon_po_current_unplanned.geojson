@@ -102,9 +102,94 @@
         "STREETS": "ERUB ISLAND RD, MEDIGEE VILLAGE, ROAD NO 7, ROAD NO 8, UNKNOWN ST",
         "SUBURBS": "DARNLEY ISLAND"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.270043,
+              -26.64917
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.215321,
+                  -26.671611
+                ],
+                [
+                  151.286918,
+                  -26.70289
+                ],
+                [
+                  151.287085,
+                  -26.702933
+                ],
+                [
+                  151.30375,
+                  -26.704508
+                ],
+                [
+                  151.30389,
+                  -26.704503
+                ],
+                [
+                  151.309245,
+                  -26.703654
+                ],
+                [
+                  151.309449,
+                  -26.703578
+                ],
+                [
+                  151.324806,
+                  -26.693786
+                ],
+                [
+                  151.324967,
+                  -26.693223
+                ],
+                [
+                  151.271631,
+                  -26.593882
+                ],
+                [
+                  151.270759,
+                  -26.593833
+                ],
+                [
+                  151.215119,
+                  -26.670961
+                ],
+                [
+                  151.215321,
+                  -26.671611
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9416",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "21",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:36PM 27 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DIAMONDY RD, JARRAIL CREEK RD, JOLIMONT RD, NIAGARA RD, WOOLLETTS RD",
+        "SUBURBS": "DIAMONDY, JANDOWAE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716810601.623149"
+  "extracted": "1716810901.213896"
 }
