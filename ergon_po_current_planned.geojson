@@ -28,6 +28,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          149.072441,
+          -23.57937
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA3960",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "52",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:51AM 28 May 2024",
+        "EST_FIX_TIME": "2:30PM 28 May 2024",
+        "STREETS": "CAMPBELL ST, CREEK ST, EAST ST, KEATING ST, LUCIE ST, MAIN ST, NAPPER ST, NORTH ST, QUAY ST",
+        "SUBURBS": "BLUFF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.551491,
           -23.370326
         ]
@@ -478,7 +499,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "80",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 28 May 2024",
         "EST_FIX_TIME": "3:00PM 28 May 2024",
         "STREETS": "CAMPBELLS RD, CRAIG RD, R WILLIAMS RD, RAND RD, SANGIORGIO RD, THOMPSON RD, TURNORS PADDOCK RD, WOOD RD",
@@ -1024,7 +1045,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "37",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 28 May 2024",
         "EST_FIX_TIME": "3:00PM 28 May 2024",
         "STREETS": "BORE 14 ACCESS RD, BOURNE DR, BOWEN ST, HIGHVIEW CL, MCDOWALL ST, UPPER BOWEN ST, UPPER MCDOWALL ST",
@@ -1151,7 +1172,7 @@
         "CUSTOMERS_AFFECTED": "6",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 28 May 2024",
+        "START": "8:47AM 28 May 2024",
         "EST_FIX_TIME": "12:00PM 28 May 2024",
         "STREETS": "OWENS SCRUB RD",
         "SUBURBS": "MILLMERRAN"
@@ -1246,6 +1267,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.620482,
+          -26.093602
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5473",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "34",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 28 May 2024",
+        "EST_FIX_TIME": "2:30PM 28 May 2024",
+        "STREETS": "ALBRECHT RD, BRADYS RD, BRUNJES RD, GARDNERS LANE, HARVEY SIDING RD, OLD MARYBOROUGH RD, STEYS RD",
+        "SUBURBS": "CORELLA, CURRA, HARVEY SIDING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.460849,
           -24.849012
         ]
@@ -1286,5 +1328,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716850200.532598"
+  "extracted": "1716850500.430719"
 }
