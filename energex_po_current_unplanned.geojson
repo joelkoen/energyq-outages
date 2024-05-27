@@ -274,9 +274,90 @@
         "STREETS": "BELLINI CT, BOTTICELLI ST, CURLEW CL, CYLLENE CT, DONATELLO ST, EMMA PL, FIG TREE POCKET RD, GOYA ST, JESMOND RD, KENNY ST, LOMBARDO CT, LORIKEET CL, MACTIER ST, MANDALAY ST, MICHELANGELO ST, NEARCO ST, ORMSBY ST, RIVER PARK PL, ROMANELLA ST, ROSELLA ST, SERENE PL, TOFANELLA ST",
         "SUBURBS": "FIG TREE POCKET"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.193192,
+              -28.168836
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.189627,
+                  -28.169208
+                ],
+                [
+                  153.189893,
+                  -28.169429
+                ],
+                [
+                  153.189903,
+                  -28.169437
+                ],
+                [
+                  153.193262,
+                  -28.172088
+                ],
+                [
+                  153.194071,
+                  -28.171924
+                ],
+                [
+                  153.196757,
+                  -28.166161
+                ],
+                [
+                  153.196635,
+                  -28.165659
+                ],
+                [
+                  153.196062,
+                  -28.165583
+                ],
+                [
+                  153.193954,
+                  -28.1665
+                ],
+                [
+                  153.19394,
+                  -28.166506
+                ],
+                [
+                  153.189737,
+                  -28.168479
+                ],
+                [
+                  153.189627,
+                  -28.169208
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-761922-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "30",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:33PM 27 May 2024",
+        "EST_FIX_TIME": "8:00PM 27 May 2024",
+        "STREETS": "AKOONAH DR, BINNA BURRA RD, BOONGALA RD, GWINGANA CT",
+        "SUBURBS": "BEECHMONT"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716795004.384143"
+  "extracted": "1716795301.011061"
 }
