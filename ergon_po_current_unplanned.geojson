@@ -111,6 +111,99 @@
           {
             "type": "Point",
             "coordinates": [
+              149.174792,
+              -21.092247
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.172191,
+                  -21.091949
+                ],
+                [
+                  149.174421,
+                  -21.094555
+                ],
+                [
+                  149.174714,
+                  -21.094717
+                ],
+                [
+                  149.175224,
+                  -21.094799
+                ],
+                [
+                  149.175689,
+                  -21.094628
+                ],
+                [
+                  149.177394,
+                  -21.092527
+                ],
+                [
+                  149.177347,
+                  -21.09193
+                ],
+                [
+                  149.175053,
+                  -21.089831
+                ],
+                [
+                  149.174741,
+                  -21.089703
+                ],
+                [
+                  149.174545,
+                  -21.089694
+                ],
+                [
+                  149.174493,
+                  -21.089694
+                ],
+                [
+                  149.174264,
+                  -21.089706
+                ],
+                [
+                  149.173963,
+                  -21.089827
+                ],
+                [
+                  149.172238,
+                  -21.091336
+                ],
+                [
+                  149.172191,
+                  -21.091949
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4642",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "67",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:32PM 27 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BANKSWOOD ST, BROOMDYKES DR, CREESE ST, EAGLEMOUNT RD, SAM BEZZINA DR",
+        "SUBURBS": "BEACONSFIELD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.15226,
               -26.128599
             ]
@@ -316,5 +409,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716799201.428564"
+  "extracted": "1716799503.581933"
 }
