@@ -154,6 +154,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.09133,
+          -23.412275
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6800",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "72",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 28 May 2024",
+        "EST_FIX_TIME": "2:30PM 28 May 2024",
+        "STREETS": "BARRETT RD, BENEDICT RD, COCKS RD, COMMANCHE RD, DONOVAN RD, JAMES RD, JOSEFSKI RD, POCOCK RD, ROSEWOOD RD, SMITH RD, STANWELL WAROULA RD, THIRSTY CREEK RD, TOOWARRA RD",
+        "SUBURBS": "ALTON DOWNS, GOGANGO, KALAPA, MORINISH, MORINISH SOUTH, STANWELL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           142.189592,
           -9.955322
         ]
@@ -462,6 +483,27 @@
         "EST_FIX_TIME": "3:00PM 28 May 2024",
         "STREETS": "CAMPBELLS RD, CRAIG RD, R WILLIAMS RD, RAND RD, SANGIORGIO RD, THOMPSON RD, TURNORS PADDOCK RD, WOOD RD",
         "SUBURBS": "KOUMALA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.463943,
+          -21.092523
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4100",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 28 May 2024",
+        "EST_FIX_TIME": "3:00PM 28 May 2024",
+        "STREETS": "SCHUMANNS RD",
+        "SUBURBS": "EUNGELLA"
       }
     },
     {
@@ -1202,5 +1244,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716849300.389772"
+  "extracted": "1716849601.112309"
 }
