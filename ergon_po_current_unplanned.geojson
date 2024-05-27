@@ -10,6 +10,107 @@
           {
             "type": "Point",
             "coordinates": [
+              143.762238,
+              -9.597403
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  143.759815,
+                  -9.596328
+                ],
+                [
+                  143.760337,
+                  -9.597163
+                ],
+                [
+                  143.76042,
+                  -9.597262
+                ],
+                [
+                  143.76131,
+                  -9.598053
+                ],
+                [
+                  143.761314,
+                  -9.598057
+                ],
+                [
+                  143.761464,
+                  -9.598186
+                ],
+                [
+                  143.761592,
+                  -9.598265
+                ],
+                [
+                  143.76291,
+                  -9.598795
+                ],
+                [
+                  143.762965,
+                  -9.598813
+                ],
+                [
+                  143.764136,
+                  -9.599117
+                ],
+                [
+                  143.764661,
+                  -9.598876
+                ],
+                [
+                  143.764522,
+                  -9.598318
+                ],
+                [
+                  143.762187,
+                  -9.596599
+                ],
+                [
+                  143.762124,
+                  -9.59656
+                ],
+                [
+                  143.76041,
+                  -9.595689
+                ],
+                [
+                  143.759868,
+                  -9.595784
+                ],
+                [
+                  143.759815,
+                  -9.596328
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6733",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "STATUS": "Outage reported",
+        "START": "2:05PM 27 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ERUB ISLAND RD, MEDIGEE VILLAGE, ROAD NO 7, ROAD NO 8, UNKNOWN ST",
+        "SUBURBS": "DARNLEY ISLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               149.101811,
               -21.03892
             ]
@@ -61,6 +162,79 @@
         "EST_FIX_TIME": null,
         "STREETS": "NEILLS RD",
         "SUBURBS": "HABANA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              149.21743,
+              -21.420939
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.215724,
+                  -21.416113
+                ],
+                [
+                  149.216452,
+                  -21.424949
+                ],
+                [
+                  149.216461,
+                  -21.425007
+                ],
+                [
+                  149.216659,
+                  -21.425889
+                ],
+                [
+                  149.217179,
+                  -21.426245
+                ],
+                [
+                  149.218716,
+                  -21.4261
+                ],
+                [
+                  149.219136,
+                  -21.425545
+                ],
+                [
+                  149.216674,
+                  -21.415972
+                ],
+                [
+                  149.21613,
+                  -21.415632
+                ],
+                [
+                  149.215724,
+                  -21.416113
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4637",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "20",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:13PM 27 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BREWERS RD, BROAD ST, RAILWAY SQ, STATION LANE",
+        "SUBURBS": "SARINA"
       }
     },
     {
@@ -215,5 +389,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716783303.223119"
+  "extracted": "1716783600.540984"
 }
