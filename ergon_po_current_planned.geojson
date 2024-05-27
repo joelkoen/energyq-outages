@@ -310,7 +310,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "9",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 28 May 2024",
         "EST_FIX_TIME": "1:00PM 28 May 2024",
         "STREETS": "BELLVIEW DR, BELLVIEW DR W, FERN TREE POCKET RD",
@@ -574,6 +574,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.733497,
+          -20.46744
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4102",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "183",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 28 May 2024",
+        "EST_FIX_TIME": "3:00PM 28 May 2024",
+        "STREETS": "ALLAN RD, CAPRIOGLIO RD, CONWAY RD, DANIELS ST, DAVISON RD, HALL DR, MONTROSE RD, PENHALLURICK DR, SLATER RD, TI TREE AVE",
+        "SUBURBS": "CONWAY, CONWAY BEACH, WILSON BEACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           149.210804,
           -21.091792
         ]
@@ -798,6 +819,27 @@
         "EST_FIX_TIME": "3:00PM 28 May 2024",
         "STREETS": "BOYNE ST, DAWSON ST, PRETORIA ST, SOUTHWOOD RD",
         "SUBURBS": "STUART"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.499463,
+          -20.720589
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8052",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "123",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 28 May 2024",
+        "EST_FIX_TIME": "3:00PM 28 May 2024",
+        "STREETS": "BAKHASH ST, BEARD ST, CITY LKT, DEMPSEY ST, HILARY ST, LEILA ST, MULLAN ST, SIMPSON ST, SUTTON ST, ZENA ST",
+        "SUBURBS": "MENZIES, MOUNT ISA CITY, THE GAP, WINSTON"
       }
     },
     {
@@ -1412,5 +1454,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716847801.168473"
+  "extracted": "1716848102.203797"
 }
