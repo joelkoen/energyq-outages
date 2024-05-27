@@ -184,7 +184,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "10",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 28 May 2024",
         "EST_FIX_TIME": "12:00PM 28 May 2024",
         "STREETS": "LAKEVIEW DR",
@@ -436,7 +436,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 28 May 2024",
         "EST_FIX_TIME": "2:30PM 28 May 2024",
         "STREETS": "COOROO LANDS RD",
@@ -461,27 +461,6 @@
         "START": "8:00AM 28 May 2024",
         "EST_FIX_TIME": "4:00PM 28 May 2024",
         "STREETS": "BORDER DR, CATERAN CL, DELORAINE CL, ISLAND DR, MACONA CRES, WOODWARK CRES, YACHTSMANS PDE",
-        "SUBURBS": "CANNONVALE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.69919,
-          -20.279742
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK3610",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "168",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:00AM 28 May 2024",
-        "EST_FIX_TIME": "9:00AM 28 May 2024",
-        "STREETS": "ESK TCE, HAZELWOOD CRES, ISLAND DR, LUPTON PL, SOLWAY AVE, TEAGUE TCE",
         "SUBURBS": "CANNONVALE"
       }
     },
@@ -541,7 +520,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "23",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 28 May 2024",
         "EST_FIX_TIME": "2:30PM 28 May 2024",
         "STREETS": "TARA CREEK RD",
@@ -646,7 +625,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "22",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 28 May 2024",
         "EST_FIX_TIME": "2:30PM 28 May 2024",
         "STREETS": "CLIFFES RD, CLYDE MCLEANS RD, HOWLANDS RD, JANSENS RD, LONG MILE RD, MOUNT OSSA SEAFORTH RD",
@@ -688,7 +667,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "13",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 28 May 2024",
         "EST_FIX_TIME": "2:30PM 28 May 2024",
         "STREETS": "BARCLAYS RD, KIRWANS RD, MARAJU YAKAPARI RD",
@@ -819,6 +798,27 @@
         "EST_FIX_TIME": "5:00PM 28 May 2024",
         "STREETS": "GOROKA ST, URQUHART ST",
         "SUBURBS": "SOLDIERS HILL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.413835,
+          -19.593405
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ7708",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "49",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:19AM 28 May 2024",
+        "EST_FIX_TIME": "2:00PM 28 May 2024",
+        "STREETS": "KILRIE RD",
+        "SUBURBS": "AYR, MCDESME"
       }
     },
     {
@@ -1423,7 +1423,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 28 May 2024",
         "EST_FIX_TIME": "2:30PM 28 May 2024",
         "STREETS": "WINDERMERE RD",
@@ -1475,5 +1475,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716848400.75908"
+  "extracted": "1716848700.313948"
 }
