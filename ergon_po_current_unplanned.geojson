@@ -180,6 +180,71 @@
           {
             "type": "Point",
             "coordinates": [
+              148.70681,
+              -21.089285
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.706819,
+                  -21.090021
+                ],
+                [
+                  148.707522,
+                  -21.089584
+                ],
+                [
+                  148.707524,
+                  -21.088831
+                ],
+                [
+                  148.707071,
+                  -21.088548
+                ],
+                [
+                  148.706347,
+                  -21.088784
+                ],
+                [
+                  148.706096,
+                  -21.089504
+                ],
+                [
+                  148.706262,
+                  -21.090004
+                ],
+                [
+                  148.706819,
+                  -21.090021
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4676",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:12PM 28 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "OWENS CREEK RD",
+        "SUBURBS": "OWENS CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.19874,
               -19.981862
             ]
@@ -526,5 +591,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716888604.787561"
+  "extracted": "1716888902.650166"
 }
