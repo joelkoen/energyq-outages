@@ -219,9 +219,227 @@
         "STREETS": "ERUB ISLAND RD, MEDIGEE VILLAGE, ROAD NO 7, ROAD NO 8, UNKNOWN ST",
         "SUBURBS": "DARNLEY ISLAND"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.682498,
+              -27.767802
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.639531,
+                  -27.745585
+                ],
+                [
+                  151.640114,
+                  -27.759133
+                ],
+                [
+                  151.640156,
+                  -27.759297
+                ],
+                [
+                  151.674507,
+                  -27.828628
+                ],
+                [
+                  151.674733,
+                  -27.828844
+                ],
+                [
+                  151.685239,
+                  -27.833795
+                ],
+                [
+                  151.685268,
+                  -27.833807
+                ],
+                [
+                  151.696386,
+                  -27.838264
+                ],
+                [
+                  151.696758,
+                  -27.83828
+                ],
+                [
+                  151.719145,
+                  -27.831489
+                ],
+                [
+                  151.719485,
+                  -27.831112
+                ],
+                [
+                  151.725465,
+                  -27.782223
+                ],
+                [
+                  151.725462,
+                  -27.782104
+                ],
+                [
+                  151.71426,
+                  -27.718837
+                ],
+                [
+                  151.71418,
+                  -27.718655
+                ],
+                [
+                  151.698131,
+                  -27.697507
+                ],
+                [
+                  151.697585,
+                  -27.697323
+                ],
+                [
+                  151.671788,
+                  -27.703268
+                ],
+                [
+                  151.671496,
+                  -27.703452
+                ],
+                [
+                  151.639618,
+                  -27.745315
+                ],
+                [
+                  151.639531,
+                  -27.745585
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9432",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "103",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:16PM 28 May 2024",
+        "EST_FIX_TIME": "6:00PM 28 May 2024",
+        "STREETS": "AVONDALE RD, BALGOWNIE RD, BROXBURN RD, CLIFTON RD, COOPERS RD, DRONEY RD, FELTON RD, FLOOD LANE, FOWLER RD, FOWLERS RD, HAYDEN RD, HOMESTEAD RD, LEIFELS RD, LONG RD, PITTSWORTH-FELTON RD, VOLKER RD, WEIMERS RD, WIEMERS RD",
+        "SUBURBS": "BROXBURN, FELTON, FELTON EAST, PITTSWORTH, SOUTHBROOK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.740657,
+              -27.843257
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.673332,
+                  -27.868695
+                ],
+                [
+                  151.72983,
+                  -27.906836
+                ],
+                [
+                  151.730001,
+                  -27.906911
+                ],
+                [
+                  151.75942,
+                  -27.91416
+                ],
+                [
+                  151.759569,
+                  -27.914176
+                ],
+                [
+                  151.765477,
+                  -27.914033
+                ],
+                [
+                  151.765803,
+                  -27.913916
+                ],
+                [
+                  151.791186,
+                  -27.893459
+                ],
+                [
+                  151.791347,
+                  -27.893186
+                ],
+                [
+                  151.808116,
+                  -27.783899
+                ],
+                [
+                  151.808093,
+                  -27.783692
+                ],
+                [
+                  151.803829,
+                  -27.772637
+                ],
+                [
+                  151.80327,
+                  -27.772338
+                ],
+                [
+                  151.727783,
+                  -27.783003
+                ],
+                [
+                  151.727422,
+                  -27.783226
+                ],
+                [
+                  151.673198,
+                  -27.868114
+                ],
+                [
+                  151.673332,
+                  -27.868695
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9444",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "90",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:14PM 28 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRYCE RD, CLIFTON PITTSWORTH RD, CLIFTON RD, COOPERS RD, ERNST RD, FELTON VIEW RD, FELTON-CLIFTON RD, HAYDEN RD, HEGARTY RD, HINZ RD, HOMESTEAD RD, KARARA RD, MENGEL RD, MILLBROOK BACK PLAINS RD, NUNKULLA RD, PITTSWORTH-FELTON RD, ROBINSON RD, SNELL RD, TOOWOOMBA-KARARA RD, WHITE RD",
+        "SUBURBS": "BACK PLAINS, ELLANGOWAN, FELTON, FELTON EAST, FELTON SOUTH, PITTSWORTH"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716869702.984569"
+  "extracted": "1716870001.505895"
 }
