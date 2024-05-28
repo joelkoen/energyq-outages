@@ -98,7 +98,7 @@
       "properties": {
         "EVENT_ID": "24CA5622",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "103",
+        "CUSTOMERS_AFFECTED": "104",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
         "STATUS": "Work scheduled",
         "START": "8:00AM 29 May 2024",
@@ -1267,6 +1267,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.791222,
+          -19.266217
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8365",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:19AM 29 May 2024",
+        "EST_FIX_TIME": "4:00PM 29 May 2024",
+        "STREETS": "ESTATE ST, JOHN ST",
+        "SUBURBS": "WEST END"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           147.355342,
           -19.552457
         ]
@@ -2021,5 +2042,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716931201.94246"
+  "extracted": "1716931501.409567"
 }
