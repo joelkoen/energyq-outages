@@ -1,8 +1,94 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.026975,
+              -23.089001
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.023983,
+                  -23.086738
+                ],
+                [
+                  148.025106,
+                  -23.0893
+                ],
+                [
+                  148.025275,
+                  -23.089498
+                ],
+                [
+                  148.029188,
+                  -23.092077
+                ],
+                [
+                  148.029959,
+                  -23.091713
+                ],
+                [
+                  148.029967,
+                  -23.090799
+                ],
+                [
+                  148.029938,
+                  -23.090642
+                ],
+                [
+                  148.02822,
+                  -23.08626
+                ],
+                [
+                  148.027768,
+                  -23.085963
+                ],
+                [
+                  148.025027,
+                  -23.085925
+                ],
+                [
+                  148.024857,
+                  -23.085951
+                ],
+                [
+                  148.024272,
+                  -23.086143
+                ],
+                [
+                  148.023983,
+                  -23.086738
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7464",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "89",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:22AM 29 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BURN ST, GORDON ST, MCLEAN ST, MORAN ST, O'BRIEN ST, RICKERTT ST, ROXBURGH ST",
+        "SUBURBS": "CAPELLA"
+      }
+    }
+  ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716931501.409567"
+  "extracted": "1716931802.031354"
 }
