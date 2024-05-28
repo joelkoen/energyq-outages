@@ -1,8 +1,86 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.008422,
+              -27.656849
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.004316,
+                  -27.656547
+                ],
+                [
+                  153.007381,
+                  -27.657948
+                ],
+                [
+                  153.007638,
+                  -27.657998
+                ],
+                [
+                  153.012296,
+                  -27.65779
+                ],
+                [
+                  153.012777,
+                  -27.657367
+                ],
+                [
+                  153.012358,
+                  -27.656895
+                ],
+                [
+                  153.006974,
+                  -27.656062
+                ],
+                [
+                  153.005029,
+                  -27.655762
+                ],
+                [
+                  153.004634,
+                  -27.655701
+                ],
+                [
+                  153.004067,
+                  -27.656002
+                ],
+                [
+                  153.004316,
+                  -27.656547
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-762002-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "31",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "10:25AM 28 May 2024",
+        "EST_FIX_TIME": "12:00PM 28 May 2024",
+        "STREETS": "FORESTDALE DR, JOHNSON RD",
+        "SUBURBS": "FORESTDALE"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716855900.941777"
+  "extracted": "1716856201.638121"
 }
