@@ -280,9 +280,78 @@
         "STREETS": "CAMPBELL RD, CHANNEL RD, EAST DAWSON RD, FUMAR RD, GREEN RD, HORSE CREEK RD, MCLEOD RD, MUTCHILBA RD, ROBINSON RD, SELBY RD, WEST DAWSON RD",
         "SUBURBS": "FUMAR, MUTCHILBA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.299078,
+              -24.902496
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.297008,
+                  -24.903888
+                ],
+                [
+                  152.301019,
+                  -24.904359
+                ],
+                [
+                  152.301574,
+                  -24.903879
+                ],
+                [
+                  152.301335,
+                  -24.901013
+                ],
+                [
+                  152.300648,
+                  -24.900634
+                ],
+                [
+                  152.297032,
+                  -24.902056
+                ],
+                [
+                  152.296739,
+                  -24.902404
+                ],
+                [
+                  152.296583,
+                  -24.903377
+                ],
+                [
+                  152.297008,
+                  -24.903888
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6044",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "18",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:32AM 28 May 2024",
+        "EST_FIX_TIME": "12:00PM 28 May 2024",
+        "STREETS": "CUMMINS RD, WONDERLAND AVE",
+        "SUBURBS": "BRANYAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716859802.29672"
+  "extracted": "1716860100.359904"
 }
