@@ -352,7 +352,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "44",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 29 May 2024",
         "EST_FIX_TIME": "2:30PM 29 May 2024",
         "STREETS": "ANNE ST, BENA ST, CAPTAIN COOK HWY, GAVIN ST, GILLIAN CL, NINA CL, SHARON ST",
@@ -987,6 +987,27 @@
         "EST_FIX_TIME": "2:30PM 29 May 2024",
         "STREETS": "GATTON ST, JULIA ST, KITTYHAWK CRES, NONDA ST, PRAIRIE ST, TIBARRI ST, WIRRAWAY CT",
         "SUBURBS": "KIRWAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.541172,
+          -20.717867
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8299",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 29 May 2024",
+        "EST_FIX_TIME": "2:00PM 29 May 2024",
+        "STREETS": "BARKLY HWY",
+        "SUBURBS": "BREAKAWAY, MOUNT ISA"
       }
     },
     {
@@ -1643,5 +1664,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716933900.356954"
+  "extracted": "1716934200.424695"
 }
