@@ -49,6 +49,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.541596,
+          -23.367113
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5489",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:46AM 29 May 2024",
+        "EST_FIX_TIME": "2:30PM 29 May 2024",
+        "STREETS": "SHEPHERD ST",
+        "SUBURBS": "KOONGAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.541526,
           -23.36778
         ]
@@ -1045,7 +1066,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "49",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 29 May 2024",
         "EST_FIX_TIME": "3:00PM 29 May 2024",
         "STREETS": "CONROY ST, DUTTON ST, MILES ST, MOREHEAD ST, O'MALLEY ST, ROBERTSON ST",
@@ -1087,7 +1108,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "32",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 29 May 2024",
         "EST_FIX_TIME": "2:00PM 29 May 2024",
         "STREETS": "LOUISA RD, MCGUIRES RD, NEYLONS RD, WELLINGTON RD",
@@ -1664,5 +1685,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716936301.468997"
+  "extracted": "1716936600.416725"
 }

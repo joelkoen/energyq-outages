@@ -133,6 +133,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.541596,
+          -23.367113
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5489",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:46AM 29 May 2024",
+        "EST_FIX_TIME": "2:30PM 29 May 2024",
+        "STREETS": "SHEPHERD ST",
+        "SUBURBS": "KOONGAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.541526,
           -23.36778
         ]
@@ -2767,7 +2788,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "49",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 29 May 2024",
         "EST_FIX_TIME": "3:00PM 29 May 2024",
         "STREETS": "CONROY ST, DUTTON ST, MILES ST, MOREHEAD ST, O'MALLEY ST, ROBERTSON ST",
@@ -2851,7 +2872,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "32",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 29 May 2024",
         "EST_FIX_TIME": "2:00PM 29 May 2024",
         "STREETS": "LOUISA RD, MCGUIRES RD, NEYLONS RD, WELLINGTON RD",
@@ -3129,69 +3150,6 @@
         "EST_FIX_TIME": "3:30PM 29 May 2024",
         "STREETS": "CARODON STATION, EULOLO RD, KOOROORA STATION, REDLAND PARK STATION",
         "SUBURBS": "MCKINLAY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.727624,
-          -19.297703
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ8547",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "15",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "8:00AM 02 Jun 2024",
-        "EST_FIX_TIME": "8:30AM 02 Jun 2024",
-        "STREETS": "AVON AVE, BLADON CT",
-        "SUBURBS": "KIRWAN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.729981,
-          -19.29983
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ8549",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "51",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "9:00AM 02 Jun 2024",
-        "EST_FIX_TIME": "10:00AM 02 Jun 2024",
-        "STREETS": "AVON AVE, BATH CT, BURNDA ST, LOMOND ST",
-        "SUBURBS": "KIRWAN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.73255,
-          -19.302516
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ8551",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "35",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "12:00PM 02 Jun 2024",
-        "EST_FIX_TIME": "1:00PM 02 Jun 2024",
-        "STREETS": "HERITAGE CL",
-        "SUBURBS": "KIRWAN"
       }
     },
     {
@@ -4688,5 +4646,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1716936301.468997"
+  "extracted": "1716936600.416725"
 }
