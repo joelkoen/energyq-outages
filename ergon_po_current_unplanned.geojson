@@ -80,7 +80,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "33",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "4:51PM 28 May 2024",
         "EST_FIX_TIME": null,
         "STREETS": "BARKER RD, BUTLERVILLE RD, CULLEN RD, GOODMAN RD, MATTSON RD, NARROWS RD",
@@ -258,128 +258,11 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "38",
         "REASON": "The loss of supply is due to fallen power lines.  ",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "3:52PM 28 May 2024",
-        "EST_FIX_TIME": null,
+        "EST_FIX_TIME": "8:30PM 28 May 2024",
         "STREETS": "CHEFFINS RD, INVERDON RD, LOWER DON RD, MILLERS LANE, TALOONDA RD, WEEKES RD",
         "SUBURBS": "BOWEN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.682498,
-              -27.767802
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.639531,
-                  -27.745585
-                ],
-                [
-                  151.640114,
-                  -27.759133
-                ],
-                [
-                  151.640156,
-                  -27.759297
-                ],
-                [
-                  151.674507,
-                  -27.828628
-                ],
-                [
-                  151.674733,
-                  -27.828844
-                ],
-                [
-                  151.685239,
-                  -27.833795
-                ],
-                [
-                  151.685268,
-                  -27.833807
-                ],
-                [
-                  151.696386,
-                  -27.838264
-                ],
-                [
-                  151.696758,
-                  -27.83828
-                ],
-                [
-                  151.719145,
-                  -27.831489
-                ],
-                [
-                  151.719485,
-                  -27.831112
-                ],
-                [
-                  151.725465,
-                  -27.782223
-                ],
-                [
-                  151.725462,
-                  -27.782104
-                ],
-                [
-                  151.71426,
-                  -27.718837
-                ],
-                [
-                  151.71418,
-                  -27.718655
-                ],
-                [
-                  151.698131,
-                  -27.697507
-                ],
-                [
-                  151.697585,
-                  -27.697323
-                ],
-                [
-                  151.671788,
-                  -27.703268
-                ],
-                [
-                  151.671496,
-                  -27.703452
-                ],
-                [
-                  151.639618,
-                  -27.745315
-                ],
-                [
-                  151.639531,
-                  -27.745585
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW9432",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "103",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "2:16PM 28 May 2024",
-        "EST_FIX_TIME": "7:30PM 28 May 2024",
-        "STREETS": "AVONDALE RD, BALGOWNIE RD, BROXBURN RD, CLIFTON RD, COOPERS RD, DRONEY RD, FELTON RD, FLOOD LANE, FOWLER RD, FOWLERS RD, HAYDEN RD, HOMESTEAD RD, LEIFELS RD, LONG RD, PITTSWORTH-FELTON RD, VOLKER RD, WEIMERS RD, WIEMERS RD",
-        "SUBURBS": "BROXBURN, FELTON, FELTON EAST, PITTSWORTH, SOUTHBROOK"
       }
     },
     {
@@ -741,7 +624,7 @@
         "EVENT_ID": "24WB6059",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "1576",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
         "STATUS": "Outage reported",
         "START": "5:08PM 28 May 2024",
         "EST_FIX_TIME": null,
@@ -752,5 +635,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716884703.429097"
+  "extracted": "1716885003.208256"
 }
