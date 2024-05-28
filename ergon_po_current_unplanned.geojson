@@ -10,123 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              150.455691,
-              -23.438598
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  150.454289,
-                  -23.439295
-                ],
-                [
-                  150.454321,
-                  -23.439426
-                ],
-                [
-                  150.454376,
-                  -23.439554
-                ],
-                [
-                  150.45474,
-                  -23.44013
-                ],
-                [
-                  150.45477,
-                  -23.440173
-                ],
-                [
-                  150.454872,
-                  -23.440299
-                ],
-                [
-                  150.455512,
-                  -23.440417
-                ],
-                [
-                  150.456548,
-                  -23.439853
-                ],
-                [
-                  150.456567,
-                  -23.439843
-                ],
-                [
-                  150.456773,
-                  -23.439719
-                ],
-                [
-                  150.456966,
-                  -23.439493
-                ],
-                [
-                  150.457089,
-                  -23.439175
-                ],
-                [
-                  150.457092,
-                  -23.43888
-                ],
-                [
-                  150.456424,
-                  -23.437046
-                ],
-                [
-                  150.456348,
-                  -23.436914
-                ],
-                [
-                  150.456235,
-                  -23.436779
-                ],
-                [
-                  150.455431,
-                  -23.436817
-                ],
-                [
-                  150.454674,
-                  -23.437951
-                ],
-                [
-                  150.454622,
-                  -23.438059
-                ],
-                [
-                  150.454297,
-                  -23.439068
-                ],
-                [
-                  150.454289,
-                  -23.439295
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA7451",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "46",
-        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
-        "STATUS": "Crews working on-site",
-        "START": "12:48PM 28 May 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "BARRY ST, LAWRIE ST, RUSSELL ST, SYDNEY KING CL",
-        "SUBURBS": "GRACEMERE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               142.223026,
               -10.580694
             ]
@@ -202,6 +85,139 @@
         "EST_FIX_TIME": "7:00PM 28 May 2024",
         "STREETS": "DOUGLAS ST, HARGRAVE ST, HASTINGS ST, HOCKING PNT, JOHN ST, LOBAN ST, MILMAN ST, SUMMERS ST, VICTORIA PDE",
         "SUBURBS": "THURSDAY ISLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              149.153239,
+              -21.011759
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.151002,
+                  -21.010391
+                ],
+                [
+                  149.151155,
+                  -21.010735
+                ],
+                [
+                  149.151173,
+                  -21.010771
+                ],
+                [
+                  149.15149,
+                  -21.01134
+                ],
+                [
+                  149.151511,
+                  -21.011374
+                ],
+                [
+                  149.152975,
+                  -21.013523
+                ],
+                [
+                  149.153193,
+                  -21.013695
+                ],
+                [
+                  149.153545,
+                  -21.013835
+                ],
+                [
+                  149.153652,
+                  -21.013865
+                ],
+                [
+                  149.154874,
+                  -21.014059
+                ],
+                [
+                  149.155434,
+                  -21.013639
+                ],
+                [
+                  149.155509,
+                  -21.012396
+                ],
+                [
+                  149.155509,
+                  -21.012359
+                ],
+                [
+                  149.155462,
+                  -21.010593
+                ],
+                [
+                  149.155407,
+                  -21.010394
+                ],
+                [
+                  149.155278,
+                  -21.010165
+                ],
+                [
+                  149.155271,
+                  -21.010152
+                ],
+                [
+                  149.155138,
+                  -21.009933
+                ],
+                [
+                  149.154777,
+                  -21.009709
+                ],
+                [
+                  149.152928,
+                  -21.009503
+                ],
+                [
+                  149.152887,
+                  -21.0095
+                ],
+                [
+                  149.151504,
+                  -21.00946
+                ],
+                [
+                  149.151012,
+                  -21.009852
+                ],
+                [
+                  149.15097,
+                  -21.010159
+                ],
+                [
+                  149.151002,
+                  -21.010391
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4671",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "106",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "3:00PM 28 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MERMAID ST, NAVIGATOR CT, PORTSIDE PL, SEASPRAY CL, SEYCHELLES RD, STARBOARD CCT",
+        "SUBURBS": "SHOAL POINT"
       }
     },
     {
@@ -324,5 +340,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716872100.336341"
+  "extracted": "1716872403.555468"
 }
