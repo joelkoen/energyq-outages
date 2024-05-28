@@ -360,9 +360,118 @@
         "STREETS": "AVONDALE RD, BALGOWNIE RD, BROXBURN RD, CLIFTON RD, COOPERS RD, DRONEY RD, FELTON RD, FLOOD LANE, FOWLER RD, FOWLERS RD, HAYDEN RD, HOMESTEAD RD, LEIFELS RD, LONG RD, PITTSWORTH-FELTON RD, VOLKER RD, WEIMERS RD, WIEMERS RD",
         "SUBURBS": "BROXBURN, FELTON, FELTON EAST, PITTSWORTH, SOUTHBROOK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.677709,
+              -25.278041
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.635227,
+                  -25.30947
+                ],
+                [
+                  152.640244,
+                  -25.31243
+                ],
+                [
+                  152.640779,
+                  -25.312432
+                ],
+                [
+                  152.718543,
+                  -25.267284
+                ],
+                [
+                  152.718608,
+                  -25.267239
+                ],
+                [
+                  152.720416,
+                  -25.265761
+                ],
+                [
+                  152.720299,
+                  -25.265022
+                ],
+                [
+                  152.675415,
+                  -25.245421
+                ],
+                [
+                  152.675332,
+                  -25.245392
+                ],
+                [
+                  152.673876,
+                  -25.245027
+                ],
+                [
+                  152.67383,
+                  -25.245018
+                ],
+                [
+                  152.673197,
+                  -25.244916
+                ],
+                [
+                  152.67316,
+                  -25.244911
+                ],
+                [
+                  152.659422,
+                  -25.24365
+                ],
+                [
+                  152.658905,
+                  -25.243949
+                ],
+                [
+                  152.635267,
+                  -25.305474
+                ],
+                [
+                  152.63524,
+                  -25.305594
+                ],
+                [
+                  152.635002,
+                  -25.309065
+                ],
+                [
+                  152.635227,
+                  -25.30947
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6058",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1332",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:59PM 28 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AQUA CT, BEACH WALK CT, BEACHCOMBER WAY, BEACHSIDE CT, BEELBI PL, BRACKISH CT, CASTAWAY CT, CLEARWATER CRES, COLES CT, COSHAM CT, DELROSE CT, DESMOND DR, EDBARJUDCAR RD, ESPLANADE, FRASER WATERS PDE, HELM ST, JEPPESEN RD, KALINDA CT, KINGFISHER PDE, LEWIS CT, LONGBOARD ST, LORIKEET AVE, MALIBU WAY, MARK AVE, MEMORIAL ST, MORETON ST, MORRIS CT, NORTHSHORE AVE, O'REGAN CREEK RD, OLD TOOGOOM RD, OYSTER CT, PERIWINKLE CRES, PIALBA BURRUM HEADS RD, PORPITA CCT, REEF CL, RIES RD, SEA BEACH WAY, SEASHORE WAY, SEASIDE CCT, SEAWAY PDE, SHELLCOT ST, SILVERLEAF TCE, SUNNY WAY, SWALLOW TAIL CT, SWAN VIEW CT, SWANVIEW CT, TOOGOOM RD, TREE VIEW RD, TREVALLI CT, TWIN FIN CT, WAVE CT, YRAM PL",
+        "SUBURBS": "BEELBI CREEK, BURGOWAN, PIALBA, TOOGOOM, TORBANLEA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716879603.47258"
+  "extracted": "1716879901.07771"
 }
