@@ -1,8 +1,166 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.857498,
+              -26.148424
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.785436,
+                  -26.138048
+                ],
+                [
+                  152.801529,
+                  -26.153804
+                ],
+                [
+                  152.801609,
+                  -26.153868
+                ],
+                [
+                  152.807949,
+                  -26.157889
+                ],
+                [
+                  152.807954,
+                  -26.157893
+                ],
+                [
+                  152.859897,
+                  -26.189969
+                ],
+                [
+                  152.85997,
+                  -26.190007
+                ],
+                [
+                  152.875749,
+                  -26.196568
+                ],
+                [
+                  152.875789,
+                  -26.196583
+                ],
+                [
+                  152.876338,
+                  -26.196761
+                ],
+                [
+                  152.876459,
+                  -26.196786
+                ],
+                [
+                  152.879038,
+                  -26.197009
+                ],
+                [
+                  152.879093,
+                  -26.197011
+                ],
+                [
+                  152.921867,
+                  -26.19646
+                ],
+                [
+                  152.922224,
+                  -26.196318
+                ],
+                [
+                  152.929484,
+                  -26.189357
+                ],
+                [
+                  152.92962,
+                  -26.189055
+                ],
+                [
+                  152.929646,
+                  -26.187518
+                ],
+                [
+                  152.929635,
+                  -26.187416
+                ],
+                [
+                  152.928186,
+                  -26.18132
+                ],
+                [
+                  152.928072,
+                  -26.181116
+                ],
+                [
+                  152.915319,
+                  -26.168055
+                ],
+                [
+                  152.915313,
+                  -26.168049
+                ],
+                [
+                  152.846374,
+                  -26.099969
+                ],
+                [
+                  152.84588,
+                  -26.099836
+                ],
+                [
+                  152.803765,
+                  -26.109673
+                ],
+                [
+                  152.803587,
+                  -26.109752
+                ],
+                [
+                  152.797452,
+                  -26.113982
+                ],
+                [
+                  152.797301,
+                  -26.114152
+                ],
+                [
+                  152.785349,
+                  -26.137553
+                ],
+                [
+                  152.785436,
+                  -26.138048
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-762051-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "282",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "1:41PM 28 May 2024",
+        "EST_FIX_TIME": "4:30PM 28 May 2024",
+        "STREETS": "COUNTER RD, DAVID WALKER RD, EATON RD, HARRIS RD, HOFF RD, KIN KIN RD, MCLEISH RD, MCRAE RD, NEUSAVALE RD, NEWINGA RD, ORMES RD, PARSONS RD, RYAN RD, STEWART RD, TAGIGAN RD, TREEBY RD, TURNER RD, VERNE RD, VINES RD, WILSONS POCKET RD, WOLVI MOUNTAIN RD, YELLOW GULLY RD, YELTUKKA RD",
+        "SUBURBS": "COONDOO, GOOMBOORIAN, WILSONS POCKET, WOLVI"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716867600.436448"
+  "extracted": "1716867903.819902"
 }
