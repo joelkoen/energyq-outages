@@ -187,9 +187,102 @@
         "STREETS": "SELMA RD",
         "SUBURBS": "EMERALD"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              144.530017,
+              -15.514302
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  144.231038,
+                  -15.581164
+                ],
+                [
+                  144.699876,
+                  -15.786583
+                ],
+                [
+                  144.700517,
+                  -15.786293
+                ],
+                [
+                  144.829238,
+                  -15.341814
+                ],
+                [
+                  144.829249,
+                  -15.341617
+                ],
+                [
+                  144.812153,
+                  -15.242371
+                ],
+                [
+                  144.811535,
+                  -15.242021
+                ],
+                [
+                  144.703127,
+                  -15.280261
+                ],
+                [
+                  144.703066,
+                  -15.280287
+                ],
+                [
+                  144.281125,
+                  -15.498594
+                ],
+                [
+                  144.281013,
+                  -15.498676
+                ],
+                [
+                  144.246056,
+                  -15.532972
+                ],
+                [
+                  144.245942,
+                  -15.533156
+                ],
+                [
+                  144.230785,
+                  -15.580619
+                ],
+                [
+                  144.231038,
+                  -15.581164
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6840",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "84",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "11:22AM 29 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DEIGHTON RD, GEORGE CL, GLADWELL CT, HENWOOD RD, PENINSULA DEVELOPMENT RD, TERMINUS ST, UNKNOWN ST, UNNAMED RD",
+        "SUBURBS": "COOKTOWN, HOPE VALE, LAKELAND, LAURA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716945900.378304"
+  "extracted": "1716946201.414048"
 }
