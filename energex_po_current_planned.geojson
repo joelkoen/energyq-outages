@@ -721,6 +721,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          153.051063,
+          -27.444741
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-760149-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "Planned Maintenance",
+        "STATUS": "In Progress",
+        "START": "8:00AM 30 May 2024",
+        "EST_FIX_TIME": "12:30PM 30 May 2024",
+        "STREETS": "QUAY ST",
+        "SUBURBS": "BULIMBA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           153.428135,
           -28.020294
         ]
@@ -908,5 +929,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717026000.333701"
+  "extracted": "1717026303.696591"
 }
