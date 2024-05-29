@@ -70,6 +70,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.247658,
+          -23.887888
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5266",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "317",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:02AM 30 May 2024",
+        "EST_FIX_TIME": "3:00PM 30 May 2024",
+        "STREETS": "COLLINS LANE, DICKINSON RD, DORADO CT, HERITAGE DR, HODGE DR, JAMES CT, LIVIC LANE, MICHEL PL, PARSLOE ST, PIONEER DR, RIVERSIDE PL, SANDRINGHAM CL, SUTHERLAND CT, WITNEY ST, WOODMAN WAY",
+        "SUBURBS": "KIN KORA, NEW AUCKLAND, TELINA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           149.41448,
           -24.669348
         ]
@@ -1078,6 +1099,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.734559,
+          -20.835528
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK3578",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "39",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 30 May 2024",
+        "EST_FIX_TIME": "3:00PM 30 May 2024",
+        "STREETS": "BRUCE HWY, COALMINE RD, COMELLIS RD, HALLIWELLS RD, JORGENSENS RD, KILCULLENS RD, MACKENZIES RD, MENTMORE RD, OLD BOWEN RD, RED HILL RD, STURMAS RD, ZAMPARUTTIS RD",
+        "SUBURBS": "CALEN, MENTMORE, WAGOORA, YALBOROO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.701593,
           -20.278545
         ]
@@ -1235,7 +1277,7 @@
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:00AM 30 May 2024",
+        "START": "8:09AM 30 May 2024",
         "EST_FIX_TIME": "3:00PM 30 May 2024",
         "STREETS": "SHUTE HARBOUR RD",
         "SUBURBS": "HAMILTON PLAINS, MOUNT JULIAN"
@@ -1785,27 +1827,6 @@
         "EST_FIX_TIME": "2:30PM 30 May 2024",
         "STREETS": "CORK STATION, LARK QUARRY RD, NAREEN STATION, RED HILL STATION, TULMUR STATION, WHYRALLAH STATION, WYRALLAH STATION",
         "SUBURBS": "WINTON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.752538,
-          -21.283911
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ8499",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "23",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "8:10AM 30 May 2024",
-        "EST_FIX_TIME": "3:30PM 30 May 2024",
-        "STREETS": "ASHOVER STATION, BUSHY PARK STATION, DUCHESS RD, DUKE ST, FLYNN RAIL SDNG, MALBONVALE STATION, MAYFIELD STATION, RIFLE CREEK, RIFLE CREEK STATION, STANBROKE STATION, YAPPO CREEK",
-        "SUBURBS": "DUCHESS, MORNINGTON, MOUNT ISA"
       }
     },
     {
@@ -2410,7 +2431,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "5",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 30 May 2024",
         "EST_FIX_TIME": "10:00AM 30 May 2024",
         "STREETS": "TOBERMORY RD",
@@ -2557,7 +2578,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "18",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 30 May 2024",
         "EST_FIX_TIME": "2:00PM 30 May 2024",
         "STREETS": "BOORAL RD, BUNDI RYALS RD, GROSMONT RD, KABUNGA RD, PERRETTS RD, RYALS RD",
@@ -3029,5 +3050,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1717020300.484931"
+  "extracted": "1717020600.594977"
 }
