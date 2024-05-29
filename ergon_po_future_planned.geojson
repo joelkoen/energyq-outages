@@ -49,6 +49,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.319179,
+          -23.977237
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5190",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 30 May 2024",
+        "EST_FIX_TIME": "3:00PM 30 May 2024",
+        "STREETS": "DIXALEA-DOREEN RD, MCDONALD'S RD, MCDONALDS RD, TOMLIN RD",
+        "SUBURBS": "DULULU, WOWAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.247658,
           -23.887888
         ]
@@ -714,6 +735,27 @@
         "EST_FIX_TIME": "10:30AM 01 Jun 2024",
         "STREETS": "AIKURU ST, DABUS ST, ESPLANADE AVE, GANAIA ST, JAMES ST, PHILLEMON ST, WARRABER ISLAND, YESSIE ST",
         "SUBURBS": "WARRABER ISLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.593446,
+          -17.513381
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6071",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:23AM 30 May 2024",
+        "EST_FIX_TIME": "2:00PM 30 May 2024",
+        "STREETS": "EAST EVELYN RD, MALANDA RD, NEWELLS RD",
+        "SUBURBS": "MILLAA MILLAA"
       }
     },
     {
@@ -2945,5 +2987,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1717024800.394894"
+  "extracted": "1717025100.41498"
 }
