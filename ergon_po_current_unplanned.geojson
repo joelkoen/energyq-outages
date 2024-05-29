@@ -172,6 +172,115 @@
           {
             "type": "Point",
             "coordinates": [
+              145.299009,
+              -17.009348
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.268531,
+                  -17.004886
+                ],
+                [
+                  145.280556,
+                  -17.011629
+                ],
+                [
+                  145.280592,
+                  -17.011648
+                ],
+                [
+                  145.302867,
+                  -17.021719
+                ],
+                [
+                  145.302994,
+                  -17.021756
+                ],
+                [
+                  145.32048,
+                  -17.024412
+                ],
+                [
+                  145.320548,
+                  -17.024418
+                ],
+                [
+                  145.328591,
+                  -17.024494
+                ],
+                [
+                  145.329048,
+                  -17.024166
+                ],
+                [
+                  145.329575,
+                  -17.022388
+                ],
+                [
+                  145.329539,
+                  -17.022053
+                ],
+                [
+                  145.322993,
+                  -17.010114
+                ],
+                [
+                  145.322909,
+                  -17.010005
+                ],
+                [
+                  145.322722,
+                  -17.009826
+                ],
+                [
+                  145.322556,
+                  -17.009723
+                ],
+                [
+                  145.279697,
+                  -16.994202
+                ],
+                [
+                  145.279208,
+                  -16.994298
+                ],
+                [
+                  145.268443,
+                  -17.004169
+                ],
+                [
+                  145.268531,
+                  -17.004886
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6870",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "59",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:02AM 30 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOWER RD, DIMBULAH RD, IVICEVIC RD, MAREEBA DIMBULAH RD, MCBEAN RD, TYRCONNELL RD",
+        "SUBURBS": "ARRIGA, PADDYS GREEN, WEST PADDYS GREEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               149.046439,
               -21.281189
             ]
@@ -308,5 +417,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716998416.483708"
+  "extracted": "1716998701.154094"
 }
