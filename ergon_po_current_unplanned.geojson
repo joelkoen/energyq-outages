@@ -163,9 +163,102 @@
         "STREETS": "ANDY SHEPPARD DR, MCBEAN RD",
         "SUBURBS": "GLEN RUSSELL, PADDYS GREEN, WEST PADDYS GREEN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              149.193516,
+              -21.128459
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.178715,
+                  -21.123658
+                ],
+                [
+                  149.184396,
+                  -21.144767
+                ],
+                [
+                  149.185225,
+                  -21.144953
+                ],
+                [
+                  149.208201,
+                  -21.120299
+                ],
+                [
+                  149.208316,
+                  -21.119944
+                ],
+                [
+                  149.207333,
+                  -21.112832
+                ],
+                [
+                  149.206871,
+                  -21.112439
+                ],
+                [
+                  149.189869,
+                  -21.111966
+                ],
+                [
+                  149.189599,
+                  -21.112034
+                ],
+                [
+                  149.187954,
+                  -21.112999
+                ],
+                [
+                  149.187886,
+                  -21.113047
+                ],
+                [
+                  149.186548,
+                  -21.114184
+                ],
+                [
+                  149.186494,
+                  -21.114237
+                ],
+                [
+                  149.178806,
+                  -21.123266
+                ],
+                [
+                  149.178715,
+                  -21.123658
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4710",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1462",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:36AM 30 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BARNES CREEK RD, BASSETT ST, BAUR ST, BUNDESEN ST, CAMERON ST, CANBERRA ST, CARR ST, CORNWALL ST, CREEK ST, CREMORNE ST, ERNEST ST, ESHMANN ST, EVANS AVE, FORGAN ST, GAYLARD ST, GOLDSTON ST, GRAVES ST, GRENDON ST, HAMILTON DR, HAMILTON ST, HARBOUR RD, HARVEY ST, HOWLAND ST, KELLER ST, KING ST, KINGSFORD CT, KNOBEL ST, LOUGHNANE CT, MALCOMSON ST, MARTIN ST, MCCULLOCH ST, MCKINLEY ST, MT BASSETT CEMETERY RD, OLOUGHLIN ST, PALM ST, PALMER ST, PARR ST, PERKINS ST, PETERSEN ST, PICCOLO ST, QUEEN ST, RIVERSIDE DR, ROBINSON ST, SAPPHIRE CT, SCHOOL ST, SHINN ST, STRANG ST, STRICKLAND RD, SWAYNE ST, THORNBER ST, UNGERER ST, VINE ST",
+        "SUBURBS": "CREMORNE, MACKAY HARBOUR, NORTH MACKAY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717022400.324375"
+  "extracted": "1717022704.019646"
 }
