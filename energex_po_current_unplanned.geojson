@@ -82,9 +82,126 @@
         "STREETS": "HILLDON CT, O'SHEA DR",
         "SUBURBS": "NERANG"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.131383,
+              -26.725409
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.129037,
+                  -26.725444
+                ],
+                [
+                  153.129481,
+                  -26.729829
+                ],
+                [
+                  153.130088,
+                  -26.73023
+                ],
+                [
+                  153.131136,
+                  -26.730026
+                ],
+                [
+                  153.13116,
+                  -26.730021
+                ],
+                [
+                  153.132962,
+                  -26.729589
+                ],
+                [
+                  153.133276,
+                  -26.729365
+                ],
+                [
+                  153.133524,
+                  -26.728946
+                ],
+                [
+                  153.133583,
+                  -26.728749
+                ],
+                [
+                  153.13359,
+                  -26.72857
+                ],
+                [
+                  153.133591,
+                  -26.728561
+                ],
+                [
+                  153.133732,
+                  -26.721454
+                ],
+                [
+                  153.133689,
+                  -26.721263
+                ],
+                [
+                  153.133489,
+                  -26.720857
+                ],
+                [
+                  153.132996,
+                  -26.720589
+                ],
+                [
+                  153.130313,
+                  -26.720747
+                ],
+                [
+                  153.129858,
+                  -26.721087
+                ],
+                [
+                  153.12915,
+                  -26.723617
+                ],
+                [
+                  153.129135,
+                  -26.723703
+                ],
+                [
+                  153.129035,
+                  -26.725379
+                ],
+                [
+                  153.129037,
+                  -26.725444
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-762229-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "386",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "12:27PM 29 May 2024",
+        "EST_FIX_TIME": "3:00PM 29 May 2024",
+        "STREETS": "ARILPA ST, BAREENA PL, BULLANDO ST, COOLAHRA ST, GIRRAWEEN ST, ILAROO CRES, KAMBORA ST, LANGURA ST, MARANA ST, MINKARA ST, MULGANI ST, NAGARI PL, NAPALLE ST, NICKLIN WAY, OCEANIC DR, PARARI ST, PERINA ST, URINGA ST, WILUNA ST",
+        "SUBURBS": "WARANA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716949500.806383"
+  "extracted": "1716949803.654485"
 }
