@@ -196,6 +196,123 @@
           {
             "type": "Point",
             "coordinates": [
+              151.258341,
+              -23.875812
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.25593,
+                  -23.874667
+                ],
+                [
+                  151.256176,
+                  -23.875399
+                ],
+                [
+                  151.256223,
+                  -23.875496
+                ],
+                [
+                  151.257513,
+                  -23.877494
+                ],
+                [
+                  151.257534,
+                  -23.877524
+                ],
+                [
+                  151.257836,
+                  -23.877917
+                ],
+                [
+                  151.258293,
+                  -23.878105
+                ],
+                [
+                  151.259533,
+                  -23.877971
+                ],
+                [
+                  151.259717,
+                  -23.877916
+                ],
+                [
+                  151.259883,
+                  -23.877829
+                ],
+                [
+                  151.260124,
+                  -23.87752
+                ],
+                [
+                  151.260752,
+                  -23.874443
+                ],
+                [
+                  151.26037,
+                  -23.873919
+                ],
+                [
+                  151.258334,
+                  -23.873528
+                ],
+                [
+                  151.258217,
+                  -23.873519
+                ],
+                [
+                  151.257941,
+                  -23.873528
+                ],
+                [
+                  151.257908,
+                  -23.87353
+                ],
+                [
+                  151.257266,
+                  -23.873591
+                ],
+                [
+                  151.257068,
+                  -23.87365
+                ],
+                [
+                  151.25615,
+                  -23.874145
+                ],
+                [
+                  151.25593,
+                  -23.874667
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7484",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "112",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "12:29PM 29 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CAROL ST, EDLOROWA ST, FRANMAUR ST, RIFLE RANGE RD, RUSS ST, SUN VALLEY RD, TWIN ST, WATERSON DR",
+        "SUBURBS": "KIN KORA, SUN VALLEY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               144.530017,
               -15.514302
             ]
@@ -401,5 +518,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716950101.343597"
+  "extracted": "1716950400.501846"
 }
