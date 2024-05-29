@@ -217,6 +217,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.613979,
+          -17.507901
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6209",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "1:24PM 29 May 2024",
+        "EST_FIX_TIME": "3:30PM 29 May 2024",
+        "STREETS": "WATTLE ST",
+        "SUBURBS": "MILLAA MILLAA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.741603,
           -20.274003
         ]
@@ -490,27 +511,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.200645,
-          -21.155069
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK4397",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "1:30PM 29 May 2024",
-        "EST_FIX_TIME": "3:30PM 29 May 2024",
-        "STREETS": "BINNINGTON ESP",
-        "SUBURBS": "EAST MACKAY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           146.331519,
           -18.526706
         ]
@@ -525,27 +525,6 @@
         "EST_FIX_TIME": "3:30PM 30 May 2024",
         "STREETS": "DUNGENESS RD, KEAST ST",
         "SUBURBS": "LUCINDA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          147.247234,
-          -19.825006
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ7595",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "25",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:40AM 29 May 2024",
-        "EST_FIX_TIME": "2:00PM 29 May 2024",
-        "STREETS": "GELLING RD, KIRKNIE RD, STEVEN RD, STEVENS RD",
-        "SUBURBS": "HOME HILL"
       }
     },
     {
@@ -887,5 +866,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716953101.324027"
+  "extracted": "1716953403.974777"
 }
