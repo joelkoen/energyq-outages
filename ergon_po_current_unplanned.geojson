@@ -163,9 +163,118 @@
         "STREETS": "ANDY SHEPPARD DR, MCBEAN RD",
         "SUBURBS": "GLEN RUSSELL, PADDYS GREEN, WEST PADDYS GREEN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.945711,
+              -27.493414
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.94107,
+                  -27.49595
+                ],
+                [
+                  151.942525,
+                  -27.497063
+                ],
+                [
+                  151.94306,
+                  -27.497132
+                ],
+                [
+                  151.948402,
+                  -27.494998
+                ],
+                [
+                  151.948499,
+                  -27.494947
+                ],
+                [
+                  151.948906,
+                  -27.494674
+                ],
+                [
+                  151.948975,
+                  -27.494619
+                ],
+                [
+                  151.949487,
+                  -27.494122
+                ],
+                [
+                  151.949598,
+                  -27.493949
+                ],
+                [
+                  151.950152,
+                  -27.492339
+                ],
+                [
+                  151.950172,
+                  -27.492246
+                ],
+                [
+                  151.950369,
+                  -27.490197
+                ],
+                [
+                  151.94987,
+                  -27.489709
+                ],
+                [
+                  151.948112,
+                  -27.489696
+                ],
+                [
+                  151.947883,
+                  -27.489743
+                ],
+                [
+                  151.947435,
+                  -27.489941
+                ],
+                [
+                  151.947313,
+                  -27.490017
+                ],
+                [
+                  151.941053,
+                  -27.495281
+                ],
+                [
+                  151.94107,
+                  -27.49595
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9489",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "24",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 30 May 2024",
+        "EST_FIX_TIME": "3:00PM 30 May 2024",
+        "STREETS": "COOK CT, DRUMMOND RD, NEW ENGLAND HWY, QUINLAN RD",
+        "SUBURBS": "BLUE MOUNTAIN HEIGHT, HIGHFIELDS"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717024502.413971"
+  "extracted": "1717024800.394894"
 }
