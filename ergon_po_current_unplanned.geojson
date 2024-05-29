@@ -304,9 +304,175 @@
         "STREETS": "GALVANI ST, HALLEY ST, HARGREAVES ST, NEWTON ST, RAYLEIGH ST, STEPHENSON ST",
         "SUBURBS": "WULGURU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              140.496112,
+              -20.734039
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  140.486373,
+                  -20.724376
+                ],
+                [
+                  140.486963,
+                  -20.726001
+                ],
+                [
+                  140.487031,
+                  -20.726123
+                ],
+                [
+                  140.501271,
+                  -20.744274
+                ],
+                [
+                  140.502118,
+                  -20.744116
+                ],
+                [
+                  140.50585,
+                  -20.730127
+                ],
+                [
+                  140.505537,
+                  -20.729591
+                ],
+                [
+                  140.486975,
+                  -20.723805
+                ],
+                [
+                  140.486373,
+                  -20.724376
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9179",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "3:00PM 29 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MILE GDN, PHILLIPS ST, ROXMERE STN RD, SCARR ST, WALTONS FARM HOLDING, WALTONS WELL RVR, WELL RVR",
+        "SUBURBS": "CLONCURRY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.589356,
+              -26.98383
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.537033,
+                  -27.04172
+                ],
+                [
+                  151.547083,
+                  -27.055948
+                ],
+                [
+                  151.547514,
+                  -27.056158
+                ],
+                [
+                  151.55862,
+                  -27.056035
+                ],
+                [
+                  151.55885,
+                  -27.055982
+                ],
+                [
+                  151.612564,
+                  -27.030365
+                ],
+                [
+                  151.612733,
+                  -27.030234
+                ],
+                [
+                  151.615799,
+                  -27.026493
+                ],
+                [
+                  151.615861,
+                  -27.026394
+                ],
+                [
+                  151.641649,
+                  -26.968732
+                ],
+                [
+                  151.64168,
+                  -26.968496
+                ],
+                [
+                  151.631859,
+                  -26.911873
+                ],
+                [
+                  151.631468,
+                  -26.911502
+                ],
+                [
+                  151.630942,
+                  -26.911697
+                ],
+                [
+                  151.537037,
+                  -27.041234
+                ],
+                [
+                  151.537033,
+                  -27.04172
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9484",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "39",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "12:19PM 29 May 2024",
+        "EST_FIX_TIME": "5:59PM 29 May 2024",
+        "STREETS": "BUNYA MOUNTAINS MACLAGAN RD, BUNYA MOUNTAINS RD, BUNYA MOUNTAINS-MACLAGAN RD, BURTONS RD, JACKSONS RD, MALLING BOUNDARY RD, RANGEMORE RD, WOODLANDS RD, YAMSION HILL RD",
+        "SUBURBS": "BUNYA MOUNTAINS, KAIMKILLENBUN, MACLAGAN, MOOLA, RANGEMORE, YAMSION"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716958501.336468"
+  "extracted": "1716958812.435127"
 }
