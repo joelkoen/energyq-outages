@@ -10,6 +10,107 @@
           {
             "type": "Point",
             "coordinates": [
+              142.380291,
+              -10.861942
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  142.366136,
+                  -10.846646
+                ],
+                [
+                  142.366313,
+                  -10.85276
+                ],
+                [
+                  142.366318,
+                  -10.852817
+                ],
+                [
+                  142.366699,
+                  -10.855192
+                ],
+                [
+                  142.366774,
+                  -10.855378
+                ],
+                [
+                  142.368054,
+                  -10.857202
+                ],
+                [
+                  142.368055,
+                  -10.857204
+                ],
+                [
+                  142.391301,
+                  -10.890055
+                ],
+                [
+                  142.391913,
+                  -10.89018
+                ],
+                [
+                  142.392699,
+                  -10.889703
+                ],
+                [
+                  142.392886,
+                  -10.889478
+                ],
+                [
+                  142.394426,
+                  -10.885447
+                ],
+                [
+                  142.394447,
+                  -10.885199
+                ],
+                [
+                  142.384023,
+                  -10.833975
+                ],
+                [
+                  142.383303,
+                  -10.833703
+                ],
+                [
+                  142.366319,
+                  -10.846273
+                ],
+                [
+                  142.366136,
+                  -10.846646
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6861",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "299",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "STATUS": "Outage reported",
+        "START": "5:31PM 29 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANU CRES, BOND ST, BROWN ST, COTTIS ST, DANALGUB ST, ELU ST, FLETCHER ST, GOWA CL, JACOB ST, JAWAI ST, KORABA RD, LANGIE-DRAHA ST, LITTLE FLETCHER ST, LOYALTY BEACH RD, LUFF ST, MAIN RD, MUDU ST, MUGAI ST, NAWIA ST, OFF DANALGUB ST, PAII CL, PARRY ST, STEPHEN CL, SUNAI ST, TRADESMAN LANE, TUMEMA ST, UNKNOWN ST, WILIMA CL, WILLIAMS CRES, YANGIE ST",
+        "SUBURBS": "BAMAGA, NEW MAPOON, SEISIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               140.496112,
               -20.734039
             ]
@@ -171,5 +272,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1716968401.790113"
+  "extracted": "1716968703.495922"
 }
