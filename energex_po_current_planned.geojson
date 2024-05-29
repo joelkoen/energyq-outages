@@ -98,9 +98,9 @@
       "properties": {
         "EVENT_ID": "INCD-756100-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "5",
+        "CUSTOMERS_AFFECTED": "6",
         "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
+        "STATUS": "Completed",
         "START": "8:00AM 29 May 2024",
         "EST_FIX_TIME": "3:00PM 29 May 2024",
         "STREETS": "SANDPIPER ST",
@@ -203,7 +203,7 @@
       "properties": {
         "EVENT_ID": "INCD-757498-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "15",
+        "CUSTOMERS_AFFECTED": "16",
         "REASON": "Planned Maintenance",
         "STATUS": "In Progress",
         "START": "8:00AM 29 May 2024",
@@ -352,7 +352,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "39",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "8:00AM 29 May 2024",
         "EST_FIX_TIME": "3:00PM 29 May 2024",
         "STREETS": "BUNNEYS LANE, GYMPIE KIN KIN RD, PAULSENS RD, SHEPPERSONS LANE, WAHPUNGA LANE",
@@ -394,7 +394,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "109",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "8:30AM 29 May 2024",
         "EST_FIX_TIME": "3:30PM 29 May 2024",
         "STREETS": "CAPSTAN CT, FYSHBURN DR, HAWK CT, KANIMBLA AVE, KRAIT CT",
@@ -434,7 +434,7 @@
       "properties": {
         "EVENT_ID": "INCD-758326-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "18",
+        "CUSTOMERS_AFFECTED": "29",
         "REASON": "Planned Maintenance",
         "STATUS": "In Progress",
         "START": "8:00AM 29 May 2024",
@@ -478,7 +478,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "134",
         "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
+        "STATUS": "Completed",
         "START": "8:00AM 29 May 2024",
         "EST_FIX_TIME": "3:00PM 29 May 2024",
         "STREETS": "ANNE ST, BERYL ST, CANNA ST, JUDITH ST, KINGS RD, LAUREL ST, MEADSTONE ST, MIRIAM ST, OAKLEA ST, SATTON ST, UNION ST, WATERLEA ST, WEB ST",
@@ -518,7 +518,7 @@
       "properties": {
         "EVENT_ID": "INCD-758841-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "49",
+        "CUSTOMERS_AFFECTED": "52",
         "REASON": "Planned Maintenance",
         "STATUS": "In Progress",
         "START": "8:00AM 29 May 2024",
@@ -700,6 +700,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          153.179787,
+          -27.506938
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-759764-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Completed",
+        "START": "8:00AM 29 May 2024",
+        "EST_FIX_TIME": "12:00PM 29 May 2024",
+        "STREETS": "SUNNYDENE RD",
+        "SUBURBS": "CHANDLER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           153.139565,
           -27.454785
         ]
@@ -707,7 +728,7 @@
       "properties": {
         "EVENT_ID": "INCD-759810-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "49",
+        "CUSTOMERS_AFFECTED": "53",
         "REASON": "Planned Maintenance",
         "STATUS": "In Progress",
         "START": "8:00AM 29 May 2024",
@@ -730,7 +751,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "21",
         "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
+        "STATUS": "Completed",
         "START": "8:00AM 29 May 2024",
         "EST_FIX_TIME": "4:00PM 29 May 2024",
         "STREETS": "CARMEL CT, RIO VISTA BVD",
@@ -782,5 +803,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1716945900.551682"
+  "extracted": "1716946200.88606"
 }
