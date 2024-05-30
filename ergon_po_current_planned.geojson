@@ -80,7 +80,7 @@
         "CUSTOMERS_AFFECTED": "18",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 31 May 2024",
+        "START": "8:31AM 31 May 2024",
         "EST_FIX_TIME": "2:30PM 31 May 2024",
         "STREETS": "ARAMAC-MUTTABURRA RD, BOWEN DOWNS RD, OFF BOWEN DOWNS RD, TORRENS CREEK RD",
         "SUBURBS": "ARAMAC"
@@ -490,6 +490,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.144005,
+          -27.078981
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8844",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 31 May 2024",
+        "EST_FIX_TIME": "2:30PM 31 May 2024",
+        "STREETS": "GRADEL RD, KARINGAL APUNYAL RD, WARREGO HWY",
+        "SUBURBS": "DALBY, MACALISTER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.021061,
           -28.218757
         ]
@@ -551,5 +572,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717109102.808814"
+  "extracted": "1717109401.308453"
 }
