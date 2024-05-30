@@ -10,6 +10,107 @@
           {
             "type": "Point",
             "coordinates": [
+              144.931068,
+              -22.390075
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  144.73346,
+                  -22.643604
+                ],
+                [
+                  144.903688,
+                  -22.61823
+                ],
+                [
+                  144.904023,
+                  -22.618024
+                ],
+                [
+                  145.005207,
+                  -22.467477
+                ],
+                [
+                  145.005215,
+                  -22.467464
+                ],
+                [
+                  145.129126,
+                  -22.268032
+                ],
+                [
+                  145.129191,
+                  -22.267798
+                ],
+                [
+                  145.127391,
+                  -22.179076
+                ],
+                [
+                  145.127175,
+                  -22.178709
+                ],
+                [
+                  145.058981,
+                  -22.136547
+                ],
+                [
+                  145.058319,
+                  -22.136661
+                ],
+                [
+                  145.007836,
+                  -22.202432
+                ],
+                [
+                  145.007826,
+                  -22.202447
+                ],
+                [
+                  144.830146,
+                  -22.453086
+                ],
+                [
+                  144.830112,
+                  -22.453141
+                ],
+                [
+                  144.732944,
+                  -22.642964
+                ],
+                [
+                  144.73346,
+                  -22.643604
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7537",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "18",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:31AM 31 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARAMAC-MUTTABURRA RD, BOWEN DOWNS RD, OFF BOWEN DOWNS RD, TORRENS CREEK RD",
+        "SUBURBS": "ARAMAC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.228316,
               -19.99639
             ]
@@ -90,5 +191,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717108202.234409"
+  "extracted": "1717108501.663153"
 }
