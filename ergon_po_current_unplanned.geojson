@@ -204,8 +204,8 @@
           {
             "type": "Point",
             "coordinates": [
-              146.184668,
-              -18.715416
+              146.184622,
+              -18.694626
             ]
           },
           {
@@ -237,36 +237,60 @@
                   -18.728435
                 ],
                 [
-                  146.221045,
-                  -18.727872
+                  146.221067,
+                  -18.728007
                 ],
                 [
-                  146.220383,
-                  -18.725869
+                  146.221013,
+                  -18.68568
                 ],
                 [
-                  146.220245,
-                  -18.725667
+                  146.220995,
+                  -18.685558
                 ],
                 [
-                  146.183893,
-                  -18.695035
+                  146.218039,
+                  -18.67555
                 ],
                 [
-                  146.183266,
-                  -18.695033
+                  146.217985,
+                  -18.675433
                 ],
                 [
-                  146.160685,
-                  -18.713868
+                  146.205843,
+                  -18.656858
                 ],
                 [
-                  146.160639,
-                  -18.713911
+                  146.205675,
+                  -18.656704
                 ],
                 [
-                  146.14829,
-                  -18.727423
+                  146.199711,
+                  -18.653474
+                ],
+                [
+                  146.199288,
+                  -18.653452
+                ],
+                [
+                  146.195482,
+                  -18.655029
+                ],
+                [
+                  146.19539,
+                  -18.65508
+                ],
+                [
+                  146.153438,
+                  -18.684505
+                ],
+                [
+                  146.153248,
+                  -18.684818
+                ],
+                [
+                  146.148177,
+                  -18.727669
                 ],
                 [
                   146.148568,
@@ -280,13 +304,13 @@
       "properties": {
         "EVENT_ID": "24NQ9211",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "42",
+        "CUSTOMERS_AFFECTED": "185",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Outage reported",
-        "START": "12:42PM 30 May 2024",
+        "START": "1:05PM 30 May 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "KIRKWOODS RD, MASTERS RD, ORIENT RD, PINNACLE HILL RD",
-        "SUBURBS": "BLACKROCK, TOOBANNA"
+        "STREETS": "BLACKROCK RD, BOARDS RD, BOSWORTHS RD, CASANOVAS RD, CRISPS RD, DANGER CAMP RD, KIRKWOODS RD, LIONS LOOKOUT RD, MASTERS RD, MCDONAGHS RD, NEW CEMETARY RD, ORIENT RD, PINNACLE HILL RD, ROBERTS RD, SCARRONE'S RD, TOKALON RD, WARRENS HILL RD",
+        "SUBURBS": "BLACKROCK, INGHAM, PALM CREEK, TOOBANNA, VICTORIA ESTATE"
       }
     },
     {
@@ -474,86 +498,9 @@
         "STREETS": "CASTLEREAGH HWY, DIAMOND TANK RD, DIRRANBANDI-HEBEL RD, GUNNINDADDY RD, NARINE RD, NULKY RD",
         "SUBURBS": "DIRRANBANDI, MUNGINDI"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              148.365795,
-              -28.792377
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  148.20559,
-                  -28.702709
-                ],
-                [
-                  148.399129,
-                  -28.962235
-                ],
-                [
-                  148.399682,
-                  -28.962425
-                ],
-                [
-                  148.525631,
-                  -28.93481
-                ],
-                [
-                  148.52602,
-                  -28.934371
-                ],
-                [
-                  148.525674,
-                  -28.818476
-                ],
-                [
-                  148.525488,
-                  -28.818129
-                ],
-                [
-                  148.256808,
-                  -28.622329
-                ],
-                [
-                  148.256035,
-                  -28.622456
-                ],
-                [
-                  148.205571,
-                  -28.702242
-                ],
-                [
-                  148.20559,
-                  -28.702709
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW9529",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "20",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
-        "START": "12:14PM 30 May 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "CASTLEREAGH HWY, DIAMOND TANK RD, DIRRANBANDI-HEBEL RD, GUNNINDADDY RD, NARINE RD, NULKY RD",
-        "SUBURBS": "DIRRANBANDI, MUNGINDI"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717038301.080643"
+  "extracted": "1717038600.5355"
 }
