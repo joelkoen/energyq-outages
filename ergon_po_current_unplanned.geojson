@@ -245,11 +245,112 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "185",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "1:05PM 30 May 2024",
         "EST_FIX_TIME": null,
         "STREETS": "BLACKROCK RD, BOARDS RD, BOSWORTHS RD, CASANOVAS RD, CRISPS RD, DANGER CAMP RD, KIRKWOODS RD, LIONS LOOKOUT RD, MASTERS RD, MCDONAGHS RD, NEW CEMETARY RD, ORIENT RD, PINNACLE HILL RD, ROBERTS RD, SCARRONE'S RD, TOKALON RD, WARRENS HILL RD",
         "SUBURBS": "BLACKROCK, INGHAM, PALM CREEK, TOOBANNA, VICTORIA ESTATE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.864332,
+              -19.130106
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.86273,
+                  -19.130316
+                ],
+                [
+                  146.863528,
+                  -19.131347
+                ],
+                [
+                  146.864148,
+                  -19.131471
+                ],
+                [
+                  146.865302,
+                  -19.13084
+                ],
+                [
+                  146.865431,
+                  -19.130736
+                ],
+                [
+                  146.865839,
+                  -19.130267
+                ],
+                [
+                  146.865945,
+                  -19.129929
+                ],
+                [
+                  146.865854,
+                  -19.129152
+                ],
+                [
+                  146.865401,
+                  -19.128751
+                ],
+                [
+                  146.865139,
+                  -19.128741
+                ],
+                [
+                  146.865074,
+                  -19.128743
+                ],
+                [
+                  146.863789,
+                  -19.12886
+                ],
+                [
+                  146.863531,
+                  -19.128962
+                ],
+                [
+                  146.863085,
+                  -19.129313
+                ],
+                [
+                  146.862994,
+                  -19.129408
+                ],
+                [
+                  146.862719,
+                  -19.129796
+                ],
+                [
+                  146.86273,
+                  -19.130316
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9225",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "26",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:10PM 30 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BAY VISTA CT, HORSESHOE BAY RD, SOMERSET CT, SOMERSET ST",
+        "SUBURBS": "HORSESHOE BAY"
       }
     },
     {
@@ -332,5 +433,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717041901.035875"
+  "extracted": "1717042200.451549"
 }
