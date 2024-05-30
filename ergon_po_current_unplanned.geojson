@@ -365,9 +365,94 @@
         "STREETS": "HELEN ST, JAMES ST",
         "SUBURBS": "HARRISTOWN, NEWTOWN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.935277,
+              -28.721403
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.931527,
+                  -28.718981
+                ],
+                [
+                  151.932293,
+                  -28.723994
+                ],
+                [
+                  151.932589,
+                  -28.724345
+                ],
+                [
+                  151.933751,
+                  -28.724806
+                ],
+                [
+                  151.934258,
+                  -28.724762
+                ],
+                [
+                  151.939027,
+                  -28.721756
+                ],
+                [
+                  151.938992,
+                  -28.721004
+                ],
+                [
+                  151.934572,
+                  -28.718675
+                ],
+                [
+                  151.934498,
+                  -28.718643
+                ],
+                [
+                  151.93265,
+                  -28.718001
+                ],
+                [
+                  151.932055,
+                  -28.718148
+                ],
+                [
+                  151.931625,
+                  -28.71865
+                ],
+                [
+                  151.931527,
+                  -28.718981
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9514",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:00AM 30 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BACK CREEK RD, CARNELL RD",
+        "SUBURBS": "SEVERNLEA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717026900.459267"
+  "extracted": "1717027202.226493"
 }
