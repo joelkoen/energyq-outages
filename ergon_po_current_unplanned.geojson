@@ -204,6 +204,107 @@
           {
             "type": "Point",
             "coordinates": [
+              145.334131,
+              -15.921077
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.311917,
+                  -15.888661
+                ],
+                [
+                  145.338107,
+                  -15.945775
+                ],
+                [
+                  145.338154,
+                  -15.945855
+                ],
+                [
+                  145.340317,
+                  -15.948782
+                ],
+                [
+                  145.340425,
+                  -15.948886
+                ],
+                [
+                  145.34901,
+                  -15.954833
+                ],
+                [
+                  145.349744,
+                  -15.954529
+                ],
+                [
+                  145.354746,
+                  -15.920577
+                ],
+                [
+                  145.354747,
+                  -15.920569
+                ],
+                [
+                  145.356346,
+                  -15.908149
+                ],
+                [
+                  145.35634,
+                  -15.908005
+                ],
+                [
+                  145.355669,
+                  -15.904749
+                ],
+                [
+                  145.35542,
+                  -15.904433
+                ],
+                [
+                  145.320202,
+                  -15.887367
+                ],
+                [
+                  145.319948,
+                  -15.887321
+                ],
+                [
+                  145.312299,
+                  -15.888028
+                ],
+                [
+                  145.311917,
+                  -15.888661
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6903",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "120",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "12:08PM 30 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BANABILLA RD, BLOODWOOD RD, BLOOMFIELD RD, BLOOMFIELD RIVER RD, BLOOMFIELD RVR, BROADWAY ST, CAPE TRIBULATION BLOOMFIELD RD, CAPTAIN ST, DOWLING RD, EAST ST, EVERGREEN RD, FREEMAN RD, ROSSVILLE BLOOMFIELD RD, ROSSVILLE RD, SECOND ST, THIRD ST, WEARY BAY ESP, WEARY BAY RD, WEARY CREEK RD, WEST ST",
+        "SUBURBS": "AYTON, BLOOMFIELD, COOKTOWN, DEGARRA, ROSSVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.945711,
               -27.493414
             ]
@@ -393,5 +494,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717035000.683838"
+  "extracted": "1717035302.414983"
 }
