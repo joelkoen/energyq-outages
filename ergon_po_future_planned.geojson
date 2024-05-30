@@ -1204,6 +1204,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.760391,
+          -20.907767
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4080",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 31 May 2024",
+        "EST_FIX_TIME": "3:00PM 31 May 2024",
+        "STREETS": "CALEN MOUNT CHARLTON RD, JOHANSENS RDWY, MCINTYRE ST",
+        "SUBURBS": "CALEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.58359,
           -20.406903
         ]
@@ -1407,6 +1428,27 @@
         "EST_FIX_TIME": "3:00PM 04 Jun 2024",
         "STREETS": "BRUCE HWY, MCGILLS RD",
         "SUBURBS": "KUTTABUL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.672466,
+          -20.827438
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4510",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 31 May 2024",
+        "EST_FIX_TIME": "2:30PM 31 May 2024",
+        "STREETS": "BRUCE HWY, PASKINS RD, TOLCHERS RD",
+        "SUBURBS": "WAGOORA, YALBOROO"
       }
     },
     {
@@ -2767,7 +2809,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:30AM 31 May 2024",
         "EST_FIX_TIME": "1:30PM 31 May 2024",
         "STREETS": "WOOD ST",
@@ -3134,5 +3176,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1717111201.309058"
+  "extracted": "1717111500.434234"
 }
