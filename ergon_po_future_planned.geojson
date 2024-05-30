@@ -1528,7 +1528,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "96",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 31 May 2024",
         "EST_FIX_TIME": "12:30PM 31 May 2024",
         "STREETS": "BANYAN CT, BERRIGAN AVE, CAMELLIA CT, CASUARINA DR, CYPRESS DR, MELALEUCA ST, YOLANDA DR",
@@ -2310,6 +2310,27 @@
         "EST_FIX_TIME": "3:00PM 04 Jun 2024",
         "STREETS": "CECIL PLAINS-MOONIE RD, COLEMANS RD, DUNMORE RD, O'CONOR RD, STEWART RD, WAUGH RD",
         "SUBURBS": "CATTLE CREEK, CECIL PLAINS, DUNMORE, WEIR RIVER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.392237,
+          -27.141331
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8634",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "40",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:02AM 31 May 2024",
+        "EST_FIX_TIME": "2:00PM 31 May 2024",
+        "STREETS": "ALKIRA LANE, BENNETT SCHOOL RD, BLACKBURNS RD, FORTUNE DR, FORTUNES RD, GOLDEN GLOW RD, LUCKY RD, MILLERS RD, UNDULLA CREEK RD, UPPER HUMBUG RD",
+        "SUBURBS": "TARA"
       }
     },
     {
@@ -3113,5 +3134,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1717106403.877151"
+  "extracted": "1717106701.100143"
 }
