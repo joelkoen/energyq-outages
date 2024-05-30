@@ -1,8 +1,94 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.019783,
+              -18.573171
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.998619,
+                  -18.576553
+                ],
+                [
+                  146.020411,
+                  -18.593135
+                ],
+                [
+                  146.020604,
+                  -18.593223
+                ],
+                [
+                  146.035374,
+                  -18.596319
+                ],
+                [
+                  146.035889,
+                  -18.596099
+                ],
+                [
+                  146.040924,
+                  -18.587536
+                ],
+                [
+                  146.040982,
+                  -18.587269
+                ],
+                [
+                  146.038242,
+                  -18.56151
+                ],
+                [
+                  146.038115,
+                  -18.561246
+                ],
+                [
+                  146.027055,
+                  -18.550037
+                ],
+                [
+                  146.026379,
+                  -18.550023
+                ],
+                [
+                  145.998584,
+                  -18.575876
+                ],
+                [
+                  145.998619,
+                  -18.576553
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9246",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "34",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:23PM 30 May 2024",
+        "EST_FIX_TIME": "11:00PM 30 May 2024",
+        "STREETS": "ABERGOWRIE RD, BELLERO'S RD, CROTONS RD, GUM PARK RD, MORTONS RD",
+        "SUBURBS": "INGHAM, LANNERCOST"
+      }
+    }
+  ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717065301.413906"
+  "extracted": "1717065601.625862"
 }
