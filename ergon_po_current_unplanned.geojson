@@ -204,6 +204,99 @@
           {
             "type": "Point",
             "coordinates": [
+              146.184668,
+              -18.715416
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.148568,
+                  -18.728165
+                ],
+                [
+                  146.167004,
+                  -18.731165
+                ],
+                [
+                  146.16701,
+                  -18.731166
+                ],
+                [
+                  146.197936,
+                  -18.735799
+                ],
+                [
+                  146.198163,
+                  -18.73578
+                ],
+                [
+                  146.220746,
+                  -18.728435
+                ],
+                [
+                  146.221045,
+                  -18.727872
+                ],
+                [
+                  146.220383,
+                  -18.725869
+                ],
+                [
+                  146.220245,
+                  -18.725667
+                ],
+                [
+                  146.183893,
+                  -18.695035
+                ],
+                [
+                  146.183266,
+                  -18.695033
+                ],
+                [
+                  146.160685,
+                  -18.713868
+                ],
+                [
+                  146.160639,
+                  -18.713911
+                ],
+                [
+                  146.14829,
+                  -18.727423
+                ],
+                [
+                  146.148568,
+                  -18.728165
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9211",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "42",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "12:42PM 30 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "KIRKWOODS RD, MASTERS RD, ORIENT RD, PINNACLE HILL RD",
+        "SUBURBS": "BLACKROCK, TOOBANNA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.945711,
               -27.493414
             ]
@@ -462,5 +555,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717037701.220461"
+  "extracted": "1717038004.212873"
 }
