@@ -10,6 +10,99 @@
           {
             "type": "Point",
             "coordinates": [
+              144.256987,
+              -23.43839
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  144.254013,
+                  -23.440435
+                ],
+                [
+                  144.258507,
+                  -23.440414
+                ],
+                [
+                  144.258681,
+                  -23.440384
+                ],
+                [
+                  144.259942,
+                  -23.439935
+                ],
+                [
+                  144.260253,
+                  -23.439546
+                ],
+                [
+                  144.260322,
+                  -23.43866
+                ],
+                [
+                  144.260313,
+                  -23.438535
+                ],
+                [
+                  144.260259,
+                  -23.438302
+                ],
+                [
+                  144.260113,
+                  -23.438064
+                ],
+                [
+                  144.258481,
+                  -23.436671
+                ],
+                [
+                  144.258271,
+                  -23.436566
+                ],
+                [
+                  144.257337,
+                  -23.436344
+                ],
+                [
+                  144.256856,
+                  -23.436475
+                ],
+                [
+                  144.253651,
+                  -23.439678
+                ],
+                [
+                  144.254013,
+                  -23.440435
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7560",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "85",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "10:41PM 31 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CASSOWARY ST, CRANE ST, KOOKABURRA CT, PIGEON LANE, PLOVER ST, RAILWAY RES, SUNBIRD ST",
+        "SUBURBS": "LONGREACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.535611,
               -20.346398
             ]
@@ -139,5 +232,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717160700.368578"
+  "extracted": "1717161001.560739"
 }
