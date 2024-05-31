@@ -10,6 +10,59 @@
           {
             "type": "Point",
             "coordinates": [
+              145.891453,
+              -17.171757
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.891923,
+                  -17.171759
+                ],
+                [
+                  145.891456,
+                  -17.171305
+                ],
+                [
+                  145.890983,
+                  -17.171754
+                ],
+                [
+                  145.89145,
+                  -17.172209
+                ],
+                [
+                  145.891923,
+                  -17.171759
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6954",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
+        "STATUS": "Outage reported",
+        "START": "8:21AM 01 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "TIDMARSH RD",
+        "SUBURBS": "FISHERY FALLS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.535611,
               -20.346398
             ]
@@ -268,5 +321,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717194301.451695"
+  "extracted": "1717194603.61932"
 }
