@@ -317,9 +317,86 @@
         "STREETS": "LEGGES RD, MANDAM RD, MASKELLS RD",
         "SUBURBS": "BRAEMEADOWS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              147.298794,
+              -19.607046
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.288123,
+                  -19.612635
+                ],
+                [
+                  147.308445,
+                  -19.609979
+                ],
+                [
+                  147.30852,
+                  -19.609963
+                ],
+                [
+                  147.309848,
+                  -19.609576
+                ],
+                [
+                  147.309995,
+                  -19.608784
+                ],
+                [
+                  147.304465,
+                  -19.604823
+                ],
+                [
+                  147.304294,
+                  -19.604745
+                ],
+                [
+                  147.290622,
+                  -19.601457
+                ],
+                [
+                  147.29004,
+                  -19.601796
+                ],
+                [
+                  147.287593,
+                  -19.612089
+                ],
+                [
+                  147.288123,
+                  -19.612635
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9308",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:18AM 01 Jun 2024",
+        "EST_FIX_TIME": "12:00PM 01 Jun 2024",
+        "STREETS": "MILANESE RD, TOMLINS RD",
+        "SUBURBS": "AIRVILLE, AYR"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717197307.806575"
+  "extracted": "1717197601.168505"
 }
