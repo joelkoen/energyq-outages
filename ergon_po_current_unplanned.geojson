@@ -10,14 +10,26 @@
           {
             "type": "Point",
             "coordinates": [
-              148.536957,
-              -20.346561
+              148.535611,
+              -20.346398
             ]
           },
           {
             "type": "Polygon",
             "coordinates": [
               [
+                [
+                  148.538501,
+                  -20.349872
+                ],
+                [
+                  148.533532,
+                  -20.342442
+                ],
+                [
+                  148.532872,
+                  -20.342301
+                ],
                 [
                   148.532722,
                   -20.342924
@@ -27,32 +39,12 @@
                   -20.350353
                 ],
                 [
-                  148.538051,
-                  -20.350562
+                  148.538351,
+                  -20.350495
                 ],
                 [
-                  148.540717,
-                  -20.350797
-                ],
-                [
-                  148.541192,
-                  -20.350545
-                ],
-                [
-                  148.541111,
-                  -20.350038
-                ],
-                [
-                  148.533476,
-                  -20.342374
-                ],
-                [
-                  148.532834,
-                  -20.342326
-                ],
-                [
-                  148.532722,
-                  -20.342924
+                  148.538501,
+                  -20.349872
                 ]
               ]
             ]
@@ -62,11 +54,11 @@
       "properties": {
         "EVENT_ID": "24MK4748",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "3",
+        "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews working on-site",
+        "STATUS": "Work delayed - crews unable to continue",
         "START": "1:59PM 31 May 2024",
-        "EST_FIX_TIME": null,
+        "EST_FIX_TIME": "6:00PM 07 Jun 2024",
         "STREETS": "BRUCE HWY, UP RIVER RD",
         "SUBURBS": "FOXDALE, GREGORY"
       }
@@ -74,5 +66,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717140301.18465"
+  "extracted": "1717140901.450518"
 }
