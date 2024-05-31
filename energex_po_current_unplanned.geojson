@@ -110,9 +110,118 @@
         "STREETS": "BEATRICE ST, CLEVELAND ST, CORNWALL ST, LOGAN RD, VERA ST",
         "SUBURBS": "GREENSLOPES, STONES CORNER"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.470912,
+              -27.885367
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.447438,
+                  -27.855694
+                ],
+                [
+                  152.450323,
+                  -27.891376
+                ],
+                [
+                  152.450335,
+                  -27.891448
+                ],
+                [
+                  152.456262,
+                  -27.913793
+                ],
+                [
+                  152.456468,
+                  -27.914061
+                ],
+                [
+                  152.471348,
+                  -27.923198
+                ],
+                [
+                  152.471875,
+                  -27.923225
+                ],
+                [
+                  152.487729,
+                  -27.915747
+                ],
+                [
+                  152.487992,
+                  -27.915422
+                ],
+                [
+                  152.493243,
+                  -27.887332
+                ],
+                [
+                  152.493249,
+                  -27.887271
+                ],
+                [
+                  152.494386,
+                  -27.852051
+                ],
+                [
+                  152.494179,
+                  -27.851674
+                ],
+                [
+                  152.490782,
+                  -27.849459
+                ],
+                [
+                  152.490544,
+                  -27.849375
+                ],
+                [
+                  152.473553,
+                  -27.847509
+                ],
+                [
+                  152.473328,
+                  -27.847529
+                ],
+                [
+                  152.447781,
+                  -27.855234
+                ],
+                [
+                  152.447438,
+                  -27.855694
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-762725-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "112",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "9:54AM 01 Jun 2024",
+        "EST_FIX_TIME": "12:30PM 01 Jun 2024",
+        "STREETS": "ACCESS RD, BERNIE JENSEN LANE, C ZAHNOW RD, CHRISTIES RD, ELAVESOR DR, ELAVESOR RD, H CHRISTENSEN RD, KELLY AND DWYERS RD, KERWITZ RD, LOBEGEIGER RD, MOORANG LANE, OLD ROSEVALE RD, R CHRISTENSENS RD, ROSEVALE RD, SELLARS RD, SPANNS BRIDGE RD, TAROME RD",
+        "SUBURBS": "MOORANG, ROSEVALE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717199401.125736"
+  "extracted": "1717199701.206806"
 }
