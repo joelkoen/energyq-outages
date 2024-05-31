@@ -71,6 +71,79 @@
           {
             "type": "Point",
             "coordinates": [
+              148.863586,
+              -20.987579
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.859461,
+                  -20.983946
+                ],
+                [
+                  148.86569,
+                  -20.992627
+                ],
+                [
+                  148.866194,
+                  -20.992815
+                ],
+                [
+                  148.866564,
+                  -20.992444
+                ],
+                [
+                  148.867711,
+                  -20.985531
+                ],
+                [
+                  148.867477,
+                  -20.985071
+                ],
+                [
+                  148.862527,
+                  -20.98237
+                ],
+                [
+                  148.862104,
+                  -20.982343
+                ],
+                [
+                  148.859678,
+                  -20.983276
+                ],
+                [
+                  148.859461,
+                  -20.983946
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4767",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "5:24AM 01 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRUCE HWY, BUTHURRA STATION RD, PACES RD",
+        "SUBURBS": "BUTHURRA, KUTTABUL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.543067,
               -20.469965
             ]
@@ -172,8 +245,8 @@
           {
             "type": "Point",
             "coordinates": [
-              146.753361,
-              -19.308205
+              146.758344,
+              -19.304691
             ]
           },
           {
@@ -181,76 +254,28 @@
             "coordinates": [
               [
                 [
-                  146.745322,
-                  -19.314126
+                  146.755412,
+                  -19.309181
                 ],
                 [
-                  146.745686,
-                  -19.315874
+                  146.75594,
+                  -19.309691
                 ],
                 [
-                  146.745884,
-                  -19.316158
+                  146.756454,
+                  -19.309794
                 ],
                 [
-                  146.746101,
-                  -19.3163
+                  146.756713,
+                  -19.309697
                 ],
                 [
-                  146.746153,
-                  -19.316329
+                  146.756821,
+                  -19.30964
                 ],
                 [
-                  146.747155,
-                  -19.316815
-                ],
-                [
-                  146.74756,
-                  -19.316828
-                ],
-                [
-                  146.748304,
-                  -19.316525
-                ],
-                [
-                  146.748308,
-                  -19.316523
-                ],
-                [
-                  146.74847,
-                  -19.316455
-                ],
-                [
-                  146.748489,
-                  -19.316447
-                ],
-                [
-                  146.749957,
-                  -19.315757
-                ],
-                [
-                  146.750003,
-                  -19.315732
-                ],
-                [
-                  146.751131,
-                  -19.315043
-                ],
-                [
-                  146.75114,
-                  -19.315038
-                ],
-                [
-                  146.751506,
-                  -19.314802
-                ],
-                [
-                  146.75156,
-                  -19.314762
-                ],
-                [
-                  146.760346,
-                  -19.30717
+                  146.760308,
+                  -19.3072
                 ],
                 [
                   146.760477,
@@ -305,40 +330,24 @@
                   -19.299899
                 ],
                 [
-                  146.760591,
-                  -19.299581
+                  146.760582,
+                  -19.299589
                 ],
                 [
-                  146.74774,
-                  -19.310593
+                  146.756218,
+                  -19.303524
                 ],
                 [
-                  146.747733,
-                  -19.310599
+                  146.756075,
+                  -19.303785
                 ],
                 [
-                  146.745583,
-                  -19.312515
+                  146.755281,
+                  -19.308797
                 ],
                 [
-                  146.745445,
-                  -19.312742
-                ],
-                [
-                  146.745418,
-                  -19.312853
-                ],
-                [
-                  146.745408,
-                  -19.312918
-                ],
-                [
-                  146.745315,
-                  -19.314001
-                ],
-                [
-                  146.745322,
-                  -19.314126
+                  146.755412,
+                  -19.309181
                 ]
               ]
             ]
@@ -348,17 +357,17 @@
       "properties": {
         "EVENT_ID": "24NQ9303",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "455",
+        "CUSTOMERS_AFFECTED": "213",
         "REASON": "The loss of supply is due to fallen power lines.  ",
         "STATUS": "Crews working on-site",
         "START": "2:38AM 01 Jun 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "ADELONG DR, ALBERT ST, ANGELA CT, ANSELL CT, BARRALLIER PL, BERGIN RD, BORRAL ST, BRETT ST, HATCHETT ST, IRVING ST, JARRAH CT, JOY ST, KALINYA CT, KILROY CT, KIRRANG CT, LOUISE ST, MARLYNDA AVE, NATHAN ST, NORTHWEST CRES, NOWLAND AVE, ORCHID ST, PARINGA ST, PARKVIEW CT, ROSSITER ST, SELWYN ST, VICTOR ST",
+        "STREETS": "ALBERT ST, ANSELL CT, BERGIN RD, BORRAL ST, BRETT ST, HATCHETT ST, IRVING ST, KILROY CT, KIRRANG CT, NATHAN ST, NORTHWEST CRES, ORCHID ST, PARINGA ST",
         "SUBURBS": "CRANBROOK"
       }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717188901.2392"
+  "extracted": "1717189203.917328"
 }
