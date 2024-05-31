@@ -102,9 +102,78 @@
         "STREETS": "CAPTAIN COOK HWY, LOWER CASSOWARY RD, MOSSMAN MOUNT MOLLOY RD, MT MOLLOY RD, PONZO RD, REX HWY, SHANNONVALE RD, TOLENTINI RD, WARNERS RD",
         "SUBURBS": "CASSOWARY, MOSSMAN, SHANNONVALE, SOUTH MOSSMAN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.536957,
+              -20.346561
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.532722,
+                  -20.342924
+                ],
+                [
+                  148.53769,
+                  -20.350353
+                ],
+                [
+                  148.538051,
+                  -20.350562
+                ],
+                [
+                  148.540717,
+                  -20.350797
+                ],
+                [
+                  148.541192,
+                  -20.350545
+                ],
+                [
+                  148.541111,
+                  -20.350038
+                ],
+                [
+                  148.533476,
+                  -20.342374
+                ],
+                [
+                  148.532834,
+                  -20.342326
+                ],
+                [
+                  148.532722,
+                  -20.342924
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4748",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "1:59PM 31 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRUCE HWY, UP RIVER RD",
+        "SUBURBS": "FOXDALE, GREGORY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717128014.123199"
+  "extracted": "1717128300.376318"
 }
