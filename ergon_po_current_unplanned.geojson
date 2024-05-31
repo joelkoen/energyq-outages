@@ -62,9 +62,82 @@
         "STREETS": "BRUCE HWY, UP RIVER RD",
         "SUBURBS": "FOXDALE, GREGORY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.908582,
+              -25.29426
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.908172,
+                  -25.295048
+                ],
+                [
+                  152.909307,
+                  -25.294523
+                ],
+                [
+                  152.909494,
+                  -25.294372
+                ],
+                [
+                  152.909567,
+                  -25.294273
+                ],
+                [
+                  152.909633,
+                  -25.293905
+                ],
+                [
+                  152.909574,
+                  -25.293708
+                ],
+                [
+                  152.908791,
+                  -25.293473
+                ],
+                [
+                  152.907642,
+                  -25.294294
+                ],
+                [
+                  152.907531,
+                  -25.294889
+                ],
+                [
+                  152.908172,
+                  -25.295048
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6130",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "34",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "8:28PM 31 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BUCCANEER DR, JETTY RD, UNMETERED SUPPLY",
+        "SUBURBS": "HERVEY BAY, KINGAROY, URANGAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717153501.708759"
+  "extracted": "1717153801.732211"
 }
