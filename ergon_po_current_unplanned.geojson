@@ -10,6 +10,91 @@
           {
             "type": "Point",
             "coordinates": [
+              151.250053,
+              -23.855168
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.247884,
+                  -23.857862
+                ],
+                [
+                  151.248172,
+                  -23.858074
+                ],
+                [
+                  151.248738,
+                  -23.858104
+                ],
+                [
+                  151.251237,
+                  -23.856666
+                ],
+                [
+                  151.251422,
+                  -23.856472
+                ],
+                [
+                  151.25233,
+                  -23.85466
+                ],
+                [
+                  151.252375,
+                  -23.854495
+                ],
+                [
+                  151.252393,
+                  -23.854172
+                ],
+                [
+                  151.252178,
+                  -23.853775
+                ],
+                [
+                  151.249699,
+                  -23.852233
+                ],
+                [
+                  151.248947,
+                  -23.852504
+                ],
+                [
+                  151.247712,
+                  -23.857408
+                ],
+                [
+                  151.247884,
+                  -23.857862
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7520",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "102",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "4:00AM 01 Jun 2024",
+        "EST_FIX_TIME": "6:00AM 01 Jun 2024",
+        "STREETS": "BRESLIN ST, DAWSON HWY, DAWSON RD, GARDEN ST, GLEGG ST, HUNTER ST, LAVER ST, WILLIAMSON ST",
+        "SUBURBS": "GLADSTONE, WEST GLADSTONE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.535611,
               -20.346398
             ]
@@ -316,5 +401,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717178403.54026"
+  "extracted": "1717178701.139418"
 }
