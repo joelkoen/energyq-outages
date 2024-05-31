@@ -280,27 +280,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.931068,
-          -22.390075
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA6826",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "18",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:31AM 31 May 2024",
-        "EST_FIX_TIME": "2:30PM 31 May 2024",
-        "STREETS": "ARAMAC-MUTTABURRA RD, BOWEN DOWNS RD, OFF BOWEN DOWNS RD, TORRENS CREEK RD",
-        "SUBURBS": "ARAMAC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           150.590343,
           -23.266924
         ]
@@ -1512,6 +1491,27 @@
         "EST_FIX_TIME": "2:30PM 03 Jun 2024",
         "STREETS": "MUNRO ST, SOPER ST, SPILLER ST",
         "SUBURBS": "AYR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.337256,
+          -19.55785
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8097",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "STATUS": "Crews working on-site",
+        "START": "10:00AM 31 May 2024",
+        "EST_FIX_TIME": "2:00PM 31 May 2024",
+        "STREETS": "DRYNIE RD",
+        "SUBURBS": "BRANDON"
       }
     },
     {
@@ -3050,5 +3050,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1717117801.284579"
+  "extracted": "1717118101.944723"
 }
