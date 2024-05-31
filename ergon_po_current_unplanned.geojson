@@ -180,6 +180,139 @@
           {
             "type": "Point",
             "coordinates": [
+              148.474354,
+              -20.219386
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.3789,
+                  -20.208453
+                ],
+                [
+                  148.457913,
+                  -20.340117
+                ],
+                [
+                  148.457946,
+                  -20.340165
+                ],
+                [
+                  148.458245,
+                  -20.340541
+                ],
+                [
+                  148.458297,
+                  -20.340597
+                ],
+                [
+                  148.478079,
+                  -20.358402
+                ],
+                [
+                  148.478232,
+                  -20.358495
+                ],
+                [
+                  148.53117,
+                  -20.378429
+                ],
+                [
+                  148.531818,
+                  -20.378094
+                ],
+                [
+                  148.540423,
+                  -20.335899
+                ],
+                [
+                  148.540426,
+                  -20.335883
+                ],
+                [
+                  148.56983,
+                  -20.155772
+                ],
+                [
+                  148.569714,
+                  -20.155402
+                ],
+                [
+                  148.508492,
+                  -20.090667
+                ],
+                [
+                  148.508408,
+                  -20.090597
+                ],
+                [
+                  148.507913,
+                  -20.090272
+                ],
+                [
+                  148.507898,
+                  -20.090263
+                ],
+                [
+                  148.479067,
+                  -20.0728
+                ],
+                [
+                  148.479026,
+                  -20.072778
+                ],
+                [
+                  148.453159,
+                  -20.060344
+                ],
+                [
+                  148.452627,
+                  -20.060407
+                ],
+                [
+                  148.444728,
+                  -20.066924
+                ],
+                [
+                  148.444604,
+                  -20.067082
+                ],
+                [
+                  148.378879,
+                  -20.208049
+                ],
+                [
+                  148.3789,
+                  -20.208453
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4763",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "711",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:10PM 31 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARKHURST RD, ARMIT CT, BLACKCURRANT DR, BLAIR RD, BLAIR SIDING RD, BRIDSONS RD, BRUCE HWY, CAPTAIN JACK DR, COWRY CRES, CRYSTAL BROOK RD, CRYSTALBROOK RD, DEICKE CRES, DINGO BEACH RD, EARLANDO RD, GLOUCESTER AVE, GLOUCESTER PASSAGE, GREGORY RIVER RD, GUMBRELL CT, HENNING CRES, HYDEAWAY BAY DR, KOOLACHU RD, MITRE CT, MUREX ST, OLDEN CT, OLIVE ST, PIONEER DR, RATTRAY AVE, READ RD, ROSERIC CRES, SADDLEBACK RD, SCALLOP CT, SPRUCE RD, SUNSET BCH, TROCHUS ST, UP RIVER RD, WANDARRA RD",
+        "SUBURBS": "BOWEN, CAPE GLOUCESTER, CRYSTAL BROOK, DINGO BEACH, FOXDALE, GLOUCESTER, GREGORY, GREGORY RIVER, HIDEAWAY BAY, KOOLACHU, MYRTLEVALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.956505,
               -27.548378
             ]
@@ -316,5 +449,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717132201.044643"
+  "extracted": "1717132502.887794"
 }
