@@ -71,14 +71,22 @@
           {
             "type": "Point",
             "coordinates": [
-              142.54308,
-              -20.480291
+              142.543067,
+              -20.469965
             ]
           },
           {
             "type": "Polygon",
             "coordinates": [
               [
+                [
+                  142.208401,
+                  -20.073794
+                ],
+                [
+                  142.205303,
+                  -20.305174
+                ],
                 [
                   142.205328,
                   -20.305325
@@ -112,32 +120,32 @@
                   -20.05744
                 ],
                 [
-                  142.783848,
-                  -20.057223
+                  142.784077,
+                  -20.057185
                 ],
                 [
-                  142.693104,
-                  -20.095387
+                  142.490784,
+                  -20.03657
                 ],
                 [
-                  142.693101,
-                  -20.095388
+                  142.490694,
+                  -20.036572
                 ],
                 [
-                  142.206424,
-                  -20.302634
+                  142.314778,
+                  -20.055502
                 ],
                 [
-                  142.206172,
-                  -20.302889
+                  142.314748,
+                  -20.055507
                 ],
                 [
-                  142.205332,
-                  -20.305023
+                  142.208794,
+                  -20.073356
                 ],
                 [
-                  142.205328,
-                  -20.305325
+                  142.208401,
+                  -20.073794
                 ]
               ]
             ]
@@ -147,17 +155,166 @@
       "properties": {
         "EVENT_ID": "24NQ9300",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "28",
+        "CUSTOMERS_AFFECTED": "38",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Work delayed - crews unable to continue",
         "START": "12:29AM 01 Jun 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "BEEANTHA STATION, BUNDORAN STATION, BYLONG STATION, CAMERAY STATION, CORELLA ST, EURABA STATION, FLINDERS HWY, KILTERRY STATION, NONDA DNS STATION, PIALAH STATION, RAILWAY RES, ROCKVALE STATION, RUNNYMEDE STATION, SCOTSBURN STATION, SOLWAY DOWNS STATION, SOMERVILLE STATION, TRIVALORE STATION, TRIVILORE STATION, YANBORA STATION",
+        "STREETS": "BEEANTHA STATION, BUNDA BUNDA STATION, BUNDORAN STATION, BYLONG STATION, CAMERAY STATION, CORELLA ST, EURABA STATION, EUTHELLA STATION, FLINDERS HWY, GLADEVALE STATION, GLENGALLA STATION, KILTERRY STATION, NONDA DNS STATION, PIALAH STATION, RAILWAY RES, ROCKVALE STATION, ROTHBURY PARK STATION, RUNNYMEDE STATION, SAXBY DOWNS STATION, SCOTSBURN STATION, SOLWAY DOWNS STATION, SOMERVILLE STATION, SUTHERLAND STATION, TRIVALORE STATION, TRIVILORE STATION, YANBORA STATION",
         "SUBURBS": "MAXWELTON, NELIA, NONDA, RICHMOND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.755688,
+              -19.304512
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.745322,
+                  -19.314126
+                ],
+                [
+                  146.745686,
+                  -19.315874
+                ],
+                [
+                  146.745884,
+                  -19.316158
+                ],
+                [
+                  146.746101,
+                  -19.3163
+                ],
+                [
+                  146.746153,
+                  -19.316329
+                ],
+                [
+                  146.747155,
+                  -19.316815
+                ],
+                [
+                  146.74756,
+                  -19.316828
+                ],
+                [
+                  146.748304,
+                  -19.316525
+                ],
+                [
+                  146.748308,
+                  -19.316523
+                ],
+                [
+                  146.74847,
+                  -19.316455
+                ],
+                [
+                  146.748489,
+                  -19.316447
+                ],
+                [
+                  146.749957,
+                  -19.315757
+                ],
+                [
+                  146.749986,
+                  -19.315742
+                ],
+                [
+                  146.765805,
+                  -19.30695
+                ],
+                [
+                  146.766037,
+                  -19.30661
+                ],
+                [
+                  146.766062,
+                  -19.306398
+                ],
+                [
+                  146.766036,
+                  -19.306192
+                ],
+                [
+                  146.762613,
+                  -19.297314
+                ],
+                [
+                  146.76248,
+                  -19.29713
+                ],
+                [
+                  146.760202,
+                  -19.295229
+                ],
+                [
+                  146.760155,
+                  -19.295194
+                ],
+                [
+                  146.755486,
+                  -19.292196
+                ],
+                [
+                  146.754783,
+                  -19.29239
+                ],
+                [
+                  146.745473,
+                  -19.312663
+                ],
+                [
+                  146.745445,
+                  -19.312742
+                ],
+                [
+                  146.745418,
+                  -19.312853
+                ],
+                [
+                  146.745408,
+                  -19.312918
+                ],
+                [
+                  146.745315,
+                  -19.314001
+                ],
+                [
+                  146.745322,
+                  -19.314126
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9303",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1384",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:38AM 01 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ACHERON AVE, ADELONG DR, ALBERT ST, ALICE ST, ALLEENA ST, ALOOMBA CRES, ANGELA CT, ANSELL CT, BALDWIN ST, BARELLAN ST, BARRALLIER PL, BERGIN RD, BINDA ST, BLEE CT, BLOOM CT, BORRAL ST, BRETT ST, CABARITA ST, CAMIRA AVE, CHAMBERS ST, FERRIS CT, GILLI CRES, HATCHETT ST, IRVING ST, ISABELLA CT, JANDERA ST, JARRAH CT, JOY ST, KALINYA CT, KENEALY ST, KILLARA ST, KILROY CT, KIMBALL ST, KIRRANG CT, LARA ST, LEOPOLD ST, LINDEMAN AVE, LOUISE ST, LUMEAH ST, LUTANA CT, MARLOO ST, MARLYNDA AVE, MATHIESEN ST, NATHAN ST, NISBET CT, NORTHWEST CRES, NOWLAND AVE, ORCHID ST, PARINGA ST, PARKVIEW CT, PARNELL CT, POPE ST, ROSS RIVER RD, ROSSITER ST, SELWYN ST, SIMON CT, TINGHA ST, VICTOR ST, WANDELLA CRES, WARREN CT",
+        "SUBURBS": "AITKENVALE, CRANBROOK, TOWNSVILLE"
       }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717173601.568479"
+  "extracted": "1717173903.486893"
 }
