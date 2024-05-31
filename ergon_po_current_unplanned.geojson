@@ -10,6 +10,83 @@
           {
             "type": "Point",
             "coordinates": [
+              151.122036,
+              -24.647772
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.104714,
+                  -24.615861
+                ],
+                [
+                  151.134409,
+                  -24.67797
+                ],
+                [
+                  151.134613,
+                  -24.67818
+                ],
+                [
+                  151.138626,
+                  -24.680309
+                ],
+                [
+                  151.139358,
+                  -24.67983
+                ],
+                [
+                  151.127029,
+                  -24.623642
+                ],
+                [
+                  151.126805,
+                  -24.623348
+                ],
+                [
+                  151.11473,
+                  -24.616501
+                ],
+                [
+                  151.114539,
+                  -24.616438
+                ],
+                [
+                  151.105235,
+                  -24.615235
+                ],
+                [
+                  151.104714,
+                  -24.615861
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7558",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:14PM 31 May 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MONAL RD, PINE MOUNTAIN RD",
+        "SUBURBS": "MUNGUNGO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.535611,
               -20.346398
             ]
@@ -66,5 +143,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717149301.577899"
+  "extracted": "1717149900.547447"
 }
