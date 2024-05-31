@@ -1,8 +1,86 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.238366,
+              -27.559633
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.235881,
+                  -27.562476
+                ],
+                [
+                  152.238553,
+                  -27.561766
+                ],
+                [
+                  152.23884,
+                  -27.561569
+                ],
+                [
+                  152.241443,
+                  -27.557777
+                ],
+                [
+                  152.241083,
+                  -27.557094
+                ],
+                [
+                  152.238698,
+                  -27.55679
+                ],
+                [
+                  152.238181,
+                  -27.557023
+                ],
+                [
+                  152.237057,
+                  -27.558883
+                ],
+                [
+                  152.237057,
+                  -27.558884
+                ],
+                [
+                  152.23529,
+                  -27.561831
+                ],
+                [
+                  152.235881,
+                  -27.562476
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-762667-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "5:04PM 31 May 2024",
+        "EST_FIX_TIME": "7:30PM 31 May 2024",
+        "STREETS": "LOWES RD, OLD TOOWOOMBA RD, PLACID DR",
+        "SUBURBS": "GATTON, PLACID HILLS"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717138804.45557"
+  "extracted": "1717139101.396895"
 }
