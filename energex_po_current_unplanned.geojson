@@ -289,8 +289,8 @@
           {
             "type": "Point",
             "coordinates": [
-              152.866984,
-              -26.662062
+              152.870593,
+              -26.672424
             ]
           },
           {
@@ -298,80 +298,80 @@
             "coordinates": [
               [
                 [
-                  152.854745,
-                  -26.661604
+                  152.854556,
+                  -26.661259
                 ],
                 [
-                  152.85562,
-                  -26.662232
+                  152.854852,
+                  -26.677029
                 ],
                 [
-                  152.855638,
-                  -26.662244
+                  152.854899,
+                  -26.677212
                 ],
                 [
-                  152.865742,
-                  -26.668846
+                  152.857692,
+                  -26.682584
                 ],
                 [
-                  152.865875,
-                  -26.668908
+                  152.857708,
+                  -26.682611
                 ],
                 [
-                  152.866045,
-                  -26.668961
+                  152.86057,
+                  -26.687272
                 ],
                 [
-                  152.866308,
-                  -26.668976
+                  152.860594,
+                  -26.687307
                 ],
                 [
-                  152.872531,
-                  -26.667842
+                  152.870338,
+                  -26.700243
                 ],
                 [
-                  152.872736,
-                  -26.667758
+                  152.87051,
+                  -26.700385
                 ],
                 [
-                  152.879066,
-                  -26.66342
+                  152.871409,
+                  -26.700833
                 ],
                 [
-                  152.879224,
-                  -26.662885
+                  152.872071,
+                  -26.700689
                 ],
                 [
-                  152.879022,
-                  -26.662455
+                  152.880372,
+                  -26.689537
                 ],
                 [
-                  152.878987,
-                  -26.662395
+                  152.880453,
+                  -26.689341
                 ],
                 [
-                  152.874178,
-                  -26.655345
+                  152.88663,
+                  -26.644464
                 ],
                 [
-                  152.873605,
-                  -26.655148
+                  152.885885,
+                  -26.644016
                 ],
                 [
-                  152.85892,
-                  -26.659106
+                  152.874429,
+                  -26.64981
                 ],
                 [
-                  152.858849,
-                  -26.659131
+                  152.874408,
+                  -26.649821
                 ],
                 [
-                  152.854842,
-                  -26.660843
+                  152.854791,
+                  -26.660868
                 ],
                 [
-                  152.854745,
-                  -26.661604
+                  152.854556,
+                  -26.661259
                 ]
               ]
             ]
@@ -381,13 +381,13 @@
       "properties": {
         "EVENT_ID": "INCD-762803-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "169",
+        "CUSTOMERS_AFFECTED": "547",
         "REASON": "Under Investigation",
         "STATUS": "Awaiting",
         "START": "10:36PM 01 Jun 2024",
         "EST_FIX_TIME": "1:30AM 02 Jun 2024",
-        "STREETS": "AKALA ST, ALICE DIXON DR, ALLARA ST, BRIGADOON CT, CEDAR WOOD GR, CYCAD PL, FLAXTON MILL RD, OLD MILL LANE, ROSEWOOD RISE, SPRING FALLS WALK",
-        "SUBURBS": "FLAXTON"
+        "STREETS": "AKALA ST, ALICE DIXON DR, ALLARA ST, BRIGADOON CT, CARRINGTON DR, CEDAR WOOD GR, CIRRUS PL, CYCAD PL, CYNTHIA HUNT DR, FLAXTON DR, FLAXTON MILL RD, GLEN EDEN CT, GLENBAR AVE, GUNNAROO LANE, JANINE CT, KONDALILLA FALLS RD, MANLEY DR, NARROWS RD, NIMBUS DR, OLD MILL LANE, PHILIPPS RD, ROSEWOOD RISE, SPRING FALLS WALK, WESTERN AVE",
+        "SUBURBS": "DULONG, FLAXTON, MONTVILLE, NORTH MALENY"
       }
     },
     {
@@ -470,9 +470,74 @@
         "STREETS": "WOLVI MOUNTAIN RD",
         "SUBURBS": "WOLVI"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.014486,
+              -27.542095
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.013865,
+                  -27.54232
+                ],
+                [
+                  153.014335,
+                  -27.542686
+                ],
+                [
+                  153.014991,
+                  -27.542694
+                ],
+                [
+                  153.015106,
+                  -27.542119
+                ],
+                [
+                  153.014835,
+                  -27.541704
+                ],
+                [
+                  153.014262,
+                  -27.541496
+                ],
+                [
+                  153.014063,
+                  -27.541545
+                ],
+                [
+                  153.013865,
+                  -27.54232
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-762819-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:43PM 01 Jun 2024",
+        "EST_FIX_TIME": "1:00AM 02 Jun 2024",
+        "STREETS": "MURIEL AVE",
+        "SUBURBS": "MOOROOKA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717249201.299137"
+  "extracted": "1717249503.563432"
 }
