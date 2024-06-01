@@ -57,7 +57,7 @@
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
         "STATUS": "Outage reported",
-        "START": "3:27PM 01 Jun 2024",
+        "START": "9:56AM 01 Jun 2024",
         "EST_FIX_TIME": null,
         "STREETS": "CAPRICORN HWY",
         "SUBURBS": "EMERALD"
@@ -204,9 +204,126 @@
         "STREETS": "BRUCE HWY, UP RIVER RD",
         "SUBURBS": "FOXDALE, GREGORY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.983098,
+              -27.583163
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.980587,
+                  -27.582395
+                ],
+                [
+                  151.9808,
+                  -27.584465
+                ],
+                [
+                  151.981331,
+                  -27.584873
+                ],
+                [
+                  151.98207,
+                  -27.584836
+                ],
+                [
+                  151.982206,
+                  -27.584813
+                ],
+                [
+                  151.983124,
+                  -27.584533
+                ],
+                [
+                  151.983266,
+                  -27.584465
+                ],
+                [
+                  151.985325,
+                  -27.583066
+                ],
+                [
+                  151.985513,
+                  -27.582801
+                ],
+                [
+                  151.985545,
+                  -27.582668
+                ],
+                [
+                  151.985551,
+                  -27.582639
+                ],
+                [
+                  151.985609,
+                  -27.582275
+                ],
+                [
+                  151.985481,
+                  -27.581906
+                ],
+                [
+                  151.985358,
+                  -27.581787
+                ],
+                [
+                  151.985022,
+                  -27.581643
+                ],
+                [
+                  151.984571,
+                  -27.581614
+                ],
+                [
+                  151.984565,
+                  -27.581614
+                ],
+                [
+                  151.981521,
+                  -27.581452
+                ],
+                [
+                  151.981095,
+                  -27.581623
+                ],
+                [
+                  151.980694,
+                  -27.582075
+                ],
+                [
+                  151.980587,
+                  -27.582395
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9583",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "71",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:27PM 01 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOWTELL ST, CONNORS ST, MAKER ST, OLSEN ST, ROWBOTHAM ST, SOUTH ST",
+        "SUBURBS": "RANGEVILLE, TOOWOOMBA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717220101.418878"
+  "extracted": "1717220401.72998"
 }
