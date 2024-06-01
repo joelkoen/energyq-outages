@@ -167,7 +167,7 @@
         "REASON": "Under Investigation",
         "STATUS": "In Progress",
         "START": "7:05PM 01 Jun 2024",
-        "EST_FIX_TIME": "12:00AM 02 Jun 2024",
+        "EST_FIX_TIME": "4:00AM 02 Jun 2024",
         "STREETS": "AIMEO ESP, KORO ST, MONSOON ST, ORCHID ST, PLANTATION ST, SUNDOWN RD, SUVA RD, TROPIC DR",
         "SUBURBS": "RUSSELL ISLAND"
       }
@@ -389,9 +389,90 @@
         "STREETS": "AKALA ST, ALICE DIXON DR, ALLARA ST, BRIGADOON CT, CEDAR WOOD GR, CYCAD PL, FLAXTON MILL RD, OLD MILL LANE, ROSEWOOD RISE, SPRING FALLS WALK",
         "SUBURBS": "FLAXTON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.865085,
+              -26.182492
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.858921,
+                  -26.184281
+                ],
+                [
+                  152.859039,
+                  -26.184434
+                ],
+                [
+                  152.859535,
+                  -26.184622
+                ],
+                [
+                  152.85961,
+                  -26.18461
+                ],
+                [
+                  152.859682,
+                  -26.184594
+                ],
+                [
+                  152.870923,
+                  -26.181232
+                ],
+                [
+                  152.871248,
+                  -26.180685
+                ],
+                [
+                  152.870661,
+                  -26.180362
+                ],
+                [
+                  152.860647,
+                  -26.18229
+                ],
+                [
+                  152.860396,
+                  -26.182414
+                ],
+                [
+                  152.858977,
+                  -26.183706
+                ],
+                [
+                  152.858921,
+                  -26.184281
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-762817-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:34PM 01 Jun 2024",
+        "EST_FIX_TIME": "2:30AM 02 Jun 2024",
+        "STREETS": "WOLVI MOUNTAIN RD",
+        "SUBURBS": "WOLVI"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717248603.438943"
+  "extracted": "1717248901.369619"
 }
