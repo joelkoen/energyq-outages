@@ -10,6 +10,75 @@
           {
             "type": "Point",
             "coordinates": [
+              149.927085,
+              -24.813126
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.917802,
+                  -24.819084
+                ],
+                [
+                  149.936869,
+                  -24.807963
+                ],
+                [
+                  149.93704,
+                  -24.807372
+                ],
+                [
+                  149.936409,
+                  -24.807168
+                ],
+                [
+                  149.930007,
+                  -24.80967
+                ],
+                [
+                  149.929907,
+                  -24.809723
+                ],
+                [
+                  149.91724,
+                  -24.818342
+                ],
+                [
+                  149.917129,
+                  -24.81896
+                ],
+                [
+                  149.917802,
+                  -24.819084
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7579",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:39AM 01 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BECKERS RD",
+        "SUBURBS": "THEODORE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.535611,
               -20.346398
             ]
@@ -167,5 +236,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717204503.433527"
+  "extracted": "1717204805.18513"
 }
