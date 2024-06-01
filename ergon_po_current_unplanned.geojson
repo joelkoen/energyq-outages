@@ -10,6 +10,67 @@
           {
             "type": "Point",
             "coordinates": [
+              148.201572,
+              -23.527697
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.205408,
+                  -23.540509
+                ],
+                [
+                  148.198689,
+                  -23.514674
+                ],
+                [
+                  148.198098,
+                  -23.51434
+                ],
+                [
+                  148.197736,
+                  -23.514885
+                ],
+                [
+                  148.204456,
+                  -23.54072
+                ],
+                [
+                  148.205046,
+                  -23.541054
+                ],
+                [
+                  148.205408,
+                  -23.540509
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7596",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "3:27PM 01 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CAPRICORN HWY",
+        "SUBURBS": "EMERALD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.924373,
               -17.935617
             ]
@@ -147,5 +208,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717219813.784244"
+  "extracted": "1717220101.418878"
 }
