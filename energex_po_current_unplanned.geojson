@@ -211,9 +211,94 @@
         "STREETS": "ACCESS RD, BERNIE JENSEN LANE, C ZAHNOW RD, CHRISTIES RD, DAWSON RD, ELAVESOR DR, ELAVESOR RD, H CHRISTENSEN RD, KELLY AND DWYERS RD, KERWITZ RD, LOBEGEIGER RD, MOORANG LANE, OLD ROSEVALE RD, R CHRISTENSENS RD, ROSEVALE RD, SCHIMKE RD, SELLARS RD, SPANNS BRIDGE RD, TAROME RD, TIERNEYS BRIDGE RD, WOODS RD",
         "SUBURBS": "MOORANG, ROSEVALE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.032404,
+              -27.451837
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.031438,
+                  -27.452621
+                ],
+                [
+                  153.031738,
+                  -27.452865
+                ],
+                [
+                  153.031909,
+                  -27.452957
+                ],
+                [
+                  153.032408,
+                  -27.453116
+                ],
+                [
+                  153.033008,
+                  -27.452929
+                ],
+                [
+                  153.033441,
+                  -27.452306
+                ],
+                [
+                  153.033517,
+                  -27.452049
+                ],
+                [
+                  153.033463,
+                  -27.45095
+                ],
+                [
+                  153.032747,
+                  -27.450559
+                ],
+                [
+                  153.031868,
+                  -27.450919
+                ],
+                [
+                  153.031591,
+                  -27.451208
+                ],
+                [
+                  153.031291,
+                  -27.452166
+                ],
+                [
+                  153.031438,
+                  -27.452621
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-762734-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:07AM 01 Jun 2024",
+        "EST_FIX_TIME": "1:30PM 01 Jun 2024",
+        "STREETS": "COSTIN ST, GREGORY TCE, KING ST",
+        "SUBURBS": "BOWEN HILLS, FORTITUDE VALLEY"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717203900.46518"
+  "extracted": "1717204201.164052"
 }
