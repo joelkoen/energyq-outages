@@ -465,9 +465,90 @@
         "STREETS": "AMBERJACK CT, ANGEL ST, BARRACUDA CT, BONITO CT, COOLDETTA ST, EMPRESS CL, FRANK RANDELL DR, GEORGE ANSELL AVE, GOODSELL RD, JOHN DORY ST, KESTREL ST, LIMPET CT, MULLOWAY CT, SANDPIPER AVE, SNAPPER CT, WHITING CT",
         "SUBURBS": "CAPE CLEVELAND, CUNGULLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.331129,
+              -24.859865
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.325201,
+                  -24.860422
+                ],
+                [
+                  152.325684,
+                  -24.861365
+                ],
+                [
+                  152.326182,
+                  -24.861622
+                ],
+                [
+                  152.336615,
+                  -24.86063
+                ],
+                [
+                  152.337056,
+                  -24.860208
+                ],
+                [
+                  152.336671,
+                  -24.859743
+                ],
+                [
+                  152.331848,
+                  -24.858765
+                ],
+                [
+                  152.33184,
+                  -24.858763
+                ],
+                [
+                  152.328346,
+                  -24.858107
+                ],
+                [
+                  152.327961,
+                  -24.858181
+                ],
+                [
+                  152.325362,
+                  -24.859865
+                ],
+                [
+                  152.325201,
+                  -24.860422
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6135",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "64",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "6:19AM 02 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "HANBURY ST",
+        "SUBURBS": "BUNDABERG NORTH"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717278901.519514"
+  "extracted": "1717279501.151745"
 }
