@@ -74,7 +74,7 @@
         "REASON": "Under Investigation",
         "STATUS": "Awaiting",
         "START": "6:16PM 01 Jun 2024",
-        "EST_FIX_TIME": "11:30PM 01 Jun 2024",
+        "EST_FIX_TIME": "12:30AM 02 Jun 2024",
         "STREETS": "LONDON CREEK RD",
         "SUBURBS": "PEACHESTER"
       }
@@ -260,7 +260,7 @@
         "REASON": "Damage to Energex equipment",
         "STATUS": "Awaiting",
         "START": "7:19PM 01 Jun 2024",
-        "EST_FIX_TIME": "11:30PM 01 Jun 2024",
+        "EST_FIX_TIME": "1:00AM 02 Jun 2024",
         "STREETS": "PECAN RD, PLANTATION RD, RIVERS RD",
         "SUBURBS": "GLASSHOUSE MOUNTAINS"
       }
@@ -373,9 +373,118 @@
         "STREETS": "ARTHYS RD, EWARTS RD, FALLS CREEK RD, TABLELANDS RD, UPPER PINBARREN CREEK RD",
         "SUBURBS": "COORAN, PINBARREN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.866984,
+              -26.662062
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.854745,
+                  -26.661604
+                ],
+                [
+                  152.85562,
+                  -26.662232
+                ],
+                [
+                  152.855638,
+                  -26.662244
+                ],
+                [
+                  152.865742,
+                  -26.668846
+                ],
+                [
+                  152.865875,
+                  -26.668908
+                ],
+                [
+                  152.866045,
+                  -26.668961
+                ],
+                [
+                  152.866308,
+                  -26.668976
+                ],
+                [
+                  152.872531,
+                  -26.667842
+                ],
+                [
+                  152.872736,
+                  -26.667758
+                ],
+                [
+                  152.879066,
+                  -26.66342
+                ],
+                [
+                  152.879224,
+                  -26.662885
+                ],
+                [
+                  152.879022,
+                  -26.662455
+                ],
+                [
+                  152.878987,
+                  -26.662395
+                ],
+                [
+                  152.874178,
+                  -26.655345
+                ],
+                [
+                  152.873605,
+                  -26.655148
+                ],
+                [
+                  152.85892,
+                  -26.659106
+                ],
+                [
+                  152.858849,
+                  -26.659131
+                ],
+                [
+                  152.854842,
+                  -26.660843
+                ],
+                [
+                  152.854745,
+                  -26.661604
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-762803-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "169",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "10:36PM 01 Jun 2024",
+        "EST_FIX_TIME": "1:30AM 02 Jun 2024",
+        "STREETS": "AKALA ST, ALICE DIXON DR, ALLARA ST, BRIGADOON CT, CEDAR WOOD GR, CYCAD PL, FLAXTON MILL RD, OLD MILL LANE, ROSEWOOD RISE, SPRING FALLS WALK",
+        "SUBURBS": "FLAXTON"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717245903.356208"
+  "extracted": "1717246201.179518"
 }
