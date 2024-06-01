@@ -1,8 +1,86 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.400761,
+              -28.14917
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.399376,
+                  -28.151136
+                ],
+                [
+                  153.401736,
+                  -28.151158
+                ],
+                [
+                  153.402239,
+                  -28.150804
+                ],
+                [
+                  153.402629,
+                  -28.149234
+                ],
+                [
+                  153.402641,
+                  -28.149122
+                ],
+                [
+                  153.402609,
+                  -28.148267
+                ],
+                [
+                  153.402279,
+                  -28.14786
+                ],
+                [
+                  153.400244,
+                  -28.147181
+                ],
+                [
+                  153.399565,
+                  -28.147517
+                ],
+                [
+                  153.398882,
+                  -28.150598
+                ],
+                [
+                  153.399376,
+                  -28.151136
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-762755-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "2:46PM 01 Jun 2024",
+        "EST_FIX_TIME": "5:00PM 01 Jun 2024",
+        "STREETS": "TALLEBUDGERA CREEK RD",
+        "SUBURBS": "TALLEBUDGERA VALLEY"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717223404.269202"
+  "extracted": "1717223701.01525"
 }
