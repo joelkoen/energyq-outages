@@ -71,6 +71,123 @@
           {
             "type": "Point",
             "coordinates": [
+              149.174375,
+              -21.125342
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.172559,
+                  -21.127339
+                ],
+                [
+                  149.17292,
+                  -21.127518
+                ],
+                [
+                  149.173026,
+                  -21.127556
+                ],
+                [
+                  149.17374,
+                  -21.127727
+                ],
+                [
+                  149.174184,
+                  -21.127623
+                ],
+                [
+                  149.176297,
+                  -21.125809
+                ],
+                [
+                  149.176441,
+                  -21.125371
+                ],
+                [
+                  149.176316,
+                  -21.124881
+                ],
+                [
+                  149.17631,
+                  -21.124859
+                ],
+                [
+                  149.175944,
+                  -21.123688
+                ],
+                [
+                  149.175877,
+                  -21.123557
+                ],
+                [
+                  149.175518,
+                  -21.123072
+                ],
+                [
+                  149.174853,
+                  -21.122956
+                ],
+                [
+                  149.173967,
+                  -21.123519
+                ],
+                [
+                  149.173911,
+                  -21.123561
+                ],
+                [
+                  149.172925,
+                  -21.124413
+                ],
+                [
+                  149.172894,
+                  -21.124442
+                ],
+                [
+                  149.172811,
+                  -21.124528
+                ],
+                [
+                  149.172694,
+                  -21.124755
+                ],
+                [
+                  149.17231,
+                  -21.126864
+                ],
+                [
+                  149.172559,
+                  -21.127339
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4771",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "102",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:53PM 01 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRADFORD ST, DOLBY CT, KENZEY ST, LAIRD ST, ROSE ST, THE CRESCENT",
+        "SUBURBS": "NORTH MACKAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.780339,
               -19.277845
             ]
@@ -276,5 +393,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717232101.296835"
+  "extracted": "1717232405.304536"
 }
