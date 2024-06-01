@@ -1,70 +1,8 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              153.047389,
-              -27.503316
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.047148,
-                  -27.502905
-                ],
-                [
-                  153.046967,
-                  -27.503045
-                ],
-                [
-                  153.046916,
-                  -27.503682
-                ],
-                [
-                  153.04763,
-                  -27.503727
-                ],
-                [
-                  153.047811,
-                  -27.503588
-                ],
-                [
-                  153.047862,
-                  -27.502951
-                ],
-                [
-                  153.047148,
-                  -27.502905
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-762720-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "6",
-        "REASON": "Emergency Repairs",
-        "STATUS": "Awaiting",
-        "START": "8:53AM 01 Jun 2024",
-        "EST_FIX_TIME": "4:00PM 01 Jun 2024",
-        "STREETS": "LOGAN RD",
-        "SUBURBS": "GREENSLOPES"
-      }
-    }
-  ],
+  "features": [],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717218905.193734"
+  "extracted": "1717219201.665179"
 }
