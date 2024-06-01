@@ -10,6 +10,99 @@
           {
             "type": "Point",
             "coordinates": [
+              145.242762,
+              -22.858868
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.067671,
+                  -22.987478
+                ],
+                [
+                  145.070103,
+                  -22.987461
+                ],
+                [
+                  145.070162,
+                  -22.987458
+                ],
+                [
+                  145.41791,
+                  -22.945254
+                ],
+                [
+                  145.418334,
+                  -22.9448
+                ],
+                [
+                  145.414858,
+                  -22.730701
+                ],
+                [
+                  145.414367,
+                  -22.730257
+                ],
+                [
+                  145.196469,
+                  -22.731848
+                ],
+                [
+                  145.196279,
+                  -22.731886
+                ],
+                [
+                  145.194142,
+                  -22.732744
+                ],
+                [
+                  145.193942,
+                  -22.732893
+                ],
+                [
+                  145.096499,
+                  -22.857345
+                ],
+                [
+                  145.096416,
+                  -22.857518
+                ],
+                [
+                  145.06719,
+                  -22.986934
+                ],
+                [
+                  145.067671,
+                  -22.987478
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7582",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "1:10PM 01 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARAMAC-FLEETWOOD RD, ARAMAC-ILFRACOMBE RD, ARAMAC-MUTTABURRA RD, JERICHO-ARAMAC RD, THE LAKE RD",
+        "SUBURBS": "ARAMAC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.535611,
               -20.346398
             ]
@@ -265,10 +358,10 @@
         "EVENT_ID": "24NQ9300",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "38",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Work delayed - crews unable to continue",
+        "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
+        "STATUS": "Crews working on-site",
         "START": "12:29AM 01 Jun 2024",
-        "EST_FIX_TIME": null,
+        "EST_FIX_TIME": "3:00PM 01 Jun 2024",
         "STREETS": "BEEANTHA STATION, BUNDA BUNDA STATION, BUNDORAN STATION, BYLONG STATION, CAMERAY STATION, CORELLA ST, EURABA STATION, EUTHELLA STATION, FLINDERS HWY, GLADEVALE STATION, GLENGALLA STATION, KILTERRY STATION, NONDA DNS STATION, PIALAH STATION, RAILWAY RES, ROCKVALE STATION, ROTHBURY PARK STATION, RUNNYMEDE STATION, SAXBY DOWNS STATION, SCOTSBURN STATION, SOLWAY DOWNS STATION, SOMERVILLE STATION, SUTHERLAND STATION, TRIVALORE STATION, TRIVILORE STATION, YANBORA STATION",
         "SUBURBS": "MAXWELTON, NELIA, NONDA, RICHMOND"
       }
@@ -276,5 +369,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717211403.572887"
+  "extracted": "1717211703.840325"
 }
