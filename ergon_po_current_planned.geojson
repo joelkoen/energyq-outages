@@ -184,7 +184,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "25",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 02 Jun 2024",
         "EST_FIX_TIME": "2:00PM 02 Jun 2024",
         "STREETS": "AIRSTRIP ST, BASKETBALL COURT ST, DANIEL ST, MAIN ST, MAP ST, UNKNOWN ST, WARRIA ST",
@@ -331,11 +331,32 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "68",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 02 Jun 2024",
         "EST_FIX_TIME": "2:30PM 02 Jun 2024",
         "STREETS": "DUCKWORTH ST, HAMILL ST, SCHMID ST, WOOLCOCK ST",
         "SUBURBS": "GARBUTT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.162045,
+          -18.647989
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8719",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 02 Jun 2024",
+        "EST_FIX_TIME": "2:00PM 02 Jun 2024",
+        "STREETS": "ANN ST, CARTWRIGHT ST, CHRISTIE ST, HERBERT ST",
+        "SUBURBS": "INGHAM"
       }
     },
     {
@@ -572,5 +593,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717280103.280001"
+  "extracted": "1717280401.715933"
 }
