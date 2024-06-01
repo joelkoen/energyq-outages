@@ -1675,7 +1675,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "76",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 02 Jun 2024",
         "EST_FIX_TIME": "3:00PM 02 Jun 2024",
         "STREETS": "LOBAN ST, MAGALA ST, SAILOR CRES, WAIBEN ESP",
@@ -2562,6 +2562,27 @@
         "EST_FIX_TIME": "6:30AM 07 Jun 2024",
         "STREETS": "GORDON ST, WOOD ST",
         "SUBURBS": "MACKAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.467399,
+          -19.028448
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5868",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 02 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 02 Jun 2024",
+        "STREETS": "BLUE RANGE STATION, CAMEL CREEK STATION, CHRISTMAS CREEK STATION, CRAIGLEE STATION, GADARA STATION, GREGORY DEVELOPMENTAL RD, LINCOLN SPRINGS STATION, LYND HWY, MT FULLSTOP STATION, MT OWEENEE STATION, OAK HILLS STATION, RHONELLA PARK STATION",
+        "SUBURBS": "BLUEWATER SPRINGS, CHARTERS TOWERS, CLARKE RIVER, GREENVALE, MOUNT FOX"
       }
     },
     {
@@ -5507,5 +5528,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1717281903.180988"
+  "extracted": "1717282201.554511"
 }
