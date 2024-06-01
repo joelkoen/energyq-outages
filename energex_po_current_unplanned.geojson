@@ -271,9 +271,150 @@
         "STREETS": "APPLE GUM CRES, BAY CREST PL, BEACH ST, BEUTEL PL, BLOOMFIELD ST, BUSH CHERRY PL, CALLIANDRA PL, CARMAY CL, CLAYTON CT, CLIFFORD PERSKE DR, DASEN ST, DREVESEN AVE, DYLAN ST, EILEEN CL, FITZROY ST, GAYLEN ST, GEORGE THORN DR, GHOSTGUM CL, HAYES ST, HIDEAWAY CT, HIGHGREEN PL, INGOT CL, JACKWOOD ST, JANLAW ST, JARVIS CT, JAYDEE CT, JEFF ST, JENMAR CT, JERRYS PL, JEWEL PL, JONBAR CT, JUDANNE CT, JULISTA CT, KARRAGARRA PL, KERDER ST, KING ST, KRISKYLE PL, LOTUS CL, MACLEAY PL, MAGED PL, MORETON RD, MORETON VIEW CRES, MORRIS CCT, NADINE CRES, NATALIN ST, PANNIKIN PL, PANORAMA DR, PARANKA DR S, PONTIAC ST, PORTIAS PL, PRIMROSE DR, RACHEL PL, REDBILL CL, REDLAND BAY RD, RIBONWOOD ST, RILEY PETER PL, RIVER GUM CL, SAM PL, SANDUNE PL, SEAHORSE CT, SEASPRAY ST, SEQUOIA ST, SKILTON PL, SOUTH ST, STARFISH CT, STRINGYBARK CT, TAMARIND CL, TARINA ST, THORNLANDS RD, TINDAPPAH DR, TUDAR PL, WATER GUM PL, WATERLOO ST, WATERVILLE DR, WATSONS CT, WHITE FIG PL, WOBUR ST, YVONNE AVE, ZIGGYS DR",
         "SUBURBS": "CLEVELAND, THORNLANDS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.70892,
+              -26.148969
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.692276,
+                  -26.148233
+                ],
+                [
+                  152.692296,
+                  -26.14851
+                ],
+                [
+                  152.692297,
+                  -26.148519
+                ],
+                [
+                  152.693019,
+                  -26.156139
+                ],
+                [
+                  152.693019,
+                  -26.156146
+                ],
+                [
+                  152.693716,
+                  -26.162303
+                ],
+                [
+                  152.694192,
+                  -26.162709
+                ],
+                [
+                  152.706579,
+                  -26.163205
+                ],
+                [
+                  152.706843,
+                  -26.163149
+                ],
+                [
+                  152.725324,
+                  -26.153949
+                ],
+                [
+                  152.725563,
+                  -26.153429
+                ],
+                [
+                  152.723432,
+                  -26.146731
+                ],
+                [
+                  152.723418,
+                  -26.146692
+                ],
+                [
+                  152.721606,
+                  -26.142478
+                ],
+                [
+                  152.721407,
+                  -26.14226
+                ],
+                [
+                  152.713689,
+                  -26.137838
+                ],
+                [
+                  152.71363,
+                  -26.137809
+                ],
+                [
+                  152.70853,
+                  -26.135695
+                ],
+                [
+                  152.708478,
+                  -26.135676
+                ],
+                [
+                  152.70776,
+                  -26.135463
+                ],
+                [
+                  152.707683,
+                  -26.135446
+                ],
+                [
+                  152.702791,
+                  -26.134733
+                ],
+                [
+                  152.702311,
+                  -26.134908
+                ],
+                [
+                  152.692984,
+                  -26.146144
+                ],
+                [
+                  152.692906,
+                  -26.146282
+                ],
+                [
+                  152.692297,
+                  -26.148072
+                ],
+                [
+                  152.692276,
+                  -26.148233
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-762780-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "177",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:56PM 01 Jun 2024",
+        "EST_FIX_TIME": "9:30PM 01 Jun 2024",
+        "STREETS": "ARNOLD RD, BICKLE RD, DIGGERS OTLK, ENTERPRISE RD, GAMBLING RD, HOOD RD, OFFER RD, OLD GOOMBOORIAN RD, OLD VETERAN RD, OSPREY DR, OUTLOOK RD, PRESTON LANE, SHERYLEA DR, TAYLOR RD, TOMPKINS RD",
+        "SUBURBS": "VETERAN"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717232101.454524"
+  "extracted": "1717232404.897082"
 }
