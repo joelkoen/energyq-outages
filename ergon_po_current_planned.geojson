@@ -196,6 +196,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.690945,
+          -28.07026
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8595",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "10:16AM 01 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 01 Jun 2024",
+        "STREETS": "BEARDMORE ST, BROAD ST, WICKS ST",
+        "SUBURBS": "CUNNAMULLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.693017,
+          -28.069535
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8598",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "69",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "10:12AM 01 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 01 Jun 2024",
+        "STREETS": "BEARDMORE ST, BROAD ST, EMMA ST, KING ST, MABEL ST",
+        "SUBURBS": "CUNNAMULLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.307118,
           -25.278002
         ]
@@ -215,5 +257,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717202703.314902"
+  "extracted": "1717203001.309913"
 }
