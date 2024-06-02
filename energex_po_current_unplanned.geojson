@@ -1,8 +1,70 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.937289,
+              -27.434064
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.937455,
+                  -27.43363
+                ],
+                [
+                  152.937284,
+                  -27.433606
+                ],
+                [
+                  152.936704,
+                  -27.43398
+                ],
+                [
+                  152.937123,
+                  -27.434497
+                ],
+                [
+                  152.937294,
+                  -27.434522
+                ],
+                [
+                  152.937874,
+                  -27.434148
+                ],
+                [
+                  152.937455,
+                  -27.43363
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-762946-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "5:03AM 03 Jun 2024",
+        "EST_FIX_TIME": "7:30AM 03 Jun 2024",
+        "STREETS": "TEROMA ST",
+        "SUBURBS": "THE GAP"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717354803.973248"
+  "extracted": "1717355100.358527"
 }
