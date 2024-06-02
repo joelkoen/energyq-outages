@@ -284,9 +284,118 @@
         "STREETS": "EKERT RD, GRANITE LANE",
         "SUBURBS": "CURRAMORE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.055788,
+              -27.531925
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.053792,
+                  -27.530517
+                ],
+                [
+                  153.054062,
+                  -27.531531
+                ],
+                [
+                  153.054085,
+                  -27.531594
+                ],
+                [
+                  153.054615,
+                  -27.53277
+                ],
+                [
+                  153.054673,
+                  -27.532865
+                ],
+                [
+                  153.05499,
+                  -27.533258
+                ],
+                [
+                  153.05499,
+                  -27.533259
+                ],
+                [
+                  153.056106,
+                  -27.53464
+                ],
+                [
+                  153.056813,
+                  -27.534742
+                ],
+                [
+                  153.057493,
+                  -27.534303
+                ],
+                [
+                  153.057666,
+                  -27.534106
+                ],
+                [
+                  153.057754,
+                  -27.533911
+                ],
+                [
+                  153.057784,
+                  -27.533669
+                ],
+                [
+                  153.057004,
+                  -27.529455
+                ],
+                [
+                  153.056316,
+                  -27.529109
+                ],
+                [
+                  153.054402,
+                  -27.529791
+                ],
+                [
+                  153.054288,
+                  -27.529848
+                ],
+                [
+                  153.053982,
+                  -27.530051
+                ],
+                [
+                  153.053792,
+                  -27.530517
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-762905-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "73",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:55PM 02 Jun 2024",
+        "EST_FIX_TIME": "9:00PM 02 Jun 2024",
+        "STREETS": "ASKEW ST, GREENHALGH ST, MESSINES RIDGE RD, MONASH RD, PERONNE RD, POZIERES RD, QUEENSTHORPE ST",
+        "SUBURBS": "TARRAGINDI"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717314901.224904"
+  "extracted": "1717315203.321874"
 }
