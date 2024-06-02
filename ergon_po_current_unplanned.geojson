@@ -62,9 +62,142 @@
         "STREETS": "BRUCE HWY, UP RIVER RD",
         "SUBURBS": "FOXDALE, GREGORY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.703002,
+              -19.41892
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.67415,
+                  -19.418389
+                ],
+                [
+                  146.701423,
+                  -19.445402
+                ],
+                [
+                  146.701497,
+                  -19.445462
+                ],
+                [
+                  146.714369,
+                  -19.453832
+                ],
+                [
+                  146.714679,
+                  -19.453909
+                ],
+                [
+                  146.723518,
+                  -19.453177
+                ],
+                [
+                  146.72383,
+                  -19.453031
+                ],
+                [
+                  146.730426,
+                  -19.446136
+                ],
+                [
+                  146.730549,
+                  -19.445854
+                ],
+                [
+                  146.731862,
+                  -19.420649
+                ],
+                [
+                  146.731848,
+                  -19.420513
+                ],
+                [
+                  146.729006,
+                  -19.410068
+                ],
+                [
+                  146.728987,
+                  -19.410013
+                ],
+                [
+                  146.728789,
+                  -19.409545
+                ],
+                [
+                  146.728763,
+                  -19.409492
+                ],
+                [
+                  146.727422,
+                  -19.407219
+                ],
+                [
+                  146.727377,
+                  -19.407156
+                ],
+                [
+                  146.707709,
+                  -19.384015
+                ],
+                [
+                  146.707061,
+                  -19.383931
+                ],
+                [
+                  146.706996,
+                  -19.383976
+                ],
+                [
+                  146.706979,
+                  -19.383988
+                ],
+                [
+                  146.705563,
+                  -19.385045
+                ],
+                [
+                  146.705505,
+                  -19.385096
+                ],
+                [
+                  146.674141,
+                  -19.417772
+                ],
+                [
+                  146.67415,
+                  -19.418389
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9330",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "442",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:29AM 03 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "APPALOOSA PL, BAYSTONE CT, BERNBOROUGH CT, CARBINE CT, CASPIAN CT, DORIEMUS CT, GREY BOOTS CIR, KELSO DR, KENSEI CT, LATVIAN CT, LAUDHAM RD, OCTAGONAL CRES, RIVERWAY DR, ROSS LAKE DR, ROUND MOUNTAIN RD, SAINTLY CT, STRAWBERRY RD, TOKARA CT, TULLOCH CT",
+        "SUBURBS": "KELSO, PINNACLES, RASMUSSEN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717353015.40334"
+  "extracted": "1717353601.159491"
 }
