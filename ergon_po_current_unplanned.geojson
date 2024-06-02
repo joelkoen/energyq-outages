@@ -111,6 +111,192 @@
           {
             "type": "Point",
             "coordinates": [
+              142.388952,
+              -10.888215
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  142.387218,
+                  -10.892041
+                ],
+                [
+                  142.390839,
+                  -10.89137
+                ],
+                [
+                  142.391211,
+                  -10.890924
+                ],
+                [
+                  142.391198,
+                  -10.889011
+                ],
+                [
+                  142.391169,
+                  -10.888858
+                ],
+                [
+                  142.389611,
+                  -10.884684
+                ],
+                [
+                  142.389175,
+                  -10.88439
+                ],
+                [
+                  142.38875,
+                  -10.884699
+                ],
+                [
+                  142.387545,
+                  -10.888319
+                ],
+                [
+                  142.387537,
+                  -10.888344
+                ],
+                [
+                  142.386694,
+                  -10.891482
+                ],
+                [
+                  142.387218,
+                  -10.892041
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6966",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "127",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:36AM 02 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ADIDI ST, ANU CRES, LUI ST, MUDU ST, POI POI ST, SAGAUKAZ ST, WASIU ST, WILLIAMS CRES, YUSIA ST",
+        "SUBURBS": "BAMAGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              142.361117,
+              -10.897496
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  142.321376,
+                  -10.906665
+                ],
+                [
+                  142.321387,
+                  -10.909392
+                ],
+                [
+                  142.321387,
+                  -10.909414
+                ],
+                [
+                  142.321401,
+                  -10.90967
+                ],
+                [
+                  142.321904,
+                  -10.910095
+                ],
+                [
+                  142.322628,
+                  -10.91002
+                ],
+                [
+                  142.322679,
+                  -10.910012
+                ],
+                [
+                  142.388457,
+                  -10.895636
+                ],
+                [
+                  142.388467,
+                  -10.895634
+                ],
+                [
+                  142.400512,
+                  -10.892701
+                ],
+                [
+                  142.400858,
+                  -10.892239
+                ],
+                [
+                  142.400464,
+                  -10.891817
+                ],
+                [
+                  142.348749,
+                  -10.884898
+                ],
+                [
+                  142.348443,
+                  -10.884965
+                ],
+                [
+                  142.322146,
+                  -10.901572
+                ],
+                [
+                  142.321938,
+                  -10.901899
+                ],
+                [
+                  142.321379,
+                  -10.906611
+                ],
+                [
+                  142.321376,
+                  -10.906665
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6967",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "325",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:36AM 02 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AIRPORT RD, ALAU CL, APUDTHAMA ST, ATAMBYA CL, BEACH RD, BOWIE ST, CHARLIE ST, COBRA CL, HORSEMAN ST, INJINOO CL, KULLA KULLA CL, LITTLE LUI ST, LUI ST, MARA ST, MASSEY ST, MCDONNELL ST, MIMI CL, MOSES CL, NAMOK RD, PABLO ST, PAJINKA RD, PASCOE ST, PETER ST, ROPEYARN HWY, ROPEYARN ST, SEBASIO ST, SNAKE GLY, SNAKE GULLY RD, TAIPAN ALLY, TAMWOY ST, UNKNOWN ST, WARE ST, WILSON ST, WOOSUP ST, YOUNG ST",
+        "SUBURBS": "BAMAGA, INJINOO, UMAGICO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.535611,
               -20.346398
             ]
@@ -248,5 +434,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717288501.074078"
+  "extracted": "1717288801.556552"
 }
