@@ -118,9 +118,94 @@
         "STREETS": "ALLAMBIE CT",
         "SUBURBS": "BUDDINA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.968239,
+              -27.567001
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.967319,
+                  -27.568324
+                ],
+                [
+                  152.968039,
+                  -27.568459
+                ],
+                [
+                  152.968401,
+                  -27.568406
+                ],
+                [
+                  152.969295,
+                  -27.567935
+                ],
+                [
+                  152.969542,
+                  -27.567518
+                ],
+                [
+                  152.969452,
+                  -27.566246
+                ],
+                [
+                  152.969434,
+                  -27.566151
+                ],
+                [
+                  152.969337,
+                  -27.565848
+                ],
+                [
+                  152.968688,
+                  -27.565543
+                ],
+                [
+                  152.967789,
+                  -27.565814
+                ],
+                [
+                  152.967465,
+                  -27.566117
+                ],
+                [
+                  152.966936,
+                  -27.567758
+                ],
+                [
+                  152.967319,
+                  -27.568324
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-762896-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "29",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:28PM 02 Jun 2024",
+        "EST_FIX_TIME": "7:30PM 02 Jun 2024",
+        "STREETS": "PORTAL ST, SANDI ST",
+        "SUBURBS": "OXLEY"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717313701.366029"
+  "extracted": "1717314001.025031"
 }
