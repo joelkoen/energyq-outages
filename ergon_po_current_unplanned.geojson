@@ -62,9 +62,118 @@
         "STREETS": "BRUCE HWY, UP RIVER RD",
         "SUBURBS": "FOXDALE, GREGORY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              147.400871,
+              -19.578164
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.399057,
+                  -19.578689
+                ],
+                [
+                  147.40015,
+                  -19.580204
+                ],
+                [
+                  147.400767,
+                  -19.580348
+                ],
+                [
+                  147.402165,
+                  -19.579644
+                ],
+                [
+                  147.402319,
+                  -19.579522
+                ],
+                [
+                  147.402657,
+                  -19.579109
+                ],
+                [
+                  147.402745,
+                  -19.578732
+                ],
+                [
+                  147.402239,
+                  -19.57662
+                ],
+                [
+                  147.401989,
+                  -19.576316
+                ],
+                [
+                  147.401284,
+                  -19.57598
+                ],
+                [
+                  147.400718,
+                  -19.576078
+                ],
+                [
+                  147.399896,
+                  -19.576929
+                ],
+                [
+                  147.399862,
+                  -19.576968
+                ],
+                [
+                  147.399173,
+                  -19.577865
+                ],
+                [
+                  147.399108,
+                  -19.577984
+                ],
+                [
+                  147.399025,
+                  -19.578212
+                ],
+                [
+                  147.399023,
+                  -19.578218
+                ],
+                [
+                  147.398997,
+                  -19.578293
+                ],
+                [
+                  147.399057,
+                  -19.578689
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9328",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "51",
+        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+        "STATUS": "Outage reported",
+        "START": "9:23PM 02 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "GRAHAM ST, MUNRO ST, QUEEN ST, RAILWAY ST",
+        "SUBURBS": "AYR"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717329901.396165"
+  "extracted": "1717330201.585807"
 }
