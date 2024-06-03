@@ -354,15 +354,100 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "296",
         "REASON": "Under Investigation",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "2:36PM 03 Jun 2024",
         "EST_FIX_TIME": "5:30PM 03 Jun 2024",
         "STREETS": "AMAROO PL, BUNDOORA ST, CREAM BOX CT, GOSHAWK LANE, JIRRIMA CRES, JOHNS RD, LAKE COOROIBAH RD, LAKESIDE DR, LAKEWAY DR, MCKINNON DR, MORNING GLORY DR, MURCHISON LANE, PINES AVE, RIVERPARK DR, SUNSET WAY, TRONSON RD, TURPENTINE RD",
         "SUBURBS": "COOROIBAH, RINGTAIL CREEK, TEWANTIN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.428957,
+              -28.04695
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.426612,
+                  -28.046585
+                ],
+                [
+                  153.426632,
+                  -28.046778
+                ],
+                [
+                  153.427039,
+                  -28.047177
+                ],
+                [
+                  153.430552,
+                  -28.047802
+                ],
+                [
+                  153.430825,
+                  -28.047784
+                ],
+                [
+                  153.430968,
+                  -28.047738
+                ],
+                [
+                  153.431302,
+                  -28.047271
+                ],
+                [
+                  153.431282,
+                  -28.047078
+                ],
+                [
+                  153.430946,
+                  -28.046695
+                ],
+                [
+                  153.430836,
+                  -28.04666
+                ],
+                [
+                  153.430751,
+                  -28.046641
+                ],
+                [
+                  153.427205,
+                  -28.046098
+                ],
+                [
+                  153.426612,
+                  -28.046585
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-763110-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "40",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "3:11PM 03 Jun 2024",
+        "EST_FIX_TIME": "6:00PM 03 Jun 2024",
+        "STREETS": "SUNDOWNER CT",
+        "SUBURBS": "MERMAID WATERS"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717391401.75133"
+  "extracted": "1717391703.763145"
 }
