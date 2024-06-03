@@ -171,9 +171,78 @@
         "STREETS": "SUNDOWNER CT",
         "SUBURBS": "MERMAID WATERS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.989345,
+              -27.746018
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.98817,
+                  -27.745347
+                ],
+                [
+                  152.989696,
+                  -27.747218
+                ],
+                [
+                  152.990403,
+                  -27.74732
+                ],
+                [
+                  152.990519,
+                  -27.746691
+                ],
+                [
+                  152.989775,
+                  -27.745764
+                ],
+                [
+                  152.989771,
+                  -27.745758
+                ],
+                [
+                  152.988989,
+                  -27.744814
+                ],
+                [
+                  152.988281,
+                  -27.744717
+                ],
+                [
+                  152.98817,
+                  -27.745347
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-763154-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:36PM 03 Jun 2024",
+        "EST_FIX_TIME": "9:00PM 03 Jun 2024",
+        "STREETS": "GREENBANK RD",
+        "SUBURBS": "MUNRUBEN"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717400401.321697"
+  "extracted": "1717400703.011508"
 }
