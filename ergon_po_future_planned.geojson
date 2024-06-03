@@ -301,27 +301,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.974406,
-          -24.578098
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA6621",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "9:30AM 04 Jun 2024",
-        "EST_FIX_TIME": "3:30PM 04 Jun 2024",
-        "STREETS": "MCDOWELL ST",
-        "SUBURBS": "MOURA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           149.971446,
           -24.577336
         ]
@@ -798,6 +777,27 @@
         "EST_FIX_TIME": "5:00PM 05 Jun 2024",
         "STREETS": "SHORT ST",
         "SUBURBS": "LAMMERMOOR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.801912,
+          -22.980266
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7018",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:33AM 04 Jun 2024",
+        "EST_FIX_TIME": "1:00PM 04 Jun 2024",
+        "STREETS": "OFF GREGORY HWY",
+        "SUBURBS": "CAPELLA"
       }
     },
     {
@@ -1701,6 +1701,27 @@
         "EST_FIX_TIME": "2:30PM 05 Jun 2024",
         "STREETS": "KOWROWA RD, MYOLA RD, OAK FOREST RD, SHORT ST, SOUTH ST",
         "SUBURBS": "KOWROWA, KURANDA, MANTAKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.24556,
+          -18.202344
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6312",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 04 Jun 2024",
+        "EST_FIX_TIME": "10:00AM 04 Jun 2024",
+        "STREETS": "BROWN ST, ELIZABETH ST, MCARTHUR ST",
+        "SUBURBS": "CROYDON"
       }
     },
     {
@@ -6065,7 +6086,7 @@
         "CUSTOMERS_AFFECTED": "29",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
         "STATUS": "Crews working on-site",
-        "START": "9:00AM 04 Jun 2024",
+        "START": "9:17AM 04 Jun 2024",
         "EST_FIX_TIME": "3:00PM 04 Jun 2024",
         "STREETS": "CANECUTTER CT, PIONEER AVE, TAYLOR ST",
         "SUBURBS": "CHILDERS"
@@ -6473,5 +6494,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1717457100.669111"
+  "extracted": "1717457702.06388"
 }
