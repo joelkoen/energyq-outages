@@ -86,9 +86,118 @@
         "STREETS": "SUNDOWNER CT",
         "SUBURBS": "MERMAID WATERS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.97339,
+              -27.959711
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.961593,
+                  -27.969241
+                ],
+                [
+                  152.967814,
+                  -27.978008
+                ],
+                [
+                  152.968359,
+                  -27.978207
+                ],
+                [
+                  152.970534,
+                  -27.977757
+                ],
+                [
+                  152.970711,
+                  -27.977687
+                ],
+                [
+                  152.985034,
+                  -27.968731
+                ],
+                [
+                  152.985244,
+                  -27.968294
+                ],
+                [
+                  152.983585,
+                  -27.958511
+                ],
+                [
+                  152.983584,
+                  -27.958504
+                ],
+                [
+                  152.983381,
+                  -27.957421
+                ],
+                [
+                  152.983317,
+                  -27.957266
+                ],
+                [
+                  152.973185,
+                  -27.942008
+                ],
+                [
+                  152.972983,
+                  -27.941837
+                ],
+                [
+                  152.971641,
+                  -27.941214
+                ],
+                [
+                  152.970926,
+                  -27.941465
+                ],
+                [
+                  152.967752,
+                  -27.949516
+                ],
+                [
+                  152.967743,
+                  -27.949542
+                ],
+                [
+                  152.961535,
+                  -27.968877
+                ],
+                [
+                  152.961593,
+                  -27.969241
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-763192-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "56",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "9:23PM 03 Jun 2024",
+        "EST_FIX_TIME": "12:00AM 04 Jun 2024",
+        "STREETS": "BROMELTON HOUSE RD, EVERSLEY CT, MT LINDESAY HWY, OLLIE CT",
+        "SUBURBS": "BROMELTON, GLENEAGLE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717413600.320823"
+  "extracted": "1717413901.062882"
 }
