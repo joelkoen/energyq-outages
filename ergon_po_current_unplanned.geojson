@@ -232,10 +232,10 @@
         "EVENT_ID": "24FN6977",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "35",
-        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
-        "STATUS": "Outage reported",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
+        "STATUS": "Crews working on-site",
         "START": "9:50AM 03 Jun 2024",
-        "EST_FIX_TIME": null,
+        "EST_FIX_TIME": "3:00PM 03 Jun 2024",
         "STREETS": "AZZOPARDI RD, COOYAR RD, KITTABAH RD, KROGER RD, SAMMUT RD, STRATVELL RD, WARRAKIN RD",
         "SUBURBS": "JAPOONVALE"
       }
@@ -300,9 +300,110 @@
         "STREETS": "BRUCE HWY, UP RIVER RD",
         "SUBURBS": "FOXDALE, GREGORY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.886028,
+              -25.284938
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.884159,
+                  -25.286113
+                ],
+                [
+                  152.887891,
+                  -25.285911
+                ],
+                [
+                  152.888343,
+                  -25.285568
+                ],
+                [
+                  152.888381,
+                  -25.285424
+                ],
+                [
+                  152.888393,
+                  -25.285354
+                ],
+                [
+                  152.888418,
+                  -25.28507
+                ],
+                [
+                  152.888316,
+                  -25.284758
+                ],
+                [
+                  152.888014,
+                  -25.284405
+                ],
+                [
+                  152.887969,
+                  -25.284359
+                ],
+                [
+                  152.887762,
+                  -25.284176
+                ],
+                [
+                  152.887681,
+                  -25.284117
+                ],
+                [
+                  152.887136,
+                  -25.283805
+                ],
+                [
+                  152.886705,
+                  -25.283763
+                ],
+                [
+                  152.884039,
+                  -25.284631
+                ],
+                [
+                  152.883715,
+                  -25.285004
+                ],
+                [
+                  152.883639,
+                  -25.285614
+                ],
+                [
+                  152.884159,
+                  -25.286113
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6162",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "46",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:26PM 03 Jun 2024",
+        "EST_FIX_TIME": "1:30PM 03 Jun 2024",
+        "STREETS": "ALEXANDER ST, CHLOE CT, CHRISTINE AVE, FELIX CT, TRURO ST",
+        "SUBURBS": "TORQUAY, URANGAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717381501.249178"
+  "extracted": "1717381801.994302"
 }
