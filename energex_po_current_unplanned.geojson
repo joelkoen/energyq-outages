@@ -1,8 +1,211 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.20708,
+              -27.706915
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.204319,
+                  -27.706012
+                ],
+                [
+                  153.204696,
+                  -27.707035
+                ],
+                [
+                  153.204761,
+                  -27.707152
+                ],
+                [
+                  153.205285,
+                  -27.707824
+                ],
+                [
+                  153.205492,
+                  -27.707978
+                ],
+                [
+                  153.206468,
+                  -27.708372
+                ],
+                [
+                  153.206812,
+                  -27.708396
+                ],
+                [
+                  153.20754,
+                  -27.708217
+                ],
+                [
+                  153.207587,
+                  -27.708204
+                ],
+                [
+                  153.209441,
+                  -27.707573
+                ],
+                [
+                  153.209613,
+                  -27.707476
+                ],
+                [
+                  153.20984,
+                  -27.70728
+                ],
+                [
+                  153.209615,
+                  -27.706519
+                ],
+                [
+                  153.204929,
+                  -27.705434
+                ],
+                [
+                  153.204319,
+                  -27.706012
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-763070-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "53",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "1:30PM 03 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 03 Jun 2024",
+        "STREETS": "ENDEAVOUR PDE, PETUNIA CT, SAVERIN RD, TASMAN TCE",
+        "SUBURBS": "EAGLEBY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.199713,
+              -27.919413
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.191545,
+                  -27.926174
+                ],
+                [
+                  153.191592,
+                  -27.926397
+                ],
+                [
+                  153.191679,
+                  -27.926577
+                ],
+                [
+                  153.192029,
+                  -27.92701
+                ],
+                [
+                  153.192094,
+                  -27.927075
+                ],
+                [
+                  153.197887,
+                  -27.931915
+                ],
+                [
+                  153.198682,
+                  -27.931801
+                ],
+                [
+                  153.207881,
+                  -27.916711
+                ],
+                [
+                  153.207814,
+                  -27.916195
+                ],
+                [
+                  153.198631,
+                  -27.907047
+                ],
+                [
+                  153.198119,
+                  -27.906911
+                ],
+                [
+                  153.198031,
+                  -27.906933
+                ],
+                [
+                  153.197817,
+                  -27.907038
+                ],
+                [
+                  153.197695,
+                  -27.907139
+                ],
+                [
+                  153.197621,
+                  -27.907214
+                ],
+                [
+                  153.19623,
+                  -27.909015
+                ],
+                [
+                  153.196155,
+                  -27.909164
+                ],
+                [
+                  153.191551,
+                  -27.925984
+                ],
+                [
+                  153.191545,
+                  -27.926174
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-763071-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "488",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "1:31PM 03 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 03 Jun 2024",
+        "STREETS": "APO CT, CAYAMBE CT, CONTOUR RD, COOK RD, DAPSANG RD, EAGLE HEIGHTS RD, FORSYTHIA DR, KATMAI CT, KATOOMBA CRES, LONG RD, MACDONNELL RD, MAIPU CT, MAYON CT, MAZAMA CT, MERON CT, MORELL ST, OHIA CT, TAMBORA CT, WASATCH CT, WONGAWALLAN RD",
+        "SUBURBS": "TAMBORINE MOUNTAIN"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717385401.446701"
+  "extracted": "1717385700.406717"
 }
