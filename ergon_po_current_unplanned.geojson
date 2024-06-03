@@ -308,9 +308,102 @@
         "STREETS": "ABBIEGLASSIE-BOATMAN RD, BALONE HWY, BALONNE HWY, BELMORE ST, BOLLON DIRRANBANDI RD, BOLLON RD, CARDIFF RD, CASHEL VALE RD, CORACK RD, DIRRANBANDI-BOLLON RD, DUNBAR RD, FERNLEE RD, GEORGE ST, HOMEBOIN-ST GEORGE RD, JANE ST, JHELUM PLAINS RD, KULKI RD, LOOP RD, MAIN ST, MARY ST, MITCHELL BOLLON RD, MULGA DOWNS RD, MUNDA MUNDA RD, MURRA MURRA RD, RUNNYMEDE RD, SHIRLO RD, SUNSET VALLEY RD, TAMBINGEY RD, UNKNOWN RD, WALLAM ST, WILLIAM ST, WOOLERINA RD",
         "SUBURBS": "BARGUNYAH, BOLLON, CUNNAMULLA, DIRRANBANDI, MITCHELL, ST GEORGE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.727378,
+              -25.290265
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.724982,
+                  -25.290416
+                ],
+                [
+                  152.725929,
+                  -25.290753
+                ],
+                [
+                  152.726062,
+                  -25.290782
+                ],
+                [
+                  152.729074,
+                  -25.291045
+                ],
+                [
+                  152.729135,
+                  -25.291047
+                ],
+                [
+                  152.729605,
+                  -25.291035
+                ],
+                [
+                  152.730083,
+                  -25.290632
+                ],
+                [
+                  152.729707,
+                  -25.290148
+                ],
+                [
+                  152.726737,
+                  -25.289496
+                ],
+                [
+                  152.726604,
+                  -25.289483
+                ],
+                [
+                  152.725887,
+                  -25.289506
+                ],
+                [
+                  152.725873,
+                  -25.289506
+                ],
+                [
+                  152.725132,
+                  -25.289548
+                ],
+                [
+                  152.724674,
+                  -25.289927
+                ],
+                [
+                  152.724982,
+                  -25.290416
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6183",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews on route",
+        "START": "8:07AM 04 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CASTLES RD, CASTLES RD S",
+        "SUBURBS": "CRAIGNISH"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717452600.527264"
+  "extracted": "1717453200.336473"
 }
