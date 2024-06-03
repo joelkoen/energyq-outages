@@ -393,9 +393,78 @@
         "STREETS": "ANDREWS RD, BALL ST, BLUE MOUNTAIN RD, BURGESS LANE, ELVINS RD, HOLMES ST, JOHN TEMPLE DR, PEAK DOWNS HWY, STONY CREEK RD, TREVETHANS RD",
         "SUBURBS": "BLUE MOUNTAIN, ETON, HAZLEDEAN, NEBO"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.727389,
+              -19.257497
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.727086,
+                  -19.257967
+                ],
+                [
+                  146.727631,
+                  -19.257988
+                ],
+                [
+                  146.728123,
+                  -19.257589
+                ],
+                [
+                  146.727742,
+                  -19.257093
+                ],
+                [
+                  146.72728,
+                  -19.257006
+                ],
+                [
+                  146.72688,
+                  -19.257104
+                ],
+                [
+                  146.726798,
+                  -19.25717
+                ],
+                [
+                  146.726655,
+                  -19.257662
+                ],
+                [
+                  146.727086,
+                  -19.257967
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9366",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "1:41PM 03 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "TITANIUM PL",
+        "SUBURBS": "MOUNT ST JOHN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717387500.490319"
+  "extracted": "1717387800.480651"
 }
