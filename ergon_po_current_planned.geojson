@@ -196,6 +196,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.744244,
+          -16.982978
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6021",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "55",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 04 Jun 2024",
+        "EST_FIX_TIME": "12:30PM 04 Jun 2024",
+        "STREETS": "BURNETT ST, DUNDEE CL, FRANGIPANNI ST, PROGRESS RD",
+        "SUBURBS": "WHITE ROCK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.752698,
           -16.904282
         ]
@@ -310,7 +331,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "29",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 04 Jun 2024",
         "EST_FIX_TIME": "10:30AM 04 Jun 2024",
         "STREETS": "DENBEIGH ST, DRAPER ST",
@@ -1055,5 +1076,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717454704.362343"
+  "extracted": "1717455000.413538"
 }
