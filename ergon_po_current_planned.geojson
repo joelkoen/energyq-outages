@@ -226,7 +226,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 04 Jun 2024",
         "EST_FIX_TIME": "2:30PM 04 Jun 2024",
         "STREETS": "BRUCE HWY",
@@ -583,7 +583,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "4",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 04 Jun 2024",
         "EST_FIX_TIME": "3:00PM 04 Jun 2024",
         "STREETS": "BRUCE HWY, MCGILLS RD",
@@ -721,6 +721,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.489085,
+          -20.699039
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8390",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:19AM 04 Jun 2024",
+        "EST_FIX_TIME": "12:00PM 04 Jun 2024",
+        "STREETS": "ABAU ST",
+        "SUBURBS": "SOLDIERS HILL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.752538,
           -21.283911
         ]
@@ -798,6 +819,27 @@
         "EST_FIX_TIME": "2:00PM 04 Jun 2024",
         "STREETS": "ALLENSLEIGH STATION, AMELIA DOWNS, BATTERY STATION, BLUFF DOWNS STATION, BURDEKIN RIVER RD, EMU VALLEY STATION, EUMARA SPRINGS STATION, FLETCHERVALE STATION, GAINSFORD STATION, GREGORY DEVELOPMENTAL RD, HERVEYS RANGE RD, HILLGROVE STATION, KANGERONG STATION, KIRKLAND DOWNS STATION, LANCEWOOD STATION, LAROONA STATION, LASSIE CREEK STATION, LOCHWALL STATION, LYND HWY, MARLOW STATION, MARYVALE STATION, MIRAMBEENA RD, MIRAMBEENA STATION, NEW MOON RD, NEW MOON STATION, NIALL STATION, PAYNES LAGOON STATION, SHRIMP BATTERY, SOMERSET STATION, SOUTHWICK STATION, SOUTHWICK WEST STATION, SPRING PARK STATION, STARBRIGHT STATION, VALPRE STATION, ZIG ZAG STATION",
         "SUBURBS": "BASALT, BLUEWATER SPRINGS, CHARTERS TOWERS, EWAN, FLETCHER CREEK, MINGELA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.155488,
+          -20.112066
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8695",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 04 Jun 2024",
+        "EST_FIX_TIME": "12:00PM 04 Jun 2024",
+        "STREETS": "MOUNT DANGAR RD, MT DANGAR, PETER DELAMOTHE RD",
+        "SUBURBS": "BOWEN"
       }
     },
     {
@@ -919,7 +961,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "34",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 04 Jun 2024",
         "EST_FIX_TIME": "2:30PM 04 Jun 2024",
         "STREETS": "BRAITHWAITES RD, BURNCLUITH HALL RD, BURRA BURRI CREEK RD, D ATKINS RD, LEN MIDDLETON'S RD, MARTIN RD, PELICAN BACK RD, PIT RD, RENNICKS RD, SULLIVANS RD, WIDDONS RD, WONDAI RD",
@@ -1181,5 +1223,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717452901.914138"
+  "extracted": "1717453500.313764"
 }
