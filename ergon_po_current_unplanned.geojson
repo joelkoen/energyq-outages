@@ -462,9 +462,70 @@
         "STREETS": "TITANIUM PL",
         "SUBURBS": "MOUNT ST JOHN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.255014,
+              -20.018353
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.254972,
+                  -20.017821
+                ],
+                [
+                  148.254489,
+                  -20.018158
+                ],
+                [
+                  148.254388,
+                  -20.01879
+                ],
+                [
+                  148.255056,
+                  -20.018886
+                ],
+                [
+                  148.25554,
+                  -20.018549
+                ],
+                [
+                  148.255641,
+                  -20.017917
+                ],
+                [
+                  148.254972,
+                  -20.017821
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9367",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:19PM 03 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "STARBOARD DR",
+        "SUBURBS": "BOWEN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717388103.836332"
+  "extracted": "1717388701.758381"
 }
