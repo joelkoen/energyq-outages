@@ -133,6 +133,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          147.801912,
+          -22.980266
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7018",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:33AM 04 Jun 2024",
+        "EST_FIX_TIME": "1:00PM 04 Jun 2024",
+        "STREETS": "OFF GREGORY HWY",
+        "SUBURBS": "CAPELLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.511888,
           -23.288085
         ]
@@ -294,27 +315,6 @@
         "EST_FIX_TIME": "10:00AM 04 Jun 2024",
         "STREETS": "BROWN ST, ELIZABETH ST, MCARTHUR ST",
         "SUBURBS": "CROYDON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.760967,
-          -16.91838
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN6327",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "29",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "9:00AM 04 Jun 2024",
-        "EST_FIX_TIME": "10:30AM 04 Jun 2024",
-        "STREETS": "DENBEIGH ST, DRAPER ST",
-        "SUBURBS": "PARRAMATTA PARK"
       }
     },
     {
@@ -920,7 +920,7 @@
         "CUSTOMERS_AFFECTED": "29",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
         "STATUS": "Crews working on-site",
-        "START": "9:00AM 04 Jun 2024",
+        "START": "9:17AM 04 Jun 2024",
         "EST_FIX_TIME": "3:00PM 04 Jun 2024",
         "STREETS": "CANECUTTER CT, PIONEER AVE, TAYLOR ST",
         "SUBURBS": "CHILDERS"
@@ -971,5 +971,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717457410.189518"
+  "extracted": "1717458000.308765"
 }
