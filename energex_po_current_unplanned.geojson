@@ -95,6 +95,91 @@
           {
             "type": "Point",
             "coordinates": [
+              153.3797,
+              -28.180303
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.377293,
+                  -28.179056
+                ],
+                [
+                  153.37755,
+                  -28.180229
+                ],
+                [
+                  153.377693,
+                  -28.180465
+                ],
+                [
+                  153.378858,
+                  -28.181479
+                ],
+                [
+                  153.379035,
+                  -28.181579
+                ],
+                [
+                  153.380413,
+                  -28.182041
+                ],
+                [
+                  153.380801,
+                  -28.182031
+                ],
+                [
+                  153.381876,
+                  -28.181606
+                ],
+                [
+                  153.382107,
+                  -28.180964
+                ],
+                [
+                  153.38163,
+                  -28.180249
+                ],
+                [
+                  153.38142,
+                  -28.180075
+                ],
+                [
+                  153.378021,
+                  -28.178566
+                ],
+                [
+                  153.377293,
+                  -28.179056
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-763131-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "4:15PM 03 Jun 2024",
+        "EST_FIX_TIME": "10:30PM 03 Jun 2024",
+        "STREETS": "BRAMLEY DR, PETSCH CREEK RD",
+        "SUBURBS": "TALLEBUDGERA VALLEY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.132265,
               -26.723175
             ]
@@ -280,5 +365,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717410001.21432"
+  "extracted": "1717410301.46895"
 }
