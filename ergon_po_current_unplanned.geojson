@@ -167,6 +167,91 @@
           {
             "type": "Point",
             "coordinates": [
+              145.888239,
+              -17.715798
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.8699,
+                  -17.725451
+                ],
+                [
+                  145.869913,
+                  -17.725811
+                ],
+                [
+                  145.870094,
+                  -17.726151
+                ],
+                [
+                  145.87107,
+                  -17.726884
+                ],
+                [
+                  145.871504,
+                  -17.726959
+                ],
+                [
+                  145.906477,
+                  -17.716286
+                ],
+                [
+                  145.906577,
+                  -17.715468
+                ],
+                [
+                  145.90216,
+                  -17.712917
+                ],
+                [
+                  145.902047,
+                  -17.71287
+                ],
+                [
+                  145.872262,
+                  -17.704638
+                ],
+                [
+                  145.871661,
+                  -17.705035
+                ],
+                [
+                  145.869901,
+                  -17.725397
+                ],
+                [
+                  145.8699,
+                  -17.725451
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6977",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+        "STATUS": "Outage reported",
+        "START": "9:50AM 03 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AZZOPARDI RD, COOYAR RD, KITTABAH RD, SAMMUT RD, WARRAKIN RD",
+        "SUBURBS": "JAPOONVALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.535611,
               -20.346398
             ]
@@ -223,5 +308,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717374300.515922"
+  "extracted": "1717374901.143011"
 }
