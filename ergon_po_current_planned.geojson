@@ -49,6 +49,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.250454,
+          -23.855515
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6100",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:04AM 04 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 04 Jun 2024",
+        "STREETS": "LAVER ST",
+        "SUBURBS": "WEST GLADSTONE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.234063,
           -23.487655
         ]
@@ -268,7 +289,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "31",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 04 Jun 2024",
         "EST_FIX_TIME": "12:30PM 04 Jun 2024",
         "STREETS": "GREENSLOPES ST, LITTLE ST, MACNAMARA ST",
@@ -1024,7 +1045,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "57",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 04 Jun 2024",
         "EST_FIX_TIME": "2:30PM 04 Jun 2024",
         "STREETS": "ALLENBY CT, APPLEBY CL, BAKER FINCH CRES, CHARLES ST, CORFE RD, FAIRWAY DR, NORMAN CT, TIFFIN ST, WEBB CT",
@@ -1108,7 +1129,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "29",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 04 Jun 2024",
         "EST_FIX_TIME": "3:00PM 04 Jun 2024",
         "STREETS": "CANECUTTER CT, PIONEER AVE, TAYLOR ST",
@@ -1181,5 +1202,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717452003.656813"
+  "extracted": "1717452600.527264"
 }
