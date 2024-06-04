@@ -289,8 +289,8 @@
           {
             "type": "Point",
             "coordinates": [
-              146.569001,
-              -19.88968
+              146.473254,
+              -19.804381
             ]
           },
           {
@@ -298,28 +298,36 @@
             "coordinates": [
               [
                 [
-                  146.259811,
-                  -19.708585
+                  146.259833,
+                  -19.708605
                 ],
                 [
-                  146.60361,
-                  -20.05163
+                  146.49258,
+                  -19.913435
                 ],
                 [
-                  146.603896,
-                  -20.051767
+                  146.49302,
+                  -19.913543
                 ],
                 [
-                  146.877745,
-                  -20.084139
+                  146.634999,
+                  -19.880115
                 ],
                 [
-                  146.87819,
-                  -20.083425
+                  146.635106,
+                  -19.880076
                 ],
                 [
-                  146.686622,
-                  -19.834047
+                  146.675258,
+                  -19.859987
+                ],
+                [
+                  146.675475,
+                  -19.859762
+                ],
+                [
+                  146.686676,
+                  -19.834487
                 ],
                 [
                   146.686433,
@@ -346,8 +354,8 @@
                   -19.707831
                 ],
                 [
-                  146.259811,
-                  -19.708585
+                  146.259833,
+                  -19.708605
                 ]
               ]
             ]
@@ -357,12 +365,12 @@
       "properties": {
         "EVENT_ID": "24NQ9406",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "68",
+        "CUSTOMERS_AFFECTED": "43",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
         "STATUS": "Crews working on-site",
         "START": "10:47AM 04 Jun 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "AMITY STATION, BOX FORREST STATION, BURDEKIN DAM RD, BURDEKIN FALLS DAM RD, BURDEKIN ST, COLLOPY STATION, DOTSWOOD RD, DOTSWOOD STATION, FLINDERS HWY, GRASS HUT STATION, HEATHFIELD STATION, HERVEY ST, HIGH ST, KELLY-VALE STATION, KIRKVIEW STATION, MAIDAVALE STATION, MEADOWVALE STATION, MERRIGUM STATION, MINGELA RD, MYRTLEVALE STATION, SOMERVIEW STATION, SPRINGVIEW STATION, SQUARE POST STATION, TOMATO SPRINGS STATION, VIRGINIA PARK STATION",
+        "STREETS": "BOX FORREST STATION, BURDEKIN ST, DOTSWOOD RD, DOTSWOOD STATION, FLINDERS HWY, HERVEY ST, MAIDAVALE STATION, MEADOWVALE STATION, MINGELA RD, MYRTLEVALE STATION, SOMERVIEW STATION, SPRINGVIEW STATION, SQUARE POST STATION, TOMATO SPRINGS STATION, VIRGINIA PARK STATION",
         "SUBURBS": "MINGELA, RAVENSWOOD"
       }
     },
@@ -595,102 +603,9 @@
         "STREETS": "BALONE HWY, BALONNE HWY, CASHEL VALE RD, FERNLEE RD, KULKI RD, MULGA DOWNS RD, MUNDA MUNDA RD, MURRA MURRA RD, RUNNYMEDE RD, TAMBINGEY RD, UNKNOWN RD, WOOLERINA RD",
         "SUBURBS": "BOLLON, CUNNAMULLA, ST GEORGE"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              152.727378,
-              -25.290265
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.724982,
-                  -25.290416
-                ],
-                [
-                  152.725929,
-                  -25.290753
-                ],
-                [
-                  152.726062,
-                  -25.290782
-                ],
-                [
-                  152.729074,
-                  -25.291045
-                ],
-                [
-                  152.729135,
-                  -25.291047
-                ],
-                [
-                  152.729605,
-                  -25.291035
-                ],
-                [
-                  152.730083,
-                  -25.290632
-                ],
-                [
-                  152.729707,
-                  -25.290148
-                ],
-                [
-                  152.726737,
-                  -25.289496
-                ],
-                [
-                  152.726604,
-                  -25.289483
-                ],
-                [
-                  152.725887,
-                  -25.289506
-                ],
-                [
-                  152.725873,
-                  -25.289506
-                ],
-                [
-                  152.725132,
-                  -25.289548
-                ],
-                [
-                  152.724674,
-                  -25.289927
-                ],
-                [
-                  152.724982,
-                  -25.290416
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB6183",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "10",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews working on-site",
-        "START": "8:07AM 04 Jun 2024",
-        "EST_FIX_TIME": "2:00PM 04 Jun 2024",
-        "STREETS": "CASTLES RD, CASTLES RD S",
-        "SUBURBS": "CRAIGNISH"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717473301.49405"
+  "extracted": "1717473900.420059"
 }
