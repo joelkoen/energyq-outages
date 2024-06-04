@@ -94,9 +94,62 @@
         "STREETS": "BREAKNECK RD, COONOONGIBBER CREEK RD, KENILWORTH-BROOLOO RD",
         "SUBURBS": "BROOLOO"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.00185,
+              -27.579454
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.002356,
+                  -27.579454
+                ],
+                [
+                  153.00185,
+                  -27.579002
+                ],
+                [
+                  153.001343,
+                  -27.579454
+                ],
+                [
+                  153.00185,
+                  -27.579905
+                ],
+                [
+                  153.002356,
+                  -27.579454
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-763453-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "9:41AM 05 Jun 2024",
+        "EST_FIX_TIME": "12:00PM 05 Jun 2024",
+        "STREETS": "LOAM ST",
+        "SUBURBS": "ACACIA RIDGE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717544401.180047"
+  "extracted": "1717545000.298759"
 }
