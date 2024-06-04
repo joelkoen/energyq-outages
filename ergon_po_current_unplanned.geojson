@@ -10,6 +10,59 @@
           {
             "type": "Point",
             "coordinates": [
+              150.18838,
+              -22.884211
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.188867,
+                  -22.884201
+                ],
+                [
+                  150.18837,
+                  -22.88376
+                ],
+                [
+                  150.187894,
+                  -22.88422
+                ],
+                [
+                  150.188391,
+                  -22.884662
+                ],
+                [
+                  150.188867,
+                  -22.884201
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7692",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "1:24PM 04 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "OFF BRUCE HWY",
+        "SUBURBS": "KUNWARARA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.032607,
               -18.028015
             ]
@@ -321,6 +374,119 @@
           {
             "type": "Point",
             "coordinates": [
+              151.343043,
+              -27.267685
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.271393,
+                  -27.256122
+                ],
+                [
+                  151.2742,
+                  -27.263097
+                ],
+                [
+                  151.274521,
+                  -27.263373
+                ],
+                [
+                  151.34967,
+                  -27.28484
+                ],
+                [
+                  151.349699,
+                  -27.284848
+                ],
+                [
+                  151.380961,
+                  -27.291957
+                ],
+                [
+                  151.38099,
+                  -27.291963
+                ],
+                [
+                  151.414166,
+                  -27.297642
+                ],
+                [
+                  151.414693,
+                  -27.297431
+                ],
+                [
+                  151.414653,
+                  -27.296917
+                ],
+                [
+                  151.40577,
+                  -27.28707
+                ],
+                [
+                  151.405753,
+                  -27.287052
+                ],
+                [
+                  151.396322,
+                  -27.277654
+                ],
+                [
+                  151.396264,
+                  -27.277605
+                ],
+                [
+                  151.341455,
+                  -27.237824
+                ],
+                [
+                  151.341056,
+                  -27.237729
+                ],
+                [
+                  151.290283,
+                  -27.245116
+                ],
+                [
+                  151.290095,
+                  -27.245179
+                ],
+                [
+                  151.271598,
+                  -27.255589
+                ],
+                [
+                  151.271393,
+                  -27.256122
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9618",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "1:27PM 04 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 04 Jun 2024",
+        "STREETS": "CECIL PLAINS RD, FRITH'S RD, GRIFFITHS RD, NEWTON-STEPHEN RD, NEWTON-STEPHENS RD, PAULL'S RD, WARREGO HWY",
+        "SUBURBS": "BOWENVILLE, CECIL PLAINS, DALBY, ST RUTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               147.259429,
               -28.070908
             ]
@@ -526,5 +692,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717471501.762845"
+  "extracted": "1717471802.670093"
 }
