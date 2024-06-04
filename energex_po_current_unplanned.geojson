@@ -1,8 +1,78 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.095287,
+              -26.480255
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.094063,
+                  -26.480587
+                ],
+                [
+                  153.094968,
+                  -26.481364
+                ],
+                [
+                  153.095752,
+                  -26.481258
+                ],
+                [
+                  153.096511,
+                  -26.480039
+                ],
+                [
+                  153.096289,
+                  -26.479411
+                ],
+                [
+                  153.095672,
+                  -26.479146
+                ],
+                [
+                  153.095155,
+                  -26.479192
+                ],
+                [
+                  153.094108,
+                  -26.4799
+                ],
+                [
+                  153.094063,
+                  -26.480587
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-763285-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "11:05AM 04 Jun 2024",
+        "EST_FIX_TIME": "1:30PM 04 Jun 2024",
+        "STREETS": "DAVID LOW WAY, RUFOUS ST",
+        "SUBURBS": "PEREGIAN BEACH"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717463100.420865"
+  "extracted": "1717463400.286542"
 }
