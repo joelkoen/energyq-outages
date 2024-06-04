@@ -63,6 +63,79 @@
           {
             "type": "Point",
             "coordinates": [
+              148.345443,
+              -22.587901
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.34378,
+                  -22.589016
+                ],
+                [
+                  148.347104,
+                  -22.588799
+                ],
+                [
+                  148.347538,
+                  -22.588471
+                ],
+                [
+                  148.347351,
+                  -22.587981
+                ],
+                [
+                  148.345629,
+                  -22.586845
+                ],
+                [
+                  148.345189,
+                  -22.586787
+                ],
+                [
+                  148.344432,
+                  -22.587028
+                ],
+                [
+                  148.344192,
+                  -22.587195
+                ],
+                [
+                  148.343349,
+                  -22.588306
+                ],
+                [
+                  148.34378,
+                  -22.589016
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7699",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "3:32PM 04 Jun 2024",
+        "EST_FIX_TIME": "4:40PM 04 Jun 2024",
+        "STREETS": "GARNHAM DR, HANNAH CRES",
+        "SUBURBS": "DYSART"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.682076,
               -20.290653
             ]
@@ -162,6 +235,67 @@
         "EST_FIX_TIME": null,
         "STREETS": "ABELL RD, PARKER RD",
         "SUBURBS": "CANNONVALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.713104,
+              -19.357813
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.712949,
+                  -19.356578
+                ],
+                [
+                  146.712337,
+                  -19.358822
+                ],
+                [
+                  146.712678,
+                  -19.359373
+                ],
+                [
+                  146.713259,
+                  -19.359048
+                ],
+                [
+                  146.713871,
+                  -19.356804
+                ],
+                [
+                  146.713529,
+                  -19.356253
+                ],
+                [
+                  146.712949,
+                  -19.356578
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9421",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "3:19PM 04 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALLAMBIE LANE",
+        "SUBURBS": "KELSO"
       }
     },
     {
@@ -284,5 +418,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717478700.429365"
+  "extracted": "1717479300.408835"
 }
