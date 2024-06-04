@@ -86,9 +86,94 @@
         "STREETS": "PARRAMATTA RD",
         "SUBURBS": "UNDERWOOD"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.829125,
+              -26.713325
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.825222,
+                  -26.71263
+                ],
+                [
+                  152.827921,
+                  -26.7147
+                ],
+                [
+                  152.828278,
+                  -26.714808
+                ],
+                [
+                  152.832687,
+                  -26.714568
+                ],
+                [
+                  152.833155,
+                  -26.714171
+                ],
+                [
+                  152.832804,
+                  -26.713686
+                ],
+                [
+                  152.830964,
+                  -26.713179
+                ],
+                [
+                  152.83096,
+                  -26.713178
+                ],
+                [
+                  152.826522,
+                  -26.711984
+                ],
+                [
+                  152.826464,
+                  -26.711972
+                ],
+                [
+                  152.825635,
+                  -26.711842
+                ],
+                [
+                  152.825094,
+                  -26.712095
+                ],
+                [
+                  152.825222,
+                  -26.71263
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-763379-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "9:03PM 04 Jun 2024",
+        "EST_FIX_TIME": "10:30PM 04 Jun 2024",
+        "STREETS": "BERGANNS LANE, MIDDLETON RD, WITTA RD",
+        "SUBURBS": "WITTA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717499100.365626"
+  "extracted": "1717499401.254659"
 }
