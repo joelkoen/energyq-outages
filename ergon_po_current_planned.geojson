@@ -385,6 +385,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          144.52333,
+          -17.154209
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6383",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:10AM 06 Jun 2024",
+        "EST_FIX_TIME": "12:00PM 06 Jun 2024",
+        "STREETS": "QUEEN ST",
+        "SUBURBS": "CHILLAGOE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           144.996545,
           -17.164782
         ]
@@ -436,11 +457,32 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "15",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "10:00AM 06 Jun 2024",
         "EST_FIX_TIME": "1:00PM 06 Jun 2024",
         "STREETS": "LOBAN ST, MILMAN HILL, MILMAN ST, UNKNOWN ST",
         "SUBURBS": "THURSDAY ISLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.510418,
+          -17.657781
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6528",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 06 Jun 2024",
+        "EST_FIX_TIME": "12:30PM 06 Jun 2024",
+        "STREETS": "TULLY FALLS RD",
+        "SUBURBS": "RAVENSHOE, VINE CREEK"
       }
     },
     {
@@ -1066,7 +1108,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "49",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:30AM 06 Jun 2024",
         "EST_FIX_TIME": "2:30PM 06 Jun 2024",
         "STREETS": "AUTUMNVALE RD, BIG CREEK RD, EULO-TOOMPINE RD, GIBEROO RD, HUMEBURN RD, INGEBERRY RD, KIANDRA RD, MULIANA RD, OLD THARGOMINDAH RD, PINKENETTA RD, STANLEY ST, THARGOMINDAH RD, TOBERMORY RD, TOOMPINE RD, WAMBIN RD, WAREO RD",
@@ -1108,7 +1150,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "77",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:30AM 06 Jun 2024",
         "EST_FIX_TIME": "2:00PM 06 Jun 2024",
         "STREETS": "ALDERLEY ST, DRAYTON RD, LYNDALL ST",
@@ -1307,5 +1349,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717629001.160679"
+  "extracted": "1717629601.240639"
 }
