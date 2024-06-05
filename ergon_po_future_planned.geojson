@@ -37,7 +37,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "59",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 06 Jun 2024",
         "EST_FIX_TIME": "2:30PM 06 Jun 2024",
         "STREETS": "COLLIVER RD, GREENUP RD, MCKENZIE RD, O'BRIEN RD, OFF SHELDRAKE RD, SCOTT'S RD, SHELDRAKE RD, SOUTH YAAMBA RD, SPRAGG RD, STEWART PARK RD",
@@ -1549,7 +1549,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "94",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 06 Jun 2024",
         "EST_FIX_TIME": "2:30PM 06 Jun 2024",
         "STREETS": "EDWARD ELGAR CL, ENIGMA CL, HARPER RD, HOEY RD, KELLY RD, NIMROD CL, POMP CL, POSSUM CL, SMITHS TRK, SPEEWAH RD, STONEY CREEK RD, WHIPBIRD CL",
@@ -1780,7 +1780,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "10",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 06 Jun 2024",
         "EST_FIX_TIME": "2:30PM 06 Jun 2024",
         "STREETS": "MAREEBA RD, MULLIGAN HWY, TYE RD",
@@ -2142,6 +2142,27 @@
         "EST_FIX_TIME": "3:00PM 07 Jun 2024",
         "STREETS": "BLUEBIRD DR, BRUCE HWY, CANNON VALLEY RD, GREGORY CANNON VALLEY RD, GREGORY-CANNON VALLEY RD, MOODYS RD, MOUNTNEY RD, TELFORD RD, WINDEMERE DR",
         "SUBURBS": "GREGORY, GREGORY RIVER, STRATHDICKIE, WOREE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.738203,
+          -21.161743
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4215",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 06 Jun 2024",
+        "EST_FIX_TIME": "3:30PM 06 Jun 2024",
+        "STREETS": "L SHEWS RD, MACKAY EUNGELLA RD, SEPTIMUS RD",
+        "SUBURBS": "GARGETT, PINNACLE"
       }
     },
     {
@@ -5257,6 +5278,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.189151,
+          -24.761423
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5820",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 06 Jun 2024",
+        "EST_FIX_TIME": "10:00AM 06 Jun 2024",
+        "STREETS": "BOBBERMANS RD",
+        "SUBURBS": "MOORLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.472824,
           -24.852433
         ]
@@ -5318,5 +5360,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1717625400.377993"
+  "extracted": "1717625701.186157"
 }
