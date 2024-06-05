@@ -243,9 +243,118 @@
         "STREETS": "ABELL RD, PARKER RD",
         "SUBURBS": "CANNONVALE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.769598,
+              -19.266513
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.765738,
+                  -19.265124
+                ],
+                [
+                  146.768652,
+                  -19.269314
+                ],
+                [
+                  146.768917,
+                  -19.269499
+                ],
+                [
+                  146.770107,
+                  -19.269824
+                ],
+                [
+                  146.770218,
+                  -19.269841
+                ],
+                [
+                  146.772034,
+                  -19.269916
+                ],
+                [
+                  146.772038,
+                  -19.269916
+                ],
+                [
+                  146.77304,
+                  -19.269949
+                ],
+                [
+                  146.773459,
+                  -19.269256
+                ],
+                [
+                  146.771857,
+                  -19.266843
+                ],
+                [
+                  146.771817,
+                  -19.266792
+                ],
+                [
+                  146.769059,
+                  -19.263713
+                ],
+                [
+                  146.768887,
+                  -19.263592
+                ],
+                [
+                  146.767645,
+                  -19.263077
+                ],
+                [
+                  146.767138,
+                  -19.263154
+                ],
+                [
+                  146.76664,
+                  -19.263576
+                ],
+                [
+                  146.766588,
+                  -19.263628
+                ],
+                [
+                  146.765766,
+                  -19.26459
+                ],
+                [
+                  146.765738,
+                  -19.265124
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9455",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "30",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:46AM 06 Jun 2024",
+        "EST_FIX_TIME": "3:00PM 06 Jun 2024",
+        "STREETS": "INGHAM RD, LANGTON ST, PILKINGTON ST, WOOLCOCK ST",
+        "SUBURBS": "GARBUTT"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717627200.547268"
+  "extracted": "1717627800.584858"
 }
