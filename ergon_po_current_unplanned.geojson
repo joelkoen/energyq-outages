@@ -10,6 +10,99 @@
           {
             "type": "Point",
             "coordinates": [
+              151.258993,
+              -23.844184
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.253412,
+                  -23.839729
+                ],
+                [
+                  151.261157,
+                  -23.847591
+                ],
+                [
+                  151.261199,
+                  -23.847628
+                ],
+                [
+                  151.261798,
+                  -23.848107
+                ],
+                [
+                  151.261865,
+                  -23.848152
+                ],
+                [
+                  151.263906,
+                  -23.849292
+                ],
+                [
+                  151.264509,
+                  -23.849223
+                ],
+                [
+                  151.264574,
+                  -23.848666
+                ],
+                [
+                  151.263151,
+                  -23.846594
+                ],
+                [
+                  151.263114,
+                  -23.846547
+                ],
+                [
+                  151.261111,
+                  -23.844331
+                ],
+                [
+                  151.261043,
+                  -23.844269
+                ],
+                [
+                  151.254084,
+                  -23.839076
+                ],
+                [
+                  151.253419,
+                  -23.839116
+                ],
+                [
+                  151.253412,
+                  -23.839729
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7736",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "61",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:00PM 05 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AUCKLAND ST, BRAMSTON ST, HERBERT ST, OFF LANE, OFF ST, TANK ST, TOOLOOA ST",
+        "SUBURBS": "GLADSTONE, GLADSTONE CENTRAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.682076,
               -20.290653
             ]
@@ -114,5 +207,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717592402.429623"
+  "extracted": "1717592701.110714"
 }
