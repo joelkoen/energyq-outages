@@ -10,6 +10,107 @@
           {
             "type": "Point",
             "coordinates": [
+              149.794241,
+              -24.479793
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.742271,
+                  -24.468079
+                ],
+                [
+                  149.742841,
+                  -24.471973
+                ],
+                [
+                  149.742851,
+                  -24.472019
+                ],
+                [
+                  149.779838,
+                  -24.611435
+                ],
+                [
+                  149.780489,
+                  -24.611751
+                ],
+                [
+                  149.789606,
+                  -24.60866
+                ],
+                [
+                  149.789735,
+                  -24.608594
+                ],
+                [
+                  149.843834,
+                  -24.570454
+                ],
+                [
+                  149.84402,
+                  -24.570166
+                ],
+                [
+                  149.84621,
+                  -24.557231
+                ],
+                [
+                  149.84621,
+                  -24.55709
+                ],
+                [
+                  149.809767,
+                  -24.348101
+                ],
+                [
+                  149.808955,
+                  -24.347834
+                ],
+                [
+                  149.784918,
+                  -24.367281
+                ],
+                [
+                  149.784784,
+                  -24.367456
+                ],
+                [
+                  149.7423,
+                  -24.467856
+                ],
+                [
+                  149.742271,
+                  -24.468079
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7737",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "6:40AM 06 Jun 2024",
+        "EST_FIX_TIME": "12:00PM 06 Jun 2024",
+        "STREETS": "ALBERTA RD, BEARS LAGOON RD, DAWSON HWY, DENBY RD, OFF DAWSON HWY",
+        "SUBURBS": "BARALABA, MOURA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.682076,
               -20.290653
             ]
@@ -114,5 +215,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717619701.14352"
+  "extracted": "1717620001.272205"
 }
