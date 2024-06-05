@@ -37,7 +37,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "13",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 06 Jun 2024",
         "EST_FIX_TIME": "2:00PM 06 Jun 2024",
         "STREETS": "CATFISH RD, POTTER RD",
@@ -247,7 +247,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 06 Jun 2024",
         "EST_FIX_TIME": "3:00PM 06 Jun 2024",
         "STREETS": "DAWSON RD, UNKNOWN ST",
@@ -679,6 +679,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          149.160296,
+          -21.445154
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4457",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "24",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 06 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 06 Jun 2024",
+        "STREETS": "VENTONS RD, WEST PLANE CREEK RD",
+        "SUBURBS": "SARINA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           149.186526,
           -21.413423
         ]
@@ -840,6 +861,27 @@
         "EST_FIX_TIME": "2:00PM 06 Jun 2024",
         "STREETS": "ARROLLA STATION, BARNSDALE STATION, BEENFIELD STATION, BINDOORAN STATION, CAIWARRA STATION, CAMMERAY STATION, ELROSE STATION, ERNESTINA PLAINS STATION, FLINDERS HWY, FULLERTON RVR, GILLIAT SDNG, GREENWOOD STATION, IVELLEN STATION, LEILAVALE STATION, LEVUKA STATION, LONGFORD STATION, MALVIE DOWNS STATION, MARONAN STATION, OORINDI BORE, OORINDI PARK STATION, RAILWAY STATION, ST ANDREW STATION, STRATHBYRNE STATION, WILLIAMS RIVER STATION, WILLIAMS RVR, WILLIAMS STATION, WYNBERG STATION",
         "SUBURBS": "CLONCURRY, JULIA CREEK, MCKINLAY, OORINDI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.800505,
+          -19.308527
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8689",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "68",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 06 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 06 Jun 2024",
+        "STREETS": "HAZELWOOD CT, KOKODA ST, KULWIN CT, MANERSLEY PL, MAYNESIDE CCT, MURRAY LYONS CRES, STUART DR",
+        "SUBURBS": "ANNANDALE, IDALIA, WULGURU"
       }
     },
     {
@@ -1307,5 +1349,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717627800.584858"
+  "extracted": "1717628100.354383"
 }
