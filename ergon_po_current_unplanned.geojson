@@ -10,8 +10,8 @@
           {
             "type": "Point",
             "coordinates": [
-              150.18838,
-              -22.884211
+              146.009906,
+              -17.887614
             ]
           },
           {
@@ -19,24 +19,40 @@
             "coordinates": [
               [
                 [
-                  150.188867,
-                  -22.884201
+                  146.008155,
+                  -17.887527
                 ],
                 [
-                  150.18837,
-                  -22.88376
+                  146.009709,
+                  -17.888209
                 ],
                 [
-                  150.187894,
-                  -22.88422
+                  146.009812,
+                  -17.888241
                 ],
                 [
-                  150.188391,
-                  -22.884662
+                  146.01135,
+                  -17.888541
                 ],
                 [
-                  150.188867,
-                  -22.884201
+                  146.0119,
+                  -17.888214
+                ],
+                [
+                  146.011593,
+                  -17.887669
+                ],
+                [
+                  146.008501,
+                  -17.886687
+                ],
+                [
+                  146.007913,
+                  -17.88695
+                ],
+                [
+                  146.008155,
+                  -17.887527
                 ]
               ]
             ]
@@ -44,15 +60,15 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "24CA7692",
+        "EVENT_ID": "24FN7074",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Work delayed - crews unable to continue",
-        "START": "1:24PM 04 Jun 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "OFF BRUCE HWY",
-        "SUBURBS": "KUNWARARA"
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:38PM 05 Jun 2024",
+        "EST_FIX_TIME": "5:00PM 05 Jun 2024",
+        "STREETS": "EAST FELUGA RD",
+        "SUBURBS": "EAST FELUGA"
       }
     },
     {
@@ -583,9 +599,74 @@
         "STREETS": "CATHERINE ST, CLARK ST, COMMONWEALTH ST, EAST ST, FISHER ST, GILLAM ST, GRIMES ST, MARSH LANE, MASON ST, NORMAN ST",
         "SUBURBS": "CLIFTON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.054727,
+              -26.482856
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.053807,
+                  -26.48297
+                ],
+                [
+                  152.054139,
+                  -26.483652
+                ],
+                [
+                  152.055038,
+                  -26.483683
+                ],
+                [
+                  152.055647,
+                  -26.482659
+                ],
+                [
+                  152.055578,
+                  -26.482146
+                ],
+                [
+                  152.055018,
+                  -26.482029
+                ],
+                [
+                  152.054077,
+                  -26.482372
+                ],
+                [
+                  152.053807,
+                  -26.48297
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6275",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
+        "STATUS": "Outage reported",
+        "START": "2:25PM 05 Jun 2024",
+        "EST_FIX_TIME": "5:00PM 05 Jun 2024",
+        "STREETS": "BURNETT HWY",
+        "SUBURBS": "NANANGO"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717563001.314067"
+  "extracted": "1717563301.557255"
 }
