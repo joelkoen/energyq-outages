@@ -1,8 +1,110 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.189808,
+              -27.965798
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.187644,
+                  -27.965611
+                ],
+                [
+                  153.188883,
+                  -27.967318
+                ],
+                [
+                  153.189144,
+                  -27.9675
+                ],
+                [
+                  153.189839,
+                  -27.967713
+                ],
+                [
+                  153.189991,
+                  -27.967738
+                ],
+                [
+                  153.191084,
+                  -27.967764
+                ],
+                [
+                  153.191432,
+                  -27.967653
+                ],
+                [
+                  153.191626,
+                  -27.967502
+                ],
+                [
+                  153.191782,
+                  -27.967282
+                ],
+                [
+                  153.192012,
+                  -27.966544
+                ],
+                [
+                  153.191914,
+                  -27.966136
+                ],
+                [
+                  153.190296,
+                  -27.964391
+                ],
+                [
+                  153.190079,
+                  -27.964255
+                ],
+                [
+                  153.188788,
+                  -27.963832
+                ],
+                [
+                  153.188145,
+                  -27.964076
+                ],
+                [
+                  153.187605,
+                  -27.965188
+                ],
+                [
+                  153.187644,
+                  -27.965611
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-763646-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "12:02AM 06 Jun 2024",
+        "EST_FIX_TIME": "2:00AM 06 Jun 2024",
+        "STREETS": "ALPINE TCE",
+        "SUBURBS": "TAMBORINE MOUNTAIN"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717597201.169027"
+  "extracted": "1717597501.275452"
 }
