@@ -79,6 +79,87 @@
           {
             "type": "Point",
             "coordinates": [
+              145.573825,
+              -16.814261
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.57106,
+                  -16.815348
+                ],
+                [
+                  145.576181,
+                  -16.815364
+                ],
+                [
+                  145.576464,
+                  -16.815274
+                ],
+                [
+                  145.577045,
+                  -16.814855
+                ],
+                [
+                  145.577007,
+                  -16.814107
+                ],
+                [
+                  145.575483,
+                  -16.813214
+                ],
+                [
+                  145.575138,
+                  -16.813159
+                ],
+                [
+                  145.572529,
+                  -16.813711
+                ],
+                [
+                  145.572423,
+                  -16.813747
+                ],
+                [
+                  145.570855,
+                  -16.814491
+                ],
+                [
+                  145.570605,
+                  -16.814998
+                ],
+                [
+                  145.57106,
+                  -16.815348
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7092",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "2:10PM 05 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "GREEN FOREST RD",
+        "SUBURBS": "KOWROWA, KURANDA, MYOLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.682076,
               -20.290653
             ]
@@ -357,5 +438,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717567202.144455"
+  "extracted": "1717567801.454273"
 }
