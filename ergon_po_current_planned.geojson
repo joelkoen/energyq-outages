@@ -184,7 +184,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "20",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 07 Jun 2024",
         "EST_FIX_TIME": "1:00PM 07 Jun 2024",
         "STREETS": "COORABELLE RD, CUDDIES RD, LEXTON RD, NORWOOD RD, WURBA RD",
@@ -604,7 +604,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "65",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 07 Jun 2024",
         "EST_FIX_TIME": "2:30PM 07 Jun 2024",
         "STREETS": "BARRAMUNDI CCT, FRIDAY AVE, NORTHSHORE BVD, NYOTA ST, SOLANA CCT, SYNNOVE DR, WRASSE ST",
@@ -961,7 +961,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "29",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 07 Jun 2024",
         "EST_FIX_TIME": "12:30PM 07 Jun 2024",
         "STREETS": "ANGER RD, BACK CREEK RD, BARKER LANE, PIERCES CREEK RD, WOODLEA CT",
@@ -982,7 +982,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "51",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:30AM 07 Jun 2024",
         "EST_FIX_TIME": "2:30PM 07 Jun 2024",
         "STREETS": "ALLENS RD, BOURKES RD, CRUSHER RD, CUNNINGHAM HWY, FREESTONE RD, GLEESONS RD, HAMMOND RD, JENSEN RD, KAYS RD, MCBAINS RD, PERQUINS RD",
@@ -1099,6 +1099,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.472824,
+          -24.852433
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5838",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "150",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 07 Jun 2024",
+        "EST_FIX_TIME": "2:00PM 07 Jun 2024",
+        "STREETS": "CARBEEN ST, FRANCIS PL, GREVILLEA AVE, MAGNOLIA CT, PANDANUS CRES, POINCIANA DR, WOONGARRA SCENIC DR",
+        "SUBURBS": "BARGARA, INNES PARK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.162384,
           -24.883401
         ]
@@ -1139,5 +1160,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717712401.27034"
+  "extracted": "1717712700.529821"
 }
