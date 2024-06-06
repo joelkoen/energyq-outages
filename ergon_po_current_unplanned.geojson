@@ -1,82 +1,8 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.571504,
-              -24.312861
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.564262,
-                  -24.320825
-                ],
-                [
-                  151.568416,
-                  -24.320618
-                ],
-                [
-                  151.568543,
-                  -24.320597
-                ],
-                [
-                  151.570662,
-                  -24.319959
-                ],
-                [
-                  151.570944,
-                  -24.319741
-                ],
-                [
-                  151.579142,
-                  -24.305478
-                ],
-                [
-                  151.578986,
-                  -24.304897
-                ],
-                [
-                  151.578338,
-                  -24.304971
-                ],
-                [
-                  151.563866,
-                  -24.320078
-                ],
-                [
-                  151.564262,
-                  -24.320825
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA7755",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "7",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
-        "START": "3:16PM 06 Jun 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "THORNES RD",
-        "SUBURBS": "MIRIAM VALE"
-      }
-    }
-  ],
+  "features": [],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717659903.070771"
+  "extracted": "1717660201.207411"
 }
