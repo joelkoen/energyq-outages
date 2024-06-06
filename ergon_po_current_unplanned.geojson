@@ -119,6 +119,95 @@
           {
             "type": "Point",
             "coordinates": [
+              148.571073,
+              -20.403749
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.570678,
+                  -20.405499
+                ],
+                [
+                  148.571241,
+                  -20.405446
+                ],
+                [
+                  148.57165,
+                  -20.405131
+                ],
+                [
+                  148.571947,
+                  -20.404236
+                ],
+                [
+                  148.571969,
+                  -20.404108
+                ],
+                [
+                  148.571996,
+                  -20.402431
+                ],
+                [
+                  148.571677,
+                  -20.401999
+                ],
+                [
+                  148.571141,
+                  -20.402144
+                ],
+                [
+                  148.570977,
+                  -20.402339
+                ],
+                [
+                  148.570923,
+                  -20.40242
+                ],
+                [
+                  148.570208,
+                  -20.403795
+                ],
+                [
+                  148.570159,
+                  -20.403991
+                ],
+                [
+                  148.570151,
+                  -20.405047
+                ],
+                [
+                  148.570678,
+                  -20.405499
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4929",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:50PM 06 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANZAC RD, JUPP ST",
+        "SUBURBS": "PROSERPINE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.731606,
               -19.371562
             ]
@@ -348,5 +437,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717641903.110831"
+  "extracted": "1717642201.957676"
 }
