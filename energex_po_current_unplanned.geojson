@@ -1,8 +1,142 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.900829,
+              -26.57621
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.876289,
+                  -26.562656
+                ],
+                [
+                  152.876518,
+                  -26.56527
+                ],
+                [
+                  152.87656,
+                  -26.565419
+                ],
+                [
+                  152.886683,
+                  -26.585784
+                ],
+                [
+                  152.886831,
+                  -26.585955
+                ],
+                [
+                  152.919433,
+                  -26.609009
+                ],
+                [
+                  152.920187,
+                  -26.608865
+                ],
+                [
+                  152.925147,
+                  -26.600399
+                ],
+                [
+                  152.925201,
+                  -26.600243
+                ],
+                [
+                  152.925308,
+                  -26.599438
+                ],
+                [
+                  152.92531,
+                  -26.59942
+                ],
+                [
+                  152.92537,
+                  -26.598733
+                ],
+                [
+                  152.92531,
+                  -26.598481
+                ],
+                [
+                  152.893205,
+                  -26.545719
+                ],
+                [
+                  152.893104,
+                  -26.545603
+                ],
+                [
+                  152.890447,
+                  -26.543411
+                ],
+                [
+                  152.889765,
+                  -26.543414
+                ],
+                [
+                  152.8844,
+                  -26.54794
+                ],
+                [
+                  152.884324,
+                  -26.548022
+                ],
+                [
+                  152.877229,
+                  -26.557744
+                ],
+                [
+                  152.877158,
+                  -26.557898
+                ],
+                [
+                  152.876311,
+                  -26.561474
+                ],
+                [
+                  152.8763,
+                  -26.561564
+                ],
+                [
+                  152.876288,
+                  -26.562616
+                ],
+                [
+                  152.876289,
+                  -26.562656
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-763803-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "194",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "4:11PM 06 Jun 2024",
+        "EST_FIX_TIME": "7:00PM 06 Jun 2024",
+        "STREETS": "ATKINSONS RD, BALKINS RD, BARONGA RD, BUCKBY RD, COOLOOLABIN RD, ENGLISH RD, GAYLARD RD, HILLCREST RD, IMAGE FLAT RD, INTAKE WEIR RD, KIAMBA RD, LONGAN RD, MIRAN RD, PERRY RD, PURLI RD, SCHULTZ RD, UPPER HUTTON RD, YANDINA-COOLOOLABIN RD",
+        "SUBURBS": "COOLOOLABIN, IMAGE FLAT, KIAMBA, KUREELPA, YANDINA"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717654202.337983"
+  "extracted": "1717654506.355885"
 }
