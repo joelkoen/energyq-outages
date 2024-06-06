@@ -784,6 +784,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          147.3602,
+          -19.556806
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8495",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:18AM 07 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 07 Jun 2024",
+        "STREETS": "BOWLING GREEN ST",
+        "SUBURBS": "BRANDON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.238131,
           -20.003387
         ]
@@ -793,7 +814,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "166",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 07 Jun 2024",
         "EST_FIX_TIME": "2:30PM 07 Jun 2024",
         "STREETS": "ALLAN PL, BANKSIA ST, BOWEN HILL, CARLETON ST, DANIEL ST, DARWEN ST, GREGORY ST, HERBERT ST, MCDOUGAL ST, PHILIP ST, RICHMOND RD, SCOTT ST, TYNWALD AVE",
@@ -1244,5 +1265,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717708502.618718"
+  "extracted": "1717708800.534993"
 }
