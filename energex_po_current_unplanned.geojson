@@ -126,9 +126,130 @@
         "STREETS": "ATKINSONS RD, BALKINS RD, BARONGA RD, BUCKBY RD, COOLOOLABIN RD, ENGLISH RD, HILLCREST RD, KIAMBA RD, LONGAN RD, UPPER HUTTON RD, YANDINA-COOLOOLABIN RD",
         "SUBURBS": "COOLOOLABIN, KIAMBA, YANDINA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.092129,
+              -27.224667
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.089476,
+                  -27.22378
+                ],
+                [
+                  153.089672,
+                  -27.224399
+                ],
+                [
+                  153.089942,
+                  -27.224684
+                ],
+                [
+                  153.093018,
+                  -27.225982
+                ],
+                [
+                  153.09302,
+                  -27.225983
+                ],
+                [
+                  153.093654,
+                  -27.226248
+                ],
+                [
+                  153.093998,
+                  -27.226275
+                ],
+                [
+                  153.094426,
+                  -27.226173
+                ],
+                [
+                  153.094799,
+                  -27.225704
+                ],
+                [
+                  153.094687,
+                  -27.224352
+                ],
+                [
+                  153.094347,
+                  -27.223959
+                ],
+                [
+                  153.09264,
+                  -27.223435
+                ],
+                [
+                  153.092564,
+                  -27.223418
+                ],
+                [
+                  153.090749,
+                  -27.223129
+                ],
+                [
+                  153.090348,
+                  -27.223066
+                ],
+                [
+                  153.090245,
+                  -27.223059
+                ],
+                [
+                  153.09007,
+                  -27.223064
+                ],
+                [
+                  153.089872,
+                  -27.223106
+                ],
+                [
+                  153.089758,
+                  -27.223153
+                ],
+                [
+                  153.089469,
+                  -27.223519
+                ],
+                [
+                  153.089459,
+                  -27.223614
+                ],
+                [
+                  153.089476,
+                  -27.22378
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-763817-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "131",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:14PM 06 Jun 2024",
+        "EST_FIX_TIME": "9:00PM 06 Jun 2024",
+        "STREETS": "BEACH ST, DALTON ST",
+        "SUBURBS": "KIPPA-RING"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717661401.437643"
+  "extracted": "1717661702.678017"
 }
