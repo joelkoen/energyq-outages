@@ -1981,6 +1981,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          153.104043,
+          -27.465421
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-762192-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "In Progress",
+        "START": "8:00AM 07 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 07 Jun 2024",
+        "STREETS": "MURARRIE RD",
+        "SUBURBS": "MURARRIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           153.162855,
           -27.450361
         ]
@@ -2189,5 +2210,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1717713300.367145"
+  "extracted": "1717713601.111498"
 }
