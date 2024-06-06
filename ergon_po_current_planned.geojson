@@ -143,7 +143,7 @@
         "CUSTOMERS_AFFECTED": "87",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 07 Jun 2024",
+        "START": "8:40AM 07 Jun 2024",
         "EST_FIX_TIME": "1:30PM 07 Jun 2024",
         "STREETS": "BOWLS ST, FOWLER DR, GEORGINA DR, KERRITH WAY, PALMER DR",
         "SUBURBS": "YEPPOON"
@@ -574,6 +574,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.250566,
+          -20.083068
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8238",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 07 Jun 2024",
+        "EST_FIX_TIME": "3:00PM 07 Jun 2024",
+        "STREETS": "ALABAMA RD, COANE ST, KING ST, PEMBLE LANE",
+        "SUBURBS": "ALABAMA HILL, CHARTERS TOWERS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.248828,
+          -20.082515
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8262",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 07 Jun 2024",
+        "EST_FIX_TIME": "12:00PM 07 Jun 2024",
+        "STREETS": "COANE ST, DUMAN RD, MOREL CT",
+        "SUBURBS": "ALABAMA HILL, CHARTERS TOWERS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           142.376862,
           -21.895614
         ]
@@ -609,6 +651,27 @@
         "EST_FIX_TIME": "2:30PM 07 Jun 2024",
         "STREETS": "ALLAN PL, BANKSIA ST, BOWEN HILL, CARLETON ST, DANIEL ST, DARWEN ST, GREGORY ST, HERBERT ST, MCDOUGAL ST, PHILIP ST, RICHMOND RD, SCOTT ST, TYNWALD AVE",
         "SUBURBS": "BOWEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.288358,
+          -21.262672
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8782",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 07 Jun 2024",
+        "EST_FIX_TIME": "12:00PM 07 Jun 2024",
+        "STREETS": "LANDSBOROUGH HWY, MCKINLAY ST, MIDDLETON ST, POOLE ST, RACECOURSE RES, WYLDE ST",
+        "SUBURBS": "JULIA CREEK, MCKINLAY"
       }
     },
     {
@@ -929,5 +992,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717714802.470352"
+  "extracted": "1717715100.453772"
 }
