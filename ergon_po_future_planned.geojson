@@ -574,6 +574,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.838138,
+          -25.349227
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6985",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "11:04AM 06 Jun 2024",
+        "EST_FIX_TIME": "12:30PM 06 Jun 2024",
+        "STREETS": "ARCADIA VALLEY RD, OFF ARCADIA VALLEY RD",
+        "SUBURBS": "INJUNE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.820169,
           -23.239721
         ]
@@ -1617,27 +1638,6 @@
         "EST_FIX_TIME": "1:00PM 06 Jun 2024",
         "STREETS": "LOBAN ST, MILMAN HILL, MILMAN ST, UNKNOWN ST",
         "SUBURBS": "THURSDAY ISLAND"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.510418,
-          -17.657781
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN6528",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:30AM 06 Jun 2024",
-        "EST_FIX_TIME": "12:30PM 06 Jun 2024",
-        "STREETS": "TULLY FALLS RD",
-        "SUBURBS": "RAVENSHOE, VINE CREEK"
       }
     },
     {
@@ -3325,27 +3325,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.147186,
-          -20.821054
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ8604",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "43",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "9:01AM 06 Jun 2024",
-        "EST_FIX_TIME": "2:00PM 06 Jun 2024",
-        "STREETS": "ARROLLA STATION, BARNSDALE STATION, BEENFIELD STATION, BINDOORAN STATION, CAIWARRA STATION, CAMMERAY STATION, ELROSE STATION, ERNESTINA PLAINS STATION, FLINDERS HWY, FULLERTON RVR, GILLIAT SDNG, GREENWOOD STATION, IVELLEN STATION, LEILAVALE STATION, LEVUKA STATION, LONGFORD STATION, MALVIE DOWNS STATION, MARONAN STATION, OORINDI BORE, OORINDI PARK STATION, RAILWAY STATION, ST ANDREW STATION, STRATHBYRNE STATION, WILLIAMS RIVER STATION, WILLIAMS RVR, WILLIAMS STATION, WYNBERG STATION",
-        "SUBURBS": "CLONCURRY, JULIA CREEK, MCKINLAY, OORINDI"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           146.743371,
           -19.2893
         ]
@@ -3423,27 +3402,6 @@
         "EST_FIX_TIME": "3:00PM 06 Jun 2024",
         "STREETS": "FARRELL DR, GOLF LINKS RD, RIVER RD",
         "SUBURBS": "MACKNADE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.208591,
-          -18.610168
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ8701",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "43",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "9:00AM 06 Jun 2024",
-        "EST_FIX_TIME": "3:00PM 06 Jun 2024",
-        "STREETS": "FORRESTHOME RD, FRACCHIA'S RD, HALIFAX RD",
-        "SUBURBS": "CORDELIA, FORREST HOME"
       }
     },
     {
@@ -4806,7 +4764,7 @@
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
         "START": "8:30AM 06 Jun 2024",
-        "EST_FIX_TIME": "11:00AM 06 Jun 2024",
+        "EST_FIX_TIME": "12:00PM 06 Jun 2024",
         "STREETS": "AGNES CT, COLONEL ROSS CT, HAMILTON DR, LINTON CT, LOATS CT, LYNDALE CT, ROSEYS CT, STRAITS OTLK",
         "SUBURBS": "CRAIGNISH"
       }
@@ -5276,5 +5234,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1717636201.165807"
+  "extracted": "1717636800.439719"
 }
