@@ -126,9 +126,94 @@
         "STREETS": "CONNELL ST, GAY ST, HOGAN ST, JANICE ST, KARINA ST, MARSHALL ST, NAGEL ST, OLD LOGAN RD",
         "SUBURBS": "GAILES"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.956643,
+              -27.008414
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.953225,
+                  -27.006807
+                ],
+                [
+                  152.95815,
+                  -27.011319
+                ],
+                [
+                  152.959004,
+                  -27.011096
+                ],
+                [
+                  152.960062,
+                  -27.00655
+                ],
+                [
+                  152.959689,
+                  -27.00602
+                ],
+                [
+                  152.958668,
+                  -27.005793
+                ],
+                [
+                  152.958651,
+                  -27.00579
+                ],
+                [
+                  152.958201,
+                  -27.005705
+                ],
+                [
+                  152.958131,
+                  -27.005696
+                ],
+                [
+                  152.955048,
+                  -27.005508
+                ],
+                [
+                  152.954819,
+                  -27.005542
+                ],
+                [
+                  152.953391,
+                  -27.006075
+                ],
+                [
+                  152.953225,
+                  -27.006807
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-763683-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "8:47AM 06 Jun 2024",
+        "EST_FIX_TIME": "1:00PM 06 Jun 2024",
+        "STREETS": "BARTHOLOMEW RD",
+        "SUBURBS": "ELIMBAH"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717639500.349877"
+  "extracted": "1717639800.38202"
 }
