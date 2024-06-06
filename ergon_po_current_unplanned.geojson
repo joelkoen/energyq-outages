@@ -10,6 +10,99 @@
           {
             "type": "Point",
             "coordinates": [
+              145.708933,
+              -16.802249
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.706931,
+                  -16.800929
+                ],
+                [
+                  145.70813,
+                  -16.804127
+                ],
+                [
+                  145.708619,
+                  -16.804423
+                ],
+                [
+                  145.710221,
+                  -16.804265
+                ],
+                [
+                  145.710535,
+                  -16.804103
+                ],
+                [
+                  145.710829,
+                  -16.80376
+                ],
+                [
+                  145.710935,
+                  -16.803446
+                ],
+                [
+                  145.710925,
+                  -16.803273
+                ],
+                [
+                  145.710815,
+                  -16.803007
+                ],
+                [
+                  145.710303,
+                  -16.802424
+                ],
+                [
+                  145.710298,
+                  -16.802418
+                ],
+                [
+                  145.708245,
+                  -16.800159
+                ],
+                [
+                  145.70764,
+                  -16.800076
+                ],
+                [
+                  145.707121,
+                  -16.800394
+                ],
+                [
+                  145.706931,
+                  -16.800929
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7111",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "47",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:48AM 06 Jun 2024",
+        "EST_FIX_TIME": "1:00PM 06 Jun 2024",
+        "STREETS": "MARINA QY, RIVERSIDE PDE",
+        "SUBURBS": "TRINITY PARK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.682076,
               -20.290653
             ]
@@ -300,5 +393,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717635603.2683"
+  "extracted": "1717636201.165807"
 }
