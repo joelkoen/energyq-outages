@@ -91,6 +91,99 @@
           {
             "type": "Point",
             "coordinates": [
+              145.993028,
+              -22.353193
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.718851,
+                  -22.478997
+                ],
+                [
+                  145.735348,
+                  -22.541848
+                ],
+                [
+                  145.735914,
+                  -22.542185
+                ],
+                [
+                  145.98109,
+                  -22.49751
+                ],
+                [
+                  145.9812,
+                  -22.497477
+                ],
+                [
+                  146.093298,
+                  -22.449245
+                ],
+                [
+                  146.093361,
+                  -22.449213
+                ],
+                [
+                  146.267027,
+                  -22.342874
+                ],
+                [
+                  146.267205,
+                  -22.342319
+                ],
+                [
+                  146.26362,
+                  -22.334567
+                ],
+                [
+                  146.263461,
+                  -22.334381
+                ],
+                [
+                  146.013964,
+                  -22.164201
+                ],
+                [
+                  146.013311,
+                  -22.164269
+                ],
+                [
+                  145.718957,
+                  -22.478593
+                ],
+                [
+                  145.718851,
+                  -22.478997
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7789",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "18",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:32AM 07 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARAMAC-FLEETWOOD RD, CAPRICORN HWY, THE LAKE RD",
+        "SUBURBS": "ARAMAC, JERICHO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               143.446553,
               -20.771877
             ]
@@ -203,5 +296,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717713003.672486"
+  "extracted": "1717713300.472712"
 }
