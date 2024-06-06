@@ -215,9 +215,78 @@
         "STREETS": "NIMMEL LANE, PACIFIC PDE, TEEMANGUM ST, WAGAWN ST",
         "SUBURBS": "CURRUMBIN, TUGUN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.398351,
+              -28.008451
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.398725,
+                  -28.008982
+                ],
+                [
+                  153.398877,
+                  -28.008712
+                ],
+                [
+                  153.398931,
+                  -28.008495
+                ],
+                [
+                  153.398917,
+                  -28.008129
+                ],
+                [
+                  153.398449,
+                  -28.007694
+                ],
+                [
+                  153.39791,
+                  -28.008058
+                ],
+                [
+                  153.397771,
+                  -28.008694
+                ],
+                [
+                  153.398106,
+                  -28.009207
+                ],
+                [
+                  153.398725,
+                  -28.008982
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-763835-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "9:23PM 06 Jun 2024",
+        "EST_FIX_TIME": "12:00AM 07 Jun 2024",
+        "STREETS": "ASHMORE RD",
+        "SUBURBS": "BUNDALL"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717672801.163651"
+  "extracted": "1717673103.975575"
 }
