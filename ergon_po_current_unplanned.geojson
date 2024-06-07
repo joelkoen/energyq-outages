@@ -86,9 +86,102 @@
         "STREETS": "BRUCE HWY, PRISON RES",
         "SUBURBS": "JULAGO, STUART"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.19874,
+              -19.981862
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.187612,
+                  -19.980824
+                ],
+                [
+                  148.200796,
+                  -19.99087
+                ],
+                [
+                  148.201259,
+                  -19.990943
+                ],
+                [
+                  148.203865,
+                  -19.990048
+                ],
+                [
+                  148.204137,
+                  -19.98981
+                ],
+                [
+                  148.20716,
+                  -19.983543
+                ],
+                [
+                  148.207187,
+                  -19.983472
+                ],
+                [
+                  148.209867,
+                  -19.973915
+                ],
+                [
+                  148.209436,
+                  -19.973348
+                ],
+                [
+                  148.200227,
+                  -19.972781
+                ],
+                [
+                  148.199971,
+                  -19.972833
+                ],
+                [
+                  148.197653,
+                  -19.974003
+                ],
+                [
+                  148.197619,
+                  -19.974022
+                ],
+                [
+                  148.187653,
+                  -19.980093
+                ],
+                [
+                  148.187612,
+                  -19.980824
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9550",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "37",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:38PM 07 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CHEFFINS RD, INVERDON RD, LOWER DON RD, MILLERS LANE, TALOONDA RD, WEEKES RD",
+        "SUBURBS": "BOWEN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717760401.315213"
+  "extracted": "1717760703.026816"
 }
