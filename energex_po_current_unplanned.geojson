@@ -163,9 +163,118 @@
         "STREETS": "BEAUDESERT NERANG RD, MAUDSLAND RD",
         "SUBURBS": "MAUDSLAND, MOUNT NATHAN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.993296,
+              -27.425241
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.989521,
+                  -27.425902
+                ],
+                [
+                  152.990058,
+                  -27.426697
+                ],
+                [
+                  152.990344,
+                  -27.426895
+                ],
+                [
+                  152.993089,
+                  -27.427643
+                ],
+                [
+                  152.993438,
+                  -27.427625
+                ],
+                [
+                  152.995807,
+                  -27.426706
+                ],
+                [
+                  152.995866,
+                  -27.426678
+                ],
+                [
+                  152.996375,
+                  -27.426405
+                ],
+                [
+                  152.996587,
+                  -27.426177
+                ],
+                [
+                  152.99693,
+                  -27.425361
+                ],
+                [
+                  152.996955,
+                  -27.425281
+                ],
+                [
+                  152.99707,
+                  -27.424696
+                ],
+                [
+                  152.996905,
+                  -27.424278
+                ],
+                [
+                  152.996499,
+                  -27.423961
+                ],
+                [
+                  152.996294,
+                  -27.423864
+                ],
+                [
+                  152.991885,
+                  -27.42284
+                ],
+                [
+                  152.991338,
+                  -27.423025
+                ],
+                [
+                  152.989535,
+                  -27.425417
+                ],
+                [
+                  152.989521,
+                  -27.425902
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-764054-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "236",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "6:05PM 07 Jun 2024",
+        "EST_FIX_TIME": "9:00PM 07 Jun 2024",
+        "STREETS": "BOND ST, COLE ST, EDITH ST, GIRTON ST, LLOYD ST, MARNE ST, MOORE ST, STIRLING ST, VERDUN ST, WARDELL ST",
+        "SUBURBS": "ALDERLEY, ENOGGERA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717747501.184807"
+  "extracted": "1717747800.25901"
 }
