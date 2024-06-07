@@ -86,9 +86,78 @@
         "STREETS": "COLLEGE ST, CULLEN AVE W, CURTIN AVE W, HILDA ST, KINGSFORD SMITH DR, THEODORE ST",
         "SUBURBS": "EAGLE FARM, HAMILTON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.274049,
+              -27.96275
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.273171,
+                  -27.960379
+                ],
+                [
+                  153.273918,
+                  -27.965214
+                ],
+                [
+                  153.274478,
+                  -27.965601
+                ],
+                [
+                  153.274928,
+                  -27.965114
+                ],
+                [
+                  153.274504,
+                  -27.960682
+                ],
+                [
+                  153.274411,
+                  -27.960458
+                ],
+                [
+                  153.274088,
+                  -27.960056
+                ],
+                [
+                  153.273487,
+                  -27.959898
+                ],
+                [
+                  153.273171,
+                  -27.960379
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-763993-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "2:01PM 07 Jun 2024",
+        "EST_FIX_TIME": "6:00PM 07 Jun 2024",
+        "STREETS": "BEAUDESERT NERANG RD, MAUDSLAND RD",
+        "SUBURBS": "MAUDSLAND, MOUNT NATHAN"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717744502.8476"
+  "extracted": "1717744800.449794"
 }
