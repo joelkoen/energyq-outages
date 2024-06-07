@@ -10,6 +10,71 @@
           {
             "type": "Point",
             "coordinates": [
+              150.14974,
+              -23.626387
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.148842,
+                  -23.627306
+                ],
+                [
+                  150.150735,
+                  -23.627088
+                ],
+                [
+                  150.151163,
+                  -23.626608
+                ],
+                [
+                  150.1511,
+                  -23.625824
+                ],
+                [
+                  150.150362,
+                  -23.625469
+                ],
+                [
+                  150.148531,
+                  -23.62647
+                ],
+                [
+                  150.148318,
+                  -23.627004
+                ],
+                [
+                  150.148842,
+                  -23.627306
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7868",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:46AM 08 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "SLAUGHTERHOUSE RD",
+        "SUBURBS": "WESTWOOD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.031103,
               -26.416357
             ]
@@ -106,5 +171,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717800901.597006"
+  "extracted": "1717801202.889489"
 }
