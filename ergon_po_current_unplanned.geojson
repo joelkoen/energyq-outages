@@ -86,9 +86,110 @@
         "STREETS": "FLINDERS HWY, KALBOONA STATION, KILLARNEY STATION, MARATHON STATION, MARATHON STH STATION, MORVADA STATION, NINDI STATION, TAMWORTH STATION, THORNHILL STATION",
         "SUBURBS": "HUGHENDEN, STAMFORD"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              149.502896,
+              -27.459247
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.302603,
+                  -27.61909
+                ],
+                [
+                  149.303468,
+                  -27.624123
+                ],
+                [
+                  149.303944,
+                  -27.624506
+                ],
+                [
+                  149.370965,
+                  -27.627354
+                ],
+                [
+                  149.371054,
+                  -27.627351
+                ],
+                [
+                  149.505253,
+                  -27.611835
+                ],
+                [
+                  149.505423,
+                  -27.611788
+                ],
+                [
+                  149.703125,
+                  -27.519299
+                ],
+                [
+                  149.703194,
+                  -27.51854
+                ],
+                [
+                  149.40325,
+                  -27.316673
+                ],
+                [
+                  149.403167,
+                  -27.316628
+                ],
+                [
+                  149.344826,
+                  -27.291139
+                ],
+                [
+                  149.344105,
+                  -27.291476
+                ],
+                [
+                  149.31483,
+                  -27.46354
+                ],
+                [
+                  149.314826,
+                  -27.463576
+                ],
+                [
+                  149.302598,
+                  -27.61899
+                ],
+                [
+                  149.302603,
+                  -27.61909
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9835",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "46",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "11:12AM 07 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "GLENEARN RD, HURST RD, NEW SETTLERS RD, PENFOLDS RD, ROCKY GLEN RD, STUARTS RD, TEELBA RD, TELGAZLIE RD, UNGABILLA RD",
+        "SUBURBS": "COOMRITH, FLINTON, GLENMORGAN, MEANDARRA, SURAT, TEELBA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717722903.109472"
+  "extracted": "1717723200.45794"
 }
