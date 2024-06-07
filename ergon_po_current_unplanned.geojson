@@ -252,9 +252,118 @@
         "STREETS": "GLENEARN RD, HURST RD, NEW SETTLERS RD, PENFOLDS RD, ROCKY GLEN RD, STUARTS RD, TEELBA RD, TELGAZLIE RD, UNGABILLA RD",
         "SUBURBS": "COOMRITH, FLINTON, GLENMORGAN, MEANDARRA, SURAT, TEELBA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.272251,
+              -27.170903
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.270633,
+                  -27.170743
+                ],
+                [
+                  151.271184,
+                  -27.173701
+                ],
+                [
+                  151.271247,
+                  -27.173856
+                ],
+                [
+                  151.271387,
+                  -27.174069
+                ],
+                [
+                  151.272252,
+                  -27.174073
+                ],
+                [
+                  151.272723,
+                  -27.173375
+                ],
+                [
+                  151.272755,
+                  -27.173319
+                ],
+                [
+                  151.273833,
+                  -27.171059
+                ],
+                [
+                  151.273872,
+                  -27.170844
+                ],
+                [
+                  151.273622,
+                  -27.168214
+                ],
+                [
+                  151.273187,
+                  -27.167805
+                ],
+                [
+                  151.272587,
+                  -27.167733
+                ],
+                [
+                  151.272288,
+                  -27.16778
+                ],
+                [
+                  151.271168,
+                  -27.1683
+                ],
+                [
+                  151.2709,
+                  -27.168644
+                ],
+                [
+                  151.270663,
+                  -27.170363
+                ],
+                [
+                  151.270662,
+                  -27.170366
+                ],
+                [
+                  151.270629,
+                  -27.170617
+                ],
+                [
+                  151.270633,
+                  -27.170743
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9849",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "85",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "9:54AM 07 Jun 2024",
+        "EST_FIX_TIME": "2:00PM 07 Jun 2024",
+        "STREETS": "DELMA CT, FALCON ST, KOOKABURRA ST, STURGESS CRES, SWALLOW ST",
+        "SUBURBS": "DALBY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717727700.403889"
+  "extracted": "1717728001.321694"
 }
