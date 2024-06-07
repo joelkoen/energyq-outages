@@ -115,6 +115,91 @@
           {
             "type": "Point",
             "coordinates": [
+              148.235793,
+              -20.00236
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.233939,
+                  -20.002648
+                ],
+                [
+                  148.234043,
+                  -20.003088
+                ],
+                [
+                  148.234289,
+                  -20.003391
+                ],
+                [
+                  148.235619,
+                  -20.004042
+                ],
+                [
+                  148.236096,
+                  -20.004022
+                ],
+                [
+                  148.237137,
+                  -20.003394
+                ],
+                [
+                  148.23735,
+                  -20.003097
+                ],
+                [
+                  148.237648,
+                  -20.001606
+                ],
+                [
+                  148.237395,
+                  -20.001119
+                ],
+                [
+                  148.236476,
+                  -20.000678
+                ],
+                [
+                  148.235953,
+                  -20.000735
+                ],
+                [
+                  148.234099,
+                  -20.002204
+                ],
+                [
+                  148.233939,
+                  -20.002648
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9544",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "53",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:06PM 07 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BANKSIA ST, GREGORY ST, PHILIP ST, RICHMOND RD",
+        "SUBURBS": "BOWEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               149.502896,
               -27.459247
             ]
@@ -211,5 +296,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717742703.080947"
+  "extracted": "1717743001.287806"
 }
