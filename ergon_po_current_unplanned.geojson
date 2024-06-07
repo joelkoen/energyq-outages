@@ -1,8 +1,110 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.031103,
+              -26.416357
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.986859,
+                  -26.440292
+                ],
+                [
+                  152.037269,
+                  -26.486655
+                ],
+                [
+                  152.037437,
+                  -26.486757
+                ],
+                [
+                  152.060954,
+                  -26.495409
+                ],
+                [
+                  152.061549,
+                  -26.495255
+                ],
+                [
+                  152.066031,
+                  -26.489653
+                ],
+                [
+                  152.066123,
+                  -26.489434
+                ],
+                [
+                  152.075442,
+                  -26.40396
+                ],
+                [
+                  152.075409,
+                  -26.403749
+                ],
+                [
+                  152.059164,
+                  -26.367074
+                ],
+                [
+                  152.059151,
+                  -26.367047
+                ],
+                [
+                  152.044892,
+                  -26.340177
+                ],
+                [
+                  152.044766,
+                  -26.340029
+                ],
+                [
+                  152.041234,
+                  -26.337306
+                ],
+                [
+                  152.040457,
+                  -26.337456
+                ],
+                [
+                  151.986764,
+                  -26.439785
+                ],
+                [
+                  151.986859,
+                  -26.440292
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6344",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "76",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:25AM 08 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BARAMBAH RD, BURNETT HWY, GLENMORE RD, KINGS BRIDGE RD, MEMERAMBI BARKERS CREEK RD, MEMERAMBI RD, MEMERAMBI-BARKERS CREEK RD, PLEYSTOW RD, RICKERTS LANE, ROSE RD, SILVER PERCH RD",
+        "SUBURBS": "BARAMBAH, JOHNSTOWN, MOFFATDALE, NANANGO, SANDY RIDGES, WATTLE CAMP, WYALLA"
+      }
+    }
+  ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717788302.037265"
+  "extracted": "1717788616.68949"
 }
