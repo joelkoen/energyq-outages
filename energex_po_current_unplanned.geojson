@@ -130,13 +130,98 @@
         "REASON": "Under Investigation",
         "STATUS": "In Progress",
         "START": "10:31AM 07 Jun 2024",
-        "EST_FIX_TIME": "12:00PM 07 Jun 2024",
+        "EST_FIX_TIME": "1:30PM 07 Jun 2024",
         "STREETS": "KOKODA ST, RAMU ST, WAU RD",
         "SUBURBS": "DARRA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.079055,
+              -27.435938
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.075146,
+                  -27.434609
+                ],
+                [
+                  153.079181,
+                  -27.438968
+                ],
+                [
+                  153.079709,
+                  -27.439115
+                ],
+                [
+                  153.080722,
+                  -27.43886
+                ],
+                [
+                  153.080964,
+                  -27.438724
+                ],
+                [
+                  153.082895,
+                  -27.436773
+                ],
+                [
+                  153.082964,
+                  -27.436264
+                ],
+                [
+                  153.0811,
+                  -27.433097
+                ],
+                [
+                  153.080671,
+                  -27.432855
+                ],
+                [
+                  153.077767,
+                  -27.43276
+                ],
+                [
+                  153.0775,
+                  -27.432818
+                ],
+                [
+                  153.075287,
+                  -27.433929
+                ],
+                [
+                  153.075146,
+                  -27.434609
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-763951-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "46",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:49AM 07 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 07 Jun 2024",
+        "STREETS": "COLLEGE ST, CULLEN AVE W, CURTIN AVE W, HILDA ST, KINGSFORD SMITH DR, THEODORE ST",
+        "SUBURBS": "EAGLE FARM, HAMILTON"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717724701.748348"
+  "extracted": "1717725000.25264"
 }
