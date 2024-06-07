@@ -195,9 +195,102 @@
         "STREETS": "ADINA AVE, BOYD ST, COOLANGATTA RD, DULKARRA AVE, FOCH ST, GEORGE ST, GIBSON ST, GOLDEN FOUR DR, JOHN ST, KIRRIBIN ST, LOONGANA AVE, MATTERS ST, MONASH ST, MORSHEAD ST, PACIFIC PDE, SAND ST, SEA ST, SURF ST, TUGUN ST",
         "SUBURBS": "BILINGA, TUGUN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.384919,
+              -27.060614
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.383277,
+                  -27.063449
+                ],
+                [
+                  152.383628,
+                  -27.06349
+                ],
+                [
+                  152.383729,
+                  -27.063492
+                ],
+                [
+                  152.385744,
+                  -27.063362
+                ],
+                [
+                  152.386158,
+                  -27.063115
+                ],
+                [
+                  152.386641,
+                  -27.062255
+                ],
+                [
+                  152.386691,
+                  -27.062111
+                ],
+                [
+                  152.386993,
+                  -27.06004
+                ],
+                [
+                  152.386997,
+                  -27.059966
+                ],
+                [
+                  152.386921,
+                  -27.058034
+                ],
+                [
+                  152.386055,
+                  -27.057736
+                ],
+                [
+                  152.383334,
+                  -27.060256
+                ],
+                [
+                  152.383196,
+                  -27.060512
+                ],
+                [
+                  152.382842,
+                  -27.062943
+                ],
+                [
+                  152.383277,
+                  -27.063449
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-764007-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "29",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "2:30PM 07 Jun 2024",
+        "EST_FIX_TIME": "6:00PM 07 Jun 2024",
+        "STREETS": "COLINTON ST, IVORY ST, MCCONNEL ST",
+        "SUBURBS": "BRAEMORE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717735200.364293"
+  "extracted": "1717735500.990437"
 }
