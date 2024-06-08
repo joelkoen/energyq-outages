@@ -2989,6 +2989,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          149.156219,
+          -21.172204
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4527",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 09 Jun 2024",
+        "EST_FIX_TIME": "3:00PM 09 Jun 2024",
+        "STREETS": "MAGGIOLO DR",
+        "SUBURBS": "PAGET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           149.068943,
           -21.091916
         ]
@@ -4132,7 +4153,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "12",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 09 Jun 2024",
         "EST_FIX_TIME": "2:30PM 09 Jun 2024",
         "STREETS": "ELQUESTRO WAY, ENTERPRISE ST",
@@ -5455,7 +5476,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "15",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 09 Jun 2024",
         "EST_FIX_TIME": "2:30PM 09 Jun 2024",
         "STREETS": "ACACIA AVE, LOCKE ST",
@@ -5707,7 +5728,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "22",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 09 Jun 2024",
         "EST_FIX_TIME": "2:30PM 09 Jun 2024",
         "STREETS": "BRIGHT ST, BRUCE HWY, KENT ST, KINGSTON DR, WALKER ST",
@@ -6410,5 +6431,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1717884908.241281"
+  "extracted": "1717885201.109385"
 }
