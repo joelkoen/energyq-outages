@@ -1,62 +1,8 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              152.792214,
-              -28.212405
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.792724,
-                  -28.212406
-                ],
-                [
-                  152.792215,
-                  -28.211954
-                ],
-                [
-                  152.791705,
-                  -28.212404
-                ],
-                [
-                  152.792213,
-                  -28.212856
-                ],
-                [
-                  152.792724,
-                  -28.212406
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-764128-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "Emergency Repairs",
-        "STATUS": "Awaiting",
-        "START": "1:57PM 08 Jun 2024",
-        "EST_FIX_TIME": "4:30PM 08 Jun 2024",
-        "STREETS": "BIGRIGGEN RD",
-        "SUBURBS": "BARNEY VIEW"
-      }
-    }
-  ],
+  "features": [],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717820400.237778"
+  "extracted": "1717820701.952737"
 }
