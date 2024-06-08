@@ -1,8 +1,94 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.738096,
+              -27.674191
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.734858,
+                  -27.675193
+                ],
+                [
+                  152.73849,
+                  -27.675054
+                ],
+                [
+                  152.738618,
+                  -27.675035
+                ],
+                [
+                  152.74068,
+                  -27.674468
+                ],
+                [
+                  152.740768,
+                  -27.674435
+                ],
+                [
+                  152.741611,
+                  -27.674037
+                ],
+                [
+                  152.741858,
+                  -27.673506
+                ],
+                [
+                  152.741319,
+                  -27.67319
+                ],
+                [
+                  152.738697,
+                  -27.673441
+                ],
+                [
+                  152.738631,
+                  -27.673452
+                ],
+                [
+                  152.734716,
+                  -27.674303
+                ],
+                [
+                  152.734335,
+                  -27.674805
+                ],
+                [
+                  152.734858,
+                  -27.675193
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-764189-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "9:02AM 09 Jun 2024",
+        "EST_FIX_TIME": "11:30AM 09 Jun 2024",
+        "STREETS": "GOORI RD, SIDDANS RD",
+        "SUBURBS": "PURGA"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717887603.43631"
+  "extracted": "1717887900.345848"
 }

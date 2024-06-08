@@ -339,7 +339,7 @@
         "CUSTOMERS_AFFECTED": "31",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
         "STATUS": "Crews working on-site",
-        "START": "8:00AM 09 Jun 2024",
+        "START": "8:52AM 09 Jun 2024",
         "EST_FIX_TIME": "12:00PM 09 Jun 2024",
         "STREETS": "ACTON STATION, BALD HILLS STATION, BURLEIGH STATION, COALBROOK STATION, DONCASTER STATION, FLINDERS HWY, GRAMPIAN VALLEY STATION, LUCERNE STATION, MAADI STATION, OLGA DOWNS STATION, RANMOOR STATION, RICHMOND DOWNS STATION, ROWEENA STATION, SANDHILLS STATION, SHERWOOD DOWNS STATION, STAWELLTON STATION, TORONTO PARK STATION, TOWRI STATION, WALKERS PARK STATION",
         "SUBURBS": "RICHMOND"
@@ -353,8 +353,8 @@
           {
             "type": "Point",
             "coordinates": [
-              151.771243,
-              -26.127021
+              151.768889,
+              -26.126964
             ]
           },
           {
@@ -378,44 +378,20 @@
                   -26.212299
                 ],
                 [
-                  151.819664,
-                  -26.212436
+                  151.819956,
+                  -26.212323
                 ],
                 [
-                  151.834398,
-                  -26.211357
+                  151.84468,
+                  -26.192431
                 ],
                 [
-                  151.83443,
-                  -26.211354
+                  151.844841,
+                  -26.192027
                 ],
                 [
-                  151.841576,
-                  -26.210419
-                ],
-                [
-                  151.841844,
-                  -26.210303
-                ],
-                [
-                  151.849092,
-                  -26.204207
-                ],
-                [
-                  151.84925,
-                  -26.203895
-                ],
-                [
-                  151.849548,
-                  -26.196959
-                ],
-                [
-                  151.84949,
-                  -26.196731
-                ],
-                [
-                  151.844031,
-                  -26.187425
+                  151.844083,
+                  -26.187567
                 ],
                 [
                   151.844021,
@@ -469,17 +445,110 @@
       "properties": {
         "EVENT_ID": "24WB6357",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "189",
+        "CUSTOMERS_AFFECTED": "171",
         "REASON": "The loss of supply is due to fallen power lines.  ",
         "STATUS": "Crews working on-site",
         "START": "6:12AM 09 Jun 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "BICKS RD, BLACKS CROSSING RD, BRADLEYS RD, BRAND RD, BYEE RD, CAMPBELLS RD, FREEMANS RD, GUEENA LANE, HIVESVILLE RD, LOOP RD, MARSHLANDS RD, MCCONNEL WAY, MONDURE RD, MONDURE WHEATLANDS RD, PADDYS RD, RAMKE RD, RAMKES RD, REIDYS RD, REMINGTONS RD, SCHMIDHAUSER RD, SEMPFS RD, SILVERLEAF RD, STONELANDS RD, WEBBERS BRIDGE RD, WHEATLANDS RD, WILSONS RD, WOOROONDEN RD",
+        "EST_FIX_TIME": "2:00PM 09 Jun 2024",
+        "STREETS": "BICKS RD, BLACKS CROSSING RD, BRADLEYS RD, BRAND RD, CAMPBELLS RD, FREEMANS RD, GUEENA LANE, HIVESVILLE RD, MARSHLANDS RD, MCCONNEL WAY, MONDURE RD, MONDURE WHEATLANDS RD, PADDYS RD, RAMKE RD, RAMKES RD, REIDYS RD, REMINGTONS RD, SCHMIDHAUSER RD, SEMPFS RD, SILVERLEAF RD, STONELANDS RD, WEBBERS BRIDGE RD, WILSONS RD, WOOROONDEN RD",
         "SUBURBS": "BARAMBAH, BYEE, CLOYNA, MARSHLANDS, MONDURE, MURGON, SILVERLEAF, STONELANDS, WHEATLANDS, WOOROONDEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.559897,
+              -25.319845
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.556853,
+                  -25.319936
+                ],
+                [
+                  152.557709,
+                  -25.322827
+                ],
+                [
+                  152.558546,
+                  -25.323019
+                ],
+                [
+                  152.562513,
+                  -25.319208
+                ],
+                [
+                  152.562617,
+                  -25.319057
+                ],
+                [
+                  152.562941,
+                  -25.318272
+                ],
+                [
+                  152.56287,
+                  -25.31784
+                ],
+                [
+                  152.56201,
+                  -25.316823
+                ],
+                [
+                  152.561459,
+                  -25.316671
+                ],
+                [
+                  152.558053,
+                  -25.317718
+                ],
+                [
+                  152.557933,
+                  -25.317772
+                ],
+                [
+                  152.557676,
+                  -25.317931
+                ],
+                [
+                  152.55749,
+                  -25.318146
+                ],
+                [
+                  152.556867,
+                  -25.319662
+                ],
+                [
+                  152.556853,
+                  -25.319936
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6358",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "46",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:48AM 09 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BURRUM ST, JAMES ST, PROSPER ST, STELEY ST, THOMAS ST, WILLIAM ST",
+        "SUBURBS": "HOWARD"
       }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717887301.226119"
+  "extracted": "1717887901.017282"
 }
