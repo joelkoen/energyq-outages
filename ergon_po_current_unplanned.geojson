@@ -103,8 +103,69 @@
           {
             "type": "Point",
             "coordinates": [
-              145.709172,
-              -16.83384
+              139.911653,
+              -18.987101
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  139.927393,
+                  -18.965347
+                ],
+                [
+                  139.895145,
+                  -19.008334
+                ],
+                [
+                  139.895254,
+                  -19.00896
+                ],
+                [
+                  139.895913,
+                  -19.008855
+                ],
+                [
+                  139.928161,
+                  -18.965868
+                ],
+                [
+                  139.928051,
+                  -18.965242
+                ],
+                [
+                  139.927393,
+                  -18.965347
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7195",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 09 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 09 Jun 2024",
+        "STREETS": "UNKNOWN ST",
+        "SUBURBS": "NORMANTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.706954,
+              -16.854155
             ]
           },
           {
@@ -128,108 +189,44 @@
                   -16.858281
                 ],
                 [
-                  145.723288,
-                  -16.857892
+                  145.72329,
+                  -16.857832
                 ],
                 [
-                  145.72774,
-                  -16.812475
+                  145.723187,
+                  -16.855333
                 ],
                 [
-                  145.72774,
-                  -16.812391
+                  145.72316,
+                  -16.8552
                 ],
                 [
-                  145.72772,
-                  -16.812179
+                  145.71797,
+                  -16.841078
                 ],
                 [
-                  145.727717,
-                  -16.812154
+                  145.717358,
+                  -16.840808
                 ],
                 [
-                  145.727391,
-                  -16.810072
+                  145.698346,
+                  -16.847886
                 ],
                 [
-                  145.72735,
-                  -16.809943
+                  145.698167,
+                  -16.848004
                 ],
                 [
-                  145.724901,
-                  -16.805041
+                  145.695128,
+                  -16.85124
                 ],
                 [
-                  145.72486,
-                  -16.804975
+                  145.695025,
+                  -16.85142
                 ],
                 [
-                  145.724098,
-                  -16.803944
-                ],
-                [
-                  145.724097,
-                  -16.803942
-                ],
-                [
-                  145.722851,
-                  -16.802271
-                ],
-                [
-                  145.722824,
-                  -16.802239
-                ],
-                [
-                  145.721921,
-                  -16.801238
-                ],
-                [
-                  145.721902,
-                  -16.801218
-                ],
-                [
-                  145.721774,
-                  -16.801093
-                ],
-                [
-                  145.721609,
-                  -16.800988
-                ],
-                [
-                  145.721024,
-                  -16.80077
-                ],
-                [
-                  145.720928,
-                  -16.800745
-                ],
-                [
-                  145.717207,
-                  -16.800177
-                ],
-                [
-                  145.716981,
-                  -16.800196
-                ],
-                [
-                  145.701024,
-                  -16.805484
-                ],
-                [
-                  145.700894,
-                  -16.805551
-                ],
-                [
-                  145.696671,
-                  -16.808622
-                ],
-                [
-                  145.696487,
-                  -16.808938
-                ],
-                [
-                  145.690604,
-                  -16.866429
+                  145.690619,
+                  -16.86635
                 ],
                 [
                   145.690872,
@@ -243,13 +240,13 @@
       "properties": {
         "EVENT_ID": "24FN7197",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "3102",
+        "CUSTOMERS_AFFECTED": "41",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Crews on route",
         "START": "7:28AM 09 Jun 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "ADAIR ST, ALBION ST, ALLANTON LINK, ALLENDALE CH, ANGOR RD, ANTONETTA CL, ATHERTON ST, BAMFORD CL, BARRATTA CIR, BARRATTA CL, BEST ST, BIRDIE CL, BODEN ST, BROOKVILLE GDNS, BUCKLEY ST, BYERSTOWN LINK, CADDY ST, CAIRNWELL ST, CAPTAIN COOK HWY, CARDROSS LINK, CAROLYN CL, CARRINGTON WAY, CASTLETON ENT, CATHY ST, CATTANA RD, CHANDOS BRCE, CHARLESTON WAY, CHARRINGA LINK, CLINTON ST, CUNNINGHAM ST, DAISY ST, DEAUVILLE CL, DERBY ST, DILLON RD, DOWSETT CL, DUNNE RD, DURHAM VSTA, EAGLE CL, ELUMA MEWS, EVANS ST, EWAN GLEN ST, FAIRWAY ST, FAIRWEATHER ST, FIG TREE DR, FLAGSTONE TCE, FOSSILBROOK BEND, FOXVILLE CCT, GALENA CH, GILBERTON GTE, GOLF ST, GURRUMBAH LINK, HULBERT ST, IMOOYA PL, JANETT ST, JESSIE CL, JOHNSON ST, JOSEPHINE CL, KABAN GR, KAMERUNGA RD, KEMPTON ST, KINGSBOROUGH PASS, KURIDALA TCE, LEES ST, LIONTOWN WAY, MAC PEAK CRES, MARGO ST, MARRABAH AVE, MCGREGOR RD, MONTALBION AVE, MOOJEEBA WAY, MORGAN ST, MUNBURRA PDE, MUNDERRA CL, MUNGANA CCT, MURRINDA GDNS, NANCY ST, NARELLE CL, NEWRY TRL, NORTHCOTE ST, NORWOOD CRES, O'BRIEN RD, OAKVILLE PDE, ORIENT BEND, PAR ST, PAUL CL, QUARTZBOROUGH PROM, RAY ST, REDCAP BEND, REDFORD RD, ROBINSON RD, ROCHFORD WAY, ROCKINGHAM PDE, ROSLYN CL, ROTHESAY BEND, RUTHERFORD ST, SAMUEL ST, SANDRIDGE WAY, SELWYN CCT, SETON ST, SIMS ESP, SMITHFIELD VILLAGE DR, STARCKE TRL, STEWARTS RD, TEE ST, THE AVENUE AVE, THOOLEER VSTA, THORNBOROUGH CCT, TOTLEY CH, VARLEY ST, WALKER RD, WATTLE ST, WHYAMBEEL CH, YARRADEN WAY, YORKEYS KNOB RD, YUMBABULLA GRN",
-        "SUBURBS": "BARRON, CARAVONICA, HOLLOWAYS BEACH, KAMERUNGA, SMITHFIELD, TRINITY PARK, YORKEYS KNOB"
+        "STREETS": "CAPTAIN COOK HWY, DILLON RD, FIG TREE DR, KAMERUNGA RD, REDFORD RD, STEWARTS RD, WALKER RD, YORKEYS KNOB RD",
+        "SUBURBS": "BARRON, CARAVONICA, HOLLOWAYS BEACH, KAMERUNGA, SMITHFIELD, YORKEYS KNOB"
       }
     },
     {
@@ -540,7 +537,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "46",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "8:48AM 09 Jun 2024",
         "EST_FIX_TIME": null,
         "STREETS": "BURRUM ST, JAMES ST, PROSPER ST, STELEY ST, THOMAS ST, WILLIAM ST",
@@ -550,5 +547,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717888201.742978"
+  "extracted": "1717888502.652151"
 }
