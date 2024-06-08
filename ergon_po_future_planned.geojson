@@ -1456,6 +1456,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          142.220788,
+          -9.230828
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6049",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "76",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "12:00PM 08 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 08 Jun 2024",
+        "STREETS": "ARMY ST, DAU ST, UNKNOWN ST",
+        "SUBURBS": "BOIGU ISLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           142.191167,
           -9.952858
         ]
@@ -2016,27 +2037,6 @@
         "EST_FIX_TIME": "2:00PM 11 Jun 2024",
         "STREETS": "BALONNE ST, LANDSBOROUGH ST, MATILDA ST",
         "SUBURBS": "NORMANTON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.194319,
-          -21.165744
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK3309",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "9",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "7:15AM 08 Jun 2024",
-        "EST_FIX_TIME": "4:00PM 08 Jun 2024",
-        "STREETS": "BEVERLEY ST",
-        "SUBURBS": "EAST MACKAY"
       }
     },
     {
@@ -5612,5 +5612,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1717812003.043568"
+  "extracted": "1717812300.798944"
 }
