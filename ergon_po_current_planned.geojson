@@ -121,7 +121,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "101",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:00AM 09 Jun 2024",
         "EST_FIX_TIME": "3:30PM 09 Jun 2024",
         "STREETS": "BATTS ST, BEEZLEY ST, BROWN ST, CAPRICORN HWY, DANIELS ST, GLASSON ST, HICKS ST, MCCOSKER ST, MCKENZIE ST, OFF DANIELS ST",
@@ -315,6 +315,27 @@
         "EST_FIX_TIME": "4:00PM 09 Jun 2024",
         "STREETS": "BARTROP ST, FARQUHAR ST, HARRIS ST",
         "SUBURBS": "BEACONSFIELD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.166426,
+          -21.116067
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4353",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:20AM 09 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 09 Jun 2024",
+        "STREETS": "KARL LANGER CRES",
+        "SUBURBS": "MOUNT PLEASANT"
       }
     },
     {
@@ -908,5 +929,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717881601.375239"
+  "extracted": "1717881901.25528"
 }
