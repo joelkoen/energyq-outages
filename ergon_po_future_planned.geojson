@@ -301,14 +301,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.87307,
+          148.873071,
           -23.582291
         ]
       },
       "properties": {
         "EVENT_ID": "24CA6579",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "77",
+        "CUSTOMERS_AFFECTED": "75",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:30AM 12 Jun 2024",
@@ -3346,6 +3346,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          147.359695,
+          -19.556498
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ5947",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:14AM 09 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 09 Jun 2024",
+        "STREETS": "BOWLING GREEN ST",
+        "SUBURBS": "BRANDON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           147.530879,
           -19.692026
         ]
@@ -3633,6 +3654,27 @@
         "EST_FIX_TIME": "9:30AM 13 Jun 2024",
         "STREETS": "ADRIAN RISE, GRAHAM AVE, GREENVIEW DR, HASTY ST, KNOX CT, SARINA CT",
         "SUBURBS": "MOUNT LOUISA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3566,
+          -19.556714
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8497",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:15AM 09 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 09 Jun 2024",
+        "STREETS": "BOWLING GREEN ST",
+        "SUBURBS": "BRANDON"
       }
     },
     {
@@ -4676,7 +4718,7 @@
       "properties": {
         "EVENT_ID": "24NQ9047",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "122",
+        "CUSTOMERS_AFFECTED": "121",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:00AM 13 Jun 2024",
@@ -5054,7 +5096,7 @@
       "properties": {
         "EVENT_ID": "24SW8900",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "175",
+        "CUSTOMERS_AFFECTED": "174",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:30AM 12 Jun 2024",
@@ -5096,7 +5138,7 @@
       "properties": {
         "EVENT_ID": "24SW8937",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "23",
+        "CUSTOMERS_AFFECTED": "22",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:30AM 11 Jun 2024",
@@ -6431,5 +6473,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1717881303.257655"
+  "extracted": "1717881601.375239"
 }
