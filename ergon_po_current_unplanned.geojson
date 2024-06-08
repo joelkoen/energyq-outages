@@ -110,9 +110,142 @@
         "STREETS": "ALBIONVALE RD, ARAMAC RD, ARAMAC-FLEETWOOD RD, ARAMAC-ILFRACOMBE RD, ARAMAC-MUTTABURRA RD, BARCALDINE-ARAMAC RD, BOOKER ST, BOUNDARY ST, BOWEN DOWNS RD, BRAESIDE RD, BRIDGE ST, BRUFORD ST, BURT ST, CAPRICORN HWY, CORNISH ST, CROSSMOOR RD, DEVON ST, DRURY ST, EASTMERE RD, EDKINS ST, FRANK ST, GOLF CLUB RD, GORDON ST, HAWTHORN RD, HOSPITAL RD, HUGHENDEN-M'BURRA RD, JERICHO-ARAMAC RD, KENSINGTON RD, KERR ST, KINGSTON ST, KLUGH ST, LANDSBOROUGH HWY, LODGE ST, LONGREACH-M'BURRA RD, LORD ST, MARATHON RD, MCAULIFFE ST, MCWHANNELL ST, MORELLA-BERYL RD, MORELLA-MUTTABURRA RD, MUTTABURRA ARAMAC RD, MUTTABURRA RD, MUTTABURRA-PRAIRIE RD, OFF ARAMAC-MUTTABURRA RD, OFF BOWEN DOWNS RD, OFF M'BURRA-H'DEN RD, OFF TORRENS CREEK RD, PINE RD, PORTER ST, POTOSI RD, REEDY CK RD, REEDY CREEK RD, SALTERN CREEK RD, STAGMOUNT RD, SWORD ST, THE LAKE RD, TORRENS CREEK RD, UNKNOWN ST, WILGA ST",
         "SUBURBS": "ARAMAC, BARCALDINE, JERICHO, MUTTABURRA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.771243,
+              -26.127021
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.693005,
+                  -26.092041
+                ],
+                [
+                  151.736012,
+                  -26.13393
+                ],
+                [
+                  151.736018,
+                  -26.133935
+                ],
+                [
+                  151.819264,
+                  -26.212299
+                ],
+                [
+                  151.819664,
+                  -26.212436
+                ],
+                [
+                  151.834398,
+                  -26.211357
+                ],
+                [
+                  151.83443,
+                  -26.211354
+                ],
+                [
+                  151.841576,
+                  -26.210419
+                ],
+                [
+                  151.841844,
+                  -26.210303
+                ],
+                [
+                  151.849092,
+                  -26.204207
+                ],
+                [
+                  151.84925,
+                  -26.203895
+                ],
+                [
+                  151.849548,
+                  -26.196959
+                ],
+                [
+                  151.84949,
+                  -26.196731
+                ],
+                [
+                  151.844031,
+                  -26.187425
+                ],
+                [
+                  151.844021,
+                  -26.187409
+                ],
+                [
+                  151.811208,
+                  -26.136602
+                ],
+                [
+                  151.811202,
+                  -26.136593
+                ],
+                [
+                  151.747223,
+                  -26.042265
+                ],
+                [
+                  151.74682,
+                  -26.04205
+                ],
+                [
+                  151.735715,
+                  -26.041605
+                ],
+                [
+                  151.735614,
+                  -26.041611
+                ],
+                [
+                  151.723434,
+                  -26.043384
+                ],
+                [
+                  151.72308,
+                  -26.043606
+                ],
+                [
+                  151.692938,
+                  -26.091512
+                ],
+                [
+                  151.693005,
+                  -26.092041
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6357",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "189",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:12AM 09 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BICKS RD, BLACKS CROSSING RD, BRADLEYS RD, BRAND RD, BYEE RD, CAMPBELLS RD, FREEMANS RD, GUEENA LANE, HIVESVILLE RD, LOOP RD, MARSHLANDS RD, MCCONNEL WAY, MONDURE RD, MONDURE WHEATLANDS RD, PADDYS RD, RAMKE RD, RAMKES RD, REIDYS RD, REMINGTONS RD, SCHMIDHAUSER RD, SEMPFS RD, SILVERLEAF RD, STONELANDS RD, WEBBERS BRIDGE RD, WHEATLANDS RD, WILSONS RD, WOOROONDEN RD",
+        "SUBURBS": "BARAMBAH, BYEE, CLOYNA, MARSHLANDS, MONDURE, MURGON, SILVERLEAF, STONELANDS, WHEATLANDS, WOOROONDEN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717877703.11012"
+  "extracted": "1717878001.230675"
 }
