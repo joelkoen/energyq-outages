@@ -191,9 +191,118 @@
         "STREETS": "ASHWOOD GR, BARWICK MEWS, BRADFORD ST, BRUCE HWY, CARNARVON CT, COLORADO CT, CRANFIELD CT, DUNDABELLA DR, EDMONTON DR, GEANEY LANE, GEM CT, GOTHAM LOOP, HANK ST, HEATHCOTE CT, HILLVIEW RD, HINTON CT, IDAHO CT, INGHAM RD, INNES DR, JESSICA CT, KANCOONA CRSS, LASHMAR CRES, LAURA CT, LOUIS ST, MARYLAND DR, MERRITT CT, MILLBRAE ST, MONTANA ST, MOUNT JAGGED ST, MURPHY ST, MURRINDINDI WAY, NEWSHOLME AVE, NIGHTJAR ST, OREGON ST, ORILLIA CT, PEARL CT, PERRY CT, REDGATE ST, RICHFIELD CT, SAPPHIRE CT, SILVERWING CT, SOMERTON ST, SUMMERLAND DR, TABER CT, TARRANGO LINK, TIMBERLEA CL, VALERIE LANE, WAGNER ST, WHITBY CT, WOODLAND CT",
         "SUBURBS": "BOHLE, BURDELL, DEERAGUN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.66698,
+              -25.552332
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.664572,
+                  -25.552025
+                ],
+                [
+                  152.664772,
+                  -25.55235
+                ],
+                [
+                  152.664813,
+                  -25.552406
+                ],
+                [
+                  152.665288,
+                  -25.552962
+                ],
+                [
+                  152.66556,
+                  -25.553122
+                ],
+                [
+                  152.667976,
+                  -25.553671
+                ],
+                [
+                  152.668325,
+                  -25.553633
+                ],
+                [
+                  152.66846,
+                  -25.553569
+                ],
+                [
+                  152.668677,
+                  -25.553368
+                ],
+                [
+                  152.669309,
+                  -25.55219
+                ],
+                [
+                  152.669326,
+                  -25.552156
+                ],
+                [
+                  152.669388,
+                  -25.552012
+                ],
+                [
+                  152.66934,
+                  -25.551602
+                ],
+                [
+                  152.669127,
+                  -25.551307
+                ],
+                [
+                  152.668755,
+                  -25.551105
+                ],
+                [
+                  152.667318,
+                  -25.550994
+                ],
+                [
+                  152.66719,
+                  -25.550999
+                ],
+                [
+                  152.664918,
+                  -25.551362
+                ],
+                [
+                  152.664572,
+                  -25.552025
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6351",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "44",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews working on-site",
+        "START": "1:13PM 08 Jun 2024",
+        "EST_FIX_TIME": "1:40PM 08 Jun 2024",
+        "STREETS": "DIANELLA CT, GARDENIA DR, KAURI PL, LAUREL CT, SATINASH CT, TULIPWOOD DR",
+        "SUBURBS": "TINANA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717818901.148762"
+  "extracted": "1717819203.546405"
 }
