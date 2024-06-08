@@ -679,6 +679,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.746234,
+          -23.112399
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7147",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:11AM 09 Jun 2024",
+        "EST_FIX_TIME": "4:30PM 09 Jun 2024",
+        "STREETS": "FOUND ST",
+        "SUBURBS": "MEIKLEVILLE HILL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.640327,
           -23.29948
         ]
@@ -5098,7 +5119,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "58",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 09 Jun 2024",
         "EST_FIX_TIME": "2:30PM 09 Jun 2024",
         "STREETS": "CONSTANCE ST, EDITH ST, MARIAN ST, PINE ST, TULLY ST, UNKNOWN RD",
@@ -5119,7 +5140,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "49",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 09 Jun 2024",
         "EST_FIX_TIME": "2:30PM 09 Jun 2024",
         "STREETS": "DAISY ST, DAWSON ST, EDITH ST, ELEANOR ST, PINE ST",
@@ -5140,7 +5161,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "138",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 09 Jun 2024",
         "EST_FIX_TIME": "2:00PM 09 Jun 2024",
         "STREETS": "ALDERLEY ST, CHILLA ST, FLORENCE ST, FROMALLS ST, GASCONY ST, JUNE CL, MELODY DR, MERINO ST, SYBYL ST, TALBOT ST",
@@ -6389,5 +6410,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1717884600.402117"
+  "extracted": "1717884908.241281"
 }
