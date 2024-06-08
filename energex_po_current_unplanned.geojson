@@ -1,8 +1,74 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.387675,
+              -27.685381
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.387027,
+                  -27.684665
+                ],
+                [
+                  153.387135,
+                  -27.686133
+                ],
+                [
+                  153.387561,
+                  -27.686549
+                ],
+                [
+                  153.387742,
+                  -27.686575
+                ],
+                [
+                  153.388322,
+                  -27.686053
+                ],
+                [
+                  153.388033,
+                  -27.684559
+                ],
+                [
+                  153.387473,
+                  -27.684187
+                ],
+                [
+                  153.387027,
+                  -27.684665
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-764094-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "9:12AM 08 Jun 2024",
+        "EST_FIX_TIME": "11:00AM 08 Jun 2024",
+        "STREETS": "BASKET BEACH RD, POINSETTIA CT",
+        "SUBURBS": "RUSSELL ISLAND"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717804501.225774"
+  "extracted": "1717804803.385165"
 }
