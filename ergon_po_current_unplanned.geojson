@@ -10,6 +10,75 @@
           {
             "type": "Point",
             "coordinates": [
+              139.352064,
+              -25.899348
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  139.3512,
+                  -25.90018
+                ],
+                [
+                  139.352457,
+                  -25.900781
+                ],
+                [
+                  139.353183,
+                  -25.900373
+                ],
+                [
+                  139.353126,
+                  -25.89829
+                ],
+                [
+                  139.352379,
+                  -25.897915
+                ],
+                [
+                  139.351376,
+                  -25.898449
+                ],
+                [
+                  139.35114,
+                  -25.898753
+                ],
+                [
+                  139.350944,
+                  -25.899701
+                ],
+                [
+                  139.3512,
+                  -25.90018
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7877",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "16",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:05PM 08 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ADELAIDE ST, BURT ST, FLORENCE ST",
+        "SUBURBS": "BIRDSVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.673345,
               -19.25608
             ]
@@ -130,5 +199,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717830601.012461"
+  "extracted": "1717830901.606476"
 }
