@@ -99,6 +99,115 @@
           {
             "type": "Point",
             "coordinates": [
+              147.638932,
+              -22.998595
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.580552,
+                  -22.978514
+                ],
+                [
+                  147.613898,
+                  -23.164976
+                ],
+                [
+                  147.614686,
+                  -23.165254
+                ],
+                [
+                  147.671601,
+                  -23.122918
+                ],
+                [
+                  147.671781,
+                  -23.122611
+                ],
+                [
+                  147.695663,
+                  -22.899584
+                ],
+                [
+                  147.695664,
+                  -22.899578
+                ],
+                [
+                  147.697311,
+                  -22.881408
+                ],
+                [
+                  147.697312,
+                  -22.881339
+                ],
+                [
+                  147.694382,
+                  -22.841765
+                ],
+                [
+                  147.694135,
+                  -22.841402
+                ],
+                [
+                  147.675959,
+                  -22.831937
+                ],
+                [
+                  147.67539,
+                  -22.831999
+                ],
+                [
+                  147.605383,
+                  -22.891845
+                ],
+                [
+                  147.605251,
+                  -22.892032
+                ],
+                [
+                  147.602157,
+                  -22.900466
+                ],
+                [
+                  147.602147,
+                  -22.900499
+                ],
+                [
+                  147.58056,
+                  -22.978328
+                ],
+                [
+                  147.580552,
+                  -22.978514
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7876",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "36",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:37PM 08 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANNMORE RD, CLERMONT-RUBYVALE RD, MAKONDA RD, MCDONALD FLAT RD, OFF CLERMONT-R'VAL RD, OFF HERSCHELL ST, RUBYVALE RD, SPOONBILL RD",
+        "SUBURBS": "CLERMONT, THERESA CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.681165,
               -19.255004
             ]
@@ -195,5 +304,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717822200.406133"
+  "extracted": "1717822501.55252"
 }
