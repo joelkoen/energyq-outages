@@ -316,9 +316,110 @@
         "STREETS": "BAKER ST, BENSON ST, BENT ST, BOWEN RD, CAMP ST, CAMPBELL ST, CARMODY ST, CARR ST, CHARTERS TOWERS RD, CLAYTON ST, CROSS ST, FORREST ST, GOLDRING ST, HALLORAN ST, HIRST ST, HODEL ST, HUGHES ST, JAMESON ST, LINDSAY ST, LOWTH ST, MABIN ST, MARKS ST, MCQUEEN ST, MURPHY ST, NORRIS ST, O'CONNOR ST, QUEENS RD, QUINN ST, RICHMOND ST, RIVERVIEW ST, ROBERTS ST, ROSS RIVER RD, SHERRIFF ST, SPRING ST, SWEET ST, THE AVENUE, WATSON ST, WHYTE ST, WINDSOR ST",
         "SUBURBS": "HERMIT PARK, MUNDINGBURRA, MYSTERTON, ROSSLEA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.681165,
+              -19.255004
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.667099,
+                  -19.263584
+                ],
+                [
+                  146.695218,
+                  -19.258794
+                ],
+                [
+                  146.695535,
+                  -19.258594
+                ],
+                [
+                  146.695778,
+                  -19.258234
+                ],
+                [
+                  146.695693,
+                  -19.257653
+                ],
+                [
+                  146.682531,
+                  -19.246515
+                ],
+                [
+                  146.68206,
+                  -19.246425
+                ],
+                [
+                  146.68093,
+                  -19.246794
+                ],
+                [
+                  146.680916,
+                  -19.246799
+                ],
+                [
+                  146.675904,
+                  -19.248606
+                ],
+                [
+                  146.675869,
+                  -19.24862
+                ],
+                [
+                  146.669859,
+                  -19.25132
+                ],
+                [
+                  146.66962,
+                  -19.251563
+                ],
+                [
+                  146.669174,
+                  -19.252636
+                ],
+                [
+                  146.669153,
+                  -19.252697
+                ],
+                [
+                  146.666552,
+                  -19.263034
+                ],
+                [
+                  146.667099,
+                  -19.263584
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9565",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1138",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "1:10PM 08 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ASHWOOD GR, BARWICK MEWS, BRADFORD ST, BRUCE HWY, CARNARVON CT, COLORADO CT, CRANFIELD CT, DUNDABELLA DR, EDMONTON DR, GEANEY LANE, GEM CT, GOTHAM LOOP, HANK ST, HEATHCOTE CT, HILLVIEW RD, HINTON CT, IDAHO CT, INGHAM RD, INNES DR, JESSICA CT, KANCOONA CRSS, LASHMAR CRES, LAURA CT, LOUIS ST, MARYLAND DR, MERRITT CT, MILLBRAE ST, MONTANA ST, MOUNT JAGGED ST, MURPHY ST, MURRINDINDI WAY, NEWSHOLME AVE, NIGHTJAR ST, OREGON ST, ORILLIA CT, PEARL CT, PERRY CT, REDGATE ST, RICHFIELD CT, SAPPHIRE CT, SILVERWING CT, SOMERTON ST, SUMMERLAND DR, TABER CT, TARRANGO LINK, TIMBERLEA CL, VALERIE LANE, WAGNER ST, WHITBY CT, WOODLAND CT",
+        "SUBURBS": "BOHLE, BURDELL, DEERAGUN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717816202.196579"
+  "extracted": "1717816503.903188"
 }
