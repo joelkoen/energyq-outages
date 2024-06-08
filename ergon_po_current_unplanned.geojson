@@ -260,6 +260,99 @@
           {
             "type": "Point",
             "coordinates": [
+              143.359688,
+              -20.415797
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  143.107467,
+                  -20.263286
+                ],
+                [
+                  143.114192,
+                  -20.378376
+                ],
+                [
+                  143.114195,
+                  -20.378406
+                ],
+                [
+                  143.160735,
+                  -20.735099
+                ],
+                [
+                  143.161235,
+                  -20.735494
+                ],
+                [
+                  143.23919,
+                  -20.731723
+                ],
+                [
+                  143.23957,
+                  -20.731515
+                ],
+                [
+                  143.611909,
+                  -20.177571
+                ],
+                [
+                  143.611685,
+                  -20.176913
+                ],
+                [
+                  143.40251,
+                  -20.0961
+                ],
+                [
+                  143.402083,
+                  -20.096131
+                ],
+                [
+                  143.108158,
+                  -20.262269
+                ],
+                [
+                  143.108015,
+                  -20.262394
+                ],
+                [
+                  143.107556,
+                  -20.262999
+                ],
+                [
+                  143.107467,
+                  -20.263286
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9577",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "31",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 09 Jun 2024",
+        "EST_FIX_TIME": "12:00PM 09 Jun 2024",
+        "STREETS": "ACTON STATION, BALD HILLS STATION, BURLEIGH STATION, COALBROOK STATION, DONCASTER STATION, FLINDERS HWY, GRAMPIAN VALLEY STATION, LUCERNE STATION, MAADI STATION, OLGA DOWNS STATION, RANMOOR STATION, RICHMOND DOWNS STATION, ROWEENA STATION, SANDHILLS STATION, SHERWOOD DOWNS STATION, STAWELLTON STATION, TORONTO PARK STATION, TOWRI STATION, WALKERS PARK STATION",
+        "SUBURBS": "RICHMOND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.771243,
               -26.127021
             ]
@@ -388,5 +481,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717887001.296433"
+  "extracted": "1717887301.226119"
 }
