@@ -94,9 +94,142 @@
         "STREETS": "CLERMONT-DYSART RD, CLUEN ACCESS RD, COTHERSTONE-GRENAD RD, DYSART CLERMONT RD, DYSART-MORANBAH RD, GOLDEN MILE RD, HUNTLEY RD, LUXOR RD, OFF DYSART-M'MOUNT RD, OFF PEAK DOWNS HWY, QUEEN ELIZABETH DR, SARAJI RD, UNKNOWN ST",
         "SUBURBS": "CAPELLA, CLERMONT, DYSART"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.761705,
+              -27.449715
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.730243,
+                  -27.477677
+                ],
+                [
+                  151.733148,
+                  -27.490242
+                ],
+                [
+                  151.733191,
+                  -27.490353
+                ],
+                [
+                  151.746234,
+                  -27.513489
+                ],
+                [
+                  151.746482,
+                  -27.513699
+                ],
+                [
+                  151.766743,
+                  -27.521619
+                ],
+                [
+                  151.766746,
+                  -27.52162
+                ],
+                [
+                  151.7791,
+                  -27.526376
+                ],
+                [
+                  151.779263,
+                  -27.526412
+                ],
+                [
+                  151.78457,
+                  -27.526761
+                ],
+                [
+                  151.784917,
+                  -27.526667
+                ],
+                [
+                  151.792974,
+                  -27.521076
+                ],
+                [
+                  151.793168,
+                  -27.520698
+                ],
+                [
+                  151.790974,
+                  -27.482329
+                ],
+                [
+                  151.790971,
+                  -27.482299
+                ],
+                [
+                  151.77693,
+                  -27.375594
+                ],
+                [
+                  151.776665,
+                  -27.375248
+                ],
+                [
+                  151.771207,
+                  -27.372669
+                ],
+                [
+                  151.770563,
+                  -27.372802
+                ],
+                [
+                  151.753096,
+                  -27.394203
+                ],
+                [
+                  151.753014,
+                  -27.39436
+                ],
+                [
+                  151.731718,
+                  -27.47116
+                ],
+                [
+                  151.731714,
+                  -27.471176
+                ],
+                [
+                  151.730243,
+                  -27.477494
+                ],
+                [
+                  151.730243,
+                  -27.477677
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9922",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "114",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "1:53PM 09 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "4AK RD, ANDERSONS RD, BRIMBLECOMBE RD, COSTELLO RD, CROXLEY RD, CUTELLA RD, DORRIES BOUNDARY RD, DORRIES RD, GOWRIE MOUNTAIN SCHOOL RD, GROSS RD, HENNINGSEN RD, KELVINHAUGH RD, KINGSTHORPE SILVERLEIGH RD, OAKEY KELVINHAUGH RD, OAKEY-CUTELLA RD, TELFORD RD, WARREGO HWY, WEEDON RD, WILTHORN KELVINHAUGH RD",
+        "SUBURBS": "BIDDESTON, KELVINHAUGH, KINGS SIDING, KINGSTHORPE, OAKEY, WELLCAMP"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717905301.025059"
+  "extracted": "1717905900.291854"
 }
