@@ -180,67 +180,6 @@
           {
             "type": "Point",
             "coordinates": [
-              148.681207,
-              -20.291355
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  148.681612,
-                  -20.291097
-                ],
-                [
-                  148.681472,
-                  -20.290968
-                ],
-                [
-                  148.680795,
-                  -20.290974
-                ],
-                [
-                  148.680802,
-                  -20.291613
-                ],
-                [
-                  148.680942,
-                  -20.291742
-                ],
-                [
-                  148.681619,
-                  -20.291736
-                ],
-                [
-                  148.681612,
-                  -20.291097
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK4963",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
-        "START": "12:38PM 04 Jun 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "PARKER RD",
-        "SUBURBS": "CANNONVALE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               151.201697,
               -26.40366
             ]
@@ -474,9 +413,70 @@
         "STREETS": "BARAMBAH RD, BOND ST, BURNETT HWY, CABERNET CL, CLOVELY LANE, DUSTY CL, FORK HILL DR, GLENMORE RD, GOSCHNICKS RD, HAAGAR DR, HARDIKER ST, KINGS BRIDGE RD, LEDDY CT, MEDDLETONS RD, MEMERAMBI BARKERS CREEK RD, MEMERAMBI RD, MEMERAMBI-BARKERS CREEK RD, PLEYSTOW RD, REDGATE RD, RICKERTS LANE, RIPPINGALE ST, ROSE RD, SEMPFS AVE, SHIRAZ CT, SILVER PERCH RD, STEINHARDTS RD, TIPPERARY RD, VERDELHO DR, WATERVIEW DR",
         "SUBURBS": "BARAMBAH, JOHNSTOWN, MOFFATDALE, NANANGO, REDGATE, SANDY RIDGES, WATTLE CAMP, WYALLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.907067,
+              -25.563838
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.907643,
+                  -25.563805
+                ],
+                [
+                  151.907311,
+                  -25.563364
+                ],
+                [
+                  151.906621,
+                  -25.563246
+                ],
+                [
+                  151.906491,
+                  -25.563872
+                ],
+                [
+                  151.906823,
+                  -25.564313
+                ],
+                [
+                  151.907513,
+                  -25.564431
+                ],
+                [
+                  151.907643,
+                  -25.563805
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6384",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:12AM 10 Jun 2024",
+        "EST_FIX_TIME": "11:30AM 10 Jun 2024",
+        "STREETS": "DEEP CREEK RD",
+        "SUBURBS": "GOOROOLBA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717974901.458884"
+  "extracted": "1717975200.349901"
 }
