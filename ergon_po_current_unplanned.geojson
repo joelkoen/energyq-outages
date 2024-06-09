@@ -10,99 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              148.212431,
-              -22.585919
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  148.036971,
-                  -22.514191
-                ],
-                [
-                  148.056971,
-                  -22.593047
-                ],
-                [
-                  148.057026,
-                  -22.593174
-                ],
-                [
-                  148.19782,
-                  -22.812955
-                ],
-                [
-                  148.198412,
-                  -22.813146
-                ],
-                [
-                  148.293179,
-                  -22.77964
-                ],
-                [
-                  148.293474,
-                  -22.779342
-                ],
-                [
-                  148.382562,
-                  -22.488614
-                ],
-                [
-                  148.382579,
-                  -22.488527
-                ],
-                [
-                  148.387892,
-                  -22.426286
-                ],
-                [
-                  148.387628,
-                  -22.425848
-                ],
-                [
-                  148.245744,
-                  -22.358693
-                ],
-                [
-                  148.24522,
-                  -22.358743
-                ],
-                [
-                  148.037141,
-                  -22.513735
-                ],
-                [
-                  148.036971,
-                  -22.514191
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA7790",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "49",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "8:20AM 09 Jun 2024",
-        "EST_FIX_TIME": "2:00PM 09 Jun 2024",
-        "STREETS": "CLERMONT-DYSART RD, CLUEN ACCESS RD, COTHERSTONE-GRENAD RD, DYSART CLERMONT RD, DYSART-MORANBAH RD, GOLDEN MILE RD, HUNTLEY RD, LUXOR RD, OFF DYSART-M'MOUNT RD, OFF PEAK DOWNS HWY, QUEEN ELIZABETH DR, SARAJI RD, UNKNOWN ST",
-        "SUBURBS": "CAPELLA, CLERMONT, DYSART"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               150.466235,
               -23.576746
             ]
@@ -362,7 +269,7 @@
         "EVENT_ID": "24SW9922",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "114",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "REASON": "The loss of supply is due to a vehicle accident.",
         "STATUS": "Outage reported",
         "START": "1:53PM 09 Jun 2024",
         "EST_FIX_TIME": null,
@@ -373,5 +280,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717906502.695152"
+  "extracted": "1717906801.209979"
 }
