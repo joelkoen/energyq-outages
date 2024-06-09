@@ -10,6 +10,115 @@
           {
             "type": "Point",
             "coordinates": [
+              152.000216,
+              -28.706411
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.94745,
+                  -28.690819
+                ],
+                [
+                  151.9513,
+                  -28.70762
+                ],
+                [
+                  151.951374,
+                  -28.707779
+                ],
+                [
+                  151.95856,
+                  -28.717349
+                ],
+                [
+                  151.958653,
+                  -28.717442
+                ],
+                [
+                  151.99156,
+                  -28.742355
+                ],
+                [
+                  151.992208,
+                  -28.742368
+                ],
+                [
+                  152.052921,
+                  -28.700311
+                ],
+                [
+                  152.05308,
+                  -28.699791
+                ],
+                [
+                  152.052306,
+                  -28.698075
+                ],
+                [
+                  152.052003,
+                  -28.697817
+                ],
+                [
+                  152.038896,
+                  -28.693702
+                ],
+                [
+                  152.038894,
+                  -28.693701
+                ],
+                [
+                  151.985352,
+                  -28.67705
+                ],
+                [
+                  151.985282,
+                  -28.677033
+                ],
+                [
+                  151.947962,
+                  -28.670455
+                ],
+                [
+                  151.947352,
+                  -28.670898
+                ],
+                [
+                  151.94744,
+                  -28.690732
+                ],
+                [
+                  151.94745,
+                  -28.690819
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9927",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "191",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "1:35AM 10 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BENTINCK LANE, CAMERON RD, DALCOUTH RD, EUKEY RD, GILBARD RD, GILLBARD RD, MAUGERI LANE, MOUNT TULLY RD, NEVILLE LANE, NIELSENS RD, OBRIEN LANE, OSBALDESTON RD, PYRAMIDS RD, ROBERTS RD, SHATTE LANE, SOMMERVILLE LANE, STORM KING DR, SUGARLOAF RD, TEA TREE LANE, VALLAH RD",
+        "SUBURBS": "KYOOMBA, MOUNT TULLY, STANTHORPE, STORM KING, SUGARLOAF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.201697,
               -26.40366
             ]
@@ -122,5 +231,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717947300.516216"
+  "extracted": "1717947600.950251"
 }
