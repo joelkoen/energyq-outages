@@ -180,6 +180,71 @@
           {
             "type": "Point",
             "coordinates": [
+              150.680847,
+              -23.241177
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.680082,
+                  -23.240847
+                ],
+                [
+                  150.680362,
+                  -23.241679
+                ],
+                [
+                  150.680753,
+                  -23.24199
+                ],
+                [
+                  150.681135,
+                  -23.242045
+                ],
+                [
+                  150.681612,
+                  -23.241344
+                ],
+                [
+                  150.68095,
+                  -23.240457
+                ],
+                [
+                  150.680335,
+                  -23.240308
+                ],
+                [
+                  150.680082,
+                  -23.240847
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7891",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "12:51PM 09 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CAMMS RD",
+        "SUBURBS": "CAWARRAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.761705,
               -27.449715
             ]
@@ -308,5 +373,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717906201.568043"
+  "extracted": "1717906502.695152"
 }
