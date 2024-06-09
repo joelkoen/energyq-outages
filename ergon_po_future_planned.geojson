@@ -70,6 +70,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.746298,
+          -23.128835
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA5994",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "18",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "2:00PM 09 Jun 2024",
+        "EST_FIX_TIME": "5:30PM 09 Jun 2024",
+        "STREETS": "JAMES ST, NORMANBY ST",
+        "SUBURBS": "YEPPOON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.251028,
           -23.856826
         ]
@@ -3115,27 +3136,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          147.359695,
-          -19.556498
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ5947",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "5",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "7:14AM 09 Jun 2024",
-        "EST_FIX_TIME": "4:00PM 09 Jun 2024",
-        "STREETS": "BOWLING GREEN ST",
-        "SUBURBS": "BRANDON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           147.530879,
           -19.692026
         ]
@@ -3276,27 +3276,6 @@
         "EST_FIX_TIME": "2:00PM 11 Jun 2024",
         "STREETS": "ADELAIDE ST, BECKER RD, COLEVALE RD, GORDON RD, HAWKINS RD, HILLIER RD, JACKS RD, RIPLEY RD, TOLL RD",
         "SUBURBS": "AYR, BRANDON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.506505,
-          -20.706056
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ7863",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "14",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "1:00PM 09 Jun 2024",
-        "EST_FIX_TIME": "5:00PM 09 Jun 2024",
-        "STREETS": "RAMSAY ST, SCARR ST",
-        "SUBURBS": "CLONCURRY"
       }
     },
     {
@@ -6032,5 +6011,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1717905900.291854"
+  "extracted": "1717906201.568043"
 }
