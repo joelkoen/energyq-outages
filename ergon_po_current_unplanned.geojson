@@ -95,6 +95,91 @@
           {
             "type": "Point",
             "coordinates": [
+              150.678197,
+              -23.192387
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.667668,
+                  -23.178884
+                ],
+                [
+                  150.668214,
+                  -23.186174
+                ],
+                [
+                  150.668218,
+                  -23.186208
+                ],
+                [
+                  150.671277,
+                  -23.205539
+                ],
+                [
+                  150.671711,
+                  -23.205923
+                ],
+                [
+                  150.676441,
+                  -23.206366
+                ],
+                [
+                  150.676782,
+                  -23.206278
+                ],
+                [
+                  150.688547,
+                  -23.198171
+                ],
+                [
+                  150.688726,
+                  -23.197694
+                ],
+                [
+                  150.683913,
+                  -23.18095
+                ],
+                [
+                  150.683517,
+                  -23.18062
+                ],
+                [
+                  150.66823,
+                  -23.178408
+                ],
+                [
+                  150.667668,
+                  -23.178884
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7902",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "32",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:47AM 10 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DAVIS RD, DOBBYS RD, MACKAYS RD, MOUNT WHEELER RD, MULARA RD",
+        "SUBURBS": "BONDOOLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.201697,
               -26.40366
             ]
@@ -300,9 +385,94 @@
         "STREETS": "HODGES RD",
         "SUBURBS": "CORDALBA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.005941,
+              -26.305138
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.003611,
+                  -26.30394
+                ],
+                [
+                  152.003724,
+                  -26.304325
+                ],
+                [
+                  152.003758,
+                  -26.304407
+                ],
+                [
+                  152.005307,
+                  -26.307276
+                ],
+                [
+                  152.006131,
+                  -26.307376
+                ],
+                [
+                  152.008286,
+                  -26.305171
+                ],
+                [
+                  152.008149,
+                  -26.304478
+                ],
+                [
+                  152.005861,
+                  -26.303363
+                ],
+                [
+                  152.005777,
+                  -26.303331
+                ],
+                [
+                  152.004298,
+                  -26.3029
+                ],
+                [
+                  152.003647,
+                  -26.303287
+                ],
+                [
+                  152.003596,
+                  -26.303783
+                ],
+                [
+                  152.003611,
+                  -26.30394
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6379",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "20",
+        "REASON": "The loss of supply is due to a vehicle accident.",
+        "STATUS": "Outage reported",
+        "START": "7:26AM 10 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CABERNET CL, DUSTY CL, FORK HILL DR",
+        "SUBURBS": "MOFFATDALE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717970700.432746"
+  "extracted": "1717971000.858188"
 }

@@ -49,6 +49,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.251028,
+          -23.856826
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6114",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:03AM 10 Jun 2024",
+        "EST_FIX_TIME": "3:30PM 10 Jun 2024",
+        "STREETS": "GARDEN ST, PICNIC ST",
+        "SUBURBS": "WEST GLADSTONE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.253378,
           -23.862305
         ]
@@ -2389,7 +2410,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "43",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 10 Jun 2024",
         "EST_FIX_TIME": "3:00PM 10 Jun 2024",
         "STREETS": "GRIMAS RD, WALKERSTON HOMEBUSH RD, WALKERSTON-HOMEBUSH RD",
@@ -6179,5 +6200,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1717970700.432746"
+  "extracted": "1717971000.858188"
 }
