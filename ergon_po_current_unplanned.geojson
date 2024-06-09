@@ -211,9 +211,110 @@
         "STREETS": "ABERDEEN AVE, ARTHURS LANE, BURRA BURRI CREEK RD, CHINCHILLA-WONDAI RD, HOARES RD, JACKSONS RD, MUNDUBBERA RD, SHELLYTOP RD, STUBBS-ARMSTRONG RD, SWAINS RD, WIELAND RD, WOLTMANNS RD",
         "SUBURBS": "DARR CREEK, DURONG, DURONG SOUTH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.239395,
+              -25.164768
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.188722,
+                  -25.174683
+                ],
+                [
+                  152.192917,
+                  -25.178409
+                ],
+                [
+                  152.19298,
+                  -25.178457
+                ],
+                [
+                  152.210379,
+                  -25.189483
+                ],
+                [
+                  152.210476,
+                  -25.189531
+                ],
+                [
+                  152.212802,
+                  -25.190388
+                ],
+                [
+                  152.213074,
+                  -25.190415
+                ],
+                [
+                  152.289899,
+                  -25.178039
+                ],
+                [
+                  152.290211,
+                  -25.177329
+                ],
+                [
+                  152.284688,
+                  -25.17052
+                ],
+                [
+                  152.284683,
+                  -25.170513
+                ],
+                [
+                  152.25838,
+                  -25.139291
+                ],
+                [
+                  152.257909,
+                  -25.139121
+                ],
+                [
+                  152.193537,
+                  -25.148547
+                ],
+                [
+                  152.193128,
+                  -25.148918
+                ],
+                [
+                  152.188579,
+                  -25.174289
+                ],
+                [
+                  152.188722,
+                  -25.174683
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6370",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "354",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:39AM 10 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRANDS RD, CEMETERY RD, CHILDERS RD, CHRISTENSEN ST, CLAYTONS RD, CORDALBA RD, FARNSFIELD RD, GARDNER ST, GROVE CT, HENRICKSENS RD, HODGES RD, HOLME ST, ICM-CORDALBA RD, IRWINS RD, ISIS CENTRAL MILL RD, ISIS HWY, JENSEN ST, JOHN ST, KELLYS RD, KINGSTON DR, KNOCKROE RD, KURUNDI ST, LEONARD CT, LYNWOOD RD, MCDONALDS RD, MILL RD, NORMAN ST, NORTH ISIS RD, OLD SCHOOL RD, PITT ST, PROMISEDLAND RD, QUEEN ST, REDBANK CT, SWANTONS RD, WARRENERS RD",
+        "SUBURBS": "CHILDERS, CORDALBA, FARNSFIELD, ISIS CENTRAL, NORTH GREGORY, NORTH ISIS"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717965600.560386"
+  "extracted": "1717965901.291479"
 }
