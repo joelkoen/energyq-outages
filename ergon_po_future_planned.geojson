@@ -877,7 +877,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "21",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 10 Jun 2024",
         "EST_FIX_TIME": "1:30PM 10 Jun 2024",
         "STREETS": "BLACKS RD, BURNETT HWY, LOBEGEIERS RD",
@@ -2830,7 +2830,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "37",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 10 Jun 2024",
         "EST_FIX_TIME": "2:00PM 10 Jun 2024",
         "STREETS": "BERGMANS RD, GRAVINOS RD, PEAK DOWNS HWY, STOCKROUTE RD",
@@ -4657,7 +4657,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "54",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 10 Jun 2024",
         "EST_FIX_TIME": "2:30PM 10 Jun 2024",
         "STREETS": "AUBURN RD, B RENNICK'S RD, BRAITHWAITES RD, BURNCLUITH HALL RD, BURNCLUITH RD, BUTTS RD, DICKMANS RD, G TENNYSON'S RD, HANDO'S RD, HOLMES RD, OLD MAN LAGOON RD, PELICAN RD, SURCINGLE RD, TENNYSON'S RD, WONDAI RD",
@@ -5719,6 +5719,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.671127,
+          -25.246362
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5688",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 10 Jun 2024",
+        "EST_FIX_TIME": "5:00PM 10 Jun 2024",
+        "STREETS": "KINGFISHER PDE, LORIKEET AVE, MARK AVE",
+        "SUBURBS": "TOOGOOM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.889214,
           -25.286552
         ]
@@ -6221,5 +6242,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1717971600.416588"
+  "extracted": "1717971900.950438"
 }
