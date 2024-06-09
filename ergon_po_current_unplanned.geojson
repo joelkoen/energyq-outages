@@ -10,6 +10,123 @@
           {
             "type": "Point",
             "coordinates": [
+              151.23219,
+              -23.844283
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.212648,
+                  -23.846845
+                ],
+                [
+                  151.223398,
+                  -23.861516
+                ],
+                [
+                  151.223425,
+                  -23.86155
+                ],
+                [
+                  151.225516,
+                  -23.863904
+                ],
+                [
+                  151.22595,
+                  -23.864067
+                ],
+                [
+                  151.226594,
+                  -23.864
+                ],
+                [
+                  151.226742,
+                  -23.863963
+                ],
+                [
+                  151.228001,
+                  -23.863437
+                ],
+                [
+                  151.228165,
+                  -23.863326
+                ],
+                [
+                  151.251542,
+                  -23.839152
+                ],
+                [
+                  151.251612,
+                  -23.839058
+                ],
+                [
+                  151.251687,
+                  -23.838922
+                ],
+                [
+                  151.251732,
+                  -23.83863
+                ],
+                [
+                  151.250041,
+                  -23.830628
+                ],
+                [
+                  151.249883,
+                  -23.830376
+                ],
+                [
+                  151.242793,
+                  -23.824632
+                ],
+                [
+                  151.242473,
+                  -23.82452
+                ],
+                [
+                  151.239637,
+                  -23.824499
+                ],
+                [
+                  151.239308,
+                  -23.824612
+                ],
+                [
+                  151.212729,
+                  -23.846256
+                ],
+                [
+                  151.212648,
+                  -23.846845
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7896",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "284",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:19PM 09 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALF O'ROURKE DR, BASSETT ST, BENSTED RD, BLAIN DR, BOOWAN CT, BRYAN JORDAN DR, GARFIELD ST, GEORGE MAMALIS PL, HANSON RD, LEO ZUSSINO DR, PORT CURTIS WAY, RED ROVER RD, ROY SWENSON CL, UNMETERED SUPPLY",
+        "SUBURBS": "CALLEMONDAH, CLINTON, GLADSTONE, GLADSTONE CENTRAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.761705,
               -27.449715
             ]
@@ -691,5 +808,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717932000.364769"
+  "extracted": "1717932301.662099"
 }
