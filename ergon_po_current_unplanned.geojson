@@ -143,6 +143,99 @@
           {
             "type": "Point",
             "coordinates": [
+              151.982013,
+              -28.030198
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.978805,
+                  -28.031402
+                ],
+                [
+                  151.979224,
+                  -28.031802
+                ],
+                [
+                  151.979236,
+                  -28.031813
+                ],
+                [
+                  151.980266,
+                  -28.03273
+                ],
+                [
+                  151.980521,
+                  -28.032853
+                ],
+                [
+                  151.982863,
+                  -28.033289
+                ],
+                [
+                  151.98307,
+                  -28.03329
+                ],
+                [
+                  151.984786,
+                  -28.032975
+                ],
+                [
+                  151.985187,
+                  -28.032582
+                ],
+                [
+                  151.98523,
+                  -28.032227
+                ],
+                [
+                  151.985205,
+                  -28.032031
+                ],
+                [
+                  151.983329,
+                  -28.027256
+                ],
+                [
+                  151.98247,
+                  -28.027106
+                ],
+                [
+                  151.978796,
+                  -28.030797
+                ],
+                [
+                  151.978805,
+                  -28.031402
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9924",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "46",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:12PM 09 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALLORA DR, FORDE ST, HERBERT ST, JUBB ST, RAFF ST",
+        "SUBURBS": "ALLORA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.853397,
               -26.30969
             ]
@@ -207,5 +300,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717920902.668429"
+  "extracted": "1717921201.368957"
 }
