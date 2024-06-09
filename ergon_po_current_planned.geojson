@@ -70,6 +70,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.792711,
+          -23.331964
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6921",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:20AM 10 Jun 2024",
+        "EST_FIX_TIME": "1:30PM 10 Jun 2024",
+        "STREETS": "SCHOFIELD PDE",
+        "SUBURBS": "KEPPEL SANDS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.154425,
           -23.522728
         ]
@@ -490,19 +511,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.245491,
-          -20.009045
+          148.246628,
+          -20.006958
         ]
       },
       "properties": {
-        "EVENT_ID": "24NQ8959",
+        "EVENT_ID": "24NQ8960",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
+        "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "7:39AM 10 Jun 2024",
+        "START": "9:21AM 10 Jun 2024",
         "EST_FIX_TIME": "4:00PM 10 Jun 2024",
-        "STREETS": "POOLE ST",
+        "STREETS": "KENNEDY ST",
         "SUBURBS": "BOWEN"
       }
     },
@@ -698,5 +719,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717975200.349901"
+  "extracted": "1717975501.090524"
 }
