@@ -429,9 +429,110 @@
         "STREETS": "ABERDEEN AVE, ARTHURS LANE, BURRA BURRI CREEK RD, CHINCHILLA-WONDAI RD, HOARES RD, JACKSONS RD, MUNDUBBERA RD, SHELLYTOP RD, STUBBS-ARMSTRONG RD, SWAINS RD, WIELAND RD, WOLTMANNS RD",
         "SUBURBS": "DARR CREEK, DURONG, DURONG SOUTH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.901359,
+              -25.294817
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.899144,
+                  -25.296576
+                ],
+                [
+                  152.900554,
+                  -25.297589
+                ],
+                [
+                  152.90115,
+                  -25.297601
+                ],
+                [
+                  152.901448,
+                  -25.297406
+                ],
+                [
+                  152.901591,
+                  -25.29726
+                ],
+                [
+                  152.902661,
+                  -25.29551
+                ],
+                [
+                  152.902671,
+                  -25.295494
+                ],
+                [
+                  152.903656,
+                  -25.293718
+                ],
+                [
+                  152.903701,
+                  -25.293439
+                ],
+                [
+                  152.903526,
+                  -25.29252
+                ],
+                [
+                  152.903288,
+                  -25.292208
+                ],
+                [
+                  152.90305,
+                  -25.292082
+                ],
+                [
+                  152.902687,
+                  -25.292033
+                ],
+                [
+                  152.901437,
+                  -25.292301
+                ],
+                [
+                  152.901117,
+                  -25.292523
+                ],
+                [
+                  152.899017,
+                  -25.296007
+                ],
+                [
+                  152.899144,
+                  -25.296576
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6367",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "126",
+        "REASON": "The loss of supply is due to a vehicle accident.",
+        "STATUS": "Outage reported",
+        "START": "8:31PM 09 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOAT HARBOUR DR, CORDELIA CT, DRUMMOND ST, LIMPUS ST, PULGUL ST",
+        "SUBURBS": "URANGAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717929300.386055"
+  "extracted": "1717929903.520143"
 }
