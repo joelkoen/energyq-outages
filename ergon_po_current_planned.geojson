@@ -310,7 +310,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "14",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "1:00PM 09 Jun 2024",
         "EST_FIX_TIME": "5:00PM 09 Jun 2024",
         "STREETS": "RAMSAY ST, SCARR ST",
@@ -396,6 +396,27 @@
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
         "START": "10:47AM 09 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 09 Jun 2024",
+        "STREETS": "POOLE ST",
+        "SUBURBS": "BOWEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.236175,
+          -20.014967
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8958",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "12:33PM 09 Jun 2024",
         "EST_FIX_TIME": "4:00PM 09 Jun 2024",
         "STREETS": "POOLE ST",
         "SUBURBS": "BOWEN"
@@ -719,5 +740,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717900203.055323"
+  "extracted": "1717900500.375023"
 }
