@@ -10,6 +10,91 @@
           {
             "type": "Point",
             "coordinates": [
+              150.678197,
+              -23.192387
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.667668,
+                  -23.178884
+                ],
+                [
+                  150.668214,
+                  -23.186174
+                ],
+                [
+                  150.668218,
+                  -23.186208
+                ],
+                [
+                  150.671277,
+                  -23.205539
+                ],
+                [
+                  150.671711,
+                  -23.205923
+                ],
+                [
+                  150.676441,
+                  -23.206366
+                ],
+                [
+                  150.676782,
+                  -23.206278
+                ],
+                [
+                  150.688547,
+                  -23.198171
+                ],
+                [
+                  150.688726,
+                  -23.197694
+                ],
+                [
+                  150.683913,
+                  -23.18095
+                ],
+                [
+                  150.683517,
+                  -23.18062
+                ],
+                [
+                  150.66823,
+                  -23.178408
+                ],
+                [
+                  150.667668,
+                  -23.178884
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7899",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "32",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "7:50AM 10 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DAVIS RD, DOBBYS RD, MACKAYS RD, MOUNT WHEELER RD, MULARA RD",
+        "SUBURBS": "BONDOOLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.201697,
               -26.40366
             ]
@@ -127,8 +212,8 @@
           {
             "type": "Point",
             "coordinates": [
-              152.239395,
-              -25.164768
+              152.209154,
+              -25.164026
             ]
           },
           {
@@ -136,72 +221,68 @@
             "coordinates": [
               [
                 [
-                  152.188722,
-                  -25.174683
+                  152.206763,
+                  -25.167064
                 ],
                 [
-                  152.192917,
-                  -25.178409
+                  152.208494,
+                  -25.166535
                 ],
                 [
-                  152.19298,
-                  -25.178457
+                  152.208659,
+                  -25.16645
                 ],
                 [
-                  152.210379,
-                  -25.189483
+                  152.210921,
+                  -25.164688
                 ],
                 [
-                  152.210476,
-                  -25.189531
+                  152.210926,
+                  -25.164683
                 ],
                 [
-                  152.212802,
-                  -25.190388
+                  152.211501,
+                  -25.164221
                 ],
                 [
-                  152.213074,
-                  -25.190415
+                  152.211513,
+                  -25.164212
                 ],
                 [
-                  152.289899,
-                  -25.178039
+                  152.211823,
+                  -25.163947
                 ],
                 [
-                  152.290211,
-                  -25.177329
+                  152.211934,
+                  -25.163806
                 ],
                 [
-                  152.284688,
-                  -25.17052
+                  152.212146,
+                  -25.163385
                 ],
                 [
-                  152.284683,
-                  -25.170513
+                  152.212037,
+                  -25.162872
                 ],
                 [
-                  152.25838,
-                  -25.139291
+                  152.209859,
+                  -25.160988
                 ],
                 [
-                  152.257909,
-                  -25.139121
+                  152.209075,
+                  -25.161113
                 ],
                 [
-                  152.193537,
-                  -25.148547
+                  152.206163,
+                  -25.166436
                 ],
                 [
-                  152.193128,
-                  -25.148918
+                  152.206233,
+                  -25.166933
                 ],
                 [
-                  152.188579,
-                  -25.174289
-                ],
-                [
-                  152.188722,
-                  -25.174683
+                  152.206763,
+                  -25.167064
                 ]
               ]
             ]
@@ -211,17 +292,17 @@
       "properties": {
         "EVENT_ID": "24WB6370",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "354",
+        "CUSTOMERS_AFFECTED": "15",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Outage reported",
         "START": "6:39AM 10 Jun 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "BRANDS RD, CEMETERY RD, CHILDERS RD, CHRISTENSEN ST, CLAYTONS RD, CORDALBA RD, FARNSFIELD RD, GARDNER ST, GROVE CT, HENRICKSENS RD, HODGES RD, HOLME ST, ICM-CORDALBA RD, IRWINS RD, ISIS CENTRAL MILL RD, ISIS HWY, JENSEN ST, JOHN ST, KELLYS RD, KINGSTON DR, KNOCKROE RD, KURUNDI ST, LEONARD CT, LYNWOOD RD, MCDONALDS RD, MILL RD, NORMAN ST, NORTH ISIS RD, OLD SCHOOL RD, PITT ST, PROMISEDLAND RD, QUEEN ST, REDBANK CT, SWANTONS RD, WARRENERS RD",
-        "SUBURBS": "CHILDERS, CORDALBA, FARNSFIELD, ISIS CENTRAL, NORTH GREGORY, NORTH ISIS"
+        "STREETS": "HODGES RD",
+        "SUBURBS": "CORDALBA"
       }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717969502.895381"
+  "extracted": "1717970100.649409"
 }
