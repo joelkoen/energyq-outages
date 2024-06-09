@@ -180,6 +180,67 @@
           {
             "type": "Point",
             "coordinates": [
+              148.681207,
+              -20.291355
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.681612,
+                  -20.291097
+                ],
+                [
+                  148.681472,
+                  -20.290968
+                ],
+                [
+                  148.680795,
+                  -20.290974
+                ],
+                [
+                  148.680802,
+                  -20.291613
+                ],
+                [
+                  148.680942,
+                  -20.291742
+                ],
+                [
+                  148.681619,
+                  -20.291736
+                ],
+                [
+                  148.681612,
+                  -20.291097
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4963",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "12:38PM 04 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "PARKER RD",
+        "SUBURBS": "CANNONVALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.201697,
               -26.40366
             ]
@@ -417,5 +478,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717974601.154634"
+  "extracted": "1717974901.458884"
 }
