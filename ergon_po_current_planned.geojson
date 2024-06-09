@@ -133,6 +133,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.600449,
+          -16.907916
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6367",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "24",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:31AM 09 Jun 2024",
+        "EST_FIX_TIME": "3:30PM 09 Jun 2024",
+        "STREETS": "CEDAR PARK RD, FOREST CL, GANYAN DR",
+        "SUBURBS": "CLOHESY RIVER, SPEEWAH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           142.210374,
           -10.579837
         ]
@@ -147,27 +168,6 @@
         "EST_FIX_TIME": "4:00PM 09 Jun 2024",
         "STREETS": "ABEDNEGO CL, CLARK ST, COOK ESP, DAVID ST, NAZEER ST, OLANDI ST, PILOT ST, PORUMA ST, SAILA TCE, STEPHEN ST",
         "SUBURBS": "QUARANTINE, TAMWOY, THURSDAY ISLAND"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.167117,
-          -21.098
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK4350",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "8",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "7:00AM 09 Jun 2024",
-        "EST_FIX_TIME": "4:00PM 09 Jun 2024",
-        "STREETS": "HARRIS ST",
-        "SUBURBS": "BEACONSFIELD"
       }
     },
     {
@@ -572,5 +572,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717903803.224057"
+  "extracted": "1717904100.330452"
 }

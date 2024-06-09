@@ -1561,6 +1561,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.600449,
+          -16.907916
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6367",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "24",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:31AM 09 Jun 2024",
+        "EST_FIX_TIME": "3:30PM 09 Jun 2024",
+        "STREETS": "CEDAR PARK RD, FOREST CL, GANYAN DR",
+        "SUBURBS": "CLOHESY RIVER, SPEEWAH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.626209,
           -17.344544
         ]
@@ -2373,27 +2394,6 @@
         "EST_FIX_TIME": "3:00PM 10 Jun 2024",
         "STREETS": "GRIMAS RD, WALKERSTON HOMEBUSH RD, WALKERSTON-HOMEBUSH RD",
         "SUBURBS": "HOMEBUSH, PALMYRA, SANDIFORD, WALKERSTON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.167117,
-          -21.098
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK4350",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "8",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "7:00AM 09 Jun 2024",
-        "EST_FIX_TIME": "4:00PM 09 Jun 2024",
-        "STREETS": "HARRIS ST",
-        "SUBURBS": "BEACONSFIELD"
       }
     },
     {
@@ -6137,5 +6137,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1717903803.224057"
+  "extracted": "1717904100.330452"
 }
