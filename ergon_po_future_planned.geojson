@@ -2212,6 +2212,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          149.21063,
+          -21.090456
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4406",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:44AM 11 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 11 Jun 2024",
+        "STREETS": "PRESTON ST",
+        "SUBURBS": "SLADE POINT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           149.190524,
           -21.162996
         ]
@@ -3271,7 +3292,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "139",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 11 Jun 2024",
         "EST_FIX_TIME": "2:30PM 11 Jun 2024",
         "STREETS": "CROSSLAND CT, FARRELL ST, HALL ST, MCBRIDE ST, MILL DR, SHELTON ST",
@@ -5486,5 +5507,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1718055901.585125"
+  "extracted": "1718056200.630038"
 }
