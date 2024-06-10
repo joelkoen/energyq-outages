@@ -1,8 +1,110 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.908779,
+              -26.631294
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.905871,
+                  -26.632281
+                ],
+                [
+                  152.906407,
+                  -26.632702
+                ],
+                [
+                  152.906481,
+                  -26.63275
+                ],
+                [
+                  152.9077,
+                  -26.633401
+                ],
+                [
+                  152.907897,
+                  -26.633461
+                ],
+                [
+                  152.9089,
+                  -26.63357
+                ],
+                [
+                  152.908976,
+                  -26.633573
+                ],
+                [
+                  152.910529,
+                  -26.633528
+                ],
+                [
+                  152.910971,
+                  -26.633264
+                ],
+                [
+                  152.911644,
+                  -26.631934
+                ],
+                [
+                  152.911688,
+                  -26.631714
+                ],
+                [
+                  152.911543,
+                  -26.629899
+                ],
+                [
+                  152.911436,
+                  -26.629652
+                ],
+                [
+                  152.910965,
+                  -26.629114
+                ],
+                [
+                  152.910297,
+                  -26.629015
+                ],
+                [
+                  152.905928,
+                  -26.631562
+                ],
+                [
+                  152.905871,
+                  -26.632281
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-764366-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "20",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "12:16PM 10 Jun 2024",
+        "EST_FIX_TIME": "3:00PM 10 Jun 2024",
+        "STREETS": "DULONG RD, THOMPSON RD, THRUSHS RD",
+        "SUBURBS": "DULONG, PERWILLOWEN"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1717985702.0078"
+  "extracted": "1717986000.500937"
 }
