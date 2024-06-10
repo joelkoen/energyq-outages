@@ -154,6 +154,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.750166,
+          -23.105949
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7171",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:37AM 11 Jun 2024",
+        "EST_FIX_TIME": "4:30PM 11 Jun 2024",
+        "STREETS": "KEAN ST, THE ESPLANADE",
+        "SUBURBS": "YEPPOON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.557812,
           -24.152474
         ]
@@ -952,6 +973,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          143.347406,
+          -25.879091
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8732",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "20",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:30AM 11 Jun 2024",
+        "EST_FIX_TIME": "1:00PM 11 Jun 2024",
+        "STREETS": "DIAMANTINA DEVELOPMENTAL RD, EARLSTOUN RD, HAMMOND DOWNS RD, KEEROONGOOLOO RD, PINKILLA RD, RAY STATION RD, REGLEIGH RD, TRINIDAD RD",
+        "SUBURBS": "QUILPIE, WINDORAH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.726563,
+          -27.538956
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW8879",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 11 Jun 2024",
+        "EST_FIX_TIME": "1:00PM 11 Jun 2024",
+        "STREETS": "OAKEY BIDDESTON RD",
+        "SUBURBS": "BIDDESTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.077851,
           -27.222906
         ]
@@ -1118,5 +1181,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718062503.288298"
+  "extracted": "1718062800.517819"
 }
