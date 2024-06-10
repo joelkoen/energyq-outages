@@ -10,6 +10,79 @@
           {
             "type": "Point",
             "coordinates": [
+              150.30396,
+              -23.149639
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.280065,
+                  -23.157614
+                ],
+                [
+                  150.314646,
+                  -23.155195
+                ],
+                [
+                  150.31496,
+                  -23.155059
+                ],
+                [
+                  150.328221,
+                  -23.142405
+                ],
+                [
+                  150.328283,
+                  -23.14185
+                ],
+                [
+                  150.327714,
+                  -23.141665
+                ],
+                [
+                  150.279892,
+                  -23.156711
+                ],
+                [
+                  150.279658,
+                  -23.156868
+                ],
+                [
+                  150.279637,
+                  -23.156894
+                ],
+                [
+                  150.280065,
+                  -23.157614
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7932",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:55PM 10 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "SALMON RD, SOUTH YAAMBA RD",
+        "SUBURBS": "RIDGELANDS, SOUTH YAAMBA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.955095,
               -17.51951
             ]
@@ -215,5 +288,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718017500.348593"
+  "extracted": "1718017801.187804"
 }
