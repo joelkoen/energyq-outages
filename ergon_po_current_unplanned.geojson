@@ -10,6 +10,115 @@
           {
             "type": "Point",
             "coordinates": [
+              145.955095,
+              -17.51951
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.943214,
+                  -17.525114
+                ],
+                [
+                  145.943262,
+                  -17.52527
+                ],
+                [
+                  145.943546,
+                  -17.525564
+                ],
+                [
+                  145.952623,
+                  -17.528883
+                ],
+                [
+                  145.952994,
+                  -17.528869
+                ],
+                [
+                  145.958334,
+                  -17.52642
+                ],
+                [
+                  145.958431,
+                  -17.52636
+                ],
+                [
+                  145.966975,
+                  -17.519574
+                ],
+                [
+                  145.966959,
+                  -17.518866
+                ],
+                [
+                  145.955017,
+                  -17.510182
+                ],
+                [
+                  145.954524,
+                  -17.510137
+                ],
+                [
+                  145.951923,
+                  -17.511372
+                ],
+                [
+                  145.951897,
+                  -17.511385
+                ],
+                [
+                  145.94996,
+                  -17.512453
+                ],
+                [
+                  145.949799,
+                  -17.512599
+                ],
+                [
+                  145.947535,
+                  -17.515963
+                ],
+                [
+                  145.947504,
+                  -17.516017
+                ],
+                [
+                  145.943239,
+                  -17.524794
+                ],
+                [
+                  145.943214,
+                  -17.525114
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7285",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "30",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:49PM 10 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "COOK RD, COOROO LANDS RD, DUCROT RD, LACAZE RD, UPPER DARADGEE RD",
+        "SUBURBS": "UPPER DARADGEE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.824759,
               -19.254717
             ]
@@ -98,5 +207,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718009700.970281"
+  "extracted": "1718010003.849078"
 }
