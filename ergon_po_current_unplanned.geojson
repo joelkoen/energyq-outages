@@ -10,6 +10,99 @@
           {
             "type": "Point",
             "coordinates": [
+              148.929872,
+              -21.186722
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.886484,
+                  -21.184184
+                ],
+                [
+                  148.904084,
+                  -21.205541
+                ],
+                [
+                  148.904319,
+                  -21.205695
+                ],
+                [
+                  148.963605,
+                  -21.22335
+                ],
+                [
+                  148.963859,
+                  -21.22336
+                ],
+                [
+                  148.972944,
+                  -21.221388
+                ],
+                [
+                  148.97329,
+                  -21.220798
+                ],
+                [
+                  148.969426,
+                  -21.210566
+                ],
+                [
+                  148.969417,
+                  -21.210544
+                ],
+                [
+                  148.942824,
+                  -21.150329
+                ],
+                [
+                  148.942196,
+                  -21.150084
+                ],
+                [
+                  148.897265,
+                  -21.167416
+                ],
+                [
+                  148.897038,
+                  -21.167596
+                ],
+                [
+                  148.886455,
+                  -21.18367
+                ],
+                [
+                  148.886484,
+                  -21.184184
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4974",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "147",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "12:30PM 10 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALLANDALE RD, BRAND RD, CLAIRES RD, FORDYCES RD, KELLYS RD, LEICHHARDT RD, MARGE CAMERONS RD, MARIAN ETON RD, MARKEYS RD, MULLERS RD, N LAMBS RD, PLATHS RD",
+        "SUBURBS": "ALLANDALE, MARIAN, MIRANI, NORTH ETON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.764958,
               -27.39615
             ]
@@ -175,5 +268,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1717986601.710823"
+  "extracted": "1717987201.390307"
 }
