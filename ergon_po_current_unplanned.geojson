@@ -80,7 +80,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "11",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "2:54AM 11 Jun 2024",
         "EST_FIX_TIME": null,
         "STREETS": "DEIGHTON RD, HENWOOD RD, PENINSULA DEVELOPMENT RD, UNKNOWN ST, UNNAMED RD",
@@ -95,7 +95,7 @@
           {
             "type": "Point",
             "coordinates": [
-              151.038243,
+              151.020958,
               -27.602672
             ]
           },
@@ -144,28 +144,12 @@
                   -27.586047
                 ],
                 [
-                  151.306755,
-                  -27.586044
+                  151.306847,
+                  -27.585687
                 ],
                 [
-                  151.336815,
-                  -27.550361
-                ],
-                [
-                  151.33691,
-                  -27.550165
-                ],
-                [
-                  151.341417,
-                  -27.526318
-                ],
-                [
-                  151.341326,
-                  -27.525975
-                ],
-                [
-                  151.276395,
-                  -27.447491
+                  151.276484,
+                  -27.447671
                 ],
                 [
                   151.276233,
@@ -219,17 +203,118 @@
       "properties": {
         "EVENT_ID": "24SW9960",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "357",
+        "CUSTOMERS_AFFECTED": "322",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Outage reported",
         "START": "7:31AM 11 Jun 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "BARLOWS RD, BECKERS RD, BOKELMAN RD, BOUNDARY RD, BRANCH VIEW RD, CECIL PLAINS CEMETERY RD, CECIL PLAINS-MOONIE RD, CHEETHAM ST, COGGANS RD, COLEMANS RD, DALBY CECIL PLAINS RD, DALBY-CECIL PLAINS RD, DUNMORE RD, EDWARDS AVE, GERAGHTY ST, HAZELMERE RD, HORRANE RD, HUFF RD, JEFFRIES RD, LADNER RD, LEICHHARDT LANE, MAIN ST, MCGRATHS RD, MCPHERSON RD, MERSON RD, MISS JURGS RD, NANGWEE RD, NEVILLE RD, NEW DUNMORE RD, O'CONOR RD, OLD MILLMERRAN RD, PAMPAS HORRANE RD, PERCY JURGS RD, QUEMOI RD, QUIRE RD W, RIVER RD, SNAKE GULLY RD, STEWART RD, SULLIVAN RD, TAYLOR ST, TED JURGS RD, TIPTON HORRANE RD, TIPTON-HORRANE RD, TOOWOOMBA CECIL PLAINS RD, WARFIELD AVE, WATSON RD, WATSON ST, WAUGH RD, WILKINS RD",
-        "SUBURBS": "CATTLE CREEK, CECIL PLAINS, CONDAMINE PLAINS, DUNMORE, MILLMERRAN, NORWIN, TIPTON, WEIR RIVER"
+        "STREETS": "BECKERS RD, BOKELMAN RD, BOUNDARY RD, CECIL PLAINS CEMETERY RD, CECIL PLAINS-MOONIE RD, CHEETHAM ST, COGGANS RD, COLEMANS RD, DALBY CECIL PLAINS RD, DALBY-CECIL PLAINS RD, DUNMORE RD, EDWARDS AVE, GERAGHTY ST, HAZELMERE RD, HORRANE RD, HUFF RD, JEFFRIES RD, LADNER RD, LEICHHARDT LANE, MAIN ST, MCGRATHS RD, MERSON RD, MISS JURGS RD, NANGWEE RD, NEVILLE RD, NEW DUNMORE RD, O'CONOR RD, OLD MILLMERRAN RD, PAMPAS HORRANE RD, PERCY JURGS RD, QUEMOI RD, QUIRE RD W, RIVER RD, SNAKE GULLY RD, STEWART RD, SULLIVAN RD, TAYLOR ST, TED JURGS RD, TIPTON HORRANE RD, TIPTON-HORRANE RD, TOOWOOMBA CECIL PLAINS RD, WARFIELD AVE, WATSON RD, WATSON ST, WAUGH RD, WILKINS RD",
+        "SUBURBS": "CATTLE CREEK, CECIL PLAINS, CONDAMINE PLAINS, DUNMORE, MILLMERRAN, TIPTON, WEIR RIVER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.297062,
+              -27.541745
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.252909,
+                  -27.546419
+                ],
+                [
+                  151.292878,
+                  -27.560073
+                ],
+                [
+                  151.293036,
+                  -27.560102
+                ],
+                [
+                  151.325174,
+                  -27.56143
+                ],
+                [
+                  151.32557,
+                  -27.561284
+                ],
+                [
+                  151.336784,
+                  -27.550395
+                ],
+                [
+                  151.33691,
+                  -27.550165
+                ],
+                [
+                  151.341417,
+                  -27.526318
+                ],
+                [
+                  151.340965,
+                  -27.525794
+                ],
+                [
+                  151.295457,
+                  -27.52206
+                ],
+                [
+                  151.2952,
+                  -27.522099
+                ],
+                [
+                  151.268599,
+                  -27.532962
+                ],
+                [
+                  151.268499,
+                  -27.533016
+                ],
+                [
+                  151.257808,
+                  -27.54046
+                ],
+                [
+                  151.257737,
+                  -27.54052
+                ],
+                [
+                  151.252708,
+                  -27.545704
+                ],
+                [
+                  151.252909,
+                  -27.546419
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9962",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "35",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:31AM 11 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BARLOWS RD, BRANCH VIEW RD, MCPHERSON RD, NANGWEE RD, QUIRE RD W, TOOWOOMBA CECIL PLAINS RD, WATSON RD",
+        "SUBURBS": "CECIL PLAINS, NORWIN"
       }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718056200.630038"
+  "extracted": "1718056500.681599"
 }
