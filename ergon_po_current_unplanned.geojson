@@ -10,6 +10,99 @@
           {
             "type": "Point",
             "coordinates": [
+              150.457689,
+              -23.442289
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.455496,
+                  -23.44323
+                ],
+                [
+                  150.45564,
+                  -23.44361
+                ],
+                [
+                  150.456048,
+                  -23.443911
+                ],
+                [
+                  150.45635,
+                  -23.443941
+                ],
+                [
+                  150.45658,
+                  -23.443913
+                ],
+                [
+                  150.458996,
+                  -23.443049
+                ],
+                [
+                  150.459151,
+                  -23.44296
+                ],
+                [
+                  150.459728,
+                  -23.442468
+                ],
+                [
+                  150.459883,
+                  -23.442094
+                ],
+                [
+                  150.459854,
+                  -23.441813
+                ],
+                [
+                  150.459766,
+                  -23.441596
+                ],
+                [
+                  150.459098,
+                  -23.440723
+                ],
+                [
+                  150.458387,
+                  -23.440636
+                ],
+                [
+                  150.455646,
+                  -23.442735
+                ],
+                [
+                  150.455496,
+                  -23.44323
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7988",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "44",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:20AM 12 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARLOTT ST, BLAND ST, STOVER ST, THORA ST, WHITMAN ST",
+        "SUBURBS": "GRACEMERE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               144.634191,
               -15.388462
             ]
@@ -231,5 +324,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718141401.718824"
+  "extracted": "1718141701.444912"
 }
