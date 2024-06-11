@@ -312,9 +312,94 @@
         "STREETS": "BARLOWS RD, BRANCH VIEW RD, MCPHERSON RD, NANGWEE RD, QUIRE RD W, TOOWOOMBA CECIL PLAINS RD, WATSON RD",
         "SUBURBS": "CECIL PLAINS, NORWIN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.67458,
+              -27.10458
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.281531,
+                  -27.19522
+                ],
+                [
+                  148.431443,
+                  -27.252009
+                ],
+                [
+                  148.431641,
+                  -27.252045
+                ],
+                [
+                  148.870743,
+                  -27.250763
+                ],
+                [
+                  148.870954,
+                  -27.25072
+                ],
+                [
+                  148.996431,
+                  -27.198445
+                ],
+                [
+                  148.996647,
+                  -27.198272
+                ],
+                [
+                  149.067749,
+                  -27.094653
+                ],
+                [
+                  149.067478,
+                  -27.093989
+                ],
+                [
+                  148.609331,
+                  -26.957116
+                ],
+                [
+                  148.608854,
+                  -26.957194
+                ],
+                [
+                  148.281411,
+                  -27.194454
+                ],
+                [
+                  148.281531,
+                  -27.19522
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9964",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "46",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "9:14AM 11 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BEGONIA RD, CARNARVON HWY, DRUMFERN RD, DUEIDAR RD, DUNKELD RD, EULOREL RD, FOYLEVIEW RD, HARTWOOD RD, MARANOA RD, NALDERA RD, SOUTHERN RD",
+        "SUBURBS": "ROMA, SURAT"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718063701.314992"
+  "extracted": "1718064003.203355"
 }
