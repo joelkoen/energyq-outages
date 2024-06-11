@@ -1,8 +1,134 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.100068,
+              -27.634829
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.09158,
+                  -27.642005
+                ],
+                [
+                  153.097621,
+                  -27.642159
+                ],
+                [
+                  153.097763,
+                  -27.642145
+                ],
+                [
+                  153.106531,
+                  -27.640125
+                ],
+                [
+                  153.106584,
+                  -27.64011
+                ],
+                [
+                  153.106806,
+                  -27.640035
+                ],
+                [
+                  153.107031,
+                  -27.639884
+                ],
+                [
+                  153.107723,
+                  -27.639061
+                ],
+                [
+                  153.107784,
+                  -27.638966
+                ],
+                [
+                  153.107955,
+                  -27.638607
+                ],
+                [
+                  153.107985,
+                  -27.638518
+                ],
+                [
+                  153.109025,
+                  -27.633795
+                ],
+                [
+                  153.109034,
+                  -27.633719
+                ],
+                [
+                  153.109044,
+                  -27.633366
+                ],
+                [
+                  153.109014,
+                  -27.633202
+                ],
+                [
+                  153.10816,
+                  -27.63109
+                ],
+                [
+                  153.107855,
+                  -27.630818
+                ],
+                [
+                  153.097609,
+                  -27.627521
+                ],
+                [
+                  153.097357,
+                  -27.6275
+                ],
+                [
+                  153.093728,
+                  -27.628015
+                ],
+                [
+                  153.093306,
+                  -27.628393
+                ],
+                [
+                  153.091093,
+                  -27.641487
+                ],
+                [
+                  153.09158,
+                  -27.642005
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-764547-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1803",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "10:30AM 11 Jun 2024",
+        "EST_FIX_TIME": "1:00PM 11 Jun 2024",
+        "STREETS": "ANDELLA ST, ASH AVE, BALLADONIA ST, BARKALA ST, BLACKWOOD RD, BRAMSTON ST, CASURINA AVE, CHARLES AVE, COOLIBAH ST, CROYDON RD, DEFIANCE RD, ELIZABETH ST, ELKHORN ST, ELM AVE, EWING RD, FREDERICK ST, GARDEN AVE, GARFIELD RD, HAGUE ST, HURON ST, LAUREL ST, MARY AVE, MULLER RD, NORTH RD, OAKLAND AVE, OATES AVE, OMAR ST, ORCHID ST, PAMELA CRES, PATERSON ST, PATRICIA AVE, PINE DR, POPLAR AVE, PRINCE ST, PROGRESS AVE, RAILWAY PDE, STATION RD, STUBBS RD, THOMSON AVE, WARATAH ST, WHITEY ST, WISP ST, YURUGU ST",
+        "SUBURBS": "KARAWATHA, LOGAN CENTRAL, WOODRIDGE"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718065802.086281"
+  "extracted": "1718066100.367509"
 }
