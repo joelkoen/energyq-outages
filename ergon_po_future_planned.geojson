@@ -2053,7 +2053,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "28",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 12 Jun 2024",
         "EST_FIX_TIME": "3:00PM 12 Jun 2024",
         "STREETS": "FAUXS RD, MACKAY EUNGELLA RD, OWENS CREEK LOOP RD, OWENS CREEK RD",
@@ -2751,6 +2751,27 @@
         "EST_FIX_TIME": "1:30PM 15 Jun 2024",
         "STREETS": "FIELDINGS LDG RD, HODDER RD, JOHNSON RD",
         "SUBURBS": "RITA ISLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.740913,
+          -20.816936
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ8770",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 12 Jun 2024",
+        "EST_FIX_TIME": "2:00PM 12 Jun 2024",
+        "STREETS": "ELDER CREEK BORE, ELDER CREEK STATION",
+        "SUBURBS": "CLONCURRY"
       }
     },
     {
@@ -4165,6 +4186,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.131393,
+          -24.813667
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5811",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "64",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:04AM 12 Jun 2024",
+        "EST_FIX_TIME": "2:00PM 12 Jun 2024",
+        "STREETS": "BOUGHTONS RD, INVICTA RD, KEHLS RD, LUND ST, MILL RD, MOUNTNEY RD, NORTH BUCCA RD, READS RD, STARKEY ST",
+        "SUBURBS": "AVONDALE, BUCCA, INVICTA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.166806,
           -24.834745
         ]
@@ -4373,5 +4415,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1718143503.393913"
+  "extracted": "1718143800.816723"
 }
