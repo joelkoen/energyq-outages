@@ -10,6 +10,79 @@
           {
             "type": "Point",
             "coordinates": [
+              152.942963,
+              -26.578699
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.940245,
+                  -26.580779
+                ],
+                [
+                  152.944605,
+                  -26.580173
+                ],
+                [
+                  152.944737,
+                  -26.580137
+                ],
+                [
+                  152.946047,
+                  -26.579601
+                ],
+                [
+                  152.946196,
+                  -26.578873
+                ],
+                [
+                  152.943726,
+                  -26.57662
+                ],
+                [
+                  152.942985,
+                  -26.576645
+                ],
+                [
+                  152.939785,
+                  -26.580041
+                ],
+                [
+                  152.93973,
+                  -26.580553
+                ],
+                [
+                  152.940245,
+                  -26.580779
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-764637-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "3:23PM 11 Jun 2024",
+        "EST_FIX_TIME": "5:30PM 11 Jun 2024",
+        "STREETS": "CREIGHTONS RD",
+        "SUBURBS": "KULANGOOR, YANDINA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.023174,
               -27.263089
             ]
@@ -114,5 +187,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718087100.991267"
+  "extracted": "1718087403.289898"
 }
