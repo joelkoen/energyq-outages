@@ -1,8 +1,78 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.947884,
+              -27.563167
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.948236,
+                  -27.563695
+                ],
+                [
+                  152.948442,
+                  -27.563321
+                ],
+                [
+                  152.948483,
+                  -27.563032
+                ],
+                [
+                  152.948424,
+                  -27.562771
+                ],
+                [
+                  152.947928,
+                  -27.562409
+                ],
+                [
+                  152.947431,
+                  -27.56277
+                ],
+                [
+                  152.947285,
+                  -27.563406
+                ],
+                [
+                  152.947618,
+                  -27.563924
+                ],
+                [
+                  152.948236,
+                  -27.563695
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-764704-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Damage to our equipment",
+        "STATUS": "Awaiting",
+        "START": "6:53AM 12 Jun 2024",
+        "EST_FIX_TIME": "9:30AM 12 Jun 2024",
+        "STREETS": "LIMESTONE ST",
+        "SUBURBS": "DARRA"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718139000.511286"
+  "extracted": "1718139301.254515"
 }
