@@ -28,6 +28,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.253378,
+          -23.862305
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6175",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "11:55AM 11 Jun 2024",
+        "EST_FIX_TIME": "3:00PM 11 Jun 2024",
+        "STREETS": "BARKALA CL, BOLES ST, SUNNYRIDGE RD",
+        "SUBURBS": "WEST GLADSTONE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.94509,
           -24.047365
         ]
@@ -126,27 +147,6 @@
         "EST_FIX_TIME": "4:30PM 11 Jun 2024",
         "STREETS": "BUDARICK RD",
         "SUBURBS": "CAWARRAL"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.710086,
-          -24.06093
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA7233",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "9",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "9:00AM 11 Jun 2024",
-        "EST_FIX_TIME": "2:00PM 11 Jun 2024",
-        "STREETS": "COOMOO RD",
-        "SUBURBS": "BARALABA"
       }
     },
     {
@@ -490,19 +490,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          147.395474,
-          -19.596994
+          147.395016,
+          -19.597959
         ]
       },
       "properties": {
-        "EVENT_ID": "24NQ8509",
+        "EVENT_ID": "24NQ8510",
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "9:12AM 11 Jun 2024",
+        "START": "11:59AM 11 Jun 2024",
         "EST_FIX_TIME": "4:00PM 11 Jun 2024",
-        "STREETS": "HONEYCOMBE ST",
+        "STREETS": "CLEMENTS ST, CONLAN ST",
         "SUBURBS": "AYR"
       }
     },
@@ -1013,5 +1013,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718070900.643029"
+  "extracted": "1718071273.25107"
 }
