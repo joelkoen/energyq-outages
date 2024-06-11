@@ -180,107 +180,6 @@
           {
             "type": "Point",
             "coordinates": [
-              145.453697,
-              -22.297387
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  145.095167,
-                  -22.448397
-                ],
-                [
-                  145.148096,
-                  -22.531617
-                ],
-                [
-                  145.148211,
-                  -22.53174
-                ],
-                [
-                  145.155638,
-                  -22.537253
-                ],
-                [
-                  145.155831,
-                  -22.53734
-                ],
-                [
-                  145.329938,
-                  -22.57501
-                ],
-                [
-                  145.329999,
-                  -22.575019
-                ],
-                [
-                  145.389799,
-                  -22.580545
-                ],
-                [
-                  145.390128,
-                  -22.580464
-                ],
-                [
-                  145.648693,
-                  -22.410232
-                ],
-                [
-                  145.648712,
-                  -22.410219
-                ],
-                [
-                  145.812259,
-                  -22.29077
-                ],
-                [
-                  145.812196,
-                  -22.290021
-                ],
-                [
-                  145.283074,
-                  -22.014229
-                ],
-                [
-                  145.282387,
-                  -22.014454
-                ],
-                [
-                  145.095135,
-                  -22.447999
-                ],
-                [
-                  145.095167,
-                  -22.448397
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA7992",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "31",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
-        "START": "8:48AM 12 Jun 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "ALBIONVALE RD, ARAMAC-FLEETWOOD RD, OFF TORRENS CREEK RD, REEDY CK RD, REEDY CREEK RD, STAGMOUNT RD, TORRENS CREEK RD",
-        "SUBURBS": "ARAMAC"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               144.634191,
               -15.388462
             ]
@@ -498,9 +397,70 @@
         "STREETS": "BAMFORD RD, BLAKNEY RD, BOONMOO RD, BOOTH RD, BULLABURRAH CREEK RD, BURKE DEVELOPMENT RD, BURKE DEVELOPMENTAL RD, CARBONATE CREEK RD, CHANNEL RD, CHILLAGOE RD, DARRELL RD, EUREKA CREEK RD, FABRIS RD, HANLEY RD, KENNEDY ST, LEAFGOLD RD, LEAFGOLD WEIR RD, MARKOCIC RD, MINISINI RD, PARISE RD, PETFORD RD, RALEIGH ST, SANDY CREEK RD, SCHINCARIOL RD, STOKES RD, TOP EUREKA CREEK RD, TOP EUREKA RD, UNKNOWN ST, VENESS RD, WOLFRAM RD",
         "SUBURBS": "CHILLAGOE, DIMBULAH, LEAFGOLD, PETFORD, SOLANUM"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.461701,
+              -17.083529
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.464603,
+                  -17.086072
+                ],
+                [
+                  145.45951,
+                  -17.080395
+                ],
+                [
+                  145.458848,
+                  -17.080348
+                ],
+                [
+                  145.458799,
+                  -17.080986
+                ],
+                [
+                  145.463891,
+                  -17.086662
+                ],
+                [
+                  145.464554,
+                  -17.086709
+                ],
+                [
+                  145.464603,
+                  -17.086072
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7332",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "9:06AM 12 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "HENRY HANNAM DR",
+        "SUBURBS": "MAREEBA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718147100.308781"
+  "extracted": "1718147401.529115"
 }
