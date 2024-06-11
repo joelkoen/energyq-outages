@@ -95,6 +95,99 @@
           {
             "type": "Point",
             "coordinates": [
+              149.160115,
+              -21.190825
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.139648,
+                  -21.173445
+                ],
+                [
+                  149.143058,
+                  -21.181876
+                ],
+                [
+                  149.143058,
+                  -21.181877
+                ],
+                [
+                  149.154681,
+                  -21.210339
+                ],
+                [
+                  149.1552,
+                  -21.210624
+                ],
+                [
+                  149.163521,
+                  -21.209496
+                ],
+                [
+                  149.163895,
+                  -21.209225
+                ],
+                [
+                  149.177947,
+                  -21.178113
+                ],
+                [
+                  149.177953,
+                  -21.178098
+                ],
+                [
+                  149.180582,
+                  -21.171638
+                ],
+                [
+                  149.180132,
+                  -21.171026
+                ],
+                [
+                  149.157421,
+                  -21.171031
+                ],
+                [
+                  149.157368,
+                  -21.171033
+                ],
+                [
+                  149.140045,
+                  -21.172836
+                ],
+                [
+                  149.139648,
+                  -21.173445
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK5009",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "800",
+        "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
+        "STATUS": "Outage reported",
+        "START": "1:48PM 11 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARCHIBALD ST, BATH AVE, BECKETT CT, BENARID DR, BERKSHIRE LANE, BOTANICAL DR, BOUNDARY RD, BRADCO AVE, BROADSOUND RD, CANECUTTERS DR, CARMELA CT, CHURCHILL AVE, COMMERCIAL AVE, CONNORS RD, COOKS LANE, CRICHTONS RD, DICKENS AVE, DIESEL DR, DORSET ST, DOWNING ST, DRAKE DR, ELVIN ST, ENTERPRISE ST, FARMING RD, FARRELLYS RD, FORMATION ST, FROGHOLLOW DR, GALEA DR, GATEWAY DR, GAYE CT, HASTINGS ST, HERITAGE DR, KINGSLEA CT, LANCASTER WAY, LEN SHIELD ST, MAGGIOLO DR, MAIN ST, MARLBOROUGH ST, MICHELMORE ST, MILTON ST, PROGRESS DR, RALEIGH ST, SALISBURY PL, STOCKROUTE RD, SUCCESS ST, SUGARFIELD PL, SURREY CT, TUDOR CT",
+        "SUBURBS": "BAKERS CREEK, MACKAY, OORALEA, PAGET, SOUTH MACKAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.020955,
               -27.630328
             ]
@@ -393,5 +486,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718078700.442173"
+  "extracted": "1718079000.580912"
 }
