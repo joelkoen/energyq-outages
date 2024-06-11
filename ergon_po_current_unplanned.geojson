@@ -10,6 +10,123 @@
           {
             "type": "Point",
             "coordinates": [
+              150.490721,
+              -23.372999
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.488248,
+                  -23.373227
+                ],
+                [
+                  150.48832,
+                  -23.373763
+                ],
+                [
+                  150.48873,
+                  -23.374153
+                ],
+                [
+                  150.489699,
+                  -23.374292
+                ],
+                [
+                  150.489854,
+                  -23.374291
+                ],
+                [
+                  150.491316,
+                  -23.374067
+                ],
+                [
+                  150.491341,
+                  -23.374062
+                ],
+                [
+                  150.492395,
+                  -23.373846
+                ],
+                [
+                  150.492647,
+                  -23.373713
+                ],
+                [
+                  150.493142,
+                  -23.37322
+                ],
+                [
+                  150.493198,
+                  -23.372673
+                ],
+                [
+                  150.492857,
+                  -23.372174
+                ],
+                [
+                  150.49249,
+                  -23.371965
+                ],
+                [
+                  150.489556,
+                  -23.371706
+                ],
+                [
+                  150.489463,
+                  -23.371706
+                ],
+                [
+                  150.488957,
+                  -23.371751
+                ],
+                [
+                  150.488626,
+                  -23.371915
+                ],
+                [
+                  150.488364,
+                  -23.372211
+                ],
+                [
+                  150.488254,
+                  -23.37249
+                ],
+                [
+                  150.488244,
+                  -23.373165
+                ],
+                [
+                  150.488248,
+                  -23.373227
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7983",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "55",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:58PM 11 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "HEATH ST, JARDINE ST, LITTLE OAKLEY ST, MEADE ST, OAKLEY ST",
+        "SUBURBS": "ROCKHAMPTON, WANDAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               144.634191,
               -15.388462
             ]
@@ -90,5 +207,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718091300.390571"
+  "extracted": "1718091601.175836"
 }
