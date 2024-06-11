@@ -95,6 +95,83 @@
           {
             "type": "Point",
             "coordinates": [
+              148.583275,
+              -20.692792
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.578801,
+                  -20.691565
+                ],
+                [
+                  148.581803,
+                  -20.696171
+                ],
+                [
+                  148.582504,
+                  -20.696294
+                ],
+                [
+                  148.587749,
+                  -20.692521
+                ],
+                [
+                  148.587628,
+                  -20.69174
+                ],
+                [
+                  148.580763,
+                  -20.68929
+                ],
+                [
+                  148.580418,
+                  -20.689292
+                ],
+                [
+                  148.58018,
+                  -20.689379
+                ],
+                [
+                  148.579962,
+                  -20.68954
+                ],
+                [
+                  148.578817,
+                  -20.691068
+                ],
+                [
+                  148.578801,
+                  -20.691565
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK5005",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:16PM 11 Jun 2024",
+        "EST_FIX_TIME": "6:00PM 11 Jun 2024",
+        "STREETS": "MITCHELLS RD, O'DONNELLS RD",
+        "SUBURBS": "BLOOMSBURY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.020955,
               -27.630328
             ]
@@ -393,5 +470,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718079901.360079"
+  "extracted": "1718080213.637087"
 }
