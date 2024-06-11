@@ -310,7 +310,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "70",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:00AM 12 Jun 2024",
         "EST_FIX_TIME": "12:00PM 12 Jun 2024",
         "STREETS": "AIRSTRIP ST, BASKETBALL COURT ST, DANIEL ST, MAIN ST, MAP ST, SCHOOL ST, UNKNOWN ST, WARRIA ST",
@@ -605,7 +605,7 @@
         "CUSTOMERS_AFFECTED": "289",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "7:00AM 12 Jun 2024",
+        "START": "7:40AM 12 Jun 2024",
         "EST_FIX_TIME": "3:00PM 12 Jun 2024",
         "STREETS": "BALNAGOWAN MANDARANA RD, BONSONS SCRUB RD, BRUCE HWY, GERRYS LANE, GIUMELLIS RD, HERBERT CT, IAN REDDACLIFF DR, KOWAHA CT, LEAP ACCESS RD, LEAP LANE, LEAP STATION RD, LEAP STATION RD NORTH, MAPALO RD, MILTONS LOOKOUT RD, MT JUKES RD, NICOL RD, NINE MILE CREEK RD, PENTECOST RD, PYMS CT, PYMS RD, ROY VON SNARSKI CT, RUTLANDS RD, TRACK RD, WESTLAKE DR, YAKAPARI HABANA RD, YAKAPARI SEAFORTH RD, YAKAPARI-SEAFORTH RD, ZUNKERS RD",
         "SUBURBS": "BALNAGOWAN, FARLEIGH, HABANA, HAMPDEN, KUTTABUL, MARIAN, SEAFORTH, THE LEAP, YAKAPARI"
@@ -626,7 +626,7 @@
         "CUSTOMERS_AFFECTED": "28",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "7:00AM 12 Jun 2024",
+        "START": "7:18AM 12 Jun 2024",
         "EST_FIX_TIME": "3:00PM 12 Jun 2024",
         "STREETS": "MARAJU-YAKAPARI RD",
         "SUBURBS": "THE LEAP"
@@ -1036,6 +1036,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.247245,
+          -20.004491
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9037",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:40AM 12 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 12 Jun 2024",
+        "STREETS": "COWAN LANE, MORRILL ST",
+        "SUBURBS": "BOWEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.80801,
           -19.254857
         ]
@@ -1150,7 +1171,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "175",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 12 Jun 2024",
         "EST_FIX_TIME": "2:00PM 12 Jun 2024",
         "STREETS": "ANDURAMBA RANGE RD, ANDURAMBA RD, ANGER RD, AUSTIN RD, BACK CREEK RD, BARKER LANE, BARNES RD, BAUSCH RD, BLUFF RD, BOWEN RD, BYER RD, BYERS RD, DEVONCOURT LANE, DEVONCOURT RD, FITCH RD, HAWKINS RD, HEATHER RD, JONES GULLY RD, MARIA CREEK RD, MARSHALL RD, MCGREEVY RD, MIDDLE RD, NUKINENDA RD, PETTIE RD, PIERCES CREEK RD, PIT RD, TIGELL RD, VOLL RD, VONHOFF RD, WATERHOLE GULLY RD, WOODLEA CT",
@@ -1517,5 +1538,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718142000.408233"
+  "extracted": "1718142301.442029"
 }
