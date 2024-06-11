@@ -1,8 +1,118 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.41686,
+              -28.031303
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.415427,
+                  -28.03137
+                ],
+                [
+                  153.415681,
+                  -28.032153
+                ],
+                [
+                  153.415857,
+                  -28.032384
+                ],
+                [
+                  153.416169,
+                  -28.0326
+                ],
+                [
+                  153.416569,
+                  -28.032688
+                ],
+                [
+                  153.417551,
+                  -28.032536
+                ],
+                [
+                  153.417907,
+                  -28.032313
+                ],
+                [
+                  153.418,
+                  -28.032167
+                ],
+                [
+                  153.418057,
+                  -28.03203
+                ],
+                [
+                  153.418313,
+                  -28.030835
+                ],
+                [
+                  153.418178,
+                  -28.030436
+                ],
+                [
+                  153.417969,
+                  -28.030246
+                ],
+                [
+                  153.417767,
+                  -28.030133
+                ],
+                [
+                  153.41705,
+                  -28.029919
+                ],
+                [
+                  153.416563,
+                  -28.029999
+                ],
+                [
+                  153.415601,
+                  -28.030707
+                ],
+                [
+                  153.415417,
+                  -28.031034
+                ],
+                [
+                  153.415408,
+                  -28.031225
+                ],
+                [
+                  153.415427,
+                  -28.03137
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-764697-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "35",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "1:08AM 12 Jun 2024",
+        "EST_FIX_TIME": "4:00AM 12 Jun 2024",
+        "STREETS": "AROONA AVE, BOMBALA ST, RIO VISTA BVD, TUMBI ST",
+        "SUBURBS": "BROADBEACH WATERS"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718127300.377314"
+  "extracted": "1718127601.718082"
 }
