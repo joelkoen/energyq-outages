@@ -87,6 +87,79 @@
           {
             "type": "Point",
             "coordinates": [
+              151.249717,
+              -23.848236
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.248556,
+                  -23.84863
+                ],
+                [
+                  151.249038,
+                  -23.849083
+                ],
+                [
+                  151.249576,
+                  -23.849183
+                ],
+                [
+                  151.25024,
+                  -23.84893
+                ],
+                [
+                  151.250503,
+                  -23.84869
+                ],
+                [
+                  151.250878,
+                  -23.847878
+                ],
+                [
+                  151.250772,
+                  -23.847382
+                ],
+                [
+                  151.250231,
+                  -23.847289
+                ],
+                [
+                  151.248709,
+                  -23.847902
+                ],
+                [
+                  151.248556,
+                  -23.84863
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7998",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "32",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:00AM 12 Jun 2024",
+        "EST_FIX_TIME": "2:00PM 12 Jun 2024",
+        "STREETS": "CARTER ST, FLINDERS ST, KENT ST",
+        "SUBURBS": "WEST GLADSTONE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               150.819469,
               -23.278679
             ]
@@ -308,5 +381,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718153101.34599"
+  "extracted": "1718153400.376872"
 }
