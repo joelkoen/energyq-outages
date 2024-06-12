@@ -1,8 +1,134 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.432281,
+              -17.16906
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.376875,
+                  -17.132054
+                ],
+                [
+                  145.377229,
+                  -17.139771
+                ],
+                [
+                  145.377305,
+                  -17.139998
+                ],
+                [
+                  145.43754,
+                  -17.228314
+                ],
+                [
+                  145.437613,
+                  -17.228397
+                ],
+                [
+                  145.45268,
+                  -17.241861
+                ],
+                [
+                  145.452761,
+                  -17.241919
+                ],
+                [
+                  145.457715,
+                  -17.244736
+                ],
+                [
+                  145.457888,
+                  -17.244794
+                ],
+                [
+                  145.47879,
+                  -17.24763
+                ],
+                [
+                  145.479308,
+                  -17.247307
+                ],
+                [
+                  145.487688,
+                  -17.21908
+                ],
+                [
+                  145.487688,
+                  -17.218834
+                ],
+                [
+                  145.47561,
+                  -17.177411
+                ],
+                [
+                  145.47556,
+                  -17.1773
+                ],
+                [
+                  145.431676,
+                  -17.107248
+                ],
+                [
+                  145.431593,
+                  -17.10715
+                ],
+                [
+                  145.413042,
+                  -17.090599
+                ],
+                [
+                  145.412615,
+                  -17.09049
+                ],
+                [
+                  145.401763,
+                  -17.092941
+                ],
+                [
+                  145.40147,
+                  -17.093146
+                ],
+                [
+                  145.376943,
+                  -17.131799
+                ],
+                [
+                  145.376875,
+                  -17.132054
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7369",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1737",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:06PM 12 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALLENS LANE, ALLWOOD LANE, ANDERSON RD, APPALOOSA CRES, ARBOUIN RD, BANCHIO RD, BANKSIA ST, BARLOW CL, BELLAMY DR, BELLAMY RD, BLANK CL, BUDDEN ST, BULANKOFF RD, CAMPANA RD, CARBEEN RD, CASSIA ST, CATHERINE ST, CAUSAURINA ST, CESCOTTO ST, CHANNEL RD, CHEWKO RD, CORAL ST, CRAWFORD ST, CURRAN RD, CUSACK CL, DALEY ST, DALY ST, DATI RD, DAWSON RD, DUNCAN ST, EDWARD ST, ELIZABETH ST, EQUESTRIAN DR, FILIPPO CL, FRAZER RD, GALVIN ST, GEDDES DR, GEORGE ST, GOODWIN CL, GRIFFIN RD, HALLORAN ST, HAMILTON CL, HANSEN RD, HANTON RD, HASTIE ST, HEALE ST, HIBISCUS ST, HUTTON DR, KAIRI RD, KARLINDON CL, KENNEDY HWY, KIMMINS CL, KIPPIN DR, KURRAJONG ST, LAWSON ST, LEIGHTON ST, LEONARD ST, LINDGREN CL, LINGREN CL, LUXTON CL, MAIDMENT RD, MAIN ST, MAPEE RD, MARGARET ST, MARION ST, MARNANE RD, MARTIN ST, MATTHEW ST, MCDONALD ST, MCPHERSON RD, MELEVSKY CL, MERCURIO CL, MOFFAT DR, MORGANBURY RD, MORROW LANE, MORROW ST, MURPHY ST, NADIA CL, NEARY CL, NESBIT CL, NEWMAN DR, NORTHEY RD, O'CONNELL RD, OAKLEY CL, OGILVIE CT, OLD POST OFFICE LANE, ORAN RD, PALOMINO AVE, PARK LANE, PILLINGER DR, QUINLAN RD, RANKINE DR, REX RD, SALVETTI RD, SERENITY CT, SERRA CL, SIMMS RD, STONEHOUSE RD, TATE RD, TOLGA-KAIRI RD, TOSTEVIN ST, TURNBULL DR, VALESE ST, VILLELLA RD, WALLACE CL, WATTLE ST, WILGA ST, WILKINSON DR, WILLOWS RD, WIMBLE ST, ZAMIA ST",
+        "SUBURBS": "ARRIGA, ATHERTON, CARBEEN, MAPEE, MAREEBA, TOLGA, WALKAMIN"
+      }
+    }
+  ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718183100.433494"
+  "extracted": "1718183401.259251"
 }
