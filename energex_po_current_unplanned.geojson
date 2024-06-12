@@ -1,8 +1,110 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.045716,
+              -27.458812
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.040019,
+                  -27.455889
+                ],
+                [
+                  153.04105,
+                  -27.456957
+                ],
+                [
+                  153.041101,
+                  -27.457003
+                ],
+                [
+                  153.050147,
+                  -27.464026
+                ],
+                [
+                  153.050964,
+                  -27.463816
+                ],
+                [
+                  153.051392,
+                  -27.462558
+                ],
+                [
+                  153.051412,
+                  -27.462393
+                ],
+                [
+                  153.050782,
+                  -27.45498
+                ],
+                [
+                  153.050617,
+                  -27.45468
+                ],
+                [
+                  153.049423,
+                  -27.453713
+                ],
+                [
+                  153.049017,
+                  -27.453599
+                ],
+                [
+                  153.042132,
+                  -27.454412
+                ],
+                [
+                  153.04201,
+                  -27.45444
+                ],
+                [
+                  153.040354,
+                  -27.455033
+                ],
+                [
+                  153.040162,
+                  -27.455154
+                ],
+                [
+                  153.040022,
+                  -27.455296
+                ],
+                [
+                  153.040019,
+                  -27.455889
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-764951-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1304",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "1:39AM 13 Jun 2024",
+        "EST_FIX_TIME": "4:00AM 13 Jun 2024",
+        "STREETS": "ARTHUR ST, BEESTON ST, CHERMSIDE ST, CHESTER ST, CRASE ST, DOGGETT ST, FLORENCE ST, GRAY ST, HASTINGS ST, HAWTHORNE ST, KINGSHOLME ST, LITTLE CHESTER ST, MACKELLAR ST, MACQUARIE ST, MERTHYR RD, MOLE ST, VERNON TCE, VILLIERS ST, WALKER AVE, WANDOO ST",
+        "SUBURBS": "FORTITUDE VALLEY, NEW FARM, NEWSTEAD, TENERIFFE"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718206500.78022"
+  "extracted": "1718206801.761506"
 }
