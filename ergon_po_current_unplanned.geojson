@@ -10,6 +10,95 @@
           {
             "type": "Point",
             "coordinates": [
+              148.953708,
+              -21.27396
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.945289,
+                  -21.270456
+                ],
+                [
+                  148.945557,
+                  -21.278646
+                ],
+                [
+                  148.946187,
+                  -21.279062
+                ],
+                [
+                  148.961796,
+                  -21.274292
+                ],
+                [
+                  148.962128,
+                  -21.273887
+                ],
+                [
+                  148.961844,
+                  -21.273451
+                ],
+                [
+                  148.955267,
+                  -21.270689
+                ],
+                [
+                  148.955242,
+                  -21.27068
+                ],
+                [
+                  148.950256,
+                  -21.268888
+                ],
+                [
+                  148.950061,
+                  -21.268859
+                ],
+                [
+                  148.946478,
+                  -21.269016
+                ],
+                [
+                  148.946106,
+                  -21.269207
+                ],
+                [
+                  148.945376,
+                  -21.270183
+                ],
+                [
+                  148.945289,
+                  -21.270456
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK5041",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "4:11PM 12 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRIGHTLEY RD, BURGESS LANE, PEAK DOWNS HWY",
+        "SUBURBS": "ETON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.029506,
               -27.988287
             ]
@@ -66,5 +155,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718174100.507089"
+  "extracted": "1718174400.436779"
 }
