@@ -126,9 +126,102 @@
         "STREETS": "ABERDEEN PDE, BARD ST, CARDINAL ST, KINGSTOWN AVE, LANDSBORO AVE, NORMANHURST RD",
         "SUBURBS": "BOONDALL"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.088931,
+              -26.52762
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.087519,
+                  -26.527147
+                ],
+                [
+                  153.088084,
+                  -26.528343
+                ],
+                [
+                  153.088086,
+                  -26.528348
+                ],
+                [
+                  153.088173,
+                  -26.528526
+                ],
+                [
+                  153.088918,
+                  -26.528715
+                ],
+                [
+                  153.089772,
+                  -26.528183
+                ],
+                [
+                  153.089897,
+                  -26.528073
+                ],
+                [
+                  153.090213,
+                  -26.527669
+                ],
+                [
+                  153.090217,
+                  -26.527665
+                ],
+                [
+                  153.090342,
+                  -26.5275
+                ],
+                [
+                  153.090008,
+                  -26.526799
+                ],
+                [
+                  153.088742,
+                  -26.526616
+                ],
+                [
+                  153.088736,
+                  -26.526615
+                ],
+                [
+                  153.088055,
+                  -26.526524
+                ],
+                [
+                  153.087519,
+                  -26.527147
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-764931-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "50",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "8:19PM 12 Jun 2024",
+        "EST_FIX_TIME": "10:30PM 12 Jun 2024",
+        "STREETS": "BIRTWILL ST, HEATHFIELD RD, WILLIAM ST",
+        "SUBURBS": "COOLUM BEACH"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718187302.516553"
+  "extracted": "1718187600.305298"
 }
