@@ -10,6 +10,75 @@
           {
             "type": "Point",
             "coordinates": [
+              148.008231,
+              -22.948159
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.9938,
+                  -22.942326
+                ],
+                [
+                  148.017909,
+                  -22.964046
+                ],
+                [
+                  148.018694,
+                  -22.963908
+                ],
+                [
+                  148.022682,
+                  -22.95573
+                ],
+                [
+                  148.022626,
+                  -22.955272
+                ],
+                [
+                  148.003837,
+                  -22.932304
+                ],
+                [
+                  148.003089,
+                  -22.932272
+                ],
+                [
+                  147.99378,
+                  -22.941697
+                ],
+                [
+                  147.9938,
+                  -22.942326
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8012",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 13 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 13 Jun 2024",
+        "STREETS": "COTHERSTONE RD, LANGTON-MAGENTA RD, MORRISEY RD",
+        "SUBURBS": "CAPELLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               150.473856,
               -23.24099
             ]
@@ -352,5 +421,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718227200.602392"
+  "extracted": "1718227500.469327"
 }
