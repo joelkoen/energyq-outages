@@ -118,9 +118,134 @@
         "STREETS": "BRADFORD ST, DOLBY CT, KENZEY ST, LAIRD ST, ROSE ST, THE CRESCENT",
         "SUBURBS": "NORTH MACKAY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              147.104544,
+              -19.537958
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.078124,
+                  -19.532169
+                ],
+                [
+                  147.095489,
+                  -19.563128
+                ],
+                [
+                  147.095613,
+                  -19.56327
+                ],
+                [
+                  147.11393,
+                  -19.577047
+                ],
+                [
+                  147.113941,
+                  -19.577054
+                ],
+                [
+                  147.122456,
+                  -19.583099
+                ],
+                [
+                  147.123191,
+                  -19.582887
+                ],
+                [
+                  147.130967,
+                  -19.561982
+                ],
+                [
+                  147.130994,
+                  -19.561821
+                ],
+                [
+                  147.129787,
+                  -19.515724
+                ],
+                [
+                  147.129776,
+                  -19.515635
+                ],
+                [
+                  147.128908,
+                  -19.512019
+                ],
+                [
+                  147.128869,
+                  -19.511917
+                ],
+                [
+                  147.125716,
+                  -19.505928
+                ],
+                [
+                  147.125647,
+                  -19.505831
+                ],
+                [
+                  147.113607,
+                  -19.492906
+                ],
+                [
+                  147.113006,
+                  -19.492817
+                ],
+                [
+                  147.090652,
+                  -19.505483
+                ],
+                [
+                  147.09052,
+                  -19.505594
+                ],
+                [
+                  147.085652,
+                  -19.511559
+                ],
+                [
+                  147.08558,
+                  -19.511685
+                ],
+                [
+                  147.078095,
+                  -19.531806
+                ],
+                [
+                  147.078124,
+                  -19.532169
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9700",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "295",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:01AM 13 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AYR RD, BARBAT ST, BIRD ST, BLEE ST, BROOKES ST, BRUCE HWY, CAREY ST, CHURCH ST, CROMARTY CREEK BOAT RAMP RD, DAKER ST, DEAN RD, DEANE ST, DONAGHUE ST, DRYSDALE ST, GANDINI RD, GIRU RD, HODEL RD, INVICTA RD, LUXTON ST, LYONS RD, LYONS ST, MCLELLAN RD, MILL ST, MINEHAN RD, MINEHAN SDNG, POOPOONBAH RD, SHIRBOURNE RD, TOWNSVILLE RD, UPPER HAUGHTON RD, WALTON ST, WOODSTOCK RD",
+        "SUBURBS": "GIRU"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718218803.823924"
+  "extracted": "1718219100.549892"
 }
