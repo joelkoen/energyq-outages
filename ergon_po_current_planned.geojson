@@ -542,7 +542,7 @@
         "CUSTOMERS_AFFECTED": "122",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:00AM 13 Jun 2024",
+        "START": "8:30AM 13 Jun 2024",
         "EST_FIX_TIME": "3:00PM 13 Jun 2024",
         "STREETS": "ADAMS ST, FULHAM RD, MARSH ST, RHODES ST, RYDER CT, TONKIN ST",
         "SUBURBS": "HEATLEY"
@@ -794,7 +794,7 @@
         "CUSTOMERS_AFFECTED": "17",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 13 Jun 2024",
+        "START": "8:35AM 13 Jun 2024",
         "EST_FIX_TIME": "2:30PM 13 Jun 2024",
         "STREETS": "AUBURN RD, B RENNICK'S RD, BRAITHWAITES RD, BURNCLUITH HALL RD, G TENNYSON'S RD, SURCINGLE RD, TENNYSON'S RD",
         "SUBURBS": "BURNCLUITH, CHINCHILLA"
@@ -994,6 +994,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.955753,
+          -26.651275
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5570",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "69",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:34AM 13 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 13 Jun 2024",
+        "STREETS": "BALLIN RD, BARKERS CREEK, BARKERS CREEK RD, BUSHNELLS RD, CAFFERY RD, COOLABUNIA-TAABINGA RD, D'AGUILAR HWY, GOLF VIEW DR, HODGELEIGH RD, KINGAROY RD, MCNAMARA RD, NANANGO RD, NANANGO-KINGAROY RD, PARSONS RD",
+        "SUBURBS": "COOLABUNIA, KUNIOON, NANANGO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.015633,
           -24.998674
         ]
@@ -1025,7 +1046,7 @@
         "CUSTOMERS_AFFECTED": "45",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:00AM 13 Jun 2024",
+        "START": "8:07AM 13 Jun 2024",
         "EST_FIX_TIME": "2:00PM 13 Jun 2024",
         "STREETS": "BUCCA RD, INVICTA RD, KEHLS RD, KLEIDONS RD, MILL RD, SMITHS CROSSING RD",
         "SUBURBS": "AVONDALE, BUCCA, INVICTA"
@@ -1097,5 +1118,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718232600.270266"
+  "extracted": "1718232901.350714"
 }
