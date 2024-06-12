@@ -10,6 +10,99 @@
           {
             "type": "Point",
             "coordinates": [
+              150.479784,
+              -23.2396
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.477232,
+                  -23.241285
+                ],
+                [
+                  150.477475,
+                  -23.241846
+                ],
+                [
+                  150.478176,
+                  -23.242066
+                ],
+                [
+                  150.479346,
+                  -23.241428
+                ],
+                [
+                  150.479474,
+                  -23.241328
+                ],
+                [
+                  150.482353,
+                  -23.238116
+                ],
+                [
+                  150.482043,
+                  -23.237382
+                ],
+                [
+                  150.480701,
+                  -23.237215
+                ],
+                [
+                  150.480691,
+                  -23.237214
+                ],
+                [
+                  150.479924,
+                  -23.237133
+                ],
+                [
+                  150.479802,
+                  -23.237134
+                ],
+                [
+                  150.478664,
+                  -23.237279
+                ],
+                [
+                  150.478261,
+                  -23.237602
+                ],
+                [
+                  150.477215,
+                  -23.240994
+                ],
+                [
+                  150.477232,
+                  -23.241285
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8047",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:15AM 13 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "JULIE ANNE DR, MELDRUM RD",
+        "SUBURBS": "GLENDALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               149.174375,
               -21.125342
             ]
@@ -237,7 +330,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "295",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "5:01AM 13 Jun 2024",
         "EST_FIX_TIME": null,
         "STREETS": "AYR RD, BARBAT ST, BIRD ST, BLEE ST, BROOKES ST, BRUCE HWY, CAREY ST, CHURCH ST, CROMARTY CREEK BOAT RAMP RD, DAKER ST, DEAN RD, DEANE ST, DONAGHUE ST, DRYSDALE ST, GANDINI RD, GIRU RD, HODEL RD, INVICTA RD, LUXTON ST, LYONS RD, LYONS ST, MCLELLAN RD, MILL ST, MINEHAN RD, MINEHAN SDNG, POOPOONBAH RD, SHIRBOURNE RD, TOWNSVILLE RD, UPPER HAUGHTON RD, WALTON ST, WOODSTOCK RD",
@@ -247,5 +340,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718223000.669976"
+  "extracted": "1718223600.366908"
 }
