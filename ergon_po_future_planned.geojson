@@ -616,6 +616,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.383314,
+          -16.373372
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6291",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "18",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:03AM 13 Jun 2024",
+        "EST_FIX_TIME": "12:30PM 13 Jun 2024",
+        "STREETS": "BAMBOO CREEK RD",
+        "SUBURBS": "BAMBOO, MIALLO, WHYANBEEL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.376648,
           -16.390077
         ]
@@ -3061,7 +3082,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "15",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 13 Jun 2024",
         "EST_FIX_TIME": "3:00PM 13 Jun 2024",
         "STREETS": "SONDERGELD, SONDERGELD RD",
@@ -3235,9 +3256,30 @@
         "STREETS": "BIGGENDEN-GOOROOLBA RD, GOOROOLBA BIGGENDEN RD",
         "SUBURBS": "BIGGENDEN, DEGILBO"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.859021,
+          -26.524091
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6256",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 13 Jun 2024",
+        "EST_FIX_TIME": "12:00PM 13 Jun 2024",
+        "STREETS": "BERNARD CRES, BRIDGEMAN PDE",
+        "SUBURBS": "KINGAROY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1718229602.733257"
+  "extracted": "1718229904.618515"
 }
