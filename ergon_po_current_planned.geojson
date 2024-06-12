@@ -122,7 +122,7 @@
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "7:30AM 12 Jun 2024",
+        "START": "9:45AM 12 Jun 2024",
         "EST_FIX_TIME": "1:00PM 12 Jun 2024",
         "STREETS": "YAAMBA RD",
         "SUBURBS": "NORTH ROCKHAMPTON"
@@ -1162,6 +1162,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.165547,
+          -28.366171
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9368",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "10:00AM 12 Jun 2024",
+        "EST_FIX_TIME": "2:00PM 12 Jun 2024",
+        "STREETS": "BARLOWS GATE RD, BELLINGHAMS RD",
+        "SUBURBS": "ELBOW VALLEY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.664535,
           -25.461965
         ]
@@ -1307,5 +1328,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718150704.85384"
+  "extracted": "1718151000.862331"
 }
