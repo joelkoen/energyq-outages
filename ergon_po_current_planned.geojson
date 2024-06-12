@@ -826,6 +826,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.705146,
+          -25.487311
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9085",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "36",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 13 Jun 2024",
+        "EST_FIX_TIME": "3:00PM 13 Jun 2024",
+        "STREETS": "ARCADIA VALLEY RD, BIELBA RD, CARNARVON HWY, FAIRVIEW RD, KORCHA RD, MANSFIELDS RD, THE BASIN RD, UNKNOWN RD, WESTGROVE RD",
+        "SUBURBS": "INJUNE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.205393,
           -25.240624
         ]
@@ -1097,5 +1118,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718235600.437127"
+  "extracted": "1718235901.331943"
 }
