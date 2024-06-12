@@ -261,6 +261,75 @@
           {
             "type": "Point",
             "coordinates": [
+              150.50109,
+              -24.375184
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.500101,
+                  -24.371845
+                ],
+                [
+                  150.501088,
+                  -24.378636
+                ],
+                [
+                  150.501607,
+                  -24.379027
+                ],
+                [
+                  150.502068,
+                  -24.378579
+                ],
+                [
+                  150.502079,
+                  -24.376593
+                ],
+                [
+                  150.502071,
+                  -24.376506
+                ],
+                [
+                  150.501073,
+                  -24.371702
+                ],
+                [
+                  150.50051,
+                  -24.371341
+                ],
+                [
+                  150.500101,
+                  -24.371845
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8001",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "10:47AM 12 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DAKENBA RD",
+        "SUBURBS": "BILOELA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.031418,
               -17.163574
             ]
@@ -381,5 +450,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718153400.376872"
+  "extracted": "1718153700.597556"
 }
