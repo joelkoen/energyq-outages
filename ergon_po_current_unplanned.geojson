@@ -446,9 +446,102 @@
         "STREETS": "BLAKNEY RD, BOONMOO RD, BOOTH RD, BULLABURRAH CREEK RD, BURKE DEVELOPMENT RD, CARBONATE CREEK RD, CHANNEL RD, DARRELL RD, EUREKA CREEK RD, FABRIS RD, HANLEY RD, KENNEDY ST, LEAFGOLD RD, LEAFGOLD WEIR RD, MARKOCIC RD, MINISINI RD, PARISE RD, PETFORD RD, RALEIGH ST, SANDY CREEK RD, STOKES RD, TOP EUREKA CREEK RD, TOP EUREKA RD, UNKNOWN ST, VENESS RD, WOLFRAM RD",
         "SUBURBS": "DIMBULAH, LEAFGOLD, SOLANUM"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              141.416554,
+              -17.494707
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  140.878687,
+                  -17.779663
+                ],
+                [
+                  141.157156,
+                  -18.059475
+                ],
+                [
+                  141.157485,
+                  -18.059615
+                ],
+                [
+                  141.625286,
+                  -18.069674
+                ],
+                [
+                  141.625743,
+                  -18.069364
+                ],
+                [
+                  141.878345,
+                  -17.328642
+                ],
+                [
+                  141.878359,
+                  -17.328593
+                ],
+                [
+                  141.954495,
+                  -16.968505
+                ],
+                [
+                  141.954084,
+                  -16.967968
+                ],
+                [
+                  141.462719,
+                  -16.91974
+                ],
+                [
+                  141.462467,
+                  -16.919783
+                ],
+                [
+                  141.315873,
+                  -16.988127
+                ],
+                [
+                  141.315664,
+                  -16.988322
+                ],
+                [
+                  140.878613,
+                  -17.779141
+                ],
+                [
+                  140.878687,
+                  -17.779663
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7346",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "613",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "12:43PM 12 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AIRPORT RD, BALONNE ST, BEARD CRES, BELL ST, BRODIE ST, BROWN ST, BURKE DEVELOPMENT RD, CAROLINE ST, CHILLAGOE RD, CROYDON RD, DUTTON ST, ELLIS ST, FORSAYTH ST, GLENORE ACCESS RD, GOUGH ST, GREEN ST, GREENAWAY ST, GULF DEVELOPMENT RD, HAIG ST, HANNAM ST, HENRIETTA ST, HOLLINGSWORTH ST, JUBILEE WAY, LANDSBOROUGH ST, LITTLE BROWN ST, MACNAMARA ST, MATILDA ST, NOEL ST, NOEL ST W, NOEL ST WEST, NORMAN ST, OLD CROYDON RD, PALMER ST, PHILP ST, RACECOURSE RD, RUSSELL ST, SAVANNAH WAY, SIMPSON ST, SUTHERLAND ST, SWAN ST, THOMPSON ST, TRAVERS ST, UNKNOWN ST, WOODWARD ST, WURRUP ST",
+        "SUBURBS": "NORMANTON"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718160301.437688"
+  "extracted": "1718160600.405265"
 }
