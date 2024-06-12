@@ -91,6 +91,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.671614,
+          -23.332586
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7177",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "12:40PM 12 Jun 2024",
+        "EST_FIX_TIME": "4:30PM 12 Jun 2024",
+        "STREETS": "EMU PARK RD",
+        "SUBURBS": "TUNGAMULL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.647725,
           -23.164124
         ]
@@ -238,27 +259,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.060042,
-          -18.009231
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN6512",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "322",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:30AM 12 Jun 2024",
-        "EST_FIX_TIME": "2:30PM 12 Jun 2024",
-        "STREETS": "ACACIA CL, AMANDA CRES, BILLABONG ST, CASUARINA ST, COSTIGAN ST, GREVILLEA CRES, HULL HEADS RD, LUFF ST, MELALEUCA DR, MUIR ST, PAPERBARK ST, PARADISE PALM DR, TAYLOR ST, TULLY HEADS RD, VIPIANA DR",
-        "SUBURBS": "HULL HEADS, TULLY HEADS"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           146.011989,
           -17.458392
         ]
@@ -273,27 +273,6 @@
         "EST_FIX_TIME": "2:30PM 12 Jun 2024",
         "STREETS": "BRISCHETTO DR, CAMARLINGHI RD, CARMALINGHI RD, DAVIS RD, FALLON RD, JUBILEE RD, KIRK RD, SUNSET RD, UNKNOWN ST, WILLIAMSON RD",
         "SUBURBS": "DARADGEE, GARRADUNGA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          142.983717,
-          -18.345384
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN6712",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "43",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "9:00AM 12 Jun 2024",
-        "EST_FIX_TIME": "2:30PM 12 Jun 2024",
-        "STREETS": "GILBERT RVR, GULF DEVELOPMENT RD, KELLY RD, STRATHMORE RD, UNKNOWN ST",
-        "SUBURBS": "CROYDON, GEORGETOWN"
       }
     },
     {
@@ -973,27 +952,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.364122,
-          -24.959525
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB5541",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "39",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Crews working on-site",
-        "START": "8:31AM 12 Jun 2024",
-        "EST_FIX_TIME": "2:30PM 12 Jun 2024",
-        "STREETS": "FIELDINGS RD, GOODWOOD RD, GORDONS RD, PAYNES RD, WISES RD, WOODS EAST RD, WOODS WEST RD",
-        "SUBURBS": "ALLOWAY, ELLIOTT"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           152.295423,
           -25.20969
         ]
@@ -1055,5 +1013,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718160001.359155"
+  "extracted": "1718160301.437688"
 }
