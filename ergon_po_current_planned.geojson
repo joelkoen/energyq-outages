@@ -427,6 +427,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          144.855015,
+          -15.858211
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7050",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:25AM 13 Jun 2024",
+        "EST_FIX_TIME": "2:00PM 13 Jun 2024",
+        "STREETS": "ANDERSON ST",
+        "SUBURBS": "LAKELAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.650346,
           -20.28476
         ]
@@ -525,27 +546,6 @@
         "EST_FIX_TIME": "12:00PM 13 Jun 2024",
         "STREETS": "SLADE POINT RD",
         "SUBURBS": "SLADE POINT"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.262714,
-          -20.020912
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ4983",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "7:34AM 13 Jun 2024",
-        "EST_FIX_TIME": "4:00PM 13 Jun 2024",
-        "STREETS": "WENTWORTH ST",
-        "SUBURBS": "BOWEN"
       }
     },
     {
@@ -826,27 +826,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          143.7424,
-          -27.292816
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW8729",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "9:30AM 13 Jun 2024",
-        "EST_FIX_TIME": "2:30PM 13 Jun 2024",
-        "STREETS": "TOBERMORY RD",
-        "SUBURBS": "QUILPIE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           148.205393,
           -25.240624
         ]
@@ -941,7 +920,7 @@
         "CUSTOMERS_AFFECTED": "282",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 13 Jun 2024",
+        "START": "9:25AM 13 Jun 2024",
         "EST_FIX_TIME": "3:30PM 13 Jun 2024",
         "STREETS": "BAUPLE-WOOLOOGA RD, BRUCE HWY, DANIEL RD, DARWIN RD, DEEPHOUSE RD, EMMA RD, FAINE RD, GOOTCHIE RD, HEMMINGS RD, KEETJE RD, MARTYN RD, MOLTENO RD, MYNTJE RD, PETTIT RD, SHEEHANS RD, STOTTENVILLE RD, VAN HENSBROEK RD",
         "SUBURBS": "BAUPLE, GOOTCHIE, ROSSENDALE"
@@ -1097,5 +1076,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718234701.407622"
+  "extracted": "1718235002.950477"
 }
