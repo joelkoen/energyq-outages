@@ -405,9 +405,94 @@
         "STREETS": "ALICIA ST, ALLAN ST, ANNE ST, BAILEY CRES, BAMBARRA ST, BERRIGAN ST, BERYL ST, BINSTEAD DR, BLAKE ST, BROLGA AVE, CAROLINE AVE, COMMERCIAL DR, COOLEROO CRES, COUGAL ST, CYMBIDIUM CT, DAKARA DR, DALTON ST, DANDAR DR, EDMUND RICE DR, EILEEN AVE, ELAINE ST, ELLEN ST, ENID AVE, EUGAREE ST, EXPO CT, FALCONER ST, FERRY RD, FRINTON ST, GOODYEAR ST, GRAHAM ST, GURRAH AVE, HIGH ST, HINDE ST, JANE ST, JIPPI AVE, JOAN ST, KATHLEEN AVE, KINDRA AVE, KURANGA AVE, LARA AVE, LARWON TCE, LILLI PILLI DR, LITTLE HIGH ST, LOUISE ST, LYDIA GR, MABEL AVE, MANGO PL, MARGARET ST, MELINDA ST, MINNIE ST, MOONAH AVE, NERANG RD, NERANG ST, NYORA ST, OATLEY PL, OLNEY CT, OLSEN AVE, OLYMPIC CCT, OMEGA CT, ORANA AVE, PEPPER ST, PERCY ST, PILGRIM PL, PILLIGA ST, PINTER DR, PIRELLI ST, POHLMAN ST, PRINCE ST, QUEEN ST, RIDGEWAY AVE, SALMON ST, SHEARER CT, SHIRLEY ST, SIBYL ST, SOUTHPORT-NERANG RD, SPENDELOVE AVE, SUSANNE ST, SUSSEX ST, TALINGA CRES, TONGARRA ST, TWEED ST, VIRGINIA GR, WAIN AVE, WARANA AVE, WARD ST, WARDOO ST, YARRELLA ST",
         "SUBURBS": "ASHMORE, SOUTHPORT"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.071745,
+              -27.520056
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.070469,
+                  -27.52179
+                ],
+                [
+                  153.073235,
+                  -27.52135
+                ],
+                [
+                  153.073607,
+                  -27.52072
+                ],
+                [
+                  153.07296,
+                  -27.519441
+                ],
+                [
+                  153.07291,
+                  -27.519363
+                ],
+                [
+                  153.072204,
+                  -27.518485
+                ],
+                [
+                  153.071626,
+                  -27.518322
+                ],
+                [
+                  153.071364,
+                  -27.518403
+                ],
+                [
+                  153.07111,
+                  -27.518578
+                ],
+                [
+                  153.070274,
+                  -27.51969
+                ],
+                [
+                  153.070199,
+                  -27.519853
+                ],
+                [
+                  153.069884,
+                  -27.521257
+                ],
+                [
+                  153.070469,
+                  -27.52179
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-765171-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "54",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:10PM 13 Jun 2024",
+        "EST_FIX_TIME": "9:00PM 13 Jun 2024",
+        "STREETS": "BINYA ST, ELGAR ST, GREENMOUNT AVE, PROVINCIAL RD, ROWTON ST",
+        "SUBURBS": "HOLLAND PARK"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718266201.210775"
+  "extracted": "1718266503.037251"
 }
