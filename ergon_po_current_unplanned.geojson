@@ -88,11 +88,80 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "34",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "12:14AM 14 Jun 2024",
         "EST_FIX_TIME": null,
         "STREETS": "CHINN RD, GODFREY RD, PASETTI RD, STATE FARM RD, TINAROO FALLS DAM RD, XHAFER RD",
         "SUBURBS": "ATHERTON, KAIRI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              143.459688,
+              -21.001679
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  143.381655,
+                  -20.912645
+                ],
+                [
+                  143.402188,
+                  -21.057911
+                ],
+                [
+                  143.402449,
+                  -21.058255
+                ],
+                [
+                  143.472315,
+                  -21.091137
+                ],
+                [
+                  143.472897,
+                  -21.091026
+                ],
+                [
+                  143.537722,
+                  -21.019377
+                ],
+                [
+                  143.537639,
+                  -21.01872
+                ],
+                [
+                  143.382414,
+                  -20.912222
+                ],
+                [
+                  143.381655,
+                  -20.912645
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9733",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:50AM 14 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARJUNA STATION, CANNUM DOWNS STATION, HILLTOP STATION, ILLALONG STATION, OPHIR STATION, TERRANBURBY STATION",
+        "SUBURBS": "HUGHENDEN, RICHMOND"
       }
     },
     {
@@ -276,5 +345,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718297400.403216"
+  "extracted": "1718297704.961964"
 }
