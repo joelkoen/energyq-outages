@@ -163,9 +163,74 @@
         "STREETS": "ARJUNA STATION, CANNUM DOWNS STATION, HILLTOP STATION, ILLALONG STATION, OPHIR STATION, TERRANBURBY STATION",
         "SUBURBS": "HUGHENDEN, RICHMOND"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.003726,
+              -24.742035
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.002237,
+                  -24.742986
+                ],
+                [
+                  152.005148,
+                  -24.74293
+                ],
+                [
+                  152.005617,
+                  -24.742586
+                ],
+                [
+                  152.005373,
+                  -24.742084
+                ],
+                [
+                  152.00335,
+                  -24.741083
+                ],
+                [
+                  152.002724,
+                  -24.741205
+                ],
+                [
+                  152.001836,
+                  -24.742262
+                ],
+                [
+                  152.002237,
+                  -24.742986
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6447",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 14 Jun 2024",
+        "EST_FIX_TIME": "12:30PM 14 Jun 2024",
+        "STREETS": "WATERLOO HALL RD, WATERLOO RD",
+        "SUBURBS": "WATERLOO, YANDARAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718321100.37677"
+  "extracted": "1718321401.918415"
 }
