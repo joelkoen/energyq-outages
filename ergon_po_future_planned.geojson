@@ -2086,6 +2086,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.789122,
+          -26.567023
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10074",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Work scheduled",
+        "START": "7:30AM 14 Jun 2024",
+        "EST_FIX_TIME": "12:30PM 14 Jun 2024",
+        "STREETS": "GEORGE ST, HAWTHORNE ST",
+        "SUBURBS": "ROMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.96623,
           -27.555921
         ]
@@ -2945,5 +2966,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1718244601.500897"
+  "extracted": "1718244901.576918"
 }
