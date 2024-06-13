@@ -221,6 +221,59 @@
           {
             "type": "Point",
             "coordinates": [
+              148.15735,
+              -23.526504
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.15784,
+                  -23.5265
+                ],
+                [
+                  148.157346,
+                  -23.526052
+                ],
+                [
+                  148.15686,
+                  -23.526507
+                ],
+                [
+                  148.157354,
+                  -23.526955
+                ],
+                [
+                  148.15784,
+                  -23.5265
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8064",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "646",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:27AM 13 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "LORRAWAY ST",
+        "SUBURBS": "EMERALD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               149.174375,
               -21.125342
             ]
@@ -458,5 +511,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718237703.464889"
+  "extracted": "1718238000.370453"
 }
