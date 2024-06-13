@@ -7,6 +7,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          147.558498,
+          -23.249363
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6993",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:05AM 14 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 14 Jun 2024",
+        "STREETS": "CLERMONT RD, OFF CLERMONT RD, REKLAW RD",
+        "SUBURBS": "RUBYVALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           143.61568,
           -23.920849
         ]
@@ -310,7 +331,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "46",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 14 Jun 2024",
         "EST_FIX_TIME": "1:30PM 14 Jun 2024",
         "STREETS": "HUTCHISON CL, KENT CL, LINDQUIST CL",
@@ -824,5 +845,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718317200.453097"
+  "extracted": "1718317501.213825"
 }
