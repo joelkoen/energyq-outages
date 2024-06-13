@@ -249,15 +249,116 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "164",
         "REASON": "Under Investigation",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "11:58AM 13 Jun 2024",
         "EST_FIX_TIME": "3:30PM 13 Jun 2024",
         "STREETS": "CREEK RD",
         "SUBURBS": "CARINA HEIGHTS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.525549,
+              -28.170476
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.52387,
+                  -28.170723
+                ],
+                [
+                  153.52515,
+                  -28.17146
+                ],
+                [
+                  153.525365,
+                  -28.171529
+                ],
+                [
+                  153.525755,
+                  -28.171572
+                ],
+                [
+                  153.526041,
+                  -28.171529
+                ],
+                [
+                  153.526329,
+                  -28.171405
+                ],
+                [
+                  153.526347,
+                  -28.171397
+                ],
+                [
+                  153.527131,
+                  -28.171022
+                ],
+                [
+                  153.52738,
+                  -28.170503
+                ],
+                [
+                  153.527249,
+                  -28.170085
+                ],
+                [
+                  153.52689,
+                  -28.16977
+                ],
+                [
+                  153.525248,
+                  -28.169379
+                ],
+                [
+                  153.524909,
+                  -28.169403
+                ],
+                [
+                  153.524089,
+                  -28.169726
+                ],
+                [
+                  153.523867,
+                  -28.169895
+                ],
+                [
+                  153.523718,
+                  -28.170101
+                ],
+                [
+                  153.52387,
+                  -28.170723
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-765103-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "133",
+        "REASON": "Damage to our equipment",
+        "STATUS": "Awaiting",
+        "START": "2:01PM 13 Jun 2024",
+        "EST_FIX_TIME": "5:00PM 13 Jun 2024",
+        "STREETS": "BOLTON ST, COOLANGATTA RD, OCEAN ST",
+        "SUBURBS": "COOLANGATTA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718251204.250618"
+  "extracted": "1718251500.355098"
 }
