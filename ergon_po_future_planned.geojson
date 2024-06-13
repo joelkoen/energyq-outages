@@ -469,6 +469,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          147.639685,
+          -22.811154
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8074",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Work scheduled",
+        "START": "6:00AM 15 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 15 Jun 2024",
+        "STREETS": "TURRAMA RD",
+        "SUBURBS": "CLERMONT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.743246,
           -17.01969
         ]
@@ -1680,27 +1701,6 @@
         "EST_FIX_TIME": "2:30PM 17 Jun 2024",
         "STREETS": "FORREST BEACH RD",
         "SUBURBS": "VICTORIA ESTATE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.726213,
-          -19.286833
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ8371",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "57",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:53AM 13 Jun 2024",
-        "EST_FIX_TIME": "2:00PM 13 Jun 2024",
-        "STREETS": "BLACKBEAN CT, CANTHIUM CT, GREENVIEW DR, HELICONIA CT",
-        "SUBURBS": "MOUNT LOUISA"
       }
     },
     {
@@ -2945,5 +2945,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1718243701.42401"
+  "extracted": "1718244300.526385"
 }
