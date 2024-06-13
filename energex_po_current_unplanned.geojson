@@ -562,9 +562,98 @@
         "STREETS": "ALPINIA AVE, AMPERE CT, AQUILA CCT, AVON AVE, BANKSIA ST, BASS CT, BAZA PL, BIBIMULYA ST, BORONIA DR, BOTANY CRES, BOW CT, CALLITRIS ST, CALTOWIE AVE, CAPTAIN COOK DR, CASSIA AVE, CASTAWAY CT, COMMODORE PL, COSMOS AVE, CUTTER CT, DANIEL PL, DIANTHUS AVE, EAGLES LDG, ELANUS CT, ENDEAVOUR DR, FALCO CT, FARADAY ST, FATHOM CT, FREDERICK ST, FULMAR CRES, GREEN ST, HAWAII CRES, HAZELL AVE, HOVEA ST, ISLAND PDE, KAKADU CCT, KEALA CT, KEKUA CT, KITT AVE, LEEWARD PL, MARTON PL, MELROSE AVE, ORARA AVE, ORIOLE CL, PACIFIC DR, PEMBROKE PL, PLYMOUTH ST, PORT DR, RAPTOR PDE, REEF ST, SEAEAGLE PL, SEAFARER PL, SKIFF CT, SOLANDER ESP, SUN CT, SUNDERLAND DR, TASMAN CT, TEAL BVD, TRADEWINDS DR, TURNSTONE CL, VENUS CT, VERDONI ST, WINDWARD PL, WINGBET CT, WISTARIA ST, YORKSHIRE DR",
         "SUBURBS": "BANKSIA BEACH, BELLARA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.967334,
+              -27.037207
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.965743,
+                  -27.038461
+                ],
+                [
+                  152.966269,
+                  -27.038373
+                ],
+                [
+                  152.966271,
+                  -27.038373
+                ],
+                [
+                  152.968555,
+                  -27.037987
+                ],
+                [
+                  152.968615,
+                  -27.037973
+                ],
+                [
+                  152.969337,
+                  -27.037767
+                ],
+                [
+                  152.969446,
+                  -27.036951
+                ],
+                [
+                  152.967619,
+                  -27.035953
+                ],
+                [
+                  152.967013,
+                  -27.036008
+                ],
+                [
+                  152.96603,
+                  -27.036828
+                ],
+                [
+                  152.965971,
+                  -27.036887
+                ],
+                [
+                  152.965249,
+                  -27.037745
+                ],
+                [
+                  152.965223,
+                  -27.038254
+                ],
+                [
+                  152.965743,
+                  -27.038461
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-765184-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "22",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "7:10PM 13 Jun 2024",
+        "EST_FIX_TIME": "9:00PM 13 Jun 2024",
+        "STREETS": "PERIMA RD",
+        "SUBURBS": "ELIMBAH"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718270401.368316"
+  "extracted": "1718270701.384926"
 }
