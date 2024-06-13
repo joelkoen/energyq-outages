@@ -272,9 +272,74 @@
         "STREETS": "SHIRBOURNE RD",
         "SUBURBS": "GIRU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.758165,
+              -27.418341
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.756983,
+                  -27.41907
+                ],
+                [
+                  151.759123,
+                  -27.419632
+                ],
+                [
+                  151.759683,
+                  -27.419453
+                ],
+                [
+                  151.759662,
+                  -27.418922
+                ],
+                [
+                  151.758016,
+                  -27.41705
+                ],
+                [
+                  151.757141,
+                  -27.417184
+                ],
+                [
+                  151.756647,
+                  -27.418495
+                ],
+                [
+                  151.756983,
+                  -27.41907
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10071",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:45AM 13 Jun 2024",
+        "EST_FIX_TIME": "1:00PM 13 Jun 2024",
+        "STREETS": "KELVINHAUGH RD, OAKEY KELVINHAUGH RD",
+        "SUBURBS": "OAKEY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718243101.696084"
+  "extracted": "1718243400.39528"
 }
