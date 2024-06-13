@@ -103,6 +103,99 @@
           {
             "type": "Point",
             "coordinates": [
+              150.425861,
+              -23.939975
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.286438,
+                  -23.999285
+                ],
+                [
+                  150.325116,
+                  -24.004961
+                ],
+                [
+                  150.325226,
+                  -24.004966
+                ],
+                [
+                  150.502462,
+                  -23.994047
+                ],
+                [
+                  150.502833,
+                  -23.993852
+                ],
+                [
+                  150.565621,
+                  -23.909903
+                ],
+                [
+                  150.565635,
+                  -23.909412
+                ],
+                [
+                  150.54285,
+                  -23.875169
+                ],
+                [
+                  150.542254,
+                  -23.874984
+                ],
+                [
+                  150.349027,
+                  -23.944269
+                ],
+                [
+                  150.348874,
+                  -23.944356
+                ],
+                [
+                  150.288075,
+                  -23.995367
+                ],
+                [
+                  150.287976,
+                  -23.995482
+                ],
+                [
+                  150.286086,
+                  -23.998622
+                ],
+                [
+                  150.286438,
+                  -23.999285
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8100",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:00AM 14 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BURNETT HWY, DIXALEA-DOREEN RD, KELLY'S RD, LANCEFIELD RD, PLAYFIELDS RD, TOMLIN RD, TOMLINS RD",
+        "SUBURBS": "DIXALEA, DULULU, WOWAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               143.459688,
               -21.001679
             ]
@@ -264,86 +357,9 @@
         "STREETS": "GLENDOWER ST, MARY ST, OWEN ST, RANGE ST",
         "SUBURBS": "MOUNT LOFTY, TOOWOOMBA"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              152.153722,
-              -26.825412
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.144027,
-                  -26.82808
-                ],
-                [
-                  152.152064,
-                  -26.832783
-                ],
-                [
-                  152.152181,
-                  -26.832833
-                ],
-                [
-                  152.157419,
-                  -26.834377
-                ],
-                [
-                  152.157658,
-                  -26.834394
-                ],
-                [
-                  152.163172,
-                  -26.83357
-                ],
-                [
-                  152.163538,
-                  -26.832923
-                ],
-                [
-                  152.154326,
-                  -26.816505
-                ],
-                [
-                  152.153483,
-                  -26.81643
-                ],
-                [
-                  152.143906,
-                  -26.827426
-                ],
-                [
-                  152.144027,
-                  -26.82808
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB6512",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "12",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
-        "START": "1:31AM 14 Jun 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "ALMOND RD, OLD ESK RD",
-        "SUBURBS": "BENARKIN, BENARKIN NORTH, TAROMEO"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718312401.878249"
+  "extracted": "1718312700.314475"
 }
