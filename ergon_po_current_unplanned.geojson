@@ -10,6 +10,99 @@
           {
             "type": "Point",
             "coordinates": [
+              148.934597,
+              -23.418069
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.926733,
+                  -23.429676
+                ],
+                [
+                  148.926788,
+                  -23.42998
+                ],
+                [
+                  148.926809,
+                  -23.430055
+                ],
+                [
+                  148.940262,
+                  -23.465534
+                ],
+                [
+                  148.940802,
+                  -23.46583
+                ],
+                [
+                  148.941213,
+                  -23.465391
+                ],
+                [
+                  148.942464,
+                  -23.380719
+                ],
+                [
+                  148.942428,
+                  -23.380541
+                ],
+                [
+                  148.937989,
+                  -23.370588
+                ],
+                [
+                  148.93752,
+                  -23.370309
+                ],
+                [
+                  148.937073,
+                  -23.370617
+                ],
+                [
+                  148.933672,
+                  -23.379998
+                ],
+                [
+                  148.933651,
+                  -23.380084
+                ],
+                [
+                  148.92673,
+                  -23.429544
+                ],
+                [
+                  148.926733,
+                  -23.429676
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8099",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:07AM 14 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BLUFF JELLINBAH RD, CAPRICORN HWY, JELLINBAH RD, OFF CAPRICORN HWY, OFF YARRABEE RD",
+        "SUBURBS": "BLUFF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               143.459688,
               -21.001679
             ]
@@ -252,5 +345,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718302201.865395"
+  "extracted": "1718302800.354744"
 }
