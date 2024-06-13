@@ -235,9 +235,86 @@
         "STREETS": "GLENDOWER ST, MARY ST, OWEN ST, RANGE ST",
         "SUBURBS": "MOUNT LOFTY, TOOWOOMBA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.153722,
+              -26.825412
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.144027,
+                  -26.82808
+                ],
+                [
+                  152.152064,
+                  -26.832783
+                ],
+                [
+                  152.152181,
+                  -26.832833
+                ],
+                [
+                  152.157419,
+                  -26.834377
+                ],
+                [
+                  152.157658,
+                  -26.834394
+                ],
+                [
+                  152.163172,
+                  -26.83357
+                ],
+                [
+                  152.163538,
+                  -26.832923
+                ],
+                [
+                  152.154326,
+                  -26.816505
+                ],
+                [
+                  152.153483,
+                  -26.81643
+                ],
+                [
+                  152.143906,
+                  -26.827426
+                ],
+                [
+                  152.144027,
+                  -26.82808
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6512",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "1:31AM 14 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALMOND RD, OLD ESK RD",
+        "SUBURBS": "BENARKIN, BENARKIN NORTH, TAROMEO"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718293800.264407"
+  "extracted": "1718294101.444656"
 }
