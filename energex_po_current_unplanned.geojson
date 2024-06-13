@@ -203,9 +203,94 @@
         "STREETS": "AKEBIA ST, CUPHEA ST, CYCAS ST, HARMONY CT",
         "SUBURBS": "ARANA HILLS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.129233,
+              -27.629097
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.121171,
+                  -27.638835
+                ],
+                [
+                  152.134114,
+                  -27.632034
+                ],
+                [
+                  152.134342,
+                  -27.631773
+                ],
+                [
+                  152.138057,
+                  -27.620627
+                ],
+                [
+                  152.138038,
+                  -27.620321
+                ],
+                [
+                  152.137704,
+                  -27.619626
+                ],
+                [
+                  152.137152,
+                  -27.619358
+                ],
+                [
+                  152.127562,
+                  -27.620839
+                ],
+                [
+                  152.12748,
+                  -27.620858
+                ],
+                [
+                  152.122439,
+                  -27.622436
+                ],
+                [
+                  152.122102,
+                  -27.622818
+                ],
+                [
+                  152.120409,
+                  -27.638403
+                ],
+                [
+                  152.121171,
+                  -27.638835
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-765159-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "5:38PM 13 Jun 2024",
+        "EST_FIX_TIME": "8:30PM 13 Jun 2024",
+        "STREETS": "FLAGSTONE CREEK RD, MASON RD, STEPHENS RD",
+        "SUBURBS": "FLAGSTONE CREEK, LILYDALE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718264101.679263"
+  "extracted": "1718264401.512888"
 }
