@@ -1,8 +1,86 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.968583,
+              -26.667024
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.967037,
+                  -26.667603
+                ],
+                [
+                  152.967312,
+                  -26.667782
+                ],
+                [
+                  152.967536,
+                  -26.667863
+                ],
+                [
+                  152.969103,
+                  -26.668064
+                ],
+                [
+                  152.969646,
+                  -26.667772
+                ],
+                [
+                  152.97013,
+                  -26.666588
+                ],
+                [
+                  152.969592,
+                  -26.665985
+                ],
+                [
+                  152.969363,
+                  -26.666012
+                ],
+                [
+                  152.969237,
+                  -26.666042
+                ],
+                [
+                  152.96714,
+                  -26.66682
+                ],
+                [
+                  152.967037,
+                  -26.667603
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-765434-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "22",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "7:34AM 15 Jun 2024",
+        "EST_FIX_TIME": "9:00AM 15 Jun 2024",
+        "STREETS": "SWEET WATER ST, UPPER WAKEFIELD ST",
+        "SUBURBS": "WOOMBYE"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718403001.238142"
+  "extracted": "1718403302.911146"
 }
