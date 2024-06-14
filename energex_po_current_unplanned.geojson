@@ -1,8 +1,106 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.09302,
+              -27.489921
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.090394,
+                  -27.488726
+                ],
+                [
+                  153.090646,
+                  -27.488985
+                ],
+                [
+                  153.090705,
+                  -27.489036
+                ],
+                [
+                  153.09416,
+                  -27.491588
+                ],
+                [
+                  153.094342,
+                  -27.491674
+                ],
+                [
+                  153.09507,
+                  -27.491862
+                ],
+                [
+                  153.095714,
+                  -27.491386
+                ],
+                [
+                  153.095456,
+                  -27.488953
+                ],
+                [
+                  153.095141,
+                  -27.488577
+                ],
+                [
+                  153.094631,
+                  -27.488394
+                ],
+                [
+                  153.094531,
+                  -27.488368
+                ],
+                [
+                  153.093482,
+                  -27.488202
+                ],
+                [
+                  153.09344,
+                  -27.488197
+                ],
+                [
+                  153.090823,
+                  -27.487981
+                ],
+                [
+                  153.090325,
+                  -27.488224
+                ],
+                [
+                  153.090394,
+                  -27.488726
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-765388-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "136",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:22PM 14 Jun 2024",
+        "EST_FIX_TIME": "8:00PM 14 Jun 2024",
+        "STREETS": "BRUCE ST, DICKENSON ST, ORANA ST, PEMBROKE ST, STANLEY RD",
+        "SUBURBS": "CARINA"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718353501.238829"
+  "extracted": "1718353803.130159"
 }
