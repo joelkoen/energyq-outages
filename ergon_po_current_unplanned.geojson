@@ -86,9 +86,78 @@
         "STREETS": "BARTELS RD, MILLBANK BOUNDARY RD, WEITZELS RD, WIETZELS RD",
         "SUBURBS": "KOGAN, TARA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.201922,
+              -27.203272
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.184936,
+                  -27.214279
+                ],
+                [
+                  151.207541,
+                  -27.214869
+                ],
+                [
+                  151.207566,
+                  -27.214869
+                ],
+                [
+                  151.218819,
+                  -27.214656
+                ],
+                [
+                  151.219266,
+                  -27.214016
+                ],
+                [
+                  151.207709,
+                  -27.191789
+                ],
+                [
+                  151.20688,
+                  -27.191675
+                ],
+                [
+                  151.184578,
+                  -27.213525
+                ],
+                [
+                  151.184936,
+                  -27.214279
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10163",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:31AM 15 Jun 2024",
+        "EST_FIX_TIME": "10:30AM 15 Jun 2024",
+        "STREETS": "FOWLERS RD, MOONIE HWY",
+        "SUBURBS": "DALBY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718407803.191652"
+  "extracted": "1718408101.373789"
 }
