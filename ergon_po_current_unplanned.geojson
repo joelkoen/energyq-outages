@@ -88,7 +88,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "23",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "7:00AM 14 Jun 2024",
         "EST_FIX_TIME": null,
         "STREETS": "BURNETT HWY, DIXALEA-DOREEN RD, KELLY'S RD, LANCEFIELD RD, PLAYFIELDS RD, TOMLIN RD, TOMLINS RD",
@@ -172,6 +172,115 @@
           {
             "type": "Point",
             "coordinates": [
+              151.810938,
+              -28.096347
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.746052,
+                  -28.091731
+                ],
+                [
+                  151.833227,
+                  -28.1346
+                ],
+                [
+                  151.83346,
+                  -28.134656
+                ],
+                [
+                  151.836947,
+                  -28.134737
+                ],
+                [
+                  151.837107,
+                  -28.134718
+                ],
+                [
+                  151.866003,
+                  -28.126954
+                ],
+                [
+                  151.86634,
+                  -28.12666
+                ],
+                [
+                  151.876002,
+                  -28.09987
+                ],
+                [
+                  151.87592,
+                  -28.099457
+                ],
+                [
+                  151.873766,
+                  -28.096992
+                ],
+                [
+                  151.873594,
+                  -28.096866
+                ],
+                [
+                  151.786903,
+                  -28.057995
+                ],
+                [
+                  151.786564,
+                  -28.057958
+                ],
+                [
+                  151.780819,
+                  -28.059093
+                ],
+                [
+                  151.78059,
+                  -28.059198
+                ],
+                [
+                  151.753255,
+                  -28.081067
+                ],
+                [
+                  151.753169,
+                  -28.081155
+                ],
+                [
+                  151.745873,
+                  -28.091092
+                ],
+                [
+                  151.746052,
+                  -28.091731
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10038",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "187",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:38AM 14 Jun 2024",
+        "EST_FIX_TIME": "2:00PM 14 Jun 2024",
+        "STREETS": "AHERN LANE, BIG HILL RD, BONY MOUNTAIN RD, BUGDEN ST, CLEGG LANE, CONDAMINE RIVER RD, DWAN LANE, ELLIOT ST, GUM GULLY LANE, HANMER ST, HAZELDINE RD, HOPE ST, LESTER ST, LEYBURN - CUNNINGHAM RD, LEYBURN-CUNNINGHAM RD, MACALISTER ST, MOUNTAIN RD, NICHOLLS LANE, OLD THANES CK RD, PRATTEN - HENDON RD, PRATTEN HENDON RD, PRATTEN RYEFORD RD, ROSS ST, RYAN RD, SCHOOL OF ARTS RD, SEIBEL LANE, TV REPEATER RD, UPPER WHEATVALE RD, WATER TANK RD, WEIR LANE, WHITE ST, YANKEE GULLY RD",
+        "SUBURBS": "BONY MOUNTAIN, LEYBURN, PRATTEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.003726,
               -24.742035
             ]
@@ -232,5 +341,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718325902.423769"
+  "extracted": "1718326200.357149"
 }
