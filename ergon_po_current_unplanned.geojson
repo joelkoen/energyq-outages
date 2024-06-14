@@ -1,8 +1,94 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.585876,
+              -27.109288
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.5743,
+                  -27.115043
+                ],
+                [
+                  150.575878,
+                  -27.129427
+                ],
+                [
+                  150.575909,
+                  -27.129545
+                ],
+                [
+                  150.585277,
+                  -27.151347
+                ],
+                [
+                  150.586138,
+                  -27.151471
+                ],
+                [
+                  150.596798,
+                  -27.139787
+                ],
+                [
+                  150.596911,
+                  -27.139505
+                ],
+                [
+                  150.597453,
+                  -27.067508
+                ],
+                [
+                  150.596715,
+                  -27.067106
+                ],
+                [
+                  150.577723,
+                  -27.07603
+                ],
+                [
+                  150.577455,
+                  -27.076396
+                ],
+                [
+                  150.574299,
+                  -27.114966
+                ],
+                [
+                  150.5743,
+                  -27.115043
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10147",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:12AM 15 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 15 Jun 2024",
+        "STREETS": "BARTELS RD, MILLBANK BOUNDARY RD, WEITZELS RD, WIETZELS RD",
+        "SUBURBS": "KOGAN, TARA"
+      }
+    }
+  ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718403303.135673"
+  "extracted": "1718403601.602145"
 }
