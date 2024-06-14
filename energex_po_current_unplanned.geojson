@@ -78,9 +78,94 @@
         "STREETS": "CEDAR CREEK RD",
         "SUBURBS": "GHEERULLA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.058266,
+              -27.450041
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.057429,
+                  -27.450755
+                ],
+                [
+                  153.05773,
+                  -27.45096
+                ],
+                [
+                  153.058357,
+                  -27.450951
+                ],
+                [
+                  153.059044,
+                  -27.450451
+                ],
+                [
+                  153.059215,
+                  -27.450208
+                ],
+                [
+                  153.059297,
+                  -27.44991
+                ],
+                [
+                  153.059056,
+                  -27.449412
+                ],
+                [
+                  153.05849,
+                  -27.449122
+                ],
+                [
+                  153.057804,
+                  -27.449282
+                ],
+                [
+                  153.057332,
+                  -27.449985
+                ],
+                [
+                  153.057265,
+                  -27.450152
+                ],
+                [
+                  153.057236,
+                  -27.450331
+                ],
+                [
+                  153.057429,
+                  -27.450755
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-765423-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "32",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "2:23AM 15 Jun 2024",
+        "EST_FIX_TIME": "4:00AM 15 Jun 2024",
+        "STREETS": "PRINCESS ST",
+        "SUBURBS": "BULIMBA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718383201.489556"
+  "extracted": "1718383502.680482"
 }
