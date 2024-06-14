@@ -1687,20 +1687,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.184914,
-          -21.059807
+          149.180329,
+          -21.049733
         ]
       },
       "properties": {
-        "EVENT_ID": "24MK4759",
+        "EVENT_ID": "24MK4761",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
+        "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:33AM 14 Jun 2024",
-        "EST_FIX_TIME": "11:30AM 14 Jun 2024",
-        "STREETS": "MIAMI TCE",
-        "SUBURBS": "BLACKS BEACH"
+        "START": "10:32AM 14 Jun 2024",
+        "EST_FIX_TIME": "12:30PM 14 Jun 2024",
+        "STREETS": "COSFORD DR",
+        "SUBURBS": "EIMEO"
       }
     },
     {
@@ -2884,6 +2884,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.00921,
+          -28.219954
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9979",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "10:31AM 14 Jun 2024",
+        "EST_FIX_TIME": "3:00PM 14 Jun 2024",
+        "STREETS": "SCHOCH ST",
+        "SUBURBS": "WARWICK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.676515,
           -26.360411
         ]
@@ -3218,5 +3239,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1718325006.278856"
+  "extracted": "1718325300.382547"
 }
