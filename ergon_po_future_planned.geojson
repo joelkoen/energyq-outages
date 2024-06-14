@@ -994,6 +994,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.644377,
+          -18.884097
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7391",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Work scheduled",
+        "START": "9:30AM 15 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 15 Jun 2024",
+        "STREETS": "UNKNOWN ST",
+        "SUBURBS": "NORMANTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           149.047739,
           -21.105534
         ]
@@ -2588,5 +2609,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1718342700.60828"
+  "extracted": "1718343001.641925"
 }
