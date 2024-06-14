@@ -78,9 +78,106 @@
         "STREETS": "SWEET WATER ST, UPPER WAKEFIELD ST",
         "SUBURBS": "WOOMBYE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.130233,
+              -27.419812
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.124093,
+                  -27.423134
+                ],
+                [
+                  153.126928,
+                  -27.423489
+                ],
+                [
+                  153.127237,
+                  -27.42344
+                ],
+                [
+                  153.134753,
+                  -27.419859
+                ],
+                [
+                  153.134779,
+                  -27.419846
+                ],
+                [
+                  153.135615,
+                  -27.419387
+                ],
+                [
+                  153.135827,
+                  -27.419154
+                ],
+                [
+                  153.136798,
+                  -27.416713
+                ],
+                [
+                  153.136547,
+                  -27.416157
+                ],
+                [
+                  153.136527,
+                  -27.416148
+                ],
+                [
+                  153.136105,
+                  -27.416136
+                ],
+                [
+                  153.134085,
+                  -27.416895
+                ],
+                [
+                  153.134022,
+                  -27.416924
+                ],
+                [
+                  153.123905,
+                  -27.422299
+                ],
+                [
+                  153.123668,
+                  -27.422776
+                ],
+                [
+                  153.124093,
+                  -27.423134
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-765442-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "8:32AM 15 Jun 2024",
+        "EST_FIX_TIME": "11:00AM 15 Jun 2024",
+        "STREETS": "KIRRA ST, TINGIRA ST",
+        "SUBURBS": "PINKENBA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718404204.411657"
+  "extracted": "1718404501.215717"
 }
