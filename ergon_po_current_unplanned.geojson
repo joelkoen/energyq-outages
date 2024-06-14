@@ -1,8 +1,94 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.480915,
+              -27.432217
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.426392,
+                  -27.440156
+                ],
+                [
+                  151.464982,
+                  -27.442902
+                ],
+                [
+                  151.465059,
+                  -27.442902
+                ],
+                [
+                  151.535447,
+                  -27.438345
+                ],
+                [
+                  151.5359,
+                  -27.438003
+                ],
+                [
+                  151.535674,
+                  -27.437512
+                ],
+                [
+                  151.506596,
+                  -27.421585
+                ],
+                [
+                  151.506211,
+                  -27.421531
+                ],
+                [
+                  151.4423,
+                  -27.435607
+                ],
+                [
+                  151.442296,
+                  -27.435608
+                ],
+                [
+                  151.426307,
+                  -27.439271
+                ],
+                [
+                  151.42593,
+                  -27.439746
+                ],
+                [
+                  151.426392,
+                  -27.440156
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10186",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:40PM 14 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "JONDARYAN EVANSLEA RD, MCINTYRE RD, WEST PRAIRIE RD",
+        "SUBURBS": "FORMARTIN, JONDARYAN"
+      }
+    }
+  ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718340600.333995"
+  "extracted": "1718340901.280152"
 }
