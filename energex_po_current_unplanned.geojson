@@ -98,9 +98,82 @@
         "STREETS": "BRUCE ST, DICKENSON ST, ORANA ST, PEMBROKE ST, STANLEY RD",
         "SUBURBS": "CARINA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.162445,
+              -27.460045
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.160392,
+                  -27.463136
+                ],
+                [
+                  153.164634,
+                  -27.462114
+                ],
+                [
+                  153.165008,
+                  -27.461685
+                ],
+                [
+                  153.165078,
+                  -27.457377
+                ],
+                [
+                  153.164771,
+                  -27.456955
+                ],
+                [
+                  153.164216,
+                  -27.45705
+                ],
+                [
+                  153.161757,
+                  -27.45922
+                ],
+                [
+                  153.161664,
+                  -27.459332
+                ],
+                [
+                  153.159811,
+                  -27.462491
+                ],
+                [
+                  153.160392,
+                  -27.463136
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-765395-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "75",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:52PM 14 Jun 2024",
+        "EST_FIX_TIME": "10:00PM 14 Jun 2024",
+        "STREETS": "PAVLU ST, ROSEDENE ST, SELCROFT ST, STANNARD RD, WONDALL RD",
+        "SUBURBS": "MANLY WEST, WYNNUM WEST"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718355000.298892"
+  "extracted": "1718355301.021604"
 }
