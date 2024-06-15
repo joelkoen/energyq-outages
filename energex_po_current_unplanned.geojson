@@ -1,8 +1,78 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.806534,
+              -26.759794
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.805441,
+                  -26.760116
+                ],
+                [
+                  152.805954,
+                  -26.760191
+                ],
+                [
+                  152.805972,
+                  -26.760193
+                ],
+                [
+                  152.807482,
+                  -26.760365
+                ],
+                [
+                  152.808044,
+                  -26.759976
+                ],
+                [
+                  152.807613,
+                  -26.75947
+                ],
+                [
+                  152.80559,
+                  -26.759223
+                ],
+                [
+                  152.805025,
+                  -26.759603
+                ],
+                [
+                  152.805441,
+                  -26.760116
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-765506-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:55AM 16 Jun 2024",
+        "EST_FIX_TIME": "7:30AM 16 Jun 2024",
+        "STREETS": "REESVILLE RD",
+        "SUBURBS": "REESVILLE"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718484001.326798"
+  "extracted": "1718484301.309083"
 }
