@@ -183,9 +183,86 @@
         "STREETS": "4AK RD, COSTELLO RD, CUTELLA RD, KELVINHAUGH RD, KINGSTHORPE SILVERLEIGH RD, OAKEY KELVINHAUGH RD, WILTHORN KELVINHAUGH RD",
         "SUBURBS": "KELVINHAUGH, OAKEY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.403994,
+              -27.428613
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.338593,
+                  -27.466671
+                ],
+                [
+                  150.369502,
+                  -27.505472
+                ],
+                [
+                  150.370344,
+                  -27.505448
+                ],
+                [
+                  150.469443,
+                  -27.362282
+                ],
+                [
+                  150.469109,
+                  -27.361603
+                ],
+                [
+                  150.412337,
+                  -27.351755
+                ],
+                [
+                  150.411805,
+                  -27.35197
+                ],
+                [
+                  150.34429,
+                  -27.455037
+                ],
+                [
+                  150.344267,
+                  -27.455077
+                ],
+                [
+                  150.338545,
+                  -27.466222
+                ],
+                [
+                  150.338593,
+                  -27.466671
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10228",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:30AM 16 Jun 2024",
+        "EST_FIX_TIME": "12:00PM 16 Jun 2024",
+        "STREETS": "BULLOCK HEAD RD, CAMBRIDGE CROSSING RD, ROACHES RD, TAYLORS RD, THE DEEP SCHOOL RD, TULLAGRIE RD, WILLIS RD",
+        "SUBURBS": "TARA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718494500.3795"
+  "extracted": "1718495102.962495"
 }
