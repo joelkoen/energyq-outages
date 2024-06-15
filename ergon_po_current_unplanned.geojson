@@ -102,9 +102,94 @@
         "STREETS": "ANGLEWOOD RD, BELAR ST, BRIGALOW ST, BRUCE HWY, BUNDERSEN RD, CARBON ST, CHARON ST, COOPERS RD, COORUMBURRA ST, CROYDON RD, DEMPSEY ST, HENESSEYS RD, LAVINIA PARK RD, LINK LANE, MARLBOROUGH RD, MONTROSE ST, MT BISON RD, NEERIM RD, OFF BRUCE HWY, OFF MONTROSE ST, OGMORE KOOLTANDRA RD, OGMORE RD, OLIVES RD, RIPPLEBROOK RD, ST LAWRENCE CONNECTION RD, ST LAWRENCE RD, ST LAWRENCE-CROYDON RD, STOODLEIGH RD, STYX RD, UNKNOWN ST, WILANGI ST, WUMALGI EAST RD, WUMALGI RD",
         "SUBURBS": "MARLBOROUGH, OGMORE, ST LAWRENCE, WUMALGI"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.956559,
+              -21.147804
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.95487,
+                  -21.146306
+                ],
+                [
+                  148.955192,
+                  -21.147566
+                ],
+                [
+                  148.95527,
+                  -21.147725
+                ],
+                [
+                  148.957378,
+                  -21.150463
+                ],
+                [
+                  148.957924,
+                  -21.150625
+                ],
+                [
+                  148.958249,
+                  -21.150182
+                ],
+                [
+                  148.958106,
+                  -21.146398
+                ],
+                [
+                  148.958067,
+                  -21.14539
+                ],
+                [
+                  148.957418,
+                  -21.144983
+                ],
+                [
+                  148.956322,
+                  -21.145367
+                ],
+                [
+                  148.956319,
+                  -21.145368
+                ],
+                [
+                  148.955167,
+                  -21.145779
+                ],
+                [
+                  148.95487,
+                  -21.146306
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK5147",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "24",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "7:45AM 16 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANZAC AVE, KENNYS RD",
+        "SUBURBS": "MARIAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718489401.401961"
+  "extracted": "1718490000.303794"
 }
