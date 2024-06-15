@@ -1,8 +1,134 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              149.575534,
+              -22.481996
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.281025,
+                  -22.35621
+                ],
+                [
+                  149.520695,
+                  -22.725014
+                ],
+                [
+                  149.520704,
+                  -22.725028
+                ],
+                [
+                  149.600259,
+                  -22.83725
+                ],
+                [
+                  149.600597,
+                  -22.837449
+                ],
+                [
+                  149.859963,
+                  -22.871792
+                ],
+                [
+                  149.860514,
+                  -22.871406
+                ],
+                [
+                  149.870043,
+                  -22.806118
+                ],
+                [
+                  149.870022,
+                  -22.805913
+                ],
+                [
+                  149.770192,
+                  -22.53277
+                ],
+                [
+                  149.770162,
+                  -22.532704
+                ],
+                [
+                  149.535054,
+                  -22.116138
+                ],
+                [
+                  149.53505,
+                  -22.11613
+                ],
+                [
+                  149.534779,
+                  -22.115671
+                ],
+                [
+                  149.534779,
+                  -22.11567
+                ],
+                [
+                  149.521049,
+                  -22.092501
+                ],
+                [
+                  149.520769,
+                  -22.092288
+                ],
+                [
+                  149.520467,
+                  -22.0922
+                ],
+                [
+                  149.51999,
+                  -22.092303
+                ],
+                [
+                  149.416647,
+                  -22.183209
+                ],
+                [
+                  149.416588,
+                  -22.183271
+                ],
+                [
+                  149.281049,
+                  -22.355711
+                ],
+                [
+                  149.281025,
+                  -22.35621
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8157",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "413",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:42AM 16 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANGLEWOOD RD, ARTHUR ST, BAR PLAIN RD, BELAR ST, BRIGALOW ST, BRUCE HWY, BUNDERSEN RD, CANNON ST, CARBON ST, CHARON ST, COLONIAL DR, COOPERS RD, COORUMBURRA ST, CROYDON RD, DEMPSEY ST, EVANS ST, FLINDERS LANE, HAUSENS RD, HENESSEYS RD, HOWARDS RD, KALARKA RD, KINNAIRD ST, KINNARD ST, LAVINIA PARK RD, LINK LANE, MACARTNEY ST, MALCOLM ST, MARGARET ST, MARLBOROUGH RD, MEATWORKS RD, MONTROSE ST, MOUNT OLYMPUS RD, MT BISON RD, NEERIM RD, NEWPORT RD, NIMITABLE RD, OFF BRUCE HWY, OFF MONTROSE ST, OFF NEWPORT RD, OFF RAILWAY PDE, OGMORE KOOLTANDRA RD, OGMORE RD, OLIVES RD, RAILWAY PDE, RIPPLEBROOK RD, SCHNEIDERS RD, SETTLEMENT RD, SPRING VALLEY RD, ST LAWRENCE CONNECTION RD, ST LAWRENCE RD, ST LAWRENCE ST, ST LAWRENCE-CROYDON RD, STANDISH ST, STOODLEIGH RD, STUART ST, STYX RD, UNKNOWN ST, WAVERLEY ST, WILANGI ST, WUMALGI EAST RD, WUMALGI RD",
+        "SUBURBS": "CLAIRVIEW, KALARKA, MARLBOROUGH, OGMORE, ST LAWRENCE, WUMALGI"
+      }
+    }
+  ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718477116.931804"
+  "extracted": "1718477402.367605"
 }
