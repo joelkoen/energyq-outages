@@ -217,6 +217,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.529281,
+          -23.362403
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6811",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "88",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "6:00AM 16 Jun 2024",
+        "EST_FIX_TIME": "10:00AM 16 Jun 2024",
+        "STREETS": "BERSERKER ST, EDINGTON ST, ELPHINSTONE ST, HINDLEY ST, LIVINGSTONE ST, MOSTYN ST",
+        "SUBURBS": "BERSERKER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.544178,
           -23.362361
         ]
@@ -5696,5 +5717,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1718487004.203528"
+  "extracted": "1718487301.098675"
 }
