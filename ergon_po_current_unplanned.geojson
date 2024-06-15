@@ -171,9 +171,158 @@
         "STREETS": "ANZAC AVE, KENNYS RD",
         "SUBURBS": "MARIAN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.626005,
+              -20.311
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.606199,
+                  -20.320745
+                ],
+                [
+                  148.612769,
+                  -20.323923
+                ],
+                [
+                  148.612801,
+                  -20.323937
+                ],
+                [
+                  148.626033,
+                  -20.329215
+                ],
+                [
+                  148.626398,
+                  -20.329218
+                ],
+                [
+                  148.632312,
+                  -20.326976
+                ],
+                [
+                  148.63235,
+                  -20.32696
+                ],
+                [
+                  148.634417,
+                  -20.325974
+                ],
+                [
+                  148.634446,
+                  -20.325959
+                ],
+                [
+                  148.641396,
+                  -20.322046
+                ],
+                [
+                  148.641504,
+                  -20.321964
+                ],
+                [
+                  148.643826,
+                  -20.319573
+                ],
+                [
+                  148.64384,
+                  -20.319558
+                ],
+                [
+                  148.644478,
+                  -20.318837
+                ],
+                [
+                  148.6445,
+                  -20.31881
+                ],
+                [
+                  148.645661,
+                  -20.317276
+                ],
+                [
+                  148.645713,
+                  -20.31719
+                ],
+                [
+                  148.645909,
+                  -20.316753
+                ],
+                [
+                  148.645941,
+                  -20.316506
+                ],
+                [
+                  148.644097,
+                  -20.305523
+                ],
+                [
+                  148.644094,
+                  -20.305508
+                ],
+                [
+                  148.642597,
+                  -20.298238
+                ],
+                [
+                  148.642411,
+                  -20.29796
+                ],
+                [
+                  148.634983,
+                  -20.292804
+                ],
+                [
+                  148.634452,
+                  -20.292781
+                ],
+                [
+                  148.631728,
+                  -20.294329
+                ],
+                [
+                  148.631626,
+                  -20.294407
+                ],
+                [
+                  148.606068,
+                  -20.320033
+                ],
+                [
+                  148.606199,
+                  -20.320745
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK5148",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "220",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:39AM 16 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ASH RISE, BERRYHILL RD, BUTTERMANS RD, DOMENICA DR, DOMENICA RD, DOROTHY RD, FERN RD, GREGORY CANNON VALLEY RD, GREGORY-CANNON VALLEY RD, GUN ALLY RD, HOLLOWAY DR, MOON CRES, NINA ST, RAINFOREST CL, RICHARDSON RD, SHAINA CT, STAR DR, SUGAR LANE, SUGARLOAF RD, TELFORD RD, VENUS RISE",
+        "SUBURBS": "CANNON VALLEY, GREGORY RIVER, RIORDANVALE, STRATHDICKIE, SUGARLOAF"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718491201.495497"
+  "extracted": "1718491503.434612"
 }
