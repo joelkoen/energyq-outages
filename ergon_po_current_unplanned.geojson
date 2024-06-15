@@ -86,9 +86,110 @@
         "STREETS": "BARTELS RD, MILLBANK BOUNDARY RD, WEITZELS RD, WIETZELS RD",
         "SUBURBS": "KOGAN, TARA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.818922,
+              -26.047242
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.768977,
+                  -26.086376
+                ],
+                [
+                  151.79413,
+                  -26.12101
+                ],
+                [
+                  151.794802,
+                  -26.12115
+                ],
+                [
+                  151.827476,
+                  -26.103589
+                ],
+                [
+                  151.827549,
+                  -26.103541
+                ],
+                [
+                  151.838247,
+                  -26.095097
+                ],
+                [
+                  151.838259,
+                  -26.095088
+                ],
+                [
+                  151.868787,
+                  -26.069433
+                ],
+                [
+                  151.868944,
+                  -26.069056
+                ],
+                [
+                  151.85771,
+                  -25.973736
+                ],
+                [
+                  151.857172,
+                  -25.973335
+                ],
+                [
+                  151.787981,
+                  -25.978751
+                ],
+                [
+                  151.787556,
+                  -25.979046
+                ],
+                [
+                  151.783395,
+                  -25.989386
+                ],
+                [
+                  151.783369,
+                  -25.989479
+                ],
+                [
+                  151.7689,
+                  -26.086069
+                ],
+                [
+                  151.768977,
+                  -26.086376
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6545",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "115",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:36AM 15 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BISHOPS RD, CLOYNA WEST RD, DAVIS RD, DIP RD, FREEMANS RD, GAYNDAH RD, GREENS RD, KITOBA RD, KRATZMANNS RD, LOUTTITS RD, MORGANS RD, MURGON-GAYNDAH RD, NIELSENS RD, NIELSONS RD, WILSONS RD, WOOROONDEN RD, WYATTS RD",
+        "SUBURBS": "CLOYNA, GLENROCK, KITOBA, WINDERA, WOOROONDEN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718411700.42099"
+  "extracted": "1718412001.286172"
 }
