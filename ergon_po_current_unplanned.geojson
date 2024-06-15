@@ -116,15 +116,116 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "145",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "5:46PM 15 Jun 2024",
         "EST_FIX_TIME": null,
         "STREETS": "ARTHUR ST, BAR PLAIN RD, BRUCE HWY, CANNON ST, EVANS ST, HAUSENS RD, HOWARDS RD, KINNAIRD ST, KINNARD ST, MACARTNEY ST, MALCOLM ST, MARGARET ST, MEATWORKS RD, NEWPORT RD, OFF BRUCE HWY, OFF NEWPORT RD, OFF RAILWAY PDE, RAILWAY PDE, SETTLEMENT RD, ST LAWRENCE CONNECTION RD, ST LAWRENCE ST, STANDISH ST, STUART ST, WAVERLEY ST, WILANGI ST",
         "SUBURBS": "ST LAWRENCE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.871109,
+              -27.605675
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.86839,
+                  -27.605577
+                ],
+                [
+                  151.868488,
+                  -27.606176
+                ],
+                [
+                  151.868656,
+                  -27.60645
+                ],
+                [
+                  151.869875,
+                  -27.607398
+                ],
+                [
+                  151.870185,
+                  -27.607509
+                ],
+                [
+                  151.871452,
+                  -27.607558
+                ],
+                [
+                  151.871486,
+                  -27.607558
+                ],
+                [
+                  151.871908,
+                  -27.607549
+                ],
+                [
+                  151.872016,
+                  -27.607536
+                ],
+                [
+                  151.873466,
+                  -27.607221
+                ],
+                [
+                  151.873827,
+                  -27.606646
+                ],
+                [
+                  151.873024,
+                  -27.604413
+                ],
+                [
+                  151.872928,
+                  -27.604258
+                ],
+                [
+                  151.872596,
+                  -27.603911
+                ],
+                [
+                  151.872007,
+                  -27.603791
+                ],
+                [
+                  151.868686,
+                  -27.6051
+                ],
+                [
+                  151.86839,
+                  -27.605577
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10221",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "38",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:11PM 15 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BARWICK ST, FERGUSON RD, GORE ST, HANDLEY DR, HANDLEY ST",
+        "SUBURBS": "DARLING HEIGHTS, WESTBROOK"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718448319.755793"
+  "extracted": "1718448901.246232"
 }
