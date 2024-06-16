@@ -1,8 +1,102 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.101956,
+              -26.672626
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.099696,
+                  -26.672914
+                ],
+                [
+                  153.100143,
+                  -26.673513
+                ],
+                [
+                  153.100399,
+                  -26.673689
+                ],
+                [
+                  153.101035,
+                  -26.673882
+                ],
+                [
+                  153.101235,
+                  -26.673905
+                ],
+                [
+                  153.101393,
+                  -26.673894
+                ],
+                [
+                  153.101456,
+                  -26.673886
+                ],
+                [
+                  153.103897,
+                  -26.673435
+                ],
+                [
+                  153.104216,
+                  -26.672745
+                ],
+                [
+                  153.103832,
+                  -26.672221
+                ],
+                [
+                  153.103695,
+                  -26.672095
+                ],
+                [
+                  153.102522,
+                  -26.671381
+                ],
+                [
+                  153.102025,
+                  -26.671346
+                ],
+                [
+                  153.099897,
+                  -26.672255
+                ],
+                [
+                  153.099696,
+                  -26.672914
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-765551-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "48",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "2:55PM 16 Jun 2024",
+        "EST_FIX_TIME": "4:30PM 16 Jun 2024",
+        "STREETS": "TANTULA RD E, WOYIN ST, YAKOLA PDE",
+        "SUBURBS": "ALEXANDRA HEADLAND"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718514002.893926"
+  "extracted": "1718514300.341804"
 }
