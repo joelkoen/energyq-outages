@@ -134,9 +134,142 @@
         "STREETS": "A MCINTYRES RD, ANGLE RD, BALLON FORREST RD, BASKERVILLE RD, BELL'S RD, BOONARGA INVERAI RD, BOONARGA RD, BRAITHWAITES RD, BRANSONS RD, BRIGALOW-CANAGA RD, BURNCLUITH HALL RD, BURRA BURRI CREEK RD, BURRA BURRI-DARR CREEK RD, CASE'S RD, CHANDLERS RD, CHINCHILLA WONDAI RD, CHINCHILLA-WONDAI RD, COX RD, D ATKINS RD, D MCINTYRES RD, DALBY-JANDOWAE RD, DAVIS RD, DAVISONS RD, DURAH RD, EHLMA RD, ELSDEN'S RD, GADSBY'S RD, HAYSTACK NORTH RD, HAYSTACK-NOOLA RD, HILLIAR'S RD, HOARES BOUNDARY RD, HOOPERT'S RD, INVERAI - KATE PLAIN RD, INVERAI RD, INVERAI-BELAH RD, INVERAI-KATE PLAIN RD, JANDOWAE RD, JANDOWAE-CHINCHILLA RD, JANDOWAE-MACALISTER RD, JEITZ'S RD, KOEHLERS RD, LANGLANDS RD, LEN MIDDLETON'S RD, LONG PLAIN RD, LOWER JINGHI BACK RD, LOWER JINGHI RD, LOWER JINGHI SCHOOL RD, MARTIN RD, MCLAREN'S RD, MILKY WAY, NINE MILE STOCK ROUTE RD, NOBBS RD, NUDLEY SCHOOL RD, OLSENS RD, PELICAN BACK RD, PIT RD, PROCTORS RD, RENNICKS RD, SATURN WAY, SMITH'S RD, STANKES RD, SULLIVANS RD, TUCKERANG RD, TYLER'S RD, WARRA CANAGA CREEK RD, WARRA MARNHULL RD, WARRA-CANAGA, WARRA-CANAGA CREEK RD, WARRA-CANAGA RD, WARRA-JANDOWAE RD, WARRA-MARNHULL RD, WEIR RD, WIDDONS RD, WONDAI RD, WYCHIE RD",
         "SUBURBS": "BELAH, BOONARGA, BRIGALOW, BURNCLUITH, BURRA BURRI, CANAGA, CHINCHILLA, DARR CREEK, EARLE, FAIRYLAND, INVERAI, JANDOWAE, JIMBOUR, JINGHI, LOWER JINGHI, MACALISTER, PELICAN, TUCKERANG, WARRA, WYCHIE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.96377,
+              -27.542259
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.953824,
+                  -27.541476
+                ],
+                [
+                  151.954033,
+                  -27.542393
+                ],
+                [
+                  151.954099,
+                  -27.542542
+                ],
+                [
+                  151.954605,
+                  -27.543267
+                ],
+                [
+                  151.954721,
+                  -27.543382
+                ],
+                [
+                  151.956348,
+                  -27.544526
+                ],
+                [
+                  151.956384,
+                  -27.544549
+                ],
+                [
+                  151.961745,
+                  -27.547679
+                ],
+                [
+                  151.96203,
+                  -27.547753
+                ],
+                [
+                  151.970556,
+                  -27.547636
+                ],
+                [
+                  151.970797,
+                  -27.547578
+                ],
+                [
+                  151.973102,
+                  -27.546413
+                ],
+                [
+                  151.973331,
+                  -27.546166
+                ],
+                [
+                  151.973716,
+                  -27.545155
+                ],
+                [
+                  151.973698,
+                  -27.544825
+                ],
+                [
+                  151.971105,
+                  -27.539707
+                ],
+                [
+                  151.971052,
+                  -27.539626
+                ],
+                [
+                  151.969017,
+                  -27.537163
+                ],
+                [
+                  151.968676,
+                  -27.536983
+                ],
+                [
+                  151.966788,
+                  -27.536765
+                ],
+                [
+                  151.966547,
+                  -27.536789
+                ],
+                [
+                  151.954248,
+                  -27.540861
+                ],
+                [
+                  151.954049,
+                  -27.540982
+                ],
+                [
+                  151.953944,
+                  -27.541086
+                ],
+                [
+                  151.953824,
+                  -27.541476
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10239",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "898",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:59PM 16 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ABELIA ST, ADAM ST, ALFRED ST, AMOS CRES, ANDREWS ST, ASHGROVE TCE, ATHOL ST, BECK ST, BENJAMIN ST, CHILCOTE ST, ELWORTHY ST, ESTHER ST, EUGENIA ST, GLENDOWER ST, HUME ST, IRVING CT, JELLICOE ST, KOOMBARRA ST, MARGOT CT, MARTINI ST, MARY ST, MUIR ST, MURRAY ST, NORTH ST, OWEN ST, PATRICIA ST, PETER ST, PROSPECT ST, RALPH ST, RANGE ST, REGINALD ST, RIFLE RANGE RD, RODERIC CT, ROSS ST, RUTHVEN ST, SOURRIS ST, SPIEKER ST, SPIES CT, STEINMULLER CT, STUART ST, TALINGA ST, URE ST, VENTURE ST, VIDEO AVE, WARANA AVE, WOLSELEY ST, WONGA ST, WYNDHAM ST, YEATES ST",
+        "SUBURBS": "HARLAXTON, MOUNT LOFTY, NORTH TOOWOOMBA, TOOWOOMBA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718542803.327781"
+  "extracted": "1718543100.308433"
 }
