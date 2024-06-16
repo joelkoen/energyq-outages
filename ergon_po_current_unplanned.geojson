@@ -110,9 +110,86 @@
         "STREETS": "STANTON RD, TRANQUIL PL",
         "SUBURBS": "SMITHFIELD"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.720884,
+              -19.290102
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.718899,
+                  -19.289635
+                ],
+                [
+                  146.719645,
+                  -19.290757
+                ],
+                [
+                  146.719985,
+                  -19.290964
+                ],
+                [
+                  146.722331,
+                  -19.291261
+                ],
+                [
+                  146.72287,
+                  -19.290813
+                ],
+                [
+                  146.72287,
+                  -19.289854
+                ],
+                [
+                  146.722751,
+                  -19.289555
+                ],
+                [
+                  146.722473,
+                  -19.289256
+                ],
+                [
+                  146.722145,
+                  -19.289104
+                ],
+                [
+                  146.71933,
+                  -19.288942
+                ],
+                [
+                  146.718899,
+                  -19.289635
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9779",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "49",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:37PM 16 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DELAWARE GRN, GADSDEN LOOP, ROOSEVELT LOOP, STOCKTON ELB",
+        "SUBURBS": "MOUNT LOUISA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718534100.292273"
+  "extracted": "1718534401.633644"
 }
