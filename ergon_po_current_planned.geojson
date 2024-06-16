@@ -70,6 +70,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.411878,
+          -16.375429
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6607",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "21",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 17 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 17 Jun 2024",
+        "STREETS": "DAINTREE RD, MOSSMAN DAINTREE RD",
+        "SUBURBS": "ROCKY POINT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.559338,
           -17.258669
         ]
@@ -147,6 +168,27 @@
         "EST_FIX_TIME": "2:30PM 20 Jun 2024",
         "STREETS": "NOTCH POINT RD",
         "SUBURBS": "ILBILBIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.977536,
+          -21.264095
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4690",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:32AM 17 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 17 Jun 2024",
+        "STREETS": "MACKAY ST, PROSPECT ST",
+        "SUBURBS": "ETON"
       }
     },
     {
@@ -320,5 +362,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718577001.379551"
+  "extracted": "1718577300.37958"
 }
