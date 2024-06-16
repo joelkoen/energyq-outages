@@ -10,8 +10,8 @@
           {
             "type": "Point",
             "coordinates": [
-              149.63521,
-              -22.701509
+              151.207471,
+              -24.016973
             ]
           },
           {
@@ -19,48 +19,64 @@
             "coordinates": [
               [
                 [
-                  149.624016,
-                  -22.688325
+                  151.204309,
+                  -24.015911
                 ],
                 [
-                  149.645539,
-                  -22.715181
+                  151.204824,
+                  -24.017056
                 ],
                 [
-                  149.64613,
-                  -22.715323
+                  151.204921,
+                  -24.017193
                 ],
                 [
-                  149.646404,
-                  -22.714817
+                  151.207087,
+                  -24.019303
                 ],
                 [
-                  149.646321,
-                  -22.714461
+                  151.207538,
+                  -24.019436
                 ],
                 [
-                  149.646314,
-                  -22.714432
+                  151.209387,
+                  -24.019105
                 ],
                 [
-                  149.646214,
-                  -22.714109
+                  151.209509,
+                  -24.019068
                 ],
                 [
-                  149.646134,
-                  -22.71396
+                  151.210543,
+                  -24.018602
                 ],
                 [
-                  149.624794,
-                  -22.687783
+                  151.210633,
+                  -24.017845
                 ],
                 [
-                  149.624115,
-                  -22.687695
+                  151.207394,
+                  -24.015472
                 ],
                 [
-                  149.624016,
-                  -22.688325
+                  151.207328,
+                  -24.015431
+                ],
+                [
+                  151.20554,
+                  -24.014511
+                ],
+                [
+                  151.204878,
+                  -24.014675
+                ],
+                [
+                  151.20434,
+                  -24.015509
+                ],
+                [
+                  151.204309,
+                  -24.015911
                 ]
               ]
             ]
@@ -68,19 +84,168 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "24CA8157",
+        "EVENT_ID": "24CA8163",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is due to fallen power lines.  ",
-        "STATUS": "Crews working on-site",
-        "START": "4:42AM 16 Jun 2024",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:46PM 16 Jun 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "BRUCE HWY, MT BISON RD",
-        "SUBURBS": "MARLBOROUGH, OGMORE"
+        "STREETS": "HERBERTSON RD, IRONMONGER ST",
+        "SUBURBS": "CALLIOPE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.770521,
+              -23.5022
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.382734,
+                  -22.949494
+                ],
+                [
+                  146.382857,
+                  -23.378054
+                ],
+                [
+                  146.382858,
+                  -23.378084
+                ],
+                [
+                  146.445146,
+                  -24.241389
+                ],
+                [
+                  146.445152,
+                  -24.241432
+                ],
+                [
+                  146.446823,
+                  -24.250775
+                ],
+                [
+                  146.446869,
+                  -24.250905
+                ],
+                [
+                  146.448737,
+                  -24.254305
+                ],
+                [
+                  146.448803,
+                  -24.254396
+                ],
+                [
+                  146.451439,
+                  -24.257211
+                ],
+                [
+                  146.451463,
+                  -24.257235
+                ],
+                [
+                  146.559131,
+                  -24.357102
+                ],
+                [
+                  146.559675,
+                  -24.3572
+                ],
+                [
+                  147.143631,
+                  -24.1273
+                ],
+                [
+                  147.143928,
+                  -24.126913
+                ],
+                [
+                  147.158307,
+                  -23.910529
+                ],
+                [
+                  147.158308,
+                  -23.910492
+                ],
+                [
+                  147.156407,
+                  -23.826267
+                ],
+                [
+                  147.156407,
+                  -23.82626
+                ],
+                [
+                  147.146755,
+                  -23.577397
+                ],
+                [
+                  147.146746,
+                  -23.577329
+                ],
+                [
+                  147.066822,
+                  -23.188563
+                ],
+                [
+                  147.066778,
+                  -23.188444
+                ],
+                [
+                  146.815953,
+                  -22.728314
+                ],
+                [
+                  146.815653,
+                  -22.728083
+                ],
+                [
+                  146.515733,
+                  -22.647199
+                ],
+                [
+                  146.515146,
+                  -22.647463
+                ],
+                [
+                  146.38277,
+                  -22.949323
+                ],
+                [
+                  146.382734,
+                  -22.949494
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8165",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "441",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:01PM 16 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALBRO RD, ALPHA-CLERMONT RD, ALPHA-TAMBO RD, BURNS ST, BYRON ST, CAPRICORN HWY, CLERMONT RD, CRAVEN RD, DEGULLA RD, DERWENT WATER RD, DRYDEN ST, DUNNING ST, FORRESTER-HOBARTVL RD, GOLDSTON ST, GORDON ST, HOOPER ST, KILCOOL RD, MACKELLAR ST, MILTON ST, MONKLANDS RD, MOORE ST, NAROUNYAH RD, OFF ALBRO RD, OFF ALPHA-CLERMONT RD, OFF CAPRICORN HWY, OFF FORRESTER RD, OFF MOORE ST, OFF STAR DOWNS RD, OFF TAMBO RD, PINE HILL RD, PORT WINE RD, PORTWINE RD, RAILWAY RES, SCOTT ST, SHAKESPEARE ST, STAR DOWNS RD, SWINBURNE ST, TAMBO RD, TENNYSON ST, UNKNOWN ST",
+        "SUBURBS": "ALPHA, CLERMONT"
       }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718520902.972381"
+  "extracted": "1718521500.369678"
 }
