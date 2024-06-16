@@ -1,8 +1,86 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.94077,
+              -27.340566
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.939456,
+                  -27.338099
+                ],
+                [
+                  152.9397,
+                  -27.343187
+                ],
+                [
+                  152.940568,
+                  -27.343482
+                ],
+                [
+                  152.941222,
+                  -27.342877
+                ],
+                [
+                  152.941307,
+                  -27.342771
+                ],
+                [
+                  152.942061,
+                  -27.341471
+                ],
+                [
+                  152.942084,
+                  -27.341104
+                ],
+                [
+                  152.940778,
+                  -27.338019
+                ],
+                [
+                  152.940459,
+                  -27.337748
+                ],
+                [
+                  152.940115,
+                  -27.33765
+                ],
+                [
+                  152.939456,
+                  -27.338099
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-765607-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "20",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "3:52AM 17 Jun 2024",
+        "EST_FIX_TIME": "5:30AM 17 Jun 2024",
+        "STREETS": "DRAPERS RD, FLETCHERS RD, HIDDEN VALLEY DR",
+        "SUBURBS": "EATONS HILL"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718560804.259142"
+  "extracted": "1718561100.334532"
 }
