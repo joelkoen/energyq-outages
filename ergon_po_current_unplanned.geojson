@@ -87,6 +87,140 @@
           {
             "type": "Point",
             "coordinates": [
+              145.656697,
+              -17.395366
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.656197,
+                  -17.396252
+                ],
+                [
+                  145.657378,
+                  -17.39609
+                ],
+                [
+                  145.657692,
+                  -17.395377
+                ],
+                [
+                  145.657013,
+                  -17.39448
+                ],
+                [
+                  145.656204,
+                  -17.394559
+                ],
+                [
+                  145.655702,
+                  -17.395618
+                ],
+                [
+                  145.656197,
+                  -17.396252
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7438",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:44AM 16 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "GERAGHTY RD, WALLACE RD",
+        "SUBURBS": "GLEN ALLYN, MALANDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.219353,
+              -18.662237
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.21878,
+                  -18.663953
+                ],
+                [
+                  146.219152,
+                  -18.66426
+                ],
+                [
+                  146.219932,
+                  -18.663975
+                ],
+                [
+                  146.220088,
+                  -18.662806
+                ],
+                [
+                  146.220086,
+                  -18.662677
+                ],
+                [
+                  146.219735,
+                  -18.660593
+                ],
+                [
+                  146.219243,
+                  -18.660214
+                ],
+                [
+                  146.218794,
+                  -18.660639
+                ],
+                [
+                  146.218617,
+                  -18.663586
+                ],
+                [
+                  146.21878,
+                  -18.663953
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9774",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:27AM 16 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "FORREST BEACH RD",
+        "SUBURBS": "VICTORIA ESTATE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.760571,
               -27.417924
             ]
@@ -264,5 +398,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718502001.336038"
+  "extracted": "1718502302.970813"
 }
