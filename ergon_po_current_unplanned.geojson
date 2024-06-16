@@ -1,78 +1,8 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              146.066137,
-              -17.632435
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  146.061991,
-                  -17.639114
-                ],
-                [
-                  146.065658,
-                  -17.635312
-                ],
-                [
-                  146.065721,
-                  -17.635229
-                ],
-                [
-                  146.07102,
-                  -17.626316
-                ],
-                [
-                  146.070859,
-                  -17.625709
-                ],
-                [
-                  146.07022,
-                  -17.625839
-                ],
-                [
-                  146.061255,
-                  -17.638554
-                ],
-                [
-                  146.061352,
-                  -17.639161
-                ],
-                [
-                  146.061991,
-                  -17.639114
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN7447",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
-        "STATUS": "Crews working on-site",
-        "START": "6:10AM 17 Jun 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "COCO RD",
-        "SUBURBS": "MOURILYAN"
-      }
-    }
-  ],
+  "features": [],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718579100.465264"
+  "extracted": "1718579401.434272"
 }
