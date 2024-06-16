@@ -1,8 +1,142 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.514207,
+              -23.349993
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.511901,
+                  -23.349879
+                ],
+                [
+                  150.512063,
+                  -23.350108
+                ],
+                [
+                  150.512073,
+                  -23.35012
+                ],
+                [
+                  150.51345,
+                  -23.351929
+                ],
+                [
+                  150.513701,
+                  -23.352099
+                ],
+                [
+                  150.513905,
+                  -23.352159
+                ],
+                [
+                  150.514403,
+                  -23.352045
+                ],
+                [
+                  150.514754,
+                  -23.351713
+                ],
+                [
+                  150.514777,
+                  -23.35169
+                ],
+                [
+                  150.516397,
+                  -23.349931
+                ],
+                [
+                  150.516512,
+                  -23.349616
+                ],
+                [
+                  150.516486,
+                  -23.349132
+                ],
+                [
+                  150.51639,
+                  -23.348886
+                ],
+                [
+                  150.515831,
+                  -23.348193
+                ],
+                [
+                  150.515537,
+                  -23.34802
+                ],
+                [
+                  150.514526,
+                  -23.347828
+                ],
+                [
+                  150.514345,
+                  -23.347826
+                ],
+                [
+                  150.514064,
+                  -23.34787
+                ],
+                [
+                  150.513894,
+                  -23.347929
+                ],
+                [
+                  150.513507,
+                  -23.348145
+                ],
+                [
+                  150.513457,
+                  -23.348177
+                ],
+                [
+                  150.512677,
+                  -23.348747
+                ],
+                [
+                  150.512662,
+                  -23.348759
+                ],
+                [
+                  150.511992,
+                  -23.34929
+                ],
+                [
+                  150.511901,
+                  -23.349879
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8186",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "99",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews on route",
+        "START": "9:03AM 17 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALEXANDRA ST, BUZACOTT ST, CALDER ST, GRAY ST, KERSHAW ST, SHEEHY ST",
+        "SUBURBS": "KAWANA, PARK AVENUE"
+      }
+    }
+  ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718580603.256449"
+  "extracted": "1718580900.454284"
 }
