@@ -2548,27 +2548,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.024315,
-          -27.483704
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-763019-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
-        "START": "8:00AM 19 Jun 2024",
-        "EST_FIX_TIME": "4:00PM 20 Jun 2024",
-        "STREETS": "VULTURE ST",
-        "SUBURBS": "SOUTH BRISBANE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.025389,
           -27.483098
         ]
@@ -2581,6 +2560,27 @@
         "STATUS": "Scheduled",
         "START": "5:30AM 20 Jun 2024",
         "EST_FIX_TIME": "1:30PM 20 Jun 2024",
+        "STREETS": "VULTURE ST",
+        "SUBURBS": "SOUTH BRISBANE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.024315,
+          -27.483704
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-763019-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 19 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 20 Jun 2024",
         "STREETS": "VULTURE ST",
         "SUBURBS": "SOUTH BRISBANE"
       }
@@ -3260,5 +3260,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1718588100.325468"
+  "extracted": "1718588400.302892"
 }
