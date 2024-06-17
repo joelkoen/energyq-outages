@@ -1,8 +1,118 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.799686,
+              -27.663276
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.787064,
+                  -27.648817
+                ],
+                [
+                  152.788318,
+                  -27.67488
+                ],
+                [
+                  152.788456,
+                  -27.675171
+                ],
+                [
+                  152.799822,
+                  -27.685863
+                ],
+                [
+                  152.800678,
+                  -27.685679
+                ],
+                [
+                  152.802905,
+                  -27.678862
+                ],
+                [
+                  152.802909,
+                  -27.678848
+                ],
+                [
+                  152.812307,
+                  -27.64618
+                ],
+                [
+                  152.812122,
+                  -27.645708
+                ],
+                [
+                  152.804751,
+                  -27.640745
+                ],
+                [
+                  152.804249,
+                  -27.640689
+                ],
+                [
+                  152.7937,
+                  -27.644646
+                ],
+                [
+                  152.793684,
+                  -27.644652
+                ],
+                [
+                  152.789845,
+                  -27.646238
+                ],
+                [
+                  152.789713,
+                  -27.646317
+                ],
+                [
+                  152.787266,
+                  -27.648345
+                ],
+                [
+                  152.787126,
+                  -27.648546
+                ],
+                [
+                  152.787085,
+                  -27.648668
+                ],
+                [
+                  152.787064,
+                  -27.648817
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-765665-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1376",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "9:58AM 17 Jun 2024",
+        "EST_FIX_TIME": "12:30PM 17 Jun 2024",
+        "STREETS": "ACACIA LANE, AULDS RD, BARRET ST, BLAIR ST, BLIGH ST, BRADFIELD ST, BRENDALE AVE, BROOKING RISE, BRUSHBOX ST, BUTTERFLY WAY, CAMBRIDGE WAY, CANDLENUT ST, DOUGLAS ST, EAST OWEN ST, EAST SAUNDERS ST, EDINBURGH ST, EUCALYPTUS CRES, FISCHER RD, FOXTAIL RD, GEORGE MILLER WAY, GREVILLEA ST, HARPER ST, HICKEY ST, JOY CHAMBERS CCT, KODA ST, KOHJI LANE, LILLYPILLY DR, MCLEAN ST, MELROSE DR, MILGATE LANE, MONTEREA RD, NEVIS RD, OLD SWANBANK RD, PANORAMA CCT, PAPERBARK DR, PARKHEAD ST, PARKVIEW CRES, PARKVIEW PDE, PATRICK ST, RED GUM ST, REG GRUNDY ST, RIBBONWOOD ST, RIPLEY RD, SAUNDERS ST E, SHAPCOTT ST, SILKY OAK ST, SUSSEX ST, SWANBANK RD, TONELLI LANE, TUCKAROO ST, TUCKEROO ST, WATERFERN WAY",
+        "SUBURBS": "CORNUBIA, FLINDERS VIEW, RACEVIEW, RIPLEY, SWANBANK"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718582101.052384"
+  "extracted": "1718582402.829538"
 }
