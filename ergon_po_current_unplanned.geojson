@@ -1,8 +1,106 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.059887,
+              -17.527731
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.054673,
+                  -17.531388
+                ],
+                [
+                  146.057443,
+                  -17.535501
+                ],
+                [
+                  146.057449,
+                  -17.53551
+                ],
+                [
+                  146.063331,
+                  -17.54379
+                ],
+                [
+                  146.063851,
+                  -17.54397
+                ],
+                [
+                  146.064191,
+                  -17.543552
+                ],
+                [
+                  146.065154,
+                  -17.51935
+                ],
+                [
+                  146.06515,
+                  -17.519278
+                ],
+                [
+                  146.065095,
+                  -17.518843
+                ],
+                [
+                  146.065093,
+                  -17.518831
+                ],
+                [
+                  146.064114,
+                  -17.512532
+                ],
+                [
+                  146.063801,
+                  -17.512171
+                ],
+                [
+                  146.061734,
+                  -17.511493
+                ],
+                [
+                  146.061134,
+                  -17.511781
+                ],
+                [
+                  146.054621,
+                  -17.531003
+                ],
+                [
+                  146.054673,
+                  -17.531388
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7468",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "48",
+        "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
+        "STATUS": "Crews working on-site",
+        "START": "11:50AM 17 Jun 2024",
+        "EST_FIX_TIME": "11:50AM 17 Jun 2024",
+        "STREETS": "COQUETTE POINT RD, JOHNSTON RD, MYNARD RD",
+        "SUBURBS": "COQUETTE POINT, EAST INNISFAIL"
+      }
+    }
+  ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718589300.52154"
+  "extracted": "1718589605.597087"
 }
