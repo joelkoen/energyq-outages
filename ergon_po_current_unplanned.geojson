@@ -111,6 +111,99 @@
           {
             "type": "Point",
             "coordinates": [
+              148.133275,
+              -23.572086
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.115244,
+                  -23.580995
+                ],
+                [
+                  148.117397,
+                  -23.582033
+                ],
+                [
+                  148.117623,
+                  -23.582085
+                ],
+                [
+                  148.149799,
+                  -23.582129
+                ],
+                [
+                  148.150268,
+                  -23.581811
+                ],
+                [
+                  148.151517,
+                  -23.578114
+                ],
+                [
+                  148.151532,
+                  -23.577901
+                ],
+                [
+                  148.149506,
+                  -23.567375
+                ],
+                [
+                  148.149268,
+                  -23.567062
+                ],
+                [
+                  148.139804,
+                  -23.562063
+                ],
+                [
+                  148.139358,
+                  -23.562043
+                ],
+                [
+                  148.119838,
+                  -23.570165
+                ],
+                [
+                  148.119588,
+                  -23.570401
+                ],
+                [
+                  148.115019,
+                  -23.58042
+                ],
+                [
+                  148.115244,
+                  -23.580995
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8213",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "68",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:25AM 18 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BANYULA CL, CHUDLEIGH DR, MORIARTY FARM RD, NIMALA CT, OFF GREGORY HWY, PATANGA PL, PILOT FARM RD, TANDARA CT",
+        "SUBURBS": "EMERALD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               144.849933,
               -15.81425
             ]
@@ -199,5 +292,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718642704.085696"
+  "extracted": "1718643301.354481"
 }
