@@ -1,8 +1,94 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.37551,
+              -23.140478
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.358998,
+                  -23.132718
+                ],
+                [
+                  150.361277,
+                  -23.136305
+                ],
+                [
+                  150.36132,
+                  -23.136363
+                ],
+                [
+                  150.367672,
+                  -23.143514
+                ],
+                [
+                  150.367867,
+                  -23.143646
+                ],
+                [
+                  150.391366,
+                  -23.152399
+                ],
+                [
+                  150.392022,
+                  -23.151872
+                ],
+                [
+                  150.386561,
+                  -23.131609
+                ],
+                [
+                  150.38618,
+                  -23.131275
+                ],
+                [
+                  150.370799,
+                  -23.128557
+                ],
+                [
+                  150.370552,
+                  -23.128572
+                ],
+                [
+                  150.359264,
+                  -23.132062
+                ],
+                [
+                  150.358998,
+                  -23.132718
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8189",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "38",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:18AM 17 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AUCKLAND ST, AUGUSTUS ST, BRUCE HWY, CANOONA ST, FLOOD ST, GIPPS ST, IRIS ST, YAAMBA SIDING RD",
+        "SUBURBS": "YAAMBA"
+      }
+    }
+  ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718583600.337747"
+  "extracted": "1718583901.576572"
 }
