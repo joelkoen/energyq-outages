@@ -111,6 +111,83 @@
           {
             "type": "Point",
             "coordinates": [
+              146.025035,
+              -17.519861
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.023631,
+                  -17.519605
+                ],
+                [
+                  146.024093,
+                  -17.521124
+                ],
+                [
+                  146.024568,
+                  -17.521449
+                ],
+                [
+                  146.025175,
+                  -17.52142
+                ],
+                [
+                  146.025595,
+                  -17.521122
+                ],
+                [
+                  146.026438,
+                  -17.518877
+                ],
+                [
+                  146.02598,
+                  -17.518272
+                ],
+                [
+                  146.024345,
+                  -17.518322
+                ],
+                [
+                  146.023919,
+                  -17.518614
+                ],
+                [
+                  146.023643,
+                  -17.519319
+                ],
+                [
+                  146.023631,
+                  -17.519605
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7507",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "5:30PM 17 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALICE ST, CHARLES ST, EMILY ST",
+        "SUBURBS": "INNISFAIL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               149.012326,
               -21.139184
             ]
@@ -215,5 +292,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718613601.556583"
+  "extracted": "1718613903.719145"
 }
