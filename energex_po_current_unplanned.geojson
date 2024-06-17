@@ -1,8 +1,167 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.899678,
+              -26.820427
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.897778,
+                  -26.820896
+                ],
+                [
+                  152.899902,
+                  -26.821381
+                ],
+                [
+                  152.900335,
+                  -26.8213
+                ],
+                [
+                  152.901805,
+                  -26.820275
+                ],
+                [
+                  152.901957,
+                  -26.819737
+                ],
+                [
+                  152.901413,
+                  -26.819473
+                ],
+                [
+                  152.897819,
+                  -26.820013
+                ],
+                [
+                  152.897399,
+                  -26.82044
+                ],
+                [
+                  152.897778,
+                  -26.820896
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-765803-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:26PM 17 Jun 2024",
+        "EST_FIX_TIME": "9:30PM 17 Jun 2024",
+        "STREETS": "MACDONALDS RD",
+        "SUBURBS": "PEACHESTER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.029574,
+              -26.712752
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.026223,
+                  -26.712926
+                ],
+                [
+                  153.027038,
+                  -26.713245
+                ],
+                [
+                  153.027505,
+                  -26.713427
+                ],
+                [
+                  153.027585,
+                  -26.713452
+                ],
+                [
+                  153.028272,
+                  -26.713604
+                ],
+                [
+                  153.028444,
+                  -26.713615
+                ],
+                [
+                  153.032297,
+                  -26.713256
+                ],
+                [
+                  153.032644,
+                  -26.713081
+                ],
+                [
+                  153.032984,
+                  -26.712683
+                ],
+                [
+                  153.032591,
+                  -26.711957
+                ],
+                [
+                  153.026748,
+                  -26.711889
+                ],
+                [
+                  153.026483,
+                  -26.711954
+                ],
+                [
+                  153.026164,
+                  -26.712125
+                ],
+                [
+                  153.026223,
+                  -26.712926
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-765807-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:27PM 17 Jun 2024",
+        "EST_FIX_TIME": "9:30PM 17 Jun 2024",
+        "STREETS": "MAIN CREEK RD",
+        "SUBURBS": "TANAWHA"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718613002.514869"
+  "extracted": "1718613300.332728"
 }
