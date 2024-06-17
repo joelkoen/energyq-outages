@@ -350,11 +350,112 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "1847",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "6:52AM 18 Jun 2024",
         "EST_FIX_TIME": null,
         "STREETS": "ALISON CL, ARGYLE CL, ARRAN CL, BEHAN ST, BELLEVUE CRES, CALDER ST, CANNON ST, CLEMSON AVE, COLLINS AVE, CONNORS ST, CRATHERN CL, DALRYMPLE ST, FLEMING ST, FOREST AVE, FRIEND ST, GLENLEA ST, GOODWIN ST, GREENSLOPES ST, HALL ST, HEAVEY CRES, HUTCHINSON ST, IONA CL, IZATT CL, JAYE ST, JENSEN ST, JUNCTION ST, KEIRLE AVE, LITTLE ST, LOMOND CL, MACDONNELL ST, MACNAMARA ST, MAPLE CRES, MAYERS ST, MCCORMACK ST, MCLEOD ST, MCPHERSON CL, MONA ST, MONTROSE AVE, MULLINS ST, NOLAN ST, OXLEY ST, PEASE ST, PLANCHONELLA CL, PRICE CL, PURBECK PL, PYNE ST, QUEENLEY CL, RAINTREE PL, RUSSELL ST, SANDRAY CL, SKYE CL, STUART ST, TEMORA CL, WALSH ST, WOODLANDS AVE, WOODWARD ST",
         "SUBURBS": "CAIRNS NORTH, EDGE HILL, MANUNDA, WHITFIELD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.720963,
+              -19.291017
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.719294,
+                  -19.291625
+                ],
+                [
+                  146.719461,
+                  -19.291657
+                ],
+                [
+                  146.719503,
+                  -19.291663
+                ],
+                [
+                  146.719687,
+                  -19.291683
+                ],
+                [
+                  146.719694,
+                  -19.291684
+                ],
+                [
+                  146.722305,
+                  -19.291928
+                ],
+                [
+                  146.722391,
+                  -19.291929
+                ],
+                [
+                  146.722544,
+                  -19.291917
+                ],
+                [
+                  146.722978,
+                  -19.29151
+                ],
+                [
+                  146.722997,
+                  -19.291328
+                ],
+                [
+                  146.722985,
+                  -19.291178
+                ],
+                [
+                  146.722882,
+                  -19.290773
+                ],
+                [
+                  146.722477,
+                  -19.290431
+                ],
+                [
+                  146.719624,
+                  -19.290105
+                ],
+                [
+                  146.719107,
+                  -19.290436
+                ],
+                [
+                  146.71893,
+                  -19.291065
+                ],
+                [
+                  146.719294,
+                  -19.291625
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9779",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "54",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:50PM 16 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AARON BRCE, GADSDEN LOOP",
+        "SUBURBS": "MOUNT LOUISA"
       }
     },
     {
@@ -469,5 +570,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718663700.361844"
+  "extracted": "1718664001.021022"
 }
