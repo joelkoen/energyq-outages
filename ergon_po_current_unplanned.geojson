@@ -188,6 +188,87 @@
           {
             "type": "Point",
             "coordinates": [
+              144.923163,
+              -15.767792
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  144.825215,
+                  -15.816292
+                ],
+                [
+                  144.85774,
+                  -15.864224
+                ],
+                [
+                  144.858467,
+                  -15.864288
+                ],
+                [
+                  144.925527,
+                  -15.796507
+                ],
+                [
+                  144.925564,
+                  -15.796464
+                ],
+                [
+                  145.021151,
+                  -15.671942
+                ],
+                [
+                  145.021114,
+                  -15.671361
+                ],
+                [
+                  145.020518,
+                  -15.671296
+                ],
+                [
+                  144.836648,
+                  -15.789945
+                ],
+                [
+                  144.836477,
+                  -15.790145
+                ],
+                [
+                  144.825176,
+                  -15.815868
+                ],
+                [
+                  144.825215,
+                  -15.816292
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7509",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "39",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:56PM 17 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANDERSON ST, DAWSON RD, HURSE RD, MULLIGAN HWY, PENINSULA DEVELOPMENT RD, UNKNOWN ST",
+        "SUBURBS": "LAKELAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               149.012326,
               -21.139184
             ]
@@ -292,5 +373,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718614501.725627"
+  "extracted": "1718615100.445313"
 }
