@@ -365,14 +365,22 @@
           {
             "type": "Point",
             "coordinates": [
-              146.720963,
-              -19.291017
+              146.720911,
+              -19.290436
             ]
           },
           {
             "type": "Polygon",
             "coordinates": [
               [
+                [
+                  146.718826,
+                  -19.289415
+                ],
+                [
+                  146.718914,
+                  -19.291203
+                ],
                 [
                   146.719294,
                   -19.291625
@@ -414,32 +422,32 @@
                   -19.291328
                 ],
                 [
-                  146.722985,
-                  -19.291178
+                  146.722997,
+                  -19.291246
                 ],
                 [
-                  146.722882,
-                  -19.290773
+                  146.722868,
+                  -19.289815
                 ],
                 [
-                  146.722477,
-                  -19.290431
+                  146.722751,
+                  -19.289555
                 ],
                 [
-                  146.719624,
-                  -19.290105
+                  146.722473,
+                  -19.289256
                 ],
                 [
-                  146.719107,
-                  -19.290436
+                  146.722145,
+                  -19.289104
                 ],
                 [
-                  146.71893,
-                  -19.291065
+                  146.71933,
+                  -19.288942
                 ],
                 [
-                  146.719294,
-                  -19.291625
+                  146.718826,
+                  -19.289415
                 ]
               ]
             ]
@@ -449,12 +457,12 @@
       "properties": {
         "EVENT_ID": "24NQ9779",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "54",
+        "CUSTOMERS_AFFECTED": "103",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
         "STATUS": "Crews working on-site",
         "START": "8:50PM 16 Jun 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "AARON BRCE, GADSDEN LOOP",
+        "STREETS": "AARON BRCE, DELAWARE GRN, GADSDEN LOOP, ROOSEVELT LOOP, STOCKTON ELB",
         "SUBURBS": "MOUNT LOUISA"
       }
     },
@@ -562,7 +570,7 @@
         "REASON": "The loss of supply is due to fallen power lines.  ",
         "STATUS": "Outage reported",
         "START": "6:13AM 18 Jun 2024",
-        "EST_FIX_TIME": null,
+        "EST_FIX_TIME": "4:30PM 18 Jun 2024",
         "STREETS": "ALBERT ST, ALFRED ST, BEESONS ST, BOWEN ST, COMMISSIONERS POINT RD, HERBERT ST, HUTT ST, JOHNSTON RD, KEMP RD, LOGAN LANE, MARGARET ST, MITCHELL ST, ROBERT ST, SANDY LANDS RD, ST GEORGES TCE, STURT ST, THE TERRACE, VICTORIA ST, WAGOO RD, WHYENBAH RD, WHYTES RD",
         "SUBURBS": "ST GEORGE"
       }
@@ -570,5 +578,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718664901.433434"
+  "extracted": "1718665201.871497"
 }
