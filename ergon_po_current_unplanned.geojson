@@ -1,8 +1,219 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.693506,
+              -23.717117
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.667652,
+                  -23.742149
+                ],
+                [
+                  150.690604,
+                  -23.750706
+                ],
+                [
+                  150.691119,
+                  -23.75062
+                ],
+                [
+                  150.719482,
+                  -23.726549
+                ],
+                [
+                  150.719622,
+                  -23.726096
+                ],
+                [
+                  150.706979,
+                  -23.684653
+                ],
+                [
+                  150.70667,
+                  -23.68435
+                ],
+                [
+                  150.704126,
+                  -23.683527
+                ],
+                [
+                  150.703653,
+                  -23.683604
+                ],
+                [
+                  150.697716,
+                  -23.688093
+                ],
+                [
+                  150.697658,
+                  -23.688145
+                ],
+                [
+                  150.692331,
+                  -23.693741
+                ],
+                [
+                  150.692321,
+                  -23.693752
+                ],
+                [
+                  150.689926,
+                  -23.696431
+                ],
+                [
+                  150.689859,
+                  -23.696529
+                ],
+                [
+                  150.667391,
+                  -23.741543
+                ],
+                [
+                  150.667652,
+                  -23.742149
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8206",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "22",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:55PM 17 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BEAN FARM RD, OFFORD RD, OLD COACH RD, SAN JOSE RD",
+        "SUBURBS": "MARMOR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              149.012326,
+              -21.139184
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.996897,
+                  -21.136883
+                ],
+                [
+                  148.999745,
+                  -21.141899
+                ],
+                [
+                  148.99985,
+                  -21.142025
+                ],
+                [
+                  149.00438,
+                  -21.1458
+                ],
+                [
+                  149.004728,
+                  -21.145913
+                ],
+                [
+                  149.018283,
+                  -21.145166
+                ],
+                [
+                  149.018354,
+                  -21.145157
+                ],
+                [
+                  149.019478,
+                  -21.144935
+                ],
+                [
+                  149.019555,
+                  -21.144913
+                ],
+                [
+                  149.023125,
+                  -21.143598
+                ],
+                [
+                  149.023131,
+                  -21.143596
+                ],
+                [
+                  149.025064,
+                  -21.142854
+                ],
+                [
+                  149.025339,
+                  -21.142579
+                ],
+                [
+                  149.027788,
+                  -21.135697
+                ],
+                [
+                  149.027379,
+                  -21.135105
+                ],
+                [
+                  148.998666,
+                  -21.132455
+                ],
+                [
+                  148.998161,
+                  -21.132765
+                ],
+                [
+                  148.996864,
+                  -21.136532
+                ],
+                [
+                  148.996897,
+                  -21.136883
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK5178",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "103",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "6:30PM 17 Jun 2024",
+        "EST_FIX_TIME": "10:00PM 17 Jun 2024",
+        "STREETS": "DOYLES RD, GRIFFITHS DR, MACKAY EUNGELLA RD, PLEYSTOWE CONNECTION RD, ROBERTSON RD",
+        "SUBURBS": "BALNAGOWAN, PLEYSTOWE"
+      }
+    }
+  ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718610901.77025"
+  "extracted": "1718611500.390191"
 }
