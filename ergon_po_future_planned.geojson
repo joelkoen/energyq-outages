@@ -595,6 +595,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.07056,
+          -24.984063
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7350",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:13AM 17 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 17 Jun 2024",
+        "STREETS": "ABERCORN RD, ABERFELDIE RD",
+        "SUBURBS": "MONTO, MULGILDIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.698527,
           -23.147434
         ]
@@ -1750,48 +1771,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.559338,
-          -17.258669
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN6897",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "10:30AM 17 Jun 2024",
-        "EST_FIX_TIME": "2:00PM 17 Jun 2024",
-        "STREETS": "LEE HONG RD, PINNACLE POCKET RD",
-        "SUBURBS": "EAST BARRON, PINNACLE POCKET, YUNGABURRA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.570078,
-          -17.257743
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN6898",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "10:30AM 17 Jun 2024",
-        "EST_FIX_TIME": "2:00PM 17 Jun 2024",
-        "STREETS": "DENNY RD",
-        "SUBURBS": "EAST BARRON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           145.970976,
           -17.659065
         ]
@@ -2016,27 +1995,6 @@
         "EST_FIX_TIME": "4:30PM 19 Jun 2024",
         "STREETS": "CHARLES ST",
         "SUBURBS": "INNISFAIL"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.066988,
-          -17.503786
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN7008",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:58AM 17 Jun 2024",
-        "EST_FIX_TIME": "12:30PM 17 Jun 2024",
-        "STREETS": "BAY RD",
-        "SUBURBS": "COCONUTS"
       }
     },
     {
@@ -4648,27 +4606,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.020348,
-          -27.304352
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW9151",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "21",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:57AM 17 Jun 2024",
-        "EST_FIX_TIME": "2:00PM 17 Jun 2024",
-        "STREETS": "GLENROY RD, HANNAFORD RD, HANNAFORD SCHOOL RD, MITCHELLS LANE, OURIGILLA RD, SURAT DEVELOPMENT RD, WESTERN RD",
-        "SUBURBS": "HANNAFORD, MEANDARRA, TARA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           151.290948,
           -27.323061
         ]
@@ -6368,5 +6305,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1718583901.576572"
+  "extracted": "1718584500.425136"
 }
