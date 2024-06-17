@@ -1,78 +1,8 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              153.047509,
-              -26.569355
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.044692,
-                  -26.570227
-                ],
-                [
-                  153.050478,
-                  -26.569378
-                ],
-                [
-                  153.050895,
-                  -26.568874
-                ],
-                [
-                  153.050349,
-                  -26.568483
-                ],
-                [
-                  153.046262,
-                  -26.568837
-                ],
-                [
-                  153.046156,
-                  -26.568857
-                ],
-                [
-                  153.044457,
-                  -26.569351
-                ],
-                [
-                  153.044123,
-                  -26.569887
-                ],
-                [
-                  153.044692,
-                  -26.570227
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-765779-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "Under Investigation",
-        "STATUS": "In Progress",
-        "START": "4:18PM 17 Jun 2024",
-        "EST_FIX_TIME": "6:30PM 17 Jun 2024",
-        "STREETS": "RIVER RD",
-        "SUBURBS": "MAROOCHY RIVER"
-      }
-    }
-  ],
+  "features": [],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718610309.936951"
+  "extracted": "1718610600.414943"
 }
