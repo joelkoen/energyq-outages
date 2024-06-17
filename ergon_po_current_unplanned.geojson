@@ -183,9 +183,150 @@
         "STREETS": "HURSE RD, UNKNOWN ST",
         "SUBURBS": "LAKELAND"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.577698,
+              -28.049139
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.556888,
+                  -28.051601
+                ],
+                [
+                  148.562987,
+                  -28.056956
+                ],
+                [
+                  148.562995,
+                  -28.056963
+                ],
+                [
+                  148.564057,
+                  -28.057858
+                ],
+                [
+                  148.564091,
+                  -28.057885
+                ],
+                [
+                  148.572697,
+                  -28.063936
+                ],
+                [
+                  148.573094,
+                  -28.064028
+                ],
+                [
+                  148.596012,
+                  -28.060741
+                ],
+                [
+                  148.596104,
+                  -28.060719
+                ],
+                [
+                  148.598102,
+                  -28.060077
+                ],
+                [
+                  148.598436,
+                  -28.059684
+                ],
+                [
+                  148.598559,
+                  -28.058122
+                ],
+                [
+                  148.598489,
+                  -28.057859
+                ],
+                [
+                  148.587282,
+                  -28.041209
+                ],
+                [
+                  148.587263,
+                  -28.041183
+                ],
+                [
+                  148.58295,
+                  -28.035679
+                ],
+                [
+                  148.58294,
+                  -28.035667
+                ],
+                [
+                  148.58192,
+                  -28.034458
+                ],
+                [
+                  148.58152,
+                  -28.034277
+                ],
+                [
+                  148.579358,
+                  -28.03425
+                ],
+                [
+                  148.579216,
+                  -28.034266
+                ],
+                [
+                  148.577981,
+                  -28.034569
+                ],
+                [
+                  148.577976,
+                  -28.03457
+                ],
+                [
+                  148.568585,
+                  -28.036969
+                ],
+                [
+                  148.568316,
+                  -28.037136
+                ],
+                [
+                  148.556836,
+                  -28.051013
+                ],
+                [
+                  148.556888,
+                  -28.051601
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10286",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "690",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:13AM 18 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ACACIA CT, ALBERT ST, ALDRIDGE ST, ALFRED ST, ANDERSON LANE, ARTHUR ST, BARLEE ST, BEARDMORE PL, BEESONS ST, BOWEN ST, COMMISSIONERS POINT RD, CUTLER CT, GREY ST, HENRY ST, HERBERT ST, HILL ST, HUME ST, HUTT ST, JOHNSTON RD, KEMP RD, KENNY LANE, KLINGE LANE, LOGAN LANE, MARGARET ST, MARIE ST, MITCHELL ST, MUNRO ST, MURCHISON ST, ROBERT ST, ROE ST, SANDY LANDS RD, SCOTT ST, ST GEORGES TCE, STURT ST, TAYLOR ST, THE TERRACE, VICTORIA ST, WAGOO RD, WEATHERALL ST, WERIBONE ST, WHYENBAH RD, WHYTES RD",
+        "SUBURBS": "ST GEORGE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718655303.967399"
+  "extracted": "1718655600.366914"
 }
