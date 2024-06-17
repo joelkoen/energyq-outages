@@ -257,6 +257,131 @@
           {
             "type": "Point",
             "coordinates": [
+              145.836066,
+              -18.087399
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.76443,
+                  -18.087501
+                ],
+                [
+                  145.79564,
+                  -18.141448
+                ],
+                [
+                  145.796139,
+                  -18.141674
+                ],
+                [
+                  145.902102,
+                  -18.122911
+                ],
+                [
+                  145.902485,
+                  -18.122524
+                ],
+                [
+                  145.903065,
+                  -18.118156
+                ],
+                [
+                  145.903067,
+                  -18.118133
+                ],
+                [
+                  145.907711,
+                  -18.060014
+                ],
+                [
+                  145.90769,
+                  -18.059841
+                ],
+                [
+                  145.907258,
+                  -18.058566
+                ],
+                [
+                  145.907204,
+                  -18.058457
+                ],
+                [
+                  145.898963,
+                  -18.046451
+                ],
+                [
+                  145.898952,
+                  -18.046435
+                ],
+                [
+                  145.893946,
+                  -18.039772
+                ],
+                [
+                  145.893912,
+                  -18.039733
+                ],
+                [
+                  145.890392,
+                  -18.036007
+                ],
+                [
+                  145.890076,
+                  -18.03586
+                ],
+                [
+                  145.851501,
+                  -18.033123
+                ],
+                [
+                  145.851359,
+                  -18.033134
+                ],
+                [
+                  145.78509,
+                  -18.047808
+                ],
+                [
+                  145.784773,
+                  -18.048046
+                ],
+                [
+                  145.76442,
+                  -18.08708
+                ],
+                [
+                  145.76443,
+                  -18.087501
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7519",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "203",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "9:36AM 18 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "APPLEYARD RD, BILYANA MURRAY UPPER RD, BILYANA RD, BLACKMAN RD, DORE RD, HAMLIN RD, HOUSTON RD, KING RD, LAUDER RD, LEICHHARDT RD, MACKINNON RD, MIDDLE MURRAY RD, MURRAY FALLS RD, MURRAY UPPER RD, NORTH MURRAY RD, RONLUND RD, RUSSELL HENRY RD, SCIKLUNA RD, SPARVALL RD, SPARVELL RD, WARRAMI RD",
+        "SUBURBS": "BILYANA, JUMBUN, MURRAY UPPER, MURRIGAL, TULLY, WARRAMI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.720911,
               -19.290436
             ]
@@ -563,5 +688,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718667003.067911"
+  "extracted": "1718667300.30836"
 }
