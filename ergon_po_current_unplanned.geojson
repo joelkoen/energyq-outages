@@ -111,8 +111,8 @@
           {
             "type": "Point",
             "coordinates": [
-              146.025035,
-              -17.519861
+              146.026427,
+              -17.521982
             ]
           },
           {
@@ -120,36 +120,40 @@
             "coordinates": [
               [
                 [
-                  146.023631,
-                  -17.519605
+                  146.023623,
+                  -17.519574
                 ],
                 [
-                  146.024093,
-                  -17.521124
+                  146.025189,
+                  -17.526526
                 ],
                 [
-                  146.024568,
-                  -17.521449
+                  146.025614,
+                  -17.526882
                 ],
                 [
-                  146.025175,
-                  -17.52142
+                  146.026089,
+                  -17.526591
                 ],
                 [
-                  146.025595,
-                  -17.521122
+                  146.029232,
+                  -17.518632
                 ],
                 [
-                  146.026438,
-                  -17.518877
+                  146.029125,
+                  -17.518154
                 ],
                 [
-                  146.02598,
-                  -17.518272
+                  146.028122,
+                  -17.517185
                 ],
                 [
-                  146.024345,
-                  -17.518322
+                  146.027618,
+                  -17.517081
+                ],
+                [
+                  146.02419,
+                  -17.518352
                 ],
                 [
                   146.023919,
@@ -160,8 +164,8 @@
                   -17.519319
                 ],
                 [
-                  146.023631,
-                  -17.519605
+                  146.023623,
+                  -17.519574
                 ]
               ]
             ]
@@ -171,12 +175,12 @@
       "properties": {
         "EVENT_ID": "24FN7507",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "14",
+        "CUSTOMERS_AFFECTED": "68",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
         "STATUS": "Outage reported",
         "START": "5:30PM 17 Jun 2024",
         "EST_FIX_TIME": "10:30PM 17 Jun 2024",
-        "STREETS": "ALICE ST, CHARLES ST, EMILY ST",
+        "STREETS": "ALICE ST, CHARLES ST, EMILY ST, ERNEST ST, GLADY ST, PARK ST",
         "SUBURBS": "INNISFAIL"
       }
     },
@@ -369,9 +373,142 @@
         "STREETS": "DOYLES RD, GRIFFITHS DR, MACKAY EUNGELLA RD, PLEYSTOWE CONNECTION RD, ROBERTSON RD",
         "SUBURBS": "BALNAGOWAN, PLEYSTOWE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.936769,
+              -27.537141
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.932085,
+                  -27.536853
+                ],
+                [
+                  151.93239,
+                  -27.537474
+                ],
+                [
+                  151.932554,
+                  -27.537656
+                ],
+                [
+                  151.936334,
+                  -27.540124
+                ],
+                [
+                  151.936777,
+                  -27.540192
+                ],
+                [
+                  151.938873,
+                  -27.539635
+                ],
+                [
+                  151.938992,
+                  -27.539588
+                ],
+                [
+                  151.94116,
+                  -27.538408
+                ],
+                [
+                  151.941389,
+                  -27.538127
+                ],
+                [
+                  151.941445,
+                  -27.537914
+                ],
+                [
+                  151.941458,
+                  -27.537816
+                ],
+                [
+                  151.941458,
+                  -27.537771
+                ],
+                [
+                  151.941408,
+                  -27.537571
+                ],
+                [
+                  151.940995,
+                  -27.536806
+                ],
+                [
+                  151.940955,
+                  -27.536744
+                ],
+                [
+                  151.940271,
+                  -27.535869
+                ],
+                [
+                  151.94022,
+                  -27.535814
+                ],
+                [
+                  151.9394,
+                  -27.535056
+                ],
+                [
+                  151.939308,
+                  -27.534988
+                ],
+                [
+                  151.937819,
+                  -27.534143
+                ],
+                [
+                  151.937409,
+                  -27.53409
+                ],
+                [
+                  151.932857,
+                  -27.535255
+                ],
+                [
+                  151.932528,
+                  -27.535518
+                ],
+                [
+                  151.932079,
+                  -27.536503
+                ],
+                [
+                  151.932085,
+                  -27.536853
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10252",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "292",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:00PM 17 Jun 2024",
+        "EST_FIX_TIME": "1:00AM 18 Jun 2024",
+        "STREETS": "BULLOCK ST, CATHRO ST, CLOAKE ST, FEATHERSTONE CT, GANZER ST, GORDON AVE, GREYFRIARS ST, HARTH ST, HOLBERTON ST, NORTH ST, PRIEST ST, QUELCH ST, SIMS CT, TOMKYS ST, TRAPP ST, WELCOMBE AVE, WHITEFRIARS ST",
+        "SUBURBS": "NEWTOWN, ROCKVILLE, TOOWOOMBA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718620503.456561"
+  "extracted": "1718620801.452581"
 }
