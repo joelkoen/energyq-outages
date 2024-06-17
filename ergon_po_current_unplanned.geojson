@@ -382,6 +382,87 @@
           {
             "type": "Point",
             "coordinates": [
+              148.775855,
+              -21.214372
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.77325,
+                  -21.208712
+                ],
+                [
+                  148.776429,
+                  -21.219825
+                ],
+                [
+                  148.776666,
+                  -21.220106
+                ],
+                [
+                  148.777551,
+                  -21.220552
+                ],
+                [
+                  148.778257,
+                  -21.22021
+                ],
+                [
+                  148.778459,
+                  -21.218686
+                ],
+                [
+                  148.77846,
+                  -21.218587
+                ],
+                [
+                  148.777877,
+                  -21.212895
+                ],
+                [
+                  148.777775,
+                  -21.212657
+                ],
+                [
+                  148.774092,
+                  -21.208314
+                ],
+                [
+                  148.773498,
+                  -21.208192
+                ],
+                [
+                  148.77325,
+                  -21.208712
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK5179",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "7:09PM 17 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "HEAD MENKINS RD, SEPTIMUS RD",
+        "SUBURBS": "GARGETT, SEPTIMUS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.936769,
               -27.537141
             ]
@@ -510,5 +591,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718620801.452581"
+  "extracted": "1718621115.127281"
 }
