@@ -1339,7 +1339,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "9",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "In Progress",
         "START": "12:30PM 17 Jun 2024",
         "EST_FIX_TIME": "3:30PM 17 Jun 2024",
         "STREETS": "FRANCIS RD, GAP RD, SISTER TREE CREEK RD",
@@ -2548,27 +2548,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.024315,
-          -27.483704
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-763019-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
-        "START": "8:00AM 19 Jun 2024",
-        "EST_FIX_TIME": "4:00PM 20 Jun 2024",
-        "STREETS": "VULTURE ST",
-        "SUBURBS": "SOUTH BRISBANE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.025389,
           -27.483098
         ]
@@ -2581,6 +2560,27 @@
         "STATUS": "Scheduled",
         "START": "5:30AM 20 Jun 2024",
         "EST_FIX_TIME": "1:30PM 20 Jun 2024",
+        "STREETS": "VULTURE ST",
+        "SUBURBS": "SOUTH BRISBANE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.024315,
+          -27.483704
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-763019-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 19 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 20 Jun 2024",
         "STREETS": "VULTURE ST",
         "SUBURBS": "SOUTH BRISBANE"
       }
@@ -2767,7 +2767,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
+        "STATUS": "Cancelled",
         "START": "8:30AM 21 Jun 2024",
         "EST_FIX_TIME": "2:30PM 21 Jun 2024",
         "STREETS": "BARRIER PL, EVERGREEN PL",
@@ -3260,5 +3260,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1718591701.436496"
+  "extracted": "1718592000.264805"
 }
