@@ -216,8 +216,8 @@
           {
             "type": "Point",
             "coordinates": [
-              144.923163,
-              -15.767792
+              144.849933,
+              -15.81425
             ]
           },
           {
@@ -225,40 +225,52 @@
             "coordinates": [
               [
                 [
-                  144.825215,
-                  -15.816292
+                  144.825218,
+                  -15.816296
                 ],
                 [
-                  144.85774,
-                  -15.864224
+                  144.841916,
+                  -15.840367
                 ],
                 [
-                  144.858467,
-                  -15.864288
+                  144.842306,
+                  -15.840567
                 ],
                 [
-                  144.925527,
-                  -15.796507
+                  144.84362,
+                  -15.840559
                 ],
                 [
-                  144.925564,
-                  -15.796464
+                  144.84369,
+                  -15.840554
                 ],
                 [
-                  145.021151,
-                  -15.671942
+                  144.870439,
+                  -15.836465
                 ],
                 [
-                  145.021114,
-                  -15.671361
+                  144.870724,
+                  -15.836309
                 ],
                 [
-                  145.020518,
-                  -15.671296
+                  144.87459,
+                  -15.831848
                 ],
                 [
-                  144.836648,
-                  -15.789945
+                  144.87469,
+                  -15.831468
+                ],
+                [
+                  144.865642,
+                  -15.788295
+                ],
+                [
+                  144.865152,
+                  -15.787934
+                ],
+                [
+                  144.836873,
+                  -15.789871
                 ],
                 [
                   144.836477,
@@ -269,8 +281,8 @@
                   -15.815868
                 ],
                 [
-                  144.825215,
-                  -15.816292
+                  144.825218,
+                  -15.816296
                 ]
               ]
             ]
@@ -280,94 +292,13 @@
       "properties": {
         "EVENT_ID": "24FN7509",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "39",
+        "CUSTOMERS_AFFECTED": "21",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Crews working on-site",
         "START": "6:56PM 17 Jun 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "ANDERSON ST, DAWSON RD, HURSE RD, MULLIGAN HWY, PENINSULA DEVELOPMENT RD, UNKNOWN ST",
+        "STREETS": "ANDERSON ST, DAWSON RD, HURSE RD, MULLIGAN HWY, UNKNOWN ST",
         "SUBURBS": "LAKELAND"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              148.775855,
-              -21.214372
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  148.77325,
-                  -21.208712
-                ],
-                [
-                  148.776429,
-                  -21.219825
-                ],
-                [
-                  148.776666,
-                  -21.220106
-                ],
-                [
-                  148.777551,
-                  -21.220552
-                ],
-                [
-                  148.778257,
-                  -21.22021
-                ],
-                [
-                  148.778459,
-                  -21.218686
-                ],
-                [
-                  148.77846,
-                  -21.218587
-                ],
-                [
-                  148.777877,
-                  -21.212895
-                ],
-                [
-                  148.777775,
-                  -21.212657
-                ],
-                [
-                  148.774092,
-                  -21.208314
-                ],
-                [
-                  148.773498,
-                  -21.208192
-                ],
-                [
-                  148.77325,
-                  -21.208712
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK5179",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "12",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
-        "START": "7:09PM 17 Jun 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "HEAD MENKINS RD, SEPTIMUS RD",
-        "SUBURBS": "GARGETT, SEPTIMUS"
       }
     },
     {
@@ -506,5 +437,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718626502.469192"
+  "extracted": "1718626800.815846"
 }
