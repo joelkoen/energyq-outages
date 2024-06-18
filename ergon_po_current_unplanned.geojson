@@ -149,7 +149,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is due to fallen power lines.  ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "11:01AM 18 Jun 2024",
         "EST_FIX_TIME": null,
         "STREETS": "HIDDEN VALLEY RD",
@@ -540,6 +540,71 @@
           {
             "type": "Point",
             "coordinates": [
+              147.472666,
+              -19.600229
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.472473,
+                  -19.600857
+                ],
+                [
+                  147.473305,
+                  -19.600456
+                ],
+                [
+                  147.473552,
+                  -19.599943
+                ],
+                [
+                  147.473077,
+                  -19.599602
+                ],
+                [
+                  147.472254,
+                  -19.599621
+                ],
+                [
+                  147.471789,
+                  -19.600063
+                ],
+                [
+                  147.47178,
+                  -19.600444
+                ],
+                [
+                  147.472473,
+                  -19.600857
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9825",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "12:00PM 18 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANABRANCH RD",
+        "SUBURBS": "JARVISFIELD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               147.312726,
               -25.712406
             ]
@@ -681,5 +746,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718680501.229468"
+  "extracted": "1718680800.360935"
 }
