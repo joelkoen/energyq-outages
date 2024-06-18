@@ -601,6 +601,91 @@
           {
             "type": "Point",
             "coordinates": [
+              146.934453,
+              -19.591917
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.922893,
+                  -19.592847
+                ],
+                [
+                  146.92406,
+                  -19.596374
+                ],
+                [
+                  146.924157,
+                  -19.596537
+                ],
+                [
+                  146.931543,
+                  -19.604502
+                ],
+                [
+                  146.932125,
+                  -19.604603
+                ],
+                [
+                  146.945826,
+                  -19.597716
+                ],
+                [
+                  146.946035,
+                  -19.597127
+                ],
+                [
+                  146.937381,
+                  -19.579445
+                ],
+                [
+                  146.936739,
+                  -19.57923
+                ],
+                [
+                  146.92345,
+                  -19.585406
+                ],
+                [
+                  146.923184,
+                  -19.585792
+                ],
+                [
+                  146.922871,
+                  -19.592693
+                ],
+                [
+                  146.922893,
+                  -19.592847
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9823",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "24",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "2:00PM 18 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "COOK RD, HABERECHT RD, MOUNTVIEW DR, TOLSON RD, WOODSTOCK GIRU RD",
+        "SUBURBS": "MAJORS CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               147.472666,
               -19.600229
             ]
@@ -651,7 +736,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "4",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "12:00PM 18 Jun 2024",
         "EST_FIX_TIME": null,
         "STREETS": "ANABRANCH RD",
@@ -956,5 +1041,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718682900.352347"
+  "extracted": "1718683500.47994"
 }
