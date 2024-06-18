@@ -571,9 +571,90 @@
         "STREETS": "KILLARNEY RD, REDFORD RD, REDFORD-HOGANTHULLA RD, WINNEBA RD",
         "SUBURBS": "MORVEN, MUNGALLALA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.269613,
+              -27.165352
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.259821,
+                  -27.164775
+                ],
+                [
+                  151.2661,
+                  -27.167682
+                ],
+                [
+                  151.266241,
+                  -27.167726
+                ],
+                [
+                  151.279108,
+                  -27.169822
+                ],
+                [
+                  151.279675,
+                  -27.169523
+                ],
+                [
+                  151.279427,
+                  -27.168978
+                ],
+                [
+                  151.261798,
+                  -27.160947
+                ],
+                [
+                  151.261578,
+                  -27.160898
+                ],
+                [
+                  151.260448,
+                  -27.160881
+                ],
+                [
+                  151.259939,
+                  -27.161281
+                ],
+                [
+                  151.259552,
+                  -27.164324
+                ],
+                [
+                  151.259821,
+                  -27.164775
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10310",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:06PM 18 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AERODROME RD",
+        "SUBURBS": "DALBY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718677200.507448"
+  "extracted": "1718677503.869282"
 }
