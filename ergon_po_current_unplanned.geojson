@@ -382,6 +382,99 @@
           {
             "type": "Point",
             "coordinates": [
+              145.743386,
+              -16.899419
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.742485,
+                  -16.900194
+                ],
+                [
+                  145.742568,
+                  -16.901011
+                ],
+                [
+                  145.743198,
+                  -16.90139
+                ],
+                [
+                  145.743854,
+                  -16.901157
+                ],
+                [
+                  145.744149,
+                  -16.900831
+                ],
+                [
+                  145.744263,
+                  -16.900339
+                ],
+                [
+                  145.744274,
+                  -16.900243
+                ],
+                [
+                  145.744287,
+                  -16.898138
+                ],
+                [
+                  145.744259,
+                  -16.897982
+                ],
+                [
+                  145.744154,
+                  -16.897701
+                ],
+                [
+                  145.743507,
+                  -16.897448
+                ],
+                [
+                  145.743023,
+                  -16.897675
+                ],
+                [
+                  145.742763,
+                  -16.898024
+                ],
+                [
+                  145.742486,
+                  -16.900092
+                ],
+                [
+                  145.742485,
+                  -16.900194
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7522",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "60",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:39AM 18 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "COLLINS AVE, PYNE ST",
+        "SUBURBS": "EDGE HILL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.720911,
               -19.290436
             ]
@@ -688,5 +781,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718668200.345202"
+  "extracted": "1718668804.199307"
 }
