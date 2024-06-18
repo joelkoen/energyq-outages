@@ -1,8 +1,110 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.371868,
+              -26.926536
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.306161,
+                  -26.896839
+                ],
+                [
+                  152.339619,
+                  -26.997855
+                ],
+                [
+                  152.339701,
+                  -26.998
+                ],
+                [
+                  152.35201,
+                  -27.012477
+                ],
+                [
+                  152.352635,
+                  -27.012608
+                ],
+                [
+                  152.398636,
+                  -26.992106
+                ],
+                [
+                  152.398885,
+                  -26.991857
+                ],
+                [
+                  152.437575,
+                  -26.897488
+                ],
+                [
+                  152.437385,
+                  -26.896959
+                ],
+                [
+                  152.344629,
+                  -26.840464
+                ],
+                [
+                  152.343979,
+                  -26.840528
+                ],
+                [
+                  152.328006,
+                  -26.855782
+                ],
+                [
+                  152.327922,
+                  -26.855891
+                ],
+                [
+                  152.308164,
+                  -26.891698
+                ],
+                [
+                  152.308143,
+                  -26.891743
+                ],
+                [
+                  152.306172,
+                  -26.896555
+                ],
+                [
+                  152.306161,
+                  -26.896839
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-766033-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "127",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:22PM 18 Jun 2024",
+        "EST_FIX_TIME": "8:00PM 18 Jun 2024",
+        "STREETS": "APPLE TREE CREEK RD, ARABABY CREEK RD, ARMSTRONGS LANE, BRISBANE VALLEY HWY, CAMBROOK RD, D'AGUILAR HWY, DRYDEN GULLY RD, FOGGS RD, GREGORS CREEK RD, HOLLAND RD, IVORY CREEK RD, JOSEY RD, KANGAROO CREEK RD, MARGARET ST, MCPHERSON RD, NURINDA RD, O'LEARYS LANE, RUCKERS LANE, SAWPIT RD, SINNAMONS LANE, SPRING CREEK RD, TOM ST, TURTLE CREEK RD, UNNAMED RD",
+        "SUBURBS": "COLINTON, GREGORS CREEK, HARLIN, MOORE, YIMBUN"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718695200.315896"
+  "extracted": "1718695501.142941"
 }
