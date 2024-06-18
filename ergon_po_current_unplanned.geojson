@@ -552,6 +552,163 @@
           {
             "type": "Point",
             "coordinates": [
+              149.341763,
+              -21.803167
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.186452,
+                  -21.618449
+                ],
+                [
+                  149.198663,
+                  -21.651852
+                ],
+                [
+                  149.198664,
+                  -21.651856
+                ],
+                [
+                  149.285879,
+                  -21.882981
+                ],
+                [
+                  149.285919,
+                  -21.883061
+                ],
+                [
+                  149.304104,
+                  -21.911644
+                ],
+                [
+                  149.304176,
+                  -21.911731
+                ],
+                [
+                  149.397008,
+                  -21.999469
+                ],
+                [
+                  149.397107,
+                  -21.999541
+                ],
+                [
+                  149.482264,
+                  -22.046167
+                ],
+                [
+                  149.48228,
+                  -22.046176
+                ],
+                [
+                  149.495978,
+                  -22.052996
+                ],
+                [
+                  149.496689,
+                  -22.052625
+                ],
+                [
+                  149.497074,
+                  -22.046618
+                ],
+                [
+                  149.497072,
+                  -22.046541
+                ],
+                [
+                  149.454175,
+                  -21.68385
+                ],
+                [
+                  149.454169,
+                  -21.683815
+                ],
+                [
+                  149.45388,
+                  -21.682398
+                ],
+                [
+                  149.453867,
+                  -21.682349
+                ],
+                [
+                  149.438076,
+                  -21.634574
+                ],
+                [
+                  149.437853,
+                  -21.634314
+                ],
+                [
+                  149.285764,
+                  -21.553392
+                ],
+                [
+                  149.285454,
+                  -21.553338
+                ],
+                [
+                  149.230908,
+                  -21.560955
+                ],
+                [
+                  149.230907,
+                  -21.560955
+                ],
+                [
+                  149.211911,
+                  -21.563624
+                ],
+                [
+                  149.21155,
+                  -21.563872
+                ],
+                [
+                  149.207296,
+                  -21.571992
+                ],
+                [
+                  149.207285,
+                  -21.572015
+                ],
+                [
+                  149.186464,
+                  -21.618127
+                ],
+                [
+                  149.186452,
+                  -21.618449
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK5197",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1108",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:59AM 18 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BEACH RD, BOLINGBROKE RD, BORSTAL RD, BROWN ST, BROWNS RD, BRUCE HWY, BULL ST, CAMPBELLS RD, CAPE PALMERSTON RD, CARMILA BEACH ESP, CARMILA BEACH RD, CARMILA WEST RD, CONE CREEK RD, CONNOLLYS RD, CORAL CT, COTTERS RD, CRAIG RD, DENNYS RD, DOUGLAS RD, EAST INNESTON RD, ELALIE RD, FARQUHAR RD, FLAGGY ROCK RD, FLAGGY ST, FREDERICK HOARE DR, GALLOWAY DR, GARNHAM CT, GARNHAMS RD, GILLINBIN CREEK RD, GRAHAM ST, GREENHILL RD, HARRIS RD, HATFIELD RD, HINDLES RD, HINTON RD, HOWLANDS RD, ILBILBIE RD, INNESTON RD, JOHNSON RD, KARLOO RD, KOUMALA BOLINGBROKE RD, KOUMALA RD, LALLYS RD, LANDELLS RD, LANDING RD, LEICHHARDT CREEK RD, LOADSMAN RD, LOADSMANS RD, LOLOMA RD, MAJORS RD, MARION SETTLEMENT RD, MCLEODS RD, MCNEIL RD, MOLINAS ST, MOUNT CHRISTIAN RD, MUMBY ST, MUSIC ST, NOTCH POINT RD, OCEAN DR, OLD BRUCE HWY, PACIFIC AVE, PALMS RD, PLATTS RD, PRATT RD, PRICE RD, QUALITY ST, R WILLIAMS RD, RAILWAY PDE, RAND RD, RASMUSSENS RD, REEF CT, RICOTTA RD, RILEY RD, RILEYS RD, ROCKY DAM RD, SANDS RD, SANGIORGIO RD, SCHIRMERS RD, SEAVIEW DR, SLEEMAN RD, SMART RD, SOUTH INNESTON RD, STORY RD, STUDENT ST, SWAN RD, SWANS RD, TAYLORS RD, TEDLANDS RD, THE ESPLANADE, THOMPSON RD, TINERTA RD, TURNORS PADDOCK RD, UPPER FLAGGY ROCK RD, WATER TOWER RD, WEST HILL RD, WOOD RD",
+        "SUBURBS": "CARMILA, CARMILA BEACH, CLAIRVIEW, GREENHILL, ILBILBIE, KOUMALA, MOUNT CHRISTIAN, ORKABIE, SARINA, WEST HILL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.720911,
               -19.290436
             ]
@@ -858,5 +1015,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718672403.313406"
+  "extracted": "1718673000.495485"
 }
