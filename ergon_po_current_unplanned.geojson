@@ -164,6 +164,67 @@
           {
             "type": "Point",
             "coordinates": [
+              150.374664,
+              -23.320799
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.377901,
+                  -23.320962
+                ],
+                [
+                  150.371626,
+                  -23.319752
+                ],
+                [
+                  150.371049,
+                  -23.320101
+                ],
+                [
+                  150.371427,
+                  -23.320635
+                ],
+                [
+                  150.377701,
+                  -23.321845
+                ],
+                [
+                  150.378279,
+                  -23.321496
+                ],
+                [
+                  150.377901,
+                  -23.320962
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8265",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "1:30PM 18 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 18 Jun 2024",
+        "STREETS": "HUNT RD, PANDORA RD",
+        "SUBURBS": "ALTON DOWNS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.749401,
               -16.906782
             ]
@@ -746,5 +807,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718680800.360935"
+  "extracted": "1718681404.226276"
 }
