@@ -71,6 +71,115 @@
           {
             "type": "Point",
             "coordinates": [
+              148.446563,
+              -22.766082
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.343396,
+                  -22.594412
+                ],
+                [
+                  148.41384,
+                  -22.829563
+                ],
+                [
+                  148.413956,
+                  -22.829754
+                ],
+                [
+                  148.541502,
+                  -22.953725
+                ],
+                [
+                  148.542335,
+                  -22.953492
+                ],
+                [
+                  148.549731,
+                  -22.915029
+                ],
+                [
+                  148.549718,
+                  -22.91482
+                ],
+                [
+                  148.543244,
+                  -22.894853
+                ],
+                [
+                  148.543212,
+                  -22.89478
+                ],
+                [
+                  148.440181,
+                  -22.705346
+                ],
+                [
+                  148.44017,
+                  -22.705326
+                ],
+                [
+                  148.362716,
+                  -22.578627
+                ],
+                [
+                  148.362089,
+                  -22.578439
+                ],
+                [
+                  148.360623,
+                  -22.579068
+                ],
+                [
+                  148.360563,
+                  -22.579099
+                ],
+                [
+                  148.34538,
+                  -22.588246
+                ],
+                [
+                  148.345177,
+                  -22.588498
+                ],
+                [
+                  148.343397,
+                  -22.594165
+                ],
+                [
+                  148.343396,
+                  -22.594412
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8282",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "669",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:32PM 18 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ARMSTRONG CRES, BEARDMORE CRES, BERESFORD CRES, BROADSOUND AVE, BROCK CRES, CARFAX BYPASS RD, CASWELL ST, CONNORS ST, COOK CRES, DONOVAN CRES, EALES ST, GALE ST, GILBERT CT, LENTON ST, LOTUS CREEK RD, M'MOUNT-DYSART RD, MACDONALD ST, MAGENTA RD, MARSHALL ST, MCMULLEN CT, MENZIES ST, MIDDLEMOUNT RD, MURPHY ST, NEWBERRY CT, NOLAN ST, NORWICH PARK RD, OFF DYSART-M'MOUNT RD, PERRY ST, POWELL ST, QUEEN ELIZABETH DR, ROPER CT, SHANNON CRES, SINGLETON ST, THOMAS ST, WALLACE ST, WEBLEY WAY, WINTERER CRES",
+        "SUBURBS": "CAPELLA, DYSART, MIDDLEMOUNT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.742756,
               -16.985258
             ]
@@ -146,6 +255,67 @@
         "EST_FIX_TIME": null,
         "STREETS": "BRUCE HWY, COOMBS ST, PROGRESS RD",
         "SUBURBS": "MOUNT SHERIDAN, WHITE ROCK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.892212,
+              -18.218169
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.891816,
+                  -18.217535
+                ],
+                [
+                  145.89167,
+                  -18.218696
+                ],
+                [
+                  145.892082,
+                  -18.219199
+                ],
+                [
+                  145.892608,
+                  -18.218804
+                ],
+                [
+                  145.892755,
+                  -18.217643
+                ],
+                [
+                  145.892342,
+                  -18.21714
+                ],
+                [
+                  145.891816,
+                  -18.217535
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7560",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "4:20PM 18 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "KENNEDY CREEK RD",
+        "SUBURBS": "CARRUCHAN, KENNEDY"
       }
     },
     {
@@ -519,5 +689,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718691900.401653"
+  "extracted": "1718692500.358159"
 }
