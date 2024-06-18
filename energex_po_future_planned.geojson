@@ -205,7 +205,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "44",
         "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
+        "STATUS": "Completed",
         "START": "8:00AM 18 Jun 2024",
         "EST_FIX_TIME": "3:30PM 18 Jun 2024",
         "STREETS": "ERNETON ST, WARD ST",
@@ -1402,7 +1402,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "95",
         "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
+        "STATUS": "Completed",
         "START": "8:00AM 18 Jun 2024",
         "EST_FIX_TIME": "3:30PM 18 Jun 2024",
         "STREETS": "BICHELS RD, BUMSTEADS RD, COURT AVE S, INSLEYS RD, JENDRA RD, PETREA RD, RASMUSSEN RD, SALVIA RD, SCHULZ RD",
@@ -2149,27 +2149,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.025389,
-          -27.483098
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-763019-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
-        "START": "5:30AM 20 Jun 2024",
-        "EST_FIX_TIME": "1:30PM 20 Jun 2024",
-        "STREETS": "VULTURE ST",
-        "SUBURBS": "SOUTH BRISBANE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.024315,
           -27.483704
         ]
@@ -2182,6 +2161,27 @@
         "STATUS": "Scheduled",
         "START": "8:00AM 19 Jun 2024",
         "EST_FIX_TIME": "4:00PM 20 Jun 2024",
+        "STREETS": "VULTURE ST",
+        "SUBURBS": "SOUTH BRISBANE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.025389,
+          -27.483098
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-763019-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "5:30AM 20 Jun 2024",
+        "EST_FIX_TIME": "1:30PM 20 Jun 2024",
         "STREETS": "VULTURE ST",
         "SUBURBS": "SOUTH BRISBANE"
       }
@@ -2861,5 +2861,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1718684700.537248"
+  "extracted": "1718685004.686881"
 }
