@@ -1,8 +1,90 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.733257,
+              -27.658117
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.732845,
+                  -27.660324
+                ],
+                [
+                  152.733022,
+                  -27.66035
+                ],
+                [
+                  152.733605,
+                  -27.659978
+                ],
+                [
+                  152.733901,
+                  -27.658366
+                ],
+                [
+                  152.733906,
+                  -27.658329
+                ],
+                [
+                  152.734086,
+                  -27.656369
+                ],
+                [
+                  152.733642,
+                  -27.655884
+                ],
+                [
+                  152.73308,
+                  -27.656259
+                ],
+                [
+                  152.733021,
+                  -27.656581
+                ],
+                [
+                  152.732487,
+                  -27.659484
+                ],
+                [
+                  152.732427,
+                  -27.659806
+                ],
+                [
+                  152.732845,
+                  -27.660324
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-765905-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "10:13AM 18 Jun 2024",
+        "EST_FIX_TIME": "12:30PM 18 Jun 2024",
+        "STREETS": "GODDARDS RD",
+        "SUBURBS": "YAMANTO"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718669400.377534"
+  "extracted": "1718669703.113992"
 }
