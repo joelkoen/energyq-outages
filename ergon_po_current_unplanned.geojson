@@ -10,6 +10,95 @@
           {
             "type": "Point",
             "coordinates": [
+              145.600768,
+              -24.300327
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.440869,
+                  -24.284696
+                ],
+                [
+                  145.444717,
+                  -24.337504
+                ],
+                [
+                  145.444741,
+                  -24.337617
+                ],
+                [
+                  145.461568,
+                  -24.383846
+                ],
+                [
+                  145.462109,
+                  -24.38415
+                ],
+                [
+                  145.760263,
+                  -24.342681
+                ],
+                [
+                  145.760668,
+                  -24.34234
+                ],
+                [
+                  145.760476,
+                  -24.341867
+                ],
+                [
+                  145.607303,
+                  -24.24116
+                ],
+                [
+                  145.607131,
+                  -24.241088
+                ],
+                [
+                  145.495768,
+                  -24.216505
+                ],
+                [
+                  145.495256,
+                  -24.216676
+                ],
+                [
+                  145.440964,
+                  -24.284399
+                ],
+                [
+                  145.440869,
+                  -24.284696
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8176",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 19 Jun 2024",
+        "EST_FIX_TIME": "2:00PM 19 Jun 2024",
+        "STREETS": "ALICE DOWNS RD, EVORA RD, WOODBINE RD, YALLEROI-BLACKALL RD",
+        "SUBURBS": "BLACKALL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               147.424165,
               -19.651597
             ]
@@ -74,5 +163,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718743801.140294"
+  "extracted": "1718744101.565035"
 }
