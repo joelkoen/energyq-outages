@@ -251,9 +251,110 @@
         "STREETS": "AGNES PL, ALAWOONA ST, ALDINGA ST, APEX PL, ARCHER CRES, ARCHER RD, BALLOW CRES, BARAMBAH CT, BERRIGAN ST, BONOGIN CT, BOYD ST, BRANXTON CT, BURRAWANG ST, CARLIE CT, CASHMERE ST, CEDAR RD, CHETWYND ST, CHRISTINE CRES, COBBIN CCT, COLANE ST, COOMBE CL, CORDEAUX CRES, CREEKSTONE AVE, CUDGEE ST, DANDENONG AVE, DANYEL CT, DELBRIDGE ST, DIAMOND WAY, DOOGAL CT, GAMMON WAY, GLORIOUS PROM, GOONDOOLA ST, GRANGE ST, GREENHILL ST, HALLETTS RD, HAMERSLY ST, HEY ST, HOLTERMAN CRES, HUNTLEY CRES, HUXLEY ST, IRONPOT ST, JASON CT, JIPPI ST, JIRRA ST, JOHN CARROLL WAY, JUNCTION DR, KANANGRA ST, KARABIL ST, KAREN CT, KILLARNEY CT, LAMINGTON DR, LARCOM CRES, LEDGER ST, LEMANA ST, LIETZOW ST, LYN ST, MAWSON ST, MCKINLAY AVE, MILFORD ST, MITCHELL ST, MOOGERAH BVD, MOWBULLAN ST, MYALL CT, NARDOO CT, NATHAN CL, NINDERRY WALK, NORTON SANDS DR, OBORN ST, ORANA ST, PEGGY CRES, PERCY LANE, PHILIP ST, PIDDINGTON ST, PLEASANT DR, PRIMROSE CRES, REDBANK PLAINS RD, REEDY CRES, RENEE ST, SADDLEBACK AVE, SAMANTHA ST, SAPPHIRE CRES, SARAH CL, SCENIC RD, SCHOOL RD, SHANAHAN PDE, SHELLEY ST, STATHAM CT, STIRLING CCT, TEMPEST CCT, TINA ST, TWYNAM ST, UNNAMED RD, URARA ST, VANTAGE PL, VICKI ST, VINCE ELMORE WAY, VINE ST, WARRIGAL CT, WARRILL ST, WAXBERRY CT, WESTALL CL, WESTALL PL, WESTRAY CRES, WHITE ROCK DR, WILKIE AVE, WILLOW RD, WILLOW RD W, WOODROFFE CRES",
         "SUBURBS": "REDBANK PLAINS, WHITE ROCK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.130984,
+              -26.692519
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.128819,
+                  -26.693263
+                ],
+                [
+                  153.129049,
+                  -26.693579
+                ],
+                [
+                  153.129203,
+                  -26.693715
+                ],
+                [
+                  153.131685,
+                  -26.695113
+                ],
+                [
+                  153.132433,
+                  -26.694859
+                ],
+                [
+                  153.132953,
+                  -26.693298
+                ],
+                [
+                  153.132973,
+                  -26.6932
+                ],
+                [
+                  153.133148,
+                  -26.690877
+                ],
+                [
+                  153.132992,
+                  -26.690519
+                ],
+                [
+                  153.132552,
+                  -26.690143
+                ],
+                [
+                  153.132514,
+                  -26.690114
+                ],
+                [
+                  153.132333,
+                  -26.689988
+                ],
+                [
+                  153.131842,
+                  -26.689925
+                ],
+                [
+                  153.131329,
+                  -26.690106
+                ],
+                [
+                  153.131125,
+                  -26.69024
+                ],
+                [
+                  153.128852,
+                  -26.69273
+                ],
+                [
+                  153.128819,
+                  -26.693263
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-766061-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "107",
+        "REASON": "Damage to our equipment",
+        "STATUS": "Awaiting",
+        "START": "7:58PM 18 Jun 2024",
+        "EST_FIX_TIME": "10:30PM 18 Jun 2024",
+        "STREETS": "BARELLAN AVE, BELTANA CRES, MAWARRA ST, MINYA ST, OOMOO ST, POINT CARTWRIGHT DR",
+        "SUBURBS": "BUDDINA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718704501.002588"
+  "extracted": "1718704815.758231"
 }
