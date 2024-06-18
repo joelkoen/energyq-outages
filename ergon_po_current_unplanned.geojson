@@ -293,6 +293,67 @@
           {
             "type": "Point",
             "coordinates": [
+              148.416674,
+              -27.576948
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.422481,
+                  -27.567501
+                ],
+                [
+                  148.409999,
+                  -27.58593
+                ],
+                [
+                  148.410171,
+                  -27.586549
+                ],
+                [
+                  148.410867,
+                  -27.586396
+                ],
+                [
+                  148.423348,
+                  -27.567967
+                ],
+                [
+                  148.423176,
+                  -27.567348
+                ],
+                [
+                  148.422481,
+                  -27.567501
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10304",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 19 Jun 2024",
+        "EST_FIX_TIME": "2:00PM 19 Jun 2024",
+        "STREETS": "DILQUI RD, MITCHELL ST GEORGE RD",
+        "SUBURBS": "ST GEORGE, WYCOMBE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.96715,
               -26.682742
             ]
@@ -361,5 +422,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718747400.434498"
+  "extracted": "1718747700.48503"
 }
