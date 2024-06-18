@@ -82,9 +82,126 @@
         "STREETS": "GODDARDS RD",
         "SUBURBS": "YAMANTO"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.921194,
+              -26.658416
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.899919,
+                  -26.655253
+                ],
+                [
+                  152.900511,
+                  -26.662479
+                ],
+                [
+                  152.90053,
+                  -26.662573
+                ],
+                [
+                  152.906833,
+                  -26.681885
+                ],
+                [
+                  152.907245,
+                  -26.682205
+                ],
+                [
+                  152.92553,
+                  -26.684522
+                ],
+                [
+                  152.92594,
+                  -26.684408
+                ],
+                [
+                  152.927273,
+                  -26.683311
+                ],
+                [
+                  152.927409,
+                  -26.683125
+                ],
+                [
+                  152.942468,
+                  -26.643904
+                ],
+                [
+                  152.942393,
+                  -26.643483
+                ],
+                [
+                  152.938566,
+                  -26.638975
+                ],
+                [
+                  152.938393,
+                  -26.638845
+                ],
+                [
+                  152.923958,
+                  -26.63231
+                ],
+                [
+                  152.92344,
+                  -26.632346
+                ],
+                [
+                  152.919843,
+                  -26.634654
+                ],
+                [
+                  152.919777,
+                  -26.634705
+                ],
+                [
+                  152.917033,
+                  -26.637215
+                ],
+                [
+                  152.917011,
+                  -26.637237
+                ],
+                [
+                  152.90004,
+                  -26.654925
+                ],
+                [
+                  152.899919,
+                  -26.655253
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-765907-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "407",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "10:15AM 18 Jun 2024",
+        "EST_FIX_TIME": "12:30PM 18 Jun 2024",
+        "STREETS": "BAGNALL RD, BLACKALL RANGE RD, BRIGGS RD, CARRUTHERS RD, DULONG RD, GLENFERN RD, HUNCHY RD, ILUKA ST, JACKSONS RD, KALANG DR, MAYERS RD, PERIWINKLE LANE, PERWILLOWEN RD, RATCLIFFE RD, RUWOLDTS RD, SHEKINAH CT, SIMBA RD, SIMONS RD, SUNRISE LANE, THOMPSON RD, TOWEN MOUNT RD, TOWEN VIEW CT, WELKS RIDGE RD",
+        "SUBURBS": "COES CREEK, DULONG, HUNCHY, PERWILLOWEN, TOWEN MOUNTAIN, WEST WOOMBYE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718669703.113992"
+  "extracted": "1718670000.628354"
 }
