@@ -284,9 +284,82 @@
         "STREETS": "FORDS RD",
         "SUBURBS": "HOME HILL"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.96715,
+              -26.682742
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.965847,
+                  -26.684673
+                ],
+                [
+                  151.966772,
+                  -26.68519
+                ],
+                [
+                  151.967523,
+                  -26.684916
+                ],
+                [
+                  151.968648,
+                  -26.680819
+                ],
+                [
+                  151.968346,
+                  -26.680293
+                ],
+                [
+                  151.967725,
+                  -26.680489
+                ],
+                [
+                  151.966357,
+                  -26.682662
+                ],
+                [
+                  151.966334,
+                  -26.682704
+                ],
+                [
+                  151.965652,
+                  -26.684112
+                ],
+                [
+                  151.965847,
+                  -26.684673
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6631",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:12AM 19 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "KURRAJONG DR",
+        "SUBURBS": "NANANGO"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718746203.561714"
+  "extracted": "1718746500.367286"
 }
