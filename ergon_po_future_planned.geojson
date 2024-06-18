@@ -1990,7 +1990,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "117",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 19 Jun 2024",
         "EST_FIX_TIME": "3:00PM 19 Jun 2024",
         "STREETS": "ALEXANDRIA RD, CREEK ST, HOMEBUSH RD, LORNE RD, MACKAY EUNGELLA RD, PALMS RD, PEAK DOWNS HWY, TIDEMANN ST, WALKERSTON HOMEBUSH RD, WEIGANDS RD",
@@ -4123,6 +4123,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.274913,
+          -27.851223
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9210",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 19 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 19 Jun 2024",
+        "STREETS": "DOOLEY RD, GORE HWY, LINDENMAYERS RD, MILLMERRAN CECIL PLAINS RD, WALLACE RD",
+        "SUBURBS": "MILLMERRAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.758359,
           -26.134045
         ]
@@ -4963,6 +4984,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.474095,
+          -24.84456
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5910",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "72",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:05AM 19 Jun 2024",
+        "EST_FIX_TIME": "2:00PM 19 Jun 2024",
+        "STREETS": "BANKS CT, BASS CT, BOUNTY CT, PLYMOUTH ST, SHORELINE CRES, SOLANDER ST, VENUS CT, WOONGARRA SCENIC DR",
+        "SUBURBS": "BARGARA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.275179,
           -25.256409
         ]
@@ -5381,5 +5423,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1718748300.570681"
+  "extracted": "1718748600.36962"
 }
