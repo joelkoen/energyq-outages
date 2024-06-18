@@ -71,6 +71,83 @@
           {
             "type": "Point",
             "coordinates": [
+              150.513659,
+              -24.405424
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.511551,
+                  -24.403885
+                ],
+                [
+                  150.51499,
+                  -24.407529
+                ],
+                [
+                  150.515666,
+                  -24.407589
+                ],
+                [
+                  150.515766,
+                  -24.406975
+                ],
+                [
+                  150.514854,
+                  -24.405786
+                ],
+                [
+                  150.514818,
+                  -24.405744
+                ],
+                [
+                  150.513816,
+                  -24.40472
+                ],
+                [
+                  150.513801,
+                  -24.404706
+                ],
+                [
+                  150.512276,
+                  -24.403276
+                ],
+                [
+                  150.511591,
+                  -24.403259
+                ],
+                [
+                  150.511551,
+                  -24.403885
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8288",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "5:18PM 18 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BURNETT HWY",
+        "SUBURBS": "BILOELA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.742756,
               -16.985258
             ]
@@ -454,5 +531,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718697301.434717"
+  "extracted": "1718697604.30208"
 }
