@@ -382,6 +382,123 @@
           {
             "type": "Point",
             "coordinates": [
+              145.56322,
+              -17.583563
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.499795,
+                  -17.550564
+                ],
+                [
+                  145.500417,
+                  -17.556615
+                ],
+                [
+                  145.500452,
+                  -17.556747
+                ],
+                [
+                  145.517379,
+                  -17.595127
+                ],
+                [
+                  145.517412,
+                  -17.595188
+                ],
+                [
+                  145.536897,
+                  -17.625573
+                ],
+                [
+                  145.537262,
+                  -17.625787
+                ],
+                [
+                  145.626148,
+                  -17.632448
+                ],
+                [
+                  145.626645,
+                  -17.631899
+                ],
+                [
+                  145.620998,
+                  -17.607467
+                ],
+                [
+                  145.620965,
+                  -17.607374
+                ],
+                [
+                  145.613869,
+                  -17.59272
+                ],
+                [
+                  145.613686,
+                  -17.592524
+                ],
+                [
+                  145.517065,
+                  -17.536442
+                ],
+                [
+                  145.516951,
+                  -17.536394
+                ],
+                [
+                  145.510735,
+                  -17.534678
+                ],
+                [
+                  145.510215,
+                  -17.534858
+                ],
+                [
+                  145.506086,
+                  -17.5407
+                ],
+                [
+                  145.506076,
+                  -17.540715
+                ],
+                [
+                  145.499864,
+                  -17.550281
+                ],
+                [
+                  145.499795,
+                  -17.550564
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7521",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "122",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:57AM 18 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BEATRICE WAY, CARRICK RD, CHARLES KEOUGH RD, CHILVERTON RD, COLLINS RD, GLENDINNING RD, GREENWAY RD, GREENWOOD RD, HARRIS RD, HILLS RD, KENNEDY HWY, MAALAN RD, OLD PALMERSTON HWY, PALMERSTON HWY, ROSS RD, SLUICE CREEK RD, SMITH RD, SUTTEES GAP RD, TOM CARRICK RD, VEIVERS RD",
+        "SUBURBS": "CHILVERTON, EVELYN, EVELYN CENTRAL, HORSESHOE BEND, MAALAN, MILLAA MILLAA, RAVENSHOE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.743386,
               -16.899419
             ]
@@ -781,5 +898,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718668804.199307"
+  "extracted": "1718669100.375313"
 }
