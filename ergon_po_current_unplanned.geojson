@@ -78,9 +78,94 @@
         "STREETS": "OAK ST",
         "SUBURBS": "BARCALDINE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.94805,
+              -27.576775
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.94721,
+                  -27.577808
+                ],
+                [
+                  151.948856,
+                  -27.577864
+                ],
+                [
+                  151.949371,
+                  -27.577331
+                ],
+                [
+                  151.949167,
+                  -27.576367
+                ],
+                [
+                  151.948837,
+                  -27.576026
+                ],
+                [
+                  151.948029,
+                  -27.575774
+                ],
+                [
+                  151.94802,
+                  -27.575772
+                ],
+                [
+                  151.947724,
+                  -27.575685
+                ],
+                [
+                  151.947085,
+                  -27.575975
+                ],
+                [
+                  151.946828,
+                  -27.576688
+                ],
+                [
+                  151.946809,
+                  -27.576766
+                ],
+                [
+                  151.946728,
+                  -27.577299
+                ],
+                [
+                  151.94721,
+                  -27.577808
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10418",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "8:38AM 20 Jun 2024",
+        "EST_FIX_TIME": "12:00PM 20 Jun 2024",
+        "STREETS": "HEALY ST, WATER ST",
+        "SUBURBS": "SOUTH TOOWOOMBA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718839200.441202"
+  "extracted": "1718839500.523287"
 }
