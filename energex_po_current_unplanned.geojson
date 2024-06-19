@@ -10,6 +10,83 @@
           {
             "type": "Point",
             "coordinates": [
+              153.02906,
+              -26.760783
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.025534,
+                  -26.762283
+                ],
+                [
+                  153.027862,
+                  -26.762867
+                ],
+                [
+                  153.028198,
+                  -26.762846
+                ],
+                [
+                  153.032164,
+                  -26.761297
+                ],
+                [
+                  153.03243,
+                  -26.761051
+                ],
+                [
+                  153.03295,
+                  -26.759883
+                ],
+                [
+                  153.032532,
+                  -26.759267
+                ],
+                [
+                  153.026111,
+                  -26.758699
+                ],
+                [
+                  153.025563,
+                  -26.75909
+                ],
+                [
+                  153.025171,
+                  -26.76179
+                ],
+                [
+                  153.025534,
+                  -26.762283
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-766254-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "31",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:04PM 19 Jun 2024",
+        "EST_FIX_TIME": "8:00PM 19 Jun 2024",
+        "STREETS": "CLINTON CT, EVERGREEN DR, FRESHWATER CT, GLENVIEW RD",
+        "SUBURBS": "GLENVIEW, PALMVIEW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.781274,
               -27.568256
             ]
@@ -138,5 +215,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718784300.375628"
+  "extracted": "1718784601.00634"
 }
