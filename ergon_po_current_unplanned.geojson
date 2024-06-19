@@ -10,59 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              150.18838,
-              -22.884211
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  150.188867,
-                  -22.884201
-                ],
-                [
-                  150.18837,
-                  -22.88376
-                ],
-                [
-                  150.187894,
-                  -22.88422
-                ],
-                [
-                  150.188391,
-                  -22.884662
-                ],
-                [
-                  150.188867,
-                  -22.884201
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA8342",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
-        "START": "2:53PM 19 Jun 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "OFF BRUCE HWY",
-        "SUBURBS": "KUNWARARA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               148.724455,
               -20.289714
             ]
@@ -173,7 +120,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "48",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "4:53PM 19 Jun 2024",
         "EST_FIX_TIME": null,
         "STREETS": "ARMADA CRES, SANCTUARY AVE, SHELTER CT",
@@ -188,8 +135,8 @@
           {
             "type": "Point",
             "coordinates": [
-              151.93201,
-              -28.651295
+              151.927896,
+              -28.650833
             ]
           },
           {
@@ -197,12 +144,12 @@
             "coordinates": [
               [
                 [
-                  151.928645,
-                  -28.649994
+                  151.920841,
+                  -28.652011
                 ],
                 [
-                  151.932092,
-                  -28.653341
+                  151.932397,
+                  -28.653483
                 ],
                 [
                   151.93262,
@@ -245,16 +192,28 @@
                   -28.649131
                 ],
                 [
-                  151.932325,
-                  -28.649122
+                  151.932431,
+                  -28.649128
                 ],
                 [
-                  151.929002,
-                  -28.649241
+                  151.926068,
+                  -28.648183
                 ],
                 [
-                  151.928645,
-                  -28.649994
+                  151.925703,
+                  -28.648251
+                ],
+                [
+                  151.920634,
+                  -28.65119
+                ],
+                [
+                  151.920416,
+                  -28.651664
+                ],
+                [
+                  151.920841,
+                  -28.652011
                 ]
               ]
             ]
@@ -264,17 +223,17 @@
       "properties": {
         "EVENT_ID": "24SW10390",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "76",
+        "CUSTOMERS_AFFECTED": "91",
         "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
         "STATUS": "Crews working on-site",
         "START": "3:14PM 19 Jun 2024",
         "EST_FIX_TIME": "6:30PM 19 Jun 2024",
-        "STREETS": "CONNOR ST, CORUNDUM ST, MARSH ST, MCGLEW ST, TALC ST",
+        "STREETS": "BRITANNIA ST, CONNOR ST, CORUNDUM ST, MARSH ST, MCGLEW ST, PANCOR RD, TALC ST, TEXAS RD",
         "SUBURBS": "STANTHORPE"
       }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718781901.027754"
+  "extracted": "1718782500.459096"
 }
