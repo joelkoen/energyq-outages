@@ -63,6 +63,75 @@
           {
             "type": "Point",
             "coordinates": [
+              148.027752,
+              -20.149593
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.02561,
+                  -20.157322
+                ],
+                [
+                  148.03082,
+                  -20.14212
+                ],
+                [
+                  148.03055,
+                  -20.141564
+                ],
+                [
+                  148.029941,
+                  -20.141772
+                ],
+                [
+                  148.026263,
+                  -20.148442
+                ],
+                [
+                  148.026216,
+                  -20.148576
+                ],
+                [
+                  148.024683,
+                  -20.157108
+                ],
+                [
+                  148.025041,
+                  -20.157622
+                ],
+                [
+                  148.02561,
+                  -20.157322
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9883",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "4:30PM 19 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOWEN DEVELOPMENT RD, PETER DELAMOTHE RD",
+        "SUBURBS": "BOWEN, COLLINSVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               147.480318,
               -19.455711
             ]
@@ -236,5 +305,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718778300.444712"
+  "extracted": "1718778900.337839"
 }
