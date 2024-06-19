@@ -10,6 +10,107 @@
           {
             "type": "Point",
             "coordinates": [
+              148.673948,
+              -22.436958
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.426219,
+                  -22.511517
+                ],
+                [
+                  148.45285,
+                  -22.542394
+                ],
+                [
+                  148.453047,
+                  -22.54253
+                ],
+                [
+                  148.66386,
+                  -22.621569
+                ],
+                [
+                  148.664228,
+                  -22.621567
+                ],
+                [
+                  148.921583,
+                  -22.522127
+                ],
+                [
+                  148.92177,
+                  -22.521422
+                ],
+                [
+                  148.716325,
+                  -22.290411
+                ],
+                [
+                  148.716293,
+                  -22.290378
+                ],
+                [
+                  148.675249,
+                  -22.252464
+                ],
+                [
+                  148.674788,
+                  -22.252346
+                ],
+                [
+                  148.48304,
+                  -22.297351
+                ],
+                [
+                  148.48272,
+                  -22.297595
+                ],
+                [
+                  148.477815,
+                  -22.307169
+                ],
+                [
+                  148.477781,
+                  -22.30726
+                ],
+                [
+                  148.426126,
+                  -22.511131
+                ],
+                [
+                  148.426219,
+                  -22.511517
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8272",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "68",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:24AM 20 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 20 Jun 2024",
+        "STREETS": "CARFAX RD, DINGO-MT FLORA RD, DYSART CONNECTION RD, FITZROY DEVELOPMENTAL RD, GOLDEN MILE RD, IFFLEY CONNECTION RD, MAY DOWNS-CARFAX RD, RICKERTT CRES",
+        "SUBURBS": "DYSART, MIDDLEMOUNT, VALKYRIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.300047,
               -23.553443
             ]
@@ -87,8 +188,8 @@
           {
             "type": "Point",
             "coordinates": [
-              151.94805,
-              -27.576775
+              150.334097,
+              -23.33437
             ]
           },
           {
@@ -96,56 +197,85 @@
             "coordinates": [
               [
                 [
-                  151.94721,
-                  -27.577808
+                  150.335279,
+                  -23.33384
                 ],
                 [
-                  151.948856,
-                  -27.577864
+                  150.332846,
+                  -23.334
                 ],
                 [
-                  151.949371,
-                  -27.577331
+                  150.332393,
+                  -23.334482
                 ],
                 [
-                  151.949167,
-                  -27.576367
+                  150.332915,
+                  -23.3349
                 ],
                 [
-                  151.948837,
-                  -27.576026
+                  150.335349,
+                  -23.334739
                 ],
                 [
-                  151.948029,
-                  -27.575774
+                  150.335801,
+                  -23.334257
                 ],
                 [
-                  151.94802,
-                  -27.575772
+                  150.335279,
+                  -23.33384
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8358",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:30AM 20 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOYS RD",
+        "SUBURBS": "ALTON DOWNS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.947899,
+              -27.577074
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.948404,
+                  -27.577056
                 ],
                 [
-                  151.947724,
-                  -27.575685
+                  151.947879,
+                  -27.576624
                 ],
                 [
-                  151.947085,
-                  -27.575975
+                  151.947394,
+                  -27.577092
                 ],
                 [
-                  151.946828,
-                  -27.576688
+                  151.947919,
+                  -27.577524
                 ],
                 [
-                  151.946809,
-                  -27.576766
-                ],
-                [
-                  151.946728,
-                  -27.577299
-                ],
-                [
-                  151.94721,
-                  -27.577808
+                  151.948404,
+                  -27.577056
                 ]
               ]
             ]
@@ -155,17 +285,17 @@
       "properties": {
         "EVENT_ID": "24SW10418",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "13",
+        "CUSTOMERS_AFFECTED": "4",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "8:38AM 20 Jun 2024",
         "EST_FIX_TIME": "12:00PM 20 Jun 2024",
-        "STREETS": "HEALY ST, WATER ST",
+        "STREETS": "HEALY ST",
         "SUBURBS": "SOUTH TOOWOOMBA"
       }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718839500.523287"
+  "extracted": "1718839802.228536"
 }
