@@ -211,9 +211,102 @@
         "STREETS": "ANZAC AVE, HUMPYBONG ESP, JEFFREY ST, MANLEY ST, OXLEY AVE",
         "SUBURBS": "REDCLIFFE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.752788,
+              -26.447716
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.735006,
+                  -26.466964
+                ],
+                [
+                  152.763463,
+                  -26.462324
+                ],
+                [
+                  152.763803,
+                  -26.462114
+                ],
+                [
+                  152.766016,
+                  -26.458824
+                ],
+                [
+                  152.766078,
+                  -26.458682
+                ],
+                [
+                  152.771154,
+                  -26.436791
+                ],
+                [
+                  152.771018,
+                  -26.436379
+                ],
+                [
+                  152.76254,
+                  -26.428744
+                ],
+                [
+                  152.762192,
+                  -26.428612
+                ],
+                [
+                  152.750433,
+                  -26.428469
+                ],
+                [
+                  152.750182,
+                  -26.428526
+                ],
+                [
+                  152.740958,
+                  -26.433159
+                ],
+                [
+                  152.740708,
+                  -26.433477
+                ],
+                [
+                  152.734422,
+                  -26.466443
+                ],
+                [
+                  152.735006,
+                  -26.466964
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-766216-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "33",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "3:02PM 19 Jun 2024",
+        "EST_FIX_TIME": "5:30PM 19 Jun 2024",
+        "STREETS": "ASPENNELL RD, CHIPPINDALL RD, FRIEDLAND RD, JUBILEE RD, KENILWORTH SKYRING CREEK RD, POULSEN RD, TUCHEKOI RD",
+        "SUBURBS": "BOLLIER, CARTERS RIDGE, TUCHEKOI"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718772900.4864"
+  "extracted": "1718773500.408753"
 }
