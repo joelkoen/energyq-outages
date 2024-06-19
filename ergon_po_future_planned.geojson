@@ -1025,7 +1025,7 @@
         "CUSTOMERS_AFFECTED": "190",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 20 Jun 2024",
+        "START": "8:47AM 20 Jun 2024",
         "EST_FIX_TIME": "2:30PM 20 Jun 2024",
         "STREETS": "BARRINE CT, BARRON GORGE RD, IMPEY ST, JADE CRES, KAMERUNGA RD, LAKE PLACID RD, NIOKA PL, NORILLA CL, RUBY CL, TARANA CL, VALMADRE ST, WYUNA DR",
         "SUBURBS": "CARAVONICA"
@@ -3125,7 +3125,7 @@
         "CUSTOMERS_AFFECTED": "63",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:00AM 20 Jun 2024",
+        "START": "8:50AM 20 Jun 2024",
         "EST_FIX_TIME": "2:00PM 20 Jun 2024",
         "STREETS": "ALKIRA LANE, BENNETT SCHOOL RD, BLACKBURNS RD, FORTUNE DR, FORTUNES RD, GOLDEN GLOW RD, KOGAN RD, LUCKY RD, MILLERS RD, TARA CHINCHILLA RD, TULLAGRIE RD, UNDULLA CREEK RD, UPPER HUMBUG RD",
         "SUBURBS": "TARA"
@@ -3976,6 +3976,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.163481,
+          -25.766899
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6088",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "16",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 20 Jun 2024",
+        "EST_FIX_TIME": "3:00PM 20 Jun 2024",
+        "STREETS": "BIGGENDEN-WOOLOOGA RD, BOOUBYJAN RD, MALARGA RD, WARD RD",
+        "SUBURBS": "BROOWEENA, GIGOOMGAN, TEEBAR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.585742,
           -25.292756
         ]
@@ -4268,5 +4289,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1718838600.581121"
+  "extracted": "1718838902.8265"
 }
