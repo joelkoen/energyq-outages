@@ -1,8 +1,110 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.851545,
+              -28.14569
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.841829,
+                  -28.155833
+                ],
+                [
+                  151.842853,
+                  -28.157197
+                ],
+                [
+                  151.843332,
+                  -28.157395
+                ],
+                [
+                  151.851115,
+                  -28.156636
+                ],
+                [
+                  151.851268,
+                  -28.156599
+                ],
+                [
+                  151.85917,
+                  -28.153438
+                ],
+                [
+                  151.859465,
+                  -28.153078
+                ],
+                [
+                  151.861573,
+                  -28.136324
+                ],
+                [
+                  151.861571,
+                  -28.13621
+                ],
+                [
+                  151.861268,
+                  -28.134358
+                ],
+                [
+                  151.860649,
+                  -28.133985
+                ],
+                [
+                  151.845675,
+                  -28.137127
+                ],
+                [
+                  151.845352,
+                  -28.137341
+                ],
+                [
+                  151.841585,
+                  -28.143154
+                ],
+                [
+                  151.841518,
+                  -28.143386
+                ],
+                [
+                  151.841744,
+                  -28.155591
+                ],
+                [
+                  151.841829,
+                  -28.155833
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10408",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:57AM 20 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BLACKSOIL LANE, CONNELLS BRIDGE RD, DEUCHAR-BONY MOUNTAIN RD, DUFF RD, LEYBURN - CUNNINGHAM RD, TV REPEATER RD, UPPER WHEATVALE RD",
+        "SUBURBS": "BONY MOUNTAIN, CUNNINGHAM, UPPER WHEATVALE, WHEATVALE"
+      }
+    }
+  ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718831400.534369"
+  "extracted": "1718831703.081453"
 }
