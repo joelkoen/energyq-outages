@@ -1,8 +1,110 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.15428,
+              -27.067229
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.15238,
+                  -27.067521
+                ],
+                [
+                  153.154121,
+                  -27.068684
+                ],
+                [
+                  153.154122,
+                  -27.068685
+                ],
+                [
+                  153.155356,
+                  -27.069504
+                ],
+                [
+                  153.155926,
+                  -27.069523
+                ],
+                [
+                  153.15614,
+                  -27.069402
+                ],
+                [
+                  153.156363,
+                  -27.068921
+                ],
+                [
+                  153.155949,
+                  -27.067278
+                ],
+                [
+                  153.15586,
+                  -27.067106
+                ],
+                [
+                  153.154357,
+                  -27.065316
+                ],
+                [
+                  153.154285,
+                  -27.065247
+                ],
+                [
+                  153.153898,
+                  -27.064945
+                ],
+                [
+                  153.153251,
+                  -27.064934
+                ],
+                [
+                  153.152905,
+                  -27.065183
+                ],
+                [
+                  153.152737,
+                  -27.065407
+                ],
+                [
+                  153.152198,
+                  -27.06703
+                ],
+                [
+                  153.15238,
+                  -27.067521
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-766288-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "87",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "6:13AM 20 Jun 2024",
+        "EST_FIX_TIME": "8:30AM 20 Jun 2024",
+        "STREETS": "CHARLOTTE AVE, GIDYA AVE, LEE AVE, SUNSET AVE, WATTLE AVE",
+        "SUBURBS": "BONGAREE"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718827801.426319"
+  "extracted": "1718828102.916708"
 }
