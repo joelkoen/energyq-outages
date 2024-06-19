@@ -102,9 +102,78 @@
         "STREETS": "CHARLOTTE AVE, GIDYA AVE, LEE AVE, SUNSET AVE, WATTLE AVE",
         "SUBURBS": "BONGAREE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.416789,
+              -27.969905
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.41623,
+                  -27.970142
+                ],
+                [
+                  153.416346,
+                  -27.970283
+                ],
+                [
+                  153.416943,
+                  -27.970435
+                ],
+                [
+                  153.417285,
+                  -27.970315
+                ],
+                [
+                  153.417347,
+                  -27.969502
+                ],
+                [
+                  153.417184,
+                  -27.969421
+                ],
+                [
+                  153.416818,
+                  -27.969374
+                ],
+                [
+                  153.416523,
+                  -27.969436
+                ],
+                [
+                  153.41623,
+                  -27.970142
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-766332-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "20",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "8:44AM 20 Jun 2024",
+        "EST_FIX_TIME": "12:00PM 20 Jun 2024",
+        "STREETS": "SHORT ST",
+        "SUBURBS": "SOUTHPORT"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718836800.46052"
+  "extracted": "1718837104.123202"
 }
