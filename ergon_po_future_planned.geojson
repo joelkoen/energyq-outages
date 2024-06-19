@@ -280,6 +280,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.265336,
+          -23.871325
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7210",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "299",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 20 Jun 2024",
+        "EST_FIX_TIME": "3:00PM 20 Jun 2024",
+        "STREETS": "BRUCE ST, COOLOOLA CL, COWAN CL, ELIZABETH ST, EMERSON CT, FITZSIMMONS ST, FOREST PL, HAY CT, HURLEY ST, KOPPABELLA CL, LAKEFIELD CT, LAMINGTON DR, LAUREN CT, MARIAN CL, MCCANN ST, OXLEY DR, PHILIP ST, SOLONIKA CT, WATSON CL",
+        "SUBURBS": "GLADSTONE, SOUTH GLADSTONE, SUN VALLEY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.346496,
           -22.591587
         ]
@@ -2368,7 +2389,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "7",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 20 Jun 2024",
         "EST_FIX_TIME": "12:00PM 20 Jun 2024",
         "STREETS": "HART ST",
@@ -2494,7 +2515,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "66",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 20 Jun 2024",
         "EST_FIX_TIME": "2:30PM 20 Jun 2024",
         "STREETS": "ALYSS ST, CHURCHILL ST, GEARY ST, HENRY ST, HUNTER ST, LAMMERMOOR ST, MARATHON ST, MCLAREN ST, PEEL ST, RICHMOND HILL DR, SALEYARDS RD, SEYMOUR ST",
@@ -3481,7 +3502,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "38",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 20 Jun 2024",
         "EST_FIX_TIME": "3:00PM 20 Jun 2024",
         "STREETS": "BAMBERRY RD, BORDER FENCE RD, CHURCH LANE, CULLENDORE CREEK RD, CULLENDORE RD, MARYLAND-CULLENDORE RD, MUNROS RD, ODEAS RD, RAVENSCROFT RD, WOODS RD",
@@ -3754,7 +3775,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "36",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 20 Jun 2024",
         "EST_FIX_TIME": "2:30PM 20 Jun 2024",
         "STREETS": "ARTHUR ST, BROWN ST, CAIRNS ST, D'AGUILAR HWY, FLEMING ST, FRANK BROWN RD, KNOWLES ST, MUNRO ST, YARRAMAN RD",
@@ -4394,5 +4415,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1718834403.866389"
+  "extracted": "1718834700.405995"
 }
