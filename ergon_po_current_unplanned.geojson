@@ -133,7 +133,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "17",
         "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "2:49PM 19 Jun 2024",
         "EST_FIX_TIME": null,
         "STREETS": "ANZAC AVE, TIVOLI CL",
@@ -305,9 +305,142 @@
         "STREETS": "BUNYA MOUNTAINS MACLAGAN RD, BUNYA MOUNTAINS RD, BUNYA MOUNTAINS-MACLAGAN RD, BURTONS RD, JACKSONS RD, MALLING BOUNDARY RD, RANGEMORE RD, WOODLANDS RD, YAMSION HILL RD",
         "SUBURBS": "BUNYA MOUNTAINS, KAIMKILLENBUN, MACLAGAN, MOOLA, RANGEMORE, YAMSION"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.748834,
+              -28.591697
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.554748,
+                  -28.625144
+                ],
+                [
+                  151.579396,
+                  -28.677893
+                ],
+                [
+                  151.579424,
+                  -28.677944
+                ],
+                [
+                  151.637501,
+                  -28.767692
+                ],
+                [
+                  151.638074,
+                  -28.767904
+                ],
+                [
+                  151.720956,
+                  -28.748772
+                ],
+                [
+                  151.720987,
+                  -28.748764
+                ],
+                [
+                  151.901423,
+                  -28.695722
+                ],
+                [
+                  151.901665,
+                  -28.69557
+                ],
+                [
+                  151.929354,
+                  -28.664004
+                ],
+                [
+                  151.929417,
+                  -28.663909
+                ],
+                [
+                  151.935347,
+                  -28.651957
+                ],
+                [
+                  151.935349,
+                  -28.651953
+                ],
+                [
+                  151.942896,
+                  -28.636324
+                ],
+                [
+                  151.94292,
+                  -28.636033
+                ],
+                [
+                  151.941662,
+                  -28.631834
+                ],
+                [
+                  151.941555,
+                  -28.631654
+                ],
+                [
+                  151.737193,
+                  -28.423104
+                ],
+                [
+                  151.737152,
+                  -28.423066
+                ],
+                [
+                  151.727829,
+                  -28.415489
+                ],
+                [
+                  151.727115,
+                  -28.415511
+                ],
+                [
+                  151.682379,
+                  -28.457177
+                ],
+                [
+                  151.682326,
+                  -28.457236
+                ],
+                [
+                  151.554796,
+                  -28.624721
+                ],
+                [
+                  151.554748,
+                  -28.625144
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10390",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1683",
+        "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
+        "STATUS": "Crews working on-site",
+        "START": "3:14PM 19 Jun 2024",
+        "EST_FIX_TIME": "6:30PM 19 Jun 2024",
+        "STREETS": "AHERN LANE, ALLISON ST, ALUM ROCK RD, AMIENS RD, ARCHIBALD ST, BANKSIA LANE, BAPAUME RD, BARTON ST, BASSEL RD, BOATFIELDS RD, BOYCE RD, BRIDGE ST, BRITANNIA ST, BROWNS LANE, BURTON CRES, CANNON CREEK RD, CASCADES LANE, CASLICK LANE, CAVES RD, CLARK LANE, CLARKE ST, COLLEGE RD, CONNOR ST, CORUNDUM ST, COWIES LANE, DAY ST, DENHAM ST, DERWENT ST, DONGES RD, DYLAN CT, ELKS LANE, ELLERINGTON LANE, ELLEVSEN ST, FOLKESTONE ST, FOXBAR RD, FURNESS RD, GLEESON ST, GLENLYON DR, GOLDFIELDS RD, GOURLAS CT, GOWS LANE, GREANEY RD, GREENLANDS LANE, GREER ST, GRICE LANE, HARRIS ST, HARSLETT RD, HILLCREST ST, INGLEWOOD RD, INVERARY RD, JIMMY MANN RD, JOHNSTONE LANE, JONES RD, LOCK ST, LOFAROS RD, MACKENZIE ST, MAGNOLI LANE, MANNING ST, MANNS LANE, MARIA CT, MARINO RD, MARSH ST, MCGLEW ST, MCGRATH LANE, MCGREGOR TCE, MCLEOD CT, MEMORIAL LANE, MINASI LANE, MINUTI LANE, MOUNT HUTTON RD, MT JANET RD, NECTAR LANE, NELSON CRES, NEW ENGLAND HWY, NOBLE ST, NUNDUBBERMERE RD, PANCOR RD, PASSMORE RD, PETRIE CROSSING RD, PHILPOTT LANE, PITTS ST, PLANT LANE, POST OFFICE LANE, QUIRKS RD, RAILWAY ST, RAVENSMOOR RD, REEVES RD, RICH ST, RICOSSA LANE, RIVER LANE, ROWLEY CT, SANGRICOLI CT, SHEAHAN ST, SIMMONDS LANE, SMITH ST, SONEGO LANE, SPENCER LANE, SPRING CREEK RD, SPRINGDALE RD, STANTON ST, SULLIVAN DR, SWANS LANE, SYMES ST, TALC ST, TEXAS RD, THORNDALE RD, THORPE ST, TORRISI TCE, TREVETHAN LANE, TWIN HOUSE RD, WALSH DR, WATTLE CT, WEST RD, WILLOCKS LANE, WILSON ST, YARRABEE LANE, YEATS RD",
+        "SUBURBS": "AMIENS, APPLETHORPE, BROADWATER, CANNON CREEK, DALVEEN, GREENLANDS, NUNDUBBERMERE, PIKEDALE, PIKES CREEK, SEVERNLEA, STANTHORPE, THORNDALE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718774103.425616"
+  "extracted": "1718774400.379973"
 }
