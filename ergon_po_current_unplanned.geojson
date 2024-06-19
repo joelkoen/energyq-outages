@@ -72,15 +72,108 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "6",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "6:35AM 20 Jun 2024",
         "EST_FIX_TIME": null,
         "STREETS": "OAK ST",
         "SUBURBS": "BARCALDINE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.856462,
+              -25.310463
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.855754,
+                  -25.313274
+                ],
+                [
+                  152.856547,
+                  -25.313185
+                ],
+                [
+                  152.856959,
+                  -25.312874
+                ],
+                [
+                  152.857618,
+                  -25.310965
+                ],
+                [
+                  152.85764,
+                  -25.310845
+                ],
+                [
+                  152.857699,
+                  -25.309224
+                ],
+                [
+                  152.857699,
+                  -25.309218
+                ],
+                [
+                  152.857725,
+                  -25.308082
+                ],
+                [
+                  152.857056,
+                  -25.307652
+                ],
+                [
+                  152.856122,
+                  -25.307972
+                ],
+                [
+                  152.855806,
+                  -25.308335
+                ],
+                [
+                  152.855231,
+                  -25.312317
+                ],
+                [
+                  152.855227,
+                  -25.312351
+                ],
+                [
+                  152.8552,
+                  -25.312802
+                ],
+                [
+                  152.855754,
+                  -25.313274
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6669",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:51AM 20 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DOOLONG RD, GILSTON RD",
+        "SUBURBS": "WONDUNNA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718834700.405995"
+  "extracted": "1718835000.401601"
 }
