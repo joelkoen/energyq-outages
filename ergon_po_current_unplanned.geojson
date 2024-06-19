@@ -135,91 +135,6 @@
           {
             "type": "Point",
             "coordinates": [
-              146.795116,
-              -19.605626
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  146.779148,
-                  -19.588261
-                ],
-                [
-                  146.782283,
-                  -19.607644
-                ],
-                [
-                  146.782414,
-                  -19.607892
-                ],
-                [
-                  146.800777,
-                  -19.625573
-                ],
-                [
-                  146.801457,
-                  -19.625573
-                ],
-                [
-                  146.811039,
-                  -19.61636
-                ],
-                [
-                  146.811084,
-                  -19.615776
-                ],
-                [
-                  146.790114,
-                  -19.588717
-                ],
-                [
-                  146.789891,
-                  -19.588559
-                ],
-                [
-                  146.781451,
-                  -19.58568
-                ],
-                [
-                  146.78091,
-                  -19.585832
-                ],
-                [
-                  146.779239,
-                  -19.58792
-                ],
-                [
-                  146.779148,
-                  -19.588261
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ9884",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "6",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "6:05PM 19 Jun 2024",
-        "EST_FIX_TIME": "6:30PM 19 Jun 2024",
-        "STREETS": "GHOST GUM RD, JONES RD, ROWE RD",
-        "SUBURBS": "CALCIUM, WOODSTOCK"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               151.927896,
               -28.650833
             ]
@@ -316,9 +231,86 @@
         "STREETS": "BRITANNIA ST, CONNOR ST, CORUNDUM ST, MARSH ST, MCGLEW ST, PANCOR RD, TALC ST, TEXAS RD",
         "SUBURBS": "STANTHORPE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              149.696004,
+              -25.132114
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.553176,
+                  -25.172545
+                ],
+                [
+                  149.656469,
+                  -25.217642
+                ],
+                [
+                  149.656916,
+                  -25.217634
+                ],
+                [
+                  149.838934,
+                  -25.129811
+                ],
+                [
+                  149.838997,
+                  -25.129051
+                ],
+                [
+                  149.828475,
+                  -25.121908
+                ],
+                [
+                  149.828407,
+                  -25.121869
+                ],
+                [
+                  149.669386,
+                  -25.046586
+                ],
+                [
+                  149.668778,
+                  -25.046696
+                ],
+                [
+                  149.553011,
+                  -25.171848
+                ],
+                [
+                  149.553176,
+                  -25.172545
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10395",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "6:31PM 19 Jun 2024",
+        "EST_FIX_TIME": "9:30PM 19 Jun 2024",
+        "STREETS": "BAUHINIA DOWNS RD, BURNLEY RD, FLAGSTAFF RD, GHINGHINDA RD",
+        "SUBURBS": "TAROOM"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718785803.569292"
+  "extracted": "1718786401.374325"
 }
