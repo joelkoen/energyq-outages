@@ -94,9 +94,94 @@
         "STREETS": "AGNESVALE RD, BERRIES RD, BIGGENDEN RD, EUREKA RD, ISIS HWY, RENDALLS RD",
         "SUBURBS": "CHILDERS, EUREKA, GOLDEN FLEECE, KULLOGUM"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.144261,
+              -25.292038
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.124251,
+                  -25.290776
+                ],
+                [
+                  152.15444,
+                  -25.314811
+                ],
+                [
+                  152.155101,
+                  -25.314804
+                ],
+                [
+                  152.164299,
+                  -25.307141
+                ],
+                [
+                  152.16441,
+                  -25.306613
+                ],
+                [
+                  152.153455,
+                  -25.285987
+                ],
+                [
+                  152.153417,
+                  -25.285929
+                ],
+                [
+                  152.146925,
+                  -25.277304
+                ],
+                [
+                  152.146784,
+                  -25.277179
+                ],
+                [
+                  152.133227,
+                  -25.269266
+                ],
+                [
+                  152.132495,
+                  -25.26949
+                ],
+                [
+                  152.124112,
+                  -25.290282
+                ],
+                [
+                  152.124251,
+                  -25.290776
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6665",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:17AM 20 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "EUREKA STATION RD, GUPPYS RD, RENDALLS RD",
+        "SUBURBS": "EUREKA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718824201.381866"
+  "extracted": "1718824800.40395"
 }
