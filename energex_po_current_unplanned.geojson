@@ -304,9 +304,118 @@
         "STREETS": "ASPENNELL RD, CHIPPINDALL RD, FRIEDLAND RD, JUBILEE RD, KENILWORTH SKYRING CREEK RD, POULSEN RD, TUCHEKOI RD",
         "SUBURBS": "BOLLIER, CARTERS RIDGE, TUCHEKOI"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.773492,
+              -27.568255
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.760569,
+                  -27.565392
+                ],
+                [
+                  152.761176,
+                  -27.566905
+                ],
+                [
+                  152.761274,
+                  -27.567053
+                ],
+                [
+                  152.761901,
+                  -27.567681
+                ],
+                [
+                  152.762024,
+                  -27.567771
+                ],
+                [
+                  152.77654,
+                  -27.575319
+                ],
+                [
+                  152.776961,
+                  -27.575356
+                ],
+                [
+                  152.78247,
+                  -27.57366
+                ],
+                [
+                  152.782506,
+                  -27.573647
+                ],
+                [
+                  152.786137,
+                  -27.572244
+                ],
+                [
+                  152.786415,
+                  -27.571684
+                ],
+                [
+                  152.782711,
+                  -27.562001
+                ],
+                [
+                  152.782277,
+                  -27.561697
+                ],
+                [
+                  152.775481,
+                  -27.561155
+                ],
+                [
+                  152.775381,
+                  -27.561156
+                ],
+                [
+                  152.770219,
+                  -27.561656
+                ],
+                [
+                  152.770093,
+                  -27.561683
+                ],
+                [
+                  152.760866,
+                  -27.564819
+                ],
+                [
+                  152.760569,
+                  -27.565392
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-9144-h",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "65",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "3:45PM 19 Jun 2024",
+        "EST_FIX_TIME": "6:30PM 19 Jun 2024",
+        "STREETS": "BLACKWALL RD, BOXWOOD GLD, COAL RD, FRANCIS ST, HOLDSWORTH RD, MUSTERING GULLY RD, ROBIN ST",
+        "SUBURBS": "CHUWAR"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718775901.33023"
+  "extracted": "1718776200.523824"
 }
