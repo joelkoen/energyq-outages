@@ -857,7 +857,7 @@
         "CUSTOMERS_AFFECTED": "390",
         "REASON": "The loss of supply is to remove vegetation growing near powerlines",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 20 Jun 2024",
+        "START": "9:02AM 20 Jun 2024",
         "EST_FIX_TIME": "2:00PM 20 Jun 2024",
         "STREETS": "ALEXANDER DR, BE-AMBA ST, BENN RD, BICTON CL, BINGIL BAY RD, BUTLER RD, CASSOWARY DR, CEDAR CREEK, CUTTEN ST, DARGIN RD, DAVESON RD, EL ARISH MISSION BEACH RD, EVERGREEN DR, FIG TREE BEACH RD, FRIZELLE RD, GARNERS BEACH RD, HAYTER RD, HOLT CL, HOLT RD, LEO RD, MIDGEREE BAR RD, MISSION BEACH RD, MOR-GAN-O ST, MOUNTAIN VIEW CL, PIONEER ST, PLANTATION DR, PLUMB ST, SOUTH MARIA CREEK CL, WEBB CT",
         "SUBURBS": "BINGIL BAY, EL ARISH, GARNERS BEACH, MARIA CREEKS, MIDGEREE BAR, MISSION BEACH"
@@ -1340,7 +1340,7 @@
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 20 Jun 2024",
+        "START": "9:49AM 20 Jun 2024",
         "EST_FIX_TIME": "2:30PM 20 Jun 2024",
         "STREETS": "STEPHENSON RD",
         "SUBURBS": "COWLEY"
@@ -4165,6 +4165,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.640889,
+          -25.937893
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6198",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:40AM 20 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 20 Jun 2024",
+        "STREETS": "ARBORCRESCENT RD",
+        "SUBURBS": "GLENWOOD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.839997,
           -25.28015
         ]
@@ -4394,5 +4415,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1718841001.80256"
+  "extracted": "1718841301.457724"
 }
