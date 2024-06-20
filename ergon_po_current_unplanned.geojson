@@ -10,6 +10,83 @@
           {
             "type": "Point",
             "coordinates": [
+              145.300047,
+              -23.553443
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.299365,
+                  -23.554028
+                ],
+                [
+                  145.30085,
+                  -23.55385
+                ],
+                [
+                  145.301273,
+                  -23.553461
+                ],
+                [
+                  145.300974,
+                  -23.552985
+                ],
+                [
+                  145.300877,
+                  -23.552948
+                ],
+                [
+                  145.300835,
+                  -23.552934
+                ],
+                [
+                  145.300588,
+                  -23.552863
+                ],
+                [
+                  145.300314,
+                  -23.552858
+                ],
+                [
+                  145.299173,
+                  -23.553144
+                ],
+                [
+                  145.298821,
+                  -23.553669
+                ],
+                [
+                  145.299365,
+                  -23.554028
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8354",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews working on-site",
+        "START": "6:35AM 20 Jun 2024",
+        "EST_FIX_TIME": "4:30PM 20 Jun 2024",
+        "STREETS": "OAK ST",
+        "SUBURBS": "BARCALDINE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.23765,
               -27.761718
             ]
@@ -106,5 +183,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718859900.396263"
+  "extracted": "1718860200.396524"
 }
