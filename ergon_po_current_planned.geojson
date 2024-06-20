@@ -79,7 +79,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "153",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 21 Jun 2024",
         "EST_FIX_TIME": "2:30PM 21 Jun 2024",
         "STREETS": "ADAMS ST, CARLO CRES, DINGWALL ST, GIORGI CL, HITCHCOCK ST, LIMPUS AVE, SCHOFIELD PDE",
@@ -226,7 +226,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "8",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 21 Jun 2024",
         "EST_FIX_TIME": "2:30PM 21 Jun 2024",
         "STREETS": "LLOYD ST, SUTHERLAND ST",
@@ -910,6 +910,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.408497,
+          -25.001744
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB5883",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "42",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 21 Jun 2024",
+        "EST_FIX_TIME": "1:30PM 21 Jun 2024",
+        "STREETS": "COONARR RD, DJL DR, GOODWOOD RD, THIELES RD",
+        "SUBURBS": "KINKUNA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.585742,
           -25.292756
         ]
@@ -961,7 +982,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "53",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 21 Jun 2024",
         "EST_FIX_TIME": "2:30PM 21 Jun 2024",
         "STREETS": "BANKSIA RD, NINGANA RD, PETERSEN RD, SYKES RD, WATTLE AVE, WIDE BAY HWY",
@@ -1034,5 +1055,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718921711.366621"
+  "extracted": "1718922300.511365"
 }
