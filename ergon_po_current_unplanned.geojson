@@ -1,8 +1,94 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.791142,
+              -27.943234
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.723426,
+                  -27.922869
+                ],
+                [
+                  151.725422,
+                  -27.940627
+                ],
+                [
+                  151.725513,
+                  -27.940843
+                ],
+                [
+                  151.734369,
+                  -27.951885
+                ],
+                [
+                  151.734671,
+                  -27.952063
+                ],
+                [
+                  151.85346,
+                  -27.975808
+                ],
+                [
+                  151.854053,
+                  -27.975509
+                ],
+                [
+                  151.858858,
+                  -27.962505
+                ],
+                [
+                  151.858589,
+                  -27.961956
+                ],
+                [
+                  151.733727,
+                  -27.91066
+                ],
+                [
+                  151.733104,
+                  -27.910804
+                ],
+                [
+                  151.72352,
+                  -27.92256
+                ],
+                [
+                  151.723426,
+                  -27.922869
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10461",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "54",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews on route",
+        "START": "12:39AM 21 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BARLOW RD, BOURKE RD, BRENNAN RD, CLIFTON LEYBURN RD, CLIFTON-LEYBURN RD, COLLEGE GREEN RD, HARRIGAN RD, HEGARTY RD, MAY RD, MEARA RD, MILLBROOK BACK PLAINS RD, ROBERTS RD, RYEFORD-PRATTEN RD, SOBBE RD, TERRABELLA RD",
+        "SUBURBS": "BACK PLAINS, CLIFTON, ELLANGOWAN, ELPHINSTONE, RYEFORD, SANDY CAMP"
+      }
+    }
+  ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718917203.63721"
+  "extracted": "1718917801.563547"
 }
