@@ -191,9 +191,110 @@
         "STREETS": "TALLEBUDGERA CREEK RD",
         "SUBURBS": "TALLEBUDGERA VALLEY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.266439,
+              -27.543445
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.264398,
+                  -27.544084
+                ],
+                [
+                  153.265087,
+                  -27.54596
+                ],
+                [
+                  153.265288,
+                  -27.546195
+                ],
+                [
+                  153.265633,
+                  -27.546401
+                ],
+                [
+                  153.265712,
+                  -27.546439
+                ],
+                [
+                  153.266264,
+                  -27.546653
+                ],
+                [
+                  153.266613,
+                  -27.546671
+                ],
+                [
+                  153.267189,
+                  -27.546515
+                ],
+                [
+                  153.267423,
+                  -27.54638
+                ],
+                [
+                  153.268385,
+                  -27.545398
+                ],
+                [
+                  153.268484,
+                  -27.544959
+                ],
+                [
+                  153.266776,
+                  -27.540364
+                ],
+                [
+                  153.265904,
+                  -27.540218
+                ],
+                [
+                  153.265518,
+                  -27.540636
+                ],
+                [
+                  153.265424,
+                  -27.540792
+                ],
+                [
+                  153.264395,
+                  -27.543812
+                ],
+                [
+                  153.264398,
+                  -27.544084
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-766521-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "91",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "7:55PM 20 Jun 2024",
+        "EST_FIX_TIME": "9:30PM 20 Jun 2024",
+        "STREETS": "BEACH ST, BLOOMFIELD ST, KOORINGA AVE, OCEAN ST, PARANKA DR N, PARANKA DR S",
+        "SUBURBS": "CLEVELAND"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718880302.588919"
+  "extracted": "1718880600.405277"
 }
