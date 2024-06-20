@@ -10,83 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              145.300047,
-              -23.553443
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  145.299365,
-                  -23.554028
-                ],
-                [
-                  145.30085,
-                  -23.55385
-                ],
-                [
-                  145.301273,
-                  -23.553461
-                ],
-                [
-                  145.300974,
-                  -23.552985
-                ],
-                [
-                  145.300877,
-                  -23.552948
-                ],
-                [
-                  145.300835,
-                  -23.552934
-                ],
-                [
-                  145.300588,
-                  -23.552863
-                ],
-                [
-                  145.300314,
-                  -23.552858
-                ],
-                [
-                  145.299173,
-                  -23.553144
-                ],
-                [
-                  145.298821,
-                  -23.553669
-                ],
-                [
-                  145.299365,
-                  -23.554028
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA8354",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "6",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews working on-site",
-        "START": "6:35AM 20 Jun 2024",
-        "EST_FIX_TIME": "4:30PM 20 Jun 2024",
-        "STREETS": "OAK ST",
-        "SUBURBS": "BARCALDINE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               147.198612,
               -19.616216
             ]
@@ -179,9 +102,102 @@
         "STREETS": "ALLEN RD, ROSS RD",
         "SUBURBS": "AYR, GIRU"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.531894,
+              -27.649219
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.468244,
+                  -27.619571
+                ],
+                [
+                  151.471393,
+                  -27.652503
+                ],
+                [
+                  151.471506,
+                  -27.65275
+                ],
+                [
+                  151.506469,
+                  -27.690809
+                ],
+                [
+                  151.507102,
+                  -27.690919
+                ],
+                [
+                  151.594523,
+                  -27.648712
+                ],
+                [
+                  151.594787,
+                  -27.648329
+                ],
+                [
+                  151.595543,
+                  -27.625041
+                ],
+                [
+                  151.595418,
+                  -27.624731
+                ],
+                [
+                  151.585659,
+                  -27.614809
+                ],
+                [
+                  151.585327,
+                  -27.614658
+                ],
+                [
+                  151.501996,
+                  -27.607519
+                ],
+                [
+                  151.501763,
+                  -27.607548
+                ],
+                [
+                  151.468564,
+                  -27.619114
+                ],
+                [
+                  151.468244,
+                  -27.619571
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10449",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "78",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "4:00PM 20 Jun 2024",
+        "EST_FIX_TIME": "6:30PM 20 Jun 2024",
+        "STREETS": "BANYARD RD, EVANSLEA RD, EVANSLEA-IRONGATE RD, GRUHLS RD, HARTH LANE, ILLING RD, IRONGATE RD, KOLBERGS RD, MATHIES RD, MONDAM RD, OAKEY PITTSWORTH RD, PETERSEN RD, ROSSVALE RD E, ROSSVALE RD W, VON PINES RD, WALLINGFORD RD, YARRANLEA RD",
+        "SUBURBS": "IRONGATE, MOUNT TYSON, PITTSWORTH, ROSSVALE, SPRINGSIDE, ST HELENS"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718863500.368345"
+  "extracted": "1718863818.905603"
 }
