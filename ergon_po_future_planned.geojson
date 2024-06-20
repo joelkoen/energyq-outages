@@ -931,6 +931,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.245713,
+          -15.477135
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6722",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "28",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:09AM 21 Jun 2024",
+        "EST_FIX_TIME": "11:00AM 21 Jun 2024",
+        "STREETS": "CHARLOTTE ST, JOHN ST, MASON ST, MCIVOR RD",
+        "SUBURBS": "COOKTOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.425903,
           -16.988548
         ]
@@ -987,27 +1008,6 @@
         "EST_FIX_TIME": "1:00PM 25 Jun 2024",
         "STREETS": "AGATE ST, AZURITE ST, BERYL ST, BROWNSVILLE ST, BROWNVILLE RD, COOLGARRA RD, GALENA ST, GARNET ST, GUNNAWARRA RD, HAY ST, HOSPITAL ST, KENNEDY HWY, LUCEY ST, MARL ST, MICA ST, MILES GLY, MONAZITE ST, NYMBOOL RD, ONYX ST, OPAL ST, RUBY ST, SILVER ST, TALC ST, TERMITE ST, UNKNOWN ST, URANIUM ST, WARRUMA SWAMP RD, ZINC ST",
         "SUBURBS": "MOUNT GARNET"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.610775,
-          -17.552097
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN6835",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "104",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "9:30AM 21 Jun 2024",
-        "EST_FIX_TIME": "12:30PM 21 Jun 2024",
-        "STREETS": "BARTER RD, BIGGS RD, BIGGS RD E, KJELLBERG RD, LODGE AVE, MALANDA RD, MIDDLEBROOK RD, MULLINS RD, OLD PALMERSTON HWY, PALMERSTON HWY, PERRY RD, PHEASANT RD, WHITING RD",
-        "SUBURBS": "BEATRICE, MAALAN, MIDDLEBROOK, MILLAA MILLAA"
       }
     },
     {
@@ -4478,5 +4478,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1718925900.473405"
+  "extracted": "1718926203.490168"
 }
