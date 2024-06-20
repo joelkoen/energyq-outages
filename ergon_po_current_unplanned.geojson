@@ -87,6 +87,95 @@
           {
             "type": "Point",
             "coordinates": [
+              147.299716,
+              -20.22191
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.275891,
+                  -20.138911
+                ],
+                [
+                  147.287265,
+                  -20.263971
+                ],
+                [
+                  147.287312,
+                  -20.26413
+                ],
+                [
+                  147.300241,
+                  -20.289276
+                ],
+                [
+                  147.300275,
+                  -20.289332
+                ],
+                [
+                  147.311776,
+                  -20.305376
+                ],
+                [
+                  147.312636,
+                  -20.305237
+                ],
+                [
+                  147.323539,
+                  -20.265935
+                ],
+                [
+                  147.323542,
+                  -20.26572
+                ],
+                [
+                  147.301892,
+                  -20.17624
+                ],
+                [
+                  147.30183,
+                  -20.1761
+                ],
+                [
+                  147.276772,
+                  -20.138631
+                ],
+                [
+                  147.276215,
+                  -20.138444
+                ],
+                [
+                  147.275891,
+                  -20.138911
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9976",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "44",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:24PM 20 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AYR DALBEG RD, DALBEG RD, DALPRATT ST, EIGHT MILE STATION, FORMAN WALSH RD, KINGS CREEK STATION, PARKINSON RD, PENGELLY RD, QUARTERMAINE ST, SELLARS RD, STOCKYARD RD, STRATHALBYN STATION",
+        "SUBURBS": "COLLINSVILLE, DALBEG, MILLAROO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.23765,
               -27.761718
             ]
@@ -183,5 +272,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718861100.512858"
+  "extracted": "1718861401.205054"
 }
