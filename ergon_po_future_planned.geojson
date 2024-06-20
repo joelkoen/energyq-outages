@@ -91,6 +91,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.492785,
+          -23.393848
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6821",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "132",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 21 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 21 Jun 2024",
+        "STREETS": "AGNES ST, ANN ST, HERLEY ST, MARY ST, PENLINGTON ST, WARD ST, WENTWORTH TCE",
+        "SUBURBS": "ROCKHAMPTON, THE RANGE, WEST ROCKHAMPTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.494128,
           -23.3888
         ]
@@ -2548,6 +2569,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.164118,
+          -18.654294
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9181",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:40AM 21 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 21 Jun 2024",
+        "STREETS": "DUFFY ST, GRIFFITH ST",
+        "SUBURBS": "INGHAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.268093,
           -18.667594
         ]
@@ -4478,5 +4520,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1718922904.946217"
+  "extracted": "1718923200.446059"
 }
