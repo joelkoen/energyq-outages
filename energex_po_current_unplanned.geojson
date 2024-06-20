@@ -118,9 +118,82 @@
         "STREETS": "DURHAM CT, LAMBROOK CT, PITMAN CT, WILSON DR",
         "SUBURBS": "CAMIRA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.389141,
+              -28.161303
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.386314,
+                  -28.163405
+                ],
+                [
+                  153.390062,
+                  -28.162428
+                ],
+                [
+                  153.390276,
+                  -28.162316
+                ],
+                [
+                  153.392549,
+                  -28.160328
+                ],
+                [
+                  153.392278,
+                  -28.159562
+                ],
+                [
+                  153.38993,
+                  -28.159202
+                ],
+                [
+                  153.389479,
+                  -28.159331
+                ],
+                [
+                  153.385806,
+                  -28.162656
+                ],
+                [
+                  153.385733,
+                  -28.163204
+                ],
+                [
+                  153.386314,
+                  -28.163405
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-766509-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "5:58PM 20 Jun 2024",
+        "EST_FIX_TIME": "8:00PM 20 Jun 2024",
+        "STREETS": "TALLEBUDGERA CREEK RD",
+        "SUBURBS": "TALLEBUDGERA VALLEY"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718874003.530213"
+  "extracted": "1718874300.368544"
 }
