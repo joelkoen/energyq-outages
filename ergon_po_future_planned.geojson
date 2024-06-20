@@ -301,6 +301,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.346496,
+          -22.591587
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7293",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:02AM 21 Jun 2024",
+        "EST_FIX_TIME": "2:00PM 21 Jun 2024",
+        "STREETS": "SINGLETON ST",
+        "SUBURBS": "DYSART"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.50647,
           -23.394891
         ]
@@ -1386,6 +1407,27 @@
         "EST_FIX_TIME": "4:30PM 23 Jun 2024",
         "STREETS": "ETTY BAY RD",
         "SUBURBS": "MOURILYAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.68791,
+          -16.837424
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7319",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 21 Jun 2024",
+        "EST_FIX_TIME": "1:30PM 21 Jun 2024",
+        "STREETS": "CAMBRIAN AVE, PENNINE CL",
+        "SUBURBS": "SMITHFIELD"
       }
     },
     {
@@ -3062,7 +3104,7 @@
         "CUSTOMERS_AFFECTED": "21",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "9:00AM 21 Jun 2024",
+        "START": "9:02AM 21 Jun 2024",
         "EST_FIX_TIME": "2:00PM 21 Jun 2024",
         "STREETS": "CHARLEVILLE-WYANDRA RD, MITCHELL HWY, MOUNT ALFRED RD, MT ALFRED-QUILPIE RD, ROSEVALE RD, UNKNOWN RD",
         "SUBURBS": "CHARLEVILLE, CUNNAMULLA, WYANDRA"
@@ -4415,5 +4457,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1718924403.858822"
+  "extracted": "1718924700.381499"
 }
