@@ -188,6 +188,115 @@
           {
             "type": "Point",
             "coordinates": [
+              145.855022,
+              -17.934642
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.827824,
+                  -17.932744
+                ],
+                [
+                  145.832843,
+                  -17.935887
+                ],
+                [
+                  145.832919,
+                  -17.935926
+                ],
+                [
+                  145.85488,
+                  -17.944743
+                ],
+                [
+                  145.854987,
+                  -17.944772
+                ],
+                [
+                  145.865033,
+                  -17.94634
+                ],
+                [
+                  145.865248,
+                  -17.946326
+                ],
+                [
+                  145.882125,
+                  -17.941364
+                ],
+                [
+                  145.882435,
+                  -17.940791
+                ],
+                [
+                  145.878636,
+                  -17.92967
+                ],
+                [
+                  145.878427,
+                  -17.929421
+                ],
+                [
+                  145.876043,
+                  -17.928072
+                ],
+                [
+                  145.875859,
+                  -17.928012
+                ],
+                [
+                  145.831214,
+                  -17.922944
+                ],
+                [
+                  145.830716,
+                  -17.923236
+                ],
+                [
+                  145.82766,
+                  -17.93111
+                ],
+                [
+                  145.827631,
+                  -17.931259
+                ],
+                [
+                  145.82761,
+                  -17.932358
+                ],
+                [
+                  145.827824,
+                  -17.932744
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7599",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "28",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "10:22AM 20 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MCQUILLAN RD, SCANLAN RD, SCOUGALL RD, SYNDICATE RD, TRAVELLING DAIRY RD, TULLY GORGE RD",
+        "SUBURBS": "TULLY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               141.532143,
               -21.307826
             ]
@@ -361,62 +470,9 @@
         "STREETS": "CECIL PLAINS RD, OLD CECIL PLAINS RD",
         "SUBURBS": "MILLMERRAN"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.947899,
-              -27.577074
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.948404,
-                  -27.577056
-                ],
-                [
-                  151.947879,
-                  -27.576624
-                ],
-                [
-                  151.947394,
-                  -27.577092
-                ],
-                [
-                  151.947919,
-                  -27.577524
-                ],
-                [
-                  151.948404,
-                  -27.577056
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW10418",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews working on-site",
-        "START": "8:38AM 20 Jun 2024",
-        "EST_FIX_TIME": "12:00PM 20 Jun 2024",
-        "STREETS": "HEALY ST",
-        "SUBURBS": "SOUTH TOOWOOMBA"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718844900.435693"
+  "extracted": "1718845500.426958"
 }
