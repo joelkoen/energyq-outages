@@ -10,107 +10,6 @@
           {
             "type": "Point",
             "coordinates": [
-              148.673948,
-              -22.436958
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  148.426219,
-                  -22.511517
-                ],
-                [
-                  148.45285,
-                  -22.542394
-                ],
-                [
-                  148.453047,
-                  -22.54253
-                ],
-                [
-                  148.66386,
-                  -22.621569
-                ],
-                [
-                  148.664228,
-                  -22.621567
-                ],
-                [
-                  148.921583,
-                  -22.522127
-                ],
-                [
-                  148.92177,
-                  -22.521422
-                ],
-                [
-                  148.716325,
-                  -22.290411
-                ],
-                [
-                  148.716293,
-                  -22.290378
-                ],
-                [
-                  148.675249,
-                  -22.252464
-                ],
-                [
-                  148.674788,
-                  -22.252346
-                ],
-                [
-                  148.48304,
-                  -22.297351
-                ],
-                [
-                  148.48272,
-                  -22.297595
-                ],
-                [
-                  148.477815,
-                  -22.307169
-                ],
-                [
-                  148.477781,
-                  -22.30726
-                ],
-                [
-                  148.426126,
-                  -22.511131
-                ],
-                [
-                  148.426219,
-                  -22.511517
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA8272",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "68",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "9:24AM 20 Jun 2024",
-        "EST_FIX_TIME": "4:00PM 20 Jun 2024",
-        "STREETS": "CARFAX RD, DINGO-MT FLORA RD, DYSART CONNECTION RD, FITZROY DEVELOPMENTAL RD, GOLDEN MILE RD, IFFLEY CONNECTION RD, MAY DOWNS-CARFAX RD, RICKERTT CRES",
-        "SUBURBS": "DYSART, MIDDLEMOUNT, VALKYRIE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               145.300047,
               -23.553443
             ]
@@ -178,6 +77,111 @@
         "EST_FIX_TIME": null,
         "STREETS": "OAK ST",
         "SUBURBS": "BARCALDINE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              149.460677,
+              -24.124268
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.459376,
+                  -24.124597
+                ],
+                [
+                  149.459603,
+                  -24.126181
+                ],
+                [
+                  149.460026,
+                  -24.126569
+                ],
+                [
+                  149.460544,
+                  -24.126295
+                ],
+                [
+                  149.461407,
+                  -24.124385
+                ],
+                [
+                  149.461415,
+                  -24.124367
+                ],
+                [
+                  149.461985,
+                  -24.12293
+                ],
+                [
+                  149.461701,
+                  -24.122355
+                ],
+                [
+                  149.460609,
+                  -24.121967
+                ],
+                [
+                  149.460028,
+                  -24.122129
+                ],
+                [
+                  149.459747,
+                  -24.122498
+                ],
+                [
+                  149.4597,
+                  -24.122576
+                ],
+                [
+                  149.45946,
+                  -24.123083
+                ],
+                [
+                  149.459427,
+                  -24.123179
+                ],
+                [
+                  149.459377,
+                  -24.123428
+                ],
+                [
+                  149.459368,
+                  -24.123513
+                ],
+                [
+                  149.459372,
+                  -24.124539
+                ],
+                [
+                  149.459376,
+                  -24.124597
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8365",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "31",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "9:48AM 20 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "FREEMAN ST, KEMP ST",
+        "SUBURBS": "WOORABINDA"
       }
     },
     {
@@ -474,5 +478,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718846701.233518"
+  "extracted": "1718847001.175642"
 }
