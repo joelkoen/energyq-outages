@@ -10,6 +10,115 @@
           {
             "type": "Point",
             "coordinates": [
+              145.617399,
+              -17.3631
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.579544,
+                  -17.362287
+                ],
+                [
+                  145.582586,
+                  -17.367293
+                ],
+                [
+                  145.582881,
+                  -17.367505
+                ],
+                [
+                  145.611924,
+                  -17.374269
+                ],
+                [
+                  145.612027,
+                  -17.374282
+                ],
+                [
+                  145.651727,
+                  -17.374952
+                ],
+                [
+                  145.652185,
+                  -17.374631
+                ],
+                [
+                  145.655255,
+                  -17.364901
+                ],
+                [
+                  145.654965,
+                  -17.364345
+                ],
+                [
+                  145.637405,
+                  -17.358221
+                ],
+                [
+                  145.637363,
+                  -17.358208
+                ],
+                [
+                  145.627005,
+                  -17.355615
+                ],
+                [
+                  145.626945,
+                  -17.355604
+                ],
+                [
+                  145.591089,
+                  -17.351247
+                ],
+                [
+                  145.590895,
+                  -17.351263
+                ],
+                [
+                  145.588882,
+                  -17.351842
+                ],
+                [
+                  145.588666,
+                  -17.351974
+                ],
+                [
+                  145.579599,
+                  -17.361759
+                ],
+                [
+                  145.579544,
+                  -17.362287
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7618",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "481",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:44PM 20 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANGUS ST, BAULD RD, BERNARD ST, BLUE HILLS CRES, CATHERINE ST, CHARLES ST, CHAUVEL ST, DOWLING ST, DOWNING ST, EACHAM PL, ELIZABETH ST, ENGLISH ST, GLEN ALLYN RD, HAINES RD, HANRAHAN ST, HEALE ST, HILLCREST RD, JAMES ST, LINDSAY RD, LIONS ST, LYNCH ST, MEMORIAL AVE, MERRAGALLAN RD, MILLAA MILLAA MALANDA RD, MILLAA MILLAA RD, MONASH AVE, PARK AVE, PATRICK ST, PAU ST, PHOENIX ST",
+        "SUBURBS": "GLEN ALLYN, JAGGAN, MALANDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               147.198612,
               -19.616216
             ]
@@ -199,5 +308,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718866200.359973"
+  "extracted": "1718866500.363837"
 }
