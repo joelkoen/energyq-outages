@@ -94,9 +94,78 @@
         "STREETS": "AIRPORT RD, DARNLEY PARK RD, ERUB ISLAND RD, GREEN HILL VILLAGE, MORGOR ST, ROAD NO 11, ROAD NO 12, SEIM VILLAGE, UNKNOWN ST, WILLIAMS CRES",
         "SUBURBS": "BAMAGA, DARNLEY ISLAND"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.836942,
+              -26.541219
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.836154,
+                  -26.541474
+                ],
+                [
+                  151.836979,
+                  -26.541747
+                ],
+                [
+                  151.837084,
+                  -26.541771
+                ],
+                [
+                  151.837475,
+                  -26.541819
+                ],
+                [
+                  151.838032,
+                  -26.541467
+                ],
+                [
+                  151.837684,
+                  -26.540941
+                ],
+                [
+                  151.836468,
+                  -26.54062
+                ],
+                [
+                  151.835852,
+                  -26.54091
+                ],
+                [
+                  151.836154,
+                  -26.541474
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6748",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "18",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "2:49PM 21 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALFORD ST, YOUNGMAN ST",
+        "SUBURBS": "KINGAROY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718945400.463095"
+  "extracted": "1718946002.619305"
 }
