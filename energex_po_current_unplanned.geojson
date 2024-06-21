@@ -1,8 +1,102 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.063996,
+              -27.405011
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.062688,
+                  -27.4048
+                ],
+                [
+                  153.062971,
+                  -27.405353
+                ],
+                [
+                  153.063022,
+                  -27.405432
+                ],
+                [
+                  153.063556,
+                  -27.406085
+                ],
+                [
+                  153.064186,
+                  -27.406224
+                ],
+                [
+                  153.064655,
+                  -27.406021
+                ],
+                [
+                  153.064784,
+                  -27.405941
+                ],
+                [
+                  153.065002,
+                  -27.405754
+                ],
+                [
+                  153.065152,
+                  -27.405493
+                ],
+                [
+                  153.065305,
+                  -27.404559
+                ],
+                [
+                  153.065114,
+                  -27.404137
+                ],
+                [
+                  153.064726,
+                  -27.403868
+                ],
+                [
+                  153.064252,
+                  -27.403798
+                ],
+                [
+                  153.062984,
+                  -27.404186
+                ],
+                [
+                  153.062688,
+                  -27.4048
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-766722-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "151",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "7:00PM 21 Jun 2024",
+        "EST_FIX_TIME": "8:30PM 21 Jun 2024",
+        "STREETS": "BUCKBY ST, MCMASTER ST, MELTON RD",
+        "SUBURBS": "NUNDAH"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1718960403.236298"
+  "extracted": "1718960700.354289"
 }
