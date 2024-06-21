@@ -259,6 +259,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.395412,
+          -17.654624
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN6842",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "160",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "11:00AM 21 Jun 2024",
+        "EST_FIX_TIME": "2:00PM 21 Jun 2024",
+        "STREETS": "DALRYMPLE DR, MILLSTREAM PDE, PARK LANE, WATERVIEW CL, WESTERN VIEW CRES",
+        "SUBURBS": "MILLSTREAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           142.983717,
           -18.345384
         ]
@@ -356,27 +377,6 @@
         "START": "7:00AM 21 Jun 2024",
         "EST_FIX_TIME": "4:00PM 21 Jun 2024",
         "STREETS": "CANNAN ST",
-        "SUBURBS": "SOUTH MACKAY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.171658,
-          -21.161161
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK4788",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "8",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "7:10AM 21 Jun 2024",
-        "EST_FIX_TIME": "4:00PM 21 Jun 2024",
-        "STREETS": "BOULTON ST, WARLAND ST",
         "SUBURBS": "SOUTH MACKAY"
       }
     },
@@ -637,6 +637,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.579792,
+          -28.007898
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9143",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "11:06AM 21 Jun 2024",
+        "EST_FIX_TIME": "2:00PM 21 Jun 2024",
+        "STREETS": "DONALD ST, MORIARTY RD",
+        "SUBURBS": "LEYBURN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.929125,
           -28.654465
         ]
@@ -845,5 +866,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1718931601.933083"
+  "extracted": "1718932200.572896"
 }
