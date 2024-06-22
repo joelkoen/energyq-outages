@@ -94,9 +94,135 @@
         "STREETS": "AIRPORT RD, DARNLEY PARK RD, ERUB ISLAND RD, GREEN HILL VILLAGE, MORGOR ST, ROAD NO 11, ROAD NO 12, SEIM VILLAGE, UNKNOWN ST, WILLIAMS CRES",
         "SUBURBS": "BAMAGA, DARNLEY ISLAND"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.352658,
+              -16.410223
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.350891,
+                  -16.412606
+                ],
+                [
+                  145.354434,
+                  -16.412219
+                ],
+                [
+                  145.354846,
+                  -16.411722
+                ],
+                [
+                  145.354456,
+                  -16.408226
+                ],
+                [
+                  145.35412,
+                  -16.40784
+                ],
+                [
+                  145.353622,
+                  -16.407996
+                ],
+                [
+                  145.35047,
+                  -16.411878
+                ],
+                [
+                  145.350891,
+                  -16.412606
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7655",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+        "STATUS": "Outage reported",
+        "START": "7:44AM 22 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "SYNDICATE RD, WHITELEY RD",
+        "SUBURBS": "MIALLO, WHYANBEEL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.24336,
+              -20.009466
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.24291,
+                  -20.009258
+                ],
+                [
+                  148.242865,
+                  -20.009535
+                ],
+                [
+                  148.243264,
+                  -20.01005
+                ],
+                [
+                  148.243809,
+                  -20.009673
+                ],
+                [
+                  148.243855,
+                  -20.009397
+                ],
+                [
+                  148.243456,
+                  -20.008881
+                ],
+                [
+                  148.24291,
+                  -20.009258
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ10087",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:27AM 22 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "HERBERT ST, KENNEDY ST",
+        "SUBURBS": "BOWEN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719015901.748103"
+  "extracted": "1719016501.489292"
 }

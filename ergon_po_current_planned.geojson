@@ -17,7 +17,7 @@
         "CUSTOMERS_AFFECTED": "344",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:00AM 22 Jun 2024",
+        "START": "8:16AM 22 Jun 2024",
         "EST_FIX_TIME": "3:00PM 22 Jun 2024",
         "STREETS": "BENCKE ST, BOREHAM ST, BRADFORD ST, CANOONA RD, FENLON ST, FLYNN ST, GORLE ST, HARROW ST, HUNTER ST, HUNTINGTON ST, JARDINE ST, MELBOURNE ST, MOONIE ST, NORTH EXTD ST, NORTH ST, PARKER ST, PEARSON ST, PENNYCUICK ST, STICKLEY ST, VICTORIA ST, WAMBOOL ST, WESTERN ST",
         "SUBURBS": "ROCKHAMPTON, WANDAL, WEST ROCKHAMPTON"
@@ -49,6 +49,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.910026,
+          -17.274018
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7054",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:48AM 22 Jun 2024",
+        "EST_FIX_TIME": "4:30PM 22 Jun 2024",
+        "STREETS": "TELECOM RD",
+        "SUBURBS": "BELLENDEN KER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.028433,
           -17.775751
         ]
@@ -59,10 +80,31 @@
         "CUSTOMERS_AFFECTED": "31",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 22 Jun 2024",
+        "START": "8:32AM 22 Jun 2024",
         "EST_FIX_TIME": "2:30PM 22 Jun 2024",
         "STREETS": "BELLS CREEK, BENN RD, BRUCE HWY, DAVESON RD, FORMOSA RD, JONES RD",
         "SUBURBS": "EL ARISH, EURAMO, SILKWOOD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.273824,
+          -21.705665
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4709",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "30",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 22 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 22 Jun 2024",
+        "STREETS": "BORSTAL RD, CAMPBELLS RD, CONE CREEK RD, COTTERS RD, DENNYS RD, SCHIRMERS RD, STORY RD",
+        "SUBURBS": "ILBILBIE, KOUMALA, MOUNT CHRISTIAN"
       }
     },
     {
@@ -84,27 +126,6 @@
         "EST_FIX_TIME": "4:00PM 22 Jun 2024",
         "STREETS": "BOULTON ST",
         "SUBURBS": "SOUTH MACKAY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.166076,
-          -21.114215
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24MK4794",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:00AM 22 Jun 2024",
-        "EST_FIX_TIME": "4:00PM 22 Jun 2024",
-        "STREETS": "RAYMOND CROKER AVE",
-        "SUBURBS": "MOUNT PLEASANT"
       }
     },
     {
@@ -154,27 +175,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.231958,
-          -19.99849
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ8795",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "9",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:00AM 22 Jun 2024",
-        "EST_FIX_TIME": "9:00AM 22 Jun 2024",
-        "STREETS": "RICHMOND RD, STOREY ST",
-        "SUBURBS": "BOWEN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           144.197107,
           -20.852846
         ]
@@ -196,20 +196,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          147.42821,
-          -19.664657
+          144.194738,
+          -20.851602
         ]
       },
       "properties": {
-        "EVENT_ID": "24NQ9256",
+        "EVENT_ID": "24NQ9119",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
+        "CUSTOMERS_AFFECTED": "7",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "7:00AM 22 Jun 2024",
+        "START": "9:00AM 22 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 22 Jun 2024",
+        "STREETS": "EARL ST",
+        "SUBURBS": "HUGHENDEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.429429,
+          -19.663548
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9257",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:49AM 22 Jun 2024",
         "EST_FIX_TIME": "4:00PM 22 Jun 2024",
-        "STREETS": "EIGHTEENTH AVE",
+        "STREETS": "BURDEKIN RD",
         "SUBURBS": "HOME HILL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.401718,
+          -19.529414
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9288",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 22 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 22 Jun 2024",
+        "STREETS": "CHIPPENDALE ST, KALAMIA RD",
+        "SUBURBS": "AYR"
       }
     },
     {
@@ -259,6 +301,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.35199,
+          -24.873687
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6181",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 22 Jun 2024",
+        "EST_FIX_TIME": "11:30AM 22 Jun 2024",
+        "STREETS": "BAROLIN ST, MCMANNIE ST",
+        "SUBURBS": "BUNDABERG SOUTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.355228,
           -24.87345
         ]
@@ -278,5 +341,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719015901.748103"
+  "extracted": "1719016501.489292"
 }
