@@ -1,8 +1,110 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.030763,
+              -27.031654
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.011523,
+                  -27.035279
+                ],
+                [
+                  153.03573,
+                  -27.036398
+                ],
+                [
+                  153.035819,
+                  -27.036395
+                ],
+                [
+                  153.042792,
+                  -27.035601
+                ],
+                [
+                  153.042801,
+                  -27.0356
+                ],
+                [
+                  153.050051,
+                  -27.034655
+                ],
+                [
+                  153.050473,
+                  -27.034292
+                ],
+                [
+                  153.050227,
+                  -27.033816
+                ],
+                [
+                  153.043855,
+                  -27.030579
+                ],
+                [
+                  153.043775,
+                  -27.030546
+                ],
+                [
+                  153.032375,
+                  -27.026912
+                ],
+                [
+                  153.032046,
+                  -27.026909
+                ],
+                [
+                  153.023832,
+                  -27.029372
+                ],
+                [
+                  153.023785,
+                  -27.029388
+                ],
+                [
+                  153.011341,
+                  -27.034416
+                ],
+                [
+                  153.011053,
+                  -27.034911
+                ],
+                [
+                  153.011523,
+                  -27.035279
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-766791-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "35",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "1:34PM 22 Jun 2024",
+        "EST_FIX_TIME": "4:30PM 22 Jun 2024",
+        "STREETS": "PUMICESTONE RD",
+        "SUBURBS": "CABOOLTURE, TOORBUL"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1719027003.803683"
+  "extracted": "1719027300.335745"
 }
