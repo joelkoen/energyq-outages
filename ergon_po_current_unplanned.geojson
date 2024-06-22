@@ -79,16 +79,141 @@
         "EVENT_ID": "24NQ10098",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "11",
-        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
         "STATUS": "Crews working on-site",
         "START": "11:47PM 22 Jun 2024",
         "EST_FIX_TIME": "6:00AM 23 Jun 2024",
         "STREETS": "BRUCE HWY N, HERMANS RD, PETER DELAMOTHE RD, WYLIE PARK RD",
         "SUBURBS": "BOWEN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.979074,
+              -27.563473
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.957777,
+                  -27.552023
+                ],
+                [
+                  151.962681,
+                  -27.566735
+                ],
+                [
+                  151.962791,
+                  -27.566909
+                ],
+                [
+                  151.965764,
+                  -27.569837
+                ],
+                [
+                  151.96583,
+                  -27.569891
+                ],
+                [
+                  151.969424,
+                  -27.572359
+                ],
+                [
+                  151.969509,
+                  -27.572407
+                ],
+                [
+                  151.975934,
+                  -27.575228
+                ],
+                [
+                  151.976066,
+                  -27.575267
+                ],
+                [
+                  151.995804,
+                  -27.578474
+                ],
+                [
+                  151.996024,
+                  -27.578466
+                ],
+                [
+                  151.999999,
+                  -27.57753
+                ],
+                [
+                  152.000372,
+                  -27.577045
+                ],
+                [
+                  151.996916,
+                  -27.549852
+                ],
+                [
+                  151.996712,
+                  -27.54954
+                ],
+                [
+                  151.995448,
+                  -27.548715
+                ],
+                [
+                  151.995187,
+                  -27.54863
+                ],
+                [
+                  151.992834,
+                  -27.548473
+                ],
+                [
+                  151.992775,
+                  -27.548472
+                ],
+                [
+                  151.977205,
+                  -27.549053
+                ],
+                [
+                  151.977155,
+                  -27.549057
+                ],
+                [
+                  151.95819,
+                  -27.551449
+                ],
+                [
+                  151.957777,
+                  -27.552023
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10503",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1986",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:26AM 23 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ADINA ST, ANDERSON ST, ANEMBO CT, ARTHUR ST, AYLMER CT, BOONDI ST, BOYCE CT, BOYDEN ST, BRIDGE ST, BURKE ST, BURNAGE ST, CAMPBELL ST, CEDAR ST, CHARLMAY ST, COHOE ST, CONNELL ST, CORAL ST, COTTESLOE ST, CROWN ST, CURTIS ST, CURZON ST, DARANLEE CT, DAWNIE ST, DELLWOOD CT, DUDLEY ST, DUNMORE ST, EAST ST, FAIRHOLME ST, FERNSIDE ST, FLETCHER ST, GODFREY ST, HADDINGTON ST, HERRIES ST, HICKEY ST, HIGHVIEW CT, HOLLY ST, IPSWICH ST, JAMES ST, JARRAH ST, JOHN ST, JOHNSON ST, JUBILEE CT, KATOOMBA CRES, LIANA CT, MACKENZIE ST, MACQUEEN ST, MAPLE ST, MARANOA CT, MARGARET ST, MARY ST, MAYES ST, MCALLISTER CT, MONTGOMERY CT, MURLALI CT, OLD TOLL BAR RD, PANORAMA CRES, PERTH ST, PRINCE HENRY DR, QUEEN ST, RANGE HWY, ROBERTSON CRES, ROESSLER ST, RUTHVEN ST, SCOTT ST, SIMLA ST, SINCLAIR ST, SKYE CT, SONNENBERG ST, ST LOUIS ST, STEVENSON ST, STONELEIGH ST, SUFFOLK ST, SWENSON ST, TANT ST, TOURIST RD, TURNBULL ST, TWIGG ST, WIRRA WIRRA ST, WOOLDRIDGE ST",
+        "SUBURBS": "EAST TOOWOOMBA, MOUNT LOFTY, PRINCE HENRY HEIGHTS, RANGEVILLE, REDWOOD, TOOWOOMBA, WILSONTON"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719077100.957296"
+  "extracted": "1719077484.642013"
 }
