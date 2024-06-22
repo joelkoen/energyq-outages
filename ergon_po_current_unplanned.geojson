@@ -103,6 +103,107 @@
           {
             "type": "Point",
             "coordinates": [
+              146.708229,
+              -19.318695
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.706634,
+                  -19.318791
+                ],
+                [
+                  146.706846,
+                  -19.319262
+                ],
+                [
+                  146.706886,
+                  -19.319333
+                ],
+                [
+                  146.707074,
+                  -19.319604
+                ],
+                [
+                  146.707279,
+                  -19.319768
+                ],
+                [
+                  146.707395,
+                  -19.319817
+                ],
+                [
+                  146.707591,
+                  -19.319856
+                ],
+                [
+                  146.708326,
+                  -19.319851
+                ],
+                [
+                  146.708468,
+                  -19.319829
+                ],
+                [
+                  146.709523,
+                  -19.319509
+                ],
+                [
+                  146.709824,
+                  -19.318922
+                ],
+                [
+                  146.709658,
+                  -19.318497
+                ],
+                [
+                  146.709404,
+                  -19.31824
+                ],
+                [
+                  146.70772,
+                  -19.317533
+                ],
+                [
+                  146.707128,
+                  -19.317701
+                ],
+                [
+                  146.706673,
+                  -19.318367
+                ],
+                [
+                  146.706634,
+                  -19.318791
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ10097",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "9:36PM 22 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "FAIRWAY CL, GOLF LINKS DR, HERVEYS RANGE RD",
+        "SUBURBS": "KIRWAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.806323,
               -27.938891
             ]
@@ -207,5 +308,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719059101.090459"
+  "extracted": "1719059402.590149"
 }
