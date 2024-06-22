@@ -220,9 +220,82 @@
         "STREETS": "HERBERT ST, KENNEDY ST",
         "SUBURBS": "BOWEN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.655735,
+              -19.2252
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.654932,
+                  -19.225544
+                ],
+                [
+                  146.655352,
+                  -19.226427
+                ],
+                [
+                  146.65585,
+                  -19.226689
+                ],
+                [
+                  146.656255,
+                  -19.226309
+                ],
+                [
+                  146.65658,
+                  -19.224291
+                ],
+                [
+                  146.656153,
+                  -19.223773
+                ],
+                [
+                  146.655436,
+                  -19.22371
+                ],
+                [
+                  146.654918,
+                  -19.224151
+                ],
+                [
+                  146.65489,
+                  -19.225348
+                ],
+                [
+                  146.654932,
+                  -19.225544
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ10088",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+        "STATUS": "Outage reported",
+        "START": "9:21AM 22 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "IRONWOOD WAY, PONGAMIA PDE",
+        "SUBURBS": "MOUNT LOW"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719018003.049881"
+  "extracted": "1719018300.366027"
 }
