@@ -75,6 +75,67 @@
           {
             "type": "Point",
             "coordinates": [
+              149.181671,
+              -21.452043
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.183155,
+                  -21.452039
+                ],
+                [
+                  149.180499,
+                  -21.451192
+                ],
+                [
+                  149.179887,
+                  -21.451474
+                ],
+                [
+                  149.180188,
+                  -21.452047
+                ],
+                [
+                  149.182844,
+                  -21.452894
+                ],
+                [
+                  149.183456,
+                  -21.452612
+                ],
+                [
+                  149.183155,
+                  -21.452039
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK5298",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
+        "STATUS": "Crews on route",
+        "START": "3:05PM 22 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "RANGE RD",
+        "SUBURBS": "SARINA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.169392,
               -25.199395
             ]
@@ -187,5 +248,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719035701.153845"
+  "extracted": "1719036002.907047"
 }
