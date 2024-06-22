@@ -231,9 +231,118 @@
         "STREETS": "HELEN ST, HERRIES ST, HILL ST, MARGARET ST, WEST ST",
         "SUBURBS": "NEWTOWN, TOOWOOMBA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.859295,
+              -26.525774
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.856713,
+                  -26.526431
+                ],
+                [
+                  151.857838,
+                  -26.528084
+                ],
+                [
+                  151.858138,
+                  -26.528284
+                ],
+                [
+                  151.858639,
+                  -26.528402
+                ],
+                [
+                  151.858921,
+                  -26.528395
+                ],
+                [
+                  151.861557,
+                  -26.52762
+                ],
+                [
+                  151.8619,
+                  -26.527241
+                ],
+                [
+                  151.861951,
+                  -26.526813
+                ],
+                [
+                  151.861918,
+                  -26.526596
+                ],
+                [
+                  151.86109,
+                  -26.524756
+                ],
+                [
+                  151.860839,
+                  -26.524518
+                ],
+                [
+                  151.857604,
+                  -26.523145
+                ],
+                [
+                  151.856936,
+                  -26.523364
+                ],
+                [
+                  151.85677,
+                  -26.523687
+                ],
+                [
+                  151.856726,
+                  -26.523831
+                ],
+                [
+                  151.856655,
+                  -26.524484
+                ],
+                [
+                  151.856652,
+                  -26.524525
+                ],
+                [
+                  151.856639,
+                  -26.526193
+                ],
+                [
+                  151.856713,
+                  -26.526431
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6766",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "82",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:53AM 23 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BERNARD CRES, BILL PL, BOTTLEBRUSH ST, BRIDGEMAN PDE, DAISY CT, GUMTREE DR, HILLVIEW PDE",
+        "SUBURBS": "KINGAROY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719097203.974025"
+  "extracted": "1719097500.459204"
 }
