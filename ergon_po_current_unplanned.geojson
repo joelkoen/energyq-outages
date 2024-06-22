@@ -10,6 +10,99 @@
           {
             "type": "Point",
             "coordinates": [
+              145.939859,
+              -18.111923
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.915579,
+                  -18.115466
+                ],
+                [
+                  145.934322,
+                  -18.119377
+                ],
+                [
+                  145.934329,
+                  -18.119379
+                ],
+                [
+                  145.944104,
+                  -18.121283
+                ],
+                [
+                  145.944442,
+                  -18.121228
+                ],
+                [
+                  145.964337,
+                  -18.109818
+                ],
+                [
+                  145.964357,
+                  -18.109055
+                ],
+                [
+                  145.954644,
+                  -18.102854
+                ],
+                [
+                  145.954398,
+                  -18.102778
+                ],
+                [
+                  145.947964,
+                  -18.102563
+                ],
+                [
+                  145.947815,
+                  -18.10258
+                ],
+                [
+                  145.920561,
+                  -18.110213
+                ],
+                [
+                  145.920375,
+                  -18.110313
+                ],
+                [
+                  145.915361,
+                  -18.114691
+                ],
+                [
+                  145.915579,
+                  -18.115466
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7667",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "43",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:00PM 22 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BLUFF RD, LAGO RD, MILLER RD",
+        "SUBURBS": "BILYANA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               149.181671,
               -21.452043
             ]
@@ -66,5 +159,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719048602.797891"
+  "extracted": "1719048900.345367"
 }
