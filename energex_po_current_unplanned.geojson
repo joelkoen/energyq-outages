@@ -150,9 +150,118 @@
         "STREETS": "ROSSMOYNE CL, WICKEPIN CT",
         "SUBURBS": "ELANORA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.405354,
+              -27.421571
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.367534,
+                  -27.411354
+                ],
+                [
+                  152.367658,
+                  -27.424945
+                ],
+                [
+                  152.367719,
+                  -27.425158
+                ],
+                [
+                  152.379919,
+                  -27.445105
+                ],
+                [
+                  152.380593,
+                  -27.445291
+                ],
+                [
+                  152.41282,
+                  -27.430621
+                ],
+                [
+                  152.412833,
+                  -27.430615
+                ],
+                [
+                  152.441588,
+                  -27.416576
+                ],
+                [
+                  152.441592,
+                  -27.416574
+                ],
+                [
+                  152.44294,
+                  -27.415901
+                ],
+                [
+                  152.443175,
+                  -27.415368
+                ],
+                [
+                  152.442481,
+                  -27.413456
+                ],
+                [
+                  152.442138,
+                  -27.413161
+                ],
+                [
+                  152.381948,
+                  -27.397851
+                ],
+                [
+                  152.381601,
+                  -27.397874
+                ],
+                [
+                  152.373007,
+                  -27.401348
+                ],
+                [
+                  152.37276,
+                  -27.401564
+                ],
+                [
+                  152.367584,
+                  -27.411154
+                ],
+                [
+                  152.367534,
+                  -27.411354
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-766815-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "102",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:00PM 22 Jun 2024",
+        "EST_FIX_TIME": "7:30PM 22 Jun 2024",
+        "STREETS": "ATKINSON DAM RD, ATKINSONS DAM RD, BOLINGBROKE RD, JAMIESON RD, MAIN GREEN SWAMP RD, WOTAN RD",
+        "SUBURBS": "ATKINSONS DAM, BUARABA, CHURCHABLE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1719039603.74942"
+  "extracted": "1719039900.332081"
 }
