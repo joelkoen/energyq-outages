@@ -187,9 +187,82 @@
         "STREETS": "KENNY RD, WENDT RD",
         "SUBURBS": "CHAMBERS FLAT"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.032145,
+              -27.029706
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.027993,
+                  -27.032415
+                ],
+                [
+                  153.035951,
+                  -27.031419
+                ],
+                [
+                  153.036121,
+                  -27.031369
+                ],
+                [
+                  153.036716,
+                  -27.03108
+                ],
+                [
+                  153.036808,
+                  -27.030344
+                ],
+                [
+                  153.032538,
+                  -27.026997
+                ],
+                [
+                  153.031817,
+                  -27.027049
+                ],
+                [
+                  153.027535,
+                  -27.03168
+                ],
+                [
+                  153.027483,
+                  -27.032188
+                ],
+                [
+                  153.027993,
+                  -27.032415
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-766829-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "7:21PM 22 Jun 2024",
+        "EST_FIX_TIME": "9:00PM 22 Jun 2024",
+        "STREETS": "PUMICESTONE RD",
+        "SUBURBS": "TOORBUL"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1719049804.345915"
+  "extracted": "1719050102.6479"
 }
