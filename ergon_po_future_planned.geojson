@@ -730,7 +730,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "62",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:00AM 23 Jun 2024",
         "EST_FIX_TIME": "3:00PM 23 Jun 2024",
         "STREETS": "FARM ST, FIELDS ST, MADGE ST, MAXWELL ST, PEATEY ST, POTTS ST, WEAVER ST",
@@ -1267,14 +1267,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          145.675198,
-          -16.779469
+          145.675203,
+          -16.779517
         ]
       },
       "properties": {
         "EVENT_ID": "24FN6500",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "7",
+        "CUSTOMERS_AFFECTED": "8",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:00AM 26 Jun 2024",
@@ -2576,7 +2576,7 @@
       "properties": {
         "EVENT_ID": "24MK4832",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "45",
+        "CUSTOMERS_AFFECTED": "44",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:30AM 26 Jun 2024",
@@ -3164,7 +3164,7 @@
       "properties": {
         "EVENT_ID": "24NQ9128",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "526",
+        "CUSTOMERS_AFFECTED": "525",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:30AM 26 Jun 2024",
@@ -3255,6 +3255,27 @@
         "EST_FIX_TIME": "2:30PM 27 Jun 2024",
         "STREETS": "MASTERS RD, PINNACLE HILL RD",
         "SUBURBS": "TOOBANNA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.529585,
+          -19.692072
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ9262",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "7:23AM 23 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 23 Jun 2024",
+        "STREETS": "ADAMS PL, STOCKDALE PDE",
+        "SUBURBS": "GROPER CREEK"
       }
     },
     {
@@ -5224,7 +5245,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "345",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "8:30AM 23 Jun 2024",
         "EST_FIX_TIME": "2:30PM 23 Jun 2024",
         "STREETS": "BIRDIE ST, BUNKER AVE, CAIRNS ST, CHESTER ST, CLUB CT, D'AGUILAR HWY, DALBY ST, DOWNING ST, DRAYTON ST, EAGLE ST, ELK ST, FAIRWAY DR, FITZROY ST, FLAG ST, GIPPS ST, GREY ST, HAWTHORNE ST, HENRY ST, HOWLETT LANE, KEOGH CT, KINGAROY RD, LEE CT, NORMANBY ST",
@@ -5320,19 +5341,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.898792,
-          -25.377277
+          152.898844,
+          -25.377228
         ]
       },
       "properties": {
         "EVENT_ID": "24WB6085",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "4",
+        "CUSTOMERS_AFFECTED": "5",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:30AM 25 Jun 2024",
         "EST_FIX_TIME": "2:30PM 25 Jun 2024",
-        "STREETS": "MAHALO RD, SUNDERLAND ST",
+        "STREETS": "MAHALO RD, MALANA CT, SUNDERLAND ST",
         "SUBURBS": "BOORAL"
       }
     },
@@ -5801,5 +5822,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1719090031.378792"
+  "extracted": "1719091501.833915"
 }
