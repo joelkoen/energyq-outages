@@ -519,9 +519,78 @@
         "STREETS": "BELDON RD, BIGGENDEN-WOOLOOGA RD, BROOWEENA-WOOLOOGA RD, ETON RD, GIGOOMGAN RD, GLENBAR RD, KOLBORE RD, MOUNT JOSEPH RD, SPRING CREEK RD, THOMSEN RD, YARRABINE RD",
         "SUBURBS": "ARAMARA, BROOWEENA, GIGOOMGAN, TEEBAR, WOOLOOGA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.60837,
+              -25.550556
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.608126,
+                  -25.551979
+                ],
+                [
+                  152.608988,
+                  -25.551392
+                ],
+                [
+                  152.609184,
+                  -25.551082
+                ],
+                [
+                  152.609362,
+                  -25.549617
+                ],
+                [
+                  152.609002,
+                  -25.549134
+                ],
+                [
+                  152.608419,
+                  -25.54938
+                ],
+                [
+                  152.607378,
+                  -25.551431
+                ],
+                [
+                  152.607517,
+                  -25.551969
+                ],
+                [
+                  152.608126,
+                  -25.551979
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6775",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:08AM 24 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BRIDGE RD",
+        "SUBURBS": "YENGARIE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719184200.247031"
+  "extracted": "1719184501.694437"
 }
