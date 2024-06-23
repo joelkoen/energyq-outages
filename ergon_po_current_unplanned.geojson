@@ -231,9 +231,110 @@
         "STREETS": "ANDERSON ST, ARTHUR ST, BOYCE CT, CAMPBELL ST, CEDAR ST, CONNELL ST, CORAL ST, COTTESLOE ST, CURZON ST, DARANLEE CT, DAWNIE ST, EAST ST, FERNSIDE ST, GODFREY ST, HADDINGTON ST, HERRIES ST, HOLLY ST, IPSWICH ST, JAMES ST, JARRAH ST, JOHN ST, MACKENZIE ST, MARGARET ST, MARY ST, MAYES ST, MCALLISTER CT, QUEEN ST, SCOTT ST, SINCLAIR ST, SUFFOLK ST, TANT ST",
         "SUBURBS": "EAST TOOWOOMBA, RANGEVILLE, REDWOOD, TOOWOOMBA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.970268,
+              -27.552036
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.960511,
+                  -27.54778
+                ],
+                [
+                  151.961285,
+                  -27.556767
+                ],
+                [
+                  151.96143,
+                  -27.55705
+                ],
+                [
+                  151.972525,
+                  -27.567011
+                ],
+                [
+                  151.973373,
+                  -27.566803
+                ],
+                [
+                  151.980011,
+                  -27.543105
+                ],
+                [
+                  151.980025,
+                  -27.542964
+                ],
+                [
+                  151.979761,
+                  -27.539665
+                ],
+                [
+                  151.979653,
+                  -27.539417
+                ],
+                [
+                  151.97887,
+                  -27.538539
+                ],
+                [
+                  151.978705,
+                  -27.538419
+                ],
+                [
+                  151.975747,
+                  -27.537061
+                ],
+                [
+                  151.975203,
+                  -27.537108
+                ],
+                [
+                  151.961102,
+                  -27.547041
+                ],
+                [
+                  151.961062,
+                  -27.547073
+                ],
+                [
+                  151.960661,
+                  -27.547424
+                ],
+                [
+                  151.960511,
+                  -27.54778
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10517",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1481",
+        "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+        "STATUS": "Outage reported",
+        "START": "6:56PM 23 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALFORD ST, ALLINGA ST, BALMORAL CL, BARRY ST, BARRYMOUNT CRES, BEATTY ST, BRIDGE ST, BRODIE ST, CAMPBELL ST, CAVELL ST, CHATSWOOD CL, CLYDE ST, COLLINS ST, COVENTRY CT, CURZON ST, DALSTON CT, DUNMORE ST, FERGUSON ST, GENTLE ST, GEOFFREY ST, GLENDOWER ST, GRASMERE CT, HARVEY ST, HAWTHORN ST, HUNTINGDALE CT, JELLICOE ST, JOFFRE ST, KNIGHT ST, KOOROONGAH ST, LAMINGTON ST, LILLEY ST, LINDSAY ST, LOCHEL ST, MACKENZIE ST, MARTINDALE CT, MARY ST, MOLONEY ST, NEW ST, PICCADILLY CT, RANGE ST, RANNERDALE CL, RHYDE ST, SHERWOOD ST, SHIPLEY ST, SIDNEY ST, ST IVES CT, ST PETERS CL, STONEHAVEN ST, STUART ST, TREVETHAN ST, WARANA AVE, WARREN ST, WENDY CT, WINDEMERE TCE, WONDERLEY ST, WOOLDRIDGE ST",
+        "SUBURBS": "EAST TOOWOOMBA, MOUNT LOFTY, NORTH TOOWOOMBA, TOOWOOMBA, TOOWOOMBA CITY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719133801.280316"
+  "extracted": "1719134103.28194"
 }
