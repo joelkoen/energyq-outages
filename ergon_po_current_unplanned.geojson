@@ -406,9 +406,110 @@
         "STREETS": "GLENEARN RD, NOONA RD, PARKNOOK RD, THOMBY RD",
         "SUBURBS": "SURAT"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.275446,
+              -25.73202
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.219063,
+                  -25.797041
+                ],
+                [
+                  152.227581,
+                  -25.796187
+                ],
+                [
+                  152.22791,
+                  -25.796026
+                ],
+                [
+                  152.332376,
+                  -25.68074
+                ],
+                [
+                  152.332086,
+                  -25.680013
+                ],
+                [
+                  152.309464,
+                  -25.676079
+                ],
+                [
+                  152.309455,
+                  -25.676078
+                ],
+                [
+                  152.252819,
+                  -25.667199
+                ],
+                [
+                  152.252801,
+                  -25.667196
+                ],
+                [
+                  152.251194,
+                  -25.666999
+                ],
+                [
+                  152.250868,
+                  -25.667061
+                ],
+                [
+                  152.250795,
+                  -25.667101
+                ],
+                [
+                  152.250586,
+                  -25.667335
+                ],
+                [
+                  152.230271,
+                  -25.719161
+                ],
+                [
+                  152.230247,
+                  -25.71925
+                ],
+                [
+                  152.218516,
+                  -25.796533
+                ],
+                [
+                  152.219063,
+                  -25.797041
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6774",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "31",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:42AM 24 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BELDON RD, BIGGENDEN-WOOLOOGA RD, BROOWEENA-WOOLOOGA RD, ETON RD, GIGOOMGAN RD, GLENBAR RD, KOLBORE RD, MOUNT JOSEPH RD, SPRING CREEK RD, THOMSEN RD, YARRABINE RD",
+        "SUBURBS": "ARAMARA, BROOWEENA, GIGOOMGAN, TEEBAR, WOOLOOGA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719182400.66519"
+  "extracted": "1719182701.993741"
 }

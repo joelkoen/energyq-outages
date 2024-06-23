@@ -154,6 +154,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.851009,
+          -21.154678
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK5120",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:43AM 24 Jun 2024",
+        "EST_FIX_TIME": "12:30PM 24 Jun 2024",
+        "STREETS": "MOUNT MARTIN LOOP RD",
+        "SUBURBS": "MOUNT MARTIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           146.810803,
           -19.255754
         ]
@@ -446,5 +467,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719182400.66519"
+  "extracted": "1719182701.993741"
 }
