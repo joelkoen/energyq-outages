@@ -95,6 +95,71 @@
           {
             "type": "Point",
             "coordinates": [
+              145.476589,
+              -17.30583
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.475107,
+                  -17.30602
+                ],
+                [
+                  145.477722,
+                  -17.307027
+                ],
+                [
+                  145.478364,
+                  -17.306557
+                ],
+                [
+                  145.478183,
+                  -17.305022
+                ],
+                [
+                  145.477612,
+                  -17.304633
+                ],
+                [
+                  145.475178,
+                  -17.30516
+                ],
+                [
+                  145.474813,
+                  -17.305565
+                ],
+                [
+                  145.475107,
+                  -17.30602
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7676",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "7:55AM 24 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "HASTIE RD, KOCI RD, PETER ST",
+        "SUBURBS": "ATHERTON, CARRINGTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.65624,
               -19.181175
             ]
@@ -166,6 +231,83 @@
         "EST_FIX_TIME": null,
         "STREETS": "BATLEY PDE",
         "SUBURBS": "BEACH HOLM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              147.237513,
+              -19.835291
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.23646,
+                  -19.827736
+                ],
+                [
+                  147.237613,
+                  -19.84291
+                ],
+                [
+                  147.238116,
+                  -19.843329
+                ],
+                [
+                  147.238566,
+                  -19.842859
+                ],
+                [
+                  147.238455,
+                  -19.840381
+                ],
+                [
+                  147.238454,
+                  -19.840371
+                ],
+                [
+                  147.237954,
+                  -19.832959
+                ],
+                [
+                  147.237953,
+                  -19.832944
+                ],
+                [
+                  147.237411,
+                  -19.82766
+                ],
+                [
+                  147.236896,
+                  -19.827254
+                ],
+                [
+                  147.23646,
+                  -19.827736
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ10120",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews working on-site",
+        "START": "7:18AM 24 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "KIRKNIE RD, STEVENS RD",
+        "SUBURBS": "HOME HILL"
       }
     },
     {
@@ -268,5 +410,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719181803.531814"
+  "extracted": "1719182101.256768"
 }
