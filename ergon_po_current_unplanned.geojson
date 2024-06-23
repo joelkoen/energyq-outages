@@ -10,6 +10,91 @@
           {
             "type": "Point",
             "coordinates": [
+              145.415667,
+              -18.154782
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.338685,
+                  -18.168424
+                ],
+                [
+                  145.455685,
+                  -18.155368
+                ],
+                [
+                  145.455739,
+                  -18.155359
+                ],
+                [
+                  145.479955,
+                  -18.149856
+                ],
+                [
+                  145.480099,
+                  -18.149798
+                ],
+                [
+                  145.492958,
+                  -18.141972
+                ],
+                [
+                  145.493157,
+                  -18.141462
+                ],
+                [
+                  145.492699,
+                  -18.14114
+                ],
+                [
+                  145.392944,
+                  -18.142273
+                ],
+                [
+                  145.392743,
+                  -18.142318
+                ],
+                [
+                  145.338424,
+                  -18.167569
+                ],
+                [
+                  145.338177,
+                  -18.168102
+                ],
+                [
+                  145.338685,
+                  -18.168424
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7671",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:07AM 24 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CASHMERE RD, KIRRAMA RD",
+        "SUBURBS": "KIRRAMA, MOUNT GARNET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               149.184406,
               -27.48438
             ]
@@ -102,5 +187,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719169801.311572"
+  "extracted": "1719170102.664305"
 }
