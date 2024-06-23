@@ -10,6 +10,107 @@
           {
             "type": "Point",
             "coordinates": [
+              151.482175,
+              -24.303748
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.453975,
+                  -24.302436
+                ],
+                [
+                  151.461499,
+                  -24.32419
+                ],
+                [
+                  151.462202,
+                  -24.32445
+                ],
+                [
+                  151.476927,
+                  -24.317108
+                ],
+                [
+                  151.477031,
+                  -24.317038
+                ],
+                [
+                  151.510375,
+                  -24.287947
+                ],
+                [
+                  151.510276,
+                  -24.287227
+                ],
+                [
+                  151.502296,
+                  -24.283157
+                ],
+                [
+                  151.502062,
+                  -24.2831
+                ],
+                [
+                  151.496452,
+                  -24.283046
+                ],
+                [
+                  151.496415,
+                  -24.283047
+                ],
+                [
+                  151.481404,
+                  -24.283935
+                ],
+                [
+                  151.481236,
+                  -24.283974
+                ],
+                [
+                  151.469846,
+                  -24.288628
+                ],
+                [
+                  151.469712,
+                  -24.288709
+                ],
+                [
+                  151.45411,
+                  -24.30197
+                ],
+                [
+                  151.453975,
+                  -24.302436
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8429",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "18",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "1:30PM 23 Jun 2024",
+        "EST_FIX_TIME": "3:30PM 23 Jun 2024",
+        "STREETS": "BRUCE HWY, NORTON RD, REEDBED RD, THREE MILE RD",
+        "SUBURBS": "BOROREN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               149.184406,
               -27.48438
             ]
@@ -102,5 +203,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719114600.393556"
+  "extracted": "1719114901.121009"
 }
