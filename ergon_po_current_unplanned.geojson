@@ -211,9 +211,86 @@
         "STREETS": "GLENEARN RD, NOONA RD, NOORINDOO RD, PARKNOOK RD, SURAT DEVELOPMENT RD, THOMBY RD",
         "SUBURBS": "SURAT"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.03581,
+              -28.208428
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.033123,
+                  -28.208961
+                ],
+                [
+                  152.033636,
+                  -28.209685
+                ],
+                [
+                  152.033904,
+                  -28.209872
+                ],
+                [
+                  152.036773,
+                  -28.210728
+                ],
+                [
+                  152.037365,
+                  -28.210541
+                ],
+                [
+                  152.038574,
+                  -28.208834
+                ],
+                [
+                  152.038379,
+                  -28.208196
+                ],
+                [
+                  152.033905,
+                  -28.206128
+                ],
+                [
+                  152.033162,
+                  -28.206505
+                ],
+                [
+                  152.033046,
+                  -28.208701
+                ],
+                [
+                  152.033123,
+                  -28.208961
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10511",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "35",
+        "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
+        "STATUS": "Crews working on-site",
+        "START": "10:52AM 23 Jun 2024",
+        "EST_FIX_TIME": "2:00PM 23 Jun 2024",
+        "STREETS": "ALBION ST, ALICE ST, HELENE ST, JACKIE HOWE DR, PALMERIN ST, PARK RD, VICTORIA ST",
+        "SUBURBS": "WARWICK"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719103800.448877"
+  "extracted": "1719104101.342127"
 }
