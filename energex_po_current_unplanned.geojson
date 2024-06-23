@@ -87,83 +87,6 @@
           {
             "type": "Point",
             "coordinates": [
-              152.505676,
-              -26.18216
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.503304,
-                  -26.183067
-                ],
-                [
-                  152.504094,
-                  -26.185186
-                ],
-                [
-                  152.504541,
-                  -26.185493
-                ],
-                [
-                  152.505022,
-                  -26.185233
-                ],
-                [
-                  152.508047,
-                  -26.179375
-                ],
-                [
-                  152.507899,
-                  -26.178826
-                ],
-                [
-                  152.507273,
-                  -26.178837
-                ],
-                [
-                  152.504027,
-                  -26.181276
-                ],
-                [
-                  152.503881,
-                  -26.181458
-                ],
-                [
-                  152.503313,
-                  -26.182758
-                ],
-                [
-                  152.503304,
-                  -26.183067
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-766936-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "Under Investigation",
-        "STATUS": "In Progress",
-        "START": "5:31PM 23 Jun 2024",
-        "EST_FIX_TIME": "9:00PM 23 Jun 2024",
-        "STREETS": "DIGGINGS RD",
-        "SUBURBS": "GLASTONBURY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               152.979197,
               -26.733711
             ]
@@ -250,15 +173,181 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "16",
         "REASON": "Under Investigation",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "6:40PM 23 Jun 2024",
         "EST_FIX_TIME": "8:00PM 23 Jun 2024",
         "STREETS": "ILKLEY RD, NOBLES RD",
         "SUBURBS": "ILKLEY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.830511,
+              -27.240595
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.830093,
+                  -27.239027
+                ],
+                [
+                  152.82992,
+                  -27.242117
+                ],
+                [
+                  152.830399,
+                  -27.242591
+                ],
+                [
+                  152.830929,
+                  -27.242163
+                ],
+                [
+                  152.831102,
+                  -27.239072
+                ],
+                [
+                  152.830623,
+                  -27.238599
+                ],
+                [
+                  152.830093,
+                  -27.239027
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-766950-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "7:14PM 23 Jun 2024",
+        "EST_FIX_TIME": "10:30PM 23 Jun 2024",
+        "STREETS": "MT SAMSON RD",
+        "SUBURBS": "KOBBLE CREEK, SAMSONVALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.619152,
+              -26.229641
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.617108,
+                  -26.230375
+                ],
+                [
+                  152.618471,
+                  -26.230712
+                ],
+                [
+                  152.618598,
+                  -26.230728
+                ],
+                [
+                  152.619232,
+                  -26.230735
+                ],
+                [
+                  152.620348,
+                  -26.230746
+                ],
+                [
+                  152.620462,
+                  -26.230736
+                ],
+                [
+                  152.621375,
+                  -26.230554
+                ],
+                [
+                  152.621554,
+                  -26.229743
+                ],
+                [
+                  152.619773,
+                  -26.228618
+                ],
+                [
+                  152.619485,
+                  -26.228537
+                ],
+                [
+                  152.617672,
+                  -26.228539
+                ],
+                [
+                  152.617661,
+                  -26.228539
+                ],
+                [
+                  152.617512,
+                  -26.228542
+                ],
+                [
+                  152.617103,
+                  -26.22875
+                ],
+                [
+                  152.617014,
+                  -26.228875
+                ],
+                [
+                  152.616946,
+                  -26.229024
+                ],
+                [
+                  152.616751,
+                  -26.229844
+                ],
+                [
+                  152.617108,
+                  -26.230375
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-766952-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "16",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:54PM 23 Jun 2024",
+        "EST_FIX_TIME": "10:30PM 23 Jun 2024",
+        "STREETS": "GREEN TREES RD",
+        "SUBURBS": "PIE CREEK"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1719134400.308181"
+  "extracted": "1719134701.37984"
 }
