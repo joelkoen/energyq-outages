@@ -10,6 +10,95 @@
           {
             "type": "Point",
             "coordinates": [
+              148.877057,
+              -23.584263
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.874482,
+                  -23.583522
+                ],
+                [
+                  148.879012,
+                  -23.585942
+                ],
+                [
+                  148.879747,
+                  -23.585576
+                ],
+                [
+                  148.879861,
+                  -23.583641
+                ],
+                [
+                  148.879842,
+                  -23.58349
+                ],
+                [
+                  148.879693,
+                  -23.583018
+                ],
+                [
+                  148.879451,
+                  -23.582745
+                ],
+                [
+                  148.879228,
+                  -23.582636
+                ],
+                [
+                  148.878988,
+                  -23.582584
+                ],
+                [
+                  148.87682,
+                  -23.582629
+                ],
+                [
+                  148.876818,
+                  -23.582629
+                ],
+                [
+                  148.874715,
+                  -23.58268
+                ],
+                [
+                  148.874253,
+                  -23.58302
+                ],
+                [
+                  148.874482,
+                  -23.583522
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8440",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:46AM 24 Jun 2024",
+        "EST_FIX_TIME": "1:00PM 24 Jun 2024",
+        "STREETS": "MACKENZIE ST, RAILWAY ST, WEY ST",
+        "SUBURBS": "BLACKWATER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.415667,
               -18.154782
             ]
@@ -145,7 +234,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "7:55AM 24 Jun 2024",
         "EST_FIX_TIME": null,
         "STREETS": "HASTIE RD, KOCI RD, PETER ST",
@@ -511,5 +600,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719182701.993741"
+  "extracted": "1719183300.441945"
 }
