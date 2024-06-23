@@ -1,8 +1,118 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.066433,
+              -27.514744
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.062382,
+                  -27.516098
+                ],
+                [
+                  153.06301,
+                  -27.51623
+                ],
+                [
+                  153.063048,
+                  -27.516237
+                ],
+                [
+                  153.068138,
+                  -27.516941
+                ],
+                [
+                  153.068464,
+                  -27.516888
+                ],
+                [
+                  153.068685,
+                  -27.516777
+                ],
+                [
+                  153.068865,
+                  -27.516625
+                ],
+                [
+                  153.070861,
+                  -27.5138
+                ],
+                [
+                  153.070664,
+                  -27.513158
+                ],
+                [
+                  153.070523,
+                  -27.513093
+                ],
+                [
+                  153.070354,
+                  -27.513047
+                ],
+                [
+                  153.065824,
+                  -27.512547
+                ],
+                [
+                  153.065581,
+                  -27.512574
+                ],
+                [
+                  153.063095,
+                  -27.513425
+                ],
+                [
+                  153.06282,
+                  -27.513651
+                ],
+                [
+                  153.062223,
+                  -27.514766
+                ],
+                [
+                  153.062186,
+                  -27.514859
+                ],
+                [
+                  153.062005,
+                  -27.515557
+                ],
+                [
+                  153.062382,
+                  -27.516098
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-766890-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "195",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "11:10AM 23 Jun 2024",
+        "EST_FIX_TIME": "1:00PM 23 Jun 2024",
+        "STREETS": "ARABILIA ST, ARNOLD ST, BERKELEY ST, COONARA ST, GEELONG AVE, GILL ST, GOSLING ST, HAROLD ST, NEWBOLT ST, REUBEN ST, RITA ST, VICTOR ST, WILBUR ST",
+        "SUBURBS": "HOLLAND PARK"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1719105601.051764"
+  "extracted": "1719105901.065896"
 }
