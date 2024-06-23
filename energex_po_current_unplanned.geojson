@@ -78,9 +78,86 @@
         "STREETS": "KURRAJONG RD, MUNDOOLUN RD",
         "SUBURBS": "JIMBOOMBA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.505676,
+              -26.18216
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.503304,
+                  -26.183067
+                ],
+                [
+                  152.504094,
+                  -26.185186
+                ],
+                [
+                  152.504541,
+                  -26.185493
+                ],
+                [
+                  152.505022,
+                  -26.185233
+                ],
+                [
+                  152.508047,
+                  -26.179375
+                ],
+                [
+                  152.507899,
+                  -26.178826
+                ],
+                [
+                  152.507273,
+                  -26.178837
+                ],
+                [
+                  152.504027,
+                  -26.181276
+                ],
+                [
+                  152.503881,
+                  -26.181458
+                ],
+                [
+                  152.503313,
+                  -26.182758
+                ],
+                [
+                  152.503304,
+                  -26.183067
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-766936-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:31PM 23 Jun 2024",
+        "EST_FIX_TIME": "9:00PM 23 Jun 2024",
+        "STREETS": "DIGGINGS RD",
+        "SUBURBS": "GLASTONBURY"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1719129301.12722"
+  "extracted": "1719129603.490832"
 }
