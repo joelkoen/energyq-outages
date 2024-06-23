@@ -95,6 +95,87 @@
           {
             "type": "Point",
             "coordinates": [
+              146.65624,
+              -19.181175
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.653837,
+                  -19.179965
+                ],
+                [
+                  146.655092,
+                  -19.181242
+                ],
+                [
+                  146.655159,
+                  -19.181298
+                ],
+                [
+                  146.657715,
+                  -19.183078
+                ],
+                [
+                  146.658329,
+                  -19.183036
+                ],
+                [
+                  146.658593,
+                  -19.18279
+                ],
+                [
+                  146.658663,
+                  -19.182226
+                ],
+                [
+                  146.658213,
+                  -19.181547
+                ],
+                [
+                  146.658061,
+                  -19.181403
+                ],
+                [
+                  146.654435,
+                  -19.179272
+                ],
+                [
+                  146.653817,
+                  -19.17937
+                ],
+                [
+                  146.653837,
+                  -19.179965
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ10117",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "34",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "5:00AM 24 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BATLEY PDE",
+        "SUBURBS": "BEACH HOLM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               149.184406,
               -27.48438
             ]
@@ -187,5 +268,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719175800.494258"
+  "extracted": "1719176100.54738"
 }
