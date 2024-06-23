@@ -1,8 +1,102 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.087727,
+              -26.615533
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.084982,
+                  -26.615172
+                ],
+                [
+                  153.085115,
+                  -26.615423
+                ],
+                [
+                  153.085363,
+                  -26.615641
+                ],
+                [
+                  153.086211,
+                  -26.615984
+                ],
+                [
+                  153.086326,
+                  -26.616016
+                ],
+                [
+                  153.089673,
+                  -26.616569
+                ],
+                [
+                  153.090109,
+                  -26.616453
+                ],
+                [
+                  153.09038,
+                  -26.616223
+                ],
+                [
+                  153.090472,
+                  -26.615672
+                ],
+                [
+                  153.090312,
+                  -26.61542
+                ],
+                [
+                  153.089982,
+                  -26.615202
+                ],
+                [
+                  153.086424,
+                  -26.614508
+                ],
+                [
+                  153.086299,
+                  -26.614498
+                ],
+                [
+                  153.085417,
+                  -26.614527
+                ],
+                [
+                  153.084982,
+                  -26.615172
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-766985-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "45",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "7:24AM 24 Jun 2024",
+        "EST_FIX_TIME": "9:00AM 24 Jun 2024",
+        "STREETS": "MUDJIMBA BEACH RD",
+        "SUBURBS": "MUDJIMBA"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1719177900.524288"
+  "extracted": "1719178203.140982"
 }
