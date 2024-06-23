@@ -1,8 +1,86 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.041792,
+              -27.851245
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.029703,
+                  -27.846307
+                ],
+                [
+                  153.030143,
+                  -27.848883
+                ],
+                [
+                  153.030435,
+                  -27.849226
+                ],
+                [
+                  153.031305,
+                  -27.849578
+                ],
+                [
+                  153.031323,
+                  -27.849585
+                ],
+                [
+                  153.050823,
+                  -27.856676
+                ],
+                [
+                  153.051397,
+                  -27.856555
+                ],
+                [
+                  153.053881,
+                  -27.854033
+                ],
+                [
+                  153.053672,
+                  -27.853311
+                ],
+                [
+                  153.030378,
+                  -27.845814
+                ],
+                [
+                  153.029703,
+                  -27.846307
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-766935-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "56",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "5:50PM 23 Jun 2024",
+        "EST_FIX_TIME": "8:30PM 23 Jun 2024",
+        "STREETS": "KURRAJONG RD, MUNDOOLUN RD",
+        "SUBURBS": "JIMBOOMBA"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1719129000.323348"
+  "extracted": "1719129301.12722"
 }
