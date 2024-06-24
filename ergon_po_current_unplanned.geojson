@@ -292,9 +292,126 @@
         "STREETS": "ALDRIDGE RD, ALFORDS RD, ANZAC AVE, BELL ST, BOGANDILLA RD, BUTLERS RD, CLARKE CREEK RD, CLARKE'S RD, CLERKE ST, COLSONS RD, CONDAMINE HWY, CORBETTS RD, CROSSROAD'S RD, DEVONCOURT RD, DULACCA GOLF CLUB RD, DULACCA NORTH RD, DULACCA SOUTH RD, EDWARD ST, ELLERSLIE RD, EWINGSDALE RD, FRIZZELLS RD, FRIZZELS RD, GLENLEA RD, GLYNN AVE, GULLAGIMBI RD, HARRISONS RD, HASLOP'S RD, HOME BUSH RD, HOMEBUSH RD, JACKSON RD, JACKSON WANDOAN RD, JACKSON-WANDOAN RD, JUBILEE AVE, KILLARNEY ST, LAMBING FLAT RD, MANTOVAS RD, MARRA MARRA RD, NORTH DULACCA HALL RD, NORTH DULACCA RD, NORTH JACKSON RD, NORTH ST, PARK LANE, PEI RD, QUEEN ST, RAILWAY ST, ROMA-CONDAMINE RD, SHORT ST, SUMMERFIELD RD, TEMPLE ST, TRARALGON AVE, TRIM'S RD, WANDOAN RD, WARREGO HWY, WILLETS RD, YAPUNYA RD",
         "SUBURBS": "CONDAMINE, DRILLHAM, DULACCA, JACKSON, NORTH DULACCA, NORTH JACKSON, YULEBA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.899039,
+              -27.53069
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.895382,
+                  -27.531421
+                ],
+                [
+                  151.895665,
+                  -27.531752
+                ],
+                [
+                  151.895982,
+                  -27.531923
+                ],
+                [
+                  151.900909,
+                  -27.532673
+                ],
+                [
+                  151.901307,
+                  -27.532583
+                ],
+                [
+                  151.902229,
+                  -27.531934
+                ],
+                [
+                  151.902403,
+                  -27.5317
+                ],
+                [
+                  151.902785,
+                  -27.530468
+                ],
+                [
+                  151.902755,
+                  -27.530157
+                ],
+                [
+                  151.902514,
+                  -27.529702
+                ],
+                [
+                  151.902327,
+                  -27.529513
+                ],
+                [
+                  151.901993,
+                  -27.529325
+                ],
+                [
+                  151.901886,
+                  -27.52928
+                ],
+                [
+                  151.901343,
+                  -27.529115
+                ],
+                [
+                  151.901278,
+                  -27.5291
+                ],
+                [
+                  151.899045,
+                  -27.528707
+                ],
+                [
+                  151.898695,
+                  -27.528758
+                ],
+                [
+                  151.895655,
+                  -27.530322
+                ],
+                [
+                  151.895417,
+                  -27.530602
+                ],
+                [
+                  151.895294,
+                  -27.531039
+                ],
+                [
+                  151.895382,
+                  -27.531421
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10559",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "37",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:56PM 24 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CLAYTON CT, COTSWOLD CL, HICKEY CT, NUGENT PINCH RD",
+        "SUBURBS": "COTSWOLD HILLS"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719223215.00532"
+  "extracted": "1719223525.434668"
 }
