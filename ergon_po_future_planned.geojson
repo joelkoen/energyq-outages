@@ -227,7 +227,7 @@
         "CUSTOMERS_AFFECTED": "23",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 25 Jun 2024",
+        "START": "8:39AM 25 Jun 2024",
         "EST_FIX_TIME": "2:30PM 25 Jun 2024",
         "STREETS": "COOWONGA RD, HOYS RD",
         "SUBURBS": "COOWONGA"
@@ -437,7 +437,7 @@
         "CUSTOMERS_AFFECTED": "29",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 25 Jun 2024",
+        "START": "8:42AM 25 Jun 2024",
         "EST_FIX_TIME": "2:30PM 25 Jun 2024",
         "STREETS": "LANDSBOROUGH HWY, OLD WINTON RD, SILSOE RD",
         "SUBURBS": "LONGREACH"
@@ -1486,7 +1486,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "62",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 25 Jun 2024",
         "EST_FIX_TIME": "2:00PM 25 Jun 2024",
         "STREETS": "CHARNLEY AVE, CONWAY CL, FITZMAURICE DR, MERRI ST, WALKER RD",
@@ -2107,20 +2107,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.167466,
-          -21.116748
+          149.18689,
+          -21.121422
         ]
       },
       "properties": {
-        "EVENT_ID": "24MK4814",
+        "EVENT_ID": "24MK4817",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
+        "CUSTOMERS_AFFECTED": "4",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "7:13AM 25 Jun 2024",
+        "START": "8:45AM 25 Jun 2024",
         "EST_FIX_TIME": "4:00PM 25 Jun 2024",
-        "STREETS": "KARL LANGER CRES",
-        "SUBURBS": "MOUNT PLEASANT"
+        "STREETS": "CANBERRA ST",
+        "SUBURBS": "NORTH MACKAY"
       }
     },
     {
@@ -4396,6 +4396,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.202154,
+          -28.313663
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9836",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 25 Jun 2024",
+        "EST_FIX_TIME": "3:00PM 25 Jun 2024",
+        "STREETS": "TOM GRAYSONS RD, WARWICK KILLARNEY RD",
+        "SUBURBS": "LOCH LOMOND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.912706,
           -27.537025
         ]
@@ -5339,5 +5360,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1719268800.389819"
+  "extracted": "1719269400.392011"
 }
