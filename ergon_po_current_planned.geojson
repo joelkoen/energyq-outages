@@ -49,6 +49,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          146.295532,
+          -22.036164
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA6663",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:27AM 25 Jun 2024",
+        "EST_FIX_TIME": "1:00PM 25 Jun 2024",
+        "STREETS": "DOONGMABULLA RD",
+        "SUBURBS": "CLERMONT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.885383,
           -24.540376
         ]
@@ -1078,6 +1099,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.294612,
+          -28.347312
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9830",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "33",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 25 Jun 2024",
+        "EST_FIX_TIME": "12:00PM 25 Jun 2024",
+        "STREETS": "DAISY ST, HOPE RD, OLIVE ST, PINE ST, POINSETTIA ST",
+        "SUBURBS": "KILLARNEY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.202154,
           -28.313663
         ]
@@ -1318,7 +1360,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "27",
         "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "10:00AM 25 Jun 2024",
         "EST_FIX_TIME": "12:00PM 25 Jun 2024",
         "STREETS": "ASHFIELD RD, BARGARA RD, ZIELKE AVE",
@@ -1349,5 +1391,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719272701.408178"
+  "extracted": "1719273000.483438"
 }
