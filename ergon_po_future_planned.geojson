@@ -1801,7 +1801,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "7",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 25 Jun 2024",
         "EST_FIX_TIME": "12:00PM 25 Jun 2024",
         "STREETS": "ANNAN RD, MULLIGAN HWY",
@@ -4480,6 +4480,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.272919,
+          -27.8681
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9947",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:51AM 25 Jun 2024",
+        "EST_FIX_TIME": "3:30PM 25 Jun 2024",
+        "STREETS": "BRUCE RD, MILL RD, MILLMERRAN CECIL PLAINS RD, WEAVER ST",
+        "SUBURBS": "MILLMERRAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.993776,
           -27.412938
         ]
@@ -5360,5 +5381,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1719269400.392011"
+  "extracted": "1719269700.399379"
 }
