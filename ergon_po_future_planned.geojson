@@ -1361,7 +1361,7 @@
         "CUSTOMERS_AFFECTED": "60",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "9:30AM 25 Jun 2024",
+        "START": "9:32AM 25 Jun 2024",
         "EST_FIX_TIME": "1:30PM 25 Jun 2024",
         "STREETS": "BURKE DEVELOPMENT RD, BURKETOWN RD, IFFLEY RD, NEU MAYER VALLEY STATION, UNKNOWN ST",
         "SUBURBS": "NORMANTON"
@@ -3850,6 +3850,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          149.014769,
+          -28.955242
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9438",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:35AM 25 Jun 2024",
+        "EST_FIX_TIME": "3:00PM 25 Jun 2024",
+        "STREETS": "TALWOOD RD",
+        "SUBURBS": "MUNGINDI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.911077,
           -27.580361
         ]
@@ -5360,5 +5381,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1719271801.105749"
+  "extracted": "1719272400.458411"
 }
