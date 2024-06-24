@@ -95,6 +95,67 @@
           {
             "type": "Point",
             "coordinates": [
+              148.670141,
+              -20.603474
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.669867,
+                  -20.6025
+                ],
+                [
+                  148.669476,
+                  -20.604263
+                ],
+                [
+                  148.669848,
+                  -20.604797
+                ],
+                [
+                  148.670416,
+                  -20.604447
+                ],
+                [
+                  148.670807,
+                  -20.602684
+                ],
+                [
+                  148.670435,
+                  -20.60215
+                ],
+                [
+                  148.669867,
+                  -20.6025
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK2052",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "STATUS": "Crews working on-site",
+        "START": "3:24AM 14 Feb 2024",
+        "EST_FIX_TIME": "12:00PM 29 Nov 2024",
+        "STREETS": "PRIMARY THOR",
+        "SUBURBS": "LAGUNA QUAYS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.65624,
               -19.181175
             ]
@@ -450,5 +511,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719200100.408957"
+  "extracted": "1719200400.327483"
 }
