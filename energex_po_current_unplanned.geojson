@@ -1,8 +1,86 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.374236,
+              -28.050461
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.372436,
+                  -28.050688
+                ],
+                [
+                  153.375469,
+                  -28.052115
+                ],
+                [
+                  153.376211,
+                  -28.05165
+                ],
+                [
+                  153.375895,
+                  -28.04975
+                ],
+                [
+                  153.375876,
+                  -28.04968
+                ],
+                [
+                  153.375671,
+                  -28.049106
+                ],
+                [
+                  153.375057,
+                  -28.048806
+                ],
+                [
+                  153.373003,
+                  -28.049284
+                ],
+                [
+                  153.372718,
+                  -28.049458
+                ],
+                [
+                  153.37226,
+                  -28.050027
+                ],
+                [
+                  153.372436,
+                  -28.050688
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-767177-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "51",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "5:08PM 24 Jun 2024",
+        "EST_FIX_TIME": "8:00PM 24 Jun 2024",
+        "STREETS": "MACADIE WAY",
+        "SUBURBS": "MERRIMAC"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1719212700.738666"
+  "extracted": "1719213001.223475"
 }
