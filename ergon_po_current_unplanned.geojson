@@ -446,9 +446,94 @@
         "STREETS": "HAWKWOOD RD, NEW CADARGA RD, SCRUBLANDS RD, WALKERS RD",
         "SUBURBS": "HAWKWOOD, MUNDUBBERA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.652863,
+              -25.557871
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.650834,
+                  -25.557277
+                ],
+                [
+                  152.651093,
+                  -25.558071
+                ],
+                [
+                  152.651093,
+                  -25.558073
+                ],
+                [
+                  152.651537,
+                  -25.559404
+                ],
+                [
+                  152.651581,
+                  -25.559496
+                ],
+                [
+                  152.651887,
+                  -25.559985
+                ],
+                [
+                  152.652607,
+                  -25.560128
+                ],
+                [
+                  152.654786,
+                  -25.55871
+                ],
+                [
+                  152.654893,
+                  -25.558075
+                ],
+                [
+                  152.652867,
+                  -25.555633
+                ],
+                [
+                  152.652093,
+                  -25.555613
+                ],
+                [
+                  152.650931,
+                  -25.556858
+                ],
+                [
+                  152.650834,
+                  -25.557277
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6786",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews working on-site",
+        "START": "11:55AM 24 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "HARDIE ST, IINDAH RD W",
+        "SUBURBS": "TINANA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719201301.147951"
+  "extracted": "1719201601.808284"
 }
