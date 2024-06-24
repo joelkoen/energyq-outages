@@ -176,6 +176,107 @@
           {
             "type": "Point",
             "coordinates": [
+              151.954921,
+              -27.454512
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.951817,
+                  -27.453026
+                ],
+                [
+                  151.952503,
+                  -27.455926
+                ],
+                [
+                  151.952881,
+                  -27.456271
+                ],
+                [
+                  151.957455,
+                  -27.457234
+                ],
+                [
+                  151.958031,
+                  -27.456611
+                ],
+                [
+                  151.957822,
+                  -27.456198
+                ],
+                [
+                  151.957741,
+                  -27.456086
+                ],
+                [
+                  151.953743,
+                  -27.452021
+                ],
+                [
+                  151.953452,
+                  -27.451875
+                ],
+                [
+                  151.952921,
+                  -27.451791
+                ],
+                [
+                  151.952736,
+                  -27.451792
+                ],
+                [
+                  151.952475,
+                  -27.451837
+                ],
+                [
+                  151.952132,
+                  -27.452057
+                ],
+                [
+                  151.951927,
+                  -27.45238
+                ],
+                [
+                  151.951867,
+                  -27.452536
+                ],
+                [
+                  151.951812,
+                  -27.452867
+                ],
+                [
+                  151.951817,
+                  -27.453026
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10552",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews working on-site",
+        "START": "11:57AM 24 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CLARKE RD, CRISTINA CT, KUHLS RD, LITTLETON DR",
+        "SUBURBS": "HIGHFIELDS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.275446,
               -25.73202
             ]
@@ -272,5 +373,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719205800.358368"
+  "extracted": "1719206402.2483"
 }
