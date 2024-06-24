@@ -94,9 +94,102 @@
         "STREETS": "JAMES RD, OCEAN VIEW RD, TOWNSEND RD",
         "SUBURBS": "OCEAN VIEW"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.424194,
+              -28.145056
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.420941,
+                  -28.14637
+                ],
+                [
+                  153.421168,
+                  -28.14774
+                ],
+                [
+                  153.421844,
+                  -28.148099
+                ],
+                [
+                  153.426587,
+                  -28.146592
+                ],
+                [
+                  153.42692,
+                  -28.146223
+                ],
+                [
+                  153.427447,
+                  -28.14252
+                ],
+                [
+                  153.426917,
+                  -28.142012
+                ],
+                [
+                  153.426799,
+                  -28.142017
+                ],
+                [
+                  153.426798,
+                  -28.142018
+                ],
+                [
+                  153.423922,
+                  -28.142143
+                ],
+                [
+                  153.423631,
+                  -28.14224
+                ],
+                [
+                  153.422031,
+                  -28.143363
+                ],
+                [
+                  153.42186,
+                  -28.143583
+                ],
+                [
+                  153.420958,
+                  -28.146171
+                ],
+                [
+                  153.420941,
+                  -28.14637
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-767066-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "34",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:05AM 24 Jun 2024",
+        "EST_FIX_TIME": "12:30PM 24 Jun 2024",
+        "STREETS": "STOCKYARD CT, TREES RD",
+        "SUBURBS": "TALLEBUDGERA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1719191103.822429"
+  "extracted": "1719191400.603267"
 }
