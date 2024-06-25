@@ -199,9 +199,94 @@
         "STREETS": "FIREWHEEL RD, LOUIS BAZZO DR, POSSUM LANE, RINGTAIL CREEK RD",
         "SUBURBS": "COOTHARABA, POMONA, RINGTAIL CREEK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.815777,
+              -26.166561
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.813001,
+                  -26.165181
+                ],
+                [
+                  152.813735,
+                  -26.166583
+                ],
+                [
+                  152.813804,
+                  -26.16668
+                ],
+                [
+                  152.814396,
+                  -26.167316
+                ],
+                [
+                  152.814614,
+                  -26.167453
+                ],
+                [
+                  152.817961,
+                  -26.168511
+                ],
+                [
+                  152.818553,
+                  -26.168321
+                ],
+                [
+                  152.818474,
+                  -26.167759
+                ],
+                [
+                  152.817347,
+                  -26.166781
+                ],
+                [
+                  152.817276,
+                  -26.16673
+                ],
+                [
+                  152.81373,
+                  -26.164612
+                ],
+                [
+                  152.813126,
+                  -26.164647
+                ],
+                [
+                  152.813001,
+                  -26.165181
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-767364-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "2:27PM 25 Jun 2024",
+        "EST_FIX_TIME": "4:30PM 25 Jun 2024",
+        "STREETS": "NEUSAVALE RD",
+        "SUBURBS": "WOLVI"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1719290100.562254"
+  "extracted": "1719290400.369674"
 }
