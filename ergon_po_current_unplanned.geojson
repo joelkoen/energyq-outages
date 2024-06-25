@@ -99,6 +99,91 @@
           {
             "type": "Point",
             "coordinates": [
+              149.178486,
+              -21.180729
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.172314,
+                  -21.18478
+                ],
+                [
+                  149.184625,
+                  -21.184044
+                ],
+                [
+                  149.185075,
+                  -21.183626
+                ],
+                [
+                  149.185169,
+                  -21.182428
+                ],
+                [
+                  149.185127,
+                  -21.182206
+                ],
+                [
+                  149.182989,
+                  -21.177846
+                ],
+                [
+                  149.182599,
+                  -21.177585
+                ],
+                [
+                  149.172726,
+                  -21.176678
+                ],
+                [
+                  149.172199,
+                  -21.177092
+                ],
+                [
+                  149.172062,
+                  -21.178713
+                ],
+                [
+                  149.172061,
+                  -21.178729
+                ],
+                [
+                  149.171802,
+                  -21.18431
+                ],
+                [
+                  149.172314,
+                  -21.18478
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK5357",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:10PM 25 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOUNDARY RD, MILTON ST",
+        "SUBURBS": "MACKAY, OORALEA, PAGET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.736427,
               -19.301949
             ]
@@ -195,5 +280,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719317702.709191"
+  "extracted": "1719318301.773267"
 }
