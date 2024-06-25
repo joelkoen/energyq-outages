@@ -285,6 +285,91 @@
           {
             "type": "Point",
             "coordinates": [
+              151.29522,
+              -27.349266
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.267482,
+                  -27.352722
+                ],
+                [
+                  151.271494,
+                  -27.354973
+                ],
+                [
+                  151.271614,
+                  -27.355022
+                ],
+                [
+                  151.289361,
+                  -27.359914
+                ],
+                [
+                  151.289611,
+                  -27.359925
+                ],
+                [
+                  151.314859,
+                  -27.355309
+                ],
+                [
+                  151.315054,
+                  -27.355232
+                ],
+                [
+                  151.323099,
+                  -27.350023
+                ],
+                [
+                  151.322933,
+                  -27.349224
+                ],
+                [
+                  151.278678,
+                  -27.338608
+                ],
+                [
+                  151.278139,
+                  -27.338778
+                ],
+                [
+                  151.267342,
+                  -27.352076
+                ],
+                [
+                  151.267482,
+                  -27.352722
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10590",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "1:15PM 25 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 25 Jun 2024",
+        "STREETS": "CECIL PLAINS RD, COSGROVES RD, VACY PLAINS RD",
+        "SUBURBS": "DALBY, ST RUTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.519214,
               -26.356266
             ]
@@ -381,5 +466,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719285000.449867"
+  "extracted": "1719285301.5714"
 }
