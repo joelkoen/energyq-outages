@@ -10,6 +10,75 @@
           {
             "type": "Point",
             "coordinates": [
+              150.683617,
+              -23.190878
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.683589,
+                  -23.191725
+                ],
+                [
+                  150.684275,
+                  -23.191251
+                ],
+                [
+                  150.684422,
+                  -23.190693
+                ],
+                [
+                  150.684175,
+                  -23.190221
+                ],
+                [
+                  150.683485,
+                  -23.190031
+                ],
+                [
+                  150.683124,
+                  -23.190231
+                ],
+                [
+                  150.68289,
+                  -23.190575
+                ],
+                [
+                  150.682812,
+                  -23.191321
+                ],
+                [
+                  150.683589,
+                  -23.191725
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8506",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:26PM 25 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DAVIS RD",
+        "SUBURBS": "BONDOOLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.736427,
               -19.301949
             ]
@@ -106,5 +175,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719304202.999273"
+  "extracted": "1719304500.452105"
 }
