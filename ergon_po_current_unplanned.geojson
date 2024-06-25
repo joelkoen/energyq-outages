@@ -86,9 +86,70 @@
         "STREETS": "CASHMERE RD, KIRRAMA RD",
         "SUBURBS": "KIRRAMA, MOUNT GARNET"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              144.328859,
+              -26.504503
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  144.329467,
+                  -26.505812
+                ],
+                [
+                  144.329252,
+                  -26.503129
+                ],
+                [
+                  144.328716,
+                  -26.502712
+                ],
+                [
+                  144.328252,
+                  -26.503194
+                ],
+                [
+                  144.328467,
+                  -26.505877
+                ],
+                [
+                  144.329003,
+                  -26.506294
+                ],
+                [
+                  144.329467,
+                  -26.505812
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10579",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews working on-site",
+        "START": "7:22AM 25 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ADAVALE-BLACK RD",
+        "SUBURBS": "QUILPIE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719273302.642752"
+  "extracted": "1719273613.409936"
 }
