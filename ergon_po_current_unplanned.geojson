@@ -1,8 +1,78 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.766699,
+              -16.935739
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.766294,
+                  -16.936668
+                ],
+                [
+                  145.767712,
+                  -16.935505
+                ],
+                [
+                  145.767769,
+                  -16.934873
+                ],
+                [
+                  145.767113,
+                  -16.93481
+                ],
+                [
+                  145.765856,
+                  -16.935785
+                ],
+                [
+                  145.765789,
+                  -16.935848
+                ],
+                [
+                  145.765628,
+                  -16.936036
+                ],
+                [
+                  145.76566,
+                  -16.936646
+                ],
+                [
+                  145.766294,
+                  -16.936668
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7800",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:10AM 26 Jun 2024",
+        "EST_FIX_TIME": "10:30AM 26 Jun 2024",
+        "STREETS": "BUCHAN ST, HARTLEY ST",
+        "SUBURBS": "BUNGALOW, PORTSMITH"
+      }
+    }
+  ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719353400.57451"
+  "extracted": "1719353701.014519"
 }
