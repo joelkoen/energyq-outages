@@ -102,9 +102,98 @@
         "STREETS": "BIRRAHLEE CRES, CHARLES ST, EMERALD ST, GARDEN GROVE CRES, LA PALMA CT, LINCOLN ST, REID CT, THURINGOWA DR",
         "SUBURBS": "KIRWAN, THURINGOWA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.280842,
+              -18.632434
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.271616,
+                  -18.633528
+                ],
+                [
+                  146.272829,
+                  -18.634241
+                ],
+                [
+                  146.273128,
+                  -18.634305
+                ],
+                [
+                  146.284138,
+                  -18.633198
+                ],
+                [
+                  146.28416,
+                  -18.633196
+                ],
+                [
+                  146.289666,
+                  -18.632392
+                ],
+                [
+                  146.290068,
+                  -18.631932
+                ],
+                [
+                  146.289637,
+                  -18.631496
+                ],
+                [
+                  146.279064,
+                  -18.630562
+                ],
+                [
+                  146.278926,
+                  -18.630569
+                ],
+                [
+                  146.274251,
+                  -18.631468
+                ],
+                [
+                  146.274126,
+                  -18.63151
+                ],
+                [
+                  146.271646,
+                  -18.632742
+                ],
+                [
+                  146.271616,
+                  -18.633528
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ10198",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:55PM 25 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "MIZZIS RD",
+        "SUBURBS": "BRAEMEADOWS"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719312901.781915"
+  "extracted": "1719313213.496928"
 }
