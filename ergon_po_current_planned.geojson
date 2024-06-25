@@ -70,48 +70,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.808666,
-          -23.234511
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA7069",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "164",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:52AM 26 Jun 2024",
-        "EST_FIX_TIME": "9:00AM 26 Jun 2024",
-        "STREETS": "ALBEMARLE ST, FISHERMANS LANE, GOLDING ST, HAVEN RD, HAWKE ST, KINKA BEACH RD, LIVISTONIA CRES, MARINE PDE, NELSON ST, PARADISE WAY, RITAMADA RD, SCENIC HWY, SHORT ST, TALDORA PL, TANBY POINT CL, TIMANDRA CT, TIMARU PL, WHITE HAVEN CT",
-        "SUBURBS": "EMU PARK, YEPPOON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.456894,
-          -23.440768
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA7179",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "122",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Crews working on-site",
-        "START": "6:39AM 26 Jun 2024",
-        "EST_FIX_TIME": "9:30AM 26 Jun 2024",
-        "STREETS": "ARLOTT ST, ARTHUR ST, BARRY ST, FISHER ST, GOVIND CT, JOHNSON RD, LAWRIE ST, MARK ST, RANGER ST, STOVER ST, WARD ST, WHITMAN ST",
-        "SUBURBS": "GRACEMERE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           150.822084,
           -23.240278
         ]
@@ -357,6 +315,27 @@
         "EST_FIX_TIME": "2:30PM 26 Jun 2024",
         "STREETS": "ABINGDON RD, UNKNOWN ST",
         "SUBURBS": "GEORGETOWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.612936,
+          -17.30444
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7142",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "17",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 26 Jun 2024",
+        "EST_FIX_TIME": "12:00PM 26 Jun 2024",
+        "STREETS": "PEERAMON RD, YUNGABURRA RD",
+        "SUBURBS": "EAST BARRON, PEERAMON"
       }
     },
     {
@@ -952,6 +931,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          144.095606,
+          -28.592948
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9697",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "22",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 26 Jun 2024",
+        "EST_FIX_TIME": "2:32PM 26 Jun 2024",
+        "STREETS": "BULLOO DEVELOPMENTAL RD, HUNGERFORD RD, THARGOMINDAH-HUNGERFORD RD, WERENILKE RD, WOMBULA-YENLORA RD",
+        "SUBURBS": "CUNNAMULLA, HUNGERFORD, THARGOMINDAH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.583076,
           -28.044746
         ]
@@ -1160,5 +1160,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719356700.472694"
+  "extracted": "1719357000.521884"
 }
