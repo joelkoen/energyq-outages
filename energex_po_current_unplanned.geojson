@@ -94,9 +94,74 @@
         "STREETS": "BAKER RD, BOBBIE CT, CHARLES RD, CLIFFORD RD, COSTELLOE RD, DIANE DR, FREDERICK HARRIS CT, GLOVER RD, GRAHAM CT, HENZELL RD, HILLVIEW CT, HORIZON CT, INGLIS CT, JUFFS RD, KUHN RD, LACEYS CREEK RD, LAIDLAW ST, LAURA LANE, LESLIE CT, MACADAMIA DR, MT BRISBANE RD, MT PLEASANT RD, OLD CREAM TRUCK RD, PALM CREEK RD, RAHES RD, RAYBIRD CREEK RD, RAYNBIRD CREEK RD, RIVERVIEW CT, ROSE LANE, ROWE RD, SELLIN RD, STACEY CT, STRAIN RD, STRATTON RD, TOBY CT, WIRTH RD",
         "SUBURBS": "ARMSTRONG CREEK, DAYBORO, KING SCRUB, LACEYS CREEK, MT PLEASANT"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.977692,
+              -27.629336
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.974074,
+                  -27.628308
+                ],
+                [
+                  151.980651,
+                  -27.631761
+                ],
+                [
+                  151.98131,
+                  -27.631648
+                ],
+                [
+                  151.981265,
+                  -27.631052
+                ],
+                [
+                  151.976689,
+                  -27.627018
+                ],
+                [
+                  151.976176,
+                  -27.62691
+                ],
+                [
+                  151.974174,
+                  -27.62749
+                ],
+                [
+                  151.974074,
+                  -27.628308
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-767431-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "8:05PM 25 Jun 2024",
+        "EST_FIX_TIME": "9:30PM 25 Jun 2024",
+        "STREETS": "UPPER FLAGSTONE RD",
+        "SUBURBS": "UPPER FLAGSTONE"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1719312302.749636"
+  "extracted": "1719312600.354939"
 }
