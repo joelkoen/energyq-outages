@@ -147,9 +147,110 @@
         "STREETS": "ADAVALE-BLACK RD",
         "SUBURBS": "QUILPIE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              143.675059,
+              -28.341244
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  142.960413,
+                  -28.527719
+                ],
+                [
+                  143.89622,
+                  -28.932201
+                ],
+                [
+                  143.896284,
+                  -28.932224
+                ],
+                [
+                  143.897532,
+                  -28.932586
+                ],
+                [
+                  143.897753,
+                  -28.932605
+                ],
+                [
+                  144.063723,
+                  -28.914957
+                ],
+                [
+                  144.064121,
+                  -28.914709
+                ],
+                [
+                  144.389857,
+                  -28.332767
+                ],
+                [
+                  144.389907,
+                  -28.332521
+                ],
+                [
+                  144.361868,
+                  -28.095959
+                ],
+                [
+                  144.361803,
+                  -28.095781
+                ],
+                [
+                  144.358847,
+                  -28.091235
+                ],
+                [
+                  144.358617,
+                  -28.09105
+                ],
+                [
+                  143.522758,
+                  -27.749882
+                ],
+                [
+                  143.522118,
+                  -27.750049
+                ],
+                [
+                  142.96021,
+                  -28.527071
+                ],
+                [
+                  142.960413,
+                  -28.527719
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10586",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "214",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:31AM 25 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BULLAWARRA STATION RD, BULLOO DEVELOPMENTAL RD, BULLOO RIVER RD, BUNDEENA RD, DOWLING ST, EASTON DR, ECCLES ST, FITZWALTER ST, FREW ST, GILMOUR ST, HUNGERFORD RD, JACKSON RD, LOWER CEMETERY RD, MCGREGOR ST, MOORE ST, POWELL ST, SAMS ST, SPEEDY ST, STAFFORD ST, THARGOMINDAH-HUNGERFORD RD, WATTS ST, WERENILKE RD, WOMBULA-YENLORA RD",
+        "SUBURBS": "CUNNAMULLA, HUNGERFORD, THARGOMINDAH"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719279002.657757"
+  "extracted": "1719279600.30302"
 }

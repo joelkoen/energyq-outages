@@ -196,6 +196,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.145959,
+          -23.489193
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8021",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 25 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 25 Jun 2024",
+        "STREETS": "WILLS RD",
+        "SUBURBS": "EMERALD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.871042,
           -18.101302
         ]
@@ -294,27 +315,6 @@
         "EST_FIX_TIME": "2:00PM 25 Jun 2024",
         "STREETS": "CHARNLEY AVE, CONWAY CL, FITZMAURICE DR, MERRI ST, WALKER RD",
         "SUBURBS": "BENTLEY PARK"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.24193,
-          -15.490156
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24FN7385",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "7",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "9:00AM 25 Jun 2024",
-        "EST_FIX_TIME": "12:00PM 25 Jun 2024",
-        "STREETS": "ANNAN RD, MULLIGAN HWY",
-        "SUBURBS": "COOKTOWN"
       }
     },
     {
@@ -784,27 +784,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.014769,
-          -28.955242
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24SW9438",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "8",
-        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "9:35AM 25 Jun 2024",
-        "EST_FIX_TIME": "3:00PM 25 Jun 2024",
-        "STREETS": "TALWOOD RD",
-        "SUBURBS": "MUNGINDI"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           149.79095,
           -25.545727
         ]
@@ -1120,27 +1099,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.395733,
-          -24.842845
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB6327",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "27",
-        "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "10:00AM 25 Jun 2024",
-        "EST_FIX_TIME": "12:00PM 25 Jun 2024",
-        "STREETS": "ASHFIELD RD, BARGARA RD, ZIELKE AVE",
-        "SUBURBS": "BUNDABERG, KALKIE, RUBYANNA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           151.806321,
           -27.011297
         ]
@@ -1160,5 +1118,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719279002.657757"
+  "extracted": "1719279600.30302"
 }
