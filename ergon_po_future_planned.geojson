@@ -406,6 +406,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.135084,
+          -22.912582
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7404",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "10:19AM 25 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 25 Jun 2024",
+        "STREETS": "BRUCE HWY",
+        "SUBURBS": "KUNWARARA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.529946,
           -23.333348
         ]
@@ -5318,5 +5339,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1719274509.588408"
+  "extracted": "1719274800.408599"
 }
