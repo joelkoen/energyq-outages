@@ -134,9 +134,90 @@
         "STREETS": "ACCESS TO BINGEGANG WEIR RD, APIS CREEK RD, ARIZONA RD, BEDFORD WEIR RD, BINGEGANG RD, BLUFF JELLINBAH RD, CAPRICORN HWY, CLIFTON RD, COREEN RD, DINGO-MT FLORA RD, FAIRHILL RD, FITZROY DEVELOPMENT RD, FITZROY DEVELOPMENTAL RD, GRASSTREE RD, HILLS ACCESS RD, HONEYCOMB RD, JELLINBAH RD, JUNEE RD, KARRAMARRA RD, LAKE LINDSAY RD, LOCARNO RD, MACKENZIE RVR-CAP RD, MARLBOROUGH RD, MOUNT STUART RD, MT STUART RD, MT STUART-BFD WEIR RD, OFF APIS CREEK RD, OFF CAPRICORN HWY, OFF MARLB-SARINA RD, OFF MT FLORA BEEF RD, OFF WEIR RD, OFF YARRABEE RD, PALMALMAL RD, RILEY'S CROSSING RD, ROYLES RD, SCRUB CREEK RD, SCRUBBEE RD, SMITH RD, STERLING RD, TARTRUS RD, WEIR RD, WILLIAMSON RD, WILLIES CREEK RD, WILPEENA RD, YARRABEE RD",
         "SUBURBS": "BINGEGANG, BLACKWATER, BLUFF, CAPELLA, DINGO, DUARINGA, GOGANGO, JELLINBAH, MACKENZIE RIVER, MARLBOROUGH, MIDDLEMOUNT"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.245713,
+              -15.477135
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.240044,
+                  -15.479141
+                ],
+                [
+                  145.24339,
+                  -15.479515
+                ],
+                [
+                  145.243653,
+                  -15.479469
+                ],
+                [
+                  145.251545,
+                  -15.475609
+                ],
+                [
+                  145.251784,
+                  -15.475086
+                ],
+                [
+                  145.251303,
+                  -15.474755
+                ],
+                [
+                  145.243377,
+                  -15.475291
+                ],
+                [
+                  145.243143,
+                  -15.475371
+                ],
+                [
+                  145.240022,
+                  -15.477475
+                ],
+                [
+                  145.239833,
+                  -15.477749
+                ],
+                [
+                  145.239642,
+                  -15.478595
+                ],
+                [
+                  145.240044,
+                  -15.479141
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7797",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "29",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews on route",
+        "START": "4:48AM 26 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CHARLOTTE ST, JOHN ST, MASON ST, MCIVOR RD",
+        "SUBURBS": "COOKTOWN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719343200.599147"
+  "extracted": "1719343501.895251"
 }
