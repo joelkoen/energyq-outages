@@ -133,6 +133,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          150.808666,
+          -23.234511
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7069",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "164",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:52AM 26 Jun 2024",
+        "EST_FIX_TIME": "9:00AM 26 Jun 2024",
+        "STREETS": "ALBEMARLE ST, FISHERMANS LANE, GOLDING ST, HAVEN RD, HAWKE ST, KINKA BEACH RD, LIVISTONIA CRES, MARINE PDE, NELSON ST, PARADISE WAY, RITAMADA RD, SCENIC HWY, SHORT ST, TALDORA PL, TANBY POINT CL, TIMANDRA CT, TIMARU PL, WHITE HAVEN CT",
+        "SUBURBS": "EMU PARK, YEPPOON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           150.456894,
           -23.440768
         ]
@@ -294,6 +315,27 @@
         "EST_FIX_TIME": "2:30PM 28 Jun 2024",
         "STREETS": "LIMERICK LANE",
         "SUBURBS": "MOUNT MORGAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.822084,
+          -23.240278
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA7726",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "144",
+        "REASON": "The loss of supply is to allow maintenance of the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:52AM 26 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 26 Jun 2024",
+        "STREETS": "ALBEMARLE ST, FISHERMANS LANE, GOLDING ST, HAVEN RD, LIVISTONIA CRES, MARINE PDE, PARADISE WAY, TALDORA PL, TANBY POINT CL, TIMANDRA CT, TIMARU PL, WHITE HAVEN CT",
+        "SUBURBS": "EMU PARK"
       }
     },
     {
@@ -3932,5 +3974,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1719355800.440028"
+  "extracted": "1719356100.515908"
 }
