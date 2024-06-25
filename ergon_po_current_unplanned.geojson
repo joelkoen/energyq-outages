@@ -127,6 +127,115 @@
           {
             "type": "Point",
             "coordinates": [
+              145.369777,
+              -16.377181
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.34904,
+                  -16.364949
+                ],
+                [
+                  145.350588,
+                  -16.369279
+                ],
+                [
+                  145.350591,
+                  -16.369289
+                ],
+                [
+                  145.356078,
+                  -16.383564
+                ],
+                [
+                  145.356135,
+                  -16.383668
+                ],
+                [
+                  145.361457,
+                  -16.390914
+                ],
+                [
+                  145.361606,
+                  -16.391045
+                ],
+                [
+                  145.378233,
+                  -16.400276
+                ],
+                [
+                  145.378462,
+                  -16.400336
+                ],
+                [
+                  145.380467,
+                  -16.400352
+                ],
+                [
+                  145.380926,
+                  -16.400006
+                ],
+                [
+                  145.390503,
+                  -16.36157
+                ],
+                [
+                  145.390514,
+                  -16.361426
+                ],
+                [
+                  145.389909,
+                  -16.35442
+                ],
+                [
+                  145.389381,
+                  -16.35401
+                ],
+                [
+                  145.357286,
+                  -16.358129
+                ],
+                [
+                  145.357051,
+                  -16.358228
+                ],
+                [
+                  145.349186,
+                  -16.364452
+                ],
+                [
+                  145.34904,
+                  -16.364949
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7796",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "134",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "12:34AM 26 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ASSMAN RD, BAMBOO CREEK RD, DAINTREE RD, DAVIDSON RD, DEAN RD, ELIZABETH CL, KAHANA RD, KINGSTON RD, MIALLO BAMBOO CREEK RD, MIALLO BAMBOO RD, MIALLO RD, RUTHERFORD RD, TATI RD, WHYANBEEL RD",
+        "SUBURBS": "BAMBOO, MIALLO, WHYANBEEL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               149.16662,
               -21.179108
             ]
@@ -304,5 +413,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719327000.356624"
+  "extracted": "1719327301.443089"
 }
