@@ -10,6 +10,95 @@
           {
             "type": "Point",
             "coordinates": [
+              149.165706,
+              -21.178689
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.153427,
+                  -21.175035
+                ],
+                [
+                  149.160833,
+                  -21.182836
+                ],
+                [
+                  149.161183,
+                  -21.182987
+                ],
+                [
+                  149.166744,
+                  -21.183093
+                ],
+                [
+                  149.166958,
+                  -21.183051
+                ],
+                [
+                  149.177707,
+                  -21.178346
+                ],
+                [
+                  149.177984,
+                  -21.177906
+                ],
+                [
+                  149.177647,
+                  -21.177505
+                ],
+                [
+                  149.168676,
+                  -21.174881
+                ],
+                [
+                  149.168583,
+                  -21.174863
+                ],
+                [
+                  149.167752,
+                  -21.174781
+                ],
+                [
+                  149.167719,
+                  -21.174778
+                ],
+                [
+                  149.153805,
+                  -21.174284
+                ],
+                [
+                  149.153427,
+                  -21.175035
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK5356",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "79",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:10PM 25 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BOUNDARY RD, COMMERCIAL AVE, FORMATION ST, LEN SHIELD ST, MICHELMORE ST, PROGRESS DR, SUCCESS ST",
+        "SUBURBS": "MACKAY, OORALEA, PAGET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.736427,
               -19.301949
             ]
@@ -106,5 +195,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719317401.244235"
+  "extracted": "1719317702.709191"
 }
