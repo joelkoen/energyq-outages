@@ -70,9 +70,86 @@
         "STREETS": "BUCHAN ST, HARTLEY ST",
         "SUBURBS": "BUNGALOW, PORTSMITH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.25067,
+              -27.647778
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.180081,
+                  -27.657539
+                ],
+                [
+                  151.200001,
+                  -27.671725
+                ],
+                [
+                  151.200268,
+                  -27.671821
+                ],
+                [
+                  151.301056,
+                  -27.680633
+                ],
+                [
+                  151.301594,
+                  -27.680303
+                ],
+                [
+                  151.321258,
+                  -27.615482
+                ],
+                [
+                  151.320672,
+                  -27.614922
+                ],
+                [
+                  151.249772,
+                  -27.627297
+                ],
+                [
+                  151.249651,
+                  -27.627332
+                ],
+                [
+                  151.18018,
+                  -27.65678
+                ],
+                [
+                  151.180081,
+                  -27.657539
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10572",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "32",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 26 Jun 2024",
+        "EST_FIX_TIME": "11:00AM 26 Jun 2024",
+        "STREETS": "BRANCH VIEW RD, HORNICK RD, KURRAWAH RD, LADNER RD, MCKEEVER RD, MERSON RD, MILLMERRAN CECIL PLAINS RD, OLD CECIL PLAINS RD, PAMPAS HORRANE RD, PAMPAS-HORRANE RD",
+        "SUBURBS": "BROOKSTEAD, CECIL PLAINS, MILLMERRAN, PAMPAS"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719356100.515908"
+  "extracted": "1719356405.50966"
 }
