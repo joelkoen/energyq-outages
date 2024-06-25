@@ -95,6 +95,123 @@
           {
             "type": "Point",
             "coordinates": [
+              146.737425,
+              -19.301964
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.734526,
+                  -19.302874
+                ],
+                [
+                  146.735415,
+                  -19.304224
+                ],
+                [
+                  146.735622,
+                  -19.304395
+                ],
+                [
+                  146.736991,
+                  -19.304985
+                ],
+                [
+                  146.737196,
+                  -19.305025
+                ],
+                [
+                  146.739125,
+                  -19.304995
+                ],
+                [
+                  146.739367,
+                  -19.304928
+                ],
+                [
+                  146.739939,
+                  -19.304592
+                ],
+                [
+                  146.740155,
+                  -19.304301
+                ],
+                [
+                  146.740289,
+                  -19.303698
+                ],
+                [
+                  146.740296,
+                  -19.303655
+                ],
+                [
+                  146.740354,
+                  -19.303169
+                ],
+                [
+                  146.740357,
+                  -19.303106
+                ],
+                [
+                  146.74031,
+                  -19.301493
+                ],
+                [
+                  146.740156,
+                  -19.301173
+                ],
+                [
+                  146.737778,
+                  -19.299098
+                ],
+                [
+                  146.737494,
+                  -19.29898
+                ],
+                [
+                  146.736484,
+                  -19.298903
+                ],
+                [
+                  146.73601,
+                  -19.299172
+                ],
+                [
+                  146.734493,
+                  -19.302452
+                ],
+                [
+                  146.734526,
+                  -19.302874
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ10172",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "211",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "2:04PM 25 Jun 2024",
+        "EST_FIX_TIME": "6:00PM 25 Jun 2024",
+        "STREETS": "BAMFORD LANE, BERKELEY CT, BIRRAHLEE CRES, BROOKHURST AVE, CHARLES ST, EMERALD ST, FULLERTON CT, GARDEN GROVE CRES, HUNTINGTON CT, KENTUCKY CT, LA PALMA CT, LINCOLN ST, REID CT, ROSECRANS AVE, THURINGOWA DR, VILLA CT",
+        "SUBURBS": "KIRWAN, THURINGOWA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               143.661007,
               -28.138812
             ]
@@ -248,5 +365,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719288300.354275"
+  "extracted": "1719288600.798666"
 }
