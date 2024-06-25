@@ -10,6 +10,91 @@
           {
             "type": "Point",
             "coordinates": [
+              147.400161,
+              -19.58337
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.398391,
+                  -19.582895
+                ],
+                [
+                  147.398416,
+                  -19.584381
+                ],
+                [
+                  147.398887,
+                  -19.584826
+                ],
+                [
+                  147.401177,
+                  -19.584853
+                ],
+                [
+                  147.401601,
+                  -19.584618
+                ],
+                [
+                  147.401931,
+                  -19.584049
+                ],
+                [
+                  147.401837,
+                  -19.583501
+                ],
+                [
+                  147.400321,
+                  -19.582164
+                ],
+                [
+                  147.400258,
+                  -19.582117
+                ],
+                [
+                  147.399887,
+                  -19.581886
+                ],
+                [
+                  147.399313,
+                  -19.581923
+                ],
+                [
+                  147.398555,
+                  -19.582546
+                ],
+                [
+                  147.398391,
+                  -19.582895
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ10190",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "3:31PM 25 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "KENNEDY ST, MACMILLAN ST, QUEEN ST, WICKHAM ST",
+        "SUBURBS": "AYR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.29522,
               -27.349266
             ]
@@ -90,5 +175,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719293401.092169"
+  "extracted": "1719293700.364354"
 }
