@@ -476,7 +476,7 @@
       "properties": {
         "EVENT_ID": "24NQ9378",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "34",
+        "CUSTOMERS_AFFECTED": "33",
         "REASON": "The loss of supply is to replace power poles and improve the electricity network",
         "STATUS": "Crews working on-site",
         "START": "8:30AM 27 Jun 2024",
@@ -616,6 +616,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.505531,
+          -28.066899
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9274",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "212",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:02AM 27 Jun 2024",
+        "EST_FIX_TIME": "2:30PM 27 Jun 2024",
+        "STREETS": "BENSON RD, BONNIE DOON RD, CANNING ST, DALMERE RD, DENNISON PARK RD, DONALD ST, DONOVAN RD, DOVE ST, DRAYTON ST, FOGARTYS CROSSING RD, GILLANDER RD, HARTLEY CL, KARARA RD, LEYBURN FORESTRY RD, LEYBURN-CUNNINGHAM RD, LILLY RD, MACINTYRE ST, MACINTYRE ST S, MAJOR ST, MILLMERRAN LEYBURN RD, MILLMERRAN RD, MORIARTY RD, OLD KARARA RD, OWENS SCRUB RD, PERCEVAL ST, PETER ST, SOUTH ST, SPIERS CREEK RD, STONEHENGE RD, STRATHYRE RD, TALGAI ST, TOOWOOMBA-KARARA RD, TUMMAVILLE RD, WARWICK ST",
+        "SUBURBS": "KARARA, LEYBURN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.504817,
           -27.248937
         ]
@@ -672,6 +693,27 @@
         "EST_FIX_TIME": "2:30PM 27 Jun 2024",
         "STREETS": "ROBERTSON ST",
         "SUBURBS": "ROMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.193532,
+          -26.250752
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9612",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "28",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 27 Jun 2024",
+        "EST_FIX_TIME": "3:00PM 27 Jun 2024",
+        "STREETS": "AMBY NORTH RD, CORNWALL RD, EASTERN CREEK RD, FORESTVALE RD, MITCHELL FOREST VALE RD, UNKNOWN RD, WAROONGA TOOLOOMBILLA RD, WARRONG RD",
+        "SUBURBS": "AMBY, FORESTVALE, MITCHELL, WALHALLOW"
       }
     },
     {
@@ -866,5 +908,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719442804.452249"
+  "extracted": "1719443400.385772"
 }
