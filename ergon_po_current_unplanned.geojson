@@ -62,9 +62,110 @@
         "STREETS": "STRATFORD STATION, WARRIGAL STATION",
         "SUBURBS": "MOUNT COOLON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.283099,
+              -24.720655
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.280887,
+                  -24.721767
+                ],
+                [
+                  152.282264,
+                  -24.723073
+                ],
+                [
+                  152.282682,
+                  -24.723207
+                ],
+                [
+                  152.284,
+                  -24.723053
+                ],
+                [
+                  152.284251,
+                  -24.722954
+                ],
+                [
+                  152.285418,
+                  -24.722072
+                ],
+                [
+                  152.285498,
+                  -24.721455
+                ],
+                [
+                  152.285395,
+                  -24.721329
+                ],
+                [
+                  152.285378,
+                  -24.72131
+                ],
+                [
+                  152.283138,
+                  -24.718866
+                ],
+                [
+                  152.283026,
+                  -24.718777
+                ],
+                [
+                  152.281878,
+                  -24.718102
+                ],
+                [
+                  152.281281,
+                  -24.718146
+                ],
+                [
+                  152.280863,
+                  -24.718491
+                ],
+                [
+                  152.2807,
+                  -24.718833
+                ],
+                [
+                  152.280749,
+                  -24.721463
+                ],
+                [
+                  152.280887,
+                  -24.721767
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6906",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "70",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:12AM 27 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "EVANS LANE, EVANS RD, KINDT ST, LAGOON DR, LASSIG ST, MOORE PARK RD, OHLAF ST",
+        "SUBURBS": "MOORE PARK BEACH"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719435900.400431"
+  "extracted": "1719436200.457916"
 }
