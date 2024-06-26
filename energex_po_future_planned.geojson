@@ -1507,32 +1507,11 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "69",
         "REASON": "Planned Maintenance",
-        "STATUS": "In Progress",
+        "STATUS": "Completed",
         "START": "8:00AM 26 Jun 2024",
         "EST_FIX_TIME": "3:30PM 26 Jun 2024",
         "STREETS": "BULOW LANE, HAMILTONS LANE, LINKES LANE, MT BEPPO RD, OLD MT BEPPO RD, OSTROFSKIS RD, SILVERLEAVES RD, TETZLAFFS LANE, WOLFFS LANE",
         "SUBURBS": "CRESSBROOK, MOUNT BEPPO, OTTABA, TOOGOOLAWAH"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.954915,
-          -27.335493
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-763849-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "21",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
-        "START": "8:00AM 28 Jun 2024",
-        "EST_FIX_TIME": "3:00PM 28 Jun 2024",
-        "STREETS": "AVANDEL CT, MARYLIN TCE, QUEEN ELIZABETH DR",
-        "SUBURBS": "EATONS HILL"
       }
     },
     {
@@ -1552,6 +1531,27 @@
         "STATUS": "Scheduled",
         "START": "8:00AM 28 Jun 2024",
         "EST_FIX_TIME": "9:00AM 28 Jun 2024",
+        "STREETS": "AVANDEL CT, MARYLIN TCE, QUEEN ELIZABETH DR",
+        "SUBURBS": "EATONS HILL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.954915,
+          -27.335493
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-763849-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "21",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 28 Jun 2024",
+        "EST_FIX_TIME": "3:00PM 28 Jun 2024",
         "STREETS": "AVANDEL CT, MARYLIN TCE, QUEEN ELIZABETH DR",
         "SUBURBS": "EATONS HILL"
       }
@@ -2315,5 +2315,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1719371124.698386"
+  "extracted": "1719371401.586845"
 }
