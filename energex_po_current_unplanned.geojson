@@ -94,9 +94,138 @@
         "STREETS": "ALBERT ST, BURGESS ST, ERNEST ST, ESPLANADE HEADLAND, KING ST, KINGS BEACH ESP, MARGARET ST, PRINCESS LANE, VICTORIA TCE",
         "SUBURBS": "KINGS BEACH, SHELLY BEACH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.47111,
+              -28.123535
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.469267,
+                  -28.124334
+                ],
+                [
+                  153.469633,
+                  -28.124796
+                ],
+                [
+                  153.47001,
+                  -28.124986
+                ],
+                [
+                  153.471835,
+                  -28.125112
+                ],
+                [
+                  153.471942,
+                  -28.125109
+                ],
+                [
+                  153.472081,
+                  -28.125093
+                ],
+                [
+                  153.472406,
+                  -28.124933
+                ],
+                [
+                  153.472857,
+                  -28.124451
+                ],
+                [
+                  153.472971,
+                  -28.124209
+                ],
+                [
+                  153.473029,
+                  -28.123714
+                ],
+                [
+                  153.472989,
+                  -28.123488
+                ],
+                [
+                  153.472769,
+                  -28.123038
+                ],
+                [
+                  153.472757,
+                  -28.123015
+                ],
+                [
+                  153.472297,
+                  -28.122205
+                ],
+                [
+                  153.471787,
+                  -28.121959
+                ],
+                [
+                  153.470552,
+                  -28.122079
+                ],
+                [
+                  153.47041,
+                  -28.122093
+                ],
+                [
+                  153.470192,
+                  -28.122161
+                ],
+                [
+                  153.469814,
+                  -28.122376
+                ],
+                [
+                  153.469597,
+                  -28.122635
+                ],
+                [
+                  153.469338,
+                  -28.123465
+                ],
+                [
+                  153.469337,
+                  -28.12347
+                ],
+                [
+                  153.469191,
+                  -28.123959
+                ],
+                [
+                  153.469267,
+                  -28.124334
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-767621-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "112",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "1:49AM 27 Jun 2024",
+        "EST_FIX_TIME": "3:30AM 27 Jun 2024",
+        "STREETS": "CYPRESS TCE, FIFTH AVE, FOURTH AVE, PHILIPPINE PDE, THIRD AVE",
+        "SUBURBS": "PALM BEACH"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1719417301.853833"
+  "extracted": "1719417603.330719"
 }
