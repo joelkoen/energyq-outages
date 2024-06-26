@@ -1,8 +1,102 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.12986,
+              -26.685107
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.126634,
+                  -26.687028
+                ],
+                [
+                  153.132227,
+                  -26.685192
+                ],
+                [
+                  153.132382,
+                  -26.68511
+                ],
+                [
+                  153.133228,
+                  -26.684455
+                ],
+                [
+                  153.133311,
+                  -26.684374
+                ],
+                [
+                  153.133694,
+                  -26.683887
+                ],
+                [
+                  153.1337,
+                  -26.683374
+                ],
+                [
+                  153.133169,
+                  -26.683187
+                ],
+                [
+                  153.132388,
+                  -26.683351
+                ],
+                [
+                  153.132386,
+                  -26.683351
+                ],
+                [
+                  153.129682,
+                  -26.68393
+                ],
+                [
+                  153.129498,
+                  -26.684007
+                ],
+                [
+                  153.126161,
+                  -26.686242
+                ],
+                [
+                  153.126019,
+                  -26.686818
+                ],
+                [
+                  153.126634,
+                  -26.687028
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-767541-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "1:22PM 26 Jun 2024",
+        "EST_FIX_TIME": "4:00PM 26 Jun 2024",
+        "STREETS": "PARKYN PDE, URUNGA ESP",
+        "SUBURBS": "MOOLOOLABA"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1719372000.459635"
+  "extracted": "1719372300.336196"
 }
