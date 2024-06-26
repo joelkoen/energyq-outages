@@ -155,9 +155,110 @@
         "STREETS": "STRATFORD STATION, WARRIGAL STATION",
         "SUBURBS": "MOUNT COOLON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.843371,
+              -25.285758
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.841693,
+                  -25.287343
+                ],
+                [
+                  152.842645,
+                  -25.287869
+                ],
+                [
+                  152.843243,
+                  -25.28781
+                ],
+                [
+                  152.845219,
+                  -25.286097
+                ],
+                [
+                  152.845287,
+                  -25.285519
+                ],
+                [
+                  152.844,
+                  -25.283798
+                ],
+                [
+                  152.843373,
+                  -25.283647
+                ],
+                [
+                  152.842063,
+                  -25.28423
+                ],
+                [
+                  152.841808,
+                  -25.284502
+                ],
+                [
+                  152.841724,
+                  -25.284751
+                ],
+                [
+                  152.841718,
+                  -25.284772
+                ],
+                [
+                  152.841512,
+                  -25.285506
+                ],
+                [
+                  152.841497,
+                  -25.285594
+                ],
+                [
+                  152.84147,
+                  -25.286071
+                ],
+                [
+                  152.84147,
+                  -25.286087
+                ],
+                [
+                  152.841456,
+                  -25.286952
+                ],
+                [
+                  152.841693,
+                  -25.287343
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6901",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "105",
+        "REASON": "The loss of supply is due to damage caused by accidental contact with powerlines by a third party. ",
+        "STATUS": "Outage reported",
+        "START": "10:09PM 26 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ANDREW ST, CLARKE ST, TAYLOR ST, TOM ST, TORQUAY RD",
+        "SUBURBS": "PIALBA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719408000.421514"
+  "extracted": "1719408301.407896"
 }
