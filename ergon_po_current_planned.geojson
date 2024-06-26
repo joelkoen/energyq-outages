@@ -206,7 +206,7 @@
         "CUSTOMERS_AFFECTED": "21",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 27 Jun 2024",
+        "START": "8:33AM 27 Jun 2024",
         "EST_FIX_TIME": "2:30PM 27 Jun 2024",
         "STREETS": "AERODROME RD, BRUCE HWY, OLD BRUCE HWY, OLD TULLY RD, RAMSAY RD",
         "SUBURBS": "TULLY"
@@ -227,7 +227,7 @@
         "CUSTOMERS_AFFECTED": "165",
         "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
         "STATUS": "Crews working on-site",
-        "START": "8:30AM 27 Jun 2024",
+        "START": "8:33AM 27 Jun 2024",
         "EST_FIX_TIME": "2:30PM 27 Jun 2024",
         "STREETS": "BARTLE FRERE RD, BIGGS RD, BRUCE HWY, CONNAUGHTON RD, EMSON RD, JOYCE RD, KNUST RD, MENZIES RD, PRICE RD, ROGERS RD, THIELE RD, WATSON RD, WOOPEN CREEK RD",
         "SUBURBS": "BARTLE FRERE, WOOPEN CREEK"
@@ -322,6 +322,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          145.746228,
+          -16.958912
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7450",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:33AM 27 Jun 2024",
+        "EST_FIX_TIME": "12:30PM 27 Jun 2024",
+        "STREETS": "BRUCE HWY",
+        "SUBURBS": "WOREE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.92498,
           -21.156363
         ]
@@ -336,6 +357,27 @@
         "EST_FIX_TIME": "3:00PM 27 Jun 2024",
         "STREETS": "MARKEYS RD, PEACHS RD",
         "SUBURBS": "MARIAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.463276,
+          -20.472781
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK4683",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "43",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 27 Jun 2024",
+        "EST_FIX_TIME": "3:00PM 27 Jun 2024",
+        "STREETS": "COOPER RD, EMMERSON RD, KELSEY CREEK RD, KURKOWSKI RD, SILVER CREEK RD",
+        "SUBURBS": "GOORGANGA, GOORGANGA CREEK, KELSEY CREEK, SILVER CREEK"
       }
     },
     {
@@ -803,5 +845,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719441002.027323"
+  "extracted": "1719441300.630431"
 }
