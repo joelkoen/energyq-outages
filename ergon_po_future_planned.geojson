@@ -457,7 +457,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "5",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 27 Jun 2024",
         "EST_FIX_TIME": "2:00PM 27 Jun 2024",
         "STREETS": "KENNEDY HWY, PLATH RD",
@@ -2044,6 +2044,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.504817,
+          -27.248937
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW9487",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "29",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:24AM 27 Jun 2024",
+        "EST_FIX_TIME": "3:00PM 27 Jun 2024",
+        "STREETS": "BOWENVILLE MOOLA RD, BOWENVILLE-BLAXLAND RD, BOWENVILLE-IRVINGDALE RD, BRYMAROO IRVINGDALE RD, IRVINGDALE POST OFFICE RD, IRVINGDALE RD, IRVINGDALE SOUTH RD, IRVINGDALE-BLAXLAND RD, IRVINGDALE-BOWENVILLE RD, MIRTSCHINS RD, TATES RD, WARREGO HWY",
+        "SUBURBS": "BOWENVILLE, IRVINGDALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.93328,
           -27.583917
         ]
@@ -2693,5 +2714,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1719441600.430433"
+  "extracted": "1719441915.074532"
 }
