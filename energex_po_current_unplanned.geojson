@@ -1,8 +1,106 @@
 {
   "type": "FeatureCollection",
   "name": "UNPLANNED",
-  "features": [],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.116381,
+              -26.686285
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.115261,
+                  -26.686414
+                ],
+                [
+                  153.116281,
+                  -26.687366
+                ],
+                [
+                  153.116936,
+                  -26.68742
+                ],
+                [
+                  153.117054,
+                  -26.687344
+                ],
+                [
+                  153.117299,
+                  -26.687187
+                ],
+                [
+                  153.117422,
+                  -26.687108
+                ],
+                [
+                  153.117575,
+                  -26.687009
+                ],
+                [
+                  153.117631,
+                  -26.686317
+                ],
+                [
+                  153.116399,
+                  -26.685252
+                ],
+                [
+                  153.115888,
+                  -26.685151
+                ],
+                [
+                  153.115698,
+                  -26.685209
+                ],
+                [
+                  153.115492,
+                  -26.685329
+                ],
+                [
+                  153.115322,
+                  -26.685494
+                ],
+                [
+                  153.115199,
+                  -26.685711
+                ],
+                [
+                  153.11513,
+                  -26.68601
+                ],
+                [
+                  153.115261,
+                  -26.686414
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-767513-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "62",
+        "REASON": "Damage to our equipment",
+        "STATUS": "Awaiting",
+        "START": "11:35AM 26 Jun 2024",
+        "EST_FIX_TIME": "2:00PM 26 Jun 2024",
+        "STREETS": "BINDAREE CRES, BRISBANE RD, KYAMBA CT",
+        "SUBURBS": "MOOLOOLABA"
+      }
+    }
+  ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1719365700.689281"
+  "extracted": "1719366001.461541"
 }
