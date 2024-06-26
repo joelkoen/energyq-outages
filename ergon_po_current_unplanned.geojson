@@ -10,6 +10,99 @@
           {
             "type": "Point",
             "coordinates": [
+              151.155082,
+              -24.877093
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.142737,
+                  -24.888194
+                ],
+                [
+                  151.159877,
+                  -24.896023
+                ],
+                [
+                  151.160234,
+                  -24.896053
+                ],
+                [
+                  151.16507,
+                  -24.894786
+                ],
+                [
+                  151.165427,
+                  -24.894379
+                ],
+                [
+                  151.167675,
+                  -24.858608
+                ],
+                [
+                  151.167148,
+                  -24.858132
+                ],
+                [
+                  151.161781,
+                  -24.858466
+                ],
+                [
+                  151.161416,
+                  -24.858651
+                ],
+                [
+                  151.14946,
+                  -24.873617
+                ],
+                [
+                  151.149453,
+                  -24.873625
+                ],
+                [
+                  151.145815,
+                  -24.878403
+                ],
+                [
+                  151.145752,
+                  -24.87852
+                ],
+                [
+                  151.142489,
+                  -24.887651
+                ],
+                [
+                  151.142737,
+                  -24.888194
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8580",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:13AM 27 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BAZLEYS RD, LANGS RD, LUTHJE RD, MAHOON CREEK RD, STANLEY RD",
+        "SUBURBS": "MONTO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               147.241836,
               -21.5522
             ]
@@ -62,110 +155,9 @@
         "STREETS": "STRATFORD STATION, WARRIGAL STATION",
         "SUBURBS": "MOUNT COOLON"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              152.843371,
-              -25.285758
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.841693,
-                  -25.287343
-                ],
-                [
-                  152.842645,
-                  -25.287869
-                ],
-                [
-                  152.843243,
-                  -25.28781
-                ],
-                [
-                  152.845219,
-                  -25.286097
-                ],
-                [
-                  152.845287,
-                  -25.285519
-                ],
-                [
-                  152.844,
-                  -25.283798
-                ],
-                [
-                  152.843373,
-                  -25.283647
-                ],
-                [
-                  152.842063,
-                  -25.28423
-                ],
-                [
-                  152.841808,
-                  -25.284502
-                ],
-                [
-                  152.841724,
-                  -25.284751
-                ],
-                [
-                  152.841718,
-                  -25.284772
-                ],
-                [
-                  152.841512,
-                  -25.285506
-                ],
-                [
-                  152.841497,
-                  -25.285594
-                ],
-                [
-                  152.84147,
-                  -25.286071
-                ],
-                [
-                  152.84147,
-                  -25.286087
-                ],
-                [
-                  152.841456,
-                  -25.286952
-                ],
-                [
-                  152.841693,
-                  -25.287343
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24WB6901",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "105",
-        "REASON": "The loss of supply is due to damage caused by accidental contact with powerlines by a third party. ",
-        "STATUS": "Crews working on-site",
-        "START": "10:09PM 26 Jun 2024",
-        "EST_FIX_TIME": "7:00AM 27 Jun 2024",
-        "STREETS": "ANDREW ST, CLARKE ST, TAYLOR ST, TOM ST, TORQUAY RD",
-        "SUBURBS": "PIALBA"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719433501.96751"
+  "extracted": "1719433801.439825"
 }
