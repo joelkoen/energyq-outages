@@ -1519,27 +1519,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.95571,
-          -27.334978
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-763849-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "21",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
-        "START": "8:00AM 28 Jun 2024",
-        "EST_FIX_TIME": "9:00AM 28 Jun 2024",
-        "STREETS": "AVANDEL CT, MARYLIN TCE, QUEEN ELIZABETH DR",
-        "SUBURBS": "EATONS HILL"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           152.954915,
           -27.335493
         ]
@@ -1552,6 +1531,27 @@
         "STATUS": "Scheduled",
         "START": "8:00AM 28 Jun 2024",
         "EST_FIX_TIME": "3:00PM 28 Jun 2024",
+        "STREETS": "AVANDEL CT, MARYLIN TCE, QUEEN ELIZABETH DR",
+        "SUBURBS": "EATONS HILL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.95571,
+          -27.334978
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-763849-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "21",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 28 Jun 2024",
+        "EST_FIX_TIME": "9:00AM 28 Jun 2024",
         "STREETS": "AVANDEL CT, MARYLIN TCE, QUEEN ELIZABETH DR",
         "SUBURBS": "EATONS HILL"
       }
@@ -2315,5 +2315,5 @@
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1719363301.311339"
+  "extracted": "1719363601.690522"
 }
