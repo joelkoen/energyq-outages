@@ -62,9 +62,114 @@
         "STREETS": "STRATFORD STATION, WARRIGAL STATION",
         "SUBURBS": "MOUNT COOLON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              141.769258,
+              -20.659096
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  141.715467,
+                  -20.660815
+                ],
+                [
+                  141.721933,
+                  -20.66665
+                ],
+                [
+                  141.722255,
+                  -20.666775
+                ],
+                [
+                  141.74011,
+                  -20.66706
+                ],
+                [
+                  141.740194,
+                  -20.667054
+                ],
+                [
+                  141.822771,
+                  -20.654506
+                ],
+                [
+                  141.823172,
+                  -20.654034
+                ],
+                [
+                  141.822711,
+                  -20.653612
+                ],
+                [
+                  141.744238,
+                  -20.651132
+                ],
+                [
+                  141.744132,
+                  -20.65114
+                ],
+                [
+                  141.739353,
+                  -20.652001
+                ],
+                [
+                  141.739335,
+                  -20.652005
+                ],
+                [
+                  141.738909,
+                  -20.652099
+                ],
+                [
+                  141.738899,
+                  -20.652101
+                ],
+                [
+                  141.716596,
+                  -20.657466
+                ],
+                [
+                  141.716261,
+                  -20.65776
+                ],
+                [
+                  141.715344,
+                  -20.660348
+                ],
+                [
+                  141.715467,
+                  -20.660815
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ10259",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "157",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:20AM 27 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "AIRPORT RD, ALLISON ST, AMBERLY DR, BURKE ST, BYRNE ST, COYNE ST, FLINDERS HWY, GOLDRING ST, HICKMAN ST, HILTON PARK STATION, JULIA ST, KYNUNA RD, NETTERFIELD ST, OLD NORMANTON RD, QUARRELL ST, SHAW ST, SUNSET DR",
+        "SUBURBS": "JULIA CREEK"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719436806.305348"
+  "extracted": "1719437100.306639"
 }
