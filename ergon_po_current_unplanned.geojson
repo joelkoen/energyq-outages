@@ -148,6 +148,95 @@
           {
             "type": "Point",
             "coordinates": [
+              145.804016,
+              -17.906298
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.792785,
+                  -17.915551
+                ],
+                [
+                  145.808229,
+                  -17.908168
+                ],
+                [
+                  145.808297,
+                  -17.908129
+                ],
+                [
+                  145.813736,
+                  -17.904317
+                ],
+                [
+                  145.813852,
+                  -17.904199
+                ],
+                [
+                  145.815823,
+                  -17.90131
+                ],
+                [
+                  145.815846,
+                  -17.900853
+                ],
+                [
+                  145.815377,
+                  -17.899999
+                ],
+                [
+                  145.815311,
+                  -17.899908
+                ],
+                [
+                  145.812663,
+                  -17.897074
+                ],
+                [
+                  145.811988,
+                  -17.897046
+                ],
+                [
+                  145.792251,
+                  -17.914817
+                ],
+                [
+                  145.792187,
+                  -17.915405
+                ],
+                [
+                  145.792785,
+                  -17.915551
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24FN7815",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "10:35AM 26 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "DINGO POCKET RD, KINJUN RD",
+        "SUBURBS": "DINGO POCKET, TULLY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.738436,
               -19.246198
             ]
@@ -204,5 +293,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719366301.372338"
+  "extracted": "1719366600.471893"
 }
