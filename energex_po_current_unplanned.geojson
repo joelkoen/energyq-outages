@@ -78,7 +78,7 @@
         "REASON": "Under Investigation",
         "STATUS": "In Progress",
         "START": "4:18PM 26 Jun 2024",
-        "EST_FIX_TIME": "6:30PM 26 Jun 2024",
+        "EST_FIX_TIME": "7:00PM 26 Jun 2024",
         "STREETS": "ANDREW CAMPBELL DR, RICHARDS RD",
         "SUBURBS": "NARANGBA"
       }
@@ -155,9 +155,86 @@
         "STREETS": "NERANG-BROADBEACH RD, PAPPAS WAY, RECREATION DR",
         "SUBURBS": "CARRARA, NERANG"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.980131,
+              -27.205046
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.979422,
+                  -27.205837
+                ],
+                [
+                  152.980127,
+                  -27.206105
+                ],
+                [
+                  152.980807,
+                  -27.205824
+                ],
+                [
+                  152.981108,
+                  -27.204959
+                ],
+                [
+                  152.981084,
+                  -27.204634
+                ],
+                [
+                  152.980768,
+                  -27.204028
+                ],
+                [
+                  152.979877,
+                  -27.203986
+                ],
+                [
+                  152.979467,
+                  -27.204596
+                ],
+                [
+                  152.979434,
+                  -27.204653
+                ],
+                [
+                  152.979154,
+                  -27.205246
+                ],
+                [
+                  152.979422,
+                  -27.205837
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-767598-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:28PM 26 Jun 2024",
+        "EST_FIX_TIME": "9:00PM 26 Jun 2024",
+        "STREETS": "ANDREW CAMPBELL DR, RICHARDS RD",
+        "SUBURBS": "NARANGBA"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1719390301.752547"
+  "extracted": "1719390602.904473"
 }
