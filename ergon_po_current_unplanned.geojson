@@ -417,9 +417,150 @@
         "STREETS": "STRATFORD STATION, WARRIGAL STATION",
         "SUBURBS": "MOUNT COOLON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.743956,
+              -19.321247
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.733409,
+                  -19.326298
+                ],
+                [
+                  146.747165,
+                  -19.327111
+                ],
+                [
+                  146.747187,
+                  -19.327112
+                ],
+                [
+                  146.750553,
+                  -19.327163
+                ],
+                [
+                  146.750901,
+                  -19.327026
+                ],
+                [
+                  146.754951,
+                  -19.323088
+                ],
+                [
+                  146.754883,
+                  -19.322402
+                ],
+                [
+                  146.748472,
+                  -19.318142
+                ],
+                [
+                  146.748363,
+                  -19.318088
+                ],
+                [
+                  146.740885,
+                  -19.315482
+                ],
+                [
+                  146.740794,
+                  -19.315459
+                ],
+                [
+                  146.73994,
+                  -19.315332
+                ],
+                [
+                  146.739789,
+                  -19.315332
+                ],
+                [
+                  146.739609,
+                  -19.315361
+                ],
+                [
+                  146.739598,
+                  -19.315362
+                ],
+                [
+                  146.739262,
+                  -19.315423
+                ],
+                [
+                  146.739261,
+                  -19.315423
+                ],
+                [
+                  146.738627,
+                  -19.315539
+                ],
+                [
+                  146.738601,
+                  -19.315545
+                ],
+                [
+                  146.738099,
+                  -19.315664
+                ],
+                [
+                  146.737863,
+                  -19.315799
+                ],
+                [
+                  146.733346,
+                  -19.320524
+                ],
+                [
+                  146.733223,
+                  -19.320804
+                ],
+                [
+                  146.732963,
+                  -19.325701
+                ],
+                [
+                  146.732963,
+                  -19.325723
+                ],
+                [
+                  146.732962,
+                  -19.325846
+                ],
+                [
+                  146.733409,
+                  -19.326298
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ10254",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1072",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:36PM 26 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "ALSTONIA CT, ANGUS SMITH DR, ASHBURTON PL, AZURE CT, BARWIN CT, BLUE GUM PL, BOUNTY CT, BOXWOOD ST, BURSARIA CT, BUTTERFLY CRES, CARALLIA PL, COCKATOO CCT, COORABIN AVE, CORMORANT CT, DAMSON CT, ESTUARY PDE, FANTAIL CT, FINCH LANE, FRESHWATER DR, GARLAND RD, GIRRAWEEN AVE, HAVEN PL, HERMITAGE PL, HONEYEATER CCT, HORIZON DR, KITE ST, KLEWARRA BVD, KREFT CT, KWILA CRES, LEMONWOOD CT, LORD HOWE PROM, MOORHEN CT, MORETON ASH DR, NARWEE PL, NORFOLK PL, OUTLOOK CRES, PADDINGTON TCE, PARKINSON RD, RED ASH CT, RIBBONWOOD CT, RIVERBEND DR, RIVERGREEN CCT, RIVERSIDE BVD, SALWOOD CT, SHEOAK CRES, SILVER LEAF CT, SIRIS PL, ST KILDA ROW, TEAK PL, WAVERLEY LANE, WHITE BEECH CT, WINDARRA AVE",
+        "SUBURBS": "BURDELL, DOUGLAS"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719394500.500234"
+  "extracted": "1719394802.249631"
 }
