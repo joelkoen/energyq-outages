@@ -346,8 +346,8 @@
           {
             "type": "Point",
             "coordinates": [
-              145.334131,
-              -15.921077
+              145.334142,
+              -15.91216
             ]
           },
           {
@@ -355,36 +355,36 @@
             "coordinates": [
               [
                 [
-                  145.311917,
-                  -15.888661
+                  145.311939,
+                  -15.888703
                 ],
                 [
-                  145.338107,
-                  -15.945775
+                  145.340734,
+                  -15.936933
                 ],
                 [
-                  145.338154,
-                  -15.945855
+                  145.341494,
+                  -15.937
                 ],
                 [
-                  145.340317,
-                  -15.948782
+                  145.352452,
+                  -15.924512
                 ],
                 [
-                  145.340425,
-                  -15.948886
+                  145.352476,
+                  -15.924484
                 ],
                 [
-                  145.34901,
-                  -15.954833
+                  145.354345,
+                  -15.921969
                 ],
                 [
-                  145.349744,
-                  -15.954529
+                  145.354418,
+                  -15.921818
                 ],
                 [
-                  145.354746,
-                  -15.920577
+                  145.354736,
+                  -15.920626
                 ],
                 [
                   145.354747,
@@ -419,8 +419,8 @@
                   -15.888028
                 ],
                 [
-                  145.311917,
-                  -15.888661
+                  145.311939,
+                  -15.888703
                 ]
               ]
             ]
@@ -430,13 +430,13 @@
       "properties": {
         "EVENT_ID": "24FN7821",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "121",
+        "CUSTOMERS_AFFECTED": "109",
         "REASON": "The loss of supply is due to public safety concerns.",
         "STATUS": "Crews working on-site",
         "START": "12:19PM 26 Jun 2024",
         "EST_FIX_TIME": null,
-        "STREETS": "BANABILLA RD, BLOODWOOD RD, BLOOMFIELD RD, BLOOMFIELD RIVER RD, BLOOMFIELD RVR, BROADWAY ST, CAPE TRIBULATION BLOOMFIELD RD, CAPTAIN ST, DOWLING RD, EAST ST, EVERGREEN RD, FREEMAN RD, ROSSVILLE BLOOMFIELD RD, ROSSVILLE RD, SECOND ST, THIRD ST, WEARY BAY ESP, WEARY BAY RD, WEARY CREEK RD, WEST ST",
-        "SUBURBS": "AYTON, BLOOMFIELD, COOKTOWN, DEGARRA, ROSSVILLE"
+        "STREETS": "BLOODWOOD RD, BLOOMFIELD RD, BLOOMFIELD RIVER RD, BROADWAY ST, CAPTAIN ST, DOWLING RD, EAST ST, FREEMAN RD, ROSSVILLE BLOOMFIELD RD, ROSSVILLE RD, SECOND ST, THIRD ST, WEARY BAY ESP, WEARY BAY RD, WEARY CREEK RD, WEST ST",
+        "SUBURBS": "AYTON, BLOOMFIELD"
       }
     },
     {
@@ -531,70 +531,9 @@
         "STREETS": "MACKENZIES RD",
         "SUBURBS": "CALEN"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              146.738436,
-              -19.246198
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  146.739459,
-                  -19.245472
-                ],
-                [
-                  146.737169,
-                  -19.246051
-                ],
-                [
-                  146.736831,
-                  -19.246603
-                ],
-                [
-                  146.737413,
-                  -19.246924
-                ],
-                [
-                  146.739704,
-                  -19.246345
-                ],
-                [
-                  146.740041,
-                  -19.245793
-                ],
-                [
-                  146.739459,
-                  -19.245472
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24NQ10224",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "6",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
-        "START": "7:38AM 26 Jun 2024",
-        "EST_FIX_TIME": null,
-        "STREETS": "JAY ST, MATTHEW ST, TARYN ST",
-        "SUBURBS": "BOHLE, MOUNT ST JOHN"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719369003.627375"
+  "extracted": "1719369600.47356"
 }
