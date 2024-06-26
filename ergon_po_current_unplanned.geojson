@@ -592,9 +592,126 @@
         "STREETS": "STRATFORD STATION, WARRIGAL STATION",
         "SUBURBS": "MOUNT COOLON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.159714,
+              -18.743791
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.094771,
+                  -18.805504
+                ],
+                [
+                  146.098263,
+                  -18.833779
+                ],
+                [
+                  146.098881,
+                  -18.834156
+                ],
+                [
+                  146.224331,
+                  -18.795141
+                ],
+                [
+                  146.224658,
+                  -18.794697
+                ],
+                [
+                  146.221013,
+                  -18.685666
+                ],
+                [
+                  146.220995,
+                  -18.685558
+                ],
+                [
+                  146.218039,
+                  -18.67555
+                ],
+                [
+                  146.217985,
+                  -18.675433
+                ],
+                [
+                  146.205843,
+                  -18.656858
+                ],
+                [
+                  146.205675,
+                  -18.656704
+                ],
+                [
+                  146.199711,
+                  -18.653474
+                ],
+                [
+                  146.199373,
+                  -18.653426
+                ],
+                [
+                  146.151313,
+                  -18.663696
+                ],
+                [
+                  146.151075,
+                  -18.663823
+                ],
+                [
+                  146.124543,
+                  -18.690083
+                ],
+                [
+                  146.124425,
+                  -18.690286
+                ],
+                [
+                  146.118517,
+                  -18.712625
+                ],
+                [
+                  146.118516,
+                  -18.712629
+                ],
+                [
+                  146.094781,
+                  -18.805344
+                ],
+                [
+                  146.094771,
+                  -18.805504
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ10242",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "423",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "1:55PM 26 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BLACKROCK RD, BOARDS RD, BOSWORTHS RD, BROLGA ST, BRUCE HWY, CASANOVAS RD, CATTLE CREEK, COMO RD, CRISPS RD, DANGER CAMP RD, FLAGSTONE CREEK RD, FONTANAS RD, HAUGHTY'S RD, HELENS HILL RD, JABIRU ST, KIRKWOODS RD, LARSENS RD, LIONS LOOKOUT RD, MASTERS RD, MCAUSLAND RD, MCDONAGHS RD, MILTON RD, NEW CEMETARY RD, ORIENT RD, PAPPINS RD, PATTIS RD, PEEBLES ST, PELICAN ST, PENNAS RD, PERI ST, PINNACLE HILL RD, POMBEL RD, POMONA RD, ROBERTS RD, SCARRONE'S RD, SCOVAZZIS RD, TOKALON RD, TOOBANNA ST, TOWNSVILLE RD, WARRENS HILL RD",
+        "SUBURBS": "BLACKROCK, HELENS HILL, INGHAM, PALM CREEK, TOOBANNA, VICTORIA ESTATE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719374100.611734"
+  "extracted": "1719374403.806935"
 }
