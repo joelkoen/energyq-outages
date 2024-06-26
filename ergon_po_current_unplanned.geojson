@@ -10,6 +10,67 @@
           {
             "type": "Point",
             "coordinates": [
+              148.099981,
+              -23.569797
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.102449,
+                  -23.57538
+                ],
+                [
+                  148.098446,
+                  -23.563937
+                ],
+                [
+                  148.09783,
+                  -23.563645
+                ],
+                [
+                  148.097514,
+                  -23.564214
+                ],
+                [
+                  148.101517,
+                  -23.575658
+                ],
+                [
+                  148.102133,
+                  -23.575949
+                ],
+                [
+                  148.102449,
+                  -23.57538
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8588",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews on route",
+        "START": "6:50AM 27 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "SELMA RD",
+        "SUBURBS": "EMERALD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               147.241836,
               -21.5522
             ]
@@ -167,9 +228,110 @@
         "STREETS": "AIRPORT RD, ALLISON ST, AMBERLY DR, BURKE ST, BYRNE ST, CHURCH LANE, CHURCH ST, COYNE ST, FAIRWAY DR, FLINDERS HWY, GOLDRING ST, GOLF CLUB RD, HICKMAN ST, HILTON PARK STATION, HOSPITAL LANE, JULIA ST, KYNUNA RD, MATHEWS ST, MATTHEWS ST, NETTERFIELD ST, OLD NORMANTON RD, POWER HOUSE RES, QUARRELL ST, RAILWAY RES, SHAW ST, SUNSET DR",
         "SUBURBS": "JULIA CREEK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.853945,
+              -28.115788
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.83189,
+                  -28.12762
+                ],
+                [
+                  151.83297,
+                  -28.13427
+                ],
+                [
+                  151.83346,
+                  -28.134656
+                ],
+                [
+                  151.836947,
+                  -28.134737
+                ],
+                [
+                  151.837107,
+                  -28.134718
+                ],
+                [
+                  151.866003,
+                  -28.126954
+                ],
+                [
+                  151.86634,
+                  -28.12666
+                ],
+                [
+                  151.876002,
+                  -28.09987
+                ],
+                [
+                  151.87592,
+                  -28.099457
+                ],
+                [
+                  151.873766,
+                  -28.096992
+                ],
+                [
+                  151.873208,
+                  -28.09684
+                ],
+                [
+                  151.83413,
+                  -28.108104
+                ],
+                [
+                  151.833783,
+                  -28.108476
+                ],
+                [
+                  151.832999,
+                  -28.114064
+                ],
+                [
+                  151.832997,
+                  -28.114087
+                ],
+                [
+                  151.831887,
+                  -28.127523
+                ],
+                [
+                  151.83189,
+                  -28.12762
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24SW10670",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "30",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:20AM 27 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "BONY MOUNTAIN RD, DWAN LANE, MOUNTAIN RD, PRATTEN HENDON RD, TV REPEATER RD, UPPER WHEATVALE RD, YANKEE GULLY RD",
+        "SUBURBS": "BONY MOUNTAIN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719438301.704727"
+  "extracted": "1719438602.66172"
 }
