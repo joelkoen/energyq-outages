@@ -276,6 +276,95 @@
           {
             "type": "Point",
             "coordinates": [
+              149.0801,
+              -21.252386
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.056385,
+                  -21.250224
+                ],
+                [
+                  149.081205,
+                  -21.262975
+                ],
+                [
+                  149.081449,
+                  -21.26303
+                ],
+                [
+                  149.091079,
+                  -21.262787
+                ],
+                [
+                  149.091196,
+                  -21.262771
+                ],
+                [
+                  149.091329,
+                  -21.262736
+                ],
+                [
+                  149.091595,
+                  -21.262559
+                ],
+                [
+                  149.104062,
+                  -21.245734
+                ],
+                [
+                  149.103784,
+                  -21.245038
+                ],
+                [
+                  149.089917,
+                  -21.241742
+                ],
+                [
+                  149.089684,
+                  -21.241741
+                ],
+                [
+                  149.056502,
+                  -21.24939
+                ],
+                [
+                  149.056139,
+                  -21.24977
+                ],
+                [
+                  149.056385,
+                  -21.250224
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24MK5395",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "42",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "5:32PM 26 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CHELONA SANDIFORD RD, CLAUSENS RD, HOMEBUSH RD, WALKERSTON HOMEBUSH RD",
+        "SUBURBS": "CHELONA, HOMEBUSH, MACKAY, PALMYRA, SANDIFORD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               147.241836,
               -21.5522
             ]
@@ -457,5 +546,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719387602.295864"
+  "extracted": "1719387903.088334"
 }
