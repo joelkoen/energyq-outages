@@ -155,9 +155,70 @@
         "STREETS": "STRATFORD STATION, WARRIGAL STATION",
         "SUBURBS": "MOUNT COOLON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.794595,
+              -26.234178
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.795943,
+                  -26.234974
+                ],
+                [
+                  151.794028,
+                  -26.232819
+                ],
+                [
+                  151.793326,
+                  -26.23275
+                ],
+                [
+                  151.793248,
+                  -26.233383
+                ],
+                [
+                  151.795163,
+                  -26.235538
+                ],
+                [
+                  151.795865,
+                  -26.235607
+                ],
+                [
+                  151.795943,
+                  -26.234974
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6898",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "2:57PM 26 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "FLATS RD",
+        "SUBURBS": "CHELMSFORD"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719384001.351713"
+  "extracted": "1719384303.073184"
 }
