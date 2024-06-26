@@ -139,9 +139,70 @@
         "STREETS": "COMET ROLLESTON RD",
         "SUBURBS": "COMET"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.738436,
+              -19.246198
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.739459,
+                  -19.245472
+                ],
+                [
+                  146.737169,
+                  -19.246051
+                ],
+                [
+                  146.736831,
+                  -19.246603
+                ],
+                [
+                  146.737413,
+                  -19.246924
+                ],
+                [
+                  146.739704,
+                  -19.246345
+                ],
+                [
+                  146.740041,
+                  -19.245793
+                ],
+                [
+                  146.739459,
+                  -19.245472
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24NQ10224",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "7:38AM 26 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "JAY ST, MATTHEW ST, TARYN ST",
+        "SUBURBS": "BOHLE, MOUNT ST JOHN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719365404.980065"
+  "extracted": "1719365700.704892"
 }
