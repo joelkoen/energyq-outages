@@ -10,6 +10,91 @@
           {
             "type": "Point",
             "coordinates": [
+              147.673861,
+              -22.815641
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.671557,
+                  -22.815929
+                ],
+                [
+                  147.67335,
+                  -22.816221
+                ],
+                [
+                  147.673429,
+                  -22.816227
+                ],
+                [
+                  147.676079,
+                  -22.816253
+                ],
+                [
+                  147.676567,
+                  -22.815865
+                ],
+                [
+                  147.676215,
+                  -22.815366
+                ],
+                [
+                  147.67512,
+                  -22.815084
+                ],
+                [
+                  147.674999,
+                  -22.815068
+                ],
+                [
+                  147.672787,
+                  -22.815029
+                ],
+                [
+                  147.672776,
+                  -22.815029
+                ],
+                [
+                  147.67164,
+                  -22.815032
+                ],
+                [
+                  147.671156,
+                  -22.815445
+                ],
+                [
+                  147.671557,
+                  -22.815929
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24CA8577",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:36PM 26 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "CHEESEBOROUGH RD",
+        "SUBURBS": "CLERMONT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.770822,
               -20.895772
             ]
@@ -570,5 +655,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719400502.506205"
+  "extracted": "1719400800.48679"
 }
