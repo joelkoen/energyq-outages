@@ -167,9 +167,70 @@
         "STREETS": "AIRPORT RD, ALLISON ST, AMBERLY DR, BURKE ST, BYRNE ST, CHURCH LANE, CHURCH ST, COYNE ST, FAIRWAY DR, FLINDERS HWY, GOLDRING ST, GOLF CLUB RD, HICKMAN ST, HILTON PARK STATION, HOSPITAL LANE, JULIA ST, KYNUNA RD, MATHEWS ST, MATTHEWS ST, NETTERFIELD ST, OLD NORMANTON RD, POWER HOUSE RES, QUARRELL ST, RAILWAY RES, SHAW ST, SUNSET DR",
         "SUBURBS": "JULIA CREEK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.871396,
+              -26.772602
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.871768,
+                  -26.771606
+                ],
+                [
+                  151.870301,
+                  -26.772974
+                ],
+                [
+                  151.870314,
+                  -26.77361
+                ],
+                [
+                  151.871023,
+                  -26.773598
+                ],
+                [
+                  151.87249,
+                  -26.77223
+                ],
+                [
+                  151.872477,
+                  -26.771594
+                ],
+                [
+                  151.871768,
+                  -26.771606
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6910",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:09AM 27 Jun 2024",
+        "EST_FIX_TIME": null,
+        "STREETS": "RAYMOND RD",
+        "SUBURBS": "TARONG"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719440403.164251"
+  "extracted": "1719440701.388892"
 }
