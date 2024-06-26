@@ -151,9 +151,82 @@
         "STREETS": "ANDREW CAMPBELL DR, RICHARDS RD",
         "SUBURBS": "NARANGBA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.349035,
+              -28.000423
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.346865,
+                  -28.001727
+                ],
+                [
+                  153.347305,
+                  -28.001865
+                ],
+                [
+                  153.347479,
+                  -28.00189
+                ],
+                [
+                  153.351016,
+                  -28.00186
+                ],
+                [
+                  153.351491,
+                  -28.001559
+                ],
+                [
+                  153.351336,
+                  -28.001061
+                ],
+                [
+                  153.348482,
+                  -27.998956
+                ],
+                [
+                  153.347702,
+                  -27.999102
+                ],
+                [
+                  153.346579,
+                  -28.0011
+                ],
+                [
+                  153.346865,
+                  -28.001727
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-767590-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "5:34PM 26 Jun 2024",
+        "EST_FIX_TIME": "8:30PM 26 Jun 2024",
+        "STREETS": "NERANG-BROADBEACH RD, PAPPAS WAY, RECREATION DR",
+        "SUBURBS": "CARRARA, NERANG"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1719387002.61915"
+  "extracted": "1719387300.233016"
 }
