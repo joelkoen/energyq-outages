@@ -49,27 +49,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.135939,
-          -23.934631
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "24CA7921",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "20",
-        "REASON": "The loss of supply is to connect new customers to the electricity network",
-        "STATUS": "Work scheduled",
-        "START": "9:00AM 27 Jun 2024",
-        "EST_FIX_TIME": "3:00PM 27 Jun 2024",
-        "STREETS": "BUNERU RD, BUNERU SCHOOL RD, POCKET CREEK RD, RED HILL BYPASS RD, ROMERS RD",
-        "SUBURBS": "WOWAN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           146.031535,
           -17.525156
         ]
@@ -163,7 +142,7 @@
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "11",
         "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Work scheduled",
+        "STATUS": "Crews working on-site",
         "START": "9:00AM 27 Jun 2024",
         "EST_FIX_TIME": "2:00PM 27 Jun 2024",
         "STREETS": "LEAFGOLD RD, LEAFGOLD WEIR RD",
@@ -805,6 +784,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.729136,
+          -26.113715
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "24WB6226",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to connect new customers to the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "8:30AM 27 Jun 2024",
+        "EST_FIX_TIME": "11:30AM 27 Jun 2024",
+        "STREETS": "WEBBERS BRIDGE RD",
+        "SUBURBS": "WOOROONDEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.369722,
           -25.04139
         ]
@@ -845,5 +845,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1719441300.630431"
+  "extracted": "1719441600.430433"
 }
