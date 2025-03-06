@@ -266,7 +266,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "17",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Work delayed - crews unable to continue",
+        "STATUS": "Crews working on-site",
         "START": "9:05PM 05 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "ALBIONVALE RD, ARAMAC-FLEETWOOD RD, OFF TORRENS CREEK RD, REEDY CREEK RD, TORRENS CREEK RD",
@@ -530,6 +530,115 @@
         "EST_FIX_TIME": "9:30AM 10 Mar 2025",
         "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
         "SUBURBS": "OWENS CREEK, PINNACLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              149.325593,
+              -21.662611
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.297494,
+                  -21.665779
+                ],
+                [
+                  149.305931,
+                  -21.678559
+                ],
+                [
+                  149.306392,
+                  -21.678771
+                ],
+                [
+                  149.321246,
+                  -21.677341
+                ],
+                [
+                  149.321375,
+                  -21.677311
+                ],
+                [
+                  149.347508,
+                  -21.667551
+                ],
+                [
+                  149.347676,
+                  -21.667446
+                ],
+                [
+                  149.353607,
+                  -21.661717
+                ],
+                [
+                  149.353691,
+                  -21.661201
+                ],
+                [
+                  149.350242,
+                  -21.654755
+                ],
+                [
+                  149.350226,
+                  -21.654728
+                ],
+                [
+                  149.345129,
+                  -21.646643
+                ],
+                [
+                  149.344544,
+                  -21.64645
+                ],
+                [
+                  149.309049,
+                  -21.658837
+                ],
+                [
+                  149.309014,
+                  -21.658851
+                ],
+                [
+                  149.302753,
+                  -21.661569
+                ],
+                [
+                  149.302665,
+                  -21.661618
+                ],
+                [
+                  149.297615,
+                  -21.665182
+                ],
+                [
+                  149.297494,
+                  -21.665779
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25MK2198",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "32",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:50AM 06 Mar 2025",
+        "EST_FIX_TIME": "3:30PM 06 Mar 2025",
+        "STREETS": "BRUCE HWY, CAMPBELLS RD, CONE CREEK RD, MOUNT CHRISTIAN RD, PRICE RD, RILEY RD, RILEYS RD",
+        "SUBURBS": "KOUMALA, MOUNT CHRISTIAN"
       }
     },
     {
@@ -968,5 +1077,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741224000.811511"
+  "extracted": "1741224300.278232"
 }
