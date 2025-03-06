@@ -4024,7 +4024,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "1011",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "11:09PM 06 Mar 2025",
         "EST_FIX_TIME": "12:00PM 07 Mar 2025",
         "STREETS": "BARKER PL, BOBBY JONES CT, BOOMERANG DR, BROOKS DR, CAMPBELL DR, CANNON PL, CHARLES CL, CLARKE PL, COLLINS PL, DRYNAN PL, EDWARD PL, ETRUSCAN RD, FARWELL CL, FLAGSTAFF CL, FRANCIS CL, HAYGARTH DR, HINCHCLIFFE DR, KOORALBYN DR, LADY CAROLINE CL, MARKWELL DR, MUIRHEAD CL, OGILVIE PL, PAINE PL, REDMOND PL, ROUTLEY DR, SALISBURY AVE, SCARVELL PL, SMALES CL, STEPHENS PL, VON NIDA DR, WALKER DR, WELLINGTON BUNDOCK DR, WHITE PL, WINDON CL, WYANGARIE PL, WYNDHAM PL, YULGIBAR CL",
@@ -5140,6 +5140,100 @@
           {
             "type": "Point",
             "coordinates": [
+              153.22093,
+              -27.963364
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.218032,
+                  -27.961781
+                ],
+                [
+                  153.218432,
+                  -27.963919
+                ],
+                [
+                  153.218713,
+                  -27.964252
+                ],
+                [
+                  153.221314,
+                  -27.965364
+                ],
+                [
+                  153.221434,
+                  -27.9654
+                ],
+                [
+                  153.221829,
+                  -27.96547
+                ],
+                [
+                  153.222311,
+                  -27.965326
+                ],
+                [
+                  153.222975,
+                  -27.964655
+                ],
+                [
+                  153.223046,
+                  -27.964562
+                ],
+                [
+                  153.223829,
+                  -27.963203
+                ],
+                [
+                  153.223695,
+                  -27.962646
+                ],
+                [
+                  153.222365,
+                  -27.961695
+                ],
+                [
+                  153.222102,
+                  -27.961598
+                ],
+                [
+                  153.218588,
+                  -27.961258
+                ],
+                [
+                  153.218032,
+                  -27.961781
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829342-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "54",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "11:33PM 06 Mar 2025",
+        "EST_FIX_TIME": "1:30AM 07 Mar 2025",
+        "STREETS": "CELEBES CT, FLORES CT, HENRI ROBERT DR, LOMBOK CT, SUMBA CT",
+        "SUBURBS": "TAMBORINE MOUNTAIN",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.214076,
               -27.971647
             ]
@@ -5362,7 +5456,7 @@
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "11:30PM 06 Mar 2025",
-        "EST_FIX_TIME": "2:30AM 07 Mar 2025",
+        "EST_FIX_TIME": "1:30AM 07 Mar 2025",
         "STREETS": "COOMERA GORGE DR, JENYNS RD, LAMINGTON PDE, LOOKOUT PDE, OCEAN VIEW PDE, PACIFIC PDE",
         "SUBURBS": "TAMBORINE MOUNTAIN",
         "ETR_FLAG": "N"
@@ -5371,5 +5465,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741268401.377452"
+  "extracted": "1741269001.454264"
 }
