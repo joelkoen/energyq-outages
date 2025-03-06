@@ -281,22 +281,14 @@
           {
             "type": "Point",
             "coordinates": [
-              146.038594,
-              -17.516543
+              146.038988,
+              -17.516594
             ]
           },
           {
             "type": "Polygon",
             "coordinates": [
               [
-                [
-                  146.03621,
-                  -17.515499
-                ],
-                [
-                  146.036949,
-                  -17.517848
-                ],
                 [
                   146.037417,
                   -17.518169
@@ -362,16 +354,32 @@
                   -17.515021
                 ],
                 [
-                  146.039362,
-                  -17.515021
+                  146.039343,
+                  -17.51502
                 ],
                 [
-                  146.03668,
-                  -17.514916
+                  146.038901,
+                  -17.51502
                 ],
                 [
-                  146.03621,
-                  -17.515499
+                  146.038546,
+                  -17.515175
+                ],
+                [
+                  146.038303,
+                  -17.515442
+                ],
+                [
+                  146.038257,
+                  -17.515504
+                ],
+                [
+                  146.036998,
+                  -17.517482
+                ],
+                [
+                  146.037417,
+                  -17.518169
                 ]
               ]
             ]
@@ -381,7 +389,7 @@
       "properties": {
         "EVENT_ID": "25FN3105",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "67",
+        "CUSTOMERS_AFFECTED": "66",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
         "STATUS": "Crews working on-site",
         "START": "5:40AM 06 Mar 2025",
@@ -1167,107 +1175,6 @@
           {
             "type": "Point",
             "coordinates": [
-              149.396661,
-              -27.459247
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  149.302603,
-                  -27.61909
-                ],
-                [
-                  149.303468,
-                  -27.624123
-                ],
-                [
-                  149.303944,
-                  -27.624506
-                ],
-                [
-                  149.370965,
-                  -27.627354
-                ],
-                [
-                  149.371425,
-                  -27.627133
-                ],
-                [
-                  149.42576,
-                  -27.544992
-                ],
-                [
-                  149.425796,
-                  -27.544926
-                ],
-                [
-                  149.490725,
-                  -27.394697
-                ],
-                [
-                  149.490609,
-                  -27.394215
-                ],
-                [
-                  149.403301,
-                  -27.316713
-                ],
-                [
-                  149.403167,
-                  -27.316628
-                ],
-                [
-                  149.344826,
-                  -27.291139
-                ],
-                [
-                  149.344105,
-                  -27.291476
-                ],
-                [
-                  149.31483,
-                  -27.46354
-                ],
-                [
-                  149.314826,
-                  -27.463576
-                ],
-                [
-                  149.302598,
-                  -27.61899
-                ],
-                [
-                  149.302603,
-                  -27.61909
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25SW4135",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "28",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "9:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 06 Mar 2025",
-        "STREETS": "GLENEARN RD, ROCKY GLEN RD, TEELBA RD, TELGAZLIE RD, UNGABILLA RD",
-        "SUBURBS": "GLENMORGAN, SURAT, TEELBA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               151.471123,
               -26.781672
             ]
@@ -1433,5 +1340,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741228205.432029"
+  "extracted": "1741228801.467765"
 }
