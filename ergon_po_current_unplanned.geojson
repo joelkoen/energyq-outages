@@ -274,7 +274,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "79",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "6:34PM 06 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "CORBERRY ST, DAVIS ST, ELGIN ST, LARNACH ST",
@@ -710,6 +710,67 @@
           {
             "type": "Point",
             "coordinates": [
+              146.64179,
+              -19.261211
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.642304,
+                  -19.260526
+                ],
+                [
+                  146.640918,
+                  -19.26106
+                ],
+                [
+                  146.640656,
+                  -19.261648
+                ],
+                [
+                  146.641275,
+                  -19.261897
+                ],
+                [
+                  146.642662,
+                  -19.261363
+                ],
+                [
+                  146.642924,
+                  -19.260775
+                ],
+                [
+                  146.642304,
+                  -19.260526
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25NQ3861",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews on route",
+        "START": "6:10PM 06 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "TEXAS RD",
+        "SUBURBS": "JENSEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.761821,
               -28.058714
             ]
@@ -899,5 +960,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741251303.859273"
+  "extracted": "1741251903.853048"
 }
