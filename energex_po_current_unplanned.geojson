@@ -1448,6 +1448,84 @@
           {
             "type": "Point",
             "coordinates": [
+              152.401588,
+              -27.657461
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.400648,
+                  -27.659552
+                ],
+                [
+                  152.40183,
+                  -27.659165
+                ],
+                [
+                  152.402031,
+                  -27.659044
+                ],
+                [
+                  152.402671,
+                  -27.658414
+                ],
+                [
+                  152.402791,
+                  -27.658205
+                ],
+                [
+                  152.403208,
+                  -27.65645
+                ],
+                [
+                  152.40286,
+                  -27.655925
+                ],
+                [
+                  152.400803,
+                  -27.65537
+                ],
+                [
+                  152.400149,
+                  -27.65578
+                ],
+                [
+                  152.399967,
+                  -27.659106
+                ],
+                [
+                  152.400648,
+                  -27.659552
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829120-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "6:11PM 06 Mar 2025",
+        "EST_FIX_TIME": "8:30PM 06 Mar 2025",
+        "STREETS": "BEAMES DR, MILNE ST",
+        "SUBURBS": "LAIDLEY, LAIDLEY SOUTH",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.446774,
               -28.176459
             ]
@@ -1552,7 +1630,7 @@
         "REASON": "Under Investigation",
         "STATUS": "Awaiting",
         "START": "6:37PM 06 Mar 2025",
-        "EST_FIX_TIME": "9:00PM 06 Mar 2025",
+        "EST_FIX_TIME": "9:30PM 06 Mar 2025",
         "STREETS": "AQUA PROMENADE, BOURKE LODGE DR, CURRUMBIN CREEK RD, JALINDA CT, KYTE ST, PIGGABEEN RD, VITA BELLA CT",
         "SUBURBS": "CURRUMBIN VALLEY, CURRUMBIN WATERS",
         "ETR_FLAG": "N"
@@ -1561,5 +1639,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741250401.531585"
+  "extracted": "1741250704.598197"
 }

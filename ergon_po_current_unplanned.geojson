@@ -266,7 +266,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "27",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "5:29PM 06 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "BAILEYS LANE, VALENTINE PLAINS RD",
@@ -437,99 +437,6 @@
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "IFFLEY RD, UNKNOWN ST",
         "SUBURBS": "NORMANTON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              141.88812,
-              -12.682445
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  141.884906,
-                  -12.679641
-                ],
-                [
-                  141.884966,
-                  -12.685351
-                ],
-                [
-                  141.885236,
-                  -12.685757
-                ],
-                [
-                  141.888738,
-                  -12.687307
-                ],
-                [
-                  141.888965,
-                  -12.687345
-                ],
-                [
-                  141.890186,
-                  -12.687243
-                ],
-                [
-                  141.890603,
-                  -12.686846
-                ],
-                [
-                  141.891335,
-                  -12.680661
-                ],
-                [
-                  141.89119,
-                  -12.680278
-                ],
-                [
-                  141.889008,
-                  -12.678309
-                ],
-                [
-                  141.888826,
-                  -12.678208
-                ],
-                [
-                  141.8865,
-                  -12.677546
-                ],
-                [
-                  141.885979,
-                  -12.677748
-                ],
-                [
-                  141.884971,
-                  -12.679406
-                ],
-                [
-                  141.884906,
-                  -12.679641
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25FN3133",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "39",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "1:16PM 06 Mar 2025",
-        "EST_FIX_TIME": "9:30PM 06 Mar 2025",
-        "STREETS": "BEE-NING ST, GONBUNG RD, HUNT LANE, LEE-DING ST, MOI-NGUM ST, MOUN-DING ST, NANUN ST, NAPRANUM ST, OONINGAN ST, PRENG-IM ST, WA-TYNE ST, WAUM ST",
-        "SUBURBS": "EVANS LANDING, NAPRANUM"
       }
     },
     {
@@ -961,67 +868,6 @@
           {
             "type": "Point",
             "coordinates": [
-              151.884293,
-              -27.84188
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.884987,
-                  -27.841727
-                ],
-                [
-                  151.884123,
-                  -27.841262
-                ],
-                [
-                  151.883428,
-                  -27.841414
-                ],
-                [
-                  151.883599,
-                  -27.842032
-                ],
-                [
-                  151.884463,
-                  -27.842497
-                ],
-                [
-                  151.885158,
-                  -27.842345
-                ],
-                [
-                  151.884987,
-                  -27.841727
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25SW4245",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews working on-site",
-        "START": "3:19PM 06 Mar 2025",
-        "EST_FIX_TIME": "7:00PM 06 Mar 2025",
-        "STREETS": "MOUNT KENT BOUNDARY RD",
-        "SUBURBS": "NOBBY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               148.761821,
               -28.058714
             ]
@@ -1126,5 +972,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741250401.250177"
+  "extracted": "1741250702.98399"
 }
