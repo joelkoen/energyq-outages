@@ -281,6 +281,107 @@
           {
             "type": "Point",
             "coordinates": [
+              150.499122,
+              -23.392438
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.496818,
+                  -23.393424
+                ],
+                [
+                  150.497534,
+                  -23.393541
+                ],
+                [
+                  150.497587,
+                  -23.393547
+                ],
+                [
+                  150.500032,
+                  -23.393693
+                ],
+                [
+                  150.50024,
+                  -23.393664
+                ],
+                [
+                  150.501348,
+                  -23.393268
+                ],
+                [
+                  150.5015,
+                  -23.393181
+                ],
+                [
+                  150.50183,
+                  -23.392905
+                ],
+                [
+                  150.501782,
+                  -23.392201
+                ],
+                [
+                  150.500637,
+                  -23.391463
+                ],
+                [
+                  150.500523,
+                  -23.391409
+                ],
+                [
+                  150.500239,
+                  -23.391314
+                ],
+                [
+                  150.500091,
+                  -23.391287
+                ],
+                [
+                  150.496944,
+                  -23.391182
+                ],
+                [
+                  150.496438,
+                  -23.391626
+                ],
+                [
+                  150.496414,
+                  -23.392973
+                ],
+                [
+                  150.496818,
+                  -23.393424
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25CA4611",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "79",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:34PM 06 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "CORBERRY ST, DAVIS ST, ELGIN ST, LARNACH ST",
+        "SUBURBS": "ALLENSTOWN, THE RANGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               140.914114,
               -18.274645
             ]
@@ -1025,5 +1126,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741250101.26647"
+  "extracted": "1741250401.250177"
 }
