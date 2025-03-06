@@ -1219,9 +1219,179 @@
         "STREETS": "GOONAWARRA RD, OLIVERS-WALKERS RD, WARREMA RD",
         "SUBURBS": "CONDAMINE, DULACCA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.471123,
+              -26.781672
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.471624,
+                  -26.781656
+                ],
+                [
+                  151.471105,
+                  -26.781222
+                ],
+                [
+                  151.470622,
+                  -26.781688
+                ],
+                [
+                  151.471141,
+                  -26.782122
+                ],
+                [
+                  151.471624,
+                  -26.781656
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25SW4224",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:48AM 06 Mar 2025",
+        "EST_FIX_TIME": "2:00PM 06 Mar 2025",
+        "STREETS": "BUNYA HWY",
+        "SUBURBS": "COORANGA NORTH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.175289,
+              -26.164976
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.125144,
+                  -26.125074
+                ],
+                [
+                  152.145658,
+                  -26.174631
+                ],
+                [
+                  152.145779,
+                  -26.174798
+                ],
+                [
+                  152.223299,
+                  -26.241934
+                ],
+                [
+                  152.224111,
+                  -26.241769
+                ],
+                [
+                  152.225403,
+                  -26.238707
+                ],
+                [
+                  152.225433,
+                  -26.238504
+                ],
+                [
+                  152.224231,
+                  -26.227242
+                ],
+                [
+                  152.224223,
+                  -26.227197
+                ],
+                [
+                  152.222699,
+                  -26.220289
+                ],
+                [
+                  152.222688,
+                  -26.220247
+                ],
+                [
+                  152.189966,
+                  -26.122185
+                ],
+                [
+                  152.189937,
+                  -26.122118
+                ],
+                [
+                  152.176829,
+                  -26.09776
+                ],
+                [
+                  152.176778,
+                  -26.097684
+                ],
+                [
+                  152.170541,
+                  -26.090266
+                ],
+                [
+                  152.170467,
+                  -26.090195
+                ],
+                [
+                  152.167635,
+                  -26.088019
+                ],
+                [
+                  152.166965,
+                  -26.088039
+                ],
+                [
+                  152.125264,
+                  -26.124594
+                ],
+                [
+                  152.125144,
+                  -26.125074
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25WB3480",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "81",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "11:29AM 06 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BOONARA RD, CINNABAR RD, CINNANBAR RD, COLEMAN SIDING RD, GLEESON RD, KILKIVAN TANSEY RD, MOUNT OLIVE RD, OAKEY CREEK RD, RAGUSE RD, ROCKEMER RD, SEMPF RD, WIDE BAY HWY",
+        "SUBURBS": "CINNABAR, KILKIVAN, KINBOMBI"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741225501.45584"
+  "extracted": "1741226100.288168"
 }
