@@ -710,6 +710,83 @@
           {
             "type": "Point",
             "coordinates": [
+              146.05446,
+              -18.572687
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.043963,
+                  -18.558896
+                ],
+                [
+                  146.044825,
+                  -18.578703
+                ],
+                [
+                  146.044981,
+                  -18.57902
+                ],
+                [
+                  146.058585,
+                  -18.590731
+                ],
+                [
+                  146.059301,
+                  -18.59064
+                ],
+                [
+                  146.064952,
+                  -18.582276
+                ],
+                [
+                  146.064958,
+                  -18.581795
+                ],
+                [
+                  146.047461,
+                  -18.554646
+                ],
+                [
+                  146.046656,
+                  -18.554643
+                ],
+                [
+                  146.044035,
+                  -18.558638
+                ],
+                [
+                  146.043963,
+                  -18.558896
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25NQ2029",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "30",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "10:06AM 02 Feb 2025",
+        "EST_FIX_TIME": "6:00PM 07 Mar 2025",
+        "STREETS": "CUNNINGHAMS RD, FALCOMERS RD, HAWKINS CREEK RD, PIPE GULLY RD",
+        "SUBURBS": "HAWKINS CREEK, INGHAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               141.416017,
               -20.80041
             ]
@@ -1146,5 +1223,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741224900.237876"
+  "extracted": "1741225501.45584"
 }
