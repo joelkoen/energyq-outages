@@ -268,7 +268,7 @@
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Crews working on-site",
         "START": "9:05PM 05 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
+        "EST_FIX_TIME": "7:30PM 06 Mar 2025",
         "STREETS": "ALBIONVALE RD, ARAMAC-FLEETWOOD RD, OFF TORRENS CREEK RD, REEDY CREEK RD, TORRENS CREEK RD",
         "SUBURBS": "ARAMAC"
       }
@@ -398,8 +398,8 @@
           {
             "type": "Point",
             "coordinates": [
-              141.084381,
-              -18.528774
+              140.914114,
+              -18.274645
             ]
           },
           {
@@ -407,44 +407,24 @@
             "coordinates": [
               [
                 [
-                  140.890617,
-                  -18.190071
+                  140.890631,
+                  -18.190175
                 ],
                 [
-                  140.896722,
-                  -18.572797
+                  140.936683,
+                  -18.362692
                 ],
                 [
-                  140.896858,
-                  -18.573106
+                  140.937251,
+                  -18.363017
                 ],
                 [
-                  141.206832,
-                  -18.871392
+                  140.937598,
+                  -18.362477
                 ],
                 [
-                  141.207629,
-                  -18.871171
-                ],
-                [
-                  141.278135,
-                  -18.561167
-                ],
-                [
-                  141.278145,
-                  -18.561046
-                ],
-                [
-                  141.270351,
-                  -18.431401
-                ],
-                [
-                  141.270146,
-                  -18.431055
-                ],
-                [
-                  140.893895,
-                  -18.186156
+                  140.894088,
+                  -18.186424
                 ],
                 [
                   140.893242,
@@ -455,8 +435,8 @@
                   -18.189809
                 ],
                 [
-                  140.890617,
-                  -18.190071
+                  140.890631,
+                  -18.190175
                 ]
               ]
             ]
@@ -466,7 +446,7 @@
       "properties": {
         "EVENT_ID": "25FN3114",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "19",
+        "CUSTOMERS_AFFECTED": "4",
         "REASON": "The loss of supply is due to the operating of protective equipment. ",
         "STATUS": "Outage reported",
         "START": "9:12AM 06 Mar 2025",
@@ -863,102 +843,9 @@
         "STREETS": "BOONARA RD, COLEMAN SIDING RD, RAGUSE RD, WIDE BAY HWY",
         "SUBURBS": "CINNABAR, KILKIVAN, KINBOMBI"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.377166,
-              -25.862837
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.313086,
-                  -25.748254
-                ],
-                [
-                  151.321325,
-                  -25.935025
-                ],
-                [
-                  151.321506,
-                  -25.935355
-                ],
-                [
-                  151.388219,
-                  -25.98507
-                ],
-                [
-                  151.388568,
-                  -25.985172
-                ],
-                [
-                  151.420046,
-                  -25.983364
-                ],
-                [
-                  151.42051,
-                  -25.982965
-                ],
-                [
-                  151.441246,
-                  -25.817598
-                ],
-                [
-                  151.441078,
-                  -25.817208
-                ],
-                [
-                  151.343771,
-                  -25.740612
-                ],
-                [
-                  151.343415,
-                  -25.740502
-                ],
-                [
-                  151.320789,
-                  -25.741722
-                ],
-                [
-                  151.32048,
-                  -25.741841
-                ],
-                [
-                  151.313246,
-                  -25.747905
-                ],
-                [
-                  151.313086,
-                  -25.748254
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25WB3485",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "31",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "2:41PM 06 Mar 2025",
-        "EST_FIX_TIME": "4:00PM 07 Mar 2025",
-        "STREETS": "BEERON RD, BERTHELSEN RD, BOONDOOMA RD, BRIGGS NO 1 RD, C D JENKINSON RD, GAYNDAH RD, GLENRAE RD, JONDARBY RD, MANAR RD",
-        "SUBURBS": "GAYNDAH, MUNDUBBERA"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741239007.003162"
+  "extracted": "1741239601.36286"
 }
