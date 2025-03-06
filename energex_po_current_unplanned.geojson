@@ -634,132 +634,6 @@
           {
             "type": "Point",
             "coordinates": [
-              153.375288,
-              -27.681651
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.373433,
-                  -27.682495
-                ],
-                [
-                  153.373564,
-                  -27.682761
-                ],
-                [
-                  153.373849,
-                  -27.683001
-                ],
-                [
-                  153.37568,
-                  -27.683618
-                ],
-                [
-                  153.376229,
-                  -27.683505
-                ],
-                [
-                  153.376603,
-                  -27.68315
-                ],
-                [
-                  153.376734,
-                  -27.682912
-                ],
-                [
-                  153.377186,
-                  -27.680397
-                ],
-                [
-                  153.376997,
-                  -27.67997
-                ],
-                [
-                  153.37672,
-                  -27.679778
-                ],
-                [
-                  153.376397,
-                  -27.679683
-                ],
-                [
-                  153.374904,
-                  -27.679714
-                ],
-                [
-                  153.374572,
-                  -27.679834
-                ],
-                [
-                  153.374364,
-                  -27.680005
-                ],
-                [
-                  153.374283,
-                  -27.68009
-                ],
-                [
-                  153.373783,
-                  -27.680775
-                ],
-                [
-                  153.373752,
-                  -27.680824
-                ],
-                [
-                  153.373565,
-                  -27.681168
-                ],
-                [
-                  153.373523,
-                  -27.681282
-                ],
-                [
-                  153.373432,
-                  -27.681712
-                ],
-                [
-                  153.373425,
-                  -27.681769
-                ],
-                [
-                  153.373391,
-                  -27.682287
-                ],
-                [
-                  153.373433,
-                  -27.682495
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-828565-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "41",
-        "REASON": "Powerlines down",
-        "STATUS": "In Progress",
-        "START": "6:43AM 06 Mar 2025",
-        "EST_FIX_TIME": "1:00PM 06 Mar 2025",
-        "STREETS": "AVONDALE RD, GILCREST RD, KURRAJONG RD, MAHER AVE, PALM BEACH RD, RANORA AVE, TREVANNA AVE, WARRIE RD",
-        "SUBURBS": "RUSSELL ISLAND",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               153.374575,
               -27.932504
             ]
@@ -1596,7 +1470,7 @@
         "REASON": "Under Investigation",
         "STATUS": "Awaiting",
         "START": "9:36AM 06 Mar 2025",
-        "EST_FIX_TIME": "11:30AM 06 Mar 2025",
+        "EST_FIX_TIME": "3:30PM 06 Mar 2025",
         "STREETS": "ANEMBO ST, ARUMA ST, STANHILL DR, THOMAS DR",
         "SUBURBS": "SURFERS PARADISE",
         "ETR_FLAG": "N"
@@ -1679,7 +1553,7 @@
         "EVENT_ID": "INCD-828714-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "33",
-        "REASON": "Under Investigation",
+        "REASON": "Trees on powerlines",
         "STATUS": "In Progress",
         "START": "10:02AM 06 Mar 2025",
         "EST_FIX_TIME": "1:00PM 06 Mar 2025",
@@ -1939,12 +1813,90 @@
         "EVENT_ID": "INCD-828756-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "681",
-        "REASON": "Under Investigation",
+        "REASON": "Trees on powerlines",
         "STATUS": "Awaiting",
         "START": "10:33AM 06 Mar 2025",
         "EST_FIX_TIME": "2:00PM 06 Mar 2025",
         "STREETS": "ARALUEN RD, BOWDEN CL, BRAMLEY DR, CAMPHORLAUREL CT, CLARE CT, DALTON RD, DES QUINLAN CRES, DOVE RD, DUCATS RD, EMILY LANE, FRESCO CT, GIBSONVILLE ST, GOLDEN VALLEY RD, LEN DICKFOS RD, LUXTON CT, MAYBREE CL, MONDAY DR, MT COUGALL RD, PETSCH CREEK RD, PLAZA ST, RANCH CT, REYNELLA RD, RUSTY CT, SYNDICATE RD, TALLEBUDGERA CREEK RD, THOMAS WATERS RD, THURSDAY DR, TREES RD, TUESDAY DR, WEDNESDAY DR, WISTERIA CT, YARRA CT",
         "SUBURBS": "TALLEBUDGERA, TALLEBUDGERA VALLEY",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.255561,
+              -27.58699
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.253593,
+                  -27.589203
+                ],
+                [
+                  153.256669,
+                  -27.590342
+                ],
+                [
+                  153.256733,
+                  -27.590361
+                ],
+                [
+                  153.257181,
+                  -27.590468
+                ],
+                [
+                  153.25781,
+                  -27.589952
+                ],
+                [
+                  153.256604,
+                  -27.583967
+                ],
+                [
+                  153.256331,
+                  -27.583642
+                ],
+                [
+                  153.256034,
+                  -27.583511
+                ],
+                [
+                  153.255334,
+                  -27.583759
+                ],
+                [
+                  153.253312,
+                  -27.58863
+                ],
+                [
+                  153.253593,
+                  -27.589203
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-828757-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "Under Investigation",
+        "STATUS": "In Progress",
+        "START": "10:33AM 06 Mar 2025",
+        "EST_FIX_TIME": "12:30PM 06 Mar 2025",
+        "STREETS": "KINGFISHER RD, SPRINGACRE RD",
+        "SUBURBS": "MOUNT COTTON, THORNLANDS, VICTORIA POINT",
         "ETR_FLAG": "N"
       }
     },
@@ -2053,5 +2005,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741224604.358875"
+  "extracted": "1741224900.284754"
 }
