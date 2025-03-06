@@ -859,9 +859,70 @@
         "STREETS": "ARIZONA STATION, BRAESIDE STATION, CARODON STATION, EULOLO RD, FULLERTON RVR, KOOROORA STATION, LANDSBOROUGH HWY, MILGERY STATION, PENOLA DOWNS STATION, REDLAND PARK STATION, WOLSELEY DOWNS STATION",
         "SUBURBS": "KYNUNA, MCKINLAY, OORINDI"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.884293,
+              -27.84188
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.884987,
+                  -27.841727
+                ],
+                [
+                  151.884123,
+                  -27.841262
+                ],
+                [
+                  151.883428,
+                  -27.841414
+                ],
+                [
+                  151.883599,
+                  -27.842032
+                ],
+                [
+                  151.884463,
+                  -27.842497
+                ],
+                [
+                  151.885158,
+                  -27.842345
+                ],
+                [
+                  151.884987,
+                  -27.841727
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25SW4245",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "3:19PM 06 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "MOUNT KENT BOUNDARY RD",
+        "SUBURBS": "NOBBY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741244701.245189"
+  "extracted": "1741245303.899778"
 }
