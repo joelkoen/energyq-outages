@@ -10,6 +10,108 @@
           {
             "type": "Point",
             "coordinates": [
+              153.374335,
+              -27.880787
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.370888,
+                  -27.881989
+                ],
+                [
+                  153.37527,
+                  -27.883293
+                ],
+                [
+                  153.375828,
+                  -27.883146
+                ],
+                [
+                  153.378014,
+                  -27.880708
+                ],
+                [
+                  153.378123,
+                  -27.880391
+                ],
+                [
+                  153.378109,
+                  -27.880237
+                ],
+                [
+                  153.3781,
+                  -27.880179
+                ],
+                [
+                  153.377832,
+                  -27.87906
+                ],
+                [
+                  153.377638,
+                  -27.878792
+                ],
+                [
+                  153.377282,
+                  -27.878557
+                ],
+                [
+                  153.377016,
+                  -27.878469
+                ],
+                [
+                  153.374152,
+                  -27.878281
+                ],
+                [
+                  153.373764,
+                  -27.878405
+                ],
+                [
+                  153.370738,
+                  -27.880979
+                ],
+                [
+                  153.370586,
+                  -27.881244
+                ],
+                [
+                  153.370546,
+                  -27.8815
+                ],
+                [
+                  153.370888,
+                  -27.881989
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-6-s",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "94",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "3:16PM 06 Mar 2025",
+        "EST_FIX_TIME": "6:00PM 06 Mar 2025",
+        "STREETS": "BOYKAMBIL ESP S, COOMBE AVE, CRESCENT AVE, HALCYON WAY, SHOE ST",
+        "SUBURBS": "HOPE ISLAND",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.949021,
               -27.087576
             ]
@@ -1212,7 +1314,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "10",
         "REASON": "Powerlines down",
-        "STATUS": "In Progress",
+        "STATUS": "Awaiting",
         "START": "10:33AM 06 Mar 2025",
         "EST_FIX_TIME": "7:30PM 06 Mar 2025",
         "STREETS": "KINGFISHER RD, SPRINGACRE RD",
@@ -1921,9 +2023,87 @@
         "SUBURBS": "BONOGIN, MUDGEERABA",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.255561,
+              -27.58699
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.253593,
+                  -27.589203
+                ],
+                [
+                  153.256669,
+                  -27.590342
+                ],
+                [
+                  153.256733,
+                  -27.590361
+                ],
+                [
+                  153.257181,
+                  -27.590468
+                ],
+                [
+                  153.25781,
+                  -27.589952
+                ],
+                [
+                  153.256604,
+                  -27.583967
+                ],
+                [
+                  153.256331,
+                  -27.583642
+                ],
+                [
+                  153.256034,
+                  -27.583511
+                ],
+                [
+                  153.255334,
+                  -27.583759
+                ],
+                [
+                  153.253312,
+                  -27.58863
+                ],
+                [
+                  153.253593,
+                  -27.589203
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-828990-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "3:19PM 06 Mar 2025",
+        "EST_FIX_TIME": "5:00PM 06 Mar 2025",
+        "STREETS": "KINGFISHER RD, SPRINGACRE RD",
+        "SUBURBS": "MOUNT COTTON, THORNLANDS, VICTORIA POINT",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741238103.976811"
+  "extracted": "1741238401.381387"
 }
