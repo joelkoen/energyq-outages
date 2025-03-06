@@ -500,8 +500,8 @@
           {
             "type": "Point",
             "coordinates": [
-              153.189465,
-              -27.57069
+              153.193762,
+              -27.57296
             ]
           },
           {
@@ -509,32 +509,8 @@
             "coordinates": [
               [
                 [
-                  153.182508,
-                  -27.570951
-                ],
-                [
-                  153.182612,
-                  -27.571297
-                ],
-                [
-                  153.182694,
-                  -27.571448
-                ],
-                [
-                  153.183056,
-                  -27.571885
-                ],
-                [
-                  153.18336,
-                  -27.572059
-                ],
-                [
-                  153.184426,
-                  -27.572257
-                ],
-                [
-                  153.184453,
-                  -27.572261
+                  153.191441,
+                  -27.573212
                 ],
                 [
                   153.192246,
@@ -553,32 +529,36 @@
                   -27.573809
                 ],
                 [
-                  153.196433,
-                  -27.573497
+                  153.196434,
+                  -27.573495
                 ],
                 [
-                  153.19617,
-                  -27.572957
+                  153.196166,
+                  -27.572955
                 ],
                 [
-                  153.183707,
-                  -27.567571
+                  153.195366,
+                  -27.572618
                 ],
                 [
-                  153.182986,
-                  -27.567909
+                  153.195225,
+                  -27.572579
                 ],
                 [
-                  153.182558,
-                  -27.570407
+                  153.191743,
+                  -27.572111
                 ],
                 [
-                  153.182496,
-                  -27.570766
+                  153.191242,
+                  -27.572313
                 ],
                 [
-                  153.182508,
-                  -27.570951
+                  153.191091,
+                  -27.572522
+                ],
+                [
+                  153.191441,
+                  -27.573212
                 ]
               ]
             ]
@@ -588,7 +568,7 @@
       "properties": {
         "EVENT_ID": "INCD-828611-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "68",
+        "CUSTOMERS_AFFECTED": "20",
         "REASON": "Powerlines down",
         "STATUS": "In Progress",
         "START": "8:39AM 06 Mar 2025",
@@ -1248,92 +1228,6 @@
           {
             "type": "Point",
             "coordinates": [
-              153.387988,
-              -28.154411
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.3814,
-                  -28.156452
-                ],
-                [
-                  153.3917,
-                  -28.159375
-                ],
-                [
-                  153.391846,
-                  -28.159396
-                ],
-                [
-                  153.392994,
-                  -28.159415
-                ],
-                [
-                  153.393504,
-                  -28.159046
-                ],
-                [
-                  153.394912,
-                  -28.152315
-                ],
-                [
-                  153.39491,
-                  -28.152141
-                ],
-                [
-                  153.394357,
-                  -28.149761
-                ],
-                [
-                  153.393764,
-                  -28.149408
-                ],
-                [
-                  153.382833,
-                  -28.151225
-                ],
-                [
-                  153.382436,
-                  -28.151547
-                ],
-                [
-                  153.381065,
-                  -28.1559
-                ],
-                [
-                  153.3814,
-                  -28.156452
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-828714-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "33",
-        "REASON": "Trees on powerlines",
-        "STATUS": "In Progress",
-        "START": "10:02AM 06 Mar 2025",
-        "EST_FIX_TIME": "7:30PM 06 Mar 2025",
-        "STREETS": "BARMARK CT, NANCOL DR, STONE CT, TALLEBUDGERA CREEK RD",
-        "SUBURBS": "TALLEBUDGERA VALLEY",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               153.230959,
               -28.213345
             ]
@@ -1428,7 +1322,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "90",
         "REASON": "Under Investigation",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "10:31AM 06 Mar 2025",
         "EST_FIX_TIME": "7:30PM 06 Mar 2025",
         "STREETS": "BAKERS RD, DAVES CREEK RD, HAYTERS RD, NATURAL BRIDGE RD, NERANG MURWILLUMBAH RD, STAFFORDS RD",
@@ -1631,8 +1525,8 @@
         "EVENT_ID": "INCD-828757-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "10",
-        "REASON": "Under Investigation",
-        "STATUS": "Awaiting",
+        "REASON": "Powerlines down",
+        "STATUS": "In Progress",
         "START": "10:33AM 06 Mar 2025",
         "EST_FIX_TIME": "7:30PM 06 Mar 2025",
         "STREETS": "KINGFISHER RD, SPRINGACRE RD",
@@ -2131,5 +2025,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741233604.768198"
+  "extracted": "1741234200.269804"
 }
