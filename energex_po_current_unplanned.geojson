@@ -1695,9 +1695,95 @@
         "SUBURBS": "SURFERS PARADISE",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.387988,
+              -28.154411
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.3814,
+                  -28.156452
+                ],
+                [
+                  153.3917,
+                  -28.159375
+                ],
+                [
+                  153.391846,
+                  -28.159396
+                ],
+                [
+                  153.392994,
+                  -28.159415
+                ],
+                [
+                  153.393504,
+                  -28.159046
+                ],
+                [
+                  153.394912,
+                  -28.152315
+                ],
+                [
+                  153.39491,
+                  -28.152141
+                ],
+                [
+                  153.394357,
+                  -28.149761
+                ],
+                [
+                  153.393764,
+                  -28.149408
+                ],
+                [
+                  153.382833,
+                  -28.151225
+                ],
+                [
+                  153.382436,
+                  -28.151547
+                ],
+                [
+                  153.381065,
+                  -28.1559
+                ],
+                [
+                  153.3814,
+                  -28.156452
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-828714-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "33",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "10:02AM 06 Mar 2025",
+        "EST_FIX_TIME": "1:00PM 06 Mar 2025",
+        "STREETS": "BARMARK CT, NANCOL DR, STONE CT, TALLEBUDGERA CREEK RD",
+        "SUBURBS": "TALLEBUDGERA VALLEY",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741219500.274729"
+  "extracted": "1741219801.463966"
 }
