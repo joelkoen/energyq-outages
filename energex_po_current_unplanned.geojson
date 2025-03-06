@@ -6265,9 +6265,99 @@
         "SUBURBS": "MUDGEERABA, TALLAI",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.113344,
+              -28.2251
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.090636,
+                  -28.235558
+                ],
+                [
+                  153.130207,
+                  -28.232573
+                ],
+                [
+                  153.130237,
+                  -28.232571
+                ],
+                [
+                  153.135826,
+                  -28.231857
+                ],
+                [
+                  153.135957,
+                  -28.231824
+                ],
+                [
+                  153.136232,
+                  -28.231718
+                ],
+                [
+                  153.136535,
+                  -28.231355
+                ],
+                [
+                  153.136565,
+                  -28.231125
+                ],
+                [
+                  153.136411,
+                  -28.230748
+                ],
+                [
+                  153.117469,
+                  -28.214659
+                ],
+                [
+                  153.116784,
+                  -28.214642
+                ],
+                [
+                  153.090262,
+                  -28.234766
+                ],
+                [
+                  153.090123,
+                  -28.235283
+                ],
+                [
+                  153.090636,
+                  -28.235558
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829499-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "56",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "3:39AM 07 Mar 2025",
+        "EST_FIX_TIME": "6:30AM 07 Mar 2025",
+        "STREETS": "LAMINGTON NATIONAL PARK RD, LEFT HAND BRANCH RD",
+        "SUBURBS": "DARLINGTON, O'REILLY",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741282801.555366"
+  "extracted": "1741283105.249917"
 }
