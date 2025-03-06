@@ -7401,9 +7401,127 @@
         "SUBURBS": "CARRARA, MERRIMAC",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.348285,
+              -28.049163
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.34311,
+                  -28.052635
+                ],
+                [
+                  153.352532,
+                  -28.057797
+                ],
+                [
+                  153.353305,
+                  -28.057466
+                ],
+                [
+                  153.353697,
+                  -28.054519
+                ],
+                [
+                  153.3537,
+                  -28.054452
+                ],
+                [
+                  153.353386,
+                  -28.045423
+                ],
+                [
+                  153.353366,
+                  -28.04531
+                ],
+                [
+                  153.353246,
+                  -28.044944
+                ],
+                [
+                  153.353242,
+                  -28.044931
+                ],
+                [
+                  153.352329,
+                  -28.042439
+                ],
+                [
+                  153.352001,
+                  -28.042149
+                ],
+                [
+                  153.348253,
+                  -28.041081
+                ],
+                [
+                  153.348194,
+                  -28.041068
+                ],
+                [
+                  153.345225,
+                  -28.040558
+                ],
+                [
+                  153.345183,
+                  -28.040552
+                ],
+                [
+                  153.344926,
+                  -28.040528
+                ],
+                [
+                  153.344366,
+                  -28.040923
+                ],
+                [
+                  153.342882,
+                  -28.051988
+                ],
+                [
+                  153.342879,
+                  -28.052024
+                ],
+                [
+                  153.342869,
+                  -28.052233
+                ],
+                [
+                  153.34311,
+                  -28.052635
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829561-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "179",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "6:17AM 07 Mar 2025",
+        "EST_FIX_TIME": "10:00AM 07 Mar 2025",
+        "STREETS": "CROCKER ST, DALY WAY, FERGUS CT, FRANCHO ST, GREYJACK CT, GROSVENOR CT, HACKWORTH CT, JAKES WAY, NASH RD, QUAMBONE ST, THREDBO DR, WALKER DR",
+        "SUBURBS": "WORONGARY",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741292103.602431"
+  "extracted": "1741292401.180803"
 }
