@@ -398,6 +398,99 @@
           {
             "type": "Point",
             "coordinates": [
+              150.50326,
+              -23.339992
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.50161,
+                  -23.339422
+                ],
+                [
+                  150.502019,
+                  -23.341528
+                ],
+                [
+                  150.502496,
+                  -23.3419
+                ],
+                [
+                  150.503443,
+                  -23.341905
+                ],
+                [
+                  150.50373,
+                  -23.341821
+                ],
+                [
+                  150.504236,
+                  -23.341487
+                ],
+                [
+                  150.504431,
+                  -23.341212
+                ],
+                [
+                  150.504911,
+                  -23.339069
+                ],
+                [
+                  150.504897,
+                  -23.338839
+                ],
+                [
+                  150.504807,
+                  -23.338581
+                ],
+                [
+                  150.504568,
+                  -23.33832
+                ],
+                [
+                  150.504068,
+                  -23.338078
+                ],
+                [
+                  150.503612,
+                  -23.33808
+                ],
+                [
+                  150.50186,
+                  -23.338945
+                ],
+                [
+                  150.50161,
+                  -23.339422
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25CA4594",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "61",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "2:04PM 06 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BARKER ST, BLAIR ST, BOSWOOD ST, MALONEY ST, WITHERS ST",
+        "SUBURBS": "KAWANA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               141.084381,
               -18.528774
             ]
@@ -865,7 +958,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "47",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "1:26PM 06 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "16 MILE HALL RD, ARCHERS CROSSING RD, AVENUE RD, B RIDERS RD, BANANA BRIDGE RD, BOONARGA INVERAI RD, CHINCHILLA KOGAN RD, CHINCHILLA-KOGAN RD, FREE'S RD, FREES RD, G EVANS RD, GLENHOPE RD, HOPELANDS SCHOOL RD, KOGAN-CHINCHILLA RD, QUIRES RD, WARREGO HWY, WOLSKIS RD",
@@ -950,7 +1043,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "16",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "11:29AM 06 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "BOONARA RD, COLEMAN SIDING RD, RAGUSE RD, WIDE BAY HWY",
@@ -1044,7 +1137,7 @@
         "CUSTOMERS_AFFECTED": "31",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
         "STATUS": "Crews working on-site",
-        "START": "2:40PM 06 Mar 2025",
+        "START": "2:41PM 06 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "BEERON RD, BERTHELSEN RD, BOONDOOMA RD, BRIGGS NO 1 RD, C D JENKINSON RD, GAYNDAH RD, GLENRAE RD, JONDARBY RD, MANAR RD",
         "SUBURBS": "GAYNDAH, MUNDUBBERA"
@@ -1053,5 +1146,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741236304.30661"
+  "extracted": "1741236900.292873"
 }
