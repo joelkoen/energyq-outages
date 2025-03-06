@@ -281,6 +281,99 @@
           {
             "type": "Point",
             "coordinates": [
+              150.550941,
+              -24.405163
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.542468,
+                  -24.416285
+                ],
+                [
+                  150.555309,
+                  -24.417034
+                ],
+                [
+                  150.555601,
+                  -24.416967
+                ],
+                [
+                  150.557605,
+                  -24.415822
+                ],
+                [
+                  150.557688,
+                  -24.415763
+                ],
+                [
+                  150.55897,
+                  -24.414624
+                ],
+                [
+                  150.559011,
+                  -24.414582
+                ],
+                [
+                  150.559802,
+                  -24.413678
+                ],
+                [
+                  150.559873,
+                  -24.413223
+                ],
+                [
+                  150.552318,
+                  -24.396499
+                ],
+                [
+                  150.552062,
+                  -24.396259
+                ],
+                [
+                  150.544749,
+                  -24.393293
+                ],
+                [
+                  150.544059,
+                  -24.393667
+                ],
+                [
+                  150.542008,
+                  -24.415797
+                ],
+                [
+                  150.542468,
+                  -24.416285
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25CA4610",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "27",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:29PM 06 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BAILEYS LANE, VALENTINE PLAINS RD",
+        "SUBURBS": "BILOELA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               140.914114,
               -18.274645
             ]
@@ -589,8 +682,8 @@
           {
             "type": "Point",
             "coordinates": [
-              148.526922,
-              -21.138027
+              148.538306,
+              -21.141018
             ]
           },
           {
@@ -598,36 +691,20 @@
             "coordinates": [
               [
                 [
-                  148.486777,
-                  -21.131666
+                  148.509544,
+                  -21.137139
                 ],
                 [
-                  148.487371,
-                  -21.13354
+                  148.511197,
+                  -21.140064
                 ],
                 [
-                  148.487398,
-                  -21.133606
+                  148.51123,
+                  -21.140114
                 ],
                 [
-                  148.488293,
-                  -21.135364
-                ],
-                [
-                  148.488359,
-                  -21.135459
-                ],
-                [
-                  148.489551,
-                  -21.136795
-                ],
-                [
-                  148.489763,
-                  -21.136932
-                ],
-                [
-                  148.515133,
-                  -21.145124
+                  148.514897,
+                  -21.144959
                 ],
                 [
                   148.515228,
@@ -662,32 +739,40 @@
                   -21.13218
                 ],
                 [
-                  148.566375,
-                  -21.131745
+                  148.56631,
+                  -21.131744
                 ],
                 [
-                  148.49565,
-                  -21.125763
+                  148.528316,
+                  -21.133379
                 ],
                 [
-                  148.495439,
-                  -21.125789
+                  148.528293,
+                  -21.13338
                 ],
                 [
-                  148.492635,
-                  -21.126768
+                  148.51922,
+                  -21.134171
                 ],
                 [
-                  148.492494,
-                  -21.126844
+                  148.519183,
+                  -21.134175
                 ],
                 [
-                  148.48693,
-                  -21.13119
+                  148.515993,
+                  -21.134685
                 ],
                 [
-                  148.486777,
-                  -21.131666
+                  148.51593,
+                  -21.1347
+                ],
+                [
+                  148.509826,
+                  -21.136496
+                ],
+                [
+                  148.509544,
+                  -21.137139
                 ]
               ]
             ]
@@ -697,13 +782,13 @@
       "properties": {
         "EVENT_ID": "25MK2212",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "136",
+        "CUSTOMERS_AFFECTED": "57",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
         "STATUS": "Crews working on-site",
         "START": "4:26PM 06 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "BEE CREEK RD, CHELMER ST, CUMMINGS ST, CUNNINGHAM ST, DE BONIS RD, EUNGELLA DAM RD, HOWIE ST, JACK CUNNINGHAM ST, MACKAY EUNGELLA RD, NORTH ST, OKULOO RD, PITTIONIS RD, RUSSELL CUNNINGHAM ST, SONNY BOY CREEK RD",
-        "SUBURBS": "DALRYMPLE HEIGHTS, EUNGELLA, FINCH HATTON, NETHERDALE"
+        "EST_FIX_TIME": "3:00PM 07 Mar 2025",
+        "STREETS": "DE BONIS RD, MACKAY EUNGELLA RD, OKULOO RD, PITTIONIS RD",
+        "SUBURBS": "FINCH HATTON, NETHERDALE"
       }
     },
     {
@@ -714,8 +799,8 @@
           {
             "type": "Point",
             "coordinates": [
-              149.175061,
-              -21.090749
+              149.175503,
+              -21.087185
             ]
           },
           {
@@ -723,120 +808,112 @@
             "coordinates": [
               [
                 [
-                  149.141033,
-                  -21.112289
+                  149.17291,
+                  -21.086028
                 ],
                 [
-                  149.166325,
-                  -21.125037
+                  149.173633,
+                  -21.088954
                 ],
                 [
-                  149.166374,
-                  -21.125058
+                  149.173656,
+                  -21.089022
                 ],
                 [
-                  149.172966,
-                  -21.127538
+                  149.17392,
+                  -21.089632
                 ],
                 [
-                  149.173026,
-                  -21.127556
+                  149.174026,
+                  -21.089781
                 ],
                 [
-                  149.17374,
-                  -21.127727
+                  149.17431,
+                  -21.090048
                 ],
                 [
-                  149.17411,
-                  -21.127675
+                  149.174569,
+                  -21.090174
                 ],
                 [
-                  149.181732,
-                  -21.12331
+                  149.175833,
+                  -21.090376
                 ],
                 [
-                  149.181847,
-                  -21.123218
+                  149.17587,
+                  -21.090381
                 ],
                 [
-                  149.209259,
-                  -21.09316
+                  149.1773,
+                  -21.090504
                 ],
                 [
-                  149.209342,
-                  -21.092702
+                  149.177813,
+                  -21.090155
                 ],
                 [
-                  149.193474,
-                  -21.054642
+                  149.177872,
+                  -21.089915
                 ],
                 [
-                  149.193201,
-                  -21.054386
+                  149.177881,
+                  -21.089865
                 ],
                 [
-                  149.1925,
-                  -21.054129
+                  149.178092,
+                  -21.088106
                 ],
                 [
-                  149.192367,
-                  -21.0541
+                  149.178095,
+                  -21.088077
                 ],
                 [
-                  149.192149,
-                  -21.054082
+                  149.178104,
+                  -21.087887
                 ],
                 [
-                  149.192111,
-                  -21.05408
+                  149.178101,
+                  -21.087805
                 ],
                 [
-                  149.159677,
-                  -21.053771
+                  149.177693,
+                  -21.084974
                 ],
                 [
-                  149.159618,
-                  -21.053774
+                  149.177546,
+                  -21.084706
                 ],
                 [
-                  149.149526,
-                  -21.054837
+                  149.176726,
+                  -21.083982
                 ],
                 [
-                  149.149164,
-                  -21.055057
+                  149.17631,
+                  -21.083867
                 ],
                 [
-                  149.146948,
-                  -21.058606
+                  149.173535,
+                  -21.084341
                 ],
                 [
-                  149.146927,
-                  -21.058644
+                  149.173254,
+                  -21.084493
                 ],
                 [
-                  149.143212,
-                  -21.066149
+                  149.173155,
+                  -21.084602
                 ],
                 [
-                  149.14317,
-                  -21.06629
+                  149.173045,
+                  -21.084836
                 ],
                 [
-                  149.142453,
-                  -21.072411
+                  149.172902,
+                  -21.085868
                 ],
                 [
-                  149.14245,
-                  -21.072442
-                ],
-                [
-                  149.14078,
-                  -21.111873
-                ],
-                [
-                  149.141033,
-                  -21.112289
+                  149.17291,
+                  -21.086028
                 ]
               ]
             ]
@@ -850,9 +927,9 @@
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
         "STATUS": "Outage reported",
         "START": "5:35PM 06 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "ABEL TASMAN CT, ABERDEEN CT, ACACIA CT, ADELE CT, AHERN CT, AILEEN CT, ALBION CRES, ALMA CT, ALMORA DR, AMANDA DR, AMELIA DR, ANDERGROVE RD, ANDREW CT, ANGLERS PDE, ANITA DR, ANNIE WOOD AVE, ANTHONY VELLA ST, APOLLO DR, APSLEY WAY, ARANA DR, ARCHER CT, ARCTURUS ST, ARGYLE CT, AVOCADO CT, AZALEA CT, BALMORAL CT, BALZAN DR, BANGALOW CT, BANKSIA AVE, BANKSWOOD ST, BANYAN ST, BARNFIELD DR, BARRAMUNDI CT, BARTROP ST, BATMAN CT, BEACONSFIELD EAST RD, BEACONSFIELD RD, BEALE CRES, BEDFORD RD, BEGONIA CT, BELLAVISTA CCT, BEN NEVIS ST, BENSARA CRES, BERRY ST, BJELKE CCT, BLACKS BEACH RD, BONA VISTA DR, BONSAI CT, BORG CT, BOVEY ST, BRADFORD ST, BRAKE ST, BRAND CT, BREAM CT, BRIANNA CT, BRISTOL CT, BROCLIN CT, BROOMDYKES DR, BRYAN ST, BUCASIA RD, BUNYA WAY, BURGESS ST, BURSTON ST, BURWOOD CL, CABBAGE TREE RD, CALEDONIAN DR, CALEY TCE, CALLIANDRA CT, CAMELLEN ST, CAMPBELL ST, CARBEEN ST, CARIBAEA CT, CARL MURRAY ST, CARL ST, CAROVAL DR, CARTLEDGE CT, CASSIA ST, CASSLEY ST, CELEBER DR, CENTENNIAL DR, CENTRAL DR, CHALLENGER ST, CHALMERS CT, CHANTILLY CT, CHARLES CT, CHARLES HODGE AVE, CHELSEA CRES, CHERIBON AVE, CHESTER CRES, CICADA LANE, CITY VIEW CT, CLIVE CT, COATBRIDGE CT, COD PL, COLBY CT, COLLEGE CT, COONEY ST, CORAL CT, CORAL DR, CORELLA WAY, CORNEY ST, CORYMBIA CT, CRAIG ST, CREESE ST, CULHENE CT, CULLODEN PL, CUTLER DR, CYPRESS CT, DALE CT, DALLAS CT, DANIEL ST, DAPPLEWOOD CL, DARCY BVD, DAVINELLE CL, DAVLYN DR, DAWES CRES, DAWSON BVD, DEBBIESUE DR, DEBORAH CT, DEGUARA DR, DELL CT, DELMA ST, DENISE CT, DESBOIS ST, DEXTER CT, DIANE ST, DICKSON CT, DIXON CT, DOLBY CT, DOLLARBIRD LANE, DOMINO CRES, DON WRIGHT CT, DORIS ST, DOUGLAS CRES, DRAYTON ST, DUGONG DR, DUMFRIES CT, DUNDEE CT, DURHAM CT, EAGLEMOUNT RD, EDEN CT, EDINBURGH PL, EDMUND KENNEDY CT, EIMEO RD, ELEANOR DR, ELIZABETH ST, ELLUL CT, ELM DR, EMPEROR DR, ERIE ST, EUCALYPTUS DR, FARQUHAR ST, FARRELL CT, FATNOWNA ST, FERNGROVE LANE, FERNLEIGH AVE, FICUS CRES, FIONA CT, FLORESTA LANE, FLOUNDER CT, FOREST CT, FRANK PAUL ST, FRASER CT, FRIARBIRD AVE, FURLONG ST, GAIR ST, GALASHEILS ST, GALVIN ST, GALWAY CT, GARDENIA CT, GEMINI DR, GEOFFREY NOLAN DR, GEORGE FORDYCE DR, GIDGEE CT, GILLIES CT, GINGHAM ST, GLAMIS CT, GLENDALE ST, GLENELLA RICHMOND RD, GLENPARK ST, GLENWOOD PARK, GOLFLINKS RD, GRACE DEGUARA DR, GRASSTRAIL ST, GRAY CT, GREEN ST, GRETA CT, GROVE CT, HABER ST, HANN CL, HANNA CL, HANNAFORD ST, HARGREAVES ST, HARRINGTON ST, HARRIS ST, HARVEYS RD, HELGA CT, HENRY CT, HERALD CT, HERBERT WAY, HERMOSA CCT, HI GROVE TCE, HICKS ST, HIGH ST, HIGHLAND CT, HOCKEN ST, HOLACK ST, HOLMES DR, HOLTS RD, HONEYSUCKLE ST, HURON CRES, HYDRANGER CT, ILLAWARA CT, INGLEWOOD CL, INVERNESS CT, INVESTIGATOR ST, IVY DR, JACARANDA ST, JACKMAN CT, JAMES COOK DR, JAMES CROKER DR, JAMES CT, JAN CT, JANELLE CT, JARRAH ST, JASMINE ST, JASON ST, JESSIKA CT, JOHN CT, JOHN OXLEY AVE, KADDATZ ST, KARL LANGER CRES, KARRI CT, KARWIN DR, KATHERINE CT, KEAN ST, KEELEYS RD, KENSINGTON CT, KENZEY ST, KERRISDALE CRES, KEW CT, KIERRA DR, KIMBERLEY CT, KINTYRE CT, KIRKCONELL ST, KRAUSE CT, KURRAJONG CT, LAIRD ST, LAKESIDE WAY, LAKEVIEW DR, LANDSBOROUGH DR, LAUREN CT, LAVARACK ST, LEAHY ST, LENESHA DR, LEURA CT, LILLYPILLY WAY, LITORIA LANE, LITTLE ST, LIVISTONIA ST, LOCHMABEN CT, LOCKERBIE ST, LOCKYER CT, LOIS ST, LORENA CT, LORNE CT, LORRAINE CT, LOUISE CT, LUGANO MEWS, LYN CT, MACKAY BUCASIA RD, MADISON AVE, MAGUIRE ST, MALABAR CT, MALCOMSON ST, MALLETT CT, MALONE DR, MANNING ST, MANSFIELD DR, MANUEL ST, MANZELMANN ST, MAPLE DR, MARCELLA ST, MARLIN CT, MARSHALL AVE, MARYVALE CCT, MARZAN ST, MCCORMACK AVE, MCCREADY ST, MCGARRY ST, MCILWRAITH WAY, MCMAHON ST, MEADOW ST, MELISSA CT, MEYER ST, MICHIGAN WAY, MINER LANE, MOD CRES, MONIQUE CT, MONTERRICO CCT, MOREHEAD DR, MOSTA CT, MOUNTVIEW CT, NADARMI DR, NADINA ST, NATHAN CT, NEWTON ST, NICKLIN DR, NICOLE CT, NORFOLK DR, NORMAN ST, NORRIS RD, NORRIS ST, NORWOOD PDE, NUNKERI DR, OAK ST, OLD EIMEO RD, OLDMILL DR, ONTARIO PDE, ORANIA CT, ORION AVE, OSPREY CL, OYSTERLEE ST, PACIFIC DR, PAMELA ST, PANDANUS ST, PANSY WOOD CT, PAPERBARK WAY, PARKLANE CRES, PARKVIEW CT, PATRICIA DR, PAVILLION CT, PEATEY ST, PELLAGE CT, PENNY RD, PEPPERTREE CRES, PERCH CT, PETER CT, PETREA CT, PHILLIP ST, PINE ST, PITT ST, PITTMAN ST, POINCETTIA CT, POLLOCK ST, PORPOISE PL, POSSUM CL, PRIMAVERA BVD, RAFTER CT, RAINTREE CT, RAKE CT, RAMSAY CT, RAYLENE ST, RAYMOND CROKER AVE, REDWOOD ST, REGAL CCT, REGENCY CRES, RENAE ST, RESERVOIR RD, RHAPIS CT, RHONDA CT, RICHARD ST, ROBERTS AVE, ROMA CT, ROMAINE CT, RONNIE CT, ROSE ST, ROSEMOOR CT, ROYAL BVD, RUDD ST, RURAL VIEW DR, RUSSELL ST, SALMON CT, SAM BEZZINA DR, SAMS RD, SAMUEL CT, SCHAPERS RD, SCHNAPPER CT, SCRIHA ST, SEAFARER CT, SEAJAYSMITH WAY, SEASIDE PL, SHANE CT, SHELLEY CT, SHIRAL DR, SILVER GUM DR, SIR GRIFFITH WAY, SKYE CT, SKYLARK ST, SMALLEY ST, SMETHURST ST, SNOW WRIGHT CT, SOLOGINKIN RD, SONG CL, STEFAN CT, STOPHER CT, STUART HINDLE DR, SUNBIRD LANE, SUNITA DR, SUPERIOR BVD, SUTTON CT, TAMLEN CT, TAMRON DR, TANGLEWOOD AVE, TARMAN ST, TEDDY ST, TELINA DR, TERRI CT, THE BARONS DR, THE CRESCENT, THE GOOSE WALK, THOMAS MITCHELL CT, THORN AVE, THORNBILL LANE, TIFFINY CT, TOORAK ST, TRAFALGAR LANE, TRAMONTANA ST, TRASERO LANE, TRIGLA CT, TROPICAL AVE, TROUT AVE, TULLY CT, ULTIMO CT, VALLEY DR, VALLEY ST, VAN ELDIK AVE, VASSALLO DR, VERONICA CT, VICKY CT, WAGTAIL ST, WALANG CT, WALLMANS RD, WANATA ST, WANDOO CT, WARATAH ST, WARRENER ST, WATTLE ST, WESTAWAY CRES, WHITEFIG CL, WHITING CT, WHITNEY ST, WIGHAM CT, WILGA CT, WILLETTS RD, WILLOW CT, WILLS ST, WOODROFFE PL, WRASSE CT, YEA CT, ZAMIA CT, ZAMMIT ST",
-        "SUBURBS": "ANDERGROVE, BEACONSFIELD, BLACKS BEACH, BUCASIA, CANNONVALE, EIMEO, GLENELLA, MACKAY, MOUNT PLEASANT, NORTH MACKAY, RICHMOND, RURAL VIEW, SLADE POINT"
+        "EST_FIX_TIME": "4:00PM 07 Mar 2025",
+        "STREETS": "ARGYLE CT, BROOMDYKES DR, CALEDONIAN DR, DUMFRIES CT, DUNDEE CT, EDINBURGH PL, KIRKCONELL ST",
+        "SUBURBS": "BEACONSFIELD"
       }
     },
     {
@@ -1172,7 +1249,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "16",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "5:07PM 06 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "BOWHAY RD, BUCKENBAH RD, BUCKINBAH WEIR RD, CARNARVON HWY, MOONIE HWY",
@@ -1182,5 +1259,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741246801.523007"
+  "extracted": "1741247401.355615"
 }
