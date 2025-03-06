@@ -188,99 +188,6 @@
           {
             "type": "Point",
             "coordinates": [
-              150.550941,
-              -24.405163
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  150.542468,
-                  -24.416285
-                ],
-                [
-                  150.555309,
-                  -24.417034
-                ],
-                [
-                  150.555601,
-                  -24.416967
-                ],
-                [
-                  150.557605,
-                  -24.415822
-                ],
-                [
-                  150.557688,
-                  -24.415763
-                ],
-                [
-                  150.55897,
-                  -24.414624
-                ],
-                [
-                  150.559011,
-                  -24.414582
-                ],
-                [
-                  150.559802,
-                  -24.413678
-                ],
-                [
-                  150.559873,
-                  -24.413223
-                ],
-                [
-                  150.552318,
-                  -24.396499
-                ],
-                [
-                  150.552062,
-                  -24.396259
-                ],
-                [
-                  150.544749,
-                  -24.393293
-                ],
-                [
-                  150.544059,
-                  -24.393667
-                ],
-                [
-                  150.542008,
-                  -24.415797
-                ],
-                [
-                  150.542468,
-                  -24.416285
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25CA4610",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "27",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
-        "START": "5:29PM 06 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "BAILEYS LANE, VALENTINE PLAINS RD",
-        "SUBURBS": "BILOELA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               150.499122,
               -23.392438
             ]
@@ -367,76 +274,11 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "79",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "6:34PM 06 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "CORBERRY ST, DAVIS ST, ELGIN ST, LARNACH ST",
         "SUBURBS": "ALLENSTOWN, THE RANGE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              140.914114,
-              -18.274645
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  140.890631,
-                  -18.190175
-                ],
-                [
-                  140.936683,
-                  -18.362692
-                ],
-                [
-                  140.937251,
-                  -18.363017
-                ],
-                [
-                  140.937598,
-                  -18.362477
-                ],
-                [
-                  140.894088,
-                  -18.186424
-                ],
-                [
-                  140.893242,
-                  -18.186272
-                ],
-                [
-                  140.890699,
-                  -18.189809
-                ],
-                [
-                  140.890631,
-                  -18.190175
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25FN3114",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is due to the operating of protective equipment. ",
-        "STATUS": "Crews working on-site",
-        "START": "9:12AM 06 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "IFFLEY RD, UNKNOWN ST",
-        "SUBURBS": "NORMANTON"
       }
     },
     {
@@ -968,9 +810,94 @@
         "STREETS": "BOWHAY RD, BUCKENBAH RD, BUCKINBAH WEIR RD, CARNARVON HWY, MOONIE HWY",
         "SUBURBS": "ST GEORGE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.879454,
+              -25.362749
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.876544,
+                  -25.363182
+                ],
+                [
+                  152.879164,
+                  -25.364018
+                ],
+                [
+                  152.879303,
+                  -25.364043
+                ],
+                [
+                  152.880849,
+                  -25.364113
+                ],
+                [
+                  152.881129,
+                  -25.36405
+                ],
+                [
+                  152.882586,
+                  -25.363255
+                ],
+                [
+                  152.882505,
+                  -25.362449
+                ],
+                [
+                  152.879437,
+                  -25.361408
+                ],
+                [
+                  152.879189,
+                  -25.361385
+                ],
+                [
+                  152.877211,
+                  -25.361662
+                ],
+                [
+                  152.876901,
+                  -25.361824
+                ],
+                [
+                  152.876323,
+                  -25.362476
+                ],
+                [
+                  152.876544,
+                  -25.363182
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25WB3492",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews on route",
+        "START": "6:39PM 06 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BINGHAM RD, SANCTUARY LANE",
+        "SUBURBS": "BOORAL"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741250702.98399"
+  "extracted": "1741251303.859273"
 }
