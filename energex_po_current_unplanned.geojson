@@ -114,7 +114,7 @@
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "7:06AM 07 Mar 2025",
-        "EST_FIX_TIME": "11:30AM 07 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 07 Mar 2025",
         "STREETS": "BEAU PDE, BRACKENFIELD CT, CARRINGTON RD, CHESTERFIELD DR, EAGLEVIEW CT, FOREST RIDGE DR, JAKE CT, MONDAY DR, RIDGEVIEW CRES, SAM PL, SHUTTLEWOOD CT, TOURMALINE CT",
         "SUBURBS": "BONOGIN, TALLEBUDGERA VALLEY",
         "ETR_FLAG": "N"
@@ -8629,9 +8629,111 @@
         "SUBURBS": "ALLENVIEW, BEAUDESERT, BROMELTON",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.315658,
+              -28.141519
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.307404,
+                  -28.129212
+                ],
+                [
+                  153.309241,
+                  -28.163035
+                ],
+                [
+                  153.310068,
+                  -28.163366
+                ],
+                [
+                  153.310165,
+                  -28.163297
+                ],
+                [
+                  153.310272,
+                  -28.163194
+                ],
+                [
+                  153.31825,
+                  -28.152581
+                ],
+                [
+                  153.318329,
+                  -28.152403
+                ],
+                [
+                  153.323911,
+                  -28.12187
+                ],
+                [
+                  153.323585,
+                  -28.121375
+                ],
+                [
+                  153.318406,
+                  -28.119673
+                ],
+                [
+                  153.317916,
+                  -28.11974
+                ],
+                [
+                  153.308385,
+                  -28.12632
+                ],
+                [
+                  153.308229,
+                  -28.1265
+                ],
+                [
+                  153.307515,
+                  -28.127999
+                ],
+                [
+                  153.307475,
+                  -28.128147
+                ],
+                [
+                  153.307405,
+                  -28.129163
+                ],
+                [
+                  153.307404,
+                  -28.129212
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829676-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "108",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "7:31AM 07 Mar 2025",
+        "EST_FIX_TIME": "11:30AM 07 Mar 2025",
+        "STREETS": "AUSTINVILLE RD, DAINTREE CT, GOLD COAST-SPRINGBROOK RD, STAGHORN DR, TALLOWWOOD RD",
+        "SUBURBS": "AUSTINVILLE, NERANWOOD",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741296602.697585"
+  "extracted": "1741297201.6693"
 }
