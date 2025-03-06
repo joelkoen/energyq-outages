@@ -2058,7 +2058,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "951",
         "REASON": "Under Investigation",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "11:43AM 06 Mar 2025",
         "EST_FIX_TIME": "2:30PM 06 Mar 2025",
         "STREETS": "ASHCROFT CT, BONANZA PL, BOOLONG CT, BROOKONG CT, BUENA VISTA DR, BURDEKIN CT, CAMEL CT, CANAIPA CT, CARTWRIGHT RD, CHALLEN RD, CONDAMINE DR, COOINGIE VIEW RD, COPLICK CRES, DAINTREE DR, DAIRY CREEK RD, DIAMENTINA DR, DUKES CT, DUNNS RD, ELLEN CT, ENID CT, FORBES CT, FRYAR RD, HAMILTON RD, HAYVIEW CT, HEIN RD, HIDEAWAY LANE, HINCHCLIFFE RD, INSPIRATION DR, JACQUELINE RD, KENNEDY CT, LATIMER RD, LAVELLE DR, LOG CREEK RD, LUKE RD, MILLER RD, MINEHAN RD, MOMALONG CT, MURRAY RD, NATALIE RD, NEWSHAM CT, OOAH CCT, PONDEROSA AVE, QUINZEH CREEK RD, RANDLE RD, SHEREE CT, STANFORD CT, STEGEMANN RD, SUNBURY ST, SWANBOROUGH RD, THE ASPECT, TOMOHON HEIGHTS CL, TWILIGHT CT, TYSON CT, VERONICA CT, WARDLAND CT, WATERFORD TAMBORINE RD, WATERFORD-TAMBORINE RD, WEABER RD",
@@ -2207,9 +2207,71 @@
         "SUBURBS": "COOCHIEMUDLO ISLAND",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.986511,
+              -27.196388
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.98624,
+                  -27.19579
+                ],
+                [
+                  152.985847,
+                  -27.196644
+                ],
+                [
+                  152.986123,
+                  -27.197233
+                ],
+                [
+                  152.986782,
+                  -27.196987
+                ],
+                [
+                  152.987174,
+                  -27.196132
+                ],
+                [
+                  152.986898,
+                  -27.195543
+                ],
+                [
+                  152.98624,
+                  -27.19579
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-828867-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "12:23PM 06 Mar 2025",
+        "EST_FIX_TIME": "2:30PM 06 Mar 2025",
+        "STREETS": "SODIUM ST",
+        "SUBURBS": "NARANGBA",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741227600.355725"
+  "extracted": "1741227900.344178"
 }
