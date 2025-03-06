@@ -8535,9 +8535,103 @@
         "SUBURBS": "MUDGEERABA, ROBINA, TALLAI, WORONGARY",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.89138,
+              -27.942512
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.856734,
+                  -27.931224
+                ],
+                [
+                  152.859492,
+                  -27.944714
+                ],
+                [
+                  152.859715,
+                  -27.945012
+                ],
+                [
+                  152.912504,
+                  -27.97543
+                ],
+                [
+                  152.91282,
+                  -27.975501
+                ],
+                [
+                  152.925565,
+                  -27.974607
+                ],
+                [
+                  152.926026,
+                  -27.97408
+                ],
+                [
+                  152.92363,
+                  -27.961883
+                ],
+                [
+                  152.923588,
+                  -27.961765
+                ],
+                [
+                  152.897196,
+                  -27.913046
+                ],
+                [
+                  152.896885,
+                  -27.912809
+                ],
+                [
+                  152.884603,
+                  -27.909522
+                ],
+                [
+                  152.884121,
+                  -27.909615
+                ],
+                [
+                  152.856899,
+                  -27.930804
+                ],
+                [
+                  152.856734,
+                  -27.931224
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829665-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "7:24AM 07 Mar 2025",
+        "EST_FIX_TIME": "10:00AM 07 Mar 2025",
+        "STREETS": "BEAUDESERT-BOONAH RD, MITCHELL RD, TILLEY RD",
+        "SUBURBS": "ALLENVIEW, BEAUDESERT, BROMELTON",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741296000.476364"
+  "extracted": "1741296301.861829"
 }
