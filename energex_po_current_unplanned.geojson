@@ -322,7 +322,7 @@
         "REASON": "Powerlines down",
         "STATUS": "Awaiting",
         "START": "11:29PM 05 Mar 2025",
-        "EST_FIX_TIME": "4:30PM 06 Mar 2025",
+        "EST_FIX_TIME": "8:00AM 10 Mar 2025",
         "STREETS": "BANDICOOT LANE, BANKSIA RD, BILBOROUGH CT, BOY-ULL RD, CANYON PDE, CARRICKS RD, EE-JUNG RD, FORESTRY RD, GWONGORELLA PDE, KURALBOO ST, LLOYDS RD, LYREBIRD RIDGE RD, MIMOSA RD, MUNDORA RD, OLD SCHOOL RD, REPEATER STATION RD, SPRINGBROOK RD, VELVET DOWNS RD, WATTLE GR",
         "SUBURBS": "CURRUMBIN VALLEY, SPRINGBROOK",
         "ETR_FLAG": "N"
@@ -849,7 +849,7 @@
         "EVENT_ID": "INCD-828630-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "1118",
-        "REASON": "Under Investigation",
+        "REASON": "Powerlines down",
         "STATUS": "In Progress",
         "START": "8:56AM 06 Mar 2025",
         "EST_FIX_TIME": "5:30PM 06 Mar 2025",
@@ -1578,8 +1578,8 @@
           {
             "type": "Point",
             "coordinates": [
-              153.369317,
-              -28.181242
+              153.369301,
+              -28.189444
             ]
           },
           {
@@ -1619,52 +1619,44 @@
                   -28.172608
                 ],
                 [
-                  153.418076,
-                  -28.17219
+                  153.418008,
+                  -28.172091
                 ],
                 [
-                  153.402531,
-                  -28.141114
+                  153.406055,
+                  -28.158871
                 ],
                 [
-                  153.402506,
-                  -28.141071
+                  153.405823,
+                  -28.158726
                 ],
                 [
-                  153.40207,
-                  -28.140403
+                  153.396229,
+                  -28.155805
                 ],
                 [
-                  153.401705,
-                  -28.140183
+                  153.395854,
+                  -28.15582
                 ],
                 [
-                  153.395871,
-                  -28.139402
+                  153.359692,
+                  -28.170284
                 ],
                 [
-                  153.395626,
-                  -28.139422
+                  153.359633,
+                  -28.170311
                 ],
                 [
-                  153.394066,
-                  -28.139911
+                  153.342288,
+                  -28.179831
                 ],
                 [
-                  153.393945,
-                  -28.139966
+                  153.342284,
+                  -28.179834
                 ],
                 [
-                  153.393577,
-                  -28.140194
-                ],
-                [
-                  153.393535,
-                  -28.140222
-                ],
-                [
-                  153.340517,
-                  -28.18083
+                  153.340578,
+                  -28.18079
                 ],
                 [
                   153.340462,
@@ -1702,12 +1694,12 @@
       "properties": {
         "EVENT_ID": "INCD-828756-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "458",
+        "CUSTOMERS_AFFECTED": "391",
         "REASON": "Trees on powerlines",
         "STATUS": "Awaiting",
         "START": "10:33AM 06 Mar 2025",
         "EST_FIX_TIME": "7:30PM 06 Mar 2025",
-        "STREETS": "ARALUEN RD, BOWDEN CL, BRAMLEY DR, CAMPHORLAUREL CT, CLARE CT, DALTON RD, DES QUINLAN CRES, DOVE RD, DUCATS RD, EMILY LANE, FRESCO CT, GIBSONVILLE ST, GOLDEN VALLEY RD, LEN DICKFOS RD, LUXTON CT, MT COUGALL RD, PETSCH CREEK RD, RANCH CT, REYNELLA RD, RUSTY CT, SYNDICATE RD, TALLEBUDGERA CREEK RD, THOMAS WATERS RD, TREES RD, WISTERIA CT, YARRA CT",
+        "STREETS": "ARALUEN RD, BOWDEN CL, BRAMLEY DR, DALTON RD, DES QUINLAN CRES, DOVE RD, DUCATS RD, EMILY LANE, FRESCO CT, GIBSONVILLE ST, LEN DICKFOS RD, LUXTON CT, MT COUGALL RD, PETSCH CREEK RD, RANCH CT, REYNELLA RD, RUSTY CT, SYNDICATE RD, TALLEBUDGERA CREEK RD, THOMAS WATERS RD, TREES RD, YARRA CT",
         "SUBURBS": "TALLEBUDGERA, TALLEBUDGERA VALLEY",
         "ETR_FLAG": "N"
       }
@@ -2261,9 +2253,111 @@
         "SUBURBS": "NARANGBA",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.368383,
+              -27.658415
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.365178,
+                  -27.658327
+                ],
+                [
+                  153.365242,
+                  -27.65865
+                ],
+                [
+                  153.36525,
+                  -27.658681
+                ],
+                [
+                  153.365408,
+                  -27.659244
+                ],
+                [
+                  153.365435,
+                  -27.659314
+                ],
+                [
+                  153.365607,
+                  -27.659668
+                ],
+                [
+                  153.365897,
+                  -27.659912
+                ],
+                [
+                  153.366424,
+                  -27.660085
+                ],
+                [
+                  153.366684,
+                  -27.660107
+                ],
+                [
+                  153.371189,
+                  -27.659426
+                ],
+                [
+                  153.371588,
+                  -27.658847
+                ],
+                [
+                  153.370956,
+                  -27.657038
+                ],
+                [
+                  153.370421,
+                  -27.656723
+                ],
+                [
+                  153.367489,
+                  -27.656987
+                ],
+                [
+                  153.367317,
+                  -27.65703
+                ],
+                [
+                  153.365454,
+                  -27.657842
+                ],
+                [
+                  153.365178,
+                  -27.658327
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-828893-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "48",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "12:51PM 06 Mar 2025",
+        "EST_FIX_TIME": "3:00PM 06 Mar 2025",
+        "STREETS": "BETH ST, JACKSON RD, KORO ST, LAU ST, MARK RD, WEST ST",
+        "SUBURBS": "RUSSELL ISLAND",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741229700.385114"
+  "extracted": "1741230003.229164"
 }
