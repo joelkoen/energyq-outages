@@ -988,8 +988,8 @@
           {
             "type": "Point",
             "coordinates": [
-              153.346936,
-              -28.095705
+              153.348757,
+              -28.092806
             ]
           },
           {
@@ -997,36 +997,36 @@
             "coordinates": [
               [
                 [
-                  153.339237,
-                  -28.100609
+                  153.34294,
+                  -28.095505
                 ],
                 [
-                  153.340107,
-                  -28.102313
+                  153.34409,
+                  -28.097067
                 ],
                 [
-                  153.34014,
-                  -28.102367
+                  153.34459,
+                  -28.097267
                 ],
                 [
-                  153.340487,
-                  -28.102855
+                  153.352131,
+                  -28.096288
                 ],
                 [
-                  153.340941,
-                  -28.103065
+                  153.352181,
+                  -28.096279
                 ],
                 [
-                  153.341329,
-                  -28.103049
+                  153.352591,
+                  -28.096189
                 ],
                 [
-                  153.341582,
-                  -28.102978
+                  153.352616,
+                  -28.096182
                 ],
                 [
-                  153.354314,
-                  -28.095707
+                  153.354186,
+                  -28.09576
                 ],
                 [
                   153.354482,
@@ -1109,16 +1109,16 @@
                   -28.089825
                 ],
                 [
-                  153.344586,
-                  -28.090037
+                  153.344559,
+                  -28.090099
                 ],
                 [
-                  153.339239,
-                  -28.100233
+                  153.342878,
+                  -28.09513
                 ],
                 [
-                  153.339237,
-                  -28.100609
+                  153.34294,
+                  -28.095505
                 ]
               ]
             ]
@@ -1128,12 +1128,12 @@
       "properties": {
         "EVENT_ID": "INCD-828974-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "164",
+        "CUSTOMERS_AFFECTED": "116",
         "REASON": "Powerlines down",
         "STATUS": "In Progress",
         "START": "2:56PM 06 Mar 2025",
         "EST_FIX_TIME": "6:30PM 06 Mar 2025",
-        "STREETS": "BERTANA DR, BIBBA CT, CARRAMA CT, CURRONG CRES, HARDYS RD, NATAN RD, TARRANT DR, WALLA CT, WALLABY DR",
+        "STREETS": "BERTANA DR, CARRAMA CT, CURRONG CRES, HARDYS RD, NATAN RD, TARRANT DR",
         "SUBURBS": "MUDGEERABA",
         "ETR_FLAG": "N"
       }
@@ -1627,9 +1627,167 @@
         "SUBURBS": "GATTON, LAWES",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.324826,
+              -28.067145
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.298137,
+                  -28.042093
+                ],
+                [
+                  153.298725,
+                  -28.049246
+                ],
+                [
+                  153.298774,
+                  -28.04941
+                ],
+                [
+                  153.303408,
+                  -28.057915
+                ],
+                [
+                  153.30341,
+                  -28.057918
+                ],
+                [
+                  153.319046,
+                  -28.085957
+                ],
+                [
+                  153.319196,
+                  -28.086117
+                ],
+                [
+                  153.327033,
+                  -28.091364
+                ],
+                [
+                  153.327036,
+                  -28.091366
+                ],
+                [
+                  153.328129,
+                  -28.092087
+                ],
+                [
+                  153.32837,
+                  -28.092173
+                ],
+                [
+                  153.332275,
+                  -28.092603
+                ],
+                [
+                  153.332577,
+                  -28.092553
+                ],
+                [
+                  153.349691,
+                  -28.084448
+                ],
+                [
+                  153.34978,
+                  -28.084394
+                ],
+                [
+                  153.349893,
+                  -28.08431
+                ],
+                [
+                  153.34998,
+                  -28.084226
+                ],
+                [
+                  153.351221,
+                  -28.082677
+                ],
+                [
+                  153.351311,
+                  -28.082472
+                ],
+                [
+                  153.351515,
+                  -28.081045
+                ],
+                [
+                  153.351413,
+                  -28.080711
+                ],
+                [
+                  153.350752,
+                  -28.079954
+                ],
+                [
+                  153.350745,
+                  -28.079947
+                ],
+                [
+                  153.346973,
+                  -28.075815
+                ],
+                [
+                  153.346927,
+                  -28.075771
+                ],
+                [
+                  153.331938,
+                  -28.063193
+                ],
+                [
+                  153.331898,
+                  -28.063162
+                ],
+                [
+                  153.311954,
+                  -28.049617
+                ],
+                [
+                  153.311933,
+                  -28.049603
+                ],
+                [
+                  153.298932,
+                  -28.041688
+                ],
+                [
+                  153.298137,
+                  -28.042093
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829160-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "990",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "7:16PM 06 Mar 2025",
+        "EST_FIX_TIME": "9:30PM 06 Mar 2025",
+        "STREETS": "ALLEENA CT, ALTOS CT, AVONDALE PL, BAILEYS RD, BENDIGO CRES, BERRIGANS RD, BURKE CRES, CLUNES CT, COASTVIEW CRES, COLONIAL CT, DUCHESS CT, DUKE CT, EARLE CT, ELAINE AVE, GILSTON RD, GRANDVIEW TCE, HOLTERMAN CT, JULIE WAY, KAGOOLA DR, KERALA CT, LALOR CT, MARCUS WAY, MINERS CT, NOLAN ST, OPHIR CT, OTIOSE CT, PROSPECTOR RD, RED OAK DR, SETTLEMENT CT, STOCKMAN CRES, STRIKE WAY, SUGARGLIDER LANE, SWAGMAN CT, TALLAI RD, THE PANORAMA, TOLHURST CT, TUENA ST, UNDERHILL PL, UTOPIA CT, VERONICA DR, WALLANDRA RD, WORONGARY RD, ZIEDAN DR",
+        "SUBURBS": "ADVANCETOWN, MUDGEERABA, TALLAI",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741252504.040764"
+  "extracted": "1741252804.605475"
 }
