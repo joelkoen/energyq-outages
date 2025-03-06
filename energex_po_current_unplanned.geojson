@@ -1441,12 +1441,20 @@
                   -28.141083
                 ],
                 [
-                  153.47408,
-                  -28.141125
+                  153.474087,
+                  -28.14112
                 ],
                 [
-                  153.464385,
-                  -28.147023
+                  153.46818,
+                  -28.144581
+                ],
+                [
+                  153.468161,
+                  -28.144592
+                ],
+                [
+                  153.464374,
+                  -28.14703
                 ],
                 [
                   153.464247,
@@ -1476,12 +1484,12 @@
       "properties": {
         "EVENT_ID": "INCD-829167-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "1928",
+        "CUSTOMERS_AFFECTED": "1981",
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "7:36PM 06 Mar 2025",
         "EST_FIX_TIME": "12:00PM 07 Mar 2025",
-        "STREETS": "AJAX CT, ALLCHIN CT, AUSTIN AVE, BERNOTH ST, BIENVENUE DR, BOOM CT, BORDER DR, BORDER DR N, BOUNDARY ST, BRADSHAW DR, BROOME ST, CANNON DR, CARRISA CT, CARSTENS CT, CHAUVEL CT, CHIPPENDALE CRES, CHIRGWIN CT, CHOWN AVE, CLIVES CCT, COGHILL DR, CORMACK PL, CREAL CT, CURRUMBIN CREEK RD, DOLAN CT, DRUMFISH DR, GILCHRIST DR, HAMMERSFORD DR, HARRIS CT, HAWKER ST, HAYTER ST, HEADSAIL CT, HERBERT ST, HOFFSCHILDT DR, HOLST PL, ITONG PL, JANAL PL, JUDELLER RD, JUST ST, KEEL CT, KELVIN CT, KUKULIES CT, LEONARD PDE, MAINSAIL ST, MAST CT, MAYFAIR ST, MCKENZIE DR, MOLLYS PL, NARBINE ST, NATASHA CT, NEESON PL, ORA CT, POCOCK CT, PRUDHOE PL, QUEENSBURY AVE, REYNTON ST, ROBINSON PL, RODBURN DR, ROKER DR, SAWTELL DR, SELLIN PL, SPINNAKER CT, STATION ST, STEWART RD, TEATREE AVE, THE CROSS RD, THUNDER DR, TILLER CT, TOGO'S AVE, VILLIERS DR, VUCAS CT, WESTARI CT, WHEELER CRES, WHITSUNDAY DR, WILKINSON CRES",
+        "STREETS": "AJAX CT, ALLCHIN CT, AUSTIN AVE, BERNOTH ST, BIENVENUE DR, BOOM CT, BORDER DR, BORDER DR N, BOUNDARY ST, BRADSHAW DR, BROOME ST, CANNON DR, CARRISA CT, CARSTENS CT, CHAUVEL CT, CHIPPENDALE CRES, CHIRGWIN CT, CHOWN AVE, CLIVES CCT, COGHILL DR, CORMACK PL, CREAL CT, CURRUMBIN CREEK RD, DAVALL ST, DOLAN CT, DRUMFISH DR, GILCHRIST DR, HAMMERSFORD DR, HARRIS CT, HAWKER ST, HAYTER ST, HEADSAIL CT, HERBERT ST, HOFFSCHILDT DR, HOLST PL, ITONG PL, JANAL PL, JUDELLER RD, JUST ST, KEEL CT, KELVIN CT, KUKULIES CT, LEONARD PDE, MAINSAIL ST, MAST CT, MAYFAIR ST, MCKENZIE DR, MOLLYS PL, NARBINE ST, NATASHA CT, NEESON PL, ORA CT, POCOCK CT, PRUDHOE PL, QUEENSBURY AVE, REYNTON ST, ROBINSON PL, RODBURN DR, ROKER DR, SAWTELL DR, SELLIN PL, SPINNAKER CT, STATION ST, STEWART RD, TEATREE AVE, THE CROSS RD, THUNDER DR, TILLER CT, TOGO'S AVE, VILLIERS DR, VUCAS CT, WESTARI CT, WHEELER CRES, WHITSUNDAY DR, WILKINSON CRES",
         "SUBURBS": "CURRUMBIN WATERS",
         "ETR_FLAG": "N"
       }
@@ -3937,9 +3945,135 @@
         "SUBURBS": "BONOGIN",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.848297,
+              -28.084664
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.820461,
+                  -28.090843
+                ],
+                [
+                  152.820986,
+                  -28.091333
+                ],
+                [
+                  152.821094,
+                  -28.09141
+                ],
+                [
+                  152.828758,
+                  -28.095468
+                ],
+                [
+                  152.828827,
+                  -28.095498
+                ],
+                [
+                  152.853659,
+                  -28.10449
+                ],
+                [
+                  152.853805,
+                  -28.104521
+                ],
+                [
+                  152.854006,
+                  -28.104537
+                ],
+                [
+                  152.854396,
+                  -28.104419
+                ],
+                [
+                  152.858551,
+                  -28.101018
+                ],
+                [
+                  152.858572,
+                  -28.101
+                ],
+                [
+                  152.86138,
+                  -28.098422
+                ],
+                [
+                  152.861445,
+                  -28.098348
+                ],
+                [
+                  152.876262,
+                  -28.077336
+                ],
+                [
+                  152.876079,
+                  -28.076703
+                ],
+                [
+                  152.853302,
+                  -28.065363
+                ],
+                [
+                  152.853065,
+                  -28.065305
+                ],
+                [
+                  152.82952,
+                  -28.064791
+                ],
+                [
+                  152.829088,
+                  -28.064987
+                ],
+                [
+                  152.825452,
+                  -28.069672
+                ],
+                [
+                  152.825374,
+                  -28.069833
+                ],
+                [
+                  152.820333,
+                  -28.090437
+                ],
+                [
+                  152.820461,
+                  -28.090843
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829307-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1011",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "11:09PM 06 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 07 Mar 2025",
+        "STREETS": "BARKER PL, BOBBY JONES CT, BOOMERANG DR, BROOKS DR, CAMPBELL DR, CANNON PL, CHARLES CL, CLARKE PL, COLLINS PL, DRYNAN PL, EDWARD PL, ETRUSCAN RD, FARWELL CL, FLAGSTAFF CL, FRANCIS CL, HAYGARTH DR, HINCHCLIFFE DR, KOORALBYN DR, LADY CAROLINE CL, MARKWELL DR, MUIRHEAD CL, OGILVIE PL, PAINE PL, REDMOND PL, ROUTLEY DR, SALISBURY AVE, SCARVELL PL, SMALES CL, STEPHENS PL, VON NIDA DR, WALKER DR, WELLINGTON BUNDOCK DR, WHITE PL, WINDON CL, WYANGARIE PL, WYNDHAM PL, YULGIBAR CL",
+        "SUBURBS": "KOORALBYN",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741266301.209302"
+  "extracted": "1741266904.446335"
 }
