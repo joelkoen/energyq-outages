@@ -1048,84 +1048,6 @@
           {
             "type": "Point",
             "coordinates": [
-              152.401588,
-              -27.657461
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.400648,
-                  -27.659552
-                ],
-                [
-                  152.40183,
-                  -27.659165
-                ],
-                [
-                  152.402031,
-                  -27.659044
-                ],
-                [
-                  152.402671,
-                  -27.658414
-                ],
-                [
-                  152.402791,
-                  -27.658205
-                ],
-                [
-                  152.403208,
-                  -27.65645
-                ],
-                [
-                  152.40286,
-                  -27.655925
-                ],
-                [
-                  152.400803,
-                  -27.65537
-                ],
-                [
-                  152.400149,
-                  -27.65578
-                ],
-                [
-                  152.399967,
-                  -27.659106
-                ],
-                [
-                  152.400648,
-                  -27.659552
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-829120-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "9",
-        "REASON": "Under Investigation",
-        "STATUS": "In Progress",
-        "START": "6:11PM 06 Mar 2025",
-        "EST_FIX_TIME": "10:30PM 06 Mar 2025",
-        "STREETS": "BEAMES DR, MILNE ST",
-        "SUBURBS": "LAIDLEY, LAIDLEY SOUTH",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               153.446793,
               -28.179263
             ]
@@ -3185,9 +3107,103 @@
         "SUBURBS": "WORONGARY",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.39431,
+              -28.103095
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.392745,
+                  -28.100239
+                ],
+                [
+                  153.392778,
+                  -28.101015
+                ],
+                [
+                  153.392778,
+                  -28.101018
+                ],
+                [
+                  153.39297,
+                  -28.104885
+                ],
+                [
+                  153.392972,
+                  -28.104905
+                ],
+                [
+                  153.393072,
+                  -28.105905
+                ],
+                [
+                  153.393418,
+                  -28.106292
+                ],
+                [
+                  153.394594,
+                  -28.10664
+                ],
+                [
+                  153.395257,
+                  -28.106284
+                ],
+                [
+                  153.395876,
+                  -28.102907
+                ],
+                [
+                  153.395826,
+                  -28.102628
+                ],
+                [
+                  153.394101,
+                  -28.099662
+                ],
+                [
+                  153.393288,
+                  -28.099551
+                ],
+                [
+                  153.392892,
+                  -28.099904
+                ],
+                [
+                  153.392745,
+                  -28.100239
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829257-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "31",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "9:17PM 06 Mar 2025",
+        "EST_FIX_TIME": "1:30AM 07 Mar 2025",
+        "STREETS": "BRIDGMAN DR, HEULAN CT, ROYSTON CRES",
+        "SUBURBS": "REEDY CREEK",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741261201.915345"
+  "extracted": "1741261505.519457"
 }
