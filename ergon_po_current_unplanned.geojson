@@ -686,6 +686,75 @@
           {
             "type": "Point",
             "coordinates": [
+              145.831032,
+              -28.068243
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.804516,
+                  -28.087356
+                ],
+                [
+                  145.858271,
+                  -28.049816
+                ],
+                [
+                  145.858356,
+                  -28.049182
+                ],
+                [
+                  145.857641,
+                  -28.049107
+                ],
+                [
+                  145.803902,
+                  -28.086595
+                ],
+                [
+                  145.803724,
+                  -28.086837
+                ],
+                [
+                  145.803709,
+                  -28.086888
+                ],
+                [
+                  145.803923,
+                  -28.087379
+                ],
+                [
+                  145.804516,
+                  -28.087356
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25SW4250",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 07 Mar 2025",
+        "EST_FIX_TIME": "10:00AM 07 Mar 2025",
+        "STREETS": "BALONNE HWY",
+        "SUBURBS": "CUNNAMULLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.385953,
               -28.425917
             ]
@@ -875,5 +944,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741299900.357183"
+  "extracted": "1741300202.635009"
 }
