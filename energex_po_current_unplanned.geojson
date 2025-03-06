@@ -185,7 +185,7 @@
         "EVENT_ID": "INCD-828451-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "104",
-        "REASON": "Powerlines down",
+        "REASON": "Damage Due To Cyclone",
         "STATUS": "In Progress",
         "START": "8:48PM 05 Mar 2025",
         "EST_FIX_TIME": "12:00PM 07 Mar 2025",
@@ -319,7 +319,7 @@
         "EVENT_ID": "INCD-828480-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "425",
-        "REASON": "Powerlines down",
+        "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "11:29PM 05 Mar 2025",
         "EST_FIX_TIME": "12:00PM 07 Mar 2025",
@@ -511,154 +511,12 @@
         "EVENT_ID": "INCD-828756-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "40",
-        "REASON": "Trees on powerlines",
+        "REASON": "Damage Due To Cyclone",
         "STATUS": "In Progress",
         "START": "10:33AM 06 Mar 2025",
         "EST_FIX_TIME": "12:00PM 07 Mar 2025",
         "STREETS": "EMILY LANE, LEN DICKFOS RD, MT COUGALL RD, TALLEBUDGERA CREEK RD",
         "SUBURBS": "TALLEBUDGERA, TALLEBUDGERA VALLEY",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              153.330529,
-              -27.569505
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.322834,
-                  -27.573298
-                ],
-                [
-                  153.32286,
-                  -27.574355
-                ],
-                [
-                  153.32334,
-                  -27.574796
-                ],
-                [
-                  153.329238,
-                  -27.575062
-                ],
-                [
-                  153.329319,
-                  -27.57506
-                ],
-                [
-                  153.332769,
-                  -27.574722
-                ],
-                [
-                  153.332853,
-                  -27.574707
-                ],
-                [
-                  153.335488,
-                  -27.574036
-                ],
-                [
-                  153.335605,
-                  -27.573991
-                ],
-                [
-                  153.33738,
-                  -27.573065
-                ],
-                [
-                  153.337589,
-                  -27.572855
-                ],
-                [
-                  153.338053,
-                  -27.571905
-                ],
-                [
-                  153.338094,
-                  -27.571751
-                ],
-                [
-                  153.338103,
-                  -27.571626
-                ],
-                [
-                  153.338103,
-                  -27.571608
-                ],
-                [
-                  153.338223,
-                  -27.56574
-                ],
-                [
-                  153.337864,
-                  -27.5653
-                ],
-                [
-                  153.337658,
-                  -27.565244
-                ],
-                [
-                  153.337652,
-                  -27.565242
-                ],
-                [
-                  153.334063,
-                  -27.564315
-                ],
-                [
-                  153.334051,
-                  -27.564313
-                ],
-                [
-                  153.332545,
-                  -27.563958
-                ],
-                [
-                  153.332347,
-                  -27.563948
-                ],
-                [
-                  153.331025,
-                  -27.564109
-                ],
-                [
-                  153.330697,
-                  -27.564276
-                ],
-                [
-                  153.322943,
-                  -27.573008
-                ],
-                [
-                  153.322834,
-                  -27.573298
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-828856-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "710",
-        "REASON": "Damage due to severe weather",
-        "STATUS": "Awaiting",
-        "START": "12:09PM 06 Mar 2025",
-        "EST_FIX_TIME": "12:00PM 07 Mar 2025",
-        "STREETS": "AMINYA ST, CAPEMBAH ST, CAREFREE ST, CYPRESS ST, DAWN ST, DEANBILLA ST, ELIZABETH ST, EPRAPAH ST, EROBIN ST, FLINDERS ST, FREDERICK ST, GEORGE ST, INNES ST, JAMES ST, KINGFISHER ST, MARANA ST, MAREELA ST, MARROO ST, MERINDAH ST, MOONAH ST, MOOROONDU ST, NAMA ST, OAKES ST, OOYAN ST, ORANGE GROVE ST, PANDANUS ST, PERULPA ST, PHILLIPS ST, PULLEN ST, ROSS ST, SHIRLEY ST, TAGERUBA ST, VICTORIA PDE E, VICTORIA PDE N, VICTORIA PDE S, VICTORIA PDE W, WELSBY ST, WILLIAMS ST",
-        "SUBURBS": "COOCHIEMUDLO ISLAND",
         "ETR_FLAG": "N"
       }
     },
@@ -755,7 +613,7 @@
         "EVENT_ID": "INCD-828893-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "48",
-        "REASON": "Damage due to severe weather",
+        "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "12:51PM 06 Mar 2025",
         "EST_FIX_TIME": "4:30PM 07 Mar 2025",
@@ -979,7 +837,7 @@
         "EVENT_ID": "INCD-828974-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "35",
-        "REASON": "Powerlines down",
+        "REASON": "Damage Due To Cyclone",
         "STATUS": "In Progress",
         "START": "2:56PM 06 Mar 2025",
         "EST_FIX_TIME": "12:00PM 07 Mar 2025",
@@ -1224,8 +1082,8 @@
           {
             "type": "Point",
             "coordinates": [
-              153.446774,
-              -28.176459
+              153.446793,
+              -28.179263
             ]
           },
           {
@@ -1265,52 +1123,44 @@
                   -28.179326
                 ],
                 [
-                  153.458329,
-                  -28.178876
+                  153.458287,
+                  -28.178797
                 ],
                 [
-                  153.453787,
-                  -28.167772
+                  153.453632,
+                  -28.171934
                 ],
                 [
-                  153.453562,
-                  -28.167535
+                  153.453368,
+                  -28.171742
                 ],
                 [
-                  153.450231,
-                  -28.165835
+                  153.452366,
+                  -28.171422
                 ],
                 [
-                  153.449846,
-                  -28.16579
+                  153.452133,
+                  -28.171399
                 ],
                 [
-                  153.444179,
-                  -28.167125
+                  153.446793,
+                  -28.171964
                 ],
                 [
-                  153.443926,
-                  -28.167265
+                  153.446587,
+                  -28.172027
                 ],
                 [
-                  153.436431,
-                  -28.174872
+                  153.44548,
+                  -28.172629
                 ],
                 [
-                  153.436334,
-                  -28.175018
+                  153.44532,
+                  -28.172767
                 ],
                 [
-                  153.436105,
-                  -28.175594
-                ],
-                [
-                  153.436078,
-                  -28.175713
-                ],
-                [
-                  153.435218,
-                  -28.186648
+                  153.4353,
+                  -28.186434
                 ],
                 [
                   153.435786,
@@ -1324,12 +1174,12 @@
       "properties": {
         "EVENT_ID": "INCD-829140-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "131",
+        "CUSTOMERS_AFFECTED": "60",
         "REASON": "Damage Due To Cyclone",
         "STATUS": "In Progress",
         "START": "6:37PM 06 Mar 2025",
         "EST_FIX_TIME": "12:00PM 07 Mar 2025",
-        "STREETS": "AQUA PROMENADE, BOURKE LODGE DR, CURRUMBIN CREEK RD, JALINDA CT, KYTE ST, PIGGABEEN RD, VITA BELLA CT",
+        "STREETS": "KYTE ST, PIGGABEEN RD",
         "SUBURBS": "CURRUMBIN VALLEY, CURRUMBIN WATERS",
         "ETR_FLAG": "N"
       }
@@ -2728,7 +2578,7 @@
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "9:06PM 06 Mar 2025",
-        "EST_FIX_TIME": "12:30AM 07 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 07 Mar 2025",
         "STREETS": "BUCKINGHAM WAY, CHESHIRE GR, CORNWALL DR, DORSET PL, EVERGREEN DR, HILLIER ST, HORSMAN RD, KILLARA ST, MAVISTA GR, SIMPSONS RD, WESTMINSTER BVD, YATAMA PL",
         "SUBURBS": "CURRUMBIN WATERS, ELANORA",
         "ETR_FLAG": "N"
@@ -2996,7 +2846,7 @@
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "9:09PM 06 Mar 2025",
-        "EST_FIX_TIME": "12:30AM 07 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 07 Mar 2025",
         "STREETS": "ALEX FISHER DR, CALABRO WAY, CHINE LANE, DAVO CT, ERN HARLEY DR, GREG CHAPPELL DR, HAMPTON RD, KIMBERLEY RD, KORTUM DR, NEWCASTLE ST, RAMLY DR, REEDY CREEK RD, ROTHCOTE CT, SUNLIGHT DR, TAREE ST, WILLIAM BANKS DR",
         "SUBURBS": "BURLEIGH HEADS, BURLEIGH WATERS",
         "ETR_FLAG": "N"
@@ -3010,8 +2860,8 @@
           {
             "type": "Point",
             "coordinates": [
-              153.427466,
-              -28.138734
+              153.228062,
+              -28.076369
             ]
           },
           {
@@ -3019,128 +2869,96 @@
             "coordinates": [
               [
                 [
-                  153.403044,
-                  -28.149727
+                  153.202034,
+                  -28.116874
                 ],
                 [
-                  153.405556,
-                  -28.157099
+                  153.202146,
+                  -28.117211
                 ],
                 [
-                  153.405611,
-                  -28.157207
+                  153.202962,
+                  -28.117429
                 ],
                 [
-                  153.41104,
-                  -28.164917
+                  153.21009,
+                  -28.112112
                 ],
                 [
-                  153.411581,
-                  -28.165119
+                  153.210129,
+                  -28.11208
                 ],
                 [
-                  153.427414,
-                  -28.162035
+                  153.219835,
+                  -28.103162
                 ],
                 [
-                  153.427605,
-                  -28.161958
+                  153.219895,
+                  -28.103094
                 ],
                 [
-                  153.429972,
-                  -28.160424
+                  153.235567,
+                  -28.08169
                 ],
                 [
-                  153.430054,
-                  -28.160358
+                  153.235596,
+                  -28.081644
                 ],
                 [
-                  153.451774,
-                  -28.138465
+                  153.253147,
+                  -28.05008
                 ],
                 [
-                  153.451901,
-                  -28.138165
+                  153.253176,
+                  -28.050016
                 ],
                 [
-                  153.451894,
-                  -28.136797
+                  153.254094,
+                  -28.047424
                 ],
                 [
-                  153.451873,
-                  -28.136671
+                  153.254103,
+                  -28.047183
                 ],
                 [
-                  153.450144,
-                  -28.131513
+                  153.252564,
+                  -28.041467
                 ],
                 [
-                  153.450121,
-                  -28.131457
+                  153.252374,
+                  -28.04121
                 ],
                 [
-                  153.441774,
-                  -28.114938
+                  153.243452,
+                  -28.03531
                 ],
                 [
-                  153.441762,
-                  -28.114917
+                  153.242685,
+                  -28.035485
                 ],
                 [
-                  153.440819,
-                  -28.113287
+                  153.202963,
+                  -28.11303
                 ],
                 [
-                  153.440596,
-                  -28.113091
+                  153.202932,
+                  -28.11311
                 ],
                 [
-                  153.438943,
-                  -28.112349
+                  153.202216,
+                  -28.115714
                 ],
                 [
-                  153.438358,
-                  -28.112428
+                  153.20221,
+                  -28.115741
                 ],
                 [
-                  153.41507,
-                  -28.132483
+                  153.202021,
+                  -28.116665
                 ],
                 [
-                  153.415031,
-                  -28.132521
-                ],
-                [
-                  153.404549,
-                  -28.143894
-                ],
-                [
-                  153.404478,
-                  -28.143998
-                ],
-                [
-                  153.404327,
-                  -28.144301
-                ],
-                [
-                  153.404318,
-                  -28.14432
-                ],
-                [
-                  153.404035,
-                  -28.144969
-                ],
-                [
-                  153.40401,
-                  -28.145046
-                ],
-                [
-                  153.403032,
-                  -28.149511
-                ],
-                [
-                  153.403044,
-                  -28.149727
+                  153.202034,
+                  -28.116874
                 ]
               ]
             ]
@@ -3148,20 +2966,106 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-829220-g",
+        "EVENT_ID": "INCD-829223-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "1295",
+        "CUSTOMERS_AFFECTED": "381",
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
-        "START": "9:09PM 06 Mar 2025",
+        "START": "9:13PM 06 Mar 2025",
         "EST_FIX_TIME": "11:30PM 06 Mar 2025",
-        "STREETS": "ANDREWS RD, ARINGA WAY, BAEKEA DR, BENAROON CT, BETULA PL, BILKURRA CT, BODALLA PL, CARAPOOK CRES, CASUARINA DR, COORABIN CT, COPLICKS LANE, CORREA CT, CURRINGA CT, DAFFODIL ST, DALWOOD CT, DERMOTT PL, DUDGEON DR, DUNGOGIE DR, DWYER CL, GOLINE CT, GOOLABAH DR, GRANDIS CT, GREEN LANE, GUINEAS CREEK RD, HARMES PL, HEATHER ST, HEETERRA CT, HIDDEN COVE, ISABELLA CT, JAMBEROO CT, JASMARIN DR, JEDDA ST, JOYCE CT, KARRAGATA CT, KEERONG CT, KEVIN CT, KIMMULI DR, KOOMBAHLA DR, KOORINGAL CT, LITA CT, MAIN ST, MARTHA RUDDY WAY, MARY BALE DR, NORTHBOW CT, NORTHLAKES DR, NYOKA CT, PADAMO CT, PULTENEA CT, RONELLE CT, ROSEBANK CT, SAFFRON ST, SAMUEL DR, STAATZ CT, STOCKYARD CT, SULLIVAN RD, TALLEBUDGERA CONNECTION RD, TALLEBUDGERA CREEK RD, TALLY SPRINGS DR, TERRANIA CT, TOBIN WAY, TOWNSHIP DR, TREES RD, TSIPURA DR, TYALLA CT, VALLEY DR, WALLOWA CT, WIRILDAR DR, YANDALA PL, ZINNEA ST",
-        "SUBURBS": "BURLEIGH HEADS, ELANORA, TALLEBUDGERA, TALLEBUDGERA VALLEY",
+        "STREETS": "BEECHMONT RD, ELIMBAH CT, FERNTREE LANE, GRETTY LANE, INGHAM ST, JARDINE RD, LOOP RD, MIRANI ST, NORTH RD, OUTLOOK AVE, TARLINGTON LANE, TARLINGTON RD",
+        "SUBURBS": "BEECHMONT, LOWER BEECHMONT",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.416332,
+              -28.157212
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.410549,
+                  -28.161956
+                ],
+                [
+                  153.410967,
+                  -28.164738
+                ],
+                [
+                  153.411815,
+                  -28.165012
+                ],
+                [
+                  153.420111,
+                  -28.158315
+                ],
+                [
+                  153.420249,
+                  -28.158131
+                ],
+                [
+                  153.422089,
+                  -28.153493
+                ],
+                [
+                  153.422116,
+                  -28.153315
+                ],
+                [
+                  153.42186,
+                  -28.149708
+                ],
+                [
+                  153.420999,
+                  -28.149411
+                ],
+                [
+                  153.411624,
+                  -28.157403
+                ],
+                [
+                  153.411477,
+                  -28.157641
+                ],
+                [
+                  153.410554,
+                  -28.16181
+                ],
+                [
+                  153.410549,
+                  -28.161956
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829224-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "64",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "9:13PM 06 Mar 2025",
+        "EST_FIX_TIME": "12:00AM 07 Mar 2025",
+        "STREETS": "KOORINGAL CT, TREES RD",
+        "SUBURBS": "TALLEBUDGERA, TALLEBUDGERA VALLEY",
         "ETR_FLAG": "N"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741259401.17973"
+  "extracted": "1741259704.390393"
 }
