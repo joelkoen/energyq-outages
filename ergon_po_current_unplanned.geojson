@@ -188,6 +188,91 @@
           {
             "type": "Point",
             "coordinates": [
+              149.53295,
+              -23.851387
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.444475,
+                  -23.867107
+                ],
+                [
+                  149.609756,
+                  -23.949399
+                ],
+                [
+                  149.610181,
+                  -23.949418
+                ],
+                [
+                  149.612239,
+                  -23.948616
+                ],
+                [
+                  149.612527,
+                  -23.948302
+                ],
+                [
+                  149.621623,
+                  -23.911894
+                ],
+                [
+                  149.62163,
+                  -23.911723
+                ],
+                [
+                  149.594591,
+                  -23.753663
+                ],
+                [
+                  149.593838,
+                  -23.753356
+                ],
+                [
+                  149.462742,
+                  -23.83258
+                ],
+                [
+                  149.462572,
+                  -23.832756
+                ],
+                [
+                  149.44427,
+                  -23.866509
+                ],
+                [
+                  149.444475,
+                  -23.867107
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25CA4621",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:13AM 07 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "COOMOO BARALABA RD, COOMOOBOOLAROO BARALABA RD, FITZROY DEVELOPMENT RD, PARKES RD",
+        "SUBURBS": "COOMOO, DUARINGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.698232,
               -21.133244
             ]
@@ -713,5 +798,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741293300.29046"
+  "extracted": "1741293601.150216"
 }
