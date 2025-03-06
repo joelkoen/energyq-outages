@@ -665,6 +665,71 @@
           {
             "type": "Point",
             "coordinates": [
+              149.003219,
+              -21.237156
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.001258,
+                  -21.235988
+                ],
+                [
+                  149.002099,
+                  -21.239593
+                ],
+                [
+                  149.002523,
+                  -21.239946
+                ],
+                [
+                  149.003011,
+                  -21.239676
+                ],
+                [
+                  149.00518,
+                  -21.234964
+                ],
+                [
+                  149.004562,
+                  -21.234365
+                ],
+                [
+                  149.001552,
+                  -21.235472
+                ],
+                [
+                  149.001258,
+                  -21.235988
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25MK2204",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "12:35PM 06 Mar 2025",
+        "EST_FIX_TIME": "2:30PM 06 Mar 2025",
+        "STREETS": "PEAK DOWNS HWY",
+        "SUBURBS": "ETON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.207433,
               -18.981624
             ]
@@ -1356,5 +1421,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741229401.494936"
+  "extracted": "1741229700.312118"
 }
