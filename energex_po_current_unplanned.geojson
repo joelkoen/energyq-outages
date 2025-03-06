@@ -188,7 +188,7 @@
         "REASON": "Powerlines down",
         "STATUS": "In Progress",
         "START": "8:48PM 05 Mar 2025",
-        "EST_FIX_TIME": "5:00PM 07 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 07 Mar 2025",
         "STREETS": "CHARLES CT, GLIDER CT, HONEYSUCKLE LANE, SMITH RD, SUNRAY DR, TANAKA AVE, WATERS RD",
         "SUBURBS": "BONOGIN",
         "ETR_FLAG": "N"
@@ -322,7 +322,7 @@
         "REASON": "Powerlines down",
         "STATUS": "Awaiting",
         "START": "11:29PM 05 Mar 2025",
-        "EST_FIX_TIME": "5:00PM 07 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 07 Mar 2025",
         "STREETS": "BANDICOOT LANE, BANKSIA RD, BILBOROUGH CT, BOY-ULL RD, CANYON PDE, CARRICKS RD, EE-JUNG RD, FORESTRY RD, GWONGORELLA PDE, KURALBOO ST, LLOYDS RD, LYREBIRD RIDGE RD, MIMOSA RD, MUNDORA RD, OLD SCHOOL RD, REPEATER STATION RD, SPRINGBROOK RD, VELVET DOWNS RD, WATTLE GR",
         "SUBURBS": "CURRUMBIN VALLEY, SPRINGBROOK",
         "ETR_FLAG": "N"
@@ -392,7 +392,7 @@
         "REASON": "Emergency repairs in-progress",
         "STATUS": "Awaiting",
         "START": "7:31AM 06 Mar 2025",
-        "EST_FIX_TIME": "5:00PM 07 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 07 Mar 2025",
         "STREETS": "SHERWOOD RD",
         "SUBURBS": "SHERWOOD",
         "ETR_FLAG": "Y"
@@ -514,7 +514,7 @@
         "REASON": "Trees on powerlines",
         "STATUS": "In Progress",
         "START": "10:33AM 06 Mar 2025",
-        "EST_FIX_TIME": "5:00PM 07 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 07 Mar 2025",
         "STREETS": "EMILY LANE, LEN DICKFOS RD, MT COUGALL RD, TALLEBUDGERA CREEK RD",
         "SUBURBS": "TALLEBUDGERA, TALLEBUDGERA VALLEY",
         "ETR_FLAG": "N"
@@ -798,7 +798,7 @@
         "REASON": "Damage due to severe weather",
         "STATUS": "Awaiting",
         "START": "12:09PM 06 Mar 2025",
-        "EST_FIX_TIME": "4:00PM 07 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 07 Mar 2025",
         "STREETS": "AMINYA ST, CAPEMBAH ST, CAREFREE ST, CYPRESS ST, DAWN ST, DEANBILLA ST, ELIZABETH ST, EPRAPAH ST, EROBIN ST, FLINDERS ST, FREDERICK ST, GEORGE ST, INNES ST, JAMES ST, KINGFISHER ST, MARANA ST, MAREELA ST, MARROO ST, MERINDAH ST, MOONAH ST, MOOROONDU ST, NAMA ST, OAKES ST, OOYAN ST, ORANGE GROVE ST, PANDANUS ST, PERULPA ST, PHILLIPS ST, PULLEN ST, ROSS ST, SHIRLEY ST, TAGERUBA ST, VICTORIA PDE E, VICTORIA PDE N, VICTORIA PDE S, VICTORIA PDE W, WELSBY ST, WILLIAMS ST",
         "SUBURBS": "COOCHIEMUDLO ISLAND",
         "ETR_FLAG": "N"
@@ -974,7 +974,7 @@
         "REASON": "Under Investigation",
         "STATUS": "Awaiting",
         "START": "2:53PM 06 Mar 2025",
-        "EST_FIX_TIME": "5:00PM 07 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 07 Mar 2025",
         "STREETS": "PETSCH CREEK RD",
         "SUBURBS": "TALLEBUDGERA VALLEY",
         "ETR_FLAG": "N"
@@ -1555,68 +1555,6 @@
         "EST_FIX_TIME": "12:00PM 07 Mar 2025",
         "STREETS": "AQUA PROMENADE, BOURKE LODGE DR, CURRUMBIN CREEK RD, JALINDA CT, KYTE ST, PIGGABEEN RD, VITA BELLA CT",
         "SUBURBS": "CURRUMBIN VALLEY, CURRUMBIN WATERS",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              152.319243,
-              -27.566512
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.321586,
-                  -27.567578
-                ],
-                [
-                  152.317526,
-                  -27.564735
-                ],
-                [
-                  152.316815,
-                  -27.564811
-                ],
-                [
-                  152.3169,
-                  -27.565445
-                ],
-                [
-                  152.32096,
-                  -27.568288
-                ],
-                [
-                  152.321672,
-                  -27.568212
-                ],
-                [
-                  152.321586,
-                  -27.567578
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-829158-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "Emergency Repairs",
-        "STATUS": "Awaiting",
-        "START": "7:07PM 06 Mar 2025",
-        "EST_FIX_TIME": "12:00PM 06 Mar 2025",
-        "STREETS": "DODT RD, FITZGERALDS RD",
-        "SUBURBS": "GATTON, LAWES",
         "ETR_FLAG": "N"
       }
     },
@@ -2483,5 +2421,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741255205.503702"
+  "extracted": "1741255538.522657"
 }
