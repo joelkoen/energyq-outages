@@ -641,9 +641,86 @@
         "STREETS": "INTAKE RD",
         "SUBURBS": "MUTARNEE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              147.424133,
+              -19.717324
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.419616,
+                  -19.719921
+                ],
+                [
+                  147.424393,
+                  -19.723449
+                ],
+                [
+                  147.424937,
+                  -19.723477
+                ],
+                [
+                  147.428516,
+                  -19.721387
+                ],
+                [
+                  147.428743,
+                  -19.721002
+                ],
+                [
+                  147.428744,
+                  -19.711597
+                ],
+                [
+                  147.428106,
+                  -19.711172
+                ],
+                [
+                  147.425047,
+                  -19.71221
+                ],
+                [
+                  147.424822,
+                  -19.71237
+                ],
+                [
+                  147.419523,
+                  -19.7193
+                ],
+                [
+                  147.419616,
+                  -19.719921
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25NQ3847",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:58PM 06 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BAKER RD, SIBSON RD",
+        "SUBURBS": "HOME HILL"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741241101.094577"
+  "extracted": "1741241706.221474"
 }
