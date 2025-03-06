@@ -406,8 +406,8 @@
           {
             "type": "Point",
             "coordinates": [
-              153.369337,
-              -28.177755
+              153.364067,
+              -28.17771
             ]
           },
           {
@@ -423,44 +423,68 @@
                   -28.222959
                 ],
                 [
-                  153.32391,
-                  -28.22307
+                  153.324048,
+                  -28.222981
                 ],
                 [
-                  153.407876,
-                  -28.186016
+                  153.332447,
+                  -28.215331
                 ],
                 [
-                  153.407906,
-                  -28.186001
+                  153.332449,
+                  -28.21533
                 ],
                 [
-                  153.409241,
-                  -28.185306
+                  153.39337,
+                  -28.159276
                 ],
                 [
-                  153.409418,
-                  -28.185152
+                  153.393439,
+                  -28.159198
                 ],
                 [
-                  153.418045,
-                  -28.172608
+                  153.40751,
+                  -28.138653
                 ],
                 [
-                  153.418116,
-                  -28.172315
+                  153.407576,
+                  -28.138339
                 ],
                 [
-                  153.412552,
-                  -28.134003
+                  153.406804,
+                  -28.134552
                 ],
                 [
-                  153.412136,
-                  -28.133616
+                  153.406795,
+                  -28.134515
                 ],
                 [
-                  153.404703,
-                  -28.132444
+                  153.406755,
+                  -28.134382
+                ],
+                [
+                  153.406714,
+                  -28.13429
+                ],
+                [
+                  153.406625,
+                  -28.134139
+                ],
+                [
+                  153.406614,
+                  -28.13412
+                ],
+                [
+                  153.406127,
+                  -28.133382
+                ],
+                [
+                  153.405995,
+                  -28.13325
+                ],
+                [
+                  153.404922,
+                  -28.132528
                 ],
                 [
                   153.404567,
@@ -495,28 +519,28 @@
                   -28.134321
                 ],
                 [
-                  153.388201,
-                  -28.134356
+                  153.388164,
+                  -28.134397
                 ],
                 [
-                  153.340473,
-                  -28.180868
+                  153.322343,
+                  -28.215685
                 ],
                 [
-                  153.340462,
-                  -28.180879
+                  153.3223,
+                  -28.215748
                 ],
                 [
-                  153.33913,
-                  -28.182266
+                  153.321596,
+                  -28.217012
                 ],
                 [
-                  153.339053,
-                  -28.182374
+                  153.321588,
+                  -28.217027
                 ],
                 [
                   153.320958,
-                  -28.218273
+                  -28.218272
                 ],
                 [
                   153.320926,
@@ -538,12 +562,12 @@
       "properties": {
         "EVENT_ID": "INCD-828756-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "651",
+        "CUSTOMERS_AFFECTED": "220",
         "REASON": "Damage Due To Cyclone",
         "STATUS": "In Progress",
         "START": "10:33AM 06 Mar 2025",
         "EST_FIX_TIME": "12:00PM 07 Mar 2025",
-        "STREETS": "ARALUEN RD, BARMARK CT, BOWDEN CL, CAMPHORLAUREL CT, CLARE CT, DALTON RD, DES QUINLAN CRES, DOVE RD, DUCATS RD, EMILY LANE, FRESCO CT, GIBSONVILLE ST, GOLDEN VALLEY RD, LEN DICKFOS RD, LUXTON CT, MAYBREE CL, MONDAY DR, MT COUGALL RD, NANCOL DR, PETSCH CREEK RD, PLAZA ST, RANCH CT, REYNELLA RD, RUSTY CT, STONE CT, SYNDICATE RD, TALLEBUDGERA CREEK RD, THOMAS WATERS RD, THURSDAY DR, TREES RD, TUESDAY DR, WEDNESDAY DR, WISTERIA CT, YARRA CT",
+        "STREETS": "BARMARK CT, EMILY LANE, LEN DICKFOS RD, MONDAY DR, MT COUGALL RD, NANCOL DR, STONE CT, TALLEBUDGERA CREEK RD, THURSDAY DR, TUESDAY DR, WEDNESDAY DR",
         "SUBURBS": "TALLEBUDGERA, TALLEBUDGERA VALLEY",
         "ETR_FLAG": "N"
       }
@@ -3693,9 +3717,229 @@
         "SUBURBS": "LAMB ISLAND, MACLEAY ISLAND, PERULPA ISLAND",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.391053,
+              -28.090379
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.375492,
+                  -28.083402
+                ],
+                [
+                  153.375833,
+                  -28.094139
+                ],
+                [
+                  153.375969,
+                  -28.094433
+                ],
+                [
+                  153.376387,
+                  -28.094832
+                ],
+                [
+                  153.376397,
+                  -28.094841
+                ],
+                [
+                  153.376474,
+                  -28.09491
+                ],
+                [
+                  153.37649,
+                  -28.094925
+                ],
+                [
+                  153.386588,
+                  -28.103219
+                ],
+                [
+                  153.386764,
+                  -28.103314
+                ],
+                [
+                  153.397943,
+                  -28.106833
+                ],
+                [
+                  153.397981,
+                  -28.106843
+                ],
+                [
+                  153.398714,
+                  -28.107018
+                ],
+                [
+                  153.398769,
+                  -28.107028
+                ],
+                [
+                  153.400079,
+                  -28.107207
+                ],
+                [
+                  153.4003,
+                  -28.107194
+                ],
+                [
+                  153.40077,
+                  -28.107071
+                ],
+                [
+                  153.400782,
+                  -28.107068
+                ],
+                [
+                  153.406375,
+                  -28.10548
+                ],
+                [
+                  153.406613,
+                  -28.104763
+                ],
+                [
+                  153.377666,
+                  -28.073551
+                ],
+                [
+                  153.376767,
+                  -28.073784
+                ],
+                [
+                  153.375495,
+                  -28.083337
+                ],
+                [
+                  153.375492,
+                  -28.083402
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829293-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1678",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "10:55PM 06 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 07 Mar 2025",
+        "STREETS": "ALVEY CT, BECKINGTON TCE, BEDFORD CRES, BEN CT, BLEADON PL, BOOLAMA PL, BRIDGMAN DR, CAMPUS CRES, CLOVER HILL DR, COMET CT, CRANE PL, DERBY PL, DILLON CT, EDEN VIEW DR, EXBRIDGE CT, EXMOOR ST, EXTON PL, GEMVALE RD, GLASTONBURY DR, HERTFORD CRES, HIGHBRIDGE RISE, HUMBERSIDE CL, ILMINSTER CRES, JAREMA DR, LAGOON WAY, LAMBOR DR, LANCASHIRE DR, LANGPORT PDE, LAVER DR, LEICESTER TCE, LEVIATHAN DR, LINCOLN ST, MILVERTON CL, PACIFIC HWY, PELICAN PL, QUEEN CHARLOTTE CT, RIDGEVISTA CT, ROBINA PKWY, SANDSTONE PL, SANDYOKE CT, SHEPTON CRES, SOMERSET DR, SPARFORD CL, SPOONBILL WAY, SUFFOLK PL, SUNNYMEADE PL, TILIA PL, VICTORY DR, WILTON CL, WILTSHIRE DR, WINCANTON PL, WOODLAND DR",
+        "SUBURBS": "MUDGEERABA, REEDY CREEK, ROBINA",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.332659,
+              -28.153715
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.323599,
+                  -28.153642
+                ],
+                [
+                  153.324357,
+                  -28.156357
+                ],
+                [
+                  153.324722,
+                  -28.156685
+                ],
+                [
+                  153.340774,
+                  -28.160431
+                ],
+                [
+                  153.34141,
+                  -28.160045
+                ],
+                [
+                  153.341739,
+                  -28.157427
+                ],
+                [
+                  153.341702,
+                  -28.157201
+                ],
+                [
+                  153.3416,
+                  -28.156988
+                ],
+                [
+                  153.34154,
+                  -28.156895
+                ],
+                [
+                  153.333369,
+                  -28.147154
+                ],
+                [
+                  153.332788,
+                  -28.146998
+                ],
+                [
+                  153.323916,
+                  -28.149818
+                ],
+                [
+                  153.323579,
+                  -28.150244
+                ],
+                [
+                  153.323584,
+                  -28.153534
+                ],
+                [
+                  153.323599,
+                  -28.153642
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829294-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "65",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "10:56PM 06 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 07 Mar 2025",
+        "STREETS": "ANDERSON CT, BONOGIN RD, BROADOAK CT, FOWLER CT, GARLINGE CT, LYMINGE CT, WALTHAM CT",
+        "SUBURBS": "BONOGIN",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741265701.397479"
+  "extracted": "1741266301.209302"
 }
