@@ -1502,8 +1502,8 @@
           {
             "type": "Point",
             "coordinates": [
-              153.51359,
-              -28.161917
+              153.503108,
+              -28.160757
             ]
           },
           {
@@ -1519,52 +1519,36 @@
                   -28.172506
                 ],
                 [
-                  153.523655,
-                  -28.172519
+                  153.523663,
+                  -28.172523
                 ],
                 [
-                  153.534172,
-                  -28.177252
+                  153.529502,
+                  -28.175029
                 ],
                 [
-                  153.534236,
-                  -28.177276
+                  153.530233,
+                  -28.174634
                 ],
                 [
-                  153.534479,
-                  -28.177351
+                  153.530365,
+                  -28.169757
                 ],
                 [
-                  153.534972,
-                  -28.177271
+                  153.530324,
+                  -28.169569
                 ],
                 [
-                  153.551155,
-                  -28.165306
+                  153.529672,
+                  -28.16821
                 ],
                 [
-                  153.551328,
-                  -28.164868
+                  153.529421,
+                  -28.167979
                 ],
                 [
-                  153.551196,
-                  -28.1643
-                ],
-                [
-                  153.550974,
-                  -28.164012
-                ],
-                [
-                  153.549278,
-                  -28.163038
-                ],
-                [
-                  153.54913,
-                  -28.16298
-                ],
-                [
-                  153.478052,
-                  -28.146484
+                  153.47814,
+                  -28.146512
                 ],
                 [
                   153.477793,
@@ -1586,12 +1570,12 @@
       "properties": {
         "EVENT_ID": "INCD-829169-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "4166",
+        "CUSTOMERS_AFFECTED": "1220",
         "REASON": "Damage Due To Cyclone",
         "STATUS": "In Progress",
         "START": "7:38PM 06 Mar 2025",
         "EST_FIX_TIME": "12:00PM 07 Mar 2025",
-        "STREETS": "APPEL ST, BALLOW ST, BINYA AVE, BOLTON ST, BOUNDARY ST, CARMICHAEL CL, CHALK ST, CHARLOTTE ST, CHURCHILL ST, CLARKE ST, COOLANGATTA RD, COYNE ST, CREEK ST, DIXON ST, DOUGLAS ST, DUTTON ST, EDEN AVE, GALA GR, GARRICK ST, GEORGE AVE, GERRARD ST, GOLD COAST HWY, GOLDEN FOUR DR, GRIFFITH ST, HAIG ST, HILL ST, KENT ST, KORINA AVE, LANG ST, LANHAM ST, LORD ST, MARINE PDE, MCDONALD ST, MCLEAN ST, MILES ST, MUSGRAVE ST, OCEAN ST, PACIFIC PDE, PETRIE ST, POWELL CRES, REED ST, RUTLEDGE ST, SCOTT ST, SIMPSON ST, SNAPPER ROCKS RD, SOUTH ST, STAPYLTON ST, STEWART RD, TOOLOON ST, TWEED ST, TWEED TCE, WARD ST, WARRAWONG ST, WINSTON ST",
+        "STREETS": "APPEL ST, BINYA AVE, BOLTON ST, CHARLOTTE ST, COOLANGATTA RD, COYNE ST, CREEK ST, GALA GR, GEORGE AVE, GOLD COAST HWY, GOLDEN FOUR DR, HAIG ST, KORINA AVE, LANG ST, LORD ST, MILES ST, MUSGRAVE ST, OCEAN ST, PACIFIC PDE, SIMPSON ST, SOUTH ST, STEWART RD, WINSTON ST",
         "SUBURBS": "BILINGA, BROADBEACH, COOLANGATTA, CURRUMBIN WATERS",
         "ETR_FLAG": "N"
       }
@@ -4268,6 +4252,218 @@
           {
             "type": "Point",
             "coordinates": [
+              153.328831,
+              -28.047538
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.321384,
+                  -28.047541
+                ],
+                [
+                  153.323618,
+                  -28.052891
+                ],
+                [
+                  153.324172,
+                  -28.05318
+                ],
+                [
+                  153.335881,
+                  -28.051582
+                ],
+                [
+                  153.336278,
+                  -28.050972
+                ],
+                [
+                  153.334492,
+                  -28.0469
+                ],
+                [
+                  153.334348,
+                  -28.046721
+                ],
+                [
+                  153.328737,
+                  -28.042463
+                ],
+                [
+                  153.328727,
+                  -28.042455
+                ],
+                [
+                  153.32809,
+                  -28.041996
+                ],
+                [
+                  153.327738,
+                  -28.041896
+                ],
+                [
+                  153.324667,
+                  -28.042062
+                ],
+                [
+                  153.324288,
+                  -28.042245
+                ],
+                [
+                  153.324216,
+                  -28.042332
+                ],
+                [
+                  153.324173,
+                  -28.042393
+                ],
+                [
+                  153.321408,
+                  -28.047178
+                ],
+                [
+                  153.321384,
+                  -28.047541
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829324-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "194",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "11:26PM 06 Mar 2025",
+        "EST_FIX_TIME": "2:30AM 07 Mar 2025",
+        "STREETS": "ALBERT EVANS DR, ALICE BOWDEN CT, CHARLAND CT, HARRY MILLS DR, HUGH GUINEA CT, MCKAVANAGH PL, NANCY YAUN CT, THOMAS DUNCAN CT, UPLANDS CT, WILLIAM HOLLINDALE CT, WORONGARY RD",
+        "SUBURBS": "TALLAI, WORONGARY",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.539229,
+              -28.166718
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.530119,
+                  -28.169254
+                ],
+                [
+                  153.530222,
+                  -28.16929
+                ],
+                [
+                  153.530296,
+                  -28.16931
+                ],
+                [
+                  153.530429,
+                  -28.169337
+                ],
+                [
+                  153.530563,
+                  -28.169348
+                ],
+                [
+                  153.540956,
+                  -28.168951
+                ],
+                [
+                  153.541123,
+                  -28.168919
+                ],
+                [
+                  153.544898,
+                  -28.167585
+                ],
+                [
+                  153.547601,
+                  -28.166629
+                ],
+                [
+                  153.547883,
+                  -28.166382
+                ],
+                [
+                  153.54866,
+                  -28.164703
+                ],
+                [
+                  153.548095,
+                  -28.164088
+                ],
+                [
+                  153.54594,
+                  -28.164448
+                ],
+                [
+                  153.545914,
+                  -28.164453
+                ],
+                [
+                  153.536614,
+                  -28.166457
+                ],
+                [
+                  153.536571,
+                  -28.166469
+                ],
+                [
+                  153.530142,
+                  -28.168407
+                ],
+                [
+                  153.529797,
+                  -28.168824
+                ],
+                [
+                  153.530119,
+                  -28.169254
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829329-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "328",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "11:27PM 06 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 07 Mar 2025",
+        "STREETS": "BOUNDARY ST, DUTTON ST, EDEN AVE, GRIFFITH ST, MARINE PDE, MILES ST, WARD ST",
+        "SUBURBS": "COOLANGATTA",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.507398,
               -28.157031
             ]
@@ -4350,20 +4546,374 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-829323-g",
+        "EVENT_ID": "INCD-829330-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "1450",
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
-        "START": "11:25PM 06 Mar 2025",
-        "EST_FIX_TIME": "3:00AM 07 Mar 2025",
+        "START": "11:27PM 06 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 07 Mar 2025",
         "STREETS": "ADINA AVE, ARCHER ST, BOYD ST, COOLANGATTA RD, DULKARRA AVE, FOCH ST, GEORGE ST, GIBSON ST, GOLD COAST HWY, GOLDEN FOUR DR, JOHN ST, JOHNSON ST, JOHNSTON ST, KIEWA AVE, KIRRIBIN ST, LOONGANA AVE, MATTERS ST, MONASH ST, MORSHEAD ST, PACIFIC PDE, SAND ST, SEA ST, SHORT ST, SURF ST, TUGUN ST",
         "SUBURBS": "BILINGA, TUGUN",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.534979,
+              -28.17021
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.529535,
+                  -28.170804
+                ],
+                [
+                  153.529679,
+                  -28.17121
+                ],
+                [
+                  153.529735,
+                  -28.171316
+                ],
+                [
+                  153.529963,
+                  -28.171634
+                ],
+                [
+                  153.530219,
+                  -28.171816
+                ],
+                [
+                  153.534084,
+                  -28.17306
+                ],
+                [
+                  153.534168,
+                  -28.17308
+                ],
+                [
+                  153.53452,
+                  -28.173136
+                ],
+                [
+                  153.534905,
+                  -28.17306
+                ],
+                [
+                  153.53687,
+                  -28.171825
+                ],
+                [
+                  153.536903,
+                  -28.171802
+                ],
+                [
+                  153.540278,
+                  -28.169291
+                ],
+                [
+                  153.540424,
+                  -28.16878
+                ],
+                [
+                  153.539995,
+                  -28.167817
+                ],
+                [
+                  153.539952,
+                  -28.167743
+                ],
+                [
+                  153.539816,
+                  -28.167551
+                ],
+                [
+                  153.539412,
+                  -28.16734
+                ],
+                [
+                  153.538257,
+                  -28.167285
+                ],
+                [
+                  153.538161,
+                  -28.167288
+                ],
+                [
+                  153.534865,
+                  -28.167678
+                ],
+                [
+                  153.534679,
+                  -28.167734
+                ],
+                [
+                  153.530792,
+                  -28.169708
+                ],
+                [
+                  153.530775,
+                  -28.169717
+                ],
+                [
+                  153.52975,
+                  -28.170285
+                ],
+                [
+                  153.529535,
+                  -28.170804
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829331-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "573",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "11:28PM 06 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 07 Mar 2025",
+        "STREETS": "CHALK ST, DUTTON ST, GARRICK ST, GRIFFITH ST, LANHAM ST, MARINE PDE, MCLEAN ST, MILES ST, RUTLEDGE ST, STAPYLTON ST, TWEED ST",
+        "SUBURBS": "COOLANGATTA",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.531548,
+              -28.169896
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.5242,
+                  -28.167406
+                ],
+                [
+                  153.527748,
+                  -28.173228
+                ],
+                [
+                  153.527963,
+                  -28.173415
+                ],
+                [
+                  153.529678,
+                  -28.174195
+                ],
+                [
+                  153.530217,
+                  -28.174154
+                ],
+                [
+                  153.531757,
+                  -28.173126
+                ],
+                [
+                  153.531784,
+                  -28.173106
+                ],
+                [
+                  153.538895,
+                  -28.167637
+                ],
+                [
+                  153.538779,
+                  -28.166889
+                ],
+                [
+                  153.535806,
+                  -28.165637
+                ],
+                [
+                  153.535536,
+                  -28.165596
+                ],
+                [
+                  153.524954,
+                  -28.166532
+                ],
+                [
+                  153.524721,
+                  -28.166606
+                ],
+                [
+                  153.524366,
+                  -28.166816
+                ],
+                [
+                  153.5242,
+                  -28.167406
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829332-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "841",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "11:29PM 06 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 07 Mar 2025",
+        "STREETS": "APPEL ST, CHURCHILL ST, COOLANGATTA RD, COYNE ST, DOUGLAS ST, GARRICK ST, GRIFFITH ST, HAIG ST, LORD ST, MARINE PDE, MCLEAN ST, MILES ST, MUSGRAVE ST, POWELL CRES, RUTLEDGE ST, STAPYLTON ST, TWEED ST, WINSTON ST",
+        "SUBURBS": "COOLANGATTA",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.540998,
+              -28.17017
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.530669,
+                  -28.171796
+                ],
+                [
+                  153.530764,
+                  -28.174747
+                ],
+                [
+                  153.530878,
+                  -28.175019
+                ],
+                [
+                  153.531131,
+                  -28.175295
+                ],
+                [
+                  153.531211,
+                  -28.175365
+                ],
+                [
+                  153.533287,
+                  -28.176814
+                ],
+                [
+                  153.533356,
+                  -28.176854
+                ],
+                [
+                  153.534157,
+                  -28.177245
+                ],
+                [
+                  153.534236,
+                  -28.177276
+                ],
+                [
+                  153.534479,
+                  -28.177351
+                ],
+                [
+                  153.534972,
+                  -28.177271
+                ],
+                [
+                  153.551155,
+                  -28.165306
+                ],
+                [
+                  153.551328,
+                  -28.164868
+                ],
+                [
+                  153.551196,
+                  -28.1643
+                ],
+                [
+                  153.550974,
+                  -28.164012
+                ],
+                [
+                  153.549278,
+                  -28.163038
+                ],
+                [
+                  153.548843,
+                  -28.162988
+                ],
+                [
+                  153.548546,
+                  -28.163074
+                ],
+                [
+                  153.548465,
+                  -28.163105
+                ],
+                [
+                  153.531538,
+                  -28.171093
+                ],
+                [
+                  153.531533,
+                  -28.171096
+                ],
+                [
+                  153.530933,
+                  -28.171387
+                ],
+                [
+                  153.530669,
+                  -28.171796
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829333-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1204",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "11:30PM 06 Mar 2025",
+        "EST_FIX_TIME": "3:30AM 07 Mar 2025",
+        "STREETS": "BALLOW ST, BOUNDARY ST, CARMICHAEL CL, CHALK ST, CLARKE ST, DIXON ST, DUTTON ST, EDEN AVE, GARRICK ST, GERRARD ST, GRIFFITH ST, HILL ST, KENT ST, LANHAM ST, MARINE PDE, MCDONALD ST, MCLEAN ST, PETRIE ST, REED ST, RUTLEDGE ST, SCOTT ST, SNAPPER ROCKS RD, STAPYLTON ST, TOOLOON ST, TWEED ST, TWEED TCE, WARD ST, WARRAWONG ST",
+        "SUBURBS": "COOLANGATTA",
         "ETR_FLAG": "N"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741267504.326808"
+  "extracted": "1741267803.576096"
 }
