@@ -920,9 +920,118 @@
         "STREETS": "MOUNT KENT BOUNDARY RD",
         "SUBURBS": "NOBBY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.761821,
+              -28.058714
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.741264,
+                  -28.02148
+                ],
+                [
+                  148.745503,
+                  -28.102586
+                ],
+                [
+                  148.74574,
+                  -28.102947
+                ],
+                [
+                  148.772766,
+                  -28.118061
+                ],
+                [
+                  148.772787,
+                  -28.118072
+                ],
+                [
+                  148.776523,
+                  -28.119936
+                ],
+                [
+                  148.776841,
+                  -28.11999
+                ],
+                [
+                  148.781957,
+                  -28.119374
+                ],
+                [
+                  148.78238,
+                  -28.118811
+                ],
+                [
+                  148.746251,
+                  -27.997893
+                ],
+                [
+                  148.746178,
+                  -27.997751
+                ],
+                [
+                  148.745953,
+                  -27.997464
+                ],
+                [
+                  148.745139,
+                  -27.997439
+                ],
+                [
+                  148.743084,
+                  -27.999714
+                ],
+                [
+                  148.742992,
+                  -27.999872
+                ],
+                [
+                  148.741286,
+                  -28.005163
+                ],
+                [
+                  148.741266,
+                  -28.005287
+                ],
+                [
+                  148.741263,
+                  -28.021459
+                ],
+                [
+                  148.741264,
+                  -28.02148
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25SW4246",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "16",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:07PM 06 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BOWHAY RD, BUCKENBAH RD, BUCKINBAH WEIR RD, CARNARVON HWY, MOONIE HWY",
+        "SUBURBS": "ST GEORGE"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741245303.899778"
+  "extracted": "1741245601.286065"
 }
