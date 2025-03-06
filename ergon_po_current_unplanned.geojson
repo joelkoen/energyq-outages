@@ -556,6 +556,67 @@
           {
             "type": "Point",
             "coordinates": [
+              149.263038,
+              -21.608106
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.265479,
+                  -21.607157
+                ],
+                [
+                  149.260396,
+                  -21.608173
+                ],
+                [
+                  149.260024,
+                  -21.608708
+                ],
+                [
+                  149.260597,
+                  -21.609056
+                ],
+                [
+                  149.265681,
+                  -21.60804
+                ],
+                [
+                  149.266052,
+                  -21.607504
+                ],
+                [
+                  149.265479,
+                  -21.607157
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25MK2218",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:51PM 06 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "TEDLANDS RD",
+        "SUBURBS": "KOUMALA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.207433,
               -18.981624
             ]
@@ -700,67 +761,6 @@
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "ARIZONA STATION, BRAESIDE STATION, CARODON STATION, EULOLO RD, FULLERTON RVR, KOOROORA STATION, LANDSBOROUGH HWY, MILGERY STATION, PENOLA DOWNS STATION, REDLAND PARK STATION, WOLSELEY DOWNS STATION",
         "SUBURBS": "KYNUNA, MCKINLAY, OORINDI"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              146.64179,
-              -19.261211
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  146.642304,
-                  -19.260526
-                ],
-                [
-                  146.640918,
-                  -19.26106
-                ],
-                [
-                  146.640656,
-                  -19.261648
-                ],
-                [
-                  146.641275,
-                  -19.261897
-                ],
-                [
-                  146.642662,
-                  -19.261363
-                ],
-                [
-                  146.642924,
-                  -19.260775
-                ],
-                [
-                  146.642304,
-                  -19.260526
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25NQ3861",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews working on-site",
-        "START": "6:10PM 06 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "TEXAS RD",
-        "SUBURBS": "JENSEN"
       }
     },
     {
@@ -952,5 +952,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741253403.502019"
+  "extracted": "1741253702.446106"
 }
