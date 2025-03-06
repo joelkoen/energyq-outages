@@ -7,28 +7,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.058356,
-          -27.459672
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-797905-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "80",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 06 Mar 2025",
-        "STREETS": "BARTON RD, BARTON ST, ELLIOTT ST",
-        "SUBURBS": "HAWTHORNE",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.072548,
           -26.743279
         ]
@@ -51,18 +29,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.062151,
-          -26.65197
+          153.062015,
+          -26.651961
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-802928-g",
+        "EVENT_ID": "INCD-802931-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "23",
+        "CUSTOMERS_AFFECTED": "24",
         "REASON": "Planned Maintenance",
         "STATUS": "Cancelled",
-        "START": "8:30AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 06 Mar 2025",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2025",
         "STREETS": "DEPOT ST, PROGRESS RD, SERVICE ST",
         "SUBURBS": "MAROOCHYDORE",
         "ETR_FLAG": "N"
@@ -87,6 +65,72 @@
         "EST_FIX_TIME": "3:00PM 07 Mar 2025",
         "STREETS": "TARRAGINDI RD",
         "SUBURBS": "SALISBURY",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.404783,
+          -27.932527
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-811059-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "68",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:30PM 11 Mar 2025",
+        "STREETS": "BRIGHTON ST, PARR ST",
+        "SUBURBS": "BIGGERA WATERS",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.015739,
+          -27.420591
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-812299-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "2:30PM 11 Mar 2025",
+        "STREETS": "BEGA ST, GRANGE RD",
+        "SUBURBS": "GRANGE",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.837833,
+          -27.560083
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-812304-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2025",
+        "STREETS": "HUME ST, OXLEY DR",
+        "SUBURBS": "BARELLAN POINT, KARALEE",
         "ETR_FLAG": "N"
       }
     },
@@ -161,50 +205,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.922024,
-          -26.304507
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-817970-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:30PM 06 Mar 2025",
-        "STREETS": "COOTHARABA RD",
-        "SUBURBS": "COOTHARABA",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.098302,
-          -27.221446
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-818034-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "20",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 06 Mar 2025",
-        "STREETS": "ASHMOLE RD",
-        "SUBURBS": "REDCLIFFE",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.097346,
           -27.229102
         ]
@@ -249,6 +249,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.744464,
+          -27.596151
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-819141-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "4:00PM 11 Mar 2025",
+        "STREETS": "KENWORTH ST, ROWAN DR, SUNSHINE CRES",
+        "SUBURBS": "BRASSALL",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.71419,
           -26.199203
         ]
@@ -271,64 +293,86 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.838397,
-          -27.664185
+          152.907696,
+          -27.53649
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-819417-g",
+        "EVENT_ID": "INCD-819354-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "25",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:30AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:30PM 06 Mar 2025",
-        "STREETS": "ATHERTON DR, SUNBIRD DR",
-        "SUBURBS": "REDBANK PLAINS",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.106899,
-          -27.233955
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-819717-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "60",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "12:00PM 06 Mar 2025",
-        "STREETS": "DOVER RD, MONICA RD, OXLEY AVE, PLUME ST, SYDNEY ST",
-        "SUBURBS": "REDCLIFFE",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.673764,
-          -26.424559
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-819908-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "27",
+        "CUSTOMERS_AFFECTED": "8",
         "REASON": "Planned Maintenance",
         "STATUS": "Scheduled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "2:30PM 06 Mar 2025",
-        "STREETS": "KANDANGA IMBIL RD, MELAWONDI RD, TUNNEL RD, TUNNELL RD",
-        "SUBURBS": "IMBIL, MELAWONDI",
+        "START": "7:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2025",
+        "STREETS": "PINJARRA RD",
+        "SUBURBS": "PINJARRA HILLS",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.120892,
+          -27.636866
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-819397-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "40",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2025",
+        "STREETS": "FARRER ST, FAWKNER ST, FLYNN CT, LALOR CT, MACARTHUR CRES",
+        "SUBURBS": "SLACKS CREEK",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9842,
+          -27.873978
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-819704-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:30PM 11 Mar 2025",
+        "STREETS": "DELTORO RD",
+        "SUBURBS": "CEDAR GROVE",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.401759,
+          -27.953136
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-819855-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "4:00PM 11 Mar 2025",
+        "STREETS": "ROBERT ST, TURPIN RD",
+        "SUBURBS": "LABRADOR",
         "ETR_FLAG": "N"
       }
     },
@@ -373,6 +417,28 @@
         "EST_FIX_TIME": "3:00PM 07 Mar 2025",
         "STREETS": "DORNOCH TCE, SANKEY ST",
         "SUBURBS": "HIGHGATE HILL",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.040433,
+          -27.519305
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-819998-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "29",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "9:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2025",
+        "STREETS": "CRACKNELL RD, GILMORE ST, LAURA ST",
+        "SUBURBS": "TARRAGINDI",
         "ETR_FLAG": "N"
       }
     },
@@ -447,28 +513,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.814605,
-          -27.609424
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-821084-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 06 Mar 2025",
-        "STREETS": "ANN ST, TIBBITS ST",
-        "SUBURBS": "BUNDAMBA",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.158793,
           -27.519394
         ]
@@ -491,72 +535,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.000717,
-          -27.922875
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-821107-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "16",
-        "REASON": "Damage Due To Cyclone",
-        "STATUS": "Scheduled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "4:00PM 06 Mar 2025",
-        "STREETS": "EAGLEHURST LANE, FREEMAN RD, MALABAR RD, MT LINDESAY HWY, VERESDALE SCRUB RD, VERESDALE SCRUB SCHOOL RD, WORENDO ST",
-        "SUBURBS": "VERESDALE, VERESDALE SCRUB",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.766877,
-          -27.584673
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-821108-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "27",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "4:00PM 06 Mar 2025",
-        "STREETS": "ALLEN ST, FRANCIS ST, MURRAY ST",
-        "SUBURBS": "NORTH IPSWICH, TIVOLI",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.993332,
-          -27.397823
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-821163-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "37",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "7:30AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:30PM 06 Mar 2025",
-        "STREETS": "GUINNESS ST, MCCUBBINS ST, NOVAK ST, WITHERS ST",
-        "SUBURBS": "EVERTON PARK",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.017615,
           -27.483316
         ]
@@ -571,28 +549,6 @@
         "EST_FIX_TIME": "3:00PM 07 Mar 2025",
         "STREETS": "WESTBOURNE ST",
         "SUBURBS": "HIGHGATE HILL",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.992895,
-          -27.241743
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-821217-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "22",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "2:30PM 06 Mar 2025",
-        "STREETS": "GARDNER ST E, HIGHET ST, KENWOOD CT, MURPHY ST E, OLD GYMPIE RD, ROSEANN ST",
-        "SUBURBS": "KALLANGUR",
         "ETR_FLAG": "N"
       }
     },
@@ -667,6 +623,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          153.034226,
+          -27.436185
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-821402-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "25",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "7:30AM 11 Mar 2025",
+        "EST_FIX_TIME": "2:30PM 11 Mar 2025",
+        "STREETS": "EPACRAS ST, GRANTSON ST, LEGEYT ST",
+        "SUBURBS": "WINDSOR",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           153.339737,
           -27.925745
         ]
@@ -681,28 +659,6 @@
         "EST_FIX_TIME": "3:30PM 09 Mar 2025",
         "STREETS": "COUNTRY CLUB DR",
         "SUBURBS": "HELENSVALE",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.563374,
-          -26.936616
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-821644-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "51",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "2:30PM 06 Mar 2025",
-        "STREETS": "ATTHOW ST, BROWN ST, CONROY ST, KENNEDY ST",
-        "SUBURBS": "KILCOY",
         "ETR_FLAG": "N"
       }
     },
@@ -747,50 +703,6 @@
         "EST_FIX_TIME": "3:30PM 08 Mar 2025",
         "STREETS": "EATONS CROSSING RD, ROCHEADON DR",
         "SUBURBS": "CLEAR MOUNTAIN, EATONS HILL",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.97214,
-          -27.413065
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-822100-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "8",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "7:30AM 06 Mar 2025",
-        "EST_FIX_TIME": "2:00PM 06 Mar 2025",
-        "STREETS": "HOBEN ST",
-        "SUBURBS": "MITCHELTON",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.914594,
-          -26.307839
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-822105-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "38",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:30AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:30PM 06 Mar 2025",
-        "STREETS": "COOTHARABA RD, KINMOND CREEK RD, SIMPSONS RD, TOMKINSONS RD",
-        "SUBURBS": "COOTHARABA",
         "ETR_FLAG": "N"
       }
     },
@@ -997,42 +909,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.94373,
-          -26.617042
+          153.222098,
+          -27.514751
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-822352-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "42",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "7:30AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 06 Mar 2025",
-        "STREETS": "GARDEN PL, GLENBROOK DR, MILLWOOD ST",
-        "SUBURBS": "NAMBOUR",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.277576,
-          -27.743629
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-822367-g",
+        "EVENT_ID": "INCD-822321-g",
         "TYPE": "PLANNED",
         "CUSTOMERS_AFFECTED": "25",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 06 Mar 2025",
-        "STREETS": "HALLS RD, INGOLDSBY RD",
-        "SUBURBS": "INGOLDSBY, UPPER TENTHILL",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2025",
+        "STREETS": "BLUEBELL ST, CROWN RD, EDWARD ST, WILLIAM ST",
+        "SUBURBS": "ALEXANDRA HILLS",
         "ETR_FLAG": "N"
       }
     },
@@ -1055,28 +945,6 @@
         "EST_FIX_TIME": "3:00PM 10 Mar 2025",
         "STREETS": "KERRY CREEK RD",
         "SUBURBS": "KERRY",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.936061,
-          -26.846727
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-822440-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:30PM 06 Mar 2025",
-        "STREETS": "OLD GYMPIE RD",
-        "SUBURBS": "BEERWAH",
         "ETR_FLAG": "N"
       }
     },
@@ -1173,28 +1041,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.725223,
-          -26.595416
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-822612-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "16",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 06 Mar 2025",
-        "STREETS": "MARGARET ST, PHILIP ST",
-        "SUBURBS": "KENILWORTH",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.138663,
           -27.653553
         ]
@@ -1239,64 +1085,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.014447,
-          -26.767381
+          152.979646,
+          -27.877351
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-822640-g",
+        "EVENT_ID": "INCD-822656-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "10",
-        "REASON": "Planned Maintenance",
+        "CUSTOMERS_AFFECTED": "34",
+        "REASON": "Damage Due To Cyclone",
         "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 06 Mar 2025",
-        "STREETS": "GLENVIEW RD, STEVENS RD",
-        "SUBURBS": "GLENVIEW",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.84514,
-          -26.782677
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-822646-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "22",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 06 Mar 2025",
-        "STREETS": "MCCARTHY SHUTE RD, MOUNTAIN VIEW RD",
-        "SUBURBS": "MALENY",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.923455,
-          -26.842522
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-822673-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "51",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:30PM 06 Mar 2025",
-        "STREETS": "ALFS PINCH RD, NOTTINGHAM CT",
-        "SUBURBS": "BEERWAH, PEACHESTER",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:30PM 11 Mar 2025",
+        "STREETS": "DELTORO RD",
+        "SUBURBS": "CEDAR GROVE",
         "ETR_FLAG": "N"
       }
     },
@@ -1371,6 +1173,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          153.029721,
+          -27.981735
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-822694-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:30PM 11 Mar 2025",
+        "STREETS": "BEAUDESERT-NERANG RD, BIRNAM RANGE RD",
+        "SUBURBS": "BEAUDESERT",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           152.849535,
           -26.731652
         ]
@@ -1385,28 +1209,6 @@
         "EST_FIX_TIME": "3:00PM 07 Mar 2025",
         "STREETS": "BRIDGE CREEK RD, MCLEAN RD, WELLS RD",
         "SUBURBS": "MALENY",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.091376,
-          -26.563602
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-822735-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "276",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Scheduled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 06 Mar 2025",
-        "STREETS": "JARNAHILL DR, MELVILLE CT, POWER CT, QUINN CT, TANAH ST W",
-        "SUBURBS": "MOUNT COOLUM",
         "ETR_FLAG": "N"
       }
     },
@@ -1437,20 +1239,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.439884,
-          -28.079729
+          152.89533,
+          -27.570146
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-822848-g",
+        "EVENT_ID": "INCD-822830-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "51",
-        "REASON": "Damage Due To Cyclone",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "2:30PM 06 Mar 2025",
-        "STREETS": "BURLEIGH ST, CHRISTINE AVE, CONDOR CT, OMAO AVE, PENGUIN PDE",
-        "SUBURBS": "BURLEIGH WATERS",
+        "CUSTOMERS_AFFECTED": "50",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "4:00PM 11 Mar 2025",
+        "STREETS": "LUSS ST, VANWALL RD, WEEKES RD, ZELITA RD",
+        "SUBURBS": "MOGGILL",
         "ETR_FLAG": "N"
       }
     },
@@ -1459,20 +1261,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.980877,
-          -27.278592
+          152.489728,
+          -27.558741
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-822870-g",
+        "EVENT_ID": "INCD-822852-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "33",
+        "CUSTOMERS_AFFECTED": "185",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "1:30PM 11 Mar 2025",
+        "STREETS": "BLOKLAND CT, BORONIA CT, BOWERS RD, BRENDAN CT, BUSSIAN RD, DAN RD, EDMOND RD, EVANS RD, HABBAN RD, HEISE RD, JOSEPH RD, KENZIEN DR, LAUREL RD, MINTON RD, SHAW RD, WALDRON RD, WARREGO HWY, WATTLE CT",
+        "SUBURBS": "HATTON VALE, PRENZLAU",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.903944,
+          -27.030473
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-822859-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "189",
         "REASON": "Planned Maintenance",
         "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 06 Mar 2025",
-        "STREETS": "STATION RD",
-        "SUBURBS": "LAWNTON",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2025",
+        "STREETS": "ALCOCK RD, ALZINO CT, BODEN RD, BRIGHT CT, BRUCKNELL RD, CHILD RD, FIG BAY RD, HALLETT CRES, LEVY RD, LYCHEE DR, MARKWELL RD, MCRAE RD, MERCEDES DR, MULLIGAN CRES, SADDLEBACK CT, SHERLOCK CT, SIMONE CT, VINE CRES, WATTLE RD",
+        "SUBURBS": "CABOOLTURE, ELIMBAH, WAMURAN",
         "ETR_FLAG": "N"
       }
     },
@@ -1503,28 +1327,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.610258,
-          -27.660804
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-822881-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "7",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 06 Mar 2025",
-        "STREETS": "ARMSTRONG LANE, EBENEZER RD, IPSWICH ROSEWOOD RD, KEANES RD, ROSEWOOD WARRILL VIEW RD",
-        "SUBURBS": "EBENEZER, ROSEWOOD",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.128053,
           -26.729479
         ]
@@ -1547,20 +1349,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.089595,
-          -26.558646
+          152.718968,
+          -26.296536
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-822906-g",
+        "EVENT_ID": "INCD-822890-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "28",
+        "CUSTOMERS_AFFECTED": "70",
         "REASON": "Planned Maintenance",
         "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 06 Mar 2025",
-        "STREETS": "ARLINGTON CT, JEENON ST, TANAH ST W, TOOLGA ST",
-        "SUBURBS": "MOUNT COOLUM",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:30PM 11 Mar 2025",
+        "STREETS": "BRUCE HWY, CUMULUS CT, FULLERTON RD, GLORY HILL RD, LOBWEIN RD, OLD BRUCE HWY, TANDUR RD",
+        "SUBURBS": "KYBONG, TANDUR",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.410942,
+          -27.090017
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-822919-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "16",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:30PM 11 Mar 2025",
+        "STREETS": "FULHAM RD, LOWER CRESSBROOK RD, MT BEPPO RD",
+        "SUBURBS": "CRESSBROOK, MOUNT BEPPO, TOOGOOLAWAH",
         "ETR_FLAG": "N"
       }
     },
@@ -1583,6 +1407,50 @@
         "EST_FIX_TIME": "3:30PM 10 Mar 2025",
         "STREETS": "MONTEGO CT, PRASADA CT",
         "SUBURBS": "EATONS HILL",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.132311,
+          -26.734114
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-822930-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "85",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2025",
+        "STREETS": "DRIFTWOOD CT, HONEYSUCKLE DR, MALLARD PL, OCEANIC DR, SATINBIRD PL",
+        "SUBURBS": "BOKARINA, WARANA",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.132143,
+          -26.737474
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-822936-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "84",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2025",
+        "STREETS": "BEACHCOMBER CT, DRIFTWOOD CT, DUNE VISTA DR, MAGNOLIA DR, MARINER PL, SEAFARER CT",
+        "SUBURBS": "BOKARINA",
         "ETR_FLAG": "N"
       }
     },
@@ -1635,20 +1503,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.089465,
-          -27.776073
+          152.956014,
+          -26.852075
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-823155-g",
+        "EVENT_ID": "INCD-823188-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "23",
+        "CUSTOMERS_AFFECTED": "99",
         "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:30AM 06 Mar 2025",
-        "EST_FIX_TIME": "2:30PM 06 Mar 2025",
-        "STREETS": "MYE PL, STOCKLEIGH RD, WARREN CT, YORE RD",
-        "SUBURBS": "LOGAN VILLAGE, STOCKLEIGH",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2025",
+        "STREETS": "KATHERINE ST, MONTROSE ST, NORTH ST, OLD LANDSBOROUGH RD, PINE CAMP RD, SIMPSON ST",
+        "SUBURBS": "BEERWAH",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.443904,
+          -28.082491
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-823373-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "59",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "4:00PM 11 Mar 2025",
+        "STREETS": "ARUMA AVE, BANKSIA BDWY, CLINTON AVE, COMET CT, DEODAR DR, JOY AVE, NEWSTEAD ST",
+        "SUBURBS": "BURLEIGH WATERS",
         "ETR_FLAG": "N"
       }
     },
@@ -1679,28 +1569,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.355293,
-          -27.85615
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-823710-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "24",
-        "REASON": "Damage Due To Cyclone",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "4:00PM 06 Mar 2025",
-        "STREETS": "BABIRRA ST, MUNGALA ST",
-        "SUBURBS": "HOPE ISLAND",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           152.808454,
           -27.263152
         ]
@@ -1715,28 +1583,6 @@
         "EST_FIX_TIME": "3:00PM 10 Mar 2025",
         "STREETS": "PRINGLES RD",
         "SUBURBS": "KOBBLE CREEK",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.075198,
-          -27.375956
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-823792-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "18",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:30PM 06 Mar 2025",
-        "STREETS": "FROUDE ST, GOLD ST, KENNAWAY ST, MUSGRAVE RD, ROYAL PDE, ST VINCENTS RD",
-        "SUBURBS": "BANYO",
         "ETR_FLAG": "N"
       }
     },
@@ -1855,28 +1701,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.454527,
-          -28.098853
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-823973-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "25",
-        "REASON": "Damage Due To Cyclone",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "4:00PM 06 Mar 2025",
-        "STREETS": "AWOONGA AVE",
-        "SUBURBS": "BURLEIGH HEADS",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.127171,
           -27.454723
         ]
@@ -1891,50 +1715,6 @@
         "EST_FIX_TIME": "3:00PM 07 Mar 2025",
         "STREETS": "ENDEAVOUR CL, GROSS AVE",
         "SUBURBS": "HEMMANT",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.04625,
-          -27.488033
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-823990-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 06 Mar 2025",
-        "STREETS": "STANLEY ST E, WITHINGTON ST",
-        "SUBURBS": "EAST BRISBANE",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.095475,
-          -26.661385
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-823995-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "244",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 06 Mar 2025",
-        "STREETS": "ALLAMBIE ST, BUNGAMA ST, DALBY ST, MAUD ST, MAVARRA ST, MAY ST, PARKER ST, SECOND AVE",
-        "SUBURBS": "MAROOCHYDORE",
         "ETR_FLAG": "N"
       }
     },
@@ -1987,20 +1767,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.062886,
-          -27.587226
+          152.816276,
+          -27.176873
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-824036-g",
+        "EVENT_ID": "INCD-824038-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "14",
+        "CUSTOMERS_AFFECTED": "3",
         "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 06 Mar 2025",
-        "STREETS": "ARDARGIE ST, EDITH ST",
-        "SUBURBS": "SUNNYBANK",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:30PM 11 Mar 2025",
+        "STREETS": "SELLIN RD",
+        "SUBURBS": "KING SCRUB",
         "ETR_FLAG": "N"
       }
     },
@@ -2075,50 +1855,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.079613,
-          -27.772795
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-824107-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "22",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "10:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "2:30PM 06 Mar 2025",
-        "STREETS": "PEPPERINA DR",
-        "SUBURBS": "STOCKLEIGH",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.078386,
-          -27.774091
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-824108-g",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "14",
-        "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "10:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "2:30PM 06 Mar 2025",
-        "STREETS": "FIGWOOD CT, PEPPERINA DR, STOCKLEIGH RD",
-        "SUBURBS": "STOCKLEIGH",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           152.984307,
           -26.401688
         ]
@@ -2141,20 +1877,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.833973,
-          -27.572617
+          153.021587,
+          -26.401187
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-824138-g",
+        "EVENT_ID": "INCD-824141-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "152",
+        "CUSTOMERS_AFFECTED": "36",
         "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "3:30PM 06 Mar 2025",
-        "STREETS": "BENDEMEER ST, ELANORA WAY, FIRST AVE, GASCOYNE DR, HOOD ST, JUNCTION RD, OXLEY DR, RIVERSIDE AVE, RIVERSIDE CT, SWANN ST",
-        "SUBURBS": "BARELLAN POINT, KARALEE",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2025",
+        "STREETS": "AGRIPPA CRES, FOEDERA CRES",
+        "SUBURBS": "TEWANTIN",
         "ETR_FLAG": "N"
       }
     },
@@ -2185,20 +1921,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.932222,
-          -27.535451
+          152.922727,
+          -27.329017
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-824249-g",
+        "EVENT_ID": "INCD-824271-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "56",
+        "CUSTOMERS_AFFECTED": "7",
         "REASON": "Planned Maintenance",
-        "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "2:30PM 06 Mar 2025",
-        "STREETS": "CANOWIE RD, CHIPALA ST, COMBABULA ST, COORADILLA ST, PAMAROO CRES",
-        "SUBURBS": "JINDALEE",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:30PM 11 Mar 2025",
+        "STREETS": "MARY CT, SOMERS ST",
+        "SUBURBS": "CASHMERE",
         "ETR_FLAG": "N"
       }
     },
@@ -2207,20 +1943,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.444183,
-          -28.156471
+          153.143296,
+          -27.776689
         ]
       },
       "properties": {
-        "EVENT_ID": "INCD-824270-g",
+        "EVENT_ID": "INCD-824281-g",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "7",
-        "REASON": "Damage Due To Cyclone",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "2:30PM 11 Mar 2025",
+        "STREETS": "MURRAY RD",
+        "SUBURBS": "LOGAN VILLAGE",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.675305,
+          -27.726056
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-824312-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "38",
+        "REASON": "Planned Maintenance",
         "STATUS": "Cancelled",
-        "START": "8:00AM 06 Mar 2025",
-        "EST_FIX_TIME": "4:00PM 06 Mar 2025",
-        "STREETS": "CORNWALL DR",
-        "SUBURBS": "ELANORA",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2025",
+        "STREETS": "CUNNINGHAM HWY, G HINES RD, GOEBELS RD, LUBES RD, MIDDLE RD, POORES RD, SHELBACH RD, STEPHENS RD",
+        "SUBURBS": "MUTDAPILLY, PURGA, WILLOWBANK",
         "ETR_FLAG": "N"
       }
     },
@@ -2251,6 +2009,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          153.177511,
+          -27.462621
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-824399-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "30",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "4:00PM 11 Mar 2025",
+        "STREETS": "GRETA ST, KAMARIN ST, SUE ST",
+        "SUBURBS": "MANLY WEST",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.979646,
+          -27.877351
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-824506-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "34",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:30PM 11 Mar 2025",
+        "STREETS": "DELTORO RD",
+        "SUBURBS": "CEDAR GROVE",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           153.124793,
           -26.738652
         ]
@@ -2265,6 +2067,72 @@
         "EST_FIX_TIME": "2:30PM 07 Mar 2025",
         "STREETS": "SPORTSMANS PDE",
         "SUBURBS": "BOKARINA",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.435625,
+          -28.162225
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-824515-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "123",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Cancelled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2025",
+        "STREETS": "BRADMAN DR, BRAHMAN CT, CURRUMBIN CREEK RD, DUDGEON DR, FRIESIAN CT, JERSEY CT, JOANNE CT, LILLEE CT, STACKPOLE ST, TALLEBUDGERA CONNECTION RD",
+        "SUBURBS": "CURRUMBIN VALLEY, CURRUMBIN WATERS, TALLEBUDGERA",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.074227,
+          -26.643648
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-824538-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "208",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2025",
+        "STREETS": "ALKIRA ST, BERRIMA ST, BRADMAN AVE, BROADWATER AVE, MINTI ST",
+        "SUBURBS": "MAROOCHYDORE",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.019124,
+          -27.78048
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-824575-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "9:30AM 11 Mar 2025",
+        "EST_FIX_TIME": "1:30PM 11 Mar 2025",
+        "STREETS": "SMAILES RD, TRACE RD",
+        "SUBURBS": "NORTH MACLEAN",
         "ETR_FLAG": "N"
       }
     },
@@ -2295,6 +2163,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.45442,
+          -27.555854
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-824779-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "4:00PM 11 Mar 2025",
+        "STREETS": "ZISCHKE RD",
+        "SUBURBS": "HATTON VALE, REGENCY DOWNS",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           153.115828,
           -26.681291
         ]
@@ -2309,6 +2199,72 @@
         "EST_FIX_TIME": "3:00PM 10 Mar 2025",
         "STREETS": "BAHLAKA ST, BAROOGA CRES, GOONAWARRA DR, MURABAN ST, SMITH ST, TARCOOLA AVE, VENNING ST, WALAN ST",
         "SUBURBS": "MOOLOOLABA",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.146822,
+          -27.62863
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-824797-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "50",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2025",
+        "STREETS": "JOHN PAUL DR",
+        "SUBURBS": "SPRINGWOOD",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.982042,
+          -27.280066
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-824826-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00PM 11 Mar 2025",
+        "EST_FIX_TIME": "5:00AM 12 Mar 2025",
+        "STREETS": "GYMPIE RD",
+        "SUBURBS": "LAWNTON",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.143599,
+          -27.62845
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-824850-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "70",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "8:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2025",
+        "STREETS": "ACHILLES DR, COLEMAN CRES, DELORAINE DR, FORTRIL DR",
+        "SUBURBS": "SPRINGWOOD",
         "ETR_FLAG": "N"
       }
     },
@@ -2465,9 +2421,31 @@
         "SUBURBS": "SHERWOOD",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.905278,
+          -27.538485
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-827062-g",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "Planned Maintenance",
+        "STATUS": "Scheduled",
+        "START": "7:00AM 11 Mar 2025",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2025",
+        "STREETS": "PINJARRA RD",
+        "SUBURBS": "PINJARRA HILLS",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Future",
-  "extracted": "1741269001.454264"
+  "extracted": "1741269606.404665"
 }
