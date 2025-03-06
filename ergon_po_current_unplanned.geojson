@@ -589,6 +589,131 @@
           {
             "type": "Point",
             "coordinates": [
+              148.526922,
+              -21.138027
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.486777,
+                  -21.131666
+                ],
+                [
+                  148.487371,
+                  -21.13354
+                ],
+                [
+                  148.487398,
+                  -21.133606
+                ],
+                [
+                  148.488293,
+                  -21.135364
+                ],
+                [
+                  148.488359,
+                  -21.135459
+                ],
+                [
+                  148.489551,
+                  -21.136795
+                ],
+                [
+                  148.489763,
+                  -21.136932
+                ],
+                [
+                  148.515133,
+                  -21.145124
+                ],
+                [
+                  148.515228,
+                  -21.145145
+                ],
+                [
+                  148.557352,
+                  -21.150291
+                ],
+                [
+                  148.557613,
+                  -21.150254
+                ],
+                [
+                  148.56452,
+                  -21.147302
+                ],
+                [
+                  148.564784,
+                  -21.147014
+                ],
+                [
+                  148.56705,
+                  -21.139501
+                ],
+                [
+                  148.567067,
+                  -21.139363
+                ],
+                [
+                  148.566813,
+                  -21.13218
+                ],
+                [
+                  148.566375,
+                  -21.131745
+                ],
+                [
+                  148.49565,
+                  -21.125763
+                ],
+                [
+                  148.495439,
+                  -21.125789
+                ],
+                [
+                  148.492635,
+                  -21.126768
+                ],
+                [
+                  148.492494,
+                  -21.126844
+                ],
+                [
+                  148.48693,
+                  -21.13119
+                ],
+                [
+                  148.486777,
+                  -21.131666
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25MK2212",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "136",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "4:26PM 06 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BEE CREEK RD, CHELMER ST, CUMMINGS ST, CUNNINGHAM ST, DE BONIS RD, EUNGELLA DAM RD, HOWIE ST, JACK CUNNINGHAM ST, MACKAY EUNGELLA RD, NORTH ST, OKULOO RD, PITTIONIS RD, RUSSELL CUNNINGHAM ST, SONNY BOY CREEK RD",
+        "SUBURBS": "DALRYMPLE HEIGHTS, EUNGELLA, FINCH HATTON, NETHERDALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.207433,
               -18.981624
             ]
@@ -641,86 +766,9 @@
         "STREETS": "INTAKE RD",
         "SUBURBS": "MUTARNEE"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              147.424133,
-              -19.717324
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  147.419616,
-                  -19.719921
-                ],
-                [
-                  147.424393,
-                  -19.723449
-                ],
-                [
-                  147.424937,
-                  -19.723477
-                ],
-                [
-                  147.428516,
-                  -19.721387
-                ],
-                [
-                  147.428743,
-                  -19.721002
-                ],
-                [
-                  147.428744,
-                  -19.711597
-                ],
-                [
-                  147.428106,
-                  -19.711172
-                ],
-                [
-                  147.425047,
-                  -19.71221
-                ],
-                [
-                  147.424822,
-                  -19.71237
-                ],
-                [
-                  147.419523,
-                  -19.7193
-                ],
-                [
-                  147.419616,
-                  -19.719921
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25NQ3847",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "12",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
-        "START": "2:58PM 06 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "BAKER RD, SIBSON RD",
-        "SUBURBS": "HOME HILL"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741242304.431822"
+  "extracted": "1741242900.245463"
 }
