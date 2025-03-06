@@ -281,6 +281,99 @@
           {
             "type": "Point",
             "coordinates": [
+              150.483837,
+              -23.312163
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.481517,
+                  -23.312415
+                ],
+                [
+                  150.484017,
+                  -23.314707
+                ],
+                [
+                  150.484441,
+                  -23.314832
+                ],
+                [
+                  150.485894,
+                  -23.314608
+                ],
+                [
+                  150.4863,
+                  -23.314121
+                ],
+                [
+                  150.486279,
+                  -23.313917
+                ],
+                [
+                  150.486245,
+                  -23.313788
+                ],
+                [
+                  150.485867,
+                  -23.312937
+                ],
+                [
+                  150.485787,
+                  -23.312817
+                ],
+                [
+                  150.485461,
+                  -23.312461
+                ],
+                [
+                  150.485442,
+                  -23.312442
+                ],
+                [
+                  150.482411,
+                  -23.309494
+                ],
+                [
+                  150.48157,
+                  -23.309769
+                ],
+                [
+                  150.481375,
+                  -23.31206
+                ],
+                [
+                  150.481517,
+                  -23.312415
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25CA4575",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "57",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "9:15AM 06 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "ARTHUR DR, BELMONT RD, BEVERLEY BVD, BEVERLY CL, BRADFORD DR, MARYANN CT",
+        "SUBURBS": "PARKHURST, ROCKHAMPTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               142.540403,
               -9.416036
             ]
@@ -1037,5 +1130,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741219500.290341"
+  "extracted": "1741220101.489335"
 }
