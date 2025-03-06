@@ -7323,9 +7323,87 @@
         "SUBURBS": "FERNY GLEN, FLYING FOX, ILLINBAH",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.377302,
+              -28.039152
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.375142,
+                  -28.041272
+                ],
+                [
+                  153.376019,
+                  -28.042494
+                ],
+                [
+                  153.37655,
+                  -28.042694
+                ],
+                [
+                  153.377963,
+                  -28.042438
+                ],
+                [
+                  153.378363,
+                  -28.04207
+                ],
+                [
+                  153.379493,
+                  -28.036098
+                ],
+                [
+                  153.378785,
+                  -28.03561
+                ],
+                [
+                  153.377821,
+                  -28.035989
+                ],
+                [
+                  153.377566,
+                  -28.03621
+                ],
+                [
+                  153.37511,
+                  -28.040837
+                ],
+                [
+                  153.375142,
+                  -28.041272
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829544-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "6:06AM 07 Mar 2025",
+        "EST_FIX_TIME": "8:30AM 07 Mar 2025",
+        "STREETS": "BOOWAGGAN RD, GOODING DR",
+        "SUBURBS": "CARRARA, MERRIMAC",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741291207.108602"
+  "extracted": "1741291801.163343"
 }
