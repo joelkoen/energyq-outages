@@ -95,13 +95,13 @@
         "EVENT_ID": "INCD-6-s",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "94",
-        "REASON": "Emergency Repairs",
+        "REASON": "Emergency repairs in-progress",
         "STATUS": "Awaiting",
         "START": "3:16PM 06 Mar 2025",
         "EST_FIX_TIME": "6:00PM 06 Mar 2025",
         "STREETS": "BOYKAMBIL ESP S, COOMBE AVE, CRESCENT AVE, HALCYON WAY, SHOE ST",
         "SUBURBS": "HOPE ISLAND",
-        "ETR_FLAG": "N"
+        "ETR_FLAG": "Y"
       }
     },
     {
@@ -498,84 +498,6 @@
         "STREETS": "SHERWOOD RD",
         "SUBURBS": "SHERWOOD",
         "ETR_FLAG": "Y"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              153.407824,
-              -28.029039
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.404919,
-                  -28.030154
-                ],
-                [
-                  153.405115,
-                  -28.030371
-                ],
-                [
-                  153.405557,
-                  -28.030539
-                ],
-                [
-                  153.409546,
-                  -28.030231
-                ],
-                [
-                  153.409946,
-                  -28.030002
-                ],
-                [
-                  153.410729,
-                  -28.028757
-                ],
-                [
-                  153.410392,
-                  -28.028096
-                ],
-                [
-                  153.407478,
-                  -28.027539
-                ],
-                [
-                  153.407005,
-                  -28.027667
-                ],
-                [
-                  153.404951,
-                  -28.029559
-                ],
-                [
-                  153.404919,
-                  -28.030154
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-828630-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "70",
-        "REASON": "Powerlines down",
-        "STATUS": "In Progress",
-        "START": "8:56AM 06 Mar 2025",
-        "EST_FIX_TIME": "5:30PM 06 Mar 2025",
-        "STREETS": "BERMUDA ST, DARNAY RD, IPSLEY DR, SOPHIE AVE, TANNAH CT",
-        "SUBURBS": "BROADBEACH WATERS",
-        "ETR_FLAG": "N"
       }
     },
     {
@@ -1255,7 +1177,7 @@
         "EVENT_ID": "INCD-828856-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "710",
-        "REASON": "Under Investigation",
+        "REASON": "Damage due to severe weather",
         "STATUS": "Awaiting",
         "START": "12:09PM 06 Mar 2025",
         "EST_FIX_TIME": "8:00AM 10 Mar 2025",
@@ -1357,7 +1279,7 @@
         "EVENT_ID": "INCD-828893-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "48",
-        "REASON": "Under Investigation",
+        "REASON": "Damage due to severe weather",
         "STATUS": "Awaiting",
         "START": "12:51PM 06 Mar 2025",
         "EST_FIX_TIME": "8:00AM 10 Mar 2025",
@@ -1374,8 +1296,8 @@
           {
             "type": "Point",
             "coordinates": [
-              153.377385,
-              -28.195181
+              153.377578,
+              -28.185217
             ]
           },
           {
@@ -1383,88 +1305,44 @@
             "coordinates": [
               [
                 [
-                  153.367124,
-                  -28.200593
+                  153.374835,
+                  -28.182111
                 ],
                 [
-                  153.367293,
-                  -28.206574
+                  153.377004,
+                  -28.188557
                 ],
                 [
-                  153.367481,
-                  -28.206912
+                  153.377461,
+                  -28.188878
                 ],
                 [
-                  153.377879,
-                  -28.214409
+                  153.377959,
+                  -28.188608
                 ],
                 [
-                  153.378061,
-                  -28.214493
+                  153.38032,
+                  -28.1838
                 ],
                 [
-                  153.382929,
-                  -28.215721
+                  153.380068,
+                  -28.183211
                 ],
                 [
-                  153.383378,
-                  -28.215645
+                  153.377716,
+                  -28.182244
                 ],
                 [
-                  153.387453,
-                  -28.212882
+                  153.377669,
+                  -28.182227
                 ],
                 [
-                  153.387647,
-                  -28.212454
+                  153.375491,
+                  -28.181555
                 ],
                 [
-                  153.382172,
-                  -28.181124
-                ],
-                [
-                  153.382107,
-                  -28.180964
-                ],
-                [
-                  153.38163,
-                  -28.180249
-                ],
-                [
-                  153.381572,
-                  -28.180178
-                ],
-                [
-                  153.376131,
-                  -28.174783
-                ],
-                [
-                  153.375652,
-                  -28.174641
-                ],
-                [
-                  153.374082,
-                  -28.174919
-                ],
-                [
-                  153.373698,
-                  -28.175221
-                ],
-                [
-                  153.368011,
-                  -28.190629
-                ],
-                [
-                  153.367987,
-                  -28.190734
-                ],
-                [
-                  153.367125,
-                  -28.200547
-                ],
-                [
-                  153.367124,
-                  -28.200593
+                  153.374835,
+                  -28.182111
                 ]
               ]
             ]
@@ -1474,13 +1352,13 @@
       "properties": {
         "EVENT_ID": "INCD-828971-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "82",
+        "CUSTOMERS_AFFECTED": "15",
         "REASON": "Under Investigation",
         "STATUS": "Awaiting",
         "START": "2:53PM 06 Mar 2025",
         "EST_FIX_TIME": "6:00PM 06 Mar 2025",
-        "STREETS": "BRAMLEY DR, CURRUMBIN CREEK RD, PETSCH CREEK RD, TREES RD",
-        "SUBURBS": "CURRUMBIN VALLEY, TALLEBUDGERA VALLEY",
+        "STREETS": "PETSCH CREEK RD",
+        "SUBURBS": "TALLEBUDGERA VALLEY",
         "ETR_FLAG": "N"
       }
     },
@@ -1649,7 +1527,7 @@
         "EVENT_ID": "INCD-828974-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "618",
-        "REASON": "Under Investigation",
+        "REASON": "Powerlines down",
         "STATUS": "Awaiting",
         "START": "2:56PM 06 Mar 2025",
         "EST_FIX_TIME": "6:30PM 06 Mar 2025",
@@ -1661,5 +1539,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741240803.465404"
+  "extracted": "1741241101.416555"
 }
