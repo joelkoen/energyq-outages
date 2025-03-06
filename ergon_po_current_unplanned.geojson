@@ -491,6 +491,99 @@
           {
             "type": "Point",
             "coordinates": [
+              141.88812,
+              -12.682445
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  141.884906,
+                  -12.679641
+                ],
+                [
+                  141.884966,
+                  -12.685351
+                ],
+                [
+                  141.885236,
+                  -12.685757
+                ],
+                [
+                  141.888738,
+                  -12.687307
+                ],
+                [
+                  141.888965,
+                  -12.687345
+                ],
+                [
+                  141.890186,
+                  -12.687243
+                ],
+                [
+                  141.890603,
+                  -12.686846
+                ],
+                [
+                  141.891335,
+                  -12.680661
+                ],
+                [
+                  141.89119,
+                  -12.680278
+                ],
+                [
+                  141.889008,
+                  -12.678309
+                ],
+                [
+                  141.888826,
+                  -12.678208
+                ],
+                [
+                  141.8865,
+                  -12.677546
+                ],
+                [
+                  141.885979,
+                  -12.677748
+                ],
+                [
+                  141.884971,
+                  -12.679406
+                ],
+                [
+                  141.884906,
+                  -12.679641
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25FN3133",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "39",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "1:16PM 06 Mar 2025",
+        "EST_FIX_TIME": "3:00PM 06 Mar 2025",
+        "STREETS": "BEE-NING ST, GONBUNG RD, HUNT LANE, LEE-DING ST, MOI-NGUM ST, MOUN-DING ST, NANUN ST, NAPRANUM ST, OONINGAN ST, PRENG-IM ST, WA-TYNE ST, WAUM ST",
+        "SUBURBS": "EVANS LANDING, NAPRANUM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.698232,
               -21.133244
             ]
@@ -682,160 +775,6 @@
           {
             "type": "Point",
             "coordinates": [
-              141.416017,
-              -20.80041
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  141.40287,
-                  -20.733684
-                ],
-                [
-                  141.427769,
-                  -20.867283
-                ],
-                [
-                  141.428278,
-                  -20.867654
-                ],
-                [
-                  141.428719,
-                  -20.867213
-                ],
-                [
-                  141.429163,
-                  -20.842421
-                ],
-                [
-                  141.429152,
-                  -20.842317
-                ],
-                [
-                  141.403809,
-                  -20.73351
-                ],
-                [
-                  141.403249,
-                  -20.733165
-                ],
-                [
-                  141.40287,
-                  -20.733684
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25NQ3635",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "3",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews working on-site",
-        "START": "1:20PM 03 Mar 2025",
-        "EST_FIX_TIME": "2:30PM 06 Mar 2025",
-        "STREETS": "BINDOORAN STATION, MALVIE DOWNS STATION, STRATHBYRNE STATION",
-        "SUBURBS": "JULIA CREEK"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              143.608322,
-              -20.933882
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  143.487959,
-                  -20.860837
-                ],
-                [
-                  143.670316,
-                  -21.047158
-                ],
-                [
-                  143.671101,
-                  -21.047051
-                ],
-                [
-                  143.728771,
-                  -20.936675
-                ],
-                [
-                  143.728807,
-                  -20.936372
-                ],
-                [
-                  143.709394,
-                  -20.859671
-                ],
-                [
-                  143.709067,
-                  -20.859344
-                ],
-                [
-                  143.574321,
-                  -20.820606
-                ],
-                [
-                  143.574005,
-                  -20.820618
-                ],
-                [
-                  143.489456,
-                  -20.851882
-                ],
-                [
-                  143.489157,
-                  -20.852235
-                ],
-                [
-                  143.487838,
-                  -20.860465
-                ],
-                [
-                  143.487959,
-                  -20.860837
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25NQ3822",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "15",
-        "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
-        "STATUS": "Crews working on-site",
-        "START": "8:45AM 06 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "FLINDERS HWY, KALBOONA STATION, KILLARNEY STATION, MARATHON STATION, MARATHON STH STATION, MORVADA STATION, NINDI STATION, TAMWORTH STATION, THORNHILL STATION",
-        "SUBURBS": "HUGHENDEN, STAMFORD"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               148.189304,
               -20.03252
             ]
@@ -943,59 +882,6 @@
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "BOWEN DEVELOPMENT RD, BOWEN DEVELOPMENTAL RD, HERMANS RD, PETER DELAMOTHE RD, SANDY LANE, WEBSTERS LANE",
         "SUBURBS": "BOWEN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.471123,
-              -26.781672
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.471624,
-                  -26.781656
-                ],
-                [
-                  151.471105,
-                  -26.781222
-                ],
-                [
-                  151.470622,
-                  -26.781688
-                ],
-                [
-                  151.471141,
-                  -26.782122
-                ],
-                [
-                  151.471624,
-                  -26.781656
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25SW4224",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "12:01PM 06 Mar 2025",
-        "EST_FIX_TIME": "2:00PM 06 Mar 2025",
-        "STREETS": "BUNYA HWY",
-        "SUBURBS": "COORANGA NORTH"
       }
     },
     {
@@ -1118,5 +1004,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741230903.464358"
+  "extracted": "1741231500.603412"
 }
