@@ -9064,6 +9064,84 @@
           {
             "type": "Point",
             "coordinates": [
+              153.155798,
+              -27.895211
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.154347,
+                  -27.894793
+                ],
+                [
+                  153.155936,
+                  -27.896039
+                ],
+                [
+                  153.156047,
+                  -27.896106
+                ],
+                [
+                  153.156699,
+                  -27.896392
+                ],
+                [
+                  153.157351,
+                  -27.896234
+                ],
+                [
+                  153.15725,
+                  -27.895641
+                ],
+                [
+                  153.1553,
+                  -27.894199
+                ],
+                [
+                  153.155144,
+                  -27.89412
+                ],
+                [
+                  153.154853,
+                  -27.894029
+                ],
+                [
+                  153.154246,
+                  -27.894226
+                ],
+                [
+                  153.154347,
+                  -27.894793
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829667-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "7:26AM 07 Mar 2025",
+        "EST_FIX_TIME": "12:00AM 08 Mar 2025",
+        "STREETS": "TAMBORINE MOUNTAIN RD",
+        "SUBURBS": "TAMBORINE",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.315658,
               -28.141519
             ]
@@ -10093,5 +10171,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741304102.067883"
+  "extracted": "1741304400.994144"
 }
