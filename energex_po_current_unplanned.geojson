@@ -5938,7 +5938,7 @@
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "1:49AM 07 Mar 2025",
-        "EST_FIX_TIME": "5:30AM 07 Mar 2025",
+        "EST_FIX_TIME": "5:00AM 07 Mar 2025",
         "STREETS": "AYLESHAM DR, BASSWOOD CT, BERRY LANE, BONNIE CT, BONOGIN RD, BROMFIELD DR, BUSH SWALLOW RD, CALALA CT, CALANTHE LANE, CAMP DR, CARISSA PL, CAROL ANNE CT, CLANSMAN CT, CLIFFORD RISE, DARCY LANE, DAVENPORT DR, FAIRY WREN CT, FERNY RIDGE CT, FINCH ST, FRIARBIRD CRES, GARDENIA DR, GAW TCE, GLENEAGLE CT, GLENFERN PL, GLENMORE DR, GUAVA CT, HARDYS RD, HERSDEN CT, HIDDEN VALLEY RD, IDOLOU CT, KAMALA CT, KAURI CT, KODA CT, LEYSHON CT, LOMATIA CT, MAGNOLIA LANE, MILKBUSH CT, MILL LANE, MOONDANCE CT, NIGHTSHADE RD, PALOMINO DR, PARKMEADOWS CT, PEPPERWOOD RD, QUINCE PL, RIBERRY CT, ROXBY CT, SAUNDERS DR, SEHMISH CT, STELLA PL, STIRLING CT, TALLOWWOOD RD, TULIPWOOD DR, VALLEYVIEW CT, VERDURE PL, WARATAH CT, WARRAMBEEN PL, WHITEASH RD, WINDEMERE DR, YELLOWASH CT",
         "SUBURBS": "AUSTINVILLE, BONOGIN, MUDGEERABA",
         "ETR_FLAG": "N"
@@ -6761,9 +6761,87 @@
         "SUBURBS": "BURLEIGH WATERS, MERMAID WATERS, MIAMI",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.070302,
+              -27.79565
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.069261,
+                  -27.793255
+                ],
+                [
+                  153.070051,
+                  -27.798133
+                ],
+                [
+                  153.070481,
+                  -27.798515
+                ],
+                [
+                  153.071015,
+                  -27.798257
+                ],
+                [
+                  153.0713,
+                  -27.797706
+                ],
+                [
+                  153.071344,
+                  -27.797471
+                ],
+                [
+                  153.07091,
+                  -27.793741
+                ],
+                [
+                  153.070772,
+                  -27.793475
+                ],
+                [
+                  153.07013,
+                  -27.792878
+                ],
+                [
+                  153.069541,
+                  -27.792785
+                ],
+                [
+                  153.069261,
+                  -27.793255
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829509-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "4:35AM 07 Mar 2025",
+        "EST_FIX_TIME": "6:30AM 07 Mar 2025",
+        "STREETS": "HOTZ RD",
+        "SUBURBS": "JIMBOOMBA, LOGAN VILLAGE",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741286401.136633"
+  "extracted": "1741286743.489782"
 }
