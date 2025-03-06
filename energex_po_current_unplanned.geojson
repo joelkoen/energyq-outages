@@ -1503,7 +1503,7 @@
             "type": "Point",
             "coordinates": [
               153.51359,
-              -28.16191
+              -28.161917
             ]
           },
           {
@@ -1559,20 +1559,12 @@
                   -28.163038
                 ],
                 [
-                  153.549172,
-                  -28.162992
+                  153.54913,
+                  -28.16298
                 ],
                 [
-                  153.500034,
-                  -28.147437
-                ],
-                [
-                  153.499887,
-                  -28.147411
-                ],
-                [
-                  153.477948,
-                  -28.14647
+                  153.478052,
+                  -28.146484
                 ],
                 [
                   153.477793,
@@ -1594,13 +1586,13 @@
       "properties": {
         "EVENT_ID": "INCD-829169-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "5616",
+        "CUSTOMERS_AFFECTED": "4166",
         "REASON": "Damage Due To Cyclone",
         "STATUS": "In Progress",
         "START": "7:38PM 06 Mar 2025",
         "EST_FIX_TIME": "12:00PM 07 Mar 2025",
-        "STREETS": "ADINA AVE, APPEL ST, ARCHER ST, BALLOW ST, BINYA AVE, BOLTON ST, BOUNDARY ST, BOYD ST, CARMICHAEL CL, CHALK ST, CHARLOTTE ST, CHURCHILL ST, CLARKE ST, COOLANGATTA RD, COYNE ST, CREEK ST, DIXON ST, DOUGLAS ST, DULKARRA AVE, DUTTON ST, EDEN AVE, FOCH ST, GALA GR, GARRICK ST, GEORGE AVE, GEORGE ST, GERRARD ST, GIBSON ST, GOLD COAST HWY, GOLDEN FOUR DR, GRIFFITH ST, HAIG ST, HILL ST, JOHN ST, JOHNSON ST, JOHNSTON ST, KENT ST, KIEWA AVE, KIRRIBIN ST, KORINA AVE, LANG ST, LANHAM ST, LOONGANA AVE, LORD ST, MARINE PDE, MATTERS ST, MCDONALD ST, MCLEAN ST, MILES ST, MONASH ST, MORSHEAD ST, MUSGRAVE ST, OCEAN ST, PACIFIC PDE, PETRIE ST, POWELL CRES, REED ST, RUTLEDGE ST, SAND ST, SCOTT ST, SEA ST, SHORT ST, SIMPSON ST, SNAPPER ROCKS RD, SOUTH ST, STAPYLTON ST, STEWART RD, SURF ST, TOOLOON ST, TUGUN ST, TWEED ST, TWEED TCE, WARD ST, WARRAWONG ST, WINSTON ST",
-        "SUBURBS": "BILINGA, BROADBEACH, COOLANGATTA, CURRUMBIN WATERS, TUGUN",
+        "STREETS": "APPEL ST, BALLOW ST, BINYA AVE, BOLTON ST, BOUNDARY ST, CARMICHAEL CL, CHALK ST, CHARLOTTE ST, CHURCHILL ST, CLARKE ST, COOLANGATTA RD, COYNE ST, CREEK ST, DIXON ST, DOUGLAS ST, DUTTON ST, EDEN AVE, GALA GR, GARRICK ST, GEORGE AVE, GERRARD ST, GOLD COAST HWY, GOLDEN FOUR DR, GRIFFITH ST, HAIG ST, HILL ST, KENT ST, KORINA AVE, LANG ST, LANHAM ST, LORD ST, MARINE PDE, MCDONALD ST, MCLEAN ST, MILES ST, MUSGRAVE ST, OCEAN ST, PACIFIC PDE, PETRIE ST, POWELL CRES, REED ST, RUTLEDGE ST, SCOTT ST, SIMPSON ST, SNAPPER ROCKS RD, SOUTH ST, STAPYLTON ST, STEWART RD, TOOLOON ST, TWEED ST, TWEED TCE, WARD ST, WARRAWONG ST, WINSTON ST",
+        "SUBURBS": "BILINGA, BROADBEACH, COOLANGATTA, CURRUMBIN WATERS",
         "ETR_FLAG": "N"
       }
     },
@@ -4267,9 +4259,111 @@
         "SUBURBS": "CURRUMBIN WATERS",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.507398,
+              -28.157031
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.494123,
+                  -28.154797
+                ],
+                [
+                  153.515842,
+                  -28.165055
+                ],
+                [
+                  153.515872,
+                  -28.165068
+                ],
+                [
+                  153.519165,
+                  -28.166387
+                ],
+                [
+                  153.519315,
+                  -28.166424
+                ],
+                [
+                  153.520398,
+                  -28.166537
+                ],
+                [
+                  153.520901,
+                  -28.165867
+                ],
+                [
+                  153.519931,
+                  -28.164346
+                ],
+                [
+                  153.51984,
+                  -28.164242
+                ],
+                [
+                  153.500215,
+                  -28.147537
+                ],
+                [
+                  153.499523,
+                  -28.147526
+                ],
+                [
+                  153.495985,
+                  -28.150333
+                ],
+                [
+                  153.49596,
+                  -28.150355
+                ],
+                [
+                  153.495718,
+                  -28.150575
+                ],
+                [
+                  153.495616,
+                  -28.15071
+                ],
+                [
+                  153.493896,
+                  -28.154219
+                ],
+                [
+                  153.494123,
+                  -28.154797
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829323-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1450",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "11:25PM 06 Mar 2025",
+        "EST_FIX_TIME": "3:00AM 07 Mar 2025",
+        "STREETS": "ADINA AVE, ARCHER ST, BOYD ST, COOLANGATTA RD, DULKARRA AVE, FOCH ST, GEORGE ST, GIBSON ST, GOLD COAST HWY, GOLDEN FOUR DR, JOHN ST, JOHNSON ST, JOHNSTON ST, KIEWA AVE, KIRRIBIN ST, LOONGANA AVE, MATTERS ST, MONASH ST, MORSHEAD ST, PACIFIC PDE, SAND ST, SEA ST, SHORT ST, SURF ST, TUGUN ST",
+        "SUBURBS": "BILINGA, TUGUN",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741267201.276631"
+  "extracted": "1741267504.326808"
 }
