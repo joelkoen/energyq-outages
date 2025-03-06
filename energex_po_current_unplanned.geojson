@@ -5241,9 +5241,95 @@
         "SUBURBS": "NERANG",
         "ETR_FLAG": "Y"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.298935,
+              -28.154114
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.295548,
+                  -28.152311
+                ],
+                [
+                  153.295969,
+                  -28.157234
+                ],
+                [
+                  153.295973,
+                  -28.157265
+                ],
+                [
+                  153.29631,
+                  -28.159317
+                ],
+                [
+                  153.296747,
+                  -28.159699
+                ],
+                [
+                  153.297281,
+                  -28.159431
+                ],
+                [
+                  153.302323,
+                  -28.149104
+                ],
+                [
+                  153.3022,
+                  -28.148592
+                ],
+                [
+                  153.301613,
+                  -28.148528
+                ],
+                [
+                  153.295849,
+                  -28.151299
+                ],
+                [
+                  153.295584,
+                  -28.151671
+                ],
+                [
+                  153.295548,
+                  -28.152252
+                ],
+                [
+                  153.295548,
+                  -28.152311
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829407-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "12:14AM 07 Mar 2025",
+        "EST_FIX_TIME": "3:00AM 07 Mar 2025",
+        "STREETS": "MT NIMMEL RD",
+        "SUBURBS": "AUSTINVILLE, SPRINGBROOK",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741271101.280084"
+  "extracted": "1741271405.472002"
 }
