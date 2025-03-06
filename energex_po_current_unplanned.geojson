@@ -1526,16 +1526,78 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "131",
         "REASON": "Under Investigation",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "6:37PM 06 Mar 2025",
         "EST_FIX_TIME": "9:30PM 06 Mar 2025",
         "STREETS": "AQUA PROMENADE, BOURKE LODGE DR, CURRUMBIN CREEK RD, JALINDA CT, KYTE ST, PIGGABEEN RD, VITA BELLA CT",
         "SUBURBS": "CURRUMBIN VALLEY, CURRUMBIN WATERS",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.319243,
+              -27.566512
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.321586,
+                  -27.567578
+                ],
+                [
+                  152.317526,
+                  -27.564735
+                ],
+                [
+                  152.316815,
+                  -27.564811
+                ],
+                [
+                  152.3169,
+                  -27.565445
+                ],
+                [
+                  152.32096,
+                  -27.568288
+                ],
+                [
+                  152.321672,
+                  -27.568212
+                ],
+                [
+                  152.321586,
+                  -27.567578
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829158-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "7:07PM 06 Mar 2025",
+        "EST_FIX_TIME": "9:30PM 06 Mar 2025",
+        "STREETS": "DODT RD, FITZGERALDS RD",
+        "SUBURBS": "GATTON, LAWES",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741251905.100701"
+  "extracted": "1741252201.416313"
 }
