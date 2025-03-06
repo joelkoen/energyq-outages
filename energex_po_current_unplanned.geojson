@@ -336,100 +336,6 @@
           {
             "type": "Point",
             "coordinates": [
-              153.377467,
-              -28.210191
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.367481,
-                  -28.206912
-                ],
-                [
-                  153.377879,
-                  -28.214409
-                ],
-                [
-                  153.378061,
-                  -28.214493
-                ],
-                [
-                  153.382929,
-                  -28.215721
-                ],
-                [
-                  153.383378,
-                  -28.215645
-                ],
-                [
-                  153.387453,
-                  -28.212882
-                ],
-                [
-                  153.38739,
-                  -28.212128
-                ],
-                [
-                  153.372522,
-                  -28.20484
-                ],
-                [
-                  153.37251,
-                  -28.204835
-                ],
-                [
-                  153.372195,
-                  -28.20469
-                ],
-                [
-                  153.371799,
-                  -28.204662
-                ],
-                [
-                  153.368819,
-                  -28.20554
-                ],
-                [
-                  153.368728,
-                  -28.205576
-                ],
-                [
-                  153.36755,
-                  -28.20617
-                ],
-                [
-                  153.367481,
-                  -28.206912
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-828501-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "19",
-        "REASON": "Powerlines down",
-        "STATUS": "In Progress",
-        "START": "4:28AM 06 Mar 2025",
-        "EST_FIX_TIME": "8:00AM 10 Mar 2025",
-        "STREETS": "CURRUMBIN CREEK RD, PETSCH CREEK RD",
-        "SUBURBS": "CURRUMBIN VALLEY, TALLEBUDGERA VALLEY",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               152.991325,
               -27.534104
             ]
@@ -1615,7 +1521,7 @@
         "EVENT_ID": "INCD-828765-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "14",
-        "REASON": "Under Investigation",
+        "REASON": "Trees on powerlines",
         "STATUS": "In Progress",
         "START": "10:38AM 06 Mar 2025",
         "EST_FIX_TIME": "7:30PM 06 Mar 2025",
@@ -2037,5 +1943,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741234501.172035"
+  "extracted": "1741234800.450971"
 }
