@@ -37157,17 +37157,325 @@
         "EVENT_ID": "INCD-830855-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "2771",
-        "REASON": "Under Investigation",
+        "REASON": "Emergency Repairs",
         "STATUS": "Awaiting",
         "START": "2:05AM 08 Mar 2025",
-        "EST_FIX_TIME": "5:00AM 08 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 08 Mar 2025",
         "STREETS": "ACOMIS ST, ADRIAN PL, AGATON ST, ALEXANDER CL, ANGELICO PL, ARDENNES CL, BANIKA ST, BATTUNGA ST, BELLBIRD CRES, BENTLEY CT, BERKSHIRE CRES, BOTTICELLI PL, BOYANDA ST, BRADFORD CT, BROADWATER RD, BROCHET ST, BROSSARD CT, CAMBRIDGE PL, CARBORA ST, CATANIA ST S, CEDAR CL, COACHWOOD CT, COORA ST, COTSWOLD PL, COVENTRY PL, CULZEAN ST, CURRINGA ST, DA VINCI CT, DELACROIX PL, DOBELL CT, DORVAL CL, DRYSDALE CL, EASTWOOD DR, ELKANA PL, ERINDALE CL, EUCALYPT CL, FIG TREE CL, FLAMINGO CL, FRINTON ST, GAINSBOROUGH AVE, GARIE ST, GOYA CT, GREENIDGE ST, GREENWOOD ST, HAM RD, HART CL, HERNANDIA PL, HOLDER ST, HYTHE ST, JABIRU PL, JUSTICE ST, KANE CRES, KELNAT ST, KENORA ST, LACHINE PL, LERU ST, LIKALA ST, LINFIELD ST, LONSDALE PL, MACK ST, MADAU ST, MALLETT CL, MANSFIELD PL, MARIANNA ST, MARISSA CL, MATISSE PL, MCCARRON ST, MCCRACKEN ST, MIANDETTA ST, MICHELANGELO CRES, MINDONA ST, MONET CRES, MORIALTA ST, MOZART PL, MT GRAVATT-CAPALABA RD, MT PETRIE RD, NEV CL, NORFOLK PL, NUBARA ST, OAK PL, OCONNOR CRES, PAVUVU ST, PICARDIE CL, PICASSO PL, PORZ CT, PUCCINI PL, RAPHAEL PL, RAYTOR ST, REDPATH ST, REMBRANDT WAY, RENOIR CT, RIVERGUM PL, ROMANETTE ST, ROSELLA CT, RUBENS ST, RUISDAEL PL, RUPARI ST, SALANDRA ST, SANDALWOOD CL, SANDPIPER PL, SANDRINGHAM ST, SANDWELL CL, SHILLINGTON PL, SIRIUS ST, SNOWBIRD PL, SOMERSET WAY, SOVEREIGN CL, ST ANDREW PL, ST CLAIR CRES, ST GEORGE CT, STACKPOLE ST, STAFFORDSHIRE CL, TAYLOR PL, TITIAN CT, TONES RD, TUNNEY ST, TYRRELL ST, VAN DYCK RISE, VAN GOGH PL, VAUCLUSE PL, VELDA CL, VERMEER CL, VIVALDI PL, WARATAH CL, WATTLE CL, WECKER RD, WEEDON ST W, WEELSBY CL, WILLETT ST, WINTHROP ST, WISHART RD, WISTERIA PL",
         "SUBURBS": "CARINDALE, MACKENZIE, MANSFIELD, WISHART",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.824072,
+              -27.386094
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.772212,
+                  -27.383737
+                ],
+                [
+                  152.77441,
+                  -27.401016
+                ],
+                [
+                  152.77458,
+                  -27.401305
+                ],
+                [
+                  152.775283,
+                  -27.401854
+                ],
+                [
+                  152.775553,
+                  -27.401962
+                ],
+                [
+                  152.783724,
+                  -27.40288
+                ],
+                [
+                  152.783801,
+                  -27.402883
+                ],
+                [
+                  152.845626,
+                  -27.401321
+                ],
+                [
+                  152.845722,
+                  -27.40131
+                ],
+                [
+                  152.852689,
+                  -27.399923
+                ],
+                [
+                  152.852916,
+                  -27.399819
+                ],
+                [
+                  152.869565,
+                  -27.386546
+                ],
+                [
+                  152.869618,
+                  -27.386497
+                ],
+                [
+                  152.875726,
+                  -27.379892
+                ],
+                [
+                  152.875791,
+                  -27.379802
+                ],
+                [
+                  152.875933,
+                  -27.379542
+                ],
+                [
+                  152.875893,
+                  -27.379087
+                ],
+                [
+                  152.874646,
+                  -27.377483
+                ],
+                [
+                  152.87431,
+                  -27.377294
+                ],
+                [
+                  152.85887,
+                  -27.375108
+                ],
+                [
+                  152.858847,
+                  -27.375106
+                ],
+                [
+                  152.800909,
+                  -27.369307
+                ],
+                [
+                  152.800821,
+                  -27.369305
+                ],
+                [
+                  152.795898,
+                  -27.369578
+                ],
+                [
+                  152.79571,
+                  -27.369622
+                ],
+                [
+                  152.773355,
+                  -27.379252
+                ],
+                [
+                  152.773078,
+                  -27.379574
+                ],
+                [
+                  152.772218,
+                  -27.383602
+                ],
+                [
+                  152.772212,
+                  -27.383737
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830858-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "859",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "2:11AM 08 Mar 2025",
+        "EST_FIX_TIME": "5:00AM 08 Mar 2025",
+        "STREETS": "ATANIE CT, BATESON RD, BENSON LANE, BENSON RD, BLUE GUM CT, BREEZE PL, BRUNSWICK PL, BRUSHBOX CL, BULCOCK AVE, CHAROLAIS PL, CUMBERLAND RD, DARCY KELLY RD, DAWSON CREEK RD, DAYS RD, DELONIX PL, FERNLANDS RD, FORESTRY RD, GOAT TRK, GUILDFORD PL, HAMMERMEISTER RD, HARVEY CL, HULCOMBE RD, JALOURA CT, JARROTT RD, KADANGA CT, KAREELA DR, LAGOON CT, LIUDA CT, MACS RD, MANGIFERA CL, MANWARING RD, MCSWEENEY CRES, MESSMATE CT, MOONLIGHT AVE, MOUNTAIN VIEW CT, MT GLORIOUS RD, MT NEBO RD, NARRAWA RD, NORMAN HANSELL CT, OATLANDS CT, PARRAGILGA CL, REMINGTON PL, RICHARDS RD, RIVE CT, ROXBURGH RD, RYDER RD, SALIX CT, SHEPPARD ST, SKY DR, SMALLS RD, SMITHS RD, SPRINGFIELD CT, SPRINGLANDS PL, SUNLIGHT CT, TEATREE CL, THOMAS GRAHAM CT, TWILIGHT CL, UPPER WIGHTS MOUNTAIN RD, VICTOR RUSSELL DR, VIEW ST, WENTWORTH AVE, WESTBOURNE DR, WIGHTS MOUNTAIN RD, WINCHESTER AVE",
+        "SUBURBS": "HIGHVALE, JOLLYS LOOKOUT, MOUNT NEBO, SAMFORD VALLEY, WIGHTS MOUNTAIN",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.095179,
+              -27.556502
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.087565,
+                  -27.554414
+                ],
+                [
+                  153.088215,
+                  -27.556526
+                ],
+                [
+                  153.088329,
+                  -27.556711
+                ],
+                [
+                  153.088735,
+                  -27.557109
+                ],
+                [
+                  153.088876,
+                  -27.557205
+                ],
+                [
+                  153.092579,
+                  -27.558926
+                ],
+                [
+                  153.092629,
+                  -27.558946
+                ],
+                [
+                  153.100157,
+                  -27.561571
+                ],
+                [
+                  153.100567,
+                  -27.561555
+                ],
+                [
+                  153.102069,
+                  -27.560887
+                ],
+                [
+                  153.102322,
+                  -27.560631
+                ],
+                [
+                  153.102636,
+                  -27.559822
+                ],
+                [
+                  153.102656,
+                  -27.559754
+                ],
+                [
+                  153.102794,
+                  -27.559065
+                ],
+                [
+                  153.1028,
+                  -27.55902
+                ],
+                [
+                  153.10281,
+                  -27.558904
+                ],
+                [
+                  153.102768,
+                  -27.558689
+                ],
+                [
+                  153.099916,
+                  -27.552912
+                ],
+                [
+                  153.099636,
+                  -27.552673
+                ],
+                [
+                  153.097295,
+                  -27.55186
+                ],
+                [
+                  153.097194,
+                  -27.551835
+                ],
+                [
+                  153.095309,
+                  -27.551558
+                ],
+                [
+                  153.095282,
+                  -27.551555
+                ],
+                [
+                  153.094017,
+                  -27.551433
+                ],
+                [
+                  153.093895,
+                  -27.551434
+                ],
+                [
+                  153.09126,
+                  -27.551752
+                ],
+                [
+                  153.091057,
+                  -27.551818
+                ],
+                [
+                  153.087803,
+                  -27.553652
+                ],
+                [
+                  153.087569,
+                  -27.554002
+                ],
+                [
+                  153.087548,
+                  -27.554263
+                ],
+                [
+                  153.087565,
+                  -27.554414
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830860-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "813",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "2:15AM 08 Mar 2025",
+        "EST_FIX_TIME": "5:00AM 08 Mar 2025",
+        "STREETS": "AMSTERDAM ST, ANDALUCIA CT, ANISE ST, ARILA ST, AUCKLAND ST, BELLOT ST, CALONNE ST, CHELVA ST, COLOMBO ST, COPENHAGEN ST, CUMMIN ST, DALLIN ST, DAWSON RD, DELAVAN ST, DOWRIE ST, EFFRA ST, ELMFIELD ST, FAIR ST, GARIE ST, GILGO ST, HILARY ST, INGAL ST, KAVANAGH RD, KIANDRA CL, KINKUNA ST, MAIBRY ST, MALMROSE ST, MANDY ST, MANNETTO ST, MATINCOCK ST, MERRICK ST, MICHELLE CRES, MONTE CARLO ST, MT GRAVATT-CAPALABA RD, NEWNHAM RD, PETERGLEN ST, PINDARI CRES, PLEASANT PL, SUFFOLK ST, TUNNEY ST, VICKI PL",
+        "SUBURBS": "UPPER MT GRAVATT, WISHART",
         "ETR_FLAG": "N"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741363801.580509"
+  "extracted": "1741364103.365337"
 }
