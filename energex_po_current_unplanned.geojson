@@ -35404,7 +35404,7 @@
         "REASON": "Emergency Repairs",
         "STATUS": "Awaiting",
         "START": "1:20AM 08 Mar 2025",
-        "EST_FIX_TIME": "4:30AM 08 Mar 2025",
+        "EST_FIX_TIME": "4:00AM 08 Mar 2025",
         "STREETS": "BARTON ST, BRODIE ST, BUCKLAND ST, CAPE ST, CASTLE HILL ST, CORN ST, CRADOCK ST, CREST ST, CUNARD ST, DAGMAR ST, DAVID RD, DIGBY ST, DUNROD ST, ELGAR ST, ERIC RD, FROST ST, GALTON ST, GARDENVALE ST, GLINDEMANN DR, GORDON PDE, GOWER ST, HALSEY ST, HOCKINGS ST, IRIS ST, LAWN ST, LAYARD ST, LENCOL ST, LEO WAY, LOGAN RD, MAR ST, MIDDLETON ST, MIRIAM ST, NURSERY RD, OATES AVE, ODESSA ST, OLROY ST, PATMORE ST, PICKTHORNE ST, RISE ST, ROCKINGHAM ST, ROSCOE ST, SEVILLE RD, STEELE ST, THELMA ST, VIEW ST, WOLLOMBI PL",
         "SUBURBS": "HOLLAND PARK, HOLLAND PARK WEST, MT GRAVATT, MT GRAVATT EAST",
         "ETR_FLAG": "N"
@@ -38241,9 +38241,167 @@
         "SUBURBS": "BELLARA, BONGAREE",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.095704,
+              -27.685965
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.083118,
+                  -27.685577
+                ],
+                [
+                  153.083718,
+                  -27.687381
+                ],
+                [
+                  153.08383,
+                  -27.687558
+                ],
+                [
+                  153.087777,
+                  -27.691386
+                ],
+                [
+                  153.088041,
+                  -27.691522
+                ],
+                [
+                  153.088167,
+                  -27.691546
+                ],
+                [
+                  153.088233,
+                  -27.691555
+                ],
+                [
+                  153.10173,
+                  -27.69259
+                ],
+                [
+                  153.102147,
+                  -27.692445
+                ],
+                [
+                  153.105479,
+                  -27.689219
+                ],
+                [
+                  153.105514,
+                  -27.689181
+                ],
+                [
+                  153.107016,
+                  -27.687366
+                ],
+                [
+                  153.107096,
+                  -27.687217
+                ],
+                [
+                  153.10821,
+                  -27.683585
+                ],
+                [
+                  153.108213,
+                  -27.683572
+                ],
+                [
+                  153.108291,
+                  -27.683286
+                ],
+                [
+                  153.108077,
+                  -27.682803
+                ],
+                [
+                  153.107664,
+                  -27.682561
+                ],
+                [
+                  153.107636,
+                  -27.682546
+                ],
+                [
+                  153.105714,
+                  -27.681573
+                ],
+                [
+                  153.105564,
+                  -27.681523
+                ],
+                [
+                  153.095161,
+                  -27.679647
+                ],
+                [
+                  153.095087,
+                  -27.679639
+                ],
+                [
+                  153.088818,
+                  -27.67934
+                ],
+                [
+                  153.08863,
+                  -27.679362
+                ],
+                [
+                  153.087364,
+                  -27.679739
+                ],
+                [
+                  153.087114,
+                  -27.679903
+                ],
+                [
+                  153.086113,
+                  -27.681133
+                ],
+                [
+                  153.086097,
+                  -27.681154
+                ],
+                [
+                  153.083177,
+                  -27.685205
+                ],
+                [
+                  153.083118,
+                  -27.685577
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830885-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1945",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "3:46AM 08 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 08 Mar 2025",
+        "STREETS": "ABBEYFEALE ST, ASH ST, AUGUSTA ST, BALSA ST, BAMBIL ST, BARCREST CT, BELAH ST, BILK ST, BIRCH ST, BIX CT, BLACKBUTT ST, BLOODWOOD ST, BROWNS PLAINS RD, BRUSHBOX ST, BURSARIA ST, CARINYA ST, CARROSA ST, CHAMBERS FLAT RD, COACHWOOD ST, COFFEY ST, CRINUM ST, DEAN ST, DODDS CT, DORSEY ST, DRIFTWOOD ST, EDEN LANE, ELAROO ST, FIR PL, FORESTWOOD ST, GIMLET ST, GRIX CT, HAKARI ST, HAKEA ST, HAYES CT, HEIDI ST, HICKORY ST, HUON ST, IRONWOOD ST, KERRIA ST, KIM ST, LACEBARK ST, LAROCHE ST, LEAZA ST, LILLY PILLY ST, LIMERICK DR, LOCHORE CT, LOVE ST, MALLEE ST, MARISA ST, MERANTI ST, MILEHAM CT, MOONAH CT, MORROW ST, MYALL ST, NOLINA CT, NORAH ST, OCHNA ST, OREGON ST, OVERTON CT, PAPERBARK ST, PEPPERMINT ST, PINEWOOD ST, PINNINGTON ST, POPLAR ST, QUANDONG ST, RAMIN ST, RATHKEALE ST, ROYENA CT, SANDALWOOD ST, SATINWOOD ST, SHANNON ST, STACEY CT, THERESE ST, THIRD AVE, TIMPERLEY CT, TREMAIN ST, TRULSON DR, WARATAH DR, WHITEMAN ST, WILGA ST",
+        "SUBURBS": "CHAMBERS FLAT, CRESTMEAD, MARSDEN, WATERFORD WEST",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741369506.760545"
+  "extracted": "1741369801.451946"
 }
