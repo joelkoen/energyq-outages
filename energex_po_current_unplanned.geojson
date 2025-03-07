@@ -13158,7 +13158,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "245",
         "REASON": "Under Investigation",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "4:43PM 07 Mar 2025",
         "EST_FIX_TIME": "12:00AM 08 Mar 2025",
         "STREETS": "ADAVALE ST, BUNDALEER ST, GOLD CREEK RD, HILLBROOK RD, JONES RD, MCLEAN LANE, PERONNE PL, SAVAGES RD",
@@ -14021,9 +14021,175 @@
         "SUBURBS": "BURLEIGH HEADS, BURLEIGH WATERS, MIAMI",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.367874,
+              -28.10139
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.355084,
+                  -28.081921
+                ],
+                [
+                  153.355127,
+                  -28.082342
+                ],
+                [
+                  153.355141,
+                  -28.082415
+                ],
+                [
+                  153.366579,
+                  -28.121621
+                ],
+                [
+                  153.367059,
+                  -28.121959
+                ],
+                [
+                  153.373454,
+                  -28.122103
+                ],
+                [
+                  153.373636,
+                  -28.122077
+                ],
+                [
+                  153.375803,
+                  -28.121399
+                ],
+                [
+                  153.37606,
+                  -28.12122
+                ],
+                [
+                  153.38017,
+                  -28.11564
+                ],
+                [
+                  153.380181,
+                  -28.115624
+                ],
+                [
+                  153.380613,
+                  -28.114979
+                ],
+                [
+                  153.380664,
+                  -28.114623
+                ],
+                [
+                  153.378727,
+                  -28.108698
+                ],
+                [
+                  153.378712,
+                  -28.108659
+                ],
+                [
+                  153.371419,
+                  -28.092236
+                ],
+                [
+                  153.371365,
+                  -28.092147
+                ],
+                [
+                  153.363358,
+                  -28.081735
+                ],
+                [
+                  153.363084,
+                  -28.081557
+                ],
+                [
+                  153.359842,
+                  -28.080694
+                ],
+                [
+                  153.359655,
+                  -28.080676
+                ],
+                [
+                  153.356235,
+                  -28.080919
+                ],
+                [
+                  153.356187,
+                  -28.080925
+                ],
+                [
+                  153.356112,
+                  -28.080936
+                ],
+                [
+                  153.356095,
+                  -28.080939
+                ],
+                [
+                  153.355859,
+                  -28.080984
+                ],
+                [
+                  153.355842,
+                  -28.080987
+                ],
+                [
+                  153.355741,
+                  -28.081009
+                ],
+                [
+                  153.355732,
+                  -28.081011
+                ],
+                [
+                  153.35554,
+                  -28.081056
+                ],
+                [
+                  153.35517,
+                  -28.081411
+                ],
+                [
+                  153.35509,
+                  -28.081799
+                ],
+                [
+                  153.355084,
+                  -28.081921
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830264-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "671",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "5:29PM 07 Mar 2025",
+        "EST_FIX_TIME": "2:00AM 08 Mar 2025",
+        "STREETS": "BERNBOROUGH PL, BONOGIN RD, BOOGAERDT RISE, CANOPY DR, CAPRICE ST, CARBINE CT, CARRINGTON RD, COMIC CT, DORE CT, ELLIS DR, EMERSON DR, FACULTY CRES, FRANKLIN DR, GOLD COAST SPRINGBROOK RD, GOLD COAST-SPRINGBROOK RD, GUNSYND DR, HINTERLAND DR, ISLA CT, LYDFORD CL, MARSHALL GR, NICOLE ST, PARK CT, PEBBLE CREEK RD, RIVERINA CT, SOMERSET DR, TAHLIA CT, TANBY CT, TODMAN DR, TOLGA RD, TULLOCH CRES, WARRA CT",
+        "SUBURBS": "BONOGIN, MUDGEERABA",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741332300.321166"
+  "extracted": "1741332603.527115"
 }

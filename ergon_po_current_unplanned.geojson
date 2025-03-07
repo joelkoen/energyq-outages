@@ -257,6 +257,67 @@
           {
             "type": "Point",
             "coordinates": [
+              150.513445,
+              -23.13569
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.516202,
+                  -23.136596
+                ],
+                [
+                  150.511163,
+                  -23.133996
+                ],
+                [
+                  150.510499,
+                  -23.13417
+                ],
+                [
+                  150.510687,
+                  -23.134784
+                ],
+                [
+                  150.515727,
+                  -23.137384
+                ],
+                [
+                  150.516391,
+                  -23.13721
+                ],
+                [
+                  150.516202,
+                  -23.136596
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25CA4688",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "3:08PM 07 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "SCHWARTZ RD",
+        "SUBURBS": "BARMOYA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.699115,
               -21.128222
             ]
@@ -503,5 +564,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741332300.536171"
+  "extracted": "1741332604.275049"
 }
