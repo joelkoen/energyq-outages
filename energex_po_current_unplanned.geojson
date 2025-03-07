@@ -40750,7 +40750,7 @@
         "REASON": "Emergency Repairs",
         "STATUS": "Awaiting",
         "START": "6:26AM 08 Mar 2025",
-        "EST_FIX_TIME": "10:00AM 08 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 08 Mar 2025",
         "STREETS": "ALLAMANDA PL, ALMAVALE ST, BASSETT ST, BEAUMONT ST, BEDDOES ST, BEVAN ST, BICKLE PL, BREAD ST, BRECHIN ST, BRIDLE ST, BRIGADOON ST, CALLIANDRA PL, CANNING ST, CAVENDISH RD, CECILIA CL, COOLONG ST, CORNFLOWER ST, CRAIGMOOR ST, CREEK RD, ELISHA CL, EPACRIS CL, EVERGREEN PL, FIRTHSHIRE ST, FLAME TREE CRES, FRY ST, GLEN NEVIS ST, GLENALWYN ST, GLENGARRIFF ST, GREENMEADOW RD, GRETNA ST, GREVILLEA ST, GRUNERT ST, HECTOR RD, JACARANDA CT, JOCELYN PL, LAMBERTIA CL, LIAM ST, LOCH NESS ST, MAR ST, NEALDON ST, NERANDA CT, NURRAN ST, NURSERY RD, OATES AVE, OCALLAGHAN ST, OLIVIA DR, PINE MOUNTAIN RD, POINCIANA CL, RED GUM PL, ROB ROY PL, STONYFELL CT, STYPHELIA ST, TALLOW WOOD PL, TIPUANA CL, TRISTANIA WAY, WISTERIA CRES, WYNCROFT ST",
         "SUBURBS": "CARINA HEIGHTS, CARINDALE, HOLLAND PARK, MANSFIELD, MT GRAVATT EAST",
         "ETR_FLAG": "N"
@@ -40884,14 +40884,346 @@
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "6:29AM 08 Mar 2025",
-        "EST_FIX_TIME": "11:30AM 08 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 08 Mar 2025",
         "STREETS": "BROLGA AVE, CASE ST, CHARLTON ST, COLLEGE AVE, COOPER PDE, DEAUVILLE DR, DRURY AVE, EGERTON ST, FERRY RD, GILLIAN LANE, GREER TCE, HARCOURT CRES, HARVEST CT, KORONG ST, LUPUS ST, MCMILLAN CT, MERON ST, NESBIT ST, PETERSEN AVE, PINTER DR, RADFORD ST, REGATTA PDE, WILDASH ST, WINCHESTER ST, YACHT ST",
         "SUBURBS": "SOUTHPORT",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.415433,
+              -27.976744
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.410056,
+                  -27.973928
+                ],
+                [
+                  153.411287,
+                  -27.976196
+                ],
+                [
+                  153.411302,
+                  -27.97622
+                ],
+                [
+                  153.413277,
+                  -27.979349
+                ],
+                [
+                  153.413325,
+                  -27.979412
+                ],
+                [
+                  153.414243,
+                  -27.980422
+                ],
+                [
+                  153.414484,
+                  -27.980569
+                ],
+                [
+                  153.416136,
+                  -27.981039
+                ],
+                [
+                  153.416587,
+                  -27.980976
+                ],
+                [
+                  153.416681,
+                  -27.980916
+                ],
+                [
+                  153.416795,
+                  -27.980817
+                ],
+                [
+                  153.420431,
+                  -27.976414
+                ],
+                [
+                  153.420479,
+                  -27.976342
+                ],
+                [
+                  153.420763,
+                  -27.975819
+                ],
+                [
+                  153.42081,
+                  -27.975573
+                ],
+                [
+                  153.420699,
+                  -27.974687
+                ],
+                [
+                  153.42053,
+                  -27.974399
+                ],
+                [
+                  153.419856,
+                  -27.973869
+                ],
+                [
+                  153.419647,
+                  -27.97377
+                ],
+                [
+                  153.41738,
+                  -27.973248
+                ],
+                [
+                  153.417368,
+                  -27.973245
+                ],
+                [
+                  153.416762,
+                  -27.97312
+                ],
+                [
+                  153.416715,
+                  -27.973113
+                ],
+                [
+                  153.411212,
+                  -27.972449
+                ],
+                [
+                  153.410796,
+                  -27.972567
+                ],
+                [
+                  153.41059,
+                  -27.972739
+                ],
+                [
+                  153.410495,
+                  -27.972846
+                ],
+                [
+                  153.410071,
+                  -27.97351
+                ],
+                [
+                  153.410056,
+                  -27.973928
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-831003-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1861",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "6:31AM 08 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 08 Mar 2025",
+        "STREETS": "AKES AVE, ANDREWS ST, AQUA ST, BARNEY ST, BAUER ST, BIGGS PL, BRIGHTON PDE, CHESTER TCE, COMO CRES, FERRY RD, GARDINERS PL, HEATH ST, LATHER ST, LENNEBERG ST, MERON ST, QUEEN ST, RADFORD ST, WAVERLEY ST, WILDASH ST",
+        "SUBURBS": "SOUTHPORT",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.129331,
+              -27.655175
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.117728,
+                  -27.654609
+                ],
+                [
+                  153.117748,
+                  -27.655011
+                ],
+                [
+                  153.117764,
+                  -27.655108
+                ],
+                [
+                  153.118063,
+                  -27.656101
+                ],
+                [
+                  153.118254,
+                  -27.656348
+                ],
+                [
+                  153.119215,
+                  -27.656975
+                ],
+                [
+                  153.119226,
+                  -27.656981
+                ],
+                [
+                  153.127922,
+                  -27.662357
+                ],
+                [
+                  153.128095,
+                  -27.662426
+                ],
+                [
+                  153.129706,
+                  -27.662762
+                ],
+                [
+                  153.129796,
+                  -27.662773
+                ],
+                [
+                  153.132137,
+                  -27.662878
+                ],
+                [
+                  153.13233,
+                  -27.662853
+                ],
+                [
+                  153.13465,
+                  -27.662127
+                ],
+                [
+                  153.134868,
+                  -27.661994
+                ],
+                [
+                  153.140843,
+                  -27.655748
+                ],
+                [
+                  153.140934,
+                  -27.655301
+                ],
+                [
+                  153.140035,
+                  -27.653096
+                ],
+                [
+                  153.140013,
+                  -27.65305
+                ],
+                [
+                  153.139908,
+                  -27.65286
+                ],
+                [
+                  153.139751,
+                  -27.652694
+                ],
+                [
+                  153.132377,
+                  -27.64792
+                ],
+                [
+                  153.132304,
+                  -27.647881
+                ],
+                [
+                  153.132059,
+                  -27.647773
+                ],
+                [
+                  153.131862,
+                  -27.647727
+                ],
+                [
+                  153.126645,
+                  -27.647473
+                ],
+                [
+                  153.126567,
+                  -27.647474
+                ],
+                [
+                  153.124265,
+                  -27.647678
+                ],
+                [
+                  153.124179,
+                  -27.647692
+                ],
+                [
+                  153.119294,
+                  -27.648905
+                ],
+                [
+                  153.119055,
+                  -27.649036
+                ],
+                [
+                  153.118304,
+                  -27.649771
+                ],
+                [
+                  153.118177,
+                  -27.650013
+                ],
+                [
+                  153.118146,
+                  -27.650213
+                ],
+                [
+                  153.118143,
+                  -27.650237
+                ],
+                [
+                  153.117729,
+                  -27.654551
+                ],
+                [
+                  153.117728,
+                  -27.654609
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-831004-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1124",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "6:32AM 08 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 08 Mar 2025",
+        "STREETS": "ADELAIDE ST, ALAN ST, ANDREW ST, ANTHONY ST, ARCH ST, AUGUSTUS ST, BADU CT, BEAL ST, BRIAN ST, BRISBANE ST, CHRISTOPHER ST, CLARE RD, CLEOPATRA ST, DELTON ST, DUKE ST, GEORGE ST, HART ST, HOPE ST, JACK ST, KING ST, KINGSTON RD, LEONARD ST, LOWRY ST, MACBETH ST, MANSFIELD ST, MARY ST, MEAKIN RD, MELANIE ST, MICHAEL ST, MONARCH ST, PERTH ST, PLAIN ST, PORTIA ST, QUEENS RD, REIGN ST, ROYAL PDE, STONE CT, TREVOR ST, WAGENS TCE, WAGENSVELDT ST",
+        "SUBURBS": "KINGSTON, MEADOWBROOK, SLACKS CREEK",
         "ETR_FLAG": "N"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741379402.59223"
+  "extracted": "1741380005.853002"
 }
