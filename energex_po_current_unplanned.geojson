@@ -326,80 +326,6 @@
           {
             "type": "Point",
             "coordinates": [
-              152.949021,
-              -27.087576
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.946531,
-                  -27.089262
-                ],
-                [
-                  152.947504,
-                  -27.089563
-                ],
-                [
-                  152.947562,
-                  -27.089577
-                ],
-                [
-                  152.949425,
-                  -27.089936
-                ],
-                [
-                  152.950003,
-                  -27.089655
-                ],
-                [
-                  152.951663,
-                  -27.085741
-                ],
-                [
-                  152.951487,
-                  -27.085215
-                ],
-                [
-                  152.950874,
-                  -27.08523
-                ],
-                [
-                  152.946379,
-                  -27.088484
-                ],
-                [
-                  152.946531,
-                  -27.089262
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-827930-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "5",
-        "REASON": "Damage due to flooding",
-        "STATUS": "Awaiting",
-        "START": "8:40AM 05 Mar 2025",
-        "EST_FIX_TIME": "12:00AM 08 Mar 2025",
-        "STREETS": "MORAYFIELD RD, RIVERVIEW ST",
-        "SUBURBS": "CABOOLTURE, CABOOLTURE SOUTH",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               153.36937,
               -28.14629
             ]
@@ -8124,7 +8050,7 @@
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "6:31AM 07 Mar 2025",
-        "EST_FIX_TIME": "5:00PM 07 Mar 2025",
+        "EST_FIX_TIME": "12:00AM 08 Mar 2025",
         "STREETS": "BOOMERANG DR",
         "SUBURBS": "KOORALBYN",
         "ETR_FLAG": "N"
@@ -10082,68 +10008,6 @@
           {
             "type": "Point",
             "coordinates": [
-              153.172349,
-              -27.080406
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.173182,
-                  -27.080687
-                ],
-                [
-                  153.172344,
-                  -27.07961
-                ],
-                [
-                  153.171642,
-                  -27.079497
-                ],
-                [
-                  153.171516,
-                  -27.080125
-                ],
-                [
-                  153.172354,
-                  -27.081203
-                ],
-                [
-                  153.173056,
-                  -27.081316
-                ],
-                [
-                  153.173182,
-                  -27.080687
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-829873-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "Emergency Repairs",
-        "STATUS": "Awaiting",
-        "START": "9:55AM 07 Mar 2025",
-        "EST_FIX_TIME": "12:00AM 08 Mar 2025",
-        "STREETS": "FIRST AVE",
-        "SUBURBS": "BONGAREE",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               153.022761,
               -26.730608
             ]
@@ -10575,9 +10439,135 @@
         "SUBURBS": "MACGREGOR, SUNNYBANK",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.999004,
+              -26.335939
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.969507,
+                  -26.335009
+                ],
+                [
+                  152.969605,
+                  -26.335177
+                ],
+                [
+                  152.969769,
+                  -26.335341
+                ],
+                [
+                  153.006534,
+                  -26.357527
+                ],
+                [
+                  153.006594,
+                  -26.357558
+                ],
+                [
+                  153.012038,
+                  -26.359942
+                ],
+                [
+                  153.012194,
+                  -26.359983
+                ],
+                [
+                  153.014439,
+                  -26.360239
+                ],
+                [
+                  153.01476,
+                  -26.360178
+                ],
+                [
+                  153.014989,
+                  -26.360054
+                ],
+                [
+                  153.015167,
+                  -26.359888
+                ],
+                [
+                  153.023247,
+                  -26.346895
+                ],
+                [
+                  153.023291,
+                  -26.3468
+                ],
+                [
+                  153.027866,
+                  -26.332536
+                ],
+                [
+                  153.027883,
+                  -26.332457
+                ],
+                [
+                  153.028555,
+                  -26.326657
+                ],
+                [
+                  153.028246,
+                  -26.326193
+                ],
+                [
+                  153.025811,
+                  -26.325295
+                ],
+                [
+                  153.02576,
+                  -26.32528
+                ],
+                [
+                  152.97327,
+                  -26.311638
+                ],
+                [
+                  152.972635,
+                  -26.312015
+                ],
+                [
+                  152.969453,
+                  -26.334742
+                ],
+                [
+                  152.969507,
+                  -26.335009
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829960-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "296",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "11:12AM 07 Mar 2025",
+        "EST_FIX_TIME": "2:00PM 07 Mar 2025",
+        "STREETS": "AMAROO PL, BUNDOORA ST, CREAM BOX CT, GOSHAWK LANE, JIRRIMA CRES, JOHNS RD, LAKE COOROIBAH RD, LAKESIDE DR, LAKEWAY DR, MCKINNON DR, MORNING GLORY DR, MURCHISON LANE, PINES AVE, RIVERPARK DR, SUNSET WAY, TRONSON RD, TURPENTINE RD",
+        "SUBURBS": "COOROIBAH, RINGTAIL CREEK, TEWANTIN",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741309801.592841"
+  "extracted": "1741310101.833498"
 }
