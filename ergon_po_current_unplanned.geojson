@@ -669,9 +669,86 @@
         "STREETS": "INTAKE RD",
         "SUBURBS": "MUTARNEE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.042389,
+              -24.91906
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.011778,
+                  -24.925378
+                ],
+                [
+                  152.043199,
+                  -24.946115
+                ],
+                [
+                  152.043929,
+                  -24.945953
+                ],
+                [
+                  152.072968,
+                  -24.893288
+                ],
+                [
+                  152.072999,
+                  -24.892952
+                ],
+                [
+                  152.072764,
+                  -24.892262
+                ],
+                [
+                  152.072049,
+                  -24.892004
+                ],
+                [
+                  152.02911,
+                  -24.914173
+                ],
+                [
+                  152.02908,
+                  -24.91419
+                ],
+                [
+                  152.011795,
+                  -24.924638
+                ],
+                [
+                  152.011778,
+                  -24.925378
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25WB3537",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "21",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:54PM 07 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "KENT-TOBINS RD, MAHONEYS RD, MCLEODS RD",
+        "SUBURBS": "BUCCA, BULLYARD"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741323000.366059"
+  "extracted": "1741323604.556616"
 }
