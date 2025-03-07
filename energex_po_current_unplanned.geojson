@@ -12926,7 +12926,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "36",
         "REASON": "Under Investigation",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "4:27PM 07 Mar 2025",
         "EST_FIX_TIME": "12:00AM 08 Mar 2025",
         "STREETS": "DAVID LOW WAY",
@@ -13421,9 +13421,167 @@
         "SUBURBS": "ARUNDEL, GAVEN, MOLENDINAR, PARKWOOD",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.373969,
+              -27.976179
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.368617,
+                  -27.981322
+                ],
+                [
+                  153.37042,
+                  -27.983017
+                ],
+                [
+                  153.370786,
+                  -27.983158
+                ],
+                [
+                  153.372271,
+                  -27.983166
+                ],
+                [
+                  153.372372,
+                  -27.983158
+                ],
+                [
+                  153.373304,
+                  -27.982996
+                ],
+                [
+                  153.373576,
+                  -27.982863
+                ],
+                [
+                  153.378754,
+                  -27.978009
+                ],
+                [
+                  153.378829,
+                  -27.977917
+                ],
+                [
+                  153.379061,
+                  -27.977546
+                ],
+                [
+                  153.379115,
+                  -27.977417
+                ],
+                [
+                  153.379363,
+                  -27.97634
+                ],
+                [
+                  153.379372,
+                  -27.976267
+                ],
+                [
+                  153.379458,
+                  -27.974242
+                ],
+                [
+                  153.37941,
+                  -27.974034
+                ],
+                [
+                  153.378036,
+                  -27.97142
+                ],
+                [
+                  153.377989,
+                  -27.971349
+                ],
+                [
+                  153.376369,
+                  -27.969332
+                ],
+                [
+                  153.375722,
+                  -27.969192
+                ],
+                [
+                  153.37087,
+                  -27.971409
+                ],
+                [
+                  153.370825,
+                  -27.971432
+                ],
+                [
+                  153.370731,
+                  -27.971487
+                ],
+                [
+                  153.370683,
+                  -27.971518
+                ],
+                [
+                  153.3699,
+                  -27.972096
+                ],
+                [
+                  153.369892,
+                  -27.972103
+                ],
+                [
+                  153.36972,
+                  -27.972236
+                ],
+                [
+                  153.369562,
+                  -27.972461
+                ],
+                [
+                  153.369327,
+                  -27.973254
+                ],
+                [
+                  153.369313,
+                  -27.973325
+                ],
+                [
+                  153.36848,
+                  -27.980968
+                ],
+                [
+                  153.368617,
+                  -27.981322
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830243-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "767",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "5:09PM 07 Mar 2025",
+        "EST_FIX_TIME": "9:00PM 07 Mar 2025",
+        "STREETS": "BLOODWOOD CRES, CABERNET CL, CHABLIS CT, COACHWOOD DR, CRESTWOOD DR, DAMPIER CT, DARLING CRES, DELLWOOD CCT, ENTERPRISE ST, GIDGEE CT, INDUSTRIAL AVE, IRONWOOD CT, MACQUARIE AVE, MITCHELL AVE, OAKRIDGE PL, OLSEN AVE, PANACHE ST, QUANDONG CT, REDWOOD PL, RIMU PL, SAUVIGNON CT, SILKWOOD WAY, SOUTHPORT-NERANG RD, STONEWOOD CT, STURT ST, VERDELHO WAY, WINDSOR PL",
+        "SUBURBS": "MOLENDINAR, SOUTHPORT",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741331101.331098"
+  "extracted": "1741331401.403809"
 }
