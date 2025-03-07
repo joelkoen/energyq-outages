@@ -919,9 +919,82 @@
         "STREETS": "ACACIA PLATEAU RD, HORNEMANS RD, MT LINDESAY RD, NEW KOREELAH RD, OLD KOREELAH RD, WHITE SWAMP RD, WOODENBONG RD",
         "SUBURBS": "ACACIA CREEK, ACACIA PLATEAU, CENTRAL KOREELAH, HEWETSONS MILL, NEW KOREELAH, OLD KOREELAH"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.610954,
+              -25.532278
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.607952,
+                  -25.531268
+                ],
+                [
+                  152.608252,
+                  -25.532199
+                ],
+                [
+                  152.608428,
+                  -25.532431
+                ],
+                [
+                  152.610446,
+                  -25.533822
+                ],
+                [
+                  152.610991,
+                  -25.533855
+                ],
+                [
+                  152.613712,
+                  -25.532453
+                ],
+                [
+                  152.613956,
+                  -25.531991
+                ],
+                [
+                  152.613565,
+                  -25.531621
+                ],
+                [
+                  152.608525,
+                  -25.530701
+                ],
+                [
+                  152.607952,
+                  -25.531268
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25WB3541",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:20AM 08 Mar 2025",
+        "EST_FIX_TIME": "9:30AM 08 Mar 2025",
+        "STREETS": "NANGARIN RD",
+        "SUBURBS": "OAKHURST"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741385701.797492"
+  "extracted": "1741386001.27514"
 }
