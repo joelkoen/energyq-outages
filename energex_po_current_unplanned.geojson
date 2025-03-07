@@ -9782,7 +9782,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "194",
         "REASON": "Under Investigation",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "9:12AM 07 Mar 2025",
         "EST_FIX_TIME": "11:30AM 07 Mar 2025",
         "STREETS": "ARABILIA ST, ARNOLD ST, BURLINGTON ST, HAROLD ST, HERIOT ST, VICTOR ST",
@@ -10143,9 +10143,119 @@
         "SUBURBS": "BONGAREE",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.022761,
+              -26.730608
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.011677,
+                  -26.734391
+                ],
+                [
+                  153.011702,
+                  -26.735277
+                ],
+                [
+                  153.012038,
+                  -26.735691
+                ],
+                [
+                  153.025538,
+                  -26.739958
+                ],
+                [
+                  153.025909,
+                  -26.739944
+                ],
+                [
+                  153.032865,
+                  -26.737173
+                ],
+                [
+                  153.033133,
+                  -26.736916
+                ],
+                [
+                  153.033814,
+                  -26.735251
+                ],
+                [
+                  153.033845,
+                  -26.735079
+                ],
+                [
+                  153.033339,
+                  -26.722485
+                ],
+                [
+                  153.033193,
+                  -26.722183
+                ],
+                [
+                  153.032678,
+                  -26.721719
+                ],
+                [
+                  153.032446,
+                  -26.7216
+                ],
+                [
+                  153.031012,
+                  -26.721271
+                ],
+                [
+                  153.030853,
+                  -26.721258
+                ],
+                [
+                  153.0235,
+                  -26.721707
+                ],
+                [
+                  153.023148,
+                  -26.721869
+                ],
+                [
+                  153.011794,
+                  -26.73409
+                ],
+                [
+                  153.011677,
+                  -26.734391
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829879-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "43",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "9:59AM 07 Mar 2025",
+        "EST_FIX_TIME": "1:00PM 07 Mar 2025",
+        "STREETS": "PALM CREEK RD, SIPPY CREEK RD, WILSON RD",
+        "SUBURBS": "ILKLEY, TANAWHA",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741305606.916704"
+  "extracted": "1741306200.343565"
 }
