@@ -41691,9 +41691,127 @@
         "SUBURBS": "BROOKFIELD, PULLENVALE, UPPER BROOKFIELD",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.420355,
+              -27.973385
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.410889,
+                  -27.971107
+                ],
+                [
+                  153.425,
+                  -27.980623
+                ],
+                [
+                  153.425025,
+                  -27.980639
+                ],
+                [
+                  153.427714,
+                  -27.982238
+                ],
+                [
+                  153.428142,
+                  -27.982296
+                ],
+                [
+                  153.429524,
+                  -27.98193
+                ],
+                [
+                  153.429885,
+                  -27.98154
+                ],
+                [
+                  153.429973,
+                  -27.98072
+                ],
+                [
+                  153.429974,
+                  -27.980658
+                ],
+                [
+                  153.429709,
+                  -27.974958
+                ],
+                [
+                  153.429695,
+                  -27.974869
+                ],
+                [
+                  153.429392,
+                  -27.973778
+                ],
+                [
+                  153.429207,
+                  -27.973528
+                ],
+                [
+                  153.417231,
+                  -27.96538
+                ],
+                [
+                  153.417145,
+                  -27.965333
+                ],
+                [
+                  153.415235,
+                  -27.964504
+                ],
+                [
+                  153.414879,
+                  -27.964474
+                ],
+                [
+                  153.414002,
+                  -27.964686
+                ],
+                [
+                  153.413674,
+                  -27.964931
+                ],
+                [
+                  153.410735,
+                  -27.970558
+                ],
+                [
+                  153.410889,
+                  -27.971107
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-831079-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "744",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "7:06AM 08 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 08 Mar 2025",
+        "STREETS": "BREAKER ST, CLOYNE RD, CRONIN AVE, GOLD COAST HWY, LAWSON ST, MACARTHUR PDE, MAIN BEACH PDE, MARINE PDE, MONTGOMERY AVE, MOUNTBATTEN AVE, NERANG ST, PACIFIC ST, PEAK AVE, SCARBOROUGH ST, SEAWORLD DR, SHORT ST, STAFFORD AVE, SUTER ST, WOODROFFE AVE",
+        "SUBURBS": "MAIN BEACH, SOUTHPORT",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741381500.401498"
+  "extracted": "1741382105.468411"
 }
