@@ -9734,7 +9734,7 @@
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "9:04AM 07 Mar 2025",
-        "EST_FIX_TIME": "8:00AM 08 Mar 2025",
+        "EST_FIX_TIME": "12:00AM 08 Mar 2025",
         "STREETS": "ALICIA ST, JANE ST, MELINDA ST, SHIRLEY ST, SUSANNE ST",
         "SUBURBS": "SOUTHPORT",
         "ETR_FLAG": "N"
@@ -10691,9 +10691,143 @@
         "SUBURBS": "ELANORA, PALM BEACH",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.399408,
+              -27.9746
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.39342,
+                  -27.978704
+                ],
+                [
+                  153.395507,
+                  -27.979174
+                ],
+                [
+                  153.395621,
+                  -27.979187
+                ],
+                [
+                  153.400435,
+                  -27.979281
+                ],
+                [
+                  153.400611,
+                  -27.979257
+                ],
+                [
+                  153.404506,
+                  -27.978071
+                ],
+                [
+                  153.404669,
+                  -27.977989
+                ],
+                [
+                  153.404862,
+                  -27.977844
+                ],
+                [
+                  153.404966,
+                  -27.977737
+                ],
+                [
+                  153.405671,
+                  -27.976726
+                ],
+                [
+                  153.405708,
+                  -27.976664
+                ],
+                [
+                  153.40578,
+                  -27.976512
+                ],
+                [
+                  153.405728,
+                  -27.976078
+                ],
+                [
+                  153.405594,
+                  -27.975908
+                ],
+                [
+                  153.405582,
+                  -27.975894
+                ],
+                [
+                  153.405518,
+                  -27.975819
+                ],
+                [
+                  153.405505,
+                  -27.975804
+                ],
+                [
+                  153.404816,
+                  -27.975061
+                ],
+                [
+                  153.404666,
+                  -27.974951
+                ],
+                [
+                  153.394203,
+                  -27.96992
+                ],
+                [
+                  153.393461,
+                  -27.970232
+                ],
+                [
+                  153.39337,
+                  -27.970658
+                ],
+                [
+                  153.393361,
+                  -27.970725
+                ],
+                [
+                  153.393037,
+                  -27.978249
+                ],
+                [
+                  153.39342,
+                  -27.978704
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830044-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "695",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "12:40PM 07 Mar 2025",
+        "EST_FIX_TIME": "12:00AM 08 Mar 2025",
+        "STREETS": "ALICIA ST, ANNE ST, BAMBARRA ST, BINSTEAD DR, BLAKE ST, DALTON ST, DANDAR DR, ELLEN ST, GURRAH AVE, JIPPI AVE, LOUISE ST, MARGARET ST, MINNIE ST, MOONAH AVE, NERANG RD, ORANA AVE, PEPPER ST, PRINCE ST, QUEEN ST, SALMON ST, SHEARER CT, SOUTHPORT-NERANG RD, WARD ST, WARDOO ST",
+        "SUBURBS": "SOUTHPORT",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741315201.233719"
+  "extracted": "1741315501.513014"
 }
