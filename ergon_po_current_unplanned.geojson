@@ -842,9 +842,142 @@
         "STREETS": "ALFORD ST, ALICE ST, ALLINGA ST, ARGYLE ST, ARTHUR ST, BALMORAL CL, BARRY ST, BARRYMOUNT CRES, BEATTY ST, BRIDGE ST, BRODIE ST, BRUCE ST, BURNS ST, BURSTOW ST, CAMPBELL ST, CAVELL ST, CHATSWOOD CL, CLYDE ST, COLLINS ST, COVENTRY CT, CURZON ST, DALSTON CT, DUNMORE ST, FERGUSON ST, GENTLE ST, GEOFFREY ST, GEORGE ST, GLENDOWER ST, GODFREY ST, GRASMERE CT, HARVEY ST, HAWTHORN ST, HERRIES ST, HUNTINGDALE CT, JELLICOE ST, JOFFRE ST, KENT ST, KNIGHT ST, KOOROONGAH ST, KRAUSE CT, LAMINGTON ST, LILLEY ST, LINDSAY ST, LOCHEL ST, MACKENZIE ST, MARGARET ST, MARTINDALE CT, MARY ST, MOLONEY ST, NEW ST, PICCADILLY CT, PITT ST, RANGE ST, RANNERDALE CL, RHYDE ST, SHERWOOD ST, SHIPLEY ST, SIDNEY ST, ST IVES CT, ST PETERS CL, STIRLING ST, STONEHAVEN ST, STUART ST, TREVETHAN ST, WARANA AVE, WARREN ST, WENDY CT, WINDEMERE TCE, WONDERLEY ST, WOOLDRIDGE ST",
         "SUBURBS": "EAST TOOWOOMBA, MOUNT LOFTY, NORTH TOOWOOMBA, TOOWOOMBA, TOOWOOMBA CITY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.25028,
+              -28.236629
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.193748,
+                  -28.234993
+                ],
+                [
+                  152.198106,
+                  -28.2382
+                ],
+                [
+                  152.198174,
+                  -28.238242
+                ],
+                [
+                  152.227649,
+                  -28.253507
+                ],
+                [
+                  152.227709,
+                  -28.253533
+                ],
+                [
+                  152.249768,
+                  -28.261712
+                ],
+                [
+                  152.249998,
+                  -28.261746
+                ],
+                [
+                  152.271832,
+                  -28.260436
+                ],
+                [
+                  152.27221,
+                  -28.260249
+                ],
+                [
+                  152.297946,
+                  -28.228486
+                ],
+                [
+                  152.297982,
+                  -28.228435
+                ],
+                [
+                  152.306813,
+                  -28.2137
+                ],
+                [
+                  152.306401,
+                  -28.21304
+                ],
+                [
+                  152.282675,
+                  -28.211512
+                ],
+                [
+                  152.282597,
+                  -28.211512
+                ],
+                [
+                  152.250042,
+                  -28.213894
+                ],
+                [
+                  152.249943,
+                  -28.21391
+                ],
+                [
+                  152.244205,
+                  -28.215382
+                ],
+                [
+                  152.244193,
+                  -28.215386
+                ],
+                [
+                  152.22826,
+                  -28.219849
+                ],
+                [
+                  152.228226,
+                  -28.21986
+                ],
+                [
+                  152.222172,
+                  -28.221982
+                ],
+                [
+                  152.222135,
+                  -28.221996
+                ],
+                [
+                  152.193849,
+                  -28.234243
+                ],
+                [
+                  152.193748,
+                  -28.234993
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25SW4311",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "123",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "12:29AM 08 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "AZALEA ST, BROWNS RD, CAMPBELLS RD, CAREYS RD, CHALKS RD, CLEMATIS ST, DAPHNE ST, EMU CREEK RD, HERMITAGE EMU VALE RD, HERMITAGE-EMU VALE RD, IPOMEA ST, IRIS ST, JUNABEE RD, MARKEYS LANE, MCGAHANS RD, MCIVORS RD, MEWES RD, ROCKY CREEK RD, STRUDWICKS RD, SWIFTS RD, TUCKERS RD, WASHBOURNE RD, YANGAN KILLARNEY RD",
+        "SUBURBS": "DANDEROO, EMU VALE, JUNABEE, YANGAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741357805.396808"
+  "extracted": "1741358100.274945"
 }
