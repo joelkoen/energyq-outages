@@ -9688,6 +9688,116 @@
           {
             "type": "Point",
             "coordinates": [
+              153.062307,
+              -27.51642
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.059645,
+                  -27.516588
+                ],
+                [
+                  153.059743,
+                  -27.517637
+                ],
+                [
+                  153.05998,
+                  -27.517983
+                ],
+                [
+                  153.060213,
+                  -27.518113
+                ],
+                [
+                  153.06049,
+                  -27.518181
+                ],
+                [
+                  153.063748,
+                  -27.518132
+                ],
+                [
+                  153.063818,
+                  -27.518127
+                ],
+                [
+                  153.064254,
+                  -27.518066
+                ],
+                [
+                  153.064417,
+                  -27.518016
+                ],
+                [
+                  153.064806,
+                  -27.517828
+                ],
+                [
+                  153.064968,
+                  -27.517159
+                ],
+                [
+                  153.062947,
+                  -27.514774
+                ],
+                [
+                  153.062284,
+                  -27.514658
+                ],
+                [
+                  153.060308,
+                  -27.515705
+                ],
+                [
+                  153.060276,
+                  -27.515724
+                ],
+                [
+                  153.060109,
+                  -27.515828
+                ],
+                [
+                  153.059973,
+                  -27.515956
+                ],
+                [
+                  153.059722,
+                  -27.516308
+                ],
+                [
+                  153.059645,
+                  -27.516588
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829803-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "194",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "9:12AM 07 Mar 2025",
+        "EST_FIX_TIME": "11:30AM 07 Mar 2025",
+        "STREETS": "ARABILIA ST, ARNOLD ST, BURLINGTON ST, HAROLD ST, HERIOT ST, VICTOR ST",
+        "SUBURBS": "HOLLAND PARK",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.06878,
               -26.68473
             ]
@@ -9971,9 +10081,71 @@
         "SUBURBS": "GAVEN, NERANG",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.172349,
+              -27.080406
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.173182,
+                  -27.080687
+                ],
+                [
+                  153.172344,
+                  -27.07961
+                ],
+                [
+                  153.171642,
+                  -27.079497
+                ],
+                [
+                  153.171516,
+                  -27.080125
+                ],
+                [
+                  153.172354,
+                  -27.081203
+                ],
+                [
+                  153.173056,
+                  -27.081316
+                ],
+                [
+                  153.173182,
+                  -27.080687
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829873-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "9:55AM 07 Mar 2025",
+        "EST_FIX_TIME": "1:00PM 07 Mar 2025",
+        "STREETS": "FIRST AVE",
+        "SUBURBS": "BONGAREE",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741305301.280324"
+  "extracted": "1741305606.916704"
 }
