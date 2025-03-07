@@ -252,7 +252,7 @@
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
         "STATUS": "Crews working on-site",
         "START": "8:18AM 07 Mar 2025",
-        "EST_FIX_TIME": "1:00PM 07 Mar 2025",
+        "EST_FIX_TIME": "3:00PM 07 Mar 2025",
         "STREETS": "ARGOON RD, ARGOON-KILBURNIE RD, BLACKS RD, BOUNDARY HILL MINE RD, CALLIDE-KILBURNIE RD, DAKENBA RD, EARLSFIELD RD, EARLSFIELD-PIT RD, JAMBIN DAKENBA RD, JAMBIN-DAKENBA RD, MCCARTHYS RD",
         "SUBURBS": "ARGOON, BILOELA, JAMBIN"
       }
@@ -1051,15 +1051,76 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "87",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "12:48PM 07 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "BADILLA ST, COOLANBLUE AVE, INNES PARK RD, KALINA ST, VESTA ST",
         "SUBURBS": "INNES PARK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.514162,
+              -26.225317
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.514928,
+                  -26.225444
+                ],
+                [
+                  151.514164,
+                  -26.224614
+                ],
+                [
+                  151.513461,
+                  -26.224556
+                ],
+                [
+                  151.513396,
+                  -26.22519
+                ],
+                [
+                  151.51416,
+                  -26.226019
+                ],
+                [
+                  151.514864,
+                  -26.226078
+                ],
+                [
+                  151.514928,
+                  -26.225444
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25WB3530",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "1:15PM 07 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BRIGOODA RD, PROSTON BOONDOOMA RD",
+        "SUBURBS": "COVERTY, PROSTON"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741317000.265971"
+  "extracted": "1741317301.257187"
 }
