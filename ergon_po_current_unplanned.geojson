@@ -350,6 +350,67 @@
           {
             "type": "Point",
             "coordinates": [
+              142.329001,
+              -10.182261
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  142.329984,
+                  -10.180746
+                ],
+                [
+                  142.3274,
+                  -10.183114
+                ],
+                [
+                  142.327375,
+                  -10.183751
+                ],
+                [
+                  142.328018,
+                  -10.183776
+                ],
+                [
+                  142.330602,
+                  -10.181408
+                ],
+                [
+                  142.330627,
+                  -10.180771
+                ],
+                [
+                  142.329984,
+                  -10.180746
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25FN3151",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:20AM 07 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "SEWERAGE LAGOON RD, UNKNOWN ST",
+        "SUBURBS": "ST PAULS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.699115,
               -21.128222
             ]
@@ -891,5 +952,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741306800.293553"
+  "extracted": "1741307100.258715"
 }
