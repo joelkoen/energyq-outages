@@ -33254,8 +33254,8 @@
           {
             "type": "Point",
             "coordinates": [
-              153.105938,
-              -27.625367
+              153.106512,
+              -27.626274
             ]
           },
           {
@@ -33263,28 +33263,12 @@
             "coordinates": [
               [
                 [
-                  153.097001,
-                  -27.621736
+                  153.098149,
+                  -27.623805
                 ],
                 [
-                  153.097443,
-                  -27.622755
-                ],
-                [
-                  153.097465,
-                  -27.622798
-                ],
-                [
-                  153.097658,
-                  -27.623135
-                ],
-                [
-                  153.097667,
-                  -27.62315
-                ],
-                [
-                  153.098219,
-                  -27.624032
+                  153.098159,
+                  -27.623872
                 ],
                 [
                   153.098224,
@@ -33359,24 +33343,24 @@
                   -27.620892
                 ],
                 [
-                  153.110944,
-                  -27.620876
+                  153.110739,
+                  -27.620844
                 ],
                 [
-                  153.105805,
-                  -27.619045
+                  153.109202,
+                  -27.620889
                 ],
                 [
-                  153.105475,
-                  -27.61903
+                  153.109093,
+                  -27.620903
                 ],
                 [
-                  153.097332,
-                  -27.62114
+                  153.098526,
+                  -27.623307
                 ],
                 [
-                  153.097001,
-                  -27.621736
+                  153.098149,
+                  -27.623805
                 ]
               ]
             ]
@@ -33386,18 +33370,664 @@
       "properties": {
         "EVENT_ID": "INCD-830770-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "1457",
-        "REASON": "Under Investigation",
+        "CUSTOMERS_AFFECTED": "960",
+        "REASON": "Emergency Repairs",
         "STATUS": "Awaiting",
         "START": "12:17AM 08 Mar 2025",
-        "EST_FIX_TIME": "4:00AM 08 Mar 2025",
-        "STREETS": "ALEXANDER ST, ANDELLA ST, ARAC ST, ARTHUR ST, AVOCA ST, BEDFORD ST, BLIGH ST, CASIUS ST, CYPRESS ST, DAMALIS ST, DEODAR ST, DOUGLAS ST, EWING RD, FAIRDALE ST, HANNAM ST, HUNTER ST, KELVIN ST, KENNY ST, KOLONGA ST, LABURNUM ST, LARK ST, LAWRENCE ST, LINDLEY ST, LYDIA AVE, LYNCH ST, MAWSON ST, NORTH RD, NYANZA ST, NYDIA ST, OMAR ST, ORMESBY ST, PARKDALE ST, PHILLIP ST, PLUNKETT ST, ROMILDA ST, RUDGE ST, RUSSELL ST, SHANNON ST, SMITH RD, SOUTHGATE DR, STATION RD, VICTORIA ST, VITKO ST, WILLOW ST, WOBURN ST",
+        "EST_FIX_TIME": "12:00PM 08 Mar 2025",
+        "STREETS": "ANDELLA ST, ARAC ST, ARTHUR ST, AVOCA ST, BLIGH ST, DOUGLAS ST, EWING RD, FAIRDALE ST, HANNAM ST, HUNTER ST, KELVIN ST, KENNY ST, KOLONGA ST, LABURNUM ST, LARK ST, LAWRENCE ST, LINDLEY ST, LYDIA AVE, LYNCH ST, MAWSON ST, NORTH RD, OMAR ST, ORMESBY ST, PHILLIP ST, PLUNKETT ST, RUDGE ST, SHANNON ST, SMITH RD, SOUTHGATE DR, STATION RD, VICTORIA ST",
         "SUBURBS": "WOODRIDGE",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.169245,
+              -27.478205
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.155052,
+                  -27.474462
+                ],
+                [
+                  153.155342,
+                  -27.475848
+                ],
+                [
+                  153.155385,
+                  -27.475963
+                ],
+                [
+                  153.156122,
+                  -27.477311
+                ],
+                [
+                  153.156124,
+                  -27.477315
+                ],
+                [
+                  153.162811,
+                  -27.489256
+                ],
+                [
+                  153.163199,
+                  -27.489502
+                ],
+                [
+                  153.166561,
+                  -27.489885
+                ],
+                [
+                  153.166937,
+                  -27.489793
+                ],
+                [
+                  153.167752,
+                  -27.489226
+                ],
+                [
+                  153.167852,
+                  -27.489132
+                ],
+                [
+                  153.183218,
+                  -27.469935
+                ],
+                [
+                  153.183228,
+                  -27.469923
+                ],
+                [
+                  153.183438,
+                  -27.469641
+                ],
+                [
+                  153.183293,
+                  -27.469014
+                ],
+                [
+                  153.180883,
+                  -27.467604
+                ],
+                [
+                  153.180843,
+                  -27.467584
+                ],
+                [
+                  153.178701,
+                  -27.466565
+                ],
+                [
+                  153.178343,
+                  -27.466524
+                ],
+                [
+                  153.15877,
+                  -27.470773
+                ],
+                [
+                  153.158525,
+                  -27.470899
+                ],
+                [
+                  153.158482,
+                  -27.470939
+                ],
+                [
+                  153.158478,
+                  -27.470942
+                ],
+                [
+                  153.155181,
+                  -27.47407
+                ],
+                [
+                  153.155052,
+                  -27.474462
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830773-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1293",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "12:22AM 08 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 08 Mar 2025",
+        "STREETS": "ADRIAN ST, AMBERJACK ST, AQUA CT, BAJIMBA ST, BALGOWLAH ST, BINDO PL, BOONDARA ST, BRUSH BOX PL, BURDEKIN ST, BURNETT ST, CALLOWAY PL, CAMMERAY CT, CANNES ST, CANTON CT, CARINGBAH ST, CATAMARAN ST, CHARLES PL, CLARANCE ST, CLIFTON ST, COLETTE ST, DANE CT, DARLING TCE, DAWSON DR, DENISE ST, DOHERTY PL, EMPIRE AVE, FOXWOOD CCT, GRADUATE ST, GREENCAMP RD, GUMDALE ST, HABITAT DR, HANNAH CCT, HAYES ST, HERBERT ST, ILUKA ST, JOHN ST, KAMARIN ST, MACKEREL ST, MANLY RD, MARINER ST, MIZZEN ST, NILE CL, NURSERY PL, OASIS CL, PAPERBARK PL, RED GUM CRES, RINGARA ST, ROWLAND AVE, SAMUEL CT, SHARPIE ST, SLOOP ST, TOULBY ST, TRIPCONY PL, WHITES RD, YARINGA ST",
+        "SUBURBS": "LOTA, MANLY, MANLY WEST, WAKERLEY",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.084484,
+              -27.665955
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.071067,
+                  -27.654514
+                ],
+                [
+                  153.072618,
+                  -27.660175
+                ],
+                [
+                  153.072627,
+                  -27.660203
+                ],
+                [
+                  153.078076,
+                  -27.675612
+                ],
+                [
+                  153.078092,
+                  -27.675652
+                ],
+                [
+                  153.078726,
+                  -27.676993
+                ],
+                [
+                  153.07895,
+                  -27.677214
+                ],
+                [
+                  153.08184,
+                  -27.678622
+                ],
+                [
+                  153.08195,
+                  -27.678661
+                ],
+                [
+                  153.08494,
+                  -27.679384
+                ],
+                [
+                  153.085314,
+                  -27.679345
+                ],
+                [
+                  153.088311,
+                  -27.677899
+                ],
+                [
+                  153.088493,
+                  -27.677749
+                ],
+                [
+                  153.097838,
+                  -27.665059
+                ],
+                [
+                  153.097902,
+                  -27.66469
+                ],
+                [
+                  153.094727,
+                  -27.654555
+                ],
+                [
+                  153.094492,
+                  -27.654286
+                ],
+                [
+                  153.092947,
+                  -27.653489
+                ],
+                [
+                  153.092775,
+                  -27.653434
+                ],
+                [
+                  153.086604,
+                  -27.65253
+                ],
+                [
+                  153.086467,
+                  -27.652526
+                ],
+                [
+                  153.071505,
+                  -27.653958
+                ],
+                [
+                  153.071067,
+                  -27.654514
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830776-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1733",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "12:24AM 08 Mar 2025",
+        "EST_FIX_TIME": "4:00AM 08 Mar 2025",
+        "STREETS": "AHLAWAT PL, AINSLIE ST, AIREDALE CT, ANDERSON ST, APEX ST, AQUATIC ST, ASPECT WAY, ATTEWOOD AVE, BARCOMBE DR, BARDON RD, BASINGHALL PL, BASSINGHALL PL, BOWOOD CT, BRENDAN THORNE PL, BROADWAY AVE, BROWNS PLAINS RD, BULLOO RD, BURROWES ST, BUSH TUCKER RD, CEDARWOOD ST, CHAMS ST, CHRISTINA WAY, CURTISII CT, DALVENA ST, DEBANIE CT, DEMEIO RD, DEVINE ST, ECHO CT, ELECTRA ST, ELKI CT, ELLA CT, EMPIRE PL, EQUINOX ST, FAIRWEATHER ST, FAWOOD CT, FIFTH AVE, FILEY CT, FLAGSTONE WAY, FLAMETREE CRES, FOURTH AVE, FRESHFIELD ST, FRESHWATER DR, FRONT CT, GILMORE RD, GREENLINK RD, GREENSIDE GR, GRITL CT, HALIFAX PL, HIDDINS RD, JUERS ST, KAO ST, KERRY ST, KOLORA ST, KURILPA ST, LAVINA RD, LEATRICE ST, LIZDA ST, LOGAN MWY, LOXTON CT, LUCY ST, MACARTHY RD, MOTHERSHIP DR, MUNTHARI DR, PAGEWOOD ST, PEBBLES CT, PETER WAY, PRESTIGE DR, RIVERVIEW ST, ROBINSON CT, ROMANDA PL, RUSTIC CT, SAMS WAY, SANUR ST, SECOND AVE, SELINA CT, SHERBOURNE CT, SIXTH AVE, STEWART ST, SUGAR GLIDER ST, TALBOT PL, TANAMI CT, TARLA ST, TENNESSEE WAY, THIRD AVE, TIMBERLAKE CT, TURNER CT, VOYAGER ST, WAYNE GOSS DR, WEIR CL, WOODROW PL, WOODVALE ST, ZAC ST",
+        "SUBURBS": "BERRINBA, BROWNS PLAINS, KINGSTON, MARSDEN",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.213806,
+              -27.768753
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.199519,
+                  -27.763342
+                ],
+                [
+                  153.199532,
+                  -27.763525
+                ],
+                [
+                  153.199704,
+                  -27.763836
+                ],
+                [
+                  153.227128,
+                  -27.785224
+                ],
+                [
+                  153.22797,
+                  -27.784889
+                ],
+                [
+                  153.228093,
+                  -27.7746
+                ],
+                [
+                  153.228078,
+                  -27.774487
+                ],
+                [
+                  153.223945,
+                  -27.759649
+                ],
+                [
+                  153.223887,
+                  -27.759525
+                ],
+                [
+                  153.219123,
+                  -27.752485
+                ],
+                [
+                  153.218553,
+                  -27.752282
+                ],
+                [
+                  153.204751,
+                  -27.755676
+                ],
+                [
+                  153.20458,
+                  -27.755752
+                ],
+                [
+                  153.204277,
+                  -27.755956
+                ],
+                [
+                  153.204151,
+                  -27.75608
+                ],
+                [
+                  153.199679,
+                  -27.762566
+                ],
+                [
+                  153.19961,
+                  -27.762734
+                ],
+                [
+                  153.199523,
+                  -27.763246
+                ],
+                [
+                  153.199519,
+                  -27.763342
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830777-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "362",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "12:25AM 08 Mar 2025",
+        "EST_FIX_TIME": "4:00AM 08 Mar 2025",
+        "STREETS": "ALICIAJAY CCT, AVATONBELL DR, BLUE ROCK DR, EMPIRE DR, ENKLEMAN RD, ENTERPRISE PL, FLAME TREES DR, GLEN OSMOND RD, KUMALIE CT, NORWOOD CT, PATERSON RD, PEACHEY RD, RUNDLE CT, SANDY CREEK RD, STANMORE RD, STEPHENS WAY, TAPEROO CT, THOMAS HANLON CT, TONKA ST, TRANSPORT ST, WAREHOUSE CCT, WOODVILLE PL",
+        "SUBURBS": "LUSCOMBE, ORMEAU, YATALA",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.090365,
+              -27.496982
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.080981,
+                  -27.491021
+                ],
+                [
+                  153.08813,
+                  -27.502044
+                ],
+                [
+                  153.088273,
+                  -27.502185
+                ],
+                [
+                  153.090381,
+                  -27.50353
+                ],
+                [
+                  153.09045,
+                  -27.503567
+                ],
+                [
+                  153.095436,
+                  -27.505778
+                ],
+                [
+                  153.095523,
+                  -27.505808
+                ],
+                [
+                  153.095803,
+                  -27.505879
+                ],
+                [
+                  153.096044,
+                  -27.505887
+                ],
+                [
+                  153.098122,
+                  -27.505505
+                ],
+                [
+                  153.098249,
+                  -27.505465
+                ],
+                [
+                  153.098629,
+                  -27.505293
+                ],
+                [
+                  153.098906,
+                  -27.504916
+                ],
+                [
+                  153.099816,
+                  -27.490612
+                ],
+                [
+                  153.099464,
+                  -27.490156
+                ],
+                [
+                  153.094731,
+                  -27.48881
+                ],
+                [
+                  153.094661,
+                  -27.488795
+                ],
+                [
+                  153.09416,
+                  -27.48872
+                ],
+                [
+                  153.094108,
+                  -27.488715
+                ],
+                [
+                  153.082878,
+                  -27.488078
+                ],
+                [
+                  153.082469,
+                  -27.488227
+                ],
+                [
+                  153.081098,
+                  -27.489589
+                ],
+                [
+                  153.08097,
+                  -27.489864
+                ],
+                [
+                  153.080955,
+                  -27.490091
+                ],
+                [
+                  153.080955,
+                  -27.490093
+                ],
+                [
+                  153.080914,
+                  -27.490771
+                ],
+                [
+                  153.080981,
+                  -27.491021
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830782-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2690",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "12:27AM 08 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 08 Mar 2025",
+        "STREETS": "ADELAIDE ST, AKALA ST, ANZAC RD, ARROL ST, ARROWSMITH ST, AUBREY ST, BINDA ST, BIRDWOOD RD, BLACKFRIARS DR, BOOLIGAL ST, BROADWAY ST, BRUCE ST, CAMBOOR ST, DICKENSON ST, EAST ST, EDMOND ST, ERREY ST, FARADAY ST, FLAVELLE ST, GAFFNEY ST, GALLIPOLI RD, HECKLEMANN ST, HERBERTSON RD, HUFFER ST, IDAMEA ST, KENNINGTON RD, KOOLATAH ST, LAURIE ST, MACALISTER ST, MARANOA ST, MARGARET ST, MAYFIELD RD, MCAULIFFE ST, MCEWAN ST, MONS RD, MORVEN ST, MURCHISON ST, NOGOA ST, NYRANG ST, OLD CLEVELAND RD, ORANA ST, ORMUZ ST, ORWELL ST, PEMBROKE ST, RENTON ST, SALONICA RD, SANKEY ST, STANLEY RD, SUMMERVILLE ST, VICKERS ST, WARATAH AVE, WATTLE AVE, WHATMORE ST, WILLARD ST, WINSTANLEY ST, WONERSH ST, ZAHEL ST",
+        "SUBURBS": "CAMP HILL, CARINA, CARINA HEIGHTS",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.158748,
+              -27.488216
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.146409,
+                  -27.494227
+                ],
+                [
+                  153.151628,
+                  -27.49755
+                ],
+                [
+                  153.151631,
+                  -27.497552
+                ],
+                [
+                  153.154297,
+                  -27.499222
+                ],
+                [
+                  153.154433,
+                  -27.499283
+                ],
+                [
+                  153.161203,
+                  -27.501227
+                ],
+                [
+                  153.161332,
+                  -27.501248
+                ],
+                [
+                  153.169741,
+                  -27.501637
+                ],
+                [
+                  153.169805,
+                  -27.501636
+                ],
+                [
+                  153.170848,
+                  -27.501568
+                ],
+                [
+                  153.17129,
+                  -27.500972
+                ],
+                [
+                  153.161547,
+                  -27.475519
+                ],
+                [
+                  153.1613,
+                  -27.475264
+                ],
+                [
+                  153.160539,
+                  -27.474912
+                ],
+                [
+                  153.160362,
+                  -27.474865
+                ],
+                [
+                  153.15965,
+                  -27.474795
+                ],
+                [
+                  153.159508,
+                  -27.474798
+                ],
+                [
+                  153.159302,
+                  -27.47483
+                ],
+                [
+                  153.159051,
+                  -27.474939
+                ],
+                [
+                  153.155978,
+                  -27.477396
+                ],
+                [
+                  153.15587,
+                  -27.477518
+                ],
+                [
+                  153.146304,
+                  -27.493424
+                ],
+                [
+                  153.146253,
+                  -27.493554
+                ],
+                [
+                  153.146206,
+                  -27.493776
+                ],
+                [
+                  153.146409,
+                  -27.494227
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830788-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1109",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "12:30AM 08 Mar 2025",
+        "EST_FIX_TIME": "3:30AM 08 Mar 2025",
+        "STREETS": "ASHBURTON PL, BARRINGTON CRES, BARWIN ST, BROOK ST, CHESTERFIELD ST, CHIPPING CL, CLYDE CT, COLETTE ST, ESK CRES, FEATHERTAIL PL, FOREST AVE, FORMOSA RD, FRANKLIN ST, FREESIA CT, GARDENIA PL, GLIDER CL, GOULBURN ST, GRASSDALE RD, GUMDALE ST, HARROGATE PL, HAWKSBURY CRES, HAYES ST, HEPBURN CL, JUDD ST, KATHERINE ST, LACHLAN DR, LYDIA PL, MACQUARIE ST, MANCHESTER ST, MARGARET CRES, MCMULLAN CL, MOSS RD, MOSSVALE DR, NEW CLEVELAND RD, NICHOLS ST, PENNINGTON ST, RIBBLESDALE PL, RYMERA CRES, SWAN CT, TALLTREES CCT, TERRALDON CCT, THOMSON PL, TILLEY RD, TORRENS CRES, WATERVALE PDE, YARRA RD",
+        "SUBURBS": "GUMDALE, WAKERLEY",
         "ETR_FLAG": "N"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741357202.330562"
+  "extracted": "1741357805.349938"
 }
