@@ -9076,84 +9076,6 @@
           {
             "type": "Point",
             "coordinates": [
-              153.155798,
-              -27.895211
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.154347,
-                  -27.894793
-                ],
-                [
-                  153.155936,
-                  -27.896039
-                ],
-                [
-                  153.156047,
-                  -27.896106
-                ],
-                [
-                  153.156699,
-                  -27.896392
-                ],
-                [
-                  153.157351,
-                  -27.896234
-                ],
-                [
-                  153.15725,
-                  -27.895641
-                ],
-                [
-                  153.1553,
-                  -27.894199
-                ],
-                [
-                  153.155144,
-                  -27.89412
-                ],
-                [
-                  153.154853,
-                  -27.894029
-                ],
-                [
-                  153.154246,
-                  -27.894226
-                ],
-                [
-                  153.154347,
-                  -27.894793
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-829667-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "6",
-        "REASON": "Under Investigation",
-        "STATUS": "Awaiting",
-        "START": "7:26AM 07 Mar 2025",
-        "EST_FIX_TIME": "12:00AM 08 Mar 2025",
-        "STREETS": "TAMBORINE MOUNTAIN RD",
-        "SUBURBS": "TAMBORINE",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               153.315658,
               -28.141519
             ]
@@ -9316,7 +9238,7 @@
         "REASON": "Under Investigation",
         "STATUS": "In Progress",
         "START": "7:37AM 07 Mar 2025",
-        "EST_FIX_TIME": "12:00AM 08 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 07 Mar 2025",
         "STREETS": "NEW BEITH RD",
         "SUBURBS": "GREENBANK, NEW BEITH",
         "ETR_FLAG": "N"
@@ -10793,9 +10715,143 @@
         "SUBURBS": "ARATULA, CHARLWOOD, CLUMBER, FASSIFERN VALLEY, MOOGERAH, MORWINCHA, MOUNT EDWARDS, MT ALFORD, TAROME",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.460535,
+              -28.108888
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.454035,
+                  -28.102792
+                ],
+                [
+                  153.457746,
+                  -28.115684
+                ],
+                [
+                  153.457749,
+                  -28.115694
+                ],
+                [
+                  153.458194,
+                  -28.117105
+                ],
+                [
+                  153.458923,
+                  -28.117382
+                ],
+                [
+                  153.460938,
+                  -28.116431
+                ],
+                [
+                  153.461025,
+                  -28.11638
+                ],
+                [
+                  153.466861,
+                  -28.112064
+                ],
+                [
+                  153.467036,
+                  -28.111637
+                ],
+                [
+                  153.466703,
+                  -28.109999
+                ],
+                [
+                  153.466685,
+                  -28.109935
+                ],
+                [
+                  153.465019,
+                  -28.105534
+                ],
+                [
+                  153.465003,
+                  -28.105499
+                ],
+                [
+                  153.464813,
+                  -28.105107
+                ],
+                [
+                  153.464792,
+                  -28.105069
+                ],
+                [
+                  153.464728,
+                  -28.104965
+                ],
+                [
+                  153.464722,
+                  -28.104955
+                ],
+                [
+                  153.462391,
+                  -28.101391
+                ],
+                [
+                  153.462385,
+                  -28.101382
+                ],
+                [
+                  153.461857,
+                  -28.100617
+                ],
+                [
+                  153.461429,
+                  -28.100401
+                ],
+                [
+                  153.460818,
+                  -28.100395
+                ],
+                [
+                  153.460653,
+                  -28.100417
+                ],
+                [
+                  153.45437,
+                  -28.102252
+                ],
+                [
+                  153.454035,
+                  -28.102792
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830028-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1703",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "12:26PM 07 Mar 2025",
+        "EST_FIX_TIME": "9:30PM 07 Mar 2025",
+        "STREETS": "ALKIRA AVE, ALLAWAH AVE, ARALUEN AVE, BAHLOO AVE, BARRACUDA CT, BINDA ST, BOODERA RD, BROOKE AVE, CULGOA ST, CYPRESS TCE, CYPRESS TCE N, DOLPHIN CT, EBONY PL, EUCALYPT ST, GOLD COAST HWY, LIND AVE, MAGNOLI CCT, MALLAWA DR, MARLIN CT, MAWARRA ST, MOKERA AVE, MURLONG CRES, NINETEENTH AVE, NYRANG AVE, PARNKI PDE, SYCAMORE PL, TALLEBUDGERA DR, TARNI AVE, TOWNSON AVE, TWENTY EIGHTH AVE, TWENTY FIFTH AVE, TWENTY FOURTH AVE, TWENTY SEVENTH AVE, TWENTY SIXTH AVE, TWENTY THIRD AVE, WALKER AVE",
+        "SUBURBS": "ELANORA, PALM BEACH",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741314001.350069"
+  "extracted": "1741314603.803349"
 }
