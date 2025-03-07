@@ -10455,9 +10455,79 @@
         "SUBURBS": "COOROIBAH, RINGTAIL CREEK, TEWANTIN",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.205413,
+              -27.585428
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.203765,
+                  -27.584106
+                ],
+                [
+                  152.203955,
+                  -27.585931
+                ],
+                [
+                  152.204246,
+                  -27.586298
+                ],
+                [
+                  152.206447,
+                  -27.587211
+                ],
+                [
+                  152.207057,
+                  -27.587083
+                ],
+                [
+                  152.20706,
+                  -27.586524
+                ],
+                [
+                  152.20467,
+                  -27.583787
+                ],
+                [
+                  152.204083,
+                  -27.583645
+                ],
+                [
+                  152.203765,
+                  -27.584106
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830007-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "12:01PM 07 Mar 2025",
+        "EST_FIX_TIME": "3:30PM 07 Mar 2025",
+        "STREETS": "GRANTHAM-WINWILL RD",
+        "SUBURBS": "GRANTHAM",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741312808.391327"
+  "extracted": "1741313100.370733"
 }

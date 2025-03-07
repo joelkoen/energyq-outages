@@ -91,6 +91,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.171603,
+          -23.512402
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25CA4188",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "12:00PM 07 Mar 2025",
+        "EST_FIX_TIME": "3:30PM 07 Mar 2025",
+        "STREETS": "MORSE ST",
+        "SUBURBS": "EMERALD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.472321,
           -17.260313
         ]
@@ -337,30 +358,9 @@
         "STREETS": "BADILLA ST, COOLANBLUE AVE, INNES PARK RD, KALINA ST, VESTA ST",
         "SUBURBS": "INNES PARK"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.472237,
-          -24.835466
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25WB2949",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "43",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:30AM 07 Mar 2025",
-        "EST_FIX_TIME": "12:30PM 07 Mar 2025",
-        "STREETS": "WOONGARRA SCENIC DR",
-        "SUBURBS": "BARGARA"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741312500.253858"
+  "extracted": "1741313100.725588"
 }
