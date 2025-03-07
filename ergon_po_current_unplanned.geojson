@@ -593,6 +593,75 @@
           {
             "type": "Point",
             "coordinates": [
+              149.081349,
+              -21.153403
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.080032,
+                  -21.152965
+                ],
+                [
+                  149.080101,
+                  -21.153498
+                ],
+                [
+                  149.080431,
+                  -21.153874
+                ],
+                [
+                  149.081884,
+                  -21.154313
+                ],
+                [
+                  149.082391,
+                  -21.154183
+                ],
+                [
+                  149.082666,
+                  -21.153892
+                ],
+                [
+                  149.082487,
+                  -21.153174
+                ],
+                [
+                  149.080691,
+                  -21.152493
+                ],
+                [
+                  149.080032,
+                  -21.152965
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25MK2232",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "11:00AM 07 Mar 2025",
+        "EST_FIX_TIME": "1:00PM 07 Mar 2025",
+        "STREETS": "MACKAY EUNGELLA RD, PALMS RD",
+        "SUBURBS": "WALKERSTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.207433,
               -18.981624
             ]
@@ -952,5 +1021,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741307700.643716"
+  "extracted": "1741308304.727685"
 }
