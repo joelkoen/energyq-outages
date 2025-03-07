@@ -188,83 +188,6 @@
           {
             "type": "Point",
             "coordinates": [
-              150.456046,
-              -24.231639
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  150.39697,
-                  -24.19032
-                ],
-                [
-                  150.432452,
-                  -24.279368
-                ],
-                [
-                  150.432681,
-                  -24.27961
-                ],
-                [
-                  150.437535,
-                  -24.281998
-                ],
-                [
-                  150.437913,
-                  -24.282032
-                ],
-                [
-                  150.51481,
-                  -24.260196
-                ],
-                [
-                  150.515122,
-                  -24.2596
-                ],
-                [
-                  150.481598,
-                  -24.181529
-                ],
-                [
-                  150.481086,
-                  -24.181246
-                ],
-                [
-                  150.397378,
-                  -24.189717
-                ],
-                [
-                  150.39697,
-                  -24.19032
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25CA4574",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "38",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "8:18AM 07 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 07 Mar 2025",
-        "STREETS": "ARGOON RD, ARGOON-KILBURNIE RD, BLACKS RD, BOUNDARY HILL MINE RD, CALLIDE-KILBURNIE RD, DAKENBA RD, EARLSFIELD RD, EARLSFIELD-PIT RD, JAMBIN DAKENBA RD, JAMBIN-DAKENBA RD, MCCARTHYS RD",
-        "SUBURBS": "ARGOON, BILOELA, JAMBIN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               149.53295,
               -23.851387
             ]
@@ -500,6 +423,91 @@
           {
             "type": "Point",
             "coordinates": [
+              149.195373,
+              -21.611737
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.186558,
+                  -21.618613
+                ],
+                [
+                  149.188612,
+                  -21.620639
+                ],
+                [
+                  149.188727,
+                  -21.620723
+                ],
+                [
+                  149.197638,
+                  -21.625375
+                ],
+                [
+                  149.198295,
+                  -21.625202
+                ],
+                [
+                  149.204227,
+                  -21.615295
+                ],
+                [
+                  149.204269,
+                  -21.614948
+                ],
+                [
+                  149.199037,
+                  -21.598221
+                ],
+                [
+                  149.198171,
+                  -21.598099
+                ],
+                [
+                  149.194243,
+                  -21.603651
+                ],
+                [
+                  149.194215,
+                  -21.603697
+                ],
+                [
+                  149.186477,
+                  -21.6181
+                ],
+                [
+                  149.186558,
+                  -21.618613
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25MK2207",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "20",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews working on-site",
+        "START": "11:46AM 06 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "LALLYS RD, PRATT RD, SANDS RD",
+        "SUBURBS": "KOUMALA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.538306,
               -21.141018
             ]
@@ -604,7 +612,7 @@
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
         "STATUS": "Crews working on-site",
         "START": "4:26PM 06 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 07 Mar 2025",
+        "EST_FIX_TIME": "3:30PM 07 Mar 2025",
         "STREETS": "DE BONIS RD, MACKAY EUNGELLA RD, OKULOO RD, PITTIONIS RD",
         "SUBURBS": "FINCH HATTON, NETHERDALE"
       }
@@ -750,5 +758,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741323901.27826"
+  "extracted": "1741324504.307237"
 }

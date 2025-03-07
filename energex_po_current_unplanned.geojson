@@ -9880,8 +9880,8 @@
           {
             "type": "Point",
             "coordinates": [
-              153.196729,
-              -27.918873
+              153.199107,
+              -27.914871
             ]
           },
           {
@@ -9889,28 +9889,44 @@
             "coordinates": [
               [
                 [
-                  153.190034,
-                  -27.929837
+                  153.194388,
+                  -27.920986
                 ],
                 [
-                  153.194,
-                  -27.930504
+                  153.19445,
+                  -27.921212
                 ],
                 [
-                  153.194013,
-                  -27.930506
+                  153.194641,
+                  -27.921469
                 ],
                 [
-                  153.196314,
-                  -27.930835
+                  153.195441,
+                  -27.921995
                 ],
                 [
-                  153.196808,
-                  -27.930652
+                  153.195651,
+                  -27.922076
                 ],
                 [
-                  153.203388,
-                  -27.92248
+                  153.195801,
+                  -27.922101
+                ],
+                [
+                  153.195808,
+                  -27.922102
+                ],
+                [
+                  153.200588,
+                  -27.922826
+                ],
+                [
+                  153.200714,
+                  -27.922831
+                ],
+                [
+                  153.203015,
+                  -27.922667
                 ],
                 [
                   153.203475,
@@ -9969,24 +9985,40 @@
                   -27.909015
                 ],
                 [
-                  153.196164,
-                  -27.909134
+                  153.196147,
+                  -27.909197
                 ],
                 [
-                  153.189686,
-                  -27.927355
+                  153.195047,
+                  -27.915179
                 ],
                 [
-                  153.189663,
-                  -27.927482
+                  153.195044,
+                  -27.915195
                 ],
                 [
-                  153.18962,
-                  -27.929385
+                  153.194795,
+                  -27.916956
                 ],
                 [
-                  153.190034,
-                  -27.929837
+                  153.194795,
+                  -27.916957
+                ],
+                [
+                  153.194645,
+                  -27.918045
+                ],
+                [
+                  153.194643,
+                  -27.918062
+                ],
+                [
+                  153.194376,
+                  -27.920841
+                ],
+                [
+                  153.194388,
+                  -27.920986
                 ]
               ]
             ]
@@ -9996,13 +10028,13 @@
       "properties": {
         "EVENT_ID": "INCD-829919-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "521",
+        "CUSTOMERS_AFFECTED": "363",
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "10:28AM 07 Mar 2025",
         "EST_FIX_TIME": "12:00AM 08 Mar 2025",
-        "STREETS": "APO CT, CAYAMBE CT, CONTOUR RD, COOK RD, CURTIS RD, DAPSANG RD, EAGLE HEIGHTS RD, FORSYTHIA DR, GEISSMANN DR, KATMAI CT, KATOOMBA CRES, LONG RD, MACDONNELL RD, MAIPU CT, MAYON CT, MAZAMA CT, MERON CT, MORELL ST, OHIA CT, TAMBORA CT, WASATCH CT, WONGAWALLAN RD",
-        "SUBURBS": "CEDAR CREEK, TAMBORINE MOUNTAIN",
+        "STREETS": "APO CT, CAYAMBE CT, CONTOUR RD, FORSYTHIA DR, KATMAI CT, KATOOMBA CRES, LONG RD, MACDONNELL RD, MAIPU CT, MAYON CT, MAZAMA CT, MORELL ST, OHIA CT, TAMBORA CT, WONGAWALLAN RD",
+        "SUBURBS": "TAMBORINE MOUNTAIN",
         "ETR_FLAG": "N"
       }
     },
@@ -10097,92 +10129,6 @@
         "EST_FIX_TIME": "12:00AM 08 Mar 2025",
         "STREETS": "CHADFORD ST, COMLEY ST, GRANADILLA ST, MCCULLOUGH ST, SUNDERLAND ST",
         "SUBURBS": "MACGREGOR, SUNNYBANK",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              153.007669,
-              -26.354241
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.006252,
-                  -26.352675
-                ],
-                [
-                  153.007273,
-                  -26.356241
-                ],
-                [
-                  153.008096,
-                  -26.356462
-                ],
-                [
-                  153.008356,
-                  -26.356247
-                ],
-                [
-                  153.008449,
-                  -26.356145
-                ],
-                [
-                  153.009019,
-                  -26.355285
-                ],
-                [
-                  153.009086,
-                  -26.354997
-                ],
-                [
-                  153.00885,
-                  -26.353311
-                ],
-                [
-                  153.008802,
-                  -26.353168
-                ],
-                [
-                  153.008314,
-                  -26.352272
-                ],
-                [
-                  153.007819,
-                  -26.352021
-                ],
-                [
-                  153.006692,
-                  -26.352112
-                ],
-                [
-                  153.006252,
-                  -26.352675
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-829960-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "10",
-        "REASON": "Under Investigation",
-        "STATUS": "In Progress",
-        "START": "11:12AM 07 Mar 2025",
-        "EST_FIX_TIME": "12:00AM 08 Mar 2025",
-        "STREETS": "LAKE COOROIBAH RD",
-        "SUBURBS": "COOROIBAH",
         "ETR_FLAG": "N"
       }
     },
@@ -11339,5 +11285,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741324200.344855"
+  "extracted": "1741324501.131661"
 }
