@@ -273,6 +273,99 @@
           {
             "type": "Point",
             "coordinates": [
+              150.648461,
+              -23.652718
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.645471,
+                  -23.652761
+                ],
+                [
+                  150.647409,
+                  -23.654444
+                ],
+                [
+                  150.647725,
+                  -23.654567
+                ],
+                [
+                  150.648892,
+                  -23.654611
+                ],
+                [
+                  150.648924,
+                  -23.654611
+                ],
+                [
+                  150.650614,
+                  -23.654574
+                ],
+                [
+                  150.650634,
+                  -23.654573
+                ],
+                [
+                  150.651071,
+                  -23.654547
+                ],
+                [
+                  150.651468,
+                  -23.65388
+                ],
+                [
+                  150.65065,
+                  -23.65251
+                ],
+                [
+                  150.650446,
+                  -23.652327
+                ],
+                [
+                  150.647296,
+                  -23.650824
+                ],
+                [
+                  150.646719,
+                  -23.650911
+                ],
+                [
+                  150.645455,
+                  -23.65212
+                ],
+                [
+                  150.645471,
+                  -23.652761
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25CA4690",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "21",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews on route",
+        "START": "6:39PM 07 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "MILL ST, SCHOOL ST, TOONDA RD, TOONDA ST",
+        "SUBURBS": "BAJOOL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.699115,
               -21.128222
             ]
@@ -790,5 +883,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741339201.167009"
+  "extracted": "1741340100.424284"
 }
