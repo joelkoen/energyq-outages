@@ -8514,7 +8514,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "128",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "6:45AM 07 Mar 2025",
         "EST_FIX_TIME": "12:00AM 08 Mar 2025",
         "STREETS": "BOOKER RD, BOONAH-RATHDOWNEY RD, BURNETT CREEK RD, C GRACE RD, CANNON CREEK RD, COTSWOLD RD, E GRACE RD, J BOOKER RD, JO BROWN RD, JOHNSON RD, MAROON DAM RD, NEWLOVE RD, NEWMAN RD, S WATSONS RD, SLATTER PARK RD, STOCKYARD CREEK RD, YORSTON RD",
@@ -15345,9 +15345,103 @@
         "SUBURBS": "ARUNDEL, BIGGERA WATERS, COOMBABAH, HOLLYWELL, LABRADOR, PARADISE POINT, PARKWOOD, RUNAWAY BAY, SOUTHPORT, SURFERS PARADISE",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.409403,
+              -27.97611
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.407665,
+                  -27.975598
+                ],
+                [
+                  153.408479,
+                  -27.976518
+                ],
+                [
+                  153.40851,
+                  -27.97655
+                ],
+                [
+                  153.4096,
+                  -27.977567
+                ],
+                [
+                  153.410268,
+                  -27.97762
+                ],
+                [
+                  153.41101,
+                  -27.977141
+                ],
+                [
+                  153.411219,
+                  -27.97679
+                ],
+                [
+                  153.411244,
+                  -27.97611
+                ],
+                [
+                  153.411238,
+                  -27.976023
+                ],
+                [
+                  153.411066,
+                  -27.975088
+                ],
+                [
+                  153.41059,
+                  -27.97471
+                ],
+                [
+                  153.40814,
+                  -27.9746
+                ],
+                [
+                  153.407612,
+                  -27.974977
+                ],
+                [
+                  153.407563,
+                  -27.975246
+                ],
+                [
+                  153.407665,
+                  -27.975598
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830364-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "70",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "8:25PM 07 Mar 2025",
+        "EST_FIX_TIME": "12:00AM 08 Mar 2025",
+        "STREETS": "ALLAN ST, FERRY RD, MINNIE ST, PERCY ST",
+        "SUBURBS": "SOUTHPORT",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741343101.397554"
+  "extracted": "1741343405.140609"
 }
