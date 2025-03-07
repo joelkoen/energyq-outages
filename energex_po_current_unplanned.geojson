@@ -9700,6 +9700,132 @@
           {
             "type": "Point",
             "coordinates": [
+              153.402565,
+              -27.981061
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.400622,
+                  -27.981322
+                ],
+                [
+                  153.400654,
+                  -27.982261
+                ],
+                [
+                  153.400978,
+                  -27.982668
+                ],
+                [
+                  153.402078,
+                  -27.983046
+                ],
+                [
+                  153.402179,
+                  -27.983071
+                ],
+                [
+                  153.402812,
+                  -27.983162
+                ],
+                [
+                  153.402833,
+                  -27.983165
+                ],
+                [
+                  153.403088,
+                  -27.983192
+                ],
+                [
+                  153.403623,
+                  -27.982905
+                ],
+                [
+                  153.404316,
+                  -27.981299
+                ],
+                [
+                  153.404343,
+                  -27.981212
+                ],
+                [
+                  153.404385,
+                  -27.980989
+                ],
+                [
+                  153.404389,
+                  -27.980957
+                ],
+                [
+                  153.404509,
+                  -27.979843
+                ],
+                [
+                  153.404385,
+                  -27.979504
+                ],
+                [
+                  153.404202,
+                  -27.979318
+                ],
+                [
+                  153.404009,
+                  -27.979196
+                ],
+                [
+                  153.403345,
+                  -27.978959
+                ],
+                [
+                  153.403097,
+                  -27.97893
+                ],
+                [
+                  153.402639,
+                  -27.978977
+                ],
+                [
+                  153.402288,
+                  -27.979157
+                ],
+                [
+                  153.400721,
+                  -27.98104
+                ],
+                [
+                  153.400622,
+                  -27.981322
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829789-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "105",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "9:04AM 07 Mar 2025",
+        "EST_FIX_TIME": "8:00AM 08 Mar 2025",
+        "STREETS": "ALICIA ST, JANE ST, MELINDA ST, SHIRLEY ST, SUSANNE ST",
+        "SUBURBS": "SOUTHPORT",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.337536,
               -27.965558
             ]
@@ -10509,9 +10635,167 @@
         "SUBURBS": "SOUTHPORT",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.520051,
+              -28.037887
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.449935,
+                  -28.061748
+                ],
+                [
+                  152.457271,
+                  -28.081728
+                ],
+                [
+                  152.457544,
+                  -28.081999
+                ],
+                [
+                  152.506665,
+                  -28.101899
+                ],
+                [
+                  152.506929,
+                  -28.101937
+                ],
+                [
+                  152.521655,
+                  -28.100588
+                ],
+                [
+                  152.521671,
+                  -28.100586
+                ],
+                [
+                  152.527341,
+                  -28.0999
+                ],
+                [
+                  152.527624,
+                  -28.099779
+                ],
+                [
+                  152.572198,
+                  -28.061977
+                ],
+                [
+                  152.572236,
+                  -28.061941
+                ],
+                [
+                  152.573359,
+                  -28.060754
+                ],
+                [
+                  152.573417,
+                  -28.060678
+                ],
+                [
+                  152.577643,
+                  -28.053726
+                ],
+                [
+                  152.577698,
+                  -28.053578
+                ],
+                [
+                  152.590166,
+                  -27.978718
+                ],
+                [
+                  152.589914,
+                  -27.978259
+                ],
+                [
+                  152.588984,
+                  -27.977792
+                ],
+                [
+                  152.588955,
+                  -27.977778
+                ],
+                [
+                  152.579898,
+                  -27.973881
+                ],
+                [
+                  152.579631,
+                  -27.973837
+                ],
+                [
+                  152.553428,
+                  -27.975942
+                ],
+                [
+                  152.55335,
+                  -27.975954
+                ],
+                [
+                  152.543383,
+                  -27.978174
+                ],
+                [
+                  152.543235,
+                  -27.97823
+                ],
+                [
+                  152.542935,
+                  -27.978397
+                ],
+                [
+                  152.542893,
+                  -27.978424
+                ],
+                [
+                  152.465321,
+                  -28.032459
+                ],
+                [
+                  152.465174,
+                  -28.032623
+                ],
+                [
+                  152.449958,
+                  -28.061417
+                ],
+                [
+                  152.449935,
+                  -28.061748
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830019-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "461",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "12:14PM 07 Mar 2025",
+        "EST_FIX_TIME": "3:30PM 07 Mar 2025",
+        "STREETS": "ANDERS RD, BOYLE RD, CHARLWOOD RD, CROFTBY RD, CUNNINGHAM HWY, DARLING RD, DORIS ST, DRADY RD, EDWARDS ST, ELIZABETH ST, EVELYN ST, FRAZERVIEW RD, FRIEBURG RD, FRITZ RD, GARTSHORE RD, GORGE RD, GREVILLE ST, GUTKE RD, HUGHES CT, JENSEN ST, LAKE MOOGERAH RD, LIVING WATER RD, MATILDA ST, MOOGERAH CONNECTION RD, MORWINCHA RD, MT ALFORD RD, MT GREVILLE RD, MULLER PARK RD, MUNCHOW RD, PFEFFER RD, PHILLIP ST, POCKNEE RD, REVILL RD, SAWMILL RD, SCHOLL RD, SIMMONDS RD, SKI ZONE RD, SPICERS GAP RD, ST LAURENCE RD, SURAWSKI DR, TUNSTALL RD, WARD RD, WILSON RD",
+        "SUBURBS": "ARATULA, CHARLWOOD, CLUMBER, FASSIFERN VALLEY, MOOGERAH, MORWINCHA, MOUNT EDWARDS, MT ALFORD, TAROME",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741313401.464464"
+  "extracted": "1741313701.836524"
 }
