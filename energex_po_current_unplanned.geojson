@@ -10335,9 +10335,111 @@
         "SUBURBS": "CAPALABA",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.440689,
+              -28.164866
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.428892,
+                  -28.160943
+                ],
+                [
+                  153.429729,
+                  -28.163474
+                ],
+                [
+                  153.429861,
+                  -28.16367
+                ],
+                [
+                  153.435488,
+                  -28.168544
+                ],
+                [
+                  153.435491,
+                  -28.168547
+                ],
+                [
+                  153.43572,
+                  -28.168742
+                ],
+                [
+                  153.435956,
+                  -28.168856
+                ],
+                [
+                  153.4384,
+                  -28.169368
+                ],
+                [
+                  153.438642,
+                  -28.169366
+                ],
+                [
+                  153.452148,
+                  -28.166328
+                ],
+                [
+                  153.452487,
+                  -28.165705
+                ],
+                [
+                  153.451205,
+                  -28.163191
+                ],
+                [
+                  153.451123,
+                  -28.163079
+                ],
+                [
+                  153.449153,
+                  -28.161092
+                ],
+                [
+                  153.448788,
+                  -28.160939
+                ],
+                [
+                  153.429398,
+                  -28.160365
+                ],
+                [
+                  153.428892,
+                  -28.160943
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829903-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "151",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "10:15AM 07 Mar 2025",
+        "EST_FIX_TIME": "12:00AM 08 Mar 2025",
+        "STREETS": "BRADMAN DR, BULBUL PL, COCKATIEL PL, CURRUMBIN CREEK RD, JOANNE CT, LILLEE CT, LINDWALL PL, MARSH PL, PARDALOTE PL, STACKPOLE ST, TALLEBUDGERA CONNECTION RD",
+        "SUBURBS": "CURRUMBIN VALLEY, CURRUMBIN WATERS, TALLEBUDGERA",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741306501.469596"
+  "extracted": "1741306800.329206"
 }
