@@ -9178,80 +9178,6 @@
           {
             "type": "Point",
             "coordinates": [
-              152.942728,
-              -27.741232
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.941819,
-                  -27.743075
-                ],
-                [
-                  152.943549,
-                  -27.743195
-                ],
-                [
-                  152.944089,
-                  -27.742674
-                ],
-                [
-                  152.943843,
-                  -27.741304
-                ],
-                [
-                  152.943821,
-                  -27.741226
-                ],
-                [
-                  152.943171,
-                  -27.739571
-                ],
-                [
-                  152.94267,
-                  -27.739269
-                ],
-                [
-                  152.9422,
-                  -27.739608
-                ],
-                [
-                  152.941367,
-                  -27.742513
-                ],
-                [
-                  152.941819,
-                  -27.743075
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-829684-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "10",
-        "REASON": "Under Investigation",
-        "STATUS": "In Progress",
-        "START": "7:37AM 07 Mar 2025",
-        "EST_FIX_TIME": "12:00AM 08 Mar 2025",
-        "STREETS": "NEW BEITH RD",
-        "SUBURBS": "GREENBANK, NEW BEITH",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               153.488197,
               -28.138578
             ]
@@ -10260,7 +10186,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "51",
         "REASON": "Emergency Repairs",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "10:59AM 07 Mar 2025",
         "EST_FIX_TIME": "12:00AM 08 Mar 2025",
         "STREETS": "CHADFORD ST, COMLEY ST, GRANADILLA ST, MCCULLOUGH ST, SUNDERLAND ST",
@@ -10825,9 +10751,183 @@
         "SUBURBS": "SOUTHPORT",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.401823,
+              -28.113044
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.387702,
+                  -28.12317
+                ],
+                [
+                  153.388443,
+                  -28.124299
+                ],
+                [
+                  153.388566,
+                  -28.124425
+                ],
+                [
+                  153.392455,
+                  -28.127163
+                ],
+                [
+                  153.392599,
+                  -28.127234
+                ],
+                [
+                  153.393273,
+                  -28.127449
+                ],
+                [
+                  153.393511,
+                  -28.127472
+                ],
+                [
+                  153.397195,
+                  -28.127047
+                ],
+                [
+                  153.397244,
+                  -28.127039
+                ],
+                [
+                  153.399409,
+                  -28.126597
+                ],
+                [
+                  153.399583,
+                  -28.126529
+                ],
+                [
+                  153.404246,
+                  -28.12369
+                ],
+                [
+                  153.404326,
+                  -28.12363
+                ],
+                [
+                  153.41021,
+                  -28.118169
+                ],
+                [
+                  153.410222,
+                  -28.118158
+                ],
+                [
+                  153.410404,
+                  -28.117977
+                ],
+                [
+                  153.41044,
+                  -28.117937
+                ],
+                [
+                  153.4123,
+                  -28.115612
+                ],
+                [
+                  153.412383,
+                  -28.115445
+                ],
+                [
+                  153.415989,
+                  -28.100361
+                ],
+                [
+                  153.415944,
+                  -28.100063
+                ],
+                [
+                  153.415862,
+                  -28.099919
+                ],
+                [
+                  153.415514,
+                  -28.099682
+                ],
+                [
+                  153.409857,
+                  -28.098616
+                ],
+                [
+                  153.409483,
+                  -28.098674
+                ],
+                [
+                  153.407186,
+                  -28.099942
+                ],
+                [
+                  153.407112,
+                  -28.099991
+                ],
+                [
+                  153.393604,
+                  -28.110899
+                ],
+                [
+                  153.393592,
+                  -28.110909
+                ],
+                [
+                  153.391772,
+                  -28.112476
+                ],
+                [
+                  153.391693,
+                  -28.112564
+                ],
+                [
+                  153.391174,
+                  -28.113314
+                ],
+                [
+                  153.391124,
+                  -28.11341
+                ],
+                [
+                  153.387658,
+                  -28.122803
+                ],
+                [
+                  153.387702,
+                  -28.12317
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830054-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1090",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "12:49PM 07 Mar 2025",
+        "EST_FIX_TIME": "12:00AM 08 Mar 2025",
+        "STREETS": "ABBEY RIDGE RD, ALEX FISHER DR, ASPERIA ST, BARDEN RIDGE RD, BARTON ST, BELLATRIX ST, CAHILL CT, CAJEPUT CT, CALLICARPA ST, CASUA DR, COFFEEBUSH CT, CORDYLINE DR, CORONATA PL, CROWN CT, ERN HARLEY DR, FIDDLEWOOD PL, FLINDERSIA CT, FLINT CT, GILGANDRA CL, GOLDEN GROVE BVD, GORDONIA DR, GRAMPIAN CT, GROVE CREEK CL, JODRELL CT, JOHN DUNCAN CT, KAURI PINE ST, KINGCREST DR, KINGSMORE BVD, KIRKWOOD PL, LACEFLOWER CT, LITSEA CT, MONSERRAT CT, OBSERVATORY DR, OLD COACH RD, PACIFIC HWY, PARKES CT, PERKINS CL, POSSUMWOOD PL, PULCHELLA PL, REEDY CREEK RD, RINA CT, RIVERLILY ST, RUSTYPLUM CT, SCOTTSDALE DR, SKYWATCH CCT, SNOWWOOD ST, SORMANO ST, TUCKEROO PL, WILCOX CL, WOLLEMI CT, WOODLAND DR, WYLLIE WAY",
+        "SUBURBS": "BURLEIGH HEADS, REEDY CREEK, VARSITY LAKES",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741315501.513014"
+  "extracted": "1741316100.601867"
 }
