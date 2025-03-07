@@ -10356,8 +10356,8 @@
           {
             "type": "Point",
             "coordinates": [
-              153.181827,
-              -27.940502
+              153.196729,
+              -27.918873
             ]
           },
           {
@@ -10365,52 +10365,28 @@
             "coordinates": [
               [
                 [
-                  153.159858,
-                  -27.920416
+                  153.190034,
+                  -27.929837
                 ],
                 [
-                  153.181467,
-                  -27.964048
+                  153.194,
+                  -27.930504
                 ],
                 [
-                  153.181482,
-                  -27.964076
+                  153.194013,
+                  -27.930506
                 ],
                 [
-                  153.18598,
-                  -27.971673
+                  153.196314,
+                  -27.930835
                 ],
                 [
-                  153.186008,
-                  -27.971715
+                  153.196808,
+                  -27.930652
                 ],
                 [
-                  153.187798,
-                  -27.974065
-                ],
-                [
-                  153.188618,
-                  -27.974093
-                ],
-                [
-                  153.190299,
-                  -27.972207
-                ],
-                [
-                  153.190331,
-                  -27.972166
-                ],
-                [
-                  153.191203,
-                  -27.970926
-                ],
-                [
-                  153.191268,
-                  -27.970785
-                ],
-                [
-                  153.203471,
-                  -27.922316
+                  153.203388,
+                  -27.92248
                 ],
                 [
                   153.203475,
@@ -10445,40 +10421,48 @@
                   -27.907097
                 ],
                 [
-                  153.198123,
+                  153.198119,
                   -27.906911
                 ],
                 [
-                  153.178985,
-                  -27.911368
+                  153.198031,
+                  -27.906933
                 ],
                 [
-                  153.178925,
-                  -27.911385
+                  153.197817,
+                  -27.907038
                 ],
                 [
-                  153.161794,
-                  -27.917471
+                  153.197695,
+                  -27.907139
                 ],
                 [
-                  153.161759,
-                  -27.917485
+                  153.197621,
+                  -27.907214
                 ],
                 [
-                  153.160249,
-                  -27.918144
+                  153.19623,
+                  -27.909015
                 ],
                 [
-                  153.159967,
-                  -27.918513
+                  153.196164,
+                  -27.909134
                 ],
                 [
-                  153.159817,
-                  -27.920199
+                  153.189686,
+                  -27.927355
                 ],
                 [
-                  153.159858,
-                  -27.920416
+                  153.189663,
+                  -27.927482
+                ],
+                [
+                  153.18962,
+                  -27.929385
+                ],
+                [
+                  153.190034,
+                  -27.929837
                 ]
               ]
             ]
@@ -10488,18 +10472,112 @@
       "properties": {
         "EVENT_ID": "INCD-829919-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "1544",
+        "CUSTOMERS_AFFECTED": "521",
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "10:28AM 07 Mar 2025",
         "EST_FIX_TIME": "12:00AM 08 Mar 2025",
-        "STREETS": "APO CT, BEACON RD, BEAUDESERT ST, BOISE CT, CAPO LANE, CAYAMBE CT, CHALLIS ST, CHALMETTE DR, CIBOLA DR, COLEMAN SQ, COLVILLE DR, CONTOUR RD, COOK RD, CURTIS RD, DAPSANG RD, EAGLE HEIGHTS RD, FORSYTHIA DR, FREEMONT DR, GEISSMANN DR, GEISSMANN ST, GRIFFITH ST, KATMAI CT, KATOOMBA CRES, KESWICK RD, KIDD ST, KNOLL RD, KOOTENAI DR, LAHEY RD, LASSEN DR, LONG RD, MACDONNELL RD, MAIN ST, MAIN WESTERN RD, MAIPU CT, MANITZKY RD, MAYON CT, MAZAMA CT, MERON CT, MONTE ST, MORELL ST, NICOLET DR, NORTH ST, OCOLA CT, OHIA CT, PARK LANE, PLATT PL, POWER PDE, REEVE RD, SEQUOIA DR, SHILOH DR, SIERRA DR, ST BERNARD ST, TAMBORA CT, TAYLOR ST, WASATCH CT, WEST RD, WINEMA DR, WITCHES CH, WONGAWALLAN RD, YUULONG RD",
+        "STREETS": "APO CT, CAYAMBE CT, CONTOUR RD, COOK RD, CURTIS RD, DAPSANG RD, EAGLE HEIGHTS RD, FORSYTHIA DR, GEISSMANN DR, KATMAI CT, KATOOMBA CRES, LONG RD, MACDONNELL RD, MAIPU CT, MAYON CT, MAZAMA CT, MERON CT, MORELL ST, OHIA CT, TAMBORA CT, WASATCH CT, WONGAWALLAN RD",
         "SUBURBS": "CEDAR CREEK, TAMBORINE MOUNTAIN",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.06903,
+              -27.572278
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.067508,
+                  -27.572707
+                ],
+                [
+                  153.068467,
+                  -27.573117
+                ],
+                [
+                  153.068581,
+                  -27.573152
+                ],
+                [
+                  153.070215,
+                  -27.573461
+                ],
+                [
+                  153.070826,
+                  -27.572993
+                ],
+                [
+                  153.070751,
+                  -27.571817
+                ],
+                [
+                  153.07033,
+                  -27.571397
+                ],
+                [
+                  153.069995,
+                  -27.571346
+                ],
+                [
+                  153.069992,
+                  -27.571346
+                ],
+                [
+                  153.068264,
+                  -27.571096
+                ],
+                [
+                  153.068083,
+                  -27.571098
+                ],
+                [
+                  153.067813,
+                  -27.571147
+                ],
+                [
+                  153.067419,
+                  -27.571487
+                ],
+                [
+                  153.067233,
+                  -27.572198
+                ],
+                [
+                  153.067508,
+                  -27.572707
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829949-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "51",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "10:59AM 07 Mar 2025",
+        "EST_FIX_TIME": "1:00PM 07 Mar 2025",
+        "STREETS": "CHADFORD ST, COMLEY ST, GRANADILLA ST, MCCULLOUGH ST, SUNDERLAND ST",
+        "SUBURBS": "MACGREGOR, SUNNYBANK",
         "ETR_FLAG": "N"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741309202.1011"
+  "extracted": "1741309500.324447"
 }
