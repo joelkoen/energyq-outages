@@ -36424,8 +36424,8 @@
           {
             "type": "Point",
             "coordinates": [
-              152.81015,
-              -27.24016
+              152.826869,
+              -27.247472
             ]
           },
           {
@@ -36433,36 +36433,52 @@
             "coordinates": [
               [
                 [
-                  152.797743,
-                  -27.239573
+                  152.797719,
+                  -27.239559
                 ],
                 [
-                  152.808619,
-                  -27.245906
+                  152.829734,
+                  -27.260604
                 ],
                 [
-                  152.808819,
-                  -27.245974
+                  152.83011,
+                  -27.260687
                 ],
                 [
-                  152.809471,
-                  -27.246063
+                  152.846717,
+                  -27.258404
                 ],
                 [
-                  152.809777,
-                  -27.246019
+                  152.846938,
+                  -27.258323
                 ],
                 [
-                  152.822632,
-                  -27.240125
+                  152.849948,
+                  -27.256354
                 ],
                 [
-                  152.822767,
-                  -27.239412
+                  152.849987,
+                  -27.256326
                 ],
                 [
-                  152.821282,
-                  -27.238022
+                  152.856204,
+                  -27.251336
+                ],
+                [
+                  152.856189,
+                  -27.250652
+                ],
+                [
+                  152.845351,
+                  -27.242621
+                ],
+                [
+                  152.845134,
+                  -27.242527
+                ],
+                [
+                  152.821023,
+                  -27.237892
                 ],
                 [
                   152.821014,
@@ -36497,8 +36513,8 @@
                   -27.239069
                 ],
                 [
-                  152.797743,
-                  -27.239573
+                  152.797719,
+                  -27.239559
                 ]
               ]
             ]
@@ -36508,13 +36524,13 @@
       "properties": {
         "EVENT_ID": "INCD-830849-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "38",
-        "REASON": "Under Investigation",
+        "CUSTOMERS_AFFECTED": "88",
+        "REASON": "Emergency Repairs",
         "STATUS": "Awaiting",
         "START": "1:52AM 08 Mar 2025",
         "EST_FIX_TIME": "12:00PM 08 Mar 2025",
-        "STREETS": "ALISON BOOKER CT, RAY BOOKER CT, WATSON RD",
-        "SUBURBS": "ARMSTRONG CREEK, KOBBLE CREEK",
+        "STREETS": "AITCHESON RD, ALISON BOOKER CT, BENNETT RD, GREENSILL LANE, HIPATHITES RD, KOBBLE CREEK RD, KOBBLE LANE, MT SAMSON RD, POSTMANS TRK, RAY BOOKER CT, WATSON RD",
+        "SUBURBS": "ARMSTRONG CREEK, KOBBLE CREEK, SAMSONVALE",
         "ETR_FLAG": "N"
       }
     },
@@ -40597,9 +40613,285 @@
         "SUBURBS": "WORONGARY",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.089711,
+              -27.519607
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.076756,
+                  -27.523519
+                ],
+                [
+                  153.080864,
+                  -27.524103
+                ],
+                [
+                  153.08089,
+                  -27.524106
+                ],
+                [
+                  153.095162,
+                  -27.525452
+                ],
+                [
+                  153.095314,
+                  -27.525446
+                ],
+                [
+                  153.095436,
+                  -27.525425
+                ],
+                [
+                  153.09568,
+                  -27.525314
+                ],
+                [
+                  153.099351,
+                  -27.522305
+                ],
+                [
+                  153.099372,
+                  -27.522287
+                ],
+                [
+                  153.102954,
+                  -27.51899
+                ],
+                [
+                  153.103076,
+                  -27.518547
+                ],
+                [
+                  153.10299,
+                  -27.518289
+                ],
+                [
+                  153.10286,
+                  -27.518096
+                ],
+                [
+                  153.098087,
+                  -27.513892
+                ],
+                [
+                  153.09772,
+                  -27.513762
+                ],
+                [
+                  153.093582,
+                  -27.51384
+                ],
+                [
+                  153.093432,
+                  -27.513863
+                ],
+                [
+                  153.084309,
+                  -27.516586
+                ],
+                [
+                  153.084262,
+                  -27.516603
+                ],
+                [
+                  153.079662,
+                  -27.518446
+                ],
+                [
+                  153.079571,
+                  -27.518493
+                ],
+                [
+                  153.077811,
+                  -27.51964
+                ],
+                [
+                  153.077793,
+                  -27.519651
+                ],
+                [
+                  153.07732,
+                  -27.519989
+                ],
+                [
+                  153.077147,
+                  -27.520227
+                ],
+                [
+                  153.076346,
+                  -27.522959
+                ],
+                [
+                  153.076756,
+                  -27.523519
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830987-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1286",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "6:26AM 08 Mar 2025",
+        "EST_FIX_TIME": "10:00AM 08 Mar 2025",
+        "STREETS": "ALLAMANDA PL, ALMAVALE ST, BASSETT ST, BEAUMONT ST, BEDDOES ST, BEVAN ST, BICKLE PL, BREAD ST, BRECHIN ST, BRIDLE ST, BRIGADOON ST, CALLIANDRA PL, CANNING ST, CAVENDISH RD, CECILIA CL, COOLONG ST, CORNFLOWER ST, CRAIGMOOR ST, CREEK RD, ELISHA CL, EPACRIS CL, EVERGREEN PL, FIRTHSHIRE ST, FLAME TREE CRES, FRY ST, GLEN NEVIS ST, GLENALWYN ST, GLENGARRIFF ST, GREENMEADOW RD, GRETNA ST, GREVILLEA ST, GRUNERT ST, HECTOR RD, JACARANDA CT, JOCELYN PL, LAMBERTIA CL, LIAM ST, LOCH NESS ST, MAR ST, NEALDON ST, NERANDA CT, NURRAN ST, NURSERY RD, OATES AVE, OCALLAGHAN ST, OLIVIA DR, PINE MOUNTAIN RD, POINCIANA CL, RED GUM PL, ROB ROY PL, STONYFELL CT, STYPHELIA ST, TALLOW WOOD PL, TIPUANA CL, TRISTANIA WAY, WISTERIA CRES, WYNCROFT ST",
+        "SUBURBS": "CARINA HEIGHTS, CARINDALE, HOLLAND PARK, MANSFIELD, MT GRAVATT EAST",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.412616,
+              -27.981959
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.407654,
+                  -27.978697
+                ],
+                [
+                  153.408206,
+                  -27.986365
+                ],
+                [
+                  153.408284,
+                  -27.986578
+                ],
+                [
+                  153.410127,
+                  -27.989155
+                ],
+                [
+                  153.410352,
+                  -27.989327
+                ],
+                [
+                  153.412677,
+                  -27.99023
+                ],
+                [
+                  153.412828,
+                  -27.990266
+                ],
+                [
+                  153.415449,
+                  -27.99051
+                ],
+                [
+                  153.41588,
+                  -27.990363
+                ],
+                [
+                  153.41745,
+                  -27.988815
+                ],
+                [
+                  153.417578,
+                  -27.988465
+                ],
+                [
+                  153.416619,
+                  -27.980536
+                ],
+                [
+                  153.416567,
+                  -27.980381
+                ],
+                [
+                  153.41278,
+                  -27.973727
+                ],
+                [
+                  153.412349,
+                  -27.97348
+                ],
+                [
+                  153.410548,
+                  -27.973409
+                ],
+                [
+                  153.410463,
+                  -27.973412
+                ],
+                [
+                  153.409489,
+                  -27.973518
+                ],
+                [
+                  153.409422,
+                  -27.97353
+                ],
+                [
+                  153.409148,
+                  -27.973594
+                ],
+                [
+                  153.408783,
+                  -27.973926
+                ],
+                [
+                  153.407916,
+                  -27.977166
+                ],
+                [
+                  153.407908,
+                  -27.9772
+                ],
+                [
+                  153.407659,
+                  -27.978598
+                ],
+                [
+                  153.407654,
+                  -27.978697
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-831000-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "608",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "6:29AM 08 Mar 2025",
+        "EST_FIX_TIME": "11:30AM 08 Mar 2025",
+        "STREETS": "BROLGA AVE, CASE ST, CHARLTON ST, COLLEGE AVE, COOPER PDE, DEAUVILLE DR, DRURY AVE, EGERTON ST, FERRY RD, GILLIAN LANE, GREER TCE, HARCOURT CRES, HARVEST CT, KORONG ST, LUPUS ST, MCMILLAN CT, MERON ST, NESBIT ST, PETERSEN AVE, PINTER DR, RADFORD ST, REGATTA PDE, WILDASH ST, WINCHESTER ST, YACHT ST",
+        "SUBURBS": "SOUTHPORT",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741379102.238923"
+  "extracted": "1741379402.59223"
 }
