@@ -10997,9 +10997,87 @@
         "SUBURBS": "REDLAND BAY",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.969872,
+              -27.287213
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.968297,
+                  -27.285953
+                ],
+                [
+                  152.968382,
+                  -27.288268
+                ],
+                [
+                  152.968407,
+                  -27.288396
+                ],
+                [
+                  152.968417,
+                  -27.288423
+                ],
+                [
+                  152.968461,
+                  -27.288508
+                ],
+                [
+                  152.968722,
+                  -27.288908
+                ],
+                [
+                  152.969576,
+                  -27.288935
+                ],
+                [
+                  152.971447,
+                  -27.286484
+                ],
+                [
+                  152.971103,
+                  -27.285783
+                ],
+                [
+                  152.968875,
+                  -27.285492
+                ],
+                [
+                  152.968297,
+                  -27.285953
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830129-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "2:47PM 07 Mar 2025",
+        "EST_FIX_TIME": "6:00PM 07 Mar 2025",
+        "STREETS": "FRANCIS RD",
+        "SUBURBS": "BRAY PARK",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741322703.91369"
+  "extracted": "1741323000.366059"
 }
