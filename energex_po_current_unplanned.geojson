@@ -37310,7 +37310,7 @@
         "REASON": "Under Investigation",
         "STATUS": "Awaiting",
         "START": "2:11AM 08 Mar 2025",
-        "EST_FIX_TIME": "5:00AM 08 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 08 Mar 2025",
         "STREETS": "ATANIE CT, BATESON RD, BENSON LANE, BENSON RD, BLUE GUM CT, BREEZE PL, BRUNSWICK PL, BRUSHBOX CL, BULCOCK AVE, CHAROLAIS PL, CUMBERLAND RD, DARCY KELLY RD, DAWSON CREEK RD, DAYS RD, DELONIX PL, FERNLANDS RD, FORESTRY RD, GOAT TRK, GUILDFORD PL, HAMMERMEISTER RD, HARVEY CL, HULCOMBE RD, JALOURA CT, JARROTT RD, KADANGA CT, KAREELA DR, LAGOON CT, LIUDA CT, MACS RD, MANGIFERA CL, MANWARING RD, MCSWEENEY CRES, MESSMATE CT, MOONLIGHT AVE, MOUNTAIN VIEW CT, MT GLORIOUS RD, MT NEBO RD, NARRAWA RD, NORMAN HANSELL CT, OATLANDS CT, PARRAGILGA CL, REMINGTON PL, RICHARDS RD, RIVE CT, ROXBURGH RD, RYDER RD, SALIX CT, SHEPPARD ST, SKY DR, SMALLS RD, SMITHS RD, SPRINGFIELD CT, SPRINGLANDS PL, SUNLIGHT CT, TEATREE CL, THOMAS GRAHAM CT, TWILIGHT CL, UPPER WIGHTS MOUNTAIN RD, VICTOR RUSSELL DR, VIEW ST, WENTWORTH AVE, WESTBOURNE DR, WIGHTS MOUNTAIN RD, WINCHESTER AVE",
         "SUBURBS": "HIGHVALE, JOLLYS LOOKOUT, MOUNT NEBO, SAMFORD VALLEY, WIGHTS MOUNTAIN",
         "ETR_FLAG": "N"
@@ -37465,17 +37465,301 @@
         "EVENT_ID": "INCD-830860-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "813",
-        "REASON": "Under Investigation",
+        "REASON": "Emergency Repairs",
         "STATUS": "Awaiting",
         "START": "2:15AM 08 Mar 2025",
-        "EST_FIX_TIME": "5:00AM 08 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 08 Mar 2025",
         "STREETS": "AMSTERDAM ST, ANDALUCIA CT, ANISE ST, ARILA ST, AUCKLAND ST, BELLOT ST, CALONNE ST, CHELVA ST, COLOMBO ST, COPENHAGEN ST, CUMMIN ST, DALLIN ST, DAWSON RD, DELAVAN ST, DOWRIE ST, EFFRA ST, ELMFIELD ST, FAIR ST, GARIE ST, GILGO ST, HILARY ST, INGAL ST, KAVANAGH RD, KIANDRA CL, KINKUNA ST, MAIBRY ST, MALMROSE ST, MANDY ST, MANNETTO ST, MATINCOCK ST, MERRICK ST, MICHELLE CRES, MONTE CARLO ST, MT GRAVATT-CAPALABA RD, NEWNHAM RD, PETERGLEN ST, PINDARI CRES, PLEASANT PL, SUFFOLK ST, TUNNEY ST, VICKI PL",
         "SUBURBS": "UPPER MT GRAVATT, WISHART",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.053964,
+              -27.649465
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.036771,
+                  -27.653954
+                ],
+                [
+                  153.037093,
+                  -27.661986
+                ],
+                [
+                  153.037676,
+                  -27.662416
+                ],
+                [
+                  153.06543,
+                  -27.658635
+                ],
+                [
+                  153.065556,
+                  -27.658602
+                ],
+                [
+                  153.067663,
+                  -27.65778
+                ],
+                [
+                  153.067805,
+                  -27.657697
+                ],
+                [
+                  153.06788,
+                  -27.657634
+                ],
+                [
+                  153.067888,
+                  -27.657628
+                ],
+                [
+                  153.068019,
+                  -27.657514
+                ],
+                [
+                  153.068087,
+                  -27.657441
+                ],
+                [
+                  153.068151,
+                  -27.657356
+                ],
+                [
+                  153.068209,
+                  -27.65725
+                ],
+                [
+                  153.071149,
+                  -27.649466
+                ],
+                [
+                  153.071157,
+                  -27.6492
+                ],
+                [
+                  153.069477,
+                  -27.643914
+                ],
+                [
+                  153.069221,
+                  -27.643636
+                ],
+                [
+                  153.062075,
+                  -27.640361
+                ],
+                [
+                  153.062006,
+                  -27.640335
+                ],
+                [
+                  153.055573,
+                  -27.638393
+                ],
+                [
+                  153.055537,
+                  -27.638383
+                ],
+                [
+                  153.050491,
+                  -27.637218
+                ],
+                [
+                  153.050483,
+                  -27.637216
+                ],
+                [
+                  153.047642,
+                  -27.636605
+                ],
+                [
+                  153.047546,
+                  -27.636593
+                ],
+                [
+                  153.045573,
+                  -27.636513
+                ],
+                [
+                  153.045103,
+                  -27.636752
+                ],
+                [
+                  153.043067,
+                  -27.640164
+                ],
+                [
+                  153.043045,
+                  -27.640205
+                ],
+                [
+                  153.036809,
+                  -27.653767
+                ],
+                [
+                  153.036781,
+                  -27.653849
+                ],
+                [
+                  153.036781,
+                  -27.653849
+                ],
+                [
+                  153.036771,
+                  -27.653954
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830862-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1817",
+        "REASON": "Emergency Repairs",
+        "STATUS": "Awaiting",
+        "START": "2:18AM 08 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 08 Mar 2025",
+        "STREETS": "ACACIA ST, ACADEMY ST, AIDAN ST, BANKSIA ST, BASS CT, BEAUDESERT RD, BEGONIA ST, BENGRAY ST, BILLA CL, BLAXLAND PL, BLIGH PL, BRIDGEWATER CL, BROWNS PLAINS RD, BUCKLEY DR, BURKE CL, CALENDULA CT, CALEY CRES, CAMBORNE ST, CASSIA ST, CASTLE ST, CLAREMONT PL, CLIVIA CT, COLUMBUS CCT, CORYMBIA PL, CRAWFORD PL, DAMPIER CRES, DOULTON ST, DOVER CT, EUCA CL, EYRE PL, FERN ST, GENTIAN CL, GOWAN RD, GREENFERN DR, GREENVALE ST, GREGORY CL, HABITAT PL, HARTHOG PL, HASHIM PL, HENDERSON CRES, HOWELL PL, HUME ST, ILLAWEENA ST, INJUNE CCT, JANITA DR, KENNEDY PL, KING PL, LAPFORD CCT, LAWSON PL, LEICHHARDT PL, LEIGH ST, LENA ST, LINARIA CCT, LOGAN MWY, MACQUARIE WAY, MCMILLAN ST, MIRTHWOOD DR, MT LINDESAY HWY, MUSCARI CRES, NIGELLA CCT, OXLEY PL, PAPERBARK PL, PELSART PL, PENTAS PL, PEPPERINA PL, PLUMERIA PL, PROTEA PL, RANDWICK PL, SANDY CL, SERENA ST, SNOWDONIA ST, ST IVES CL, STOCKTON ST, STREZLECKI PL, STURT PL, SUSSEX ST, TAMARISK WAY, TASMAN PL, TRINITY WAY, TWEEDDALE CCT, VANDA CL, VINE LOOP, WATERBROOKE CCT, WEMBLEY RD, WESTCOTT ST, WILKINS PL",
+        "SUBURBS": "BERRINBA, BROWNS PLAINS, CALAMVALE, DREWVALE, KARAWATHA, PARKINSON, STRETTON",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.996672,
+              -27.505845
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.988919,
+                  -27.50105
+                ],
+                [
+                  152.988972,
+                  -27.50126
+                ],
+                [
+                  152.989023,
+                  -27.501379
+                ],
+                [
+                  152.99632,
+                  -27.513179
+                ],
+                [
+                  152.997187,
+                  -27.513208
+                ],
+                [
+                  153.002692,
+                  -27.505687
+                ],
+                [
+                  153.002708,
+                  -27.505664
+                ],
+                [
+                  153.004361,
+                  -27.50307
+                ],
+                [
+                  153.004424,
+                  -27.5028
+                ],
+                [
+                  153.004301,
+                  -27.501749
+                ],
+                [
+                  153.003952,
+                  -27.501365
+                ],
+                [
+                  152.993929,
+                  -27.49851
+                ],
+                [
+                  152.993826,
+                  -27.498491
+                ],
+                [
+                  152.99373,
+                  -27.498482
+                ],
+                [
+                  152.993581,
+                  -27.498488
+                ],
+                [
+                  152.992928,
+                  -27.498602
+                ],
+                [
+                  152.992908,
+                  -27.498606
+                ],
+                [
+                  152.992702,
+                  -27.49865
+                ],
+                [
+                  152.992554,
+                  -27.498704
+                ],
+                [
+                  152.989148,
+                  -27.500566
+                ],
+                [
+                  152.988919,
+                  -27.50105
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830863-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "386",
+        "REASON": "Under Investigation",
+        "STATUS": "Awaiting",
+        "START": "2:21AM 08 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 08 Mar 2025",
+        "STREETS": "CAMIRA ST, CARAWA ST, EIGHTH AVE, ELEVENTH AVE, HAWKEN DR, HIGHLAND TCE, HILLSIDE TCE, INDOOROOPILLY RD, JACARANDA PL, MCCAUL ST, NAPIER ST, NINTH AVE, ORCHARD TCE, RAGLAN ST, TARCOOLA ST, TENTH AVE, THE ESPLANADE",
+        "SUBURBS": "INDOOROOPILLY, ST LUCIA, TARINGA",
         "ETR_FLAG": "N"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741364103.365337"
+  "extracted": "1741364701.46404"
 }
