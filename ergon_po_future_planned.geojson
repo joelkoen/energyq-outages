@@ -427,6 +427,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.171603,
+          -23.512402
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25CA4188",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "12:00PM 07 Mar 2025",
+        "EST_FIX_TIME": "3:30PM 07 Mar 2025",
+        "STREETS": "MORSE ST",
+        "SUBURBS": "EMERALD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.096769,
           -17.160831
         ]
@@ -2093,12 +2114,12 @@
       "properties": {
         "EVENT_ID": "25SW3525",
         "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "77",
+        "CUSTOMERS_AFFECTED": "78",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
         "STATUS": "Work scheduled",
         "START": "8:30AM 09 Mar 2025",
         "EST_FIX_TIME": "2:30PM 09 Mar 2025",
-        "STREETS": "ATKINS ST, FRASER ST, GLASSON ST, HYPATIA ST, TURNER ST, WHEELER ST, WINDMILL RD, WOOD ST",
+        "STREETS": "ATKINS ST, EVANS ST, FRASER ST, GLASSON ST, HYPATIA ST, TURNER ST, WHEELER ST, WINDMILL RD, WOOD ST",
         "SUBURBS": "CHINCHILLA"
       }
     },
@@ -2420,5 +2441,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1741312808.447027"
+  "extracted": "1741313401.480095"
 }

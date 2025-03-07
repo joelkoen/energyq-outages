@@ -9898,116 +9898,6 @@
           {
             "type": "Point",
             "coordinates": [
-              153.022761,
-              -26.730608
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.011677,
-                  -26.734391
-                ],
-                [
-                  153.011702,
-                  -26.735277
-                ],
-                [
-                  153.012038,
-                  -26.735691
-                ],
-                [
-                  153.025538,
-                  -26.739958
-                ],
-                [
-                  153.025909,
-                  -26.739944
-                ],
-                [
-                  153.032865,
-                  -26.737173
-                ],
-                [
-                  153.033133,
-                  -26.736916
-                ],
-                [
-                  153.033814,
-                  -26.735251
-                ],
-                [
-                  153.033845,
-                  -26.735079
-                ],
-                [
-                  153.033339,
-                  -26.722485
-                ],
-                [
-                  153.033193,
-                  -26.722183
-                ],
-                [
-                  153.032678,
-                  -26.721719
-                ],
-                [
-                  153.032446,
-                  -26.7216
-                ],
-                [
-                  153.031012,
-                  -26.721271
-                ],
-                [
-                  153.030853,
-                  -26.721258
-                ],
-                [
-                  153.0235,
-                  -26.721707
-                ],
-                [
-                  153.023148,
-                  -26.721869
-                ],
-                [
-                  153.011794,
-                  -26.73409
-                ],
-                [
-                  153.011677,
-                  -26.734391
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-829879-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "43",
-        "REASON": "Under Investigation",
-        "STATUS": "Awaiting",
-        "START": "9:59AM 07 Mar 2025",
-        "EST_FIX_TIME": "12:00AM 08 Mar 2025",
-        "STREETS": "PALM CREEK RD, SIPPY CREEK RD, WILSON RD",
-        "SUBURBS": "ILKLEY, TANAWHA",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               153.440689,
               -28.164866
             ]
@@ -10321,7 +10211,7 @@
         "EVENT_ID": "INCD-829949-g",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "51",
-        "REASON": "Under Investigation",
+        "REASON": "Emergency Repairs",
         "STATUS": "In Progress",
         "START": "10:59AM 07 Mar 2025",
         "EST_FIX_TIME": "12:00AM 08 Mar 2025",
@@ -10520,14 +10410,108 @@
         "REASON": "Emergency Repairs",
         "STATUS": "Awaiting",
         "START": "12:01PM 07 Mar 2025",
-        "EST_FIX_TIME": "3:30PM 07 Mar 2025",
+        "EST_FIX_TIME": "12:00AM 08 Mar 2025",
         "STREETS": "GRANTHAM-WINWILL RD",
         "SUBURBS": "GRANTHAM",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.412867,
+              -27.988004
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.409938,
+                  -27.985185
+                ],
+                [
+                  153.411307,
+                  -27.991764
+                ],
+                [
+                  153.411411,
+                  -27.991965
+                ],
+                [
+                  153.412648,
+                  -27.993326
+                ],
+                [
+                  153.413066,
+                  -27.993493
+                ],
+                [
+                  153.413446,
+                  -27.993478
+                ],
+                [
+                  153.413562,
+                  -27.993461
+                ],
+                [
+                  153.415426,
+                  -27.992993
+                ],
+                [
+                  153.415796,
+                  -27.992543
+                ],
+                [
+                  153.415721,
+                  -27.990662
+                ],
+                [
+                  153.415719,
+                  -27.990633
+                ],
+                [
+                  153.414841,
+                  -27.98285
+                ],
+                [
+                  153.414061,
+                  -27.982515
+                ],
+                [
+                  153.410164,
+                  -27.984723
+                ],
+                [
+                  153.409938,
+                  -27.985185
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830010-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "131",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "12:07PM 07 Mar 2025",
+        "EST_FIX_TIME": "12:00AM 08 Mar 2025",
+        "STREETS": "DURHAM ST, FERRY RD, REGATTA PDE, SKIFF ST, YORK ST",
+        "SUBURBS": "SOUTHPORT",
         "ETR_FLAG": "N"
       }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741313100.370733"
+  "extracted": "1741313401.464464"
 }
