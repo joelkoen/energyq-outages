@@ -3070,30 +3070,14 @@
           {
             "type": "Point",
             "coordinates": [
-              153.341359,
-              -28.038347
+              153.337931,
+              -28.039589
             ]
           },
           {
             "type": "Polygon",
             "coordinates": [
               [
-                [
-                  153.331786,
-                  -28.039367
-                ],
-                [
-                  153.331882,
-                  -28.040429
-                ],
-                [
-                  153.33189,
-                  -28.040479
-                ],
-                [
-                  153.332131,
-                  -28.041581
-                ],
                 [
                   153.33239,
                   -28.041892
@@ -3111,108 +3095,48 @@
                   -28.04522
                 ],
                 [
-                  153.339956,
-                  -28.045089
+                  153.340056,
+                  -28.044937
                 ],
                 [
-                  153.34941,
-                  -28.035615
+                  153.343536,
+                  -28.035978
                 ],
                 [
-                  153.349469,
-                  -28.035543
+                  153.343562,
+                  -28.035791
                 ],
                 [
-                  153.350933,
-                  -28.033304
+                  153.343413,
+                  -28.034321
                 ],
                 [
-                  153.350838,
-                  -28.032746
+                  153.342679,
+                  -28.033957
                 ],
                 [
-                  153.350464,
-                  -28.032439
+                  153.340696,
+                  -28.034834
                 ],
                 [
-                  153.350439,
-                  -28.03242
+                  153.340604,
+                  -28.034887
                 ],
                 [
-                  153.350222,
-                  -28.032263
+                  153.339593,
+                  -28.035609
                 ],
                 [
-                  153.350113,
-                  -28.032203
+                  153.339582,
+                  -28.035618
                 ],
                 [
-                  153.349941,
-                  -28.032133
+                  153.332299,
+                  -28.041152
                 ],
                 [
-                  153.349836,
-                  -28.032102
-                ],
-                [
-                  153.349631,
-                  -28.032063
-                ],
-                [
-                  153.349604,
-                  -28.032059
-                ],
-                [
-                  153.349391,
-                  -28.032028
-                ],
-                [
-                  153.349389,
-                  -28.032028
-                ],
-                [
-                  153.348983,
-                  -28.031972
-                ],
-                [
-                  153.34542,
-                  -28.031479
-                ],
-                [
-                  153.345335,
-                  -28.031474
-                ],
-                [
-                  153.342116,
-                  -28.031514
-                ],
-                [
-                  153.342058,
-                  -28.031518
-                ],
-                [
-                  153.335306,
-                  -28.032284
-                ],
-                [
-                  153.334913,
-                  -28.032535
-                ],
-                [
-                  153.331868,
-                  -28.038107
-                ],
-                [
-                  153.331817,
-                  -28.038291
-                ],
-                [
-                  153.331784,
-                  -28.039318
-                ],
-                [
-                  153.331786,
-                  -28.039367
+                  153.33239,
+                  -28.041892
                 ]
               ]
             ]
@@ -3222,12 +3146,12 @@
       "properties": {
         "EVENT_ID": "INCD-829252-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "251",
+        "CUSTOMERS_AFFECTED": "59",
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "9:34PM 06 Mar 2025",
         "EST_FIX_TIME": "12:00AM 08 Mar 2025",
-        "STREETS": "CURRAGH CT, DORMELLO DR, LEXINGTON DR, MEADOWLAND CT, NEWHAVEN CRES, SAN FERNANDO DR, THE SPUR",
+        "STREETS": "SAN FERNANDO DR, THE SPUR",
         "SUBURBS": "WORONGARY",
         "ETR_FLAG": "N"
       }
@@ -12862,7 +12786,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "36",
         "REASON": "Under Investigation",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "4:27PM 07 Mar 2025",
         "EST_FIX_TIME": "12:00AM 08 Mar 2025",
         "STREETS": "DAVID LOW WAY",
@@ -14123,9 +14047,135 @@
         "SUBURBS": "REDLAND BAY",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.49071,
+              -28.144213
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.481464,
+                  -28.142932
+                ],
+                [
+                  153.481786,
+                  -28.144067
+                ],
+                [
+                  153.481825,
+                  -28.14416
+                ],
+                [
+                  153.488865,
+                  -28.156552
+                ],
+                [
+                  153.489091,
+                  -28.156752
+                ],
+                [
+                  153.491796,
+                  -28.15796
+                ],
+                [
+                  153.491865,
+                  -28.157985
+                ],
+                [
+                  153.499291,
+                  -28.160163
+                ],
+                [
+                  153.499956,
+                  -28.159679
+                ],
+                [
+                  153.498499,
+                  -28.14915
+                ],
+                [
+                  153.498492,
+                  -28.149112
+                ],
+                [
+                  153.498134,
+                  -28.147598
+                ],
+                [
+                  153.498108,
+                  -28.147523
+                ],
+                [
+                  153.494458,
+                  -28.139475
+                ],
+                [
+                  153.494448,
+                  -28.139454
+                ],
+                [
+                  153.490658,
+                  -28.132165
+                ],
+                [
+                  153.490579,
+                  -28.132057
+                ],
+                [
+                  153.486853,
+                  -28.128263
+                ],
+                [
+                  153.485982,
+                  -28.128427
+                ],
+                [
+                  153.484851,
+                  -28.131684
+                ],
+                [
+                  153.484846,
+                  -28.131698
+                ],
+                [
+                  153.481467,
+                  -28.142704
+                ],
+                [
+                  153.481464,
+                  -28.142932
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-830311-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2094",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "7:06PM 07 Mar 2025",
+        "EST_FIX_TIME": "12:00AM 08 Mar 2025",
+        "STREETS": "ADMIRAL CRES, ARMINA CT, AUSTRALWINK LANE, BARKER ST, BILINGA ST, BLAMEY DR, BOYD ST, CARLYLE DR, CHAMBERS LANE, COOINDA AVE, COOLANGATTA RD, COOLARA ST, DARWALLA AVE, DURRAN ST, FARRELL DR, FENTON PL, FERNLEIGH CT, FRENCH ST, GOLD COAST HWY, GOLDEN FOUR DR, HILLCREST AVE, INALA AVE, INLAND DR, IREDALE ST, IRENE ST, KANDRA AVE, KITCHENER ST, KOOMBALA ST, LYNX LANE, LYNX PL, MALPARARA ST, MARMA CT, MAUD ST, MILLERS DR, MONASH ST, MORSHEAD ST, MULBERRY PDE, MURRABA ST, NIMMEL LANE, PACIFIC HWY, PACIFIC PDE, PARTRIDGE PL, PERIWINKLE CRES, PERIWINKLE PL, PYRENE PL, REGENT ST, ROSEWATER CRES, SAN MICHELE ST, SINGH ST, STARFISH CRES, TEEMANGUM ST, TOMEWIN ST, TOOLONA ST, TRITON PDE, TUGUN ST, WADE ST, WAGAWN ST, WALSH ST, WEST WYBERBA ST, WINDERS AVE, WOODGEE ST, WYBERBA ST, YERAMBA PL",
+        "SUBURBS": "BILINGA, CURRUMBIN, TUGUN",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741338301.265679"
+  "extracted": "1741338904.389361"
 }
