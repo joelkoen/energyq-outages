@@ -8052,6 +8052,92 @@
           {
             "type": "Point",
             "coordinates": [
+              152.863368,
+              -28.076029
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.858723,
+                  -28.077185
+                ],
+                [
+                  152.865058,
+                  -28.077949
+                ],
+                [
+                  152.865456,
+                  -28.077846
+                ],
+                [
+                  152.868319,
+                  -28.075693
+                ],
+                [
+                  152.868286,
+                  -28.074981
+                ],
+                [
+                  152.867543,
+                  -28.07451
+                ],
+                [
+                  152.867278,
+                  -28.074426
+                ],
+                [
+                  152.861465,
+                  -28.074109
+                ],
+                [
+                  152.861127,
+                  -28.0742
+                ],
+                [
+                  152.859867,
+                  -28.075043
+                ],
+                [
+                  152.859798,
+                  -28.075098
+                ],
+                [
+                  152.858417,
+                  -28.076433
+                ],
+                [
+                  152.858723,
+                  -28.077185
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-829574-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "13",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "6:31AM 07 Mar 2025",
+        "EST_FIX_TIME": "5:00PM 07 Mar 2025",
+        "STREETS": "BOOMERANG DR",
+        "SUBURBS": "KOORALBYN",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.370264,
               -27.618057
             ]
@@ -10415,5 +10501,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741308600.273654"
+  "extracted": "1741308901.105546"
 }
