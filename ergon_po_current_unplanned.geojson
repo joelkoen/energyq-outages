@@ -290,7 +290,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "32",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Work delayed. Crew unable to continue.",
+        "STATUS": "Crews working on-site",
         "START": "5:25PM 08 Mar 2025",
         "EST_FIX_TIME": "5:00PM 09 Mar 2025",
         "STREETS": "BUCKLAND RD, OFF CONA CK RD, TANDERRA RD, WEALWANDANGIE RD",
@@ -2997,7 +2997,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "1461",
         "REASON": "The loss of supply is due to the operating of protective equipment. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "4:08AM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "ATHOL ST, BINGARA ST, BUENA VISTA CRES, CASSIDY TCE, CHURINGA ST, COONAN ST, COSTELLO ST, DODSON CRES, DOYLE ST, DWYER ST, ENFIELD CT, FLYNN ST, GARVEY ST, GILMOUR CT, GLEESON CRES, GOOMBUNGEE RD, GRANDVIEW CRES, GREGORY ST, GRIFFITHS ST, HENRY ST, HILLSDALE CRES, HILLTOP CRES, KATE ST, KEIRA CT, KELLY ST, LEMNOS ST, MABEL ST, MARTINI ST, MCCOWAGE ST, MCSHANE DR, MESSINES ST, MOLE ST, MOONEY ST, MUIR ST, MUNRO ST, MURPHYS CREEK RD, MYALL ST, NEW ENGLAND HWY, NORTHPOINT AVE, O'BRIEN ST, OLD GOOMBUNGEE RD, OUTLOOK CRES, PARROT ST, PASCOE LANE, PEACE ST, PERRY ST, PRINCE ST, RANGEVIEW RD, ROSEWALL CT, RUTHVEN ST, SCENIC CRES, SHUTTLEWOOD CT, SIRRON ST, SKYLINE DR, SMITH LANE, STUART ST, TALINGA ST, TROY ST, WALSH ST, WATTLE ST, WEALE ST, WESTVIEW DR",
@@ -4206,7 +4206,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "908",
         "REASON": "The loss of supply is due to fallen power lines.  ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "6:37AM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "ABELIA ST, ADAM ST, ALFRED ST, AMOS CRES, ANDREWS ST, ASHGROVE TCE, ATHOL ST, BECK ST, BENJAMIN ST, CHILCOTE ST, ELWORTHY ST, ESTHER ST, EUGENIA ST, GLENDOWER ST, HUME ST, IRVING CT, JELLICOE ST, KOOMBARRA ST, MARGOT CT, MARTINI ST, MARY ST, MUIR ST, MURRAY ST, NORTH ST, OWEN ST, PATRICIA ST, PETER ST, PROSPECT ST, RALPH ST, RANGE ST, REGINALD ST, RIFLE RANGE RD, RODERIC CT, ROSS ST, RUTHVEN ST, SOURRIS ST, SPIEKER ST, SPIES CT, STEINMULLER CT, STUART ST, TALINGA ST, URE ST, VENTURE ST, VIDEO AVE, WARANA AVE, WOLSELEY ST, WONGA ST, WYNDHAM ST, YEATES ST",
@@ -5050,9 +5050,150 @@
         "STREETS": "ESPLANADE, FRANK ST, FRESHWATER ST, GOSSNER ST, MCKEAN RD, QUEENS RD, SCARBOROUGH ST, TORQUAY RD, TORQUAY TCE, TOTNESS ST",
         "SUBURBS": "SCARNESS, TORQUAY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.840697,
+              -25.28146
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.835989,
+                  -25.279874
+                ],
+                [
+                  152.836106,
+                  -25.280573
+                ],
+                [
+                  152.836136,
+                  -25.280673
+                ],
+                [
+                  152.836522,
+                  -25.281549
+                ],
+                [
+                  152.836719,
+                  -25.281763
+                ],
+                [
+                  152.840964,
+                  -25.284175
+                ],
+                [
+                  152.841177,
+                  -25.284241
+                ],
+                [
+                  152.84256,
+                  -25.284365
+                ],
+                [
+                  152.842789,
+                  -25.284337
+                ],
+                [
+                  152.844969,
+                  -25.283559
+                ],
+                [
+                  152.845281,
+                  -25.28318
+                ],
+                [
+                  152.84541,
+                  -25.281843
+                ],
+                [
+                  152.845219,
+                  -25.281447
+                ],
+                [
+                  152.841924,
+                  -25.279143
+                ],
+                [
+                  152.841761,
+                  -25.279068
+                ],
+                [
+                  152.839879,
+                  -25.278572
+                ],
+                [
+                  152.83974,
+                  -25.278554
+                ],
+                [
+                  152.837142,
+                  -25.278562
+                ],
+                [
+                  152.836914,
+                  -25.278612
+                ],
+                [
+                  152.836607,
+                  -25.278759
+                ],
+                [
+                  152.836444,
+                  -25.278882
+                ],
+                [
+                  152.83618,
+                  -25.279191
+                ],
+                [
+                  152.836103,
+                  -25.279323
+                ],
+                [
+                  152.83601,
+                  -25.279573
+                ],
+                [
+                  152.835984,
+                  -25.279717
+                ],
+                [
+                  152.835983,
+                  -25.279807
+                ],
+                [
+                  152.835989,
+                  -25.279874
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25WB3571",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "351",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "9:09AM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BRYANT ST, CHARLES ST, CHARLTON ESP, ESPLANADE, HILLYARD ST, HUNTER ST, MAIN ST, OLD MARYBOROUGH RD, PETERS LANE, TAYLOR ST, TORQUAY RD, WATSON ST",
+        "SUBURBS": "PIALBA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741475100.455664"
+  "extracted": "1741475705.042564"
 }
