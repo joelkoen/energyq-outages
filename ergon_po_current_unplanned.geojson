@@ -709,6 +709,139 @@
           {
             "type": "Point",
             "coordinates": [
+              145.869046,
+              -17.573541
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.797757,
+                  -17.613212
+                ],
+                [
+                  145.805093,
+                  -17.622784
+                ],
+                [
+                  145.805292,
+                  -17.622933
+                ],
+                [
+                  145.812798,
+                  -17.625926
+                ],
+                [
+                  145.812873,
+                  -17.625949
+                ],
+                [
+                  145.818067,
+                  -17.627099
+                ],
+                [
+                  145.818242,
+                  -17.627106
+                ],
+                [
+                  145.8334,
+                  -17.624977
+                ],
+                [
+                  145.833526,
+                  -17.624942
+                ],
+                [
+                  145.934786,
+                  -17.580854
+                ],
+                [
+                  145.935037,
+                  -17.580588
+                ],
+                [
+                  145.940369,
+                  -17.565534
+                ],
+                [
+                  145.940354,
+                  -17.565206
+                ],
+                [
+                  145.936123,
+                  -17.556025
+                ],
+                [
+                  145.936102,
+                  -17.555985
+                ],
+                [
+                  145.915755,
+                  -17.521516
+                ],
+                [
+                  145.915448,
+                  -17.521298
+                ],
+                [
+                  145.913054,
+                  -17.520783
+                ],
+                [
+                  145.913015,
+                  -17.520776
+                ],
+                [
+                  145.906992,
+                  -17.519977
+                ],
+                [
+                  145.906845,
+                  -17.51998
+                ],
+                [
+                  145.844111,
+                  -17.530628
+                ],
+                [
+                  145.843778,
+                  -17.530859
+                ],
+                [
+                  145.797722,
+                  -17.612729
+                ],
+                [
+                  145.797757,
+                  -17.613212
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25FN3191",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "262",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "4:56PM 08 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BAULD RD, BERTEI RD, BORA GROUND RD, COOROO LANDS RD, COSTIGAN RD, DUNNE RD, FISHERS CREEK RD, GATTERA RD, GREGORY FALLS RD, JANKE RD, KALBO RD, KAY RD, LOUDON RD, MARUFF RD, NERADA RD, OLD PALMERSTON HWY, PALMERSTON HWY, PATRICK RD, PLANTATION RD, PULLOM RD, QUONDONG RD, RAINFOREST FALLS RD, RANKINE RD, ROGERS RD, SPRY RD, UTCHEE CREEK RD, WALTON RD",
+        "SUBURBS": "COORUMBA, EAST PALMERSTON, NERADA, PIN GIN HILL, UPPER DARADGEE, UTCHEE CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.699115,
               -21.128222
             ]
@@ -1323,5 +1456,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741423506.929652"
+  "extracted": "1741423801.367494"
 }
