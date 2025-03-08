@@ -1287,9 +1287,78 @@
         "STREETS": "ATKINSON RD, BLUE HILL, BOOYAL CROSSING RD, BURNETT VALE LANE, CAMP PADDOCK RD, CAUSEWAY RD, EDDINGTONS RD, GARNHAM MONUMENT RD, GOODNIGHT SCRUB RD, GUMFLATS RD, HOFFSTETTER RD, HOLEZHEIMER RD, IRON BARK RD, LAGOONS RD, MINGO RD, NIELSONS RD, OLD GAYNDAH RD, PERRY RIVER FARMS RD, ROUND HILL RD, ST AGNES RD, STEVENS RD, TENNINGERING RD, WALLA RD",
         "SUBURBS": "GOOD NIGHT, MORGANVILLE, WALLAVILLE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.223445,
+              -25.23534
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.223217,
+                  -25.23697
+                ],
+                [
+                  152.223262,
+                  -25.236948
+                ],
+                [
+                  152.223498,
+                  -25.236693
+                ],
+                [
+                  152.224375,
+                  -25.234278
+                ],
+                [
+                  152.224063,
+                  -25.233711
+                ],
+                [
+                  152.223437,
+                  -25.233991
+                ],
+                [
+                  152.222515,
+                  -25.236428
+                ],
+                [
+                  152.222663,
+                  -25.236917
+                ],
+                [
+                  152.223217,
+                  -25.23697
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25WB3552",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:20PM 08 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BUNNS RD",
+        "SUBURBS": "APPLE TREE CREEK"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741422301.194579"
+  "extracted": "1741422605.967569"
 }
