@@ -273,6 +273,83 @@
           {
             "type": "Point",
             "coordinates": [
+              150.464753,
+              -23.257609
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.463128,
+                  -23.256201
+                ],
+                [
+                  150.463303,
+                  -23.260041
+                ],
+                [
+                  150.46364,
+                  -23.260451
+                ],
+                [
+                  150.465737,
+                  -23.261078
+                ],
+                [
+                  150.466375,
+                  -23.260649
+                ],
+                [
+                  150.466378,
+                  -23.254664
+                ],
+                [
+                  150.46591,
+                  -23.254213
+                ],
+                [
+                  150.463994,
+                  -23.254139
+                ],
+                [
+                  150.463496,
+                  -23.254498
+                ],
+                [
+                  150.463138,
+                  -23.25609
+                ],
+                [
+                  150.463128,
+                  -23.256201
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25CA4713",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "5:19PM 08 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "FONS DR, GLENDALE RD",
+        "SUBURBS": "GLENDALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.718172,
               -16.880081
             ]
@@ -1154,5 +1231,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741419006.902789"
+  "extracted": "1741419301.508262"
 }
