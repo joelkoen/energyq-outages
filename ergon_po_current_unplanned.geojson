@@ -467,6 +467,87 @@
           {
             "type": "Point",
             "coordinates": [
+              151.225116,
+              -23.961775
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.222295,
+                  -23.962674
+                ],
+                [
+                  151.227952,
+                  -23.962571
+                ],
+                [
+                  151.228413,
+                  -23.962245
+                ],
+                [
+                  151.22821,
+                  -23.961743
+                ],
+                [
+                  151.228053,
+                  -23.961649
+                ],
+                [
+                  151.227862,
+                  -23.961582
+                ],
+                [
+                  151.223019,
+                  -23.960877
+                ],
+                [
+                  151.222732,
+                  -23.960915
+                ],
+                [
+                  151.222325,
+                  -23.961093
+                ],
+                [
+                  151.222069,
+                  -23.961363
+                ],
+                [
+                  151.221818,
+                  -23.962087
+                ],
+                [
+                  151.222295,
+                  -23.962674
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25CA4715",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:05PM 08 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "CHAMBERLAIN RD",
+        "SUBURBS": "BURUA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.718172,
               -16.880081
             ]
@@ -1263,5 +1344,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741421401.246711"
+  "extracted": "1741421707.574415"
 }
