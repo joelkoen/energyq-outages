@@ -1033,6 +1033,139 @@
           {
             "type": "Point",
             "coordinates": [
+              151.932722,
+              -27.591592
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.922668,
+                  -27.595318
+                ],
+                [
+                  151.923576,
+                  -27.597073
+                ],
+                [
+                  151.923639,
+                  -27.597163
+                ],
+                [
+                  151.924862,
+                  -27.598541
+                ],
+                [
+                  151.924919,
+                  -27.598595
+                ],
+                [
+                  151.92509,
+                  -27.598733
+                ],
+                [
+                  151.925318,
+                  -27.598838
+                ],
+                [
+                  151.93496,
+                  -27.600764
+                ],
+                [
+                  151.935537,
+                  -27.600498
+                ],
+                [
+                  151.940491,
+                  -27.589898
+                ],
+                [
+                  151.940504,
+                  -27.589866
+                ],
+                [
+                  151.942249,
+                  -27.585164
+                ],
+                [
+                  151.942251,
+                  -27.585158
+                ],
+                [
+                  151.942775,
+                  -27.583676
+                ],
+                [
+                  151.94246,
+                  -27.583116
+                ],
+                [
+                  151.94082,
+                  -27.582604
+                ],
+                [
+                  151.940739,
+                  -27.582586
+                ],
+                [
+                  151.940424,
+                  -27.582537
+                ],
+                [
+                  151.940348,
+                  -27.582531
+                ],
+                [
+                  151.934183,
+                  -27.582419
+                ],
+                [
+                  151.93384,
+                  -27.58253
+                ],
+                [
+                  151.932381,
+                  -27.583667
+                ],
+                [
+                  151.932313,
+                  -27.583732
+                ],
+                [
+                  151.922726,
+                  -27.594856
+                ],
+                [
+                  151.922668,
+                  -27.595318
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25SW4334",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1042",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "10:05PM 08 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "ALAYNE CT, ALDERLEY ST, BEH ST, BROCK CT, BUNYA ST, CHARNLEY ST, CORRIEDALE CRES, CORTESS ST, CROSBY ST, DALZELL CRES, DRAYTON RD, DYLAN CT, DYSON DR, EISER ST, ELLA CT, FINDLEY CT, GAIL CT, GERDA CT, GORMAN ST, HOEY ST, HONEY ST, JADE CL, JENNIFER CRES, JILLIAN ST, KAREBO CL, KAURI ST, KAYSER CT, KROG CT, LAVARACK ST, LEWIS CL, LEWIS ST, MERRITT ST, NOLL ST, PARADISE ST, PLATZ ST, QUINLAN CT, RACHEL ST, ROBINDALE DR, SALISBURY ST, SHARON CT, SKOIEN ST, STENNER ST, TIFFANY ST, WARE CT, WEST ST, WUTH ST, ZIMMERLE ST",
+        "SUBURBS": "DARLING HEIGHTS, HARRISTOWN, KEARNEYS SPRING, SOUTH TOOWOOMBA, TOOWOOMBA, TORRINGTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.940204,
               -25.208555
             ]
@@ -1137,5 +1270,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741435801.458927"
+  "extracted": "1741436104.714284"
 }
