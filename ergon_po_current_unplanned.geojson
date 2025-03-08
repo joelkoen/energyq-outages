@@ -290,9 +290,9 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "32",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
+        "STATUS": "Work delayed. Crew unable to continue.",
         "START": "5:25PM 08 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
+        "EST_FIX_TIME": "5:00PM 09 Mar 2025",
         "STREETS": "BUCKLAND RD, OFF CONA CK RD, TANDERRA RD, WEALWANDANGIE RD",
         "SUBURBS": "SPRINGSURE"
       }
@@ -504,7 +504,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "96",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "9:12PM 08 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "CRAIGMOOR CT, EMMADALE DR, HUNTINGTON CT, ROTHBURY PL, SAXONVALE CT, WILLESPIE PL",
@@ -892,6 +892,147 @@
           {
             "type": "Point",
             "coordinates": [
+              151.939264,
+              -27.551577
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.926649,
+                  -27.556192
+                ],
+                [
+                  151.934115,
+                  -27.560685
+                ],
+                [
+                  151.934248,
+                  -27.560742
+                ],
+                [
+                  151.934623,
+                  -27.560846
+                ],
+                [
+                  151.934828,
+                  -27.560863
+                ],
+                [
+                  151.950379,
+                  -27.559348
+                ],
+                [
+                  151.950762,
+                  -27.559125
+                ],
+                [
+                  151.952006,
+                  -27.557201
+                ],
+                [
+                  151.952071,
+                  -27.556933
+                ],
+                [
+                  151.951856,
+                  -27.554938
+                ],
+                [
+                  151.951804,
+                  -27.554778
+                ],
+                [
+                  151.946029,
+                  -27.544578
+                ],
+                [
+                  151.94596,
+                  -27.544486
+                ],
+                [
+                  151.943962,
+                  -27.542431
+                ],
+                [
+                  151.943456,
+                  -27.54229
+                ],
+                [
+                  151.939669,
+                  -27.543152
+                ],
+                [
+                  151.939521,
+                  -27.543209
+                ],
+                [
+                  151.937662,
+                  -27.544274
+                ],
+                [
+                  151.937568,
+                  -27.544343
+                ],
+                [
+                  151.928157,
+                  -27.55323
+                ],
+                [
+                  151.928112,
+                  -27.553278
+                ],
+                [
+                  151.927434,
+                  -27.554129
+                ],
+                [
+                  151.927431,
+                  -27.554133
+                ],
+                [
+                  151.926745,
+                  -27.555013
+                ],
+                [
+                  151.926686,
+                  -27.555114
+                ],
+                [
+                  151.926458,
+                  -27.555662
+                ],
+                [
+                  151.926649,
+                  -27.556192
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25SW4331",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1857",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:40PM 08 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "ALBERT LANE, ALBERT ST, ANZAC AVE, AVONDALE ST, BIRDWOOD ST, BOTHWELL ST, BOULTON TCE, BRIDGE ST, CAMPBELL ST, CAY ST, CHARLES ST, CHARLOTTE ST, CLAIRMONT ST, DODD ST, DONCASTER ST, DRAYTON RD, DUNSTER LANE, FINCHLEY ST, FLORA ST, GAYDON ST, GLADSTONE ST, GORDON AVE, GOWRIE ST, HAMILTON ST, HAMWOOD ST, HENDERSON ST, HILL ST, HOLBERTON ST, JELLICOE ST, JENKINS ST, KIRKLEES ST, MCCARTHY ST, MILL ST, MONASH ST, MORT ST, NORTHLAND ST, NORWOOD ST, PRICE LANE, RAILWAY ST, RANFURLY ST, ROME ST, ROYAL ST, RUSSELL ST, SNELL ST, TAYLOR ST, TEESDALE AVE, TOR ST, TOZER ST, WALLACE ST, WARATAH ST, WARRA ST, WEETWOOD ST, WEST ST, WHICHELLO ST, WISTERIA CT",
+        "SUBURBS": "HARRISTOWN, NEWTOWN, TOOWOOMBA, TOOWOOMBA CITY, WILSONTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.940204,
               -25.208555
             ]
@@ -992,9 +1133,94 @@
         "STREETS": "ATKINSON RD, BLUE HILL, BOOYAL CROSSING RD, BURNETT VALE LANE, CAMP PADDOCK RD, CAUSEWAY RD, EDDINGTONS RD, GARNHAM MONUMENT RD, GOODNIGHT SCRUB RD, GUMFLATS RD, HOFFSTETTER RD, HOLEZHEIMER RD, IRON BARK RD, LAGOONS RD, MINGO RD, NIELSONS RD, OLD GAYNDAH RD, PERRY RIVER FARMS RD, ROUND HILL RD, ST AGNES RD, STEVENS RD, TENNINGERING RD, WALLA RD",
         "SUBURBS": "GOOD NIGHT, MORGANVILLE, WALLAVILLE"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.159709,
+              -25.116031
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.118375,
+                  -25.126812
+                ],
+                [
+                  152.201151,
+                  -25.145407
+                ],
+                [
+                  152.201718,
+                  -25.144781
+                ],
+                [
+                  152.20014,
+                  -25.141683
+                ],
+                [
+                  152.200094,
+                  -25.141611
+                ],
+                [
+                  152.164973,
+                  -25.096803
+                ],
+                [
+                  152.16472,
+                  -25.096635
+                ],
+                [
+                  152.130186,
+                  -25.086655
+                ],
+                [
+                  152.129569,
+                  -25.086938
+                ],
+                [
+                  152.117726,
+                  -25.1183
+                ],
+                [
+                  152.1177,
+                  -25.118462
+                ],
+                [
+                  152.117999,
+                  -25.126391
+                ],
+                [
+                  152.118375,
+                  -25.126812
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25WB3555",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "40",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:02PM 08 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "KIRK DORRIAN RD, PHILLIPS RD, PROMISEDLAND RD, SVENSSONS RD",
+        "SUBURBS": "BOOYAL, CORDALBA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741432801.361527"
+  "extracted": "1741435501.331662"
 }
