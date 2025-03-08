@@ -726,6 +726,91 @@
           {
             "type": "Point",
             "coordinates": [
+              151.427395,
+              -27.638459
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.396171,
+                  -27.622427
+                ],
+                [
+                  151.406342,
+                  -27.67394
+                ],
+                [
+                  151.406719,
+                  -27.674299
+                ],
+                [
+                  151.445892,
+                  -27.682889
+                ],
+                [
+                  151.446393,
+                  -27.68275
+                ],
+                [
+                  151.455299,
+                  -27.673749
+                ],
+                [
+                  151.455424,
+                  -27.673478
+                ],
+                [
+                  151.458619,
+                  -27.625282
+                ],
+                [
+                  151.458554,
+                  -27.625033
+                ],
+                [
+                  151.438836,
+                  -27.594166
+                ],
+                [
+                  151.438093,
+                  -27.594029
+                ],
+                [
+                  151.396365,
+                  -27.621989
+                ],
+                [
+                  151.396171,
+                  -27.622427
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25SW4307",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "24",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:00AM 08 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 08 Mar 2025",
+        "STREETS": "BONGEEN RD, DOOLEY RD, GRUHLS RD, KEELEY RD, OLES RD, PITTSWORTH-NORWIN RD, ST HELENS RD",
+        "SUBURBS": "BONGEEN, BROOKSTEAD, NORWIN, PITTSWORTH, ST HELENS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.223563,
               -28.246886
             ]
@@ -814,5 +899,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741393804.97108"
+  "extracted": "1741394100.30313"
 }
