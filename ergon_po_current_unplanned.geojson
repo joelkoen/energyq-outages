@@ -3522,6 +3522,91 @@
           {
             "type": "Point",
             "coordinates": [
+              151.907637,
+              -27.563957
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.905068,
+                  -27.563076
+                ],
+                [
+                  151.905086,
+                  -27.563194
+                ],
+                [
+                  151.905094,
+                  -27.563234
+                ],
+                [
+                  151.906,
+                  -27.566747
+                ],
+                [
+                  151.906001,
+                  -27.566752
+                ],
+                [
+                  151.906274,
+                  -27.567756
+                ],
+                [
+                  151.907182,
+                  -27.567903
+                ],
+                [
+                  151.910177,
+                  -27.563989
+                ],
+                [
+                  151.910206,
+                  -27.563524
+                ],
+                [
+                  151.90814,
+                  -27.560056
+                ],
+                [
+                  151.907278,
+                  -27.560012
+                ],
+                [
+                  151.905152,
+                  -27.56276
+                ],
+                [
+                  151.905068,
+                  -27.563076
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25SW4372",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:34AM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "GLENVALE RD, MCDOUGALL ST, NASH DR, TWILIGHT ST",
+        "SUBURBS": "GLENVALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.96676,
               -25.193926
             ]
@@ -3578,5 +3663,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741453502.219234"
+  "extracted": "1741453802.895808"
 }
