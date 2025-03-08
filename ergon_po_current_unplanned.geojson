@@ -382,6 +382,131 @@
           {
             "type": "Point",
             "coordinates": [
+              145.696063,
+              -16.78659
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.6889,
+                  -16.789422
+                ],
+                [
+                  145.690047,
+                  -16.791391
+                ],
+                [
+                  145.690305,
+                  -16.791598
+                ],
+                [
+                  145.69451,
+                  -16.792971
+                ],
+                [
+                  145.694756,
+                  -16.792985
+                ],
+                [
+                  145.702947,
+                  -16.791348
+                ],
+                [
+                  145.703278,
+                  -16.790716
+                ],
+                [
+                  145.703112,
+                  -16.790371
+                ],
+                [
+                  145.703101,
+                  -16.790349
+                ],
+                [
+                  145.697939,
+                  -16.780991
+                ],
+                [
+                  145.697718,
+                  -16.780792
+                ],
+                [
+                  145.697042,
+                  -16.780497
+                ],
+                [
+                  145.696907,
+                  -16.780461
+                ],
+                [
+                  145.694721,
+                  -16.780196
+                ],
+                [
+                  145.694624,
+                  -16.780194
+                ],
+                [
+                  145.694171,
+                  -16.78023
+                ],
+                [
+                  145.693893,
+                  -16.780347
+                ],
+                [
+                  145.692561,
+                  -16.781522
+                ],
+                [
+                  145.692461,
+                  -16.781647
+                ],
+                [
+                  145.689122,
+                  -16.787849
+                ],
+                [
+                  145.689078,
+                  -16.787971
+                ],
+                [
+                  145.688848,
+                  -16.789115
+                ],
+                [
+                  145.6889,
+                  -16.789422
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25FN3185",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1713",
+        "REASON": "The loss of supply is due to public safety concerns.",
+        "STATUS": "Crews working on-site",
+        "START": "2:10PM 08 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "ANDERSON ST, BLUE WATER LANE, BLUEWATER LANE, BOROKO CL, BUKA ST, CONCH CL, CONICAL CL, CONNEMARA CL, CORINDA CL, JAMIESON ST, JUSTINE CL, KATANDRA CL, KEEM ST, LAE ST, LAGOON DR, MARARNA ST, MOORE ST, MORESBY ST, PEACOCK ST, PERIWINKLE AVE, PETERSEN ST, POSSUM ST, RABAUL ST, REDMAN ST, STROMBUS AVE, TALASEA ST, TRINIDAD CL, TRINITY BEACH RD, VASEY ESP, VOLUTE CL, WILMA ST",
+        "SUBURBS": "TRINITY BEACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.699115,
               -21.128222
             ]
@@ -786,5 +911,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741407001.127229"
+  "extracted": "1741407305.26592"
 }
