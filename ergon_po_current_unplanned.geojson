@@ -4349,8 +4349,149 @@
           {
             "type": "Point",
             "coordinates": [
+              151.970279,
+              -27.545864
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.960534,
+                  -27.547885
+                ],
+                [
+                  151.9607,
+                  -27.548337
+                ],
+                [
+                  151.96071,
+                  -27.548362
+                ],
+                [
+                  151.962442,
+                  -27.552287
+                ],
+                [
+                  151.962443,
+                  -27.552289
+                ],
+                [
+                  151.962685,
+                  -27.552827
+                ],
+                [
+                  151.963058,
+                  -27.553102
+                ],
+                [
+                  151.963539,
+                  -27.553185
+                ],
+                [
+                  151.963559,
+                  -27.553188
+                ],
+                [
+                  151.974451,
+                  -27.554666
+                ],
+                [
+                  151.974774,
+                  -27.554614
+                ],
+                [
+                  151.975208,
+                  -27.554397
+                ],
+                [
+                  151.975432,
+                  -27.554165
+                ],
+                [
+                  151.976374,
+                  -27.551976
+                ],
+                [
+                  151.976377,
+                  -27.55197
+                ],
+                [
+                  151.979995,
+                  -27.54315
+                ],
+                [
+                  151.980025,
+                  -27.542964
+                ],
+                [
+                  151.979761,
+                  -27.539665
+                ],
+                [
+                  151.979653,
+                  -27.539417
+                ],
+                [
+                  151.97887,
+                  -27.538539
+                ],
+                [
+                  151.978705,
+                  -27.538419
+                ],
+                [
+                  151.975747,
+                  -27.537061
+                ],
+                [
+                  151.975203,
+                  -27.537108
+                ],
+                [
+                  151.961102,
+                  -27.547041
+                ],
+                [
+                  151.961062,
+                  -27.547073
+                ],
+                [
+                  151.960661,
+                  -27.547424
+                ],
+                [
+                  151.960534,
+                  -27.547885
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25SW4391",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "799",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
+        "STATUS": "Outage reported",
+        "START": "8:15AM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "ALFORD ST, ALLINGA ST, BALMORAL CL, BEATTY ST, BRIDGE ST, BRODIE ST, CHATSWOOD CL, COLLINS ST, COVENTRY CT, CURZON ST, DALSTON CT, FERGUSON ST, GENTLE ST, GEOFFREY ST, GLENDOWER ST, GRASMERE CT, HARVEY ST, HUNTINGDALE CT, JELLICOE ST, KNIGHT ST, KOOROONGAH ST, LOCHEL ST, MACKENZIE ST, MARTINDALE CT, MARY ST, MOLONEY ST, NEW ST, PICCADILLY CT, RANGE ST, RANNERDALE CL, RHYDE ST, SHERWOOD ST, SIDNEY ST, ST IVES CT, ST PETERS CL, STONEHAVEN ST, STUART ST, WARANA AVE, WENDY CT, WINDEMERE TCE, WONDERLEY ST, WOOLDRIDGE ST",
+        "SUBURBS": "EAST TOOWOOMBA, MOUNT LOFTY, NORTH TOOWOOMBA, TOOWOOMBA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.940204,
-              -25.220152
+              -25.208555
             ]
           },
           {
@@ -4382,36 +4523,44 @@
                   -25.245261
                 ],
                 [
-                  151.992056,
-                  -25.245085
+                  151.992078,
+                  -25.245171
                 ],
                 [
-                  151.96494,
-                  -25.173078
+                  151.980466,
+                  -25.165919
                 ],
                 [
-                  151.964714,
-                  -25.172832
+                  151.980452,
+                  -25.165859
                 ],
                 [
-                  151.961339,
-                  -25.17111
+                  151.979386,
+                  -25.162327
                 ],
                 [
-                  151.961245,
-                  -25.171073
+                  151.979377,
+                  -25.1623
                 ],
                 [
-                  151.917882,
-                  -25.15868
+                  151.971344,
+                  -25.141073
                 ],
                 [
-                  151.917857,
-                  -25.158673
+                  151.971264,
+                  -25.14094
                 ],
                 [
-                  151.896501,
-                  -25.153691
+                  151.96227,
+                  -25.130637
+                ],
+                [
+                  151.961704,
+                  -25.130498
+                ],
+                [
+                  151.896199,
+                  -25.153708
                 ],
                 [
                   151.895903,
@@ -4433,13 +4582,13 @@
       "properties": {
         "EVENT_ID": "25WB3556",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "96",
+        "CUSTOMERS_AFFECTED": "108",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Crews working on-site",
         "START": "1:23AM 09 Mar 2025",
         "EST_FIX_TIME": "12:00PM 09 Mar 2025",
-        "STREETS": "ATKINSON RD, BLUE HILL, BOOYAL CROSSING RD, BURNETT VALE LANE, CAMP PADDOCK RD, CAUSEWAY RD, GARNHAM MONUMENT RD, GOODNIGHT SCRUB RD, GUMFLATS RD, HOFFSTETTER RD, IRON BARK RD, LAGOONS RD, MINGO RD, NIELSONS RD, OLD GAYNDAH RD, PERRY RIVER FARMS RD, ROUND HILL RD, TENNINGERING RD, WALLA RD",
-        "SUBURBS": "GOOD NIGHT, MORGANVILLE"
+        "STREETS": "ATKINSON RD, BLUE HILL, BOOYAL CROSSING RD, BURNETT VALE LANE, CAMP PADDOCK RD, CAUSEWAY RD, EDDINGTONS RD, GARNHAM MONUMENT RD, GOODNIGHT SCRUB RD, GUMFLATS RD, HOFFSTETTER RD, HOLEZHEIMER RD, IRON BARK RD, LAGOONS RD, MINGO RD, NIELSONS RD, OLD GAYNDAH RD, PERRY RIVER FARMS RD, ROUND HILL RD, ST AGNES RD, STEVENS RD, TENNINGERING RD, WALLA RD",
+        "SUBURBS": "GOOD NIGHT, MORGANVILLE, WALLAVILLE"
       }
     },
     {
@@ -4723,9 +4872,134 @@
         "STREETS": "ACACIA ST, ANCHORAGE CCT, APLIN ST, AQUALINE DR, ARCHER DR, ARWON CL, AUSTIN CT, BANKSIA ST, BARKER ST, BAYSIDE CL, BELL ST, BELLENI CT, BERNA CT, BLARNEY DR, BRIGHTON ST, BRONTON WAY, BURTON CT, BUTCHERBIRD CL, CAMERON CT, CAPRI CT, CARLTON ST, CARMEL CT, CHANAK CL, CHARLEVILLE ST, CHARLTON ESP, CLIPPER ST, CLIVEDEN AVE, COAST BAY CL, CORFIELD ST, CORSER ST, CUMBERLAND CT, DELTA WAY, DIAMOND CT, DORY DR, DOUGAN ST, DUGONG AVE, EARLS CT, EATON ST, EDDIE CT, EDEN WAY, ESPLANADE, FLINDERS ST, GABRIEL WAY, GALATEA ST, GALWAY CT, GATAKERS LANE, GENOA CT, GIRRAWEEN WAY, GLEN CT, GOODWIN AVE, GRANADA CT, GUNSYND WAY, HALCRO ST, HARSELAAR DR, HAYNES ST, HAYWORTH ST, HELSHAM ST, HYPERNO RD, IBIS BVD, INMAN ST, JACKLIN CL, JANNIK TCE, JAY ST, JENNY CT, JOSELYN DR, KATANDRA ST, KEHLET ST, KELLY ST, KENNY WAY, KENSI CT, KINGSTON CT, KIRTON RD, KIWI CT, KURRAJONG CRES, LAMBOUR CT, LARS WAY, LEAWARD BVD, LONG ST, LYONS ST, MAINSAIL CT, MALCOLM CT, MANFRED WAY, MANT ST, MARR ST, MARTIN ST, MARYANNE CT, MAUREEN CT, MAXWELL ST, MAYFAIR ST, MICHELLE DR, MONTROSE CL, MORETON ST, MURPHY ST, NORTH ST, OCEAN BLUE BVD, OCEANVIEW ST, OLAF RD, PALERA CT, PARADISE ST, PARRAWEENA CT, PATANAVA LANE, PATRICK ST, PAUL DR, PENNANT DR, PEREGRINE AVE, PHARLAP CT, PIPIT ST, POLSON ST, PORTER ST, PRESTON ST, RACHAEL ST, RANKIN ST, SANCTUARY POINT CL, SAUNDERS ST, SEABREEZE LANE, SEAGULL CCT, SEAGULL CRES, SEAHAVEN CCT, SEALINK DR, SHARYN CT, SONGLARK CT, SOUTHWIND CT, SPENCE ST, SPINNAKER DR, TOOTH ST, TRILLER ST, VENICE CT, VICTORIA ST, WARREGO DR, WATTLE ST, WHITE ST, WODALLA MEWS, WOODSWALLOW AVE, YACHT CL",
         "SUBURBS": "ELI WATERS, PIALBA, POINT VERNON, SCARNESS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.856612,
+              -25.28519
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.852047,
+                  -25.285631
+                ],
+                [
+                  152.852051,
+                  -25.285707
+                ],
+                [
+                  152.852171,
+                  -25.285981
+                ],
+                [
+                  152.852772,
+                  -25.286612
+                ],
+                [
+                  152.852995,
+                  -25.286746
+                ],
+                [
+                  152.8579,
+                  -25.288172
+                ],
+                [
+                  152.858011,
+                  -25.288192
+                ],
+                [
+                  152.860154,
+                  -25.288347
+                ],
+                [
+                  152.860681,
+                  -25.287975
+                ],
+                [
+                  152.861177,
+                  -25.285363
+                ],
+                [
+                  152.86105,
+                  -25.284979
+                ],
+                [
+                  152.860849,
+                  -25.284784
+                ],
+                [
+                  152.86072,
+                  -25.284694
+                ],
+                [
+                  152.85853,
+                  -25.283637
+                ],
+                [
+                  152.858482,
+                  -25.283617
+                ],
+                [
+                  152.854118,
+                  -25.282032
+                ],
+                [
+                  152.853538,
+                  -25.282181
+                ],
+                [
+                  152.852706,
+                  -25.283197
+                ],
+                [
+                  152.852628,
+                  -25.28334
+                ],
+                [
+                  152.85215,
+                  -25.284831
+                ],
+                [
+                  152.852134,
+                  -25.284905
+                ],
+                [
+                  152.85205,
+                  -25.285558
+                ],
+                [
+                  152.852047,
+                  -25.285631
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25WB3567",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "415",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "8:31AM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "ESPLANADE, FRANK ST, FRESHWATER ST, GOSSNER ST, MCKEAN RD, QUEENS RD, SCARBOROUGH ST, TORQUAY RD, TORQUAY TCE, TOTNESS ST",
+        "SUBURBS": "SCARNESS, TORQUAY"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741473300.358292"
+  "extracted": "1741474238.8975"
 }
