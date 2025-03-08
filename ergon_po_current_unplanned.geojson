@@ -548,6 +548,131 @@
           {
             "type": "Point",
             "coordinates": [
+              150.530732,
+              -23.346678
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.528852,
+                  -23.347855
+                ],
+                [
+                  150.528968,
+                  -23.348305
+                ],
+                [
+                  150.528983,
+                  -23.348352
+                ],
+                [
+                  150.529007,
+                  -23.348414
+                ],
+                [
+                  150.529392,
+                  -23.348708
+                ],
+                [
+                  150.529656,
+                  -23.348746
+                ],
+                [
+                  150.52972,
+                  -23.348751
+                ],
+                [
+                  150.531172,
+                  -23.348781
+                ],
+                [
+                  150.531588,
+                  -23.348583
+                ],
+                [
+                  150.532265,
+                  -23.347655
+                ],
+                [
+                  150.532346,
+                  -23.347452
+                ],
+                [
+                  150.532612,
+                  -23.345185
+                ],
+                [
+                  150.532445,
+                  -23.344795
+                ],
+                [
+                  150.532339,
+                  -23.34471
+                ],
+                [
+                  150.532053,
+                  -23.344602
+                ],
+                [
+                  150.531612,
+                  -23.344575
+                ],
+                [
+                  150.531539,
+                  -23.344575
+                ],
+                [
+                  150.530062,
+                  -23.344689
+                ],
+                [
+                  150.529631,
+                  -23.345018
+                ],
+                [
+                  150.5289,
+                  -23.347469
+                ],
+                [
+                  150.528897,
+                  -23.347479
+                ],
+                [
+                  150.528853,
+                  -23.347641
+                ],
+                [
+                  150.528852,
+                  -23.347855
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25CA4717",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "93",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:21PM 08 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BERSERKER ST, FITZGERALD ST, MAGEE ST, RICKART ST, SALAMANCA ST, STEWART ST, WATERLOO ST",
+        "SUBURBS": "FRENCHVILLE, NORTH ROCKHAMPTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.718172,
               -16.880081
             ]
@@ -1275,5 +1400,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741422901.386866"
+  "extracted": "1741423201.524651"
 }
