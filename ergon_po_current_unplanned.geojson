@@ -410,6 +410,168 @@
           {
             "type": "Point",
             "coordinates": [
+              151.239825,
+              -23.888668
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.236935,
+                  -23.88864
+                ],
+                [
+                  151.23711,
+                  -23.888733
+                ],
+                [
+                  151.237113,
+                  -23.888735
+                ],
+                [
+                  151.242129,
+                  -23.891355
+                ],
+                [
+                  151.242854,
+                  -23.890888
+                ],
+                [
+                  151.242805,
+                  -23.890622
+                ],
+                [
+                  151.242776,
+                  -23.890528
+                ],
+                [
+                  151.242564,
+                  -23.890045
+                ],
+                [
+                  151.242563,
+                  -23.890042
+                ],
+                [
+                  151.241565,
+                  -23.887814
+                ],
+                [
+                  151.241499,
+                  -23.887711
+                ],
+                [
+                  151.24022,
+                  -23.886186
+                ],
+                [
+                  151.239894,
+                  -23.886015
+                ],
+                [
+                  151.239614,
+                  -23.885982
+                ],
+                [
+                  151.239253,
+                  -23.886072
+                ],
+                [
+                  151.23719,
+                  -23.887534
+                ],
+                [
+                  151.237105,
+                  -23.887611
+                ],
+                [
+                  151.236796,
+                  -23.88797
+                ],
+                [
+                  151.236935,
+                  -23.88864
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25CA4726",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "96",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "9:12PM 08 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "CRAIGMOOR CT, EMMADALE DR, HUNTINGTON CT, ROTHBURY PL, SAXONVALE CT, WILLESPIE PL",
+        "SUBURBS": "NEW AUCKLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              145.875411,
+              -16.909001
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.87588,
+                  -16.909004
+                ],
+                [
+                  145.875413,
+                  -16.908549
+                ],
+                [
+                  145.874941,
+                  -16.908999
+                ],
+                [
+                  145.875408,
+                  -16.909453
+                ],
+                [
+                  145.87588,
+                  -16.909004
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25FN3194",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews working on-site",
+        "START": "6:01PM 08 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BEACH RD, MUKA ST",
+        "SUBURBS": "YARRABAH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.699115,
               -21.128222
             ]
@@ -834,5 +996,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741431605.982415"
+  "extracted": "1741432801.361527"
 }
