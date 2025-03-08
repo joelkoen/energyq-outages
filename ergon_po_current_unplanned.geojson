@@ -3430,6 +3430,123 @@
           {
             "type": "Point",
             "coordinates": [
+              151.939135,
+              -27.546872
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.929422,
+                  -27.554669
+                ],
+                [
+                  151.933259,
+                  -27.555729
+                ],
+                [
+                  151.933573,
+                  -27.555725
+                ],
+                [
+                  151.936272,
+                  -27.554894
+                ],
+                [
+                  151.936401,
+                  -27.554834
+                ],
+                [
+                  151.938202,
+                  -27.553683
+                ],
+                [
+                  151.938297,
+                  -27.553604
+                ],
+                [
+                  151.949204,
+                  -27.541809
+                ],
+                [
+                  151.949021,
+                  -27.541112
+                ],
+                [
+                  151.948881,
+                  -27.541056
+                ],
+                [
+                  151.948772,
+                  -27.541026
+                ],
+                [
+                  151.931752,
+                  -27.538015
+                ],
+                [
+                  151.931212,
+                  -27.538239
+                ],
+                [
+                  151.931099,
+                  -27.538421
+                ],
+                [
+                  151.931081,
+                  -27.538454
+                ],
+                [
+                  151.930575,
+                  -27.539453
+                ],
+                [
+                  151.930533,
+                  -27.539587
+                ],
+                [
+                  151.929751,
+                  -27.545763
+                ],
+                [
+                  151.929749,
+                  -27.545782
+                ],
+                [
+                  151.929067,
+                  -27.554207
+                ],
+                [
+                  151.929422,
+                  -27.554669
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25SW4375",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "891",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:31AM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "AVONDALE ST, BERGHOFER ST, BERNARD ST, BRIDGE ST, BROWN ST, CAMPBELL ST, CAY ST, CHALLENOR ST, CLARISSA ST, CLEARVIEW ST, CULLEN CT, EARDLEY ST, EVON ST, GORDON AVE, GREENBURY ST, HOLBERTON ST, KIRKLEES ST, LUDGATE CT, MONASH LANE, MONASH ST, MOTT CRES, NORTH ST, NYCOLE ST, OAKLEIGH ST, PIONEER ST, PROSSER ST, PROWSE ST, RAYMOND CT, ROME ST, SHANE CT, SIMON ST, SWALLOW CT, TAYLOR ST, TEESDALE AVE, TOR ST, TYNEDALE AVE, VICTORY ST, WARATAH ST, WESTLAND ST, WINSTANLEY CT",
+        "SUBURBS": "NEWTOWN, ROCKVILLE, TOOWOOMBA, WILSONTON, WILSONTON HEIGHTS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.96676,
               -25.193926
             ]
@@ -3486,5 +3603,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741458300.387007"
+  "extracted": "1741458914.066949"
 }
