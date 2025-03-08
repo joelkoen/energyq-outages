@@ -632,7 +632,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "3",
         "REASON": "Emergency repairs in-progress",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "7:31AM 06 Mar 2025",
         "EST_FIX_TIME": "12:00AM 09 Mar 2025",
         "STREETS": "SHERWOOD RD",
@@ -29742,7 +29742,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "816",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "11:37PM 07 Mar 2025",
         "EST_FIX_TIME": "12:00AM 09 Mar 2025",
         "STREETS": "ALBERT RD, ALBION RD, BARKER ST, BELLBIRD CT, BETH CT, BOLAND CT, BRANCH CREEK RD, BURANDA RD, CAMFIN RD, CHRISTINE DR, CHURCH RD, CLEAR MOUNTAIN RD, COORPAROO RD, DAWNETA CT, DENNISTON CT, DOBSON RD, EATONS CROSSING RD, EDEN DR, EMMA PL, ESTELLE CT, FITZGERALD CT, FRYAR CT, GARRAWIN CT, GILMOUR CT, HARRIER PL, HENRY CT, HIGHLANDER CT, IRELAND CT, JANE CT, KELSO CT, KIMBERLEY CT, LAMAUR ST, LASCELLE CT, LAUREL CT, LILLEY RD, LOGAN CT, MARY CT, MAYFLOWER ST, MCCARTNEY CT, MCCAUSLAND CT, MILFORD CT, PADDY RD, PAULI CT, RAMSAY RD, RIDING CT, ROCHEADON DR, ROUTLEDGE CT, SALISBURY CT, SALLY CT, SARAH CT, SAVOY PL, SOMERS ST, TERBEN ST, THOMAS CT, TURBAL CT, WARNER RD",
@@ -47631,9 +47631,277 @@
         "SUBURBS": "BURLEIGH HEADS",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.451269,
+              -28.091366
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.447207,
+                  -28.09245
+                ],
+                [
+                  153.447306,
+                  -28.092615
+                ],
+                [
+                  153.447317,
+                  -28.092632
+                ],
+                [
+                  153.448342,
+                  -28.094164
+                ],
+                [
+                  153.448697,
+                  -28.094379
+                ],
+                [
+                  153.448879,
+                  -28.094405
+                ],
+                [
+                  153.449151,
+                  -28.094379
+                ],
+                [
+                  153.451042,
+                  -28.093706
+                ],
+                [
+                  153.451114,
+                  -28.093675
+                ],
+                [
+                  153.452949,
+                  -28.092702
+                ],
+                [
+                  153.453107,
+                  -28.092572
+                ],
+                [
+                  153.455365,
+                  -28.08968
+                ],
+                [
+                  153.455137,
+                  -28.089005
+                ],
+                [
+                  153.453648,
+                  -28.088471
+                ],
+                [
+                  153.453495,
+                  -28.088439
+                ],
+                [
+                  153.451781,
+                  -28.088327
+                ],
+                [
+                  153.4517,
+                  -28.088327
+                ],
+                [
+                  153.451437,
+                  -28.088347
+                ],
+                [
+                  153.45141,
+                  -28.08835
+                ],
+                [
+                  153.449987,
+                  -28.088529
+                ],
+                [
+                  153.449707,
+                  -28.08865
+                ],
+                [
+                  153.447989,
+                  -28.090109
+                ],
+                [
+                  153.447858,
+                  -28.090291
+                ],
+                [
+                  153.447173,
+                  -28.092093
+                ],
+                [
+                  153.447207,
+                  -28.09245
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-831817-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "611",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "10:57AM 08 Mar 2025",
+        "EST_FIX_TIME": "1:30AM 09 Mar 2025",
+        "STREETS": "BRAKE ST, CONNOR ST, EAST ST, EWART ST, GEORGE ST CN, GEORGE ST W, GOLD COAST HWY, GOODWIN TCE, HILL AVE, JAMES ST, MOUNT ST, OCEAN ST, PARK AVE, STANLEY ST, WEST BURLEIGH RD, WEST ST",
+        "SUBURBS": "BURLEIGH HEADS",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.946642,
+              -27.861285
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.874362,
+                  -27.857015
+                ],
+                [
+                  152.922245,
+                  -27.896333
+                ],
+                [
+                  152.922589,
+                  -27.896453
+                ],
+                [
+                  152.934616,
+                  -27.89647
+                ],
+                [
+                  152.934847,
+                  -27.896421
+                ],
+                [
+                  152.967754,
+                  -27.881573
+                ],
+                [
+                  152.96778,
+                  -27.88156
+                ],
+                [
+                  152.980768,
+                  -27.874808
+                ],
+                [
+                  152.980852,
+                  -27.874754
+                ],
+                [
+                  153.014852,
+                  -27.847542
+                ],
+                [
+                  153.014931,
+                  -27.847462
+                ],
+                [
+                  153.018936,
+                  -27.842264
+                ],
+                [
+                  153.018992,
+                  -27.84185
+                ],
+                [
+                  153.013442,
+                  -27.828739
+                ],
+                [
+                  153.013269,
+                  -27.828536
+                ],
+                [
+                  153.011614,
+                  -27.827442
+                ],
+                [
+                  153.011347,
+                  -27.827355
+                ],
+                [
+                  152.991303,
+                  -27.826101
+                ],
+                [
+                  152.991187,
+                  -27.826106
+                ],
+                [
+                  152.915069,
+                  -27.836848
+                ],
+                [
+                  152.914957,
+                  -27.836875
+                ],
+                [
+                  152.87987,
+                  -27.849554
+                ],
+                [
+                  152.879647,
+                  -27.849711
+                ],
+                [
+                  152.874292,
+                  -27.856422
+                ],
+                [
+                  152.874362,
+                  -27.857015
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-831819-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "877",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "10:58AM 08 Mar 2025",
+        "EST_FIX_TIME": "3:00PM 08 Mar 2025",
+        "STREETS": "ALANNON PL, ALVISIO CT, ARTHY DR, ASH PL, AVERY CT, BIRCH PL, BLACKWOOD RD, BOYTAR CT, BROOKLAND RD, BRUMBY DR, BRUSHWOOD CRES, BUSHLAND RD, CANDLEBARK RD, CATANIA PL, CEDAR GROVE RD, CEDAR POCKET RD, COULDERY CT, COUNTRY RD, DARRYL CT, DIANNE CT, ERROL CT, FIG CT, FLAMETREE CT, GITTINS RD, GLENLOGAN CT, HENDERSON RD, HICKORY PL, IRWIN RD, KILMOYLAR RD, LANCEBARK RD, LAUREL PL, MARION RD, MORRISON CT, MT ELLIOT RD, OAK TREE CT, PEARSON CT, PHAR LAP CL, PHILLIPS RD, PINDARI RD, REDWOOD CIR, ROUND RIDGE RD, RUSSELL CT, SANDAVER CRES, SAVILLE RD, SHEOAK PL, SPOTTED GUM CT, ST COVET CT, ST JUDE CCT, SUGARWOOD RD, TAMARIND PL, THORA RD, TULLOCH PL, UNDULLAH RD, VICTORIA DR, WHITAKER RD, WILD PIG CREEK RD, WYATT RD",
+        "SUBURBS": "ALLENVIEW, CEDAR GROVE, GLENLOGAN, JIMBOOMBA, KAGARU, RIVERBEND, UNDULLAH, WOODHILL",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741395301.781683"
+  "extracted": "1741395901.469228"
 }
