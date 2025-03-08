@@ -1037,123 +1037,6 @@
           {
             "type": "Point",
             "coordinates": [
-              139.531625,
-              -20.719736
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  139.506033,
-                  -20.727329
-                ],
-                [
-                  139.511359,
-                  -20.728498
-                ],
-                [
-                  139.511464,
-                  -20.728509
-                ],
-                [
-                  139.53441,
-                  -20.728686
-                ],
-                [
-                  139.534473,
-                  -20.728683
-                ],
-                [
-                  139.535271,
-                  -20.728589
-                ],
-                [
-                  139.535489,
-                  -20.728508
-                ],
-                [
-                  139.556469,
-                  -20.71435
-                ],
-                [
-                  139.556582,
-                  -20.714242
-                ],
-                [
-                  139.557502,
-                  -20.713001
-                ],
-                [
-                  139.557447,
-                  -20.712427
-                ],
-                [
-                  139.555818,
-                  -20.710901
-                ],
-                [
-                  139.555361,
-                  -20.710785
-                ],
-                [
-                  139.519638,
-                  -20.719578
-                ],
-                [
-                  139.519612,
-                  -20.719585
-                ],
-                [
-                  139.519467,
-                  -20.719629
-                ],
-                [
-                  139.519405,
-                  -20.719653
-                ],
-                [
-                  139.506636,
-                  -20.725516
-                ],
-                [
-                  139.506451,
-                  -20.725667
-                ],
-                [
-                  139.505747,
-                  -20.72664
-                ],
-                [
-                  139.506033,
-                  -20.727329
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25NQ3930",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "120",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews working on-site",
-        "START": "2:37PM 08 Mar 2025",
-        "EST_FIX_TIME": "8:00PM 08 Mar 2025",
-        "STREETS": "ABEL SMITH PDE, BARKLY HWY, BREAKAWAY DR, DOUGHAN TCE, ELIANA BVD, KOOKABURRA ST, LITTLE BEND, LLOYD CL, MARIAN ST, ROBIN RD, SMYTH CRES, VAIENTE PDE",
-        "SUBURBS": "BREAKAWAY, FISHER, MOUNT ISA, PIONEER, SUNSET, TOWNVIEW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               140.310834,
               -19.652152
             ]
@@ -1237,6 +1120,111 @@
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "ALCALA STATION, BOOMARRA STATION, BURKE DEVELOPMENT RD, COOLULAH STATION, GLEESON STATION, GRANADA STATION, KAMILAROI STATION, MELINDA DOWNS STATION, NOBBIES STATION, NORMANTON RD, ROSEGREEN STATION, SALLEY CREEK, THREE WAYS RD, YAMBUNGAN STATION",
         "SUBURBS": "CLONCURRY, JULIA CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              146.721203,
+              -19.387039
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.719414,
+                  -19.387908
+                ],
+                [
+                  146.722501,
+                  -19.388195
+                ],
+                [
+                  146.722832,
+                  -19.388108
+                ],
+                [
+                  146.723229,
+                  -19.387829
+                ],
+                [
+                  146.723409,
+                  -19.387367
+                ],
+                [
+                  146.723262,
+                  -19.386746
+                ],
+                [
+                  146.723081,
+                  -19.386482
+                ],
+                [
+                  146.722681,
+                  -19.3862
+                ],
+                [
+                  146.722667,
+                  -19.386191
+                ],
+                [
+                  146.722287,
+                  -19.385943
+                ],
+                [
+                  146.721878,
+                  -19.385883
+                ],
+                [
+                  146.72118,
+                  -19.386085
+                ],
+                [
+                  146.721124,
+                  -19.386105
+                ],
+                [
+                  146.720153,
+                  -19.386518
+                ],
+                [
+                  146.720095,
+                  -19.386547
+                ],
+                [
+                  146.719207,
+                  -19.387075
+                ],
+                [
+                  146.718996,
+                  -19.387561
+                ],
+                [
+                  146.719414,
+                  -19.387908
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25NQ3943",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "14",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:27PM 08 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "CONNEMARA COURSE, PINTO CT",
+        "SUBURBS": "KELSO"
       }
     },
     {
@@ -1420,5 +1408,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741426211.908062"
+  "extracted": "1741426501.313329"
 }
