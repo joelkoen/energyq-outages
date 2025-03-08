@@ -26510,7 +26510,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "1636",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "11:04PM 07 Mar 2025",
         "EST_FIX_TIME": "12:00AM 09 Mar 2025",
         "STREETS": "ALAWARA CT, ALEXANDRA CCT, ANGALA CT, ASHBURY CT, AVENING ST, BELLINI CT, BRADWORTHY ST, BROOYAR CRES, BURWOOD RD, CANDOVER CT, CHANTILLY CL, CHINNOCK CT, CHIPPING DR, CLASSIC CT, CONONDALE PL, COOLOOLA LANE, CURRUMBIN CT, DELLAMARRA CL, DINTON CT, DYNASTY CT, EXFORD CT, FAWLEY CT, FERNDOWN ST, FORESTLEA CT, FRAMPTON ST, GANTON CT, GATSBY CT, GIRRAWEEN CRES, GLENCARRON CT, GLENMORE CT, GLOVER DR, GOLEBY CT, GOORAWIN ST, HONEYMYRTLE CT, HOOK ST, IONA CT, KALOMA CT, KINDRED ST, KORAWAL ST, KULARA CT, KYAMBA ST, LAMINGTON LANE, LANREATH CT, LAPFORD CT, LAW PL, LEGEND CT, LYNDON RD, MAPLETON CRES, MELDAWN PL, MERLOO CT, MERRIOTT CT, MOOGERAH ST, MORAY CT, NATASHA ST, NEUMANN RD, NEWLYN CT, PENGANA CT, PENSILVA CT, PLYMSTOCK ST, RAVENBOURNE CCT, REDLAND BAY RD, REDRUTH RD, RUNNYMEDE RD, SALCOMBE CT, SCOTNEY CT, SOUTHWOOD CRES, SPRINGBROOK DR, STANWAY CRES, STEEL ST, STOVOLD PL, TIMBARRA CT, TINTAGEL CT, TOMBO ST, VERWOOD CT, VIENNA RD, VIENNA RD S, WEBB CT, WESTCOTT PL, WEYMOUTH ST, WIMBORNE RD, WINDEMERE RD, WITNEY CT, YARRAMAN PL, YEOVIL CT",
@@ -42388,7 +42388,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "46",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "In Progress",
+        "STATUS": "Awaiting",
         "START": "5:31AM 08 Mar 2025",
         "EST_FIX_TIME": "12:00AM 09 Mar 2025",
         "STREETS": "FERNBOURNE RD, GALENA ST, JACOB ST, VALLEY RD",
@@ -43104,7 +43104,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "1109",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "8:26AM 08 Mar 2025",
         "EST_FIX_TIME": "12:00AM 09 Mar 2025",
         "STREETS": "ASHBURTON PL, BARRINGTON CRES, BARWIN ST, BROOK ST, CHESTERFIELD ST, CHIPPING CL, CLYDE CT, COLETTE ST, ESK CRES, FEATHERTAIL PL, FOREST AVE, FORMOSA RD, FRANKLIN ST, FREESIA CT, GARDENIA PL, GLIDER CL, GOULBURN ST, GRASSDALE RD, GUMDALE ST, HARROGATE PL, HAWKSBURY CRES, HAYES ST, HEPBURN CL, JUDD ST, KATHERINE ST, LACHLAN DR, LYDIA PL, MACQUARIE ST, MANCHESTER ST, MARGARET CRES, MCMULLAN CL, MOSS RD, MOSSVALE DR, NEW CLEVELAND RD, NICHOLS ST, PENNINGTON ST, RIBBLESDALE PL, RYMERA CRES, SWAN CT, TALLTREES CCT, TERRALDON CCT, THOMSON PL, TILLEY RD, TORRENS CRES, WATERVALE PDE, YARRA RD",
@@ -47523,9 +47523,149 @@
         "SUBURBS": "KOBBLE CREEK, SAMSONVALE",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.30641,
+              -27.826554
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.306917,
+                  -27.826553
+                ],
+                [
+                  153.306408,
+                  -27.826103
+                ],
+                [
+                  153.305902,
+                  -27.826555
+                ],
+                [
+                  153.306411,
+                  -27.827005
+                ],
+                [
+                  153.306917,
+                  -27.826553
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-832078-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "74",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "12:37PM 08 Mar 2025",
+        "EST_FIX_TIME": "10:00PM 08 Mar 2025",
+        "STREETS": "ANGELA WAY",
+        "SUBURBS": "PIMPAMA",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.115253,
+              -27.212966
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.112703,
+                  -27.213074
+                ],
+                [
+                  153.112872,
+                  -27.213328
+                ],
+                [
+                  153.113158,
+                  -27.213529
+                ],
+                [
+                  153.115511,
+                  -27.214174
+                ],
+                [
+                  153.115575,
+                  -27.214188
+                ],
+                [
+                  153.117064,
+                  -27.214412
+                ],
+                [
+                  153.117491,
+                  -27.214298
+                ],
+                [
+                  153.117797,
+                  -27.214045
+                ],
+                [
+                  153.117803,
+                  -27.213387
+                ],
+                [
+                  153.115715,
+                  -27.211605
+                ],
+                [
+                  153.115157,
+                  -27.211521
+                ],
+                [
+                  153.112927,
+                  -27.212433
+                ],
+                [
+                  153.112703,
+                  -27.213074
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-832087-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "77",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "12:42PM 08 Mar 2025",
+        "EST_FIX_TIME": "4:30PM 08 Mar 2025",
+        "STREETS": "ALEXANDER ST, JAMES ST, MARGARET ST, OSBOURNE ST, PRINCE EDWARD PDE, QUEENS BEACH LANE",
+        "SUBURBS": "SCARBOROUGH",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741401300.313493"
+  "extracted": "1741401905.695881"
 }
