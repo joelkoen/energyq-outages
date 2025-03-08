@@ -561,7 +561,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "13",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "6:50PM 08 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "RIVERVIEW DR",
@@ -1235,6 +1235,83 @@
           {
             "type": "Point",
             "coordinates": [
+              146.155832,
+              -18.657841
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  146.154572,
+                  -18.656595
+                ],
+                [
+                  146.154952,
+                  -18.659053
+                ],
+                [
+                  146.155326,
+                  -18.659429
+                ],
+                [
+                  146.156212,
+                  -18.659602
+                ],
+                [
+                  146.156741,
+                  -18.659341
+                ],
+                [
+                  146.157078,
+                  -18.658611
+                ],
+                [
+                  146.157092,
+                  -18.658281
+                ],
+                [
+                  146.156435,
+                  -18.656468
+                ],
+                [
+                  146.156032,
+                  -18.656166
+                ],
+                [
+                  146.155086,
+                  -18.656079
+                ],
+                [
+                  146.154572,
+                  -18.656595
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25NQ3944",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "25",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:09PM 08 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "DAVIDSON ST, MOREHEAD ST, PALMER ST",
+        "SUBURBS": "INGHAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               151.940204,
               -25.208555
             ]
@@ -1408,5 +1485,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741426501.313329"
+  "extracted": "1741426801.301476"
 }
