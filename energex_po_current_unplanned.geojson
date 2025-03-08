@@ -33902,7 +33902,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "165",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "12:44AM 08 Mar 2025",
         "EST_FIX_TIME": "12:00AM 09 Mar 2025",
         "STREETS": "CEDAR CREEK RD, EMMARON CT, LANITA CT, LOCHINVAR RD, LOOKOUT CT, MCLEAN RD S, MILLWOOD PL, PANORAMA PL, PARADISE PL, PARKSEDGE ST, ROSS RD, SANCTUARY PL, SUTTON CT, TROSSACHS PL",
@@ -45418,6 +45418,116 @@
           {
             "type": "Point",
             "coordinates": [
+              153.074593,
+              -27.491572
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.072619,
+                  -27.492647
+                ],
+                [
+                  153.072796,
+                  -27.492759
+                ],
+                [
+                  153.073056,
+                  -27.492842
+                ],
+                [
+                  153.073224,
+                  -27.492851
+                ],
+                [
+                  153.073237,
+                  -27.492852
+                ],
+                [
+                  153.073426,
+                  -27.492859
+                ],
+                [
+                  153.07343,
+                  -27.492859
+                ],
+                [
+                  153.074486,
+                  -27.49289
+                ],
+                [
+                  153.074701,
+                  -27.492854
+                ],
+                [
+                  153.076131,
+                  -27.492312
+                ],
+                [
+                  153.076428,
+                  -27.491993
+                ],
+                [
+                  153.076482,
+                  -27.491771
+                ],
+                [
+                  153.076492,
+                  -27.491708
+                ],
+                [
+                  153.076566,
+                  -27.490804
+                ],
+                [
+                  153.076152,
+                  -27.490327
+                ],
+                [
+                  153.075701,
+                  -27.490254
+                ],
+                [
+                  153.075333,
+                  -27.490321
+                ],
+                [
+                  153.072635,
+                  -27.491902
+                ],
+                [
+                  153.072619,
+                  -27.492647
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-831611-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "88",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "9:42AM 08 Mar 2025",
+        "EST_FIX_TIME": "4:30PM 09 Mar 2025",
+        "STREETS": "BRUCE ST, DONALD ST, LEWIS ST, OLD CLEVELAND RD",
+        "SUBURBS": "CAMP HILL",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.900961,
               -27.514093
             ]
@@ -47728,7 +47838,7 @@
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "11:41AM 08 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 08 Mar 2025",
+        "EST_FIX_TIME": "12:00AM 09 Mar 2025",
         "STREETS": "AITCHESON RD, DIETZ CT, HIPATHITES RD, KRIESCH RD, MASON CT",
         "SUBURBS": "KOBBLE CREEK, SAMSONVALE",
         "ETR_FLAG": "N"
@@ -47737,5 +47847,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741398900.333984"
+  "extracted": "1741399500.45786"
 }
