@@ -1415,9 +1415,110 @@
         "STREETS": "AKORA DR, ALVES TCE, AVONLEA CT, BARRACKS RD, BENN CT, BLUE SKY CT, BOGONG CT, BORGHARDT RD, CABARLAH PARK RD, CRONIN RD, CROOKE ST, ENCHANTMENT CT, ESCARPMENT AVE, EVANS RD, FAIRWEATHER BVD, FAIRY RD, FULLBROOK AVE, GOULDS RD, KAUFMAN AVE, KRUMINS AVE, LAWSON DR, LILLIEGREN CT, LILLIGREN CT, MCAULAY AVE, MCAULEY AVE, MCBURNIE AVE, MCDONAUGH DR, MCEWAN RD, MCMAULAY AVE, MEHARRY CT, MELROSE ST, MERINGANDAN RD, MIRAMBEENA DR, NEW ENGLAND HWY, OLLEY AVE, PENNY RD, PERRY RD, RAINFOREST CT, REIS RD, REIS RD EAST, RIGBY AVE, RYDER AVE, SHANNON PARK RD, STAUNTON AVE, STAUTON AVE, TRUMAN AVE, WATTLE CL, WELTER ST, WINGROVE ST, WIRRAGLEN RD",
         "SUBURBS": "CABARLAH, HIGHFIELDS, KLEINTON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.892022,
+              -27.356685
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.84188,
+                  -27.387811
+                ],
+                [
+                  151.851485,
+                  -27.406229
+                ],
+                [
+                  151.852294,
+                  -27.406361
+                ],
+                [
+                  151.885869,
+                  -27.377184
+                ],
+                [
+                  151.88588,
+                  -27.377174
+                ],
+                [
+                  151.922871,
+                  -27.34291
+                ],
+                [
+                  151.922897,
+                  -27.342884
+                ],
+                [
+                  151.938659,
+                  -27.325797
+                ],
+                [
+                  151.938678,
+                  -27.325776
+                ],
+                [
+                  151.942164,
+                  -27.321491
+                ],
+                [
+                  151.941979,
+                  -27.320823
+                ],
+                [
+                  151.927859,
+                  -27.314585
+                ],
+                [
+                  151.927735,
+                  -27.314547
+                ],
+                [
+                  151.885892,
+                  -27.307009
+                ],
+                [
+                  151.885338,
+                  -27.307254
+                ],
+                [
+                  151.841883,
+                  -27.387425
+                ],
+                [
+                  151.84188,
+                  -27.387811
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25SW4341",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "68",
+        "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
+        "STATUS": "Crews working on-site",
+        "START": "12:00AM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BOODUA-MERINGANDAN RD, COZENS RD, DOUGLAS PLAINBY RD, GOMORAN DOUGLAS RD, GOMORAN-BERGEN RD, GOOMBUNGEE MERINGANDAN RD, GUY RD, KINGSTHORPE HADEN RD, MUNIGANEEN RD, PANSKIS RD, PECHEY MACLAGAN RD, SCHMALING RD, SMOOTHY RD, STENZEL RD, WELKE'S RD, WOODS RD, ZIMMERMAN RD",
+        "SUBURBS": "BOODUA, DOUGLAS, GOOMBUNGEE, GROOMSVILLE, MERINGANDAN, MUNIGANEEN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741442101.704739"
+  "extracted": "1741443902.167806"
 }
