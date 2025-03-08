@@ -629,6 +629,59 @@
           {
             "type": "Point",
             "coordinates": [
+              148.555294,
+              -20.36121
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.555773,
+                  -20.361206
+                ],
+                [
+                  148.555289,
+                  -20.360759
+                ],
+                [
+                  148.554815,
+                  -20.361215
+                ],
+                [
+                  148.555298,
+                  -20.361662
+                ],
+                [
+                  148.555773,
+                  -20.361206
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25MK2267",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "5:14PM 08 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BRUCE HWY, UP RIVER RD",
+        "SUBURBS": "FOXDALE, PROSERPINE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.207433,
               -18.981624
             ]
@@ -1101,5 +1154,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741418117.82737"
+  "extracted": "1741418701.56944"
 }
