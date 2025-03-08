@@ -386,6 +386,75 @@
           {
             "type": "Point",
             "coordinates": [
+              145.465257,
+              -17.241463
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.460524,
+                  -17.244512
+                ],
+                [
+                  145.467126,
+                  -17.245848
+                ],
+                [
+                  145.467263,
+                  -17.245856
+                ],
+                [
+                  145.469813,
+                  -17.245646
+                ],
+                [
+                  145.470226,
+                  -17.245076
+                ],
+                [
+                  145.467999,
+                  -17.23727
+                ],
+                [
+                  145.467212,
+                  -17.237071
+                ],
+                [
+                  145.460288,
+                  -17.243751
+                ],
+                [
+                  145.460524,
+                  -17.244512
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25FN3190",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "3:22PM 08 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "ALLENS LANE, DAWSON RD",
+        "SUBURBS": "ATHERTON, TOLGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.699115,
               -21.128222
             ]
@@ -1032,5 +1101,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741417501.736498"
+  "extracted": "1741417801.195974"
 }
