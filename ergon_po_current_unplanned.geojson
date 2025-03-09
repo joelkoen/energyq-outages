@@ -2334,8 +2334,8 @@
           {
             "type": "Point",
             "coordinates": [
-              151.958813,
-              -27.505291
+              151.961279,
+              -27.502444
             ]
           },
           {
@@ -2343,28 +2343,12 @@
             "coordinates": [
               [
                 [
-                  151.949314,
-                  -27.516595
+                  151.954366,
+                  -27.511154
                 ],
                 [
-                  151.950226,
-                  -27.516759
-                ],
-                [
-                  151.950319,
-                  -27.516768
-                ],
-                [
-                  151.956266,
-                  -27.516849
-                ],
-                [
-                  151.956621,
-                  -27.516725
-                ],
-                [
-                  151.964121,
-                  -27.51039
+                  151.963812,
+                  -27.510512
                 ],
                 [
                   151.964139,
@@ -2439,32 +2423,24 @@
                   -27.503805
                 ],
                 [
-                  151.956155,
-                  -27.503818
+                  151.956125,
+                  -27.503871
                 ],
                 [
-                  151.949224,
-                  -27.514493
+                  151.955817,
+                  -27.504536
                 ],
                 [
-                  151.949163,
-                  -27.514642
+                  151.955799,
+                  -27.504582
                 ],
                 [
-                  151.948938,
-                  -27.515808
+                  151.953843,
+                  -27.510579
                 ],
                 [
-                  151.948932,
-                  -27.515852
-                ],
-                [
-                  151.94891,
-                  -27.516121
-                ],
-                [
-                  151.949314,
-                  -27.516595
+                  151.954366,
+                  -27.511154
                 ]
               ]
             ]
@@ -2474,13 +2450,13 @@
       "properties": {
         "EVENT_ID": "25SW4374",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "327",
+        "CUSTOMERS_AFFECTED": "252",
         "REASON": "The loss of supply is due to the operating of protective equipment. ",
         "STATUS": "Crews working on-site",
         "START": "4:08AM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "BUENA VISTA CRES, CASSIDY TCE, DODSON CRES, GRANDVIEW CRES, HILLSDALE CRES, HILLTOP CRES, KEIRA CT, MCSHANE DR, MURPHYS CREEK RD, NEW ENGLAND HWY, OUTLOOK CRES, RANGEVIEW RD, ROSEWALL CT, SCENIC CRES, SHUTTLEWOOD CT, SIRRON ST, SKYLINE DR, WEALE ST, WESTVIEW DR",
-        "SUBURBS": "BLUE MOUNTAIN HEIGHT, MOUNT KYNOCH, TOOWOOMBA"
+        "STREETS": "BUENA VISTA CRES, GRANDVIEW CRES, HILLSDALE CRES, HILLTOP CRES, KEIRA CT, MURPHYS CREEK RD, OUTLOOK CRES, RANGEVIEW RD, ROSEWALL CT, SCENIC CRES, SHUTTLEWOOD CT, SIRRON ST, SKYLINE DR",
+        "SUBURBS": "BLUE MOUNTAIN HEIGHT, MOUNT KYNOCH"
       }
     },
     {
@@ -2592,7 +2568,7 @@
         "EVENT_ID": "25SW4375",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "891",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "REASON": "The loss of supply is due to damage caused by cyclone activity. ",
         "STATUS": "Crews working on-site",
         "START": "4:31AM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
@@ -4071,86 +4047,9 @@
         "STREETS": "BIDEFORD ST, CAMPBELL ST, DENMANS CAMP RD, ESPLANADE, FRESHWATER ST, TAVISTOCK ST, TORQUAY TCE, TOTNESS ST, TRURO ST",
         "SUBURBS": "SCARNESS, TORQUAY"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              152.269976,
-              -24.860106
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.267439,
-                  -24.862119
-                ],
-                [
-                  152.268503,
-                  -24.861787
-                ],
-                [
-                  152.273038,
-                  -24.860368
-                ],
-                [
-                  152.273112,
-                  -24.859546
-                ],
-                [
-                  152.270158,
-                  -24.858093
-                ],
-                [
-                  152.269565,
-                  -24.858181
-                ],
-                [
-                  152.267702,
-                  -24.859992
-                ],
-                [
-                  152.267623,
-                  -24.860095
-                ],
-                [
-                  152.26684,
-                  -24.861488
-                ],
-                [
-                  152.266906,
-                  -24.861987
-                ],
-                [
-                  152.267439,
-                  -24.862119
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25WB3577",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "8",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews working on-site",
-        "START": "12:57PM 09 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "GIN GIN RD, LERCH RD, MOUNT PERRY RD",
-        "SUBURBS": "SHARON"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741492506.944025"
+  "extracted": "1741493101.63035"
 }
