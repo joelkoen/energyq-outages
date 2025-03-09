@@ -783,6 +783,75 @@
           {
             "type": "Point",
             "coordinates": [
+              147.642823,
+              -23.104282
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.614686,
+                  -23.165254
+                ],
+                [
+                  147.671601,
+                  -23.122918
+                ],
+                [
+                  147.671754,
+                  -23.122411
+                ],
+                [
+                  147.640539,
+                  -23.043434
+                ],
+                [
+                  147.639696,
+                  -23.043311
+                ],
+                [
+                  147.616787,
+                  -23.070445
+                ],
+                [
+                  147.616683,
+                  -23.070711
+                ],
+                [
+                  147.613892,
+                  -23.164889
+                ],
+                [
+                  147.614686,
+                  -23.165254
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25CA4844",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to damage caused by storm activity.",
+        "STATUS": "Outage reported",
+        "START": "6:56AM 10 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "ANNMORE RD, CLERMONT-RUBYVALE RD, MAKONDA RD, RUBYVALE RD",
+        "SUBURBS": "CLERMONT, THERESA CREEK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.048539,
               -17.63492
             ]
@@ -3169,5 +3238,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741559100.301663"
+  "extracted": "1741559402.916932"
 }
