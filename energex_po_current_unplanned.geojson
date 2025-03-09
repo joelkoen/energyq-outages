@@ -36574,7 +36574,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "52",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "7:39PM 08 Mar 2025",
         "EST_FIX_TIME": "12:00PM 10 Mar 2025",
         "STREETS": "LYTTON RD, VIOLET ST",
@@ -53670,7 +53670,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "9:23PM 09 Mar 2025",
         "EST_FIX_TIME": "12:00AM 11 Mar 2025",
         "STREETS": "NARROWS RD",
@@ -56106,7 +56106,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "96",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "7:32AM 10 Mar 2025",
         "EST_FIX_TIME": "11:30AM 10 Mar 2025",
         "STREETS": "BRACKEN ST, BRANT ST, CRAMB ST, GAWAIN RD, HORNICK ST, LYDIN ST, MCKEERING ST, PLAYFORD ST, YUNGABA PL",
@@ -56864,6 +56864,92 @@
           {
             "type": "Point",
             "coordinates": [
+              152.907283,
+              -26.341158
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.901961,
+                  -26.335208
+                ],
+                [
+                  152.903662,
+                  -26.353579
+                ],
+                [
+                  152.903929,
+                  -26.353942
+                ],
+                [
+                  152.905669,
+                  -26.354765
+                ],
+                [
+                  152.905874,
+                  -26.354816
+                ],
+                [
+                  152.912077,
+                  -26.355134
+                ],
+                [
+                  152.912606,
+                  -26.354658
+                ],
+                [
+                  152.91092,
+                  -26.327473
+                ],
+                [
+                  152.910062,
+                  -26.327182
+                ],
+                [
+                  152.902129,
+                  -26.334472
+                ],
+                [
+                  152.901987,
+                  -26.33476
+                ],
+                [
+                  152.90196,
+                  -26.335142
+                ],
+                [
+                  152.901961,
+                  -26.335208
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-838530-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "19",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "8:44AM 10 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 10 Mar 2025",
+        "STREETS": "FIREWHEEL RD, LOUIS BAZZO DR, POSSUM LANE, RINGTAIL CREEK RD",
+        "SUBURBS": "COOTHARABA, POMONA, RINGTAIL CREEK",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.966589,
               -27.417864
             ]
@@ -57181,5 +57267,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741560001.438167"
+  "extracted": "1741560600.306045"
 }
