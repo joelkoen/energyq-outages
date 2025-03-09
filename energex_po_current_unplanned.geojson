@@ -30272,8 +30272,8 @@
           {
             "type": "Point",
             "coordinates": [
-              153.075268,
-              -27.911466
+              153.088924,
+              -27.91145
             ]
           },
           {
@@ -30281,20 +30281,28 @@
             "coordinates": [
               [
                 [
-                  152.988328,
-                  -27.896585
+                  153.01564,
+                  -27.882908
                 ],
                 [
-                  152.98967,
-                  -27.898947
+                  153.01603,
+                  -27.883666
                 ],
                 [
-                  152.989914,
-                  -27.899155
+                  153.016369,
+                  -27.884324
                 ],
                 [
-                  153.161492,
-                  -27.968003
+                  153.016581,
+                  -27.884734
+                ],
+                [
+                  153.016767,
+                  -27.884925
+                ],
+                [
+                  153.161425,
+                  -27.96797
                 ],
                 [
                   153.162208,
@@ -30321,32 +30329,32 @@
                   -27.855062
                 ],
                 [
-                  153.11479,
+                  153.114789,
                   -27.854929
                 ],
                 [
-                  153.009718,
-                  -27.878914
+                  153.020329,
+                  -27.876805
                 ],
                 [
-                  153.009712,
-                  -27.878915
+                  153.020043,
+                  -27.876981
                 ],
                 [
-                  153.008772,
-                  -27.879141
+                  153.015838,
+                  -27.882254
                 ],
                 [
-                  153.008557,
-                  -27.879248
+                  153.015827,
+                  -27.882269
                 ],
                 [
-                  152.988433,
-                  -27.896052
+                  153.015676,
+                  -27.882474
                 ],
                 [
-                  152.988328,
-                  -27.896585
+                  153.01564,
+                  -27.882908
                 ]
               ]
             ]
@@ -30356,13 +30364,13 @@
       "properties": {
         "EVENT_ID": "INCD-832600-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "329",
+        "CUSTOMERS_AFFECTED": "112",
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "4:15PM 08 Mar 2025",
         "EST_FIX_TIME": "12:00AM 10 Mar 2025",
-        "STREETS": "ADRIAN ST, ALBERT RIVER PL, ASHWOOD DR, BLACKBEAN ST, BLUFF RD, BUNYA CT, CARL DR, CARLIE CT, CASWELL RD, CEDARWOOD CL, CLUTHA CREEK RD, CORAL TREE CT, DYLAN CT, ELLENDALE LANE, ELWYN DR, FERNHURST CL, FERNTREE CT, FOXTAIL CT, HIGHVIEW CT, MAHONY RD, MICHAEL CL, MILLSTREAM RD, MIMOSA CT, MUNDOOLUN CONNECTION RD, MUNSTERVALE RD, OLD BLUFF RD, SASSAFRAS CL, SUNDOWN CT, TAIT CT, TEAK ST, THE BLUFF CT, WATERFORD-TAMBORINE RD, YORE RD",
-        "SUBURBS": "CEDAR VALE, TAMBORINE, VERESDALE, VERESDALE SCRUB, WONGLEPONG, WOODHILL",
+        "STREETS": "ALBERT RIVER PL, BLACKBEAN ST, CARLIE CT, CLUTHA CREEK RD, MAHONY RD, MILLSTREAM RD, MUNDOOLUN CONNECTION RD, MUNSTERVALE RD, SUNDOWN CT, TEAK ST, WATERFORD-TAMBORINE RD, YORE RD",
+        "SUBURBS": "CEDAR VALE, TAMBORINE, WONGLEPONG",
         "ETR_FLAG": "N"
       }
     },
@@ -51766,6 +51774,84 @@
           {
             "type": "Point",
             "coordinates": [
+              153.122435,
+              -27.445304
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.12109,
+                  -27.44532
+                ],
+                [
+                  153.121439,
+                  -27.4457
+                ],
+                [
+                  153.121446,
+                  -27.445708
+                ],
+                [
+                  153.12199,
+                  -27.446275
+                ],
+                [
+                  153.122763,
+                  -27.44627
+                ],
+                [
+                  153.123756,
+                  -27.445205
+                ],
+                [
+                  153.12378,
+                  -27.444657
+                ],
+                [
+                  153.123672,
+                  -27.444519
+                ],
+                [
+                  153.123177,
+                  -27.444333
+                ],
+                [
+                  153.121401,
+                  -27.444588
+                ],
+                [
+                  153.12109,
+                  -27.44532
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-836359-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "10",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "11:55AM 09 Mar 2025",
+        "EST_FIX_TIME": "10:00PM 09 Mar 2025",
+        "STREETS": "BOOLARRA ST, LYTTON RD",
+        "SUBURBS": "HEMMANT",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.010318,
               -27.459813
             ]
@@ -57051,9 +57137,167 @@
         "SUBURBS": "TUGUN",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.271865,
+              -27.594277
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.263611,
+                  -27.597274
+                ],
+                [
+                  153.264344,
+                  -27.601345
+                ],
+                [
+                  153.264798,
+                  -27.601723
+                ],
+                [
+                  153.266431,
+                  -27.601858
+                ],
+                [
+                  153.266618,
+                  -27.601843
+                ],
+                [
+                  153.277637,
+                  -27.599025
+                ],
+                [
+                  153.277844,
+                  -27.59892
+                ],
+                [
+                  153.279496,
+                  -27.597537
+                ],
+                [
+                  153.279648,
+                  -27.597288
+                ],
+                [
+                  153.27969,
+                  -27.597082
+                ],
+                [
+                  153.279753,
+                  -27.596766
+                ],
+                [
+                  153.279783,
+                  -27.596615
+                ],
+                [
+                  153.27979,
+                  -27.596565
+                ],
+                [
+                  153.279805,
+                  -27.596358
+                ],
+                [
+                  153.279806,
+                  -27.596346
+                ],
+                [
+                  153.28012,
+                  -27.588897
+                ],
+                [
+                  153.279735,
+                  -27.588441
+                ],
+                [
+                  153.27179,
+                  -27.586699
+                ],
+                [
+                  153.271562,
+                  -27.586696
+                ],
+                [
+                  153.270242,
+                  -27.58695
+                ],
+                [
+                  153.270094,
+                  -27.587002
+                ],
+                [
+                  153.269763,
+                  -27.587173
+                ],
+                [
+                  153.269725,
+                  -27.587196
+                ],
+                [
+                  153.269209,
+                  -27.587522
+                ],
+                [
+                  153.269084,
+                  -27.587636
+                ],
+                [
+                  153.264403,
+                  -27.593756
+                ],
+                [
+                  153.26433,
+                  -27.593904
+                ],
+                [
+                  153.264249,
+                  -27.594203
+                ],
+                [
+                  153.264244,
+                  -27.594222
+                ],
+                [
+                  153.263614,
+                  -27.597117
+                ],
+                [
+                  153.263611,
+                  -27.597274
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-837632-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "1075",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "7:17PM 09 Mar 2025",
+        "EST_FIX_TIME": "10:00AM 10 Mar 2025",
+        "STREETS": "APOLLO CT, ARISTIDA CT, BELL VIEW ST, BLACK OAK TCE, BRENDAN WAY, BROOKVALE DR, BUNKER RD, BURKETT CRES, CAMPHOR CT, COLBET CL, CREEKSIDE CCT E, CREEKSIDE CCT W, CRESTLEA ST, CULCITA CT, DUNNART ST, ELYSIAN ST, ESTUARY AVE, FERNWOOD CT, FIDDLEWOOD ST, FLORIBUNDA WAY, FRANBRIDGE PL, GAHNIA CT, GLADEBOURNE CRES, GLENBROOK AVE, HARPULLIA CL, HICKORY PL, INTREPID DR, KAHLIA CL, KAURI BVD, KELSALL CL, KENTIA CT, KURREWA CT, LAMB CL, LINDSAY CT, LIRIOPE PL, MCCONECHY DR, MONTESSA ST, PARKVALE ST, PELLITA CT, PENDA CCT, PINECREST PL, PINEVALE CT, PLACID PL, PROSPECT CRES, RIDGEVALE ST, SANDY DR, SEDGE PL, SELWYN CL, SILKY OAK TCE, SILVER WATTLE PL, SUMMERHILL ST, THEMEDA CT, TIMKELNIK CRES, TRISHA CL, WALLUM TCE, WHIPBIRD CCT, WOLLEMI AVE",
+        "SUBURBS": "VICTORIA POINT",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741512000.373456"
+  "extracted": "1741512301.65063"
 }
