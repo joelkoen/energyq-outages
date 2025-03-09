@@ -297,6 +297,91 @@
           {
             "type": "Point",
             "coordinates": [
+              145.048539,
+              -17.635231
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  144.940333,
+                  -17.630178
+                ],
+                [
+                  145.082396,
+                  -17.701516
+                ],
+                [
+                  145.082608,
+                  -17.701568
+                ],
+                [
+                  145.12878,
+                  -17.702243
+                ],
+                [
+                  145.129243,
+                  -17.701905
+                ],
+                [
+                  145.156279,
+                  -17.602651
+                ],
+                [
+                  145.156294,
+                  -17.602546
+                ],
+                [
+                  145.156745,
+                  -17.579572
+                ],
+                [
+                  145.156525,
+                  -17.579181
+                ],
+                [
+                  145.138498,
+                  -17.568268
+                ],
+                [
+                  145.138102,
+                  -17.56822
+                ],
+                [
+                  144.940407,
+                  -17.629348
+                ],
+                [
+                  144.940333,
+                  -17.630178
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25FN3207",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "224",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:18PM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "AGATE ST, AZURITE ST, BERYL ST, BROWNSVILLE ST, BROWNVILLE RD, COOLGARRA RD, GALENA ST, GARNET ST, GUNNAWARRA RD, HAY ST, HOSPITAL ST, KENNEDY HWY, LUCEY ST, MARL ST, MICA ST, MILES GLY, MONAZITE ST, NYMBOOL RD, ONYX ST, OPAL ST, RUBY ST, SILVER ST, TALC ST, TERMITE ST, UNKNOWN ST, URANIUM ST, WARRUMA SWAMP RD, ZINC ST",
+        "SUBURBS": "MOUNT GARNET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.699115,
               -21.128222
             ]
@@ -3442,9 +3527,74 @@
         "STREETS": "DOWN ST, HERVEY ST, MCKEAN RD, SCARBOROUGH ST, TORQUAY RD",
         "SUBURBS": "SCARNESS"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.181727,
+              -24.97198
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.17462,
+                  -24.963691
+                ],
+                [
+                  152.175483,
+                  -24.980295
+                ],
+                [
+                  152.176112,
+                  -24.980706
+                ],
+                [
+                  152.188606,
+                  -24.977429
+                ],
+                [
+                  152.188834,
+                  -24.976693
+                ],
+                [
+                  152.175478,
+                  -24.963366
+                ],
+                [
+                  152.174924,
+                  -24.963254
+                ],
+                [
+                  152.17462,
+                  -24.963691
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25WB3584",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews working on-site",
+        "START": "1:30PM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "CEDARS RD, NOLANS POCKET RD",
+        "SUBURBS": "SOUTH BINGERA, SOUTH KOLAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741497601.131831"
+  "extracted": "1741497904.166513"
 }
