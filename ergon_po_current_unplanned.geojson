@@ -476,7 +476,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "49",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "4:06PM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "MATTHEW FLINDERS DR, OCEAN PDE, OFF WATTLE GR, WATTLE GR, WATTLE LANE",
@@ -793,59 +793,6 @@
         "EST_FIX_TIME": "6:00PM 14 Mar 2025",
         "STREETS": "INTAKE RD",
         "SUBURBS": "MUTARNEE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              142.968454,
-              -22.886458
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  142.96894,
-                  -22.88647
-                ],
-                [
-                  142.968467,
-                  -22.886007
-                ],
-                [
-                  142.967968,
-                  -22.886446
-                ],
-                [
-                  142.968441,
-                  -22.886909
-                ],
-                [
-                  142.96894,
-                  -22.88647
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25NQ3912",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is due to fallen power lines.  ",
-        "STATUS": "Crews working on-site",
-        "START": "5:30PM 07 Mar 2025",
-        "EST_FIX_TIME": "5:00PM 10 Mar 2025",
-        "STREETS": "WANTALANYA STATION",
-        "SUBURBS": "WINTON"
       }
     },
     {
@@ -2541,7 +2488,7 @@
       "properties": {
         "EVENT_ID": "25WB3571",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "351",
+        "CUSTOMERS_AFFECTED": "350",
         "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
         "STATUS": "Crews working on-site",
         "START": "9:09AM 09 Mar 2025",
@@ -3303,5 +3250,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741504505.226924"
+  "extracted": "1741504801.505041"
 }
