@@ -241,6 +241,115 @@
           {
             "type": "Point",
             "coordinates": [
+              151.83405,
+              -24.631014
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.767742,
+                  -24.534278
+                ],
+                [
+                  151.777691,
+                  -24.666888
+                ],
+                [
+                  151.777808,
+                  -24.667149
+                ],
+                [
+                  151.840605,
+                  -24.734264
+                ],
+                [
+                  151.841446,
+                  -24.734118
+                ],
+                [
+                  151.858225,
+                  -24.689697
+                ],
+                [
+                  151.85823,
+                  -24.689682
+                ],
+                [
+                  151.900358,
+                  -24.563639
+                ],
+                [
+                  151.900344,
+                  -24.56334
+                ],
+                [
+                  151.897358,
+                  -24.55649
+                ],
+                [
+                  151.897319,
+                  -24.556419
+                ],
+                [
+                  151.880941,
+                  -24.532379
+                ],
+                [
+                  151.880804,
+                  -24.532247
+                ],
+                [
+                  151.873843,
+                  -24.527844
+                ],
+                [
+                  151.87354,
+                  -24.527765
+                ],
+                [
+                  151.781003,
+                  -24.531661
+                ],
+                [
+                  151.780937,
+                  -24.531668
+                ],
+                [
+                  151.768145,
+                  -24.533804
+                ],
+                [
+                  151.767742,
+                  -24.534278
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25CA4743",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "80",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:43PM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BERAJONDO-LOWMEAD RD, BRAUERS RD, BUNDABERG - LOWMEAD RD, BUNDABERG-LOWMEAD RD, CATTLE STATION RD, DAWSONS RD, DIAMOND HILL RD, HILLS RD, LOWMEAD RD, OFF DAWSONS RD, OLD TOWERAN RD, SEEDS RD, SHEAHAN RD, SULLIVAN RD, SUNLIGHT HILL RD, TABLELAND RD",
+        "SUBURBS": "BERAJONDO, LOWMEAD, ROSEDALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.699115,
               -21.128222
             ]
@@ -1927,8 +2036,8 @@
           {
             "type": "Point",
             "coordinates": [
-              151.928317,
-              -27.532836
+              151.927075,
+              -27.530672
             ]
           },
           {
@@ -1968,76 +2077,68 @@
                   -27.534221
                 ],
                 [
-                  151.922105,
-                  -27.534348
+                  151.922134,
+                  -27.534367
                 ],
                 [
-                  151.927595,
-                  -27.538157
+                  151.922531,
+                  -27.534604
                 ],
                 [
-                  151.927717,
-                  -27.53822
+                  151.922644,
+                  -27.534655
                 ],
                 [
-                  151.928879,
-                  -27.538637
+                  151.92273,
+                  -27.534682
                 ],
                 [
-                  151.928969,
-                  -27.53866
+                  151.922904,
+                  -27.534707
                 ],
                 [
-                  151.93103,
-                  -27.539027
+                  151.923179,
+                  -27.534704
                 ],
                 [
-                  151.93113,
-                  -27.539035
+                  151.923181,
+                  -27.534704
                 ],
                 [
-                  151.933363,
-                  -27.539027
+                  151.931662,
+                  -27.534584
                 ],
                 [
-                  151.933803,
-                  -27.538795
+                  151.931665,
+                  -27.534584
                 ],
                 [
-                  151.935374,
-                  -27.536259
+                  151.932229,
+                  -27.534573
                 ],
                 [
-                  151.93543,
-                  -27.536111
+                  151.932648,
+                  -27.534359
                 ],
                 [
-                  151.935515,
-                  -27.535625
+                  151.932937,
+                  -27.533939
                 ],
                 [
-                  151.93552,
-                  -27.535526
+                  151.933012,
+                  -27.533707
                 ],
                 [
-                  151.93527,
-                  -27.532251
+                  151.933036,
+                  -27.53148
                 ],
                 [
-                  151.935262,
-                  -27.532192
+                  151.932986,
+                  -27.531281
                 ],
                 [
-                  151.934872,
-                  -27.530465
-                ],
-                [
-                  151.93468,
-                  -27.530193
-                ],
-                [
-                  151.931023,
-                  -27.527748
+                  151.931175,
+                  -27.527914
                 ],
                 [
                   151.9308,
@@ -2091,13 +2192,13 @@
       "properties": {
         "EVENT_ID": "25SW4363",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "905",
+        "CUSTOMERS_AFFECTED": "643",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Crews on route",
         "START": "2:42AM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "BARWICK CT, BODEGA CT, BURGUNDY ST, CABERNET CT, CATHRO ST, CHAMPAGNE CRES, CHARDONNAY ST, CHARTER CRES, CLARET ST, COOLAWIN CT, COONAWARRA CT, DOHERTY ST, DUNCAN ST, EDZILL ST, ERICA CT, FESTIVAL ST, GALA CT, GRACENE CT, GREYFRIARS ST, HARDY CT, HOCK CT, JASON ST, KENORA CT, LINDEMANN CT, LYNESS CT, MAISON CT, MALBEC CT, MARSALA ST, MARYVALE ST, MCWILLIAM ST, MELITA CRES, MILDARA CT, MIRANDA DR, MONTANA ST, MOSELLE CT, MUSCAT CT, NORTH ST, NORTOROCK CT, ORLANDO CT, PENFOLD CT, PORT ST, REISLING CT, RENMANO CT, RISSON ST, SEPPELT ST, SHERRY ST, SHIRAZ CT, TOR ST, TRAMINER DR, WATERVALE ST, WELCOMBE AVE, WINE DR, YALUMBA CRES",
-        "SUBURBS": "ROCKVILLE, WILSONTON HEIGHTS"
+        "STREETS": "BARWICK CT, BODEGA CT, BURGUNDY ST, CABERNET CT, CHAMPAGNE CRES, CHARDONNAY ST, CLARET ST, COOLAWIN CT, COONAWARRA CT, DUNCAN ST, HARDY CT, HOCK CT, LINDEMANN CT, LYNESS CT, MAISON CT, MALBEC CT, MARSALA ST, MCWILLIAM ST, MELITA CRES, MILDARA CT, MIRANDA DR, MONTANA ST, MOSELLE CT, MUSCAT CT, ORLANDO CT, PENFOLD CT, PORT ST, REISLING CT, RENMANO CT, SEPPELT ST, SHERRY ST, SHIRAZ CT, TRAMINER DR, WATERVALE ST, WINE DR, YALUMBA CRES",
+        "SUBURBS": "WILSONTON HEIGHTS"
       }
     },
     {
@@ -3736,5 +3837,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741495201.694499"
+  "extracted": "1741495501.81576"
 }
