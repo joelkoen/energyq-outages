@@ -53260,6 +53260,68 @@
           {
             "type": "Point",
             "coordinates": [
+              153.424381,
+              -28.047384
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.423891,
+                  -28.048062
+                ],
+                [
+                  153.42474,
+                  -28.048094
+                ],
+                [
+                  153.425245,
+                  -28.047503
+                ],
+                [
+                  153.424992,
+                  -28.046819
+                ],
+                [
+                  153.424114,
+                  -28.046675
+                ],
+                [
+                  153.423517,
+                  -28.047327
+                ],
+                [
+                  153.423891,
+                  -28.048062
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-837754-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "81",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "9:08PM 09 Mar 2025",
+        "EST_FIX_TIME": "7:30AM 10 Mar 2025",
+        "STREETS": "MARKERI ST",
+        "SUBURBS": "MERMAID WATERS",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.112717,
               -27.470039
             ]
@@ -54932,7 +54994,7 @@
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "5:49AM 10 Mar 2025",
-        "EST_FIX_TIME": "10:00AM 10 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 10 Mar 2025",
         "STREETS": "BRIGHTON ST, CLARK ST, LODER ST, MARINE PDE",
         "SUBURBS": "BIGGERA WATERS",
         "ETR_FLAG": "N"
@@ -55050,7 +55112,7 @@
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "5:52AM 10 Mar 2025",
-        "EST_FIX_TIME": "9:30AM 10 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 10 Mar 2025",
         "STREETS": "ALFRED ST, AMBROSE ST, ASH AVE, BATES ST, BERTELS ST, BOTTLEBRUSH PL, CAMPBELL ST, CARABEEN CT, CASSIA CT, CASSOWARY PL, CHARMAINE ST, COATES ST, COOLABAH CT, CRIBB ST, DOUGLAS AVE, DOUGLAS MCINNES DR, DRAYTON ST, DURACK PL, DUTTON ST, EDWARD ST, EMU PL, GOODWIN ST, HERBERT ST, JAMES ST, JOHN ST N, KENNETH AVE, KURRAJONG CT, LEONARD ST, LOWE ST, LUCK RD, MACARANGA CT, MELALEUCA DR, MORRISON ST, NAPIER ST, ORTON ST, PAPERBARK CL, PAROZ RD, PATRICK LANE, PATRICK ST, PEPPERMINT PL, PIKE ST, PITT ST, RAILWAY ST, RANDALL ST, ROBINSON RD, SAMUEL ST, SCHRODER ST, SILVER WATTLE PL, SPICER ST, STORR ST, SUMMER ST, TASKA AVE, THOMAS ST, TYRRELL CT, VAUX ST, VICTORIA ST, WARD CT, WATSON ST, WICKHAM ST, WILLIAM ST, WILSON CT, WINSTON ST, WYMAN CL",
         "SUBURBS": "LAIDLEY, LAIDLEY NORTH, MOOROOKA",
         "ETR_FLAG": "N"
@@ -55136,7 +55198,7 @@
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "6:13AM 10 Mar 2025",
-        "EST_FIX_TIME": "9:30AM 10 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 10 Mar 2025",
         "STREETS": "BAKER-FINCH AVE, BOTTLEBRUSH CT, COMMISSIONERS FLAT RD, COOCHIN ST, DURUNDUR ST, HIGH ST, JULIAN ST, NEILL RD, OLD PEACHESTER RD, OTTO RD, PEACHESTER RD, RANGE RD, STORRS RD, TAROONA CT, VIERITZ RD",
         "SUBURBS": "PEACHESTER",
         "ETR_FLAG": "N"
@@ -55466,9 +55528,107 @@
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "6:45AM 10 Mar 2025",
-        "EST_FIX_TIME": "10:00AM 10 Mar 2025",
+        "EST_FIX_TIME": "12:00PM 10 Mar 2025",
         "STREETS": "ALEXANDER ST, AMBROSE ST, AMY DR, BECKEY RD, BLAKE ST, BLAXLAND CT, BOUNDARY RD, BRADLEY CL, BRAHMAN RD, BREUER ST, BRIGHTON ST, BURGESS RD, BUSHMAN ST, BUTCHERBIRD CT, CAMPBELL ST, COLLEGE RD, COOPER ST, CRICKLEWOOD CT, CROSBY DR, CUNNINGHAM AVE, CURRAWONG CT, DEBORAH RD, EAGLE ST, EDWARD ST, FERNROW DR, FIONA CT, FRANCIS RD, GATTON-LAIDLEY RD, GEISMAN RD, GORDON ST, HALL RD, HARDY DR, HAYES ST, HEAD ST, HILL RD, HONEYEATER CT, JOEL ST, JOHN ST N, JOHN ST S, KIRSTON ST, LAIDLEY-PLAINLAND RD, LAWSON CRES, LOWE ST, MACGREGOR ST, MARY ST, MCALLISTER RD, MERLIAN RD, MICHAEL RD, MILES EAST RD, MILES RD, NARELLE CT, NEUENDORF RD, NORFOLK RD, NORTH ST, OLD LAIDLEY-FOREST HILL RD, OXFORD CT, PARKVIEW PL, PATRICK ST, PATS RD, PEPPERTREE PL, PIKE ST, QUAIL CT, RAMPTON ST, SCHEIWE RD, SEMPH CRES, SOUTH ST, STANFORD PL, STOCKYARD ST, SUNWEST CT, TAREEDA BVD, TEAMSTER ST, THOMAS ST, VAUX ST, WADDINGTON PDE, WEHLOW RD, WENTWORTH CT, WHITEHOUSE RD, WHITES RD",
         "SUBURBS": "FOREST HILL, LAIDLEY, LAIDLEY HEIGHTS, LAIDLEY NORTH, PLAINLAND, SUMMERHOLM",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.441386,
+              -28.067874
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.43794,
+                  -28.065042
+                ],
+                [
+                  153.442198,
+                  -28.070999
+                ],
+                [
+                  153.442289,
+                  -28.071094
+                ],
+                [
+                  153.442584,
+                  -28.071328
+                ],
+                [
+                  153.443362,
+                  -28.07122
+                ],
+                [
+                  153.444671,
+                  -28.069245
+                ],
+                [
+                  153.444716,
+                  -28.069157
+                ],
+                [
+                  153.444822,
+                  -28.068872
+                ],
+                [
+                  153.444833,
+                  -28.068622
+                ],
+                [
+                  153.444753,
+                  -28.068336
+                ],
+                [
+                  153.444749,
+                  -28.068324
+                ],
+                [
+                  153.444645,
+                  -28.067994
+                ],
+                [
+                  153.444431,
+                  -28.067736
+                ],
+                [
+                  153.438646,
+                  -28.064421
+                ],
+                [
+                  153.438012,
+                  -28.064479
+                ],
+                [
+                  153.43794,
+                  -28.065042
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-838325-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "146",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "6:55AM 10 Mar 2025",
+        "EST_FIX_TIME": "10:30PM 10 Mar 2025",
+        "STREETS": "GOLD COAST HWY, HYTHE ST, MARINE PDE, REDONDO AVE",
+        "SUBURBS": "MIAMI",
         "ETR_FLAG": "N"
       }
     },
@@ -55797,5 +55957,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741554300.375417"
+  "extracted": "1741554601.325823"
 }
