@@ -2280,7 +2280,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "84",
         "REASON": "The loss of supply is due to damage caused by cyclone activity. ",
-        "STATUS": "Work delayed - crews unable to continue",
+        "STATUS": "Crews on route",
         "START": "2:42AM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "CONNOLLY RD, DOUG RD, GEHAM RD, GEHAM STATION RD, GROOMSVILLE RD, MCAULEY RD, MERVYN RD, NEW ENGLAND HWY, PATZWALD RD, PERKINS FLAT RD, PLANT RD, ROBINSON RD, STRACK RD, TED RD",
@@ -3246,9 +3246,102 @@
         "STREETS": "CARBEEN ST, FRANCIS PL, GREVILLEA AVE, POINCIANA DR",
         "SUBURBS": "INNES PARK"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.312351,
+              -24.955672
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.290108,
+                  -24.972715
+                ],
+                [
+                  152.30574,
+                  -24.970073
+                ],
+                [
+                  152.305742,
+                  -24.970073
+                ],
+                [
+                  152.319798,
+                  -24.967642
+                ],
+                [
+                  152.3201,
+                  -24.967471
+                ],
+                [
+                  152.335166,
+                  -24.949257
+                ],
+                [
+                  152.335062,
+                  -24.948622
+                ],
+                [
+                  152.323484,
+                  -24.940969
+                ],
+                [
+                  152.323376,
+                  -24.940915
+                ],
+                [
+                  152.317021,
+                  -24.938629
+                ],
+                [
+                  152.316577,
+                  -24.938667
+                ],
+                [
+                  152.294598,
+                  -24.951293
+                ],
+                [
+                  152.294378,
+                  -24.95158
+                ],
+                [
+                  152.289535,
+                  -24.972179
+                ],
+                [
+                  152.290108,
+                  -24.972715
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25WB3616",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "22",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "6:53AM 10 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "CLAYTON RD, GILLENS CREEK RD, GILLENS SIDING RD, NEW VALLEY RD, PRICE ST, WISES RD",
+        "SUBURBS": "ALLOWAY, KENSINGTON"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741563009.209229"
+  "extracted": "1741563300.319877"
 }
