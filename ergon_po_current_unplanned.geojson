@@ -289,107 +289,6 @@
           {
             "type": "Point",
             "coordinates": [
-              150.636435,
-              -23.309547
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  150.625819,
-                  -23.329237
-                ],
-                [
-                  150.633781,
-                  -23.326695
-                ],
-                [
-                  150.6339,
-                  -23.326639
-                ],
-                [
-                  150.64242,
-                  -23.321149
-                ],
-                [
-                  150.642611,
-                  -23.320902
-                ],
-                [
-                  150.647196,
-                  -23.305963
-                ],
-                [
-                  150.647203,
-                  -23.305939
-                ],
-                [
-                  150.647663,
-                  -23.304046
-                ],
-                [
-                  150.647674,
-                  -23.303948
-                ],
-                [
-                  150.647678,
-                  -23.301558
-                ],
-                [
-                  150.647677,
-                  -23.301529
-                ],
-                [
-                  150.646896,
-                  -23.290275
-                ],
-                [
-                  150.646351,
-                  -23.289856
-                ],
-                [
-                  150.637531,
-                  -23.290826
-                ],
-                [
-                  150.637121,
-                  -23.291147
-                ],
-                [
-                  150.625191,
-                  -23.328684
-                ],
-                [
-                  150.625819,
-                  -23.329237
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25CA4755",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "67",
-        "REASON": "The loss of supply is due to damage caused by storm activity.",
-        "STATUS": "Crews working on-site",
-        "START": "4:28PM 09 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "GOFFAGES RD, HAROLD RD, KAYES RD, MOUNT CHALMERS RD, MURPHYS RD, NEW ZEALAND GULLY RD, OFF SCHOOL RD, SCENTED GUM RD, SCHOOL RD, SLEIPNER RD, WOOD ST",
-        "SUBURBS": "MOUNT CHALMERS"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               149.950436,
               -23.545665
             ]
@@ -860,6 +759,75 @@
           {
             "type": "Point",
             "coordinates": [
+              148.914589,
+              -23.313252
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.907004,
+                  -23.300927
+                ],
+                [
+                  148.92129,
+                  -23.325949
+                ],
+                [
+                  148.92193,
+                  -23.326147
+                ],
+                [
+                  148.922173,
+                  -23.325565
+                ],
+                [
+                  148.912882,
+                  -23.304963
+                ],
+                [
+                  148.912769,
+                  -23.30481
+                ],
+                [
+                  148.907774,
+                  -23.300391
+                ],
+                [
+                  148.907142,
+                  -23.300356
+                ],
+                [
+                  148.907004,
+                  -23.300927
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25CA4783",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "8:04PM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "CAPRICORN HWY, OFF CAPRICORN HWY, SCRUB CREEK RD, YARRABEE RD",
+        "SUBURBS": "BLACKWATER, BLUFF, MACKENZIE RIVER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.048539,
               -17.63492
             ]
@@ -1310,7 +1278,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "74",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "6:54PM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "ANGLERS PDE, PACIFIC DR, SEAFARER CT, SEASIDE PL",
@@ -3326,5 +3294,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741514701.963069"
+  "extracted": "1741515000.632102"
 }
