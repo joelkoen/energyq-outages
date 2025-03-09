@@ -18314,7 +18314,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "208",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "10:52PM 07 Mar 2025",
         "EST_FIX_TIME": "12:00AM 10 Mar 2025",
         "STREETS": "AQUAMARINE AVE, CATAMARAN ST, CENTRE RD, CRYSTAL ST, DIAMOND ST, ELM ST, EMERALD ST, FERRY CT, GEM ST, HIGH ST, JASPER ST, JEWEL ST, JUPITER ST, KETCH ST, MAROONDAH ST, MERCURY RD, MINJERRIBA RD, NEPTUNE ST, NORFOLK ST, OAK ST, OPAL CT, PEARL ST, RUBY ST, SAPPHIRE ST, SATURN ST, SCHOONER ST, SKIFF ST, SLOOP ST, TOPAZ ST, VENUS CT, ZIRCON ST",
@@ -19670,7 +19670,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "2414",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "11:13PM 07 Mar 2025",
         "EST_FIX_TIME": "12:00AM 10 Mar 2025",
         "STREETS": "ALPERTON RD, ALTITUDE ST, AMETHYST ST, ARISE BVD, ASCENT ST, ASPIRE ST, AWARD CL, BEECHMONT ST, BOTANICA ST, BOWEN ST, BRILLIANT PL, BUCKINGHAM PL, CHILDS ST, CHILTERN CT, COMMAND ST, COTSWOLD CT, CUNNINGHAM ST, DAVEY ST, DAWES ST, DELL ST, ELEVATE ST, EMINENT ST, FALCON ST, FARLEY RD, FARMERS ST, FISHER ST, FITZROY ST, FORD RD, FRANKLIN ST, GARDNER RD, GAWLER ST, GLENGALA DR, GOSHAWK CRES, GRAMPIAN CT, GRAND ST, GRANGE CL, GRIEVE RD, HARRIER ST, HARTOG PL, HILLCREST ST, HINDMARSH CT, HOBBY ST, JENYNS CT, KALA ST, KELLY ST, KENNEDY ST, KITE ST, KLOSKE RD, LAMORNA ST, LANDSBOROUGH ST, LATTANZIO ST, LEACROFT RD, LUX PL, MANCHESTER ST, MCMILLAN ESP, MENDIP ST, MILES PLATTING RD, MONICA ST, NETHERBY ST, PANORAMA ST, PARAGON ST, PAROLIN PDE, PEAK CT, PEREGRINE ST, PERIDOT PL, PERRING CRES, PETRIE ST, PHOENIX ST, PIA CT, PLATEAU PL, PREMIER ST, PRESTIGE ST, PRIESTDALE RD, QUANTOCK CT, RAPTOR ST, RESURGE ST, RITSIE ST, ROCHEDALE RD, ROSS ST, ROYAL CRES, SIMMINS PL, SKYVIEW AVE, SOAR ST, SPLENDOUR ST, STIRLING ST, SUPREME ST, THALLON ST, ULTIMO CT, VANSTONE ST, VIEWPOINT ST, WENDRON ST, WEST ST, WILLIAM ST, WOODLANDS DR, ZEEMAN ST, ZENITH ST, ZIRCON CL",
@@ -40107,7 +40107,7 @@
         "CUSTOMERS_AFFECTED": "52",
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
-        "START": "9:41PM 08 Mar 2025",
+        "START": "7:39PM 08 Mar 2025",
         "EST_FIX_TIME": "12:00AM 10 Mar 2025",
         "STREETS": "LYTTON RD, VIOLET ST",
         "SUBURBS": "HEMMANT",
@@ -46926,7 +46926,7 @@
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "3:39AM 09 Mar 2025",
-        "EST_FIX_TIME": "8:30PM 09 Mar 2025",
+        "EST_FIX_TIME": "9:00PM 09 Mar 2025",
         "STREETS": "ARAC ST, EWING RD",
         "SUBURBS": "WOODRIDGE",
         "ETR_FLAG": "N"
@@ -57569,9 +57569,123 @@
         "SUBURBS": "TUGUN",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.023406,
+              -27.277297
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.022285,
+                  -27.27756
+                ],
+                [
+                  153.02236,
+                  -27.277757
+                ],
+                [
+                  153.022466,
+                  -27.277917
+                ],
+                [
+                  153.022577,
+                  -27.278025
+                ],
+                [
+                  153.023025,
+                  -27.278167
+                ],
+                [
+                  153.024065,
+                  -27.278026
+                ],
+                [
+                  153.024492,
+                  -27.277615
+                ],
+                [
+                  153.024527,
+                  -27.277221
+                ],
+                [
+                  153.024341,
+                  -27.276834
+                ],
+                [
+                  153.023779,
+                  -27.276428
+                ],
+                [
+                  153.023102,
+                  -27.276462
+                ],
+                [
+                  153.022946,
+                  -27.276602
+                ],
+                [
+                  153.022946,
+                  -27.276603
+                ],
+                [
+                  153.022904,
+                  -27.276641
+                ],
+                [
+                  153.022904,
+                  -27.276641
+                ],
+                [
+                  153.0226,
+                  -27.276918
+                ],
+                [
+                  153.022443,
+                  -27.277061
+                ],
+                [
+                  153.022442,
+                  -27.277062
+                ],
+                [
+                  153.022401,
+                  -27.2771
+                ],
+                [
+                  153.022285,
+                  -27.27756
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-837680-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "48",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "7:12PM 08 Mar 2025",
+        "EST_FIX_TIME": "5:00AM 10 Mar 2025",
+        "STREETS": "BETTSON BVD",
+        "SUBURBS": "GRIFFIN",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741514404.820138"
+  "extracted": "1741515001.325194"
 }
