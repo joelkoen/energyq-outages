@@ -1233,6 +1233,71 @@
           {
             "type": "Point",
             "coordinates": [
+              139.885937,
+              -21.518526
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  139.884064,
+                  -21.508153
+                ],
+                [
+                  139.88385,
+                  -21.529303
+                ],
+                [
+                  139.884294,
+                  -21.529755
+                ],
+                [
+                  139.884805,
+                  -21.52937
+                ],
+                [
+                  139.888025,
+                  -21.507802
+                ],
+                [
+                  139.88748,
+                  -21.507296
+                ],
+                [
+                  139.884473,
+                  -21.507714
+                ],
+                [
+                  139.884064,
+                  -21.508153
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25NQ3974",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews working on-site",
+        "START": "10:19AM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "MAYFIELD STATION",
+        "SUBURBS": "DUCHESS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.788626,
               -19.296849
             ]
@@ -1311,7 +1376,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "35",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "5:32AM 10 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "BRIARFIELD ST, MULLIGAN ST, WATER ST",
@@ -3343,5 +3408,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741563300.319877"
+  "extracted": "1741563600.297219"
 }
