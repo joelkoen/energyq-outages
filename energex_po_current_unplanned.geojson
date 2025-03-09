@@ -55126,6 +55126,170 @@
           {
             "type": "Point",
             "coordinates": [
+              152.908458,
+              -27.576344
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.902194,
+                  -27.572284
+                ],
+                [
+                  152.907121,
+                  -27.580629
+                ],
+                [
+                  152.907561,
+                  -27.58087
+                ],
+                [
+                  152.914238,
+                  -27.580964
+                ],
+                [
+                  152.914722,
+                  -27.580668
+                ],
+                [
+                  152.914566,
+                  -27.580163
+                ],
+                [
+                  152.902963,
+                  -27.571724
+                ],
+                [
+                  152.902322,
+                  -27.571724
+                ],
+                [
+                  152.902194,
+                  -27.572284
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-838274-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "6:26AM 10 Mar 2025",
+        "EST_FIX_TIME": "12:00AM 11 Mar 2025",
+        "STREETS": "GRINDLE RD",
+        "SUBURBS": "WACOL",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.531548,
+              -28.169896
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.5242,
+                  -28.167406
+                ],
+                [
+                  153.527748,
+                  -28.173228
+                ],
+                [
+                  153.527963,
+                  -28.173415
+                ],
+                [
+                  153.529678,
+                  -28.174195
+                ],
+                [
+                  153.530217,
+                  -28.174154
+                ],
+                [
+                  153.531757,
+                  -28.173126
+                ],
+                [
+                  153.531784,
+                  -28.173106
+                ],
+                [
+                  153.538895,
+                  -28.167637
+                ],
+                [
+                  153.538779,
+                  -28.166889
+                ],
+                [
+                  153.535806,
+                  -28.165637
+                ],
+                [
+                  153.535536,
+                  -28.165596
+                ],
+                [
+                  153.524954,
+                  -28.166532
+                ],
+                [
+                  153.524721,
+                  -28.166606
+                ],
+                [
+                  153.524366,
+                  -28.166816
+                ],
+                [
+                  153.5242,
+                  -28.167406
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-838275-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "854",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "6:27AM 10 Mar 2025",
+        "EST_FIX_TIME": "12:00AM 11 Mar 2025",
+        "STREETS": "APPEL ST, CHURCHILL ST, COOLANGATTA RD, COYNE ST, DOUGLAS ST, GARRICK ST, GRIFFITH ST, HAIG ST, LORD ST, MARINE PDE, MCLEAN ST, MILES ST, MUSGRAVE ST, POWELL CRES, RUTLEDGE ST, STAPYLTON ST, TWEED ST, WINSTON ST",
+        "SUBURBS": "COOLANGATTA",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.966589,
               -27.417864
             ]
@@ -55443,5 +55607,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741551901.443925"
+  "extracted": "1741552501.347833"
 }
