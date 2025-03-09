@@ -375,7 +375,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "67",
         "REASON": "The loss of supply is due to damage caused by storm activity.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "4:28PM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "GOFFAGES RD, HAROLD RD, KAYES RD, MOUNT CHALMERS RD, MURPHYS RD, NEW ZEALAND GULLY RD, OFF SCHOOL RD, SCENTED GUM RD, SCHOOL RD, SLEIPNER RD, WOOD ST",
@@ -553,7 +553,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "4",
         "REASON": "The loss of supply is due to damage caused by storm activity.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "6:05PM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "DINGO-MT FLORA RD, FITZROY DEVELOPMENTAL RD",
@@ -777,6 +777,79 @@
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "LANGSTON LANE",
         "SUBURBS": "CLERMONT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.459611,
+              -23.464025
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.455325,
+                  -23.464814
+                ],
+                [
+                  150.456755,
+                  -23.465032
+                ],
+                [
+                  150.456849,
+                  -23.465037
+                ],
+                [
+                  150.463642,
+                  -23.464845
+                ],
+                [
+                  150.464115,
+                  -23.46442
+                ],
+                [
+                  150.463698,
+                  -23.463948
+                ],
+                [
+                  150.456759,
+                  -23.463013
+                ],
+                [
+                  150.45639,
+                  -23.463102
+                ],
+                [
+                  150.455107,
+                  -23.464011
+                ],
+                [
+                  150.455325,
+                  -23.464814
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25CA4782",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "6",
+        "REASON": "The loss of supply is due to damage caused by storm activity.",
+        "STATUS": "Outage reported",
+        "START": "4:39PM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "WASHPOOL RD",
+        "SUBURBS": "GRACEMERE"
       }
     },
     {
@@ -2291,7 +2364,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "22",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "4:48PM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "BARLOW RD, BOURKE RD, COLLEGE GREEN RD, HARRIGAN RD, RYEFORD-PRATTEN RD, SOBBE RD, TERRABELLA RD",
@@ -3132,9 +3205,126 @@
         "STREETS": "BRYANT ST, HILLYARD ST, HUNTER ST, OLD MARYBOROUGH RD, TAYLOR ST, TORQUAY RD",
         "SUBURBS": "PIALBA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.823164,
+              -25.264911
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.820514,
+                  -25.262905
+                ],
+                [
+                  152.820556,
+                  -25.263326
+                ],
+                [
+                  152.8206,
+                  -25.263476
+                ],
+                [
+                  152.821772,
+                  -25.265746
+                ],
+                [
+                  152.82178,
+                  -25.26576
+                ],
+                [
+                  152.822229,
+                  -25.266557
+                ],
+                [
+                  152.822242,
+                  -25.266579
+                ],
+                [
+                  152.822356,
+                  -25.266756
+                ],
+                [
+                  152.82236,
+                  -25.266761
+                ],
+                [
+                  152.822496,
+                  -25.266966
+                ],
+                [
+                  152.822824,
+                  -25.267175
+                ],
+                [
+                  152.824015,
+                  -25.267387
+                ],
+                [
+                  152.824343,
+                  -25.267343
+                ],
+                [
+                  152.824774,
+                  -25.267133
+                ],
+                [
+                  152.825016,
+                  -25.266865
+                ],
+                [
+                  152.825804,
+                  -25.264452
+                ],
+                [
+                  152.825813,
+                  -25.264231
+                ],
+                [
+                  152.825759,
+                  -25.263996
+                ],
+                [
+                  152.825424,
+                  -25.263661
+                ],
+                [
+                  152.821155,
+                  -25.262435
+                ],
+                [
+                  152.820514,
+                  -25.262905
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25WB3601",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "111",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "7:55PM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "GABRIEL WAY, HAYWORTH ST, KEHLET ST, KENNY WAY, LONG ST, MURPHY ST, PORTER ST, SAUNDERS ST",
+        "SUBURBS": "POINT VERNON"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741514101.839997"
+  "extracted": "1741514701.963069"
 }
