@@ -1071,71 +1071,6 @@
           {
             "type": "Point",
             "coordinates": [
-              148.575196,
-              -20.413771
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  148.571938,
-                  -20.417856
-                ],
-                [
-                  148.578656,
-                  -20.41587
-                ],
-                [
-                  148.578985,
-                  -20.415365
-                ],
-                [
-                  148.578018,
-                  -20.409877
-                ],
-                [
-                  148.577157,
-                  -20.409686
-                ],
-                [
-                  148.571407,
-                  -20.41716
-                ],
-                [
-                  148.571406,
-                  -20.417689
-                ],
-                [
-                  148.571938,
-                  -20.417856
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25MK2145",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "5",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews working on-site",
-        "START": "3:16PM 04 Mar 2025",
-        "EST_FIX_TIME": "4:00PM 10 Mar 2025",
-        "STREETS": "HINSCHEN ST, RENWICK RD",
-        "SUBURBS": "PROSERPINE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               149.149371,
               -21.014111
             ]
@@ -2038,7 +1973,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "19",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Work delayed - crews unable to continue",
+        "STATUS": "Outage reported",
         "START": "2:34AM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "GLENVALE RD, MCDOUGALL ST, NASH DR, TWILIGHT ST",
@@ -3172,7 +3107,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "25",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
+        "STATUS": "Work delayed - crews unable to continue",
         "START": "7:21AM 10 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "ELLERSLIE RD, GLENBAR RD, THOMPSON A RD, WALKERS FLAT RD",
@@ -3315,5 +3250,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741562400.302009"
+  "extracted": "1741563009.209229"
 }
