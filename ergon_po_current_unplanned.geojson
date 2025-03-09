@@ -398,8 +398,8 @@
           {
             "type": "Point",
             "coordinates": [
-              148.897609,
-              -22.940226
+              148.752393,
+              -23.113883
             ]
           },
           {
@@ -407,24 +407,52 @@
             "coordinates": [
               [
                 [
-                  148.851256,
-                  -22.932537
+                  148.4869,
+                  -23.21543
                 ],
                 [
-                  148.943747,
-                  -22.958946
+                  148.527703,
+                  -23.265369
                 ],
                 [
-                  148.944277,
-                  -22.95879
+                  148.528023,
+                  -23.265544
                 ],
                 [
-                  148.944305,
-                  -22.958276
+                  148.835834,
+                  -23.306261
                 ],
                 [
-                  148.919774,
-                  -22.921713
+                  148.83629,
+                  -23.30609
+                ],
+                [
+                  148.871228,
+                  -23.264416
+                ],
+                [
+                  148.871261,
+                  -23.264371
+                ],
+                [
+                  149.007255,
+                  -23.05336
+                ],
+                [
+                  149.007314,
+                  -23.053221
+                ],
+                [
+                  149.017946,
+                  -23.005549
+                ],
+                [
+                  149.017798,
+                  -23.005125
+                ],
+                [
+                  148.91969,
+                  -22.921619
                 ],
                 [
                   148.919282,
@@ -435,12 +463,32 @@
                   -22.93166
                 ],
                 [
-                  148.850914,
-                  -22.932074
+                  148.851161,
+                  -22.931712
                 ],
                 [
-                  148.851256,
-                  -22.932537
+                  148.642829,
+                  -23.040015
+                ],
+                [
+                  148.64275,
+                  -23.040066
+                ],
+                [
+                  148.52479,
+                  -23.133521
+                ],
+                [
+                  148.524659,
+                  -23.133686
+                ],
+                [
+                  148.486841,
+                  -23.21498
+                ],
+                [
+                  148.4869,
+                  -23.21543
                 ]
               ]
             ]
@@ -450,13 +498,13 @@
       "properties": {
         "EVENT_ID": "25CA4771",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "4",
+        "CUSTOMERS_AFFECTED": "35",
         "REASON": "The loss of supply is due to damage caused by storm activity.",
         "STATUS": "Crews on route",
         "START": "6:05PM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "DINGO-MT FLORA RD, FITZROY DEVELOPMENTAL RD",
-        "SUBURBS": "MACKENZIE RIVER, MIDDLEMOUNT"
+        "STREETS": "BEDFORD WEIR RD, DINGO-MT FLORA RD, FAIRHILL RD, FITZROY DEVELOPMENTAL RD, GRASSTREE RD, JELLINBAH RD, LAKE LINDSAY RD, MACKENZIE RVR-CAP RD, MOUNT STUART RD, MT STUART RD, MT STUART-BFD WEIR RD",
+        "SUBURBS": "BLACKWATER, BLUFF, CAPELLA, DINGO, MACKENZIE RIVER, MIDDLEMOUNT"
       }
     },
     {
@@ -2901,126 +2949,9 @@
         "STREETS": "BRYANT ST, HILLYARD ST, HUNTER ST, OLD MARYBOROUGH RD, TAYLOR ST, TORQUAY RD",
         "SUBURBS": "PIALBA"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              152.823164,
-              -25.264911
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.820514,
-                  -25.262905
-                ],
-                [
-                  152.820556,
-                  -25.263326
-                ],
-                [
-                  152.8206,
-                  -25.263476
-                ],
-                [
-                  152.821772,
-                  -25.265746
-                ],
-                [
-                  152.82178,
-                  -25.26576
-                ],
-                [
-                  152.822229,
-                  -25.266557
-                ],
-                [
-                  152.822242,
-                  -25.266579
-                ],
-                [
-                  152.822356,
-                  -25.266756
-                ],
-                [
-                  152.82236,
-                  -25.266761
-                ],
-                [
-                  152.822496,
-                  -25.266966
-                ],
-                [
-                  152.822824,
-                  -25.267175
-                ],
-                [
-                  152.824015,
-                  -25.267387
-                ],
-                [
-                  152.824343,
-                  -25.267343
-                ],
-                [
-                  152.824774,
-                  -25.267133
-                ],
-                [
-                  152.825016,
-                  -25.266865
-                ],
-                [
-                  152.825804,
-                  -25.264452
-                ],
-                [
-                  152.825813,
-                  -25.264231
-                ],
-                [
-                  152.825759,
-                  -25.263996
-                ],
-                [
-                  152.825424,
-                  -25.263661
-                ],
-                [
-                  152.821155,
-                  -25.262435
-                ],
-                [
-                  152.820514,
-                  -25.262905
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25WB3601",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "111",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
-        "START": "7:55PM 09 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "GABRIEL WAY, HAYWORTH ST, KEHLET ST, KENNY WAY, LONG ST, MURPHY ST, PORTER ST, SAUNDERS ST",
-        "SUBURBS": "POINT VERNON"
-      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741518904.924811"
+  "extracted": "1741519502.201715"
 }
