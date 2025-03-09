@@ -30273,7 +30273,7 @@
             "type": "Point",
             "coordinates": [
               153.075268,
-              -27.911462
+              -27.911466
             ]
           },
           {
@@ -30321,20 +30321,28 @@
                   -27.855062
                 ],
                 [
-                  153.114828,
-                  -27.854921
+                  153.11479,
+                  -27.854929
                 ],
                 [
-                  153.0173,
-                  -27.870234
+                  153.009718,
+                  -27.878914
                 ],
                 [
-                  153.017027,
-                  -27.870362
+                  153.009712,
+                  -27.878915
                 ],
                 [
-                  152.98842,
-                  -27.896064
+                  153.008772,
+                  -27.879141
+                ],
+                [
+                  153.008557,
+                  -27.879248
+                ],
+                [
+                  152.988433,
+                  -27.896052
                 ],
                 [
                   152.988328,
@@ -30348,12 +30356,12 @@
       "properties": {
         "EVENT_ID": "INCD-832600-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "416",
+        "CUSTOMERS_AFFECTED": "329",
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "4:15PM 08 Mar 2025",
         "EST_FIX_TIME": "12:00AM 10 Mar 2025",
-        "STREETS": "ADRIAN ST, ALBERT RIVER PL, ASHWOOD DR, BANKSIA CT, BIRCHWOOD ST, BLACKBEAN ST, BLOODWOOD CT, BLUFF RD, BUNYA CT, CARL DR, CARLIE CT, CASCARA DR, CASWELL RD, CEDARWOOD CL, CLUTHA CREEK RD, CORAL TREE CT, DYLAN CT, ELLENDALE LANE, ELWYN DR, FERNHURST CL, FERNTREE CT, FOXTAIL CT, HIGHVIEW CT, MAHONY RD, MICHAEL CL, MILLSTREAM RD, MIMOSA CT, MUNDOOLUN CONNECTION RD, MUNSTERVALE RD, OLD BLUFF RD, SASSAFRAS CL, SUNDOWN CT, TAIT CT, TEAK ST, THE BLUFF CT, WATERFORD-TAMBORINE RD, YORE RD",
+        "STREETS": "ADRIAN ST, ALBERT RIVER PL, ASHWOOD DR, BLACKBEAN ST, BLUFF RD, BUNYA CT, CARL DR, CARLIE CT, CASWELL RD, CEDARWOOD CL, CLUTHA CREEK RD, CORAL TREE CT, DYLAN CT, ELLENDALE LANE, ELWYN DR, FERNHURST CL, FERNTREE CT, FOXTAIL CT, HIGHVIEW CT, MAHONY RD, MICHAEL CL, MILLSTREAM RD, MIMOSA CT, MUNDOOLUN CONNECTION RD, MUNSTERVALE RD, OLD BLUFF RD, SASSAFRAS CL, SUNDOWN CT, TAIT CT, TEAK ST, THE BLUFF CT, WATERFORD-TAMBORINE RD, YORE RD",
         "SUBURBS": "CEDAR VALE, TAMBORINE, VERESDALE, VERESDALE SCRUB, WONGLEPONG, WOODHILL",
         "ETR_FLAG": "N"
       }
@@ -46910,7 +46918,7 @@
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "3:39AM 09 Mar 2025",
-        "EST_FIX_TIME": "7:00PM 09 Mar 2025",
+        "EST_FIX_TIME": "7:30PM 09 Mar 2025",
         "STREETS": "ARAC ST, EWING RD",
         "SUBURBS": "WOODRIDGE",
         "ETR_FLAG": "N"
@@ -54466,6 +54474,96 @@
           {
             "type": "Point",
             "coordinates": [
+              153.430432,
+              -28.027467
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.429601,
+                  -28.027828
+                ],
+                [
+                  153.429601,
+                  -28.027839
+                ],
+                [
+                  153.42961,
+                  -28.027906
+                ],
+                [
+                  153.429642,
+                  -28.028061
+                ],
+                [
+                  153.430053,
+                  -28.028423
+                ],
+                [
+                  153.430579,
+                  -28.02821
+                ],
+                [
+                  153.431263,
+                  -28.027193
+                ],
+                [
+                  153.430822,
+                  -28.02651
+                ],
+                [
+                  153.430708,
+                  -28.026511
+                ],
+                [
+                  153.430562,
+                  -28.026532
+                ],
+                [
+                  153.430268,
+                  -28.026613
+                ],
+                [
+                  153.42994,
+                  -28.026892
+                ],
+                [
+                  153.42963,
+                  -28.027661
+                ],
+                [
+                  153.429601,
+                  -28.027828
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-837162-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "16",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "4:23PM 09 Mar 2025",
+        "EST_FIX_TIME": "2:00AM 10 Mar 2025",
+        "STREETS": "GOLD COAST HWY, JUBILEE AVE, QUEENSLAND AVE",
+        "SUBURBS": "BROADBEACH",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.061869,
               -27.413588
             ]
@@ -56577,9 +56675,389 @@
         "SUBURBS": "TOOWONG",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.416993,
+              -27.974719
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.415684,
+                  -27.975511
+                ],
+                [
+                  153.416061,
+                  -27.975922
+                ],
+                [
+                  153.416442,
+                  -27.976089
+                ],
+                [
+                  153.417235,
+                  -27.976107
+                ],
+                [
+                  153.417569,
+                  -27.976006
+                ],
+                [
+                  153.418164,
+                  -27.975576
+                ],
+                [
+                  153.418347,
+                  -27.975289
+                ],
+                [
+                  153.418375,
+                  -27.975111
+                ],
+                [
+                  153.418377,
+                  -27.975096
+                ],
+                [
+                  153.418383,
+                  -27.975042
+                ],
+                [
+                  153.418386,
+                  -27.974995
+                ],
+                [
+                  153.418386,
+                  -27.974891
+                ],
+                [
+                  153.418339,
+                  -27.974702
+                ],
+                [
+                  153.417714,
+                  -27.973496
+                ],
+                [
+                  153.416937,
+                  -27.973331
+                ],
+                [
+                  153.416168,
+                  -27.973872
+                ],
+                [
+                  153.416006,
+                  -27.974073
+                ],
+                [
+                  153.415601,
+                  -27.975074
+                ],
+                [
+                  153.415684,
+                  -27.975511
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-837539-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "218",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "6:06PM 09 Mar 2025",
+        "EST_FIX_TIME": "3:30AM 10 Mar 2025",
+        "STREETS": "BAUER ST, MERON ST",
+        "SUBURBS": "SOUTHPORT",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.91042,
+              -27.215991
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.908914,
+                  -27.214446
+                ],
+                [
+                  152.90914,
+                  -27.214916
+                ],
+                [
+                  152.909161,
+                  -27.214954
+                ],
+                [
+                  152.910981,
+                  -27.217929
+                ],
+                [
+                  152.911574,
+                  -27.218144
+                ],
+                [
+                  152.911926,
+                  -27.217665
+                ],
+                [
+                  152.911757,
+                  -27.21625
+                ],
+                [
+                  152.911676,
+                  -27.21605
+                ],
+                [
+                  152.910284,
+                  -27.214157
+                ],
+                [
+                  152.910015,
+                  -27.213975
+                ],
+                [
+                  152.90953,
+                  -27.213838
+                ],
+                [
+                  152.908914,
+                  -27.214446
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-837540-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "7",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "6:16PM 09 Mar 2025",
+        "EST_FIX_TIME": "3:30AM 10 Mar 2025",
+        "STREETS": "PARKLANDS CT, THEODORE RD",
+        "SUBURBS": "KURWONGBAH",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.439477,
+              -28.07128
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.436957,
+                  -28.070106
+                ],
+                [
+                  153.437012,
+                  -28.07041
+                ],
+                [
+                  153.437018,
+                  -28.070438
+                ],
+                [
+                  153.437489,
+                  -28.072305
+                ],
+                [
+                  153.437544,
+                  -28.07243
+                ],
+                [
+                  153.437641,
+                  -28.07258
+                ],
+                [
+                  153.43768,
+                  -28.072632
+                ],
+                [
+                  153.437869,
+                  -28.072849
+                ],
+                [
+                  153.437884,
+                  -28.072866
+                ],
+                [
+                  153.437972,
+                  -28.072957
+                ],
+                [
+                  153.438362,
+                  -28.073116
+                ],
+                [
+                  153.440758,
+                  -28.073103
+                ],
+                [
+                  153.440783,
+                  -28.073103
+                ],
+                [
+                  153.441599,
+                  -28.073062
+                ],
+                [
+                  153.441996,
+                  -28.072364
+                ],
+                [
+                  153.441798,
+                  -28.072097
+                ],
+                [
+                  153.441733,
+                  -28.072026
+                ],
+                [
+                  153.441324,
+                  -28.071664
+                ],
+                [
+                  153.441276,
+                  -28.071626
+                ],
+                [
+                  153.438098,
+                  -28.069445
+                ],
+                [
+                  153.437468,
+                  -28.06945
+                ],
+                [
+                  153.437141,
+                  -28.069682
+                ],
+                [
+                  153.436957,
+                  -28.070106
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-837542-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "121",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "6:13PM 09 Mar 2025",
+        "EST_FIX_TIME": "10:00AM 10 Mar 2025",
+        "STREETS": "ALBION AVE, CRISP CT, NOBBY PDE, SNIPE ST",
+        "SUBURBS": "MIAMI",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.424381,
+              -28.047384
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.423891,
+                  -28.048062
+                ],
+                [
+                  153.42474,
+                  -28.048094
+                ],
+                [
+                  153.425245,
+                  -28.047503
+                ],
+                [
+                  153.424992,
+                  -28.046819
+                ],
+                [
+                  153.424114,
+                  -28.046675
+                ],
+                [
+                  153.423517,
+                  -28.047327
+                ],
+                [
+                  153.423891,
+                  -28.048062
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-837545-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "81",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "6:14PM 09 Mar 2025",
+        "EST_FIX_TIME": "3:30AM 10 Mar 2025",
+        "STREETS": "MARKERI ST",
+        "SUBURBS": "MERMAID WATERS",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741509006.430998"
+  "extracted": "1741509300.276666"
 }

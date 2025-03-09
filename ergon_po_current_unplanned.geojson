@@ -685,6 +685,83 @@
           {
             "type": "Point",
             "coordinates": [
+              140.965919,
+              -18.528782
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  140.653694,
+                  -18.391854
+                ],
+                [
+                  141.20685,
+                  -18.871409
+                ],
+                [
+                  141.207629,
+                  -18.871171
+                ],
+                [
+                  141.278135,
+                  -18.561167
+                ],
+                [
+                  141.278145,
+                  -18.561046
+                ],
+                [
+                  141.270351,
+                  -18.431401
+                ],
+                [
+                  141.270146,
+                  -18.431055
+                ],
+                [
+                  140.893895,
+                  -18.186156
+                ],
+                [
+                  140.893316,
+                  -18.186192
+                ],
+                [
+                  140.653697,
+                  -18.391187
+                ],
+                [
+                  140.653694,
+                  -18.391854
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25FN3217",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "26",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:28PM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BURKE DEVELOPMENT RD, IFFLEY RD, UNKNOWN ST",
+        "SUBURBS": "NORMANTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               148.699115,
               -21.128222
             ]
@@ -1002,7 +1079,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "16",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "6:02PM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "GEANEY LANE, LEONIE ST",
@@ -2175,8 +2252,8 @@
           {
             "type": "Point",
             "coordinates": [
-              152.840697,
-              -25.28146
+              152.840031,
+              -25.280556
             ]
           },
           {
@@ -2200,44 +2277,68 @@
                   -25.281549
                 ],
                 [
-                  152.836719,
-                  -25.281763
+                  152.836858,
+                  -25.281817
                 ],
                 [
-                  152.840964,
-                  -25.284175
+                  152.83991,
+                  -25.282532
                 ],
                 [
-                  152.841177,
-                  -25.284241
+                  152.840007,
+                  -25.282546
                 ],
                 [
-                  152.84256,
-                  -25.284365
+                  152.840281,
+                  -25.282559
                 ],
                 [
-                  152.842789,
-                  -25.284337
+                  152.840352,
+                  -25.282558
                 ],
                 [
-                  152.844969,
-                  -25.283559
+                  152.841097,
+                  -25.282495
                 ],
                 [
-                  152.845281,
-                  -25.28318
+                  152.841197,
+                  -25.282477
                 ],
                 [
-                  152.84541,
-                  -25.281843
+                  152.843223,
+                  -25.281909
                 ],
                 [
-                  152.845219,
-                  -25.281447
+                  152.84336,
+                  -25.281848
                 ],
                 [
-                  152.841924,
-                  -25.279143
+                  152.84397,
+                  -25.281461
+                ],
+                [
+                  152.844078,
+                  -25.280817
+                ],
+                [
+                  152.843975,
+                  -25.280696
+                ],
+                [
+                  152.843905,
+                  -25.28063
+                ],
+                [
+                  152.843343,
+                  -25.280193
+                ],
+                [
+                  152.843334,
+                  -25.280186
+                ],
+                [
+                  152.841935,
+                  -25.279151
                 ],
                 [
                   152.841761,
@@ -2299,12 +2400,12 @@
       "properties": {
         "EVENT_ID": "25WB3571",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "350",
+        "CUSTOMERS_AFFECTED": "238",
         "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
         "STATUS": "Crews working on-site",
         "START": "9:09AM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "BRYANT ST, CHARLES ST, CHARLTON ESP, ESPLANADE, HILLYARD ST, HUNTER ST, MAIN ST, OLD MARYBOROUGH RD, PETERS LANE, TAYLOR ST, TORQUAY RD, WATSON ST",
+        "STREETS": "BRYANT ST, CHARLES ST, CHARLTON ESP, ESPLANADE, HILLYARD ST, MAIN ST, PETERS LANE, TORQUAY RD, WATSON ST",
         "SUBURBS": "PIALBA"
       }
     },
@@ -3025,9 +3126,102 @@
         "STREETS": "ESPLANADE, FRESHWATER ST, TORQUAY TCE",
         "SUBURBS": "TORQUAY"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.842907,
+              -25.28258
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.840403,
+                  -25.281413
+                ],
+                [
+                  152.840735,
+                  -25.283849
+                ],
+                [
+                  152.841177,
+                  -25.284241
+                ],
+                [
+                  152.84256,
+                  -25.284365
+                ],
+                [
+                  152.842789,
+                  -25.284337
+                ],
+                [
+                  152.844969,
+                  -25.283559
+                ],
+                [
+                  152.845281,
+                  -25.28318
+                ],
+                [
+                  152.84541,
+                  -25.281843
+                ],
+                [
+                  152.845007,
+                  -25.281361
+                ],
+                [
+                  152.844258,
+                  -25.281237
+                ],
+                [
+                  152.844245,
+                  -25.281235
+                ],
+                [
+                  152.841102,
+                  -25.280795
+                ],
+                [
+                  152.840679,
+                  -25.280919
+                ],
+                [
+                  152.840546,
+                  -25.281038
+                ],
+                [
+                  152.840403,
+                  -25.281413
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25WB3596",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "112",
+        "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
+        "STATUS": "Crews working on-site",
+        "START": "9:09AM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BRYANT ST, HILLYARD ST, HUNTER ST, OLD MARYBOROUGH RD, TAYLOR ST, TORQUAY RD",
+        "SUBURBS": "PIALBA"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741509006.555999"
+  "extracted": "1741509301.357981"
 }
