@@ -1005,6 +1005,107 @@
           {
             "type": "Point",
             "coordinates": [
+              147.244374,
+              -19.759238
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.22062,
+                  -19.762109
+                ],
+                [
+                  147.234,
+                  -19.790509
+                ],
+                [
+                  147.234641,
+                  -19.790733
+                ],
+                [
+                  147.262918,
+                  -19.77801
+                ],
+                [
+                  147.263174,
+                  -19.777719
+                ],
+                [
+                  147.266534,
+                  -19.765821
+                ],
+                [
+                  147.26655,
+                  -19.765727
+                ],
+                [
+                  147.268129,
+                  -19.736215
+                ],
+                [
+                  147.268018,
+                  -19.735901
+                ],
+                [
+                  147.267975,
+                  -19.735853
+                ],
+                [
+                  147.267878,
+                  -19.73577
+                ],
+                [
+                  147.257766,
+                  -19.729227
+                ],
+                [
+                  147.25759,
+                  -19.729156
+                ],
+                [
+                  147.250073,
+                  -19.727742
+                ],
+                [
+                  147.24961,
+                  -19.7279
+                ],
+                [
+                  147.220685,
+                  -19.76164
+                ],
+                [
+                  147.22062,
+                  -19.762109
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25NQ3995",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "43",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "11:55PM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "AYR DALBEG RD, CLARE RD, GEORGE RD, KIRKNIE RD, SHEPHERD RD, STRAUSS RD, TILLER RD, TOBRUK RD",
+        "SUBURBS": "CLARE, HOME HILL, MONA PARK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.158982,
               -27.335853
             ]
@@ -2687,5 +2788,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741528502.000485"
+  "extracted": "1741528807.757768"
 }
