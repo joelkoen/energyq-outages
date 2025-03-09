@@ -564,79 +564,6 @@
           {
             "type": "Point",
             "coordinates": [
-              148.940163,
-              -21.199765
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  148.938352,
-                  -21.199311
-                ],
-                [
-                  148.941239,
-                  -21.202762
-                ],
-                [
-                  148.941844,
-                  -21.202881
-                ],
-                [
-                  148.942076,
-                  -21.202344
-                ],
-                [
-                  148.940157,
-                  -21.196801
-                ],
-                [
-                  148.939331,
-                  -21.196649
-                ],
-                [
-                  148.938389,
-                  -21.197699
-                ],
-                [
-                  148.938276,
-                  -21.197979
-                ],
-                [
-                  148.93825,
-                  -21.199021
-                ],
-                [
-                  148.938352,
-                  -21.199311
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25MK2270",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
-        "START": "8:27AM 09 Mar 2025",
-        "EST_FIX_TIME": "6:00PM 09 Mar 2025",
-        "STREETS": "ALLANDALE RD",
-        "SUBURBS": "MARIAN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               146.207433,
               -18.981624
             ]
@@ -2781,7 +2708,7 @@
       "properties": {
         "EVENT_ID": "25SW4374",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "714",
+        "CUSTOMERS_AFFECTED": "252",
         "REASON": "The loss of supply is due to the operating of protective equipment. ",
         "STATUS": "Crews working on-site",
         "START": "4:08AM 09 Mar 2025",
@@ -3685,119 +3612,6 @@
           {
             "type": "Point",
             "coordinates": [
-              151.9685,
-              -27.544405
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.963283,
-                  -27.541838
-                ],
-                [
-                  151.965766,
-                  -27.545573
-                ],
-                [
-                  151.965778,
-                  -27.54559
-                ],
-                [
-                  151.966711,
-                  -27.54686
-                ],
-                [
-                  151.966746,
-                  -27.546902
-                ],
-                [
-                  151.967067,
-                  -27.547242
-                ],
-                [
-                  151.967411,
-                  -27.547401
-                ],
-                [
-                  151.970505,
-                  -27.547634
-                ],
-                [
-                  151.970797,
-                  -27.547578
-                ],
-                [
-                  151.973102,
-                  -27.546413
-                ],
-                [
-                  151.973331,
-                  -27.546166
-                ],
-                [
-                  151.973716,
-                  -27.545155
-                ],
-                [
-                  151.973691,
-                  -27.544812
-                ],
-                [
-                  151.973223,
-                  -27.543961
-                ],
-                [
-                  151.972962,
-                  -27.543743
-                ],
-                [
-                  151.970949,
-                  -27.543005
-                ],
-                [
-                  151.970897,
-                  -27.542988
-                ],
-                [
-                  151.963857,
-                  -27.541177
-                ],
-                [
-                  151.963318,
-                  -27.541333
-                ],
-                [
-                  151.963283,
-                  -27.541838
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25SW4387",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "182",
-        "REASON": "The loss of supply is due to fallen power lines.  ",
-        "STATUS": "Crews working on-site",
-        "START": "6:37AM 09 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "BECK ST, BENJAMIN ST, ESTHER ST, GLENDOWER ST, MARY ST, NORTH ST, OWEN ST, RANGE ST, RODERIC CT, SOURRIS ST, SPIEKER ST, STUART ST, VIDEO AVE, WARANA AVE",
-        "SUBURBS": "MOUNT LOFTY, TOOWOOMBA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               151.827648,
               -27.511245
             ]
@@ -4661,5 +4475,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741489801.513315"
+  "extracted": "1741490401.506339"
 }
