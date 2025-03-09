@@ -1010,7 +1010,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "122",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "6:21PM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "BANNISTER ST, JULIET ST, KIPPEN ST, PRATT ST",
@@ -1140,6 +1140,107 @@
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "BOWER ST, CURLEW ST, QUAIL ST, SANDPIPER CT, SEAGULL ST, SLADE POINT RD, SWAN ST, SWIFT ST, TERN ST",
         "SUBURBS": "SLADE POINT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              149.194211,
+              -21.062407
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.192425,
+                  -21.05977
+                ],
+                [
+                  149.192439,
+                  -21.060061
+                ],
+                [
+                  149.192445,
+                  -21.060118
+                ],
+                [
+                  149.193158,
+                  -21.063928
+                ],
+                [
+                  149.193315,
+                  -21.064189
+                ],
+                [
+                  149.194958,
+                  -21.065543
+                ],
+                [
+                  149.195754,
+                  -21.065245
+                ],
+                [
+                  149.195998,
+                  -21.062727
+                ],
+                [
+                  149.195963,
+                  -21.062514
+                ],
+                [
+                  149.19538,
+                  -21.061185
+                ],
+                [
+                  149.195344,
+                  -21.06112
+                ],
+                [
+                  149.195116,
+                  -21.060774
+                ],
+                [
+                  149.19507,
+                  -21.060715
+                ],
+                [
+                  149.193876,
+                  -21.059426
+                ],
+                [
+                  149.19349,
+                  -21.059271
+                ],
+                [
+                  149.192882,
+                  -21.059298
+                ],
+                [
+                  149.192425,
+                  -21.05977
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25MK2280",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "74",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "6:54PM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "ANGLERS PDE, PACIFIC DR, SEAFARER CT, SEASIDE PL",
+        "SUBURBS": "BLACKS BEACH"
       }
     },
     {
@@ -3284,5 +3385,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741510805.729929"
+  "extracted": "1741511404.350441"
 }

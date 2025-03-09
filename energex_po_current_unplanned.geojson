@@ -46918,7 +46918,7 @@
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "3:39AM 09 Mar 2025",
-        "EST_FIX_TIME": "7:30PM 09 Mar 2025",
+        "EST_FIX_TIME": "8:00PM 09 Mar 2025",
         "STREETS": "ARAC ST, EWING RD",
         "SUBURBS": "WOODRIDGE",
         "ETR_FLAG": "N"
@@ -56388,7 +56388,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "690",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "6:07PM 09 Mar 2025",
         "EST_FIX_TIME": "9:00PM 09 Mar 2025",
         "STREETS": "ARMSTRONG CT, BRUCE HWY, CHEVALLUM RD, CROSBY HILL RD, CYCAD LANE, EMPIRE CRES, FERNY GLEN RD, FIRETAIL CT, FOLEY RD, FOREST OAK CT, GALLAGHERS RD, GLENMOUNT RD, GORDON DR, HERITAGE PL, ILKLEY RD, IRONBARK RD, KENSINGTON LANE, KIRBY CT, KITNEY CL, LIANA PL, MAIN CREEK RD, MANNIKIN RD, MINDA CL, MONARCH PL, MONS RD, MOUNTAIN CREEK RD, OLD BRUCE HWY, OWEN CREEK RD, PALM CREEK RD, PALM FOREST CCT, PALMETTO ST, RADBOURNE RD, RAINFOREST RD, RITA CT, SAWREYS RD, SHADY GR, SIPPY CREEK RD, SIPPY DOWNS DR, SUNDOWN CL, TANAWHA RD, TANAWHA TOURIST DR, TAYLORS RD, TURNBULL PL, WALGARRI DR, WATERLOO CT, WILSON RD",
@@ -57051,9 +57051,127 @@
         "SUBURBS": "BOWEN HILLS, WINDSOR",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.488315,
+              -28.145534
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.486076,
+                  -28.144446
+                ],
+                [
+                  153.486358,
+                  -28.14676
+                ],
+                [
+                  153.486611,
+                  -28.147103
+                ],
+                [
+                  153.487927,
+                  -28.147772
+                ],
+                [
+                  153.488163,
+                  -28.147832
+                ],
+                [
+                  153.488347,
+                  -28.147837
+                ],
+                [
+                  153.488622,
+                  -28.147775
+                ],
+                [
+                  153.488799,
+                  -28.147682
+                ],
+                [
+                  153.488805,
+                  -28.147679
+                ],
+                [
+                  153.49033,
+                  -28.146859
+                ],
+                [
+                  153.490553,
+                  -28.146342
+                ],
+                [
+                  153.489844,
+                  -28.144275
+                ],
+                [
+                  153.489761,
+                  -28.144133
+                ],
+                [
+                  153.489441,
+                  -28.143761
+                ],
+                [
+                  153.489154,
+                  -28.143595
+                ],
+                [
+                  153.487421,
+                  -28.143231
+                ],
+                [
+                  153.486942,
+                  -28.143352
+                ],
+                [
+                  153.486801,
+                  -28.143479
+                ],
+                [
+                  153.486776,
+                  -28.143503
+                ],
+                [
+                  153.486195,
+                  -28.144104
+                ],
+                [
+                  153.486076,
+                  -28.144446
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-837594-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "97",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "6:38PM 09 Mar 2025",
+        "EST_FIX_TIME": "10:00AM 10 Mar 2025",
+        "STREETS": "ALKIRA ST, ATTINGA ST, BIBY ST, ILLAWARRA CRES, ILLAWARRA CT, MARION ST, TOOLONA ST, WYBERBA ST",
+        "SUBURBS": "TUGUN",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741510500.492975"
+  "extracted": "1741511101.28054"
 }
