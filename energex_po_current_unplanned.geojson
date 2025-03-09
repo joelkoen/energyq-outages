@@ -37859,7 +37859,7 @@
             "type": "Point",
             "coordinates": [
               152.998977,
-              -27.166786
+              -27.166767
             ]
           },
           {
@@ -37891,20 +37891,20 @@
                   -27.160566
                 ],
                 [
-                  152.978544,
-                  -27.160592
+                  152.978602,
+                  -27.160701
                 ],
                 [
-                  152.982557,
-                  -27.171838
+                  152.97899,
+                  -27.161235
                 ],
                 [
-                  152.98273,
-                  -27.172058
+                  152.979016,
+                  -27.161267
                 ],
                 [
-                  152.997236,
-                  -27.182045
+                  152.997146,
+                  -27.181965
                 ],
                 [
                   152.9979,
@@ -37982,7 +37982,7 @@
       "properties": {
         "EVENT_ID": "INCD-833718-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "1406",
+        "CUSTOMERS_AFFECTED": "1245",
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "9:36PM 08 Mar 2025",
@@ -48182,7 +48182,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "18",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "In Progress",
+        "STATUS": "Awaiting",
         "START": "7:56AM 09 Mar 2025",
         "EST_FIX_TIME": "12:00PM 10 Mar 2025",
         "STREETS": "BELLVE CT, FAITH AVE",
@@ -56895,9 +56895,103 @@
         "SUBURBS": "BELMONT, CAMP HILL, CARINDALE, CHANDLER, GUMDALE, WAKERLEY",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.239998,
+              -27.522403
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.236525,
+                  -27.519771
+                ],
+                [
+                  153.23751,
+                  -27.524335
+                ],
+                [
+                  153.237519,
+                  -27.52437
+                ],
+                [
+                  153.23779,
+                  -27.52524
+                ],
+                [
+                  153.238285,
+                  -27.525571
+                ],
+                [
+                  153.239105,
+                  -27.52556
+                ],
+                [
+                  153.239256,
+                  -27.525537
+                ],
+                [
+                  153.24315,
+                  -27.524394
+                ],
+                [
+                  153.243471,
+                  -27.52382
+                ],
+                [
+                  153.242202,
+                  -27.520491
+                ],
+                [
+                  153.241867,
+                  -27.520203
+                ],
+                [
+                  153.238579,
+                  -27.519332
+                ],
+                [
+                  153.238466,
+                  -27.519314
+                ],
+                [
+                  153.237054,
+                  -27.519235
+                ],
+                [
+                  153.236525,
+                  -27.519771
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-837963-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "141",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "12:14AM 10 Mar 2025",
+        "EST_FIX_TIME": "3:30PM 10 Mar 2025",
+        "STREETS": "DAWSON RD, DEAN RD, FINUCANE RD, HIGHRIDGE PL, LUDMILLA PL, MCMILLAN RD, MORRIS ST",
+        "SUBURBS": "ALEXANDRA HILLS, CLEVELAND",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741529780.456304"
+  "extracted": "1741530301.855049"
 }
