@@ -705,9 +705,9 @@
       "properties": {
         "EVENT_ID": "25FN3207",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "36",
+        "CUSTOMERS_AFFECTED": "20",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
+        "STATUS": "Work delayed - crews unable to continue",
         "START": "3:18PM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "BROWNSVILLE ST, BROWNVILLE RD, COOLGARRA RD, GUNNAWARRA RD, HAY ST, KENNEDY HWY, MILES GLY, UNKNOWN ST",
@@ -978,7 +978,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "122",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "6:21PM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "BANNISTER ST, JULIET ST, KIPPEN ST, PRATT ST",
@@ -1342,11 +1342,120 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "16",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "6:02PM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "GEANEY LANE, LEONIE ST",
         "SUBURBS": "DEERAGUN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              139.499374,
+              -20.730428
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  139.496904,
+                  -20.72986
+                ],
+                [
+                  139.496913,
+                  -20.730075
+                ],
+                [
+                  139.497236,
+                  -20.730481
+                ],
+                [
+                  139.499066,
+                  -20.731065
+                ],
+                [
+                  139.499104,
+                  -20.731076
+                ],
+                [
+                  139.499211,
+                  -20.731101
+                ],
+                [
+                  139.49922,
+                  -20.731103
+                ],
+                [
+                  139.50036,
+                  -20.731346
+                ],
+                [
+                  139.500398,
+                  -20.731353
+                ],
+                [
+                  139.50109,
+                  -20.731446
+                ],
+                [
+                  139.501153,
+                  -20.73145
+                ],
+                [
+                  139.501323,
+                  -20.731452
+                ],
+                [
+                  139.501801,
+                  -20.73106
+                ],
+                [
+                  139.501843,
+                  -20.730745
+                ],
+                [
+                  139.501477,
+                  -20.730251
+                ],
+                [
+                  139.499761,
+                  -20.729882
+                ],
+                [
+                  139.499759,
+                  -20.729881
+                ],
+                [
+                  139.497484,
+                  -20.729404
+                ],
+                [
+                  139.496904,
+                  -20.72986
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25NQ3989",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "26",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews working on-site",
+        "START": "6:09PM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "PAMELA ST, SPENCE ST",
+        "SUBURBS": "MORNINGTON, THE GAP"
       }
     },
     {
@@ -2500,7 +2609,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "415",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
+        "STATUS": "Work delayed. Crew unable to continue.",
         "START": "8:31AM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "ESPLANADE, FRANK ST, FRESHWATER ST, GOSSNER ST, MCKEAN RD, QUEENS RD, SCARBOROUGH ST, TORQUAY RD, TORQUAY TCE, TOTNESS ST",
@@ -2665,7 +2774,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "238",
         "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
-        "STATUS": "Crews working on-site",
+        "STATUS": "Work delayed. Crew unable to continue.",
         "START": "9:09AM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "BRYANT ST, CHARLES ST, CHARLTON ESP, ESPLANADE, HILLYARD ST, MAIN ST, PETERS LANE, TORQUAY RD, WATSON ST",
@@ -2766,7 +2875,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "508",
         "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
-        "STATUS": "Crews working on-site",
+        "STATUS": "Work delayed. Crew unable to continue.",
         "START": "11:20AM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "BIDEFORD ST, CAMPBELL ST, DENMANS CAMP RD, ESPLANADE, FRESHWATER ST, TAVISTOCK ST, TORQUAY TCE, TOTNESS ST, TRURO ST",
@@ -2891,261 +3000,11 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "79",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
+        "STATUS": "Work delayed. Crew unable to continue.",
         "START": "2:13PM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "DOWN ST, HERVEY ST, MCKEAN RD, SCARBOROUGH ST, TORQUAY RD",
         "SUBURBS": "SCARNESS"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              152.819519,
-              -25.255754
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.811111,
-                  -25.247545
-                ],
-                [
-                  152.822232,
-                  -25.266563
-                ],
-                [
-                  152.822242,
-                  -25.266579
-                ],
-                [
-                  152.822356,
-                  -25.266756
-                ],
-                [
-                  152.82236,
-                  -25.266761
-                ],
-                [
-                  152.822496,
-                  -25.266966
-                ],
-                [
-                  152.822824,
-                  -25.267175
-                ],
-                [
-                  152.824015,
-                  -25.267387
-                ],
-                [
-                  152.824343,
-                  -25.267343
-                ],
-                [
-                  152.824774,
-                  -25.267133
-                ],
-                [
-                  152.825012,
-                  -25.266874
-                ],
-                [
-                  152.826442,
-                  -25.262836
-                ],
-                [
-                  152.826464,
-                  -25.262739
-                ],
-                [
-                  152.827927,
-                  -25.248214
-                ],
-                [
-                  152.827583,
-                  -25.247744
-                ],
-                [
-                  152.815688,
-                  -25.24435
-                ],
-                [
-                  152.815685,
-                  -25.244349
-                ],
-                [
-                  152.815381,
-                  -25.244264
-                ],
-                [
-                  152.815356,
-                  -25.244258
-                ],
-                [
-                  152.814769,
-                  -25.244125
-                ],
-                [
-                  152.814551,
-                  -25.24412
-                ],
-                [
-                  152.814153,
-                  -25.244193
-                ],
-                [
-                  152.813903,
-                  -25.244314
-                ],
-                [
-                  152.811974,
-                  -25.246048
-                ],
-                [
-                  152.811922,
-                  -25.246103
-                ],
-                [
-                  152.811148,
-                  -25.247069
-                ],
-                [
-                  152.811111,
-                  -25.247545
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25WB3587",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "983",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "4:23PM 09 Mar 2025",
-        "EST_FIX_TIME": "8:00PM 09 Mar 2025",
-        "STREETS": "ACACIA ST, APLIN ST, AUSTIN CT, BANKSIA ST, BARKER ST, BELL ST, BELLENI CT, BERNA CT, BRIGHTON ST, CAMERON CT, CAPRI CT, CARLTON ST, CHARLEVILLE ST, CHARLTON ESP, CORFIELD ST, CORSER ST, DIAMOND CT, EDDIE CT, ESPLANADE, FLINDERS ST, GABRIEL WAY, GALATEA ST, GRANADA CT, HARSELAAR DR, HAYWORTH ST, HELSHAM ST, INMAN ST, KEHLET ST, KELLY ST, KENNY WAY, KURRAJONG CRES, LONG ST, MANT ST, MARR ST, MONTROSE CL, MURPHY ST, NORTH ST, PALERA CT, PARADISE ST, PATANAVA LANE, PAUL DR, POLSON ST, PORTER ST, RANKIN ST, SANCTUARY POINT CL, SAUNDERS ST, SPENCE ST, VICTORIA ST, WARREGO DR, WATTLE ST, WHITE ST",
-        "SUBURBS": "PIALBA, POINT VERNON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              152.143865,
-              -24.926104
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.118307,
-                  -24.910034
-                ],
-                [
-                  152.123984,
-                  -24.940635
-                ],
-                [
-                  152.124117,
-                  -24.940874
-                ],
-                [
-                  152.138144,
-                  -24.954043
-                ],
-                [
-                  152.138243,
-                  -24.954115
-                ],
-                [
-                  152.142792,
-                  -24.956616
-                ],
-                [
-                  152.143222,
-                  -24.956651
-                ],
-                [
-                  152.158388,
-                  -24.951423
-                ],
-                [
-                  152.158653,
-                  -24.951206
-                ],
-                [
-                  152.169422,
-                  -24.931816
-                ],
-                [
-                  152.169401,
-                  -24.931374
-                ],
-                [
-                  152.157885,
-                  -24.914581
-                ],
-                [
-                  152.157872,
-                  -24.914563
-                ],
-                [
-                  152.147413,
-                  -24.900817
-                ],
-                [
-                  152.147227,
-                  -24.90067
-                ],
-                [
-                  152.135932,
-                  -24.895556
-                ],
-                [
-                  152.135381,
-                  -24.895626
-                ],
-                [
-                  152.118462,
-                  -24.909626
-                ],
-                [
-                  152.118307,
-                  -24.910034
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25WB3590",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "87",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
-        "START": "5:05PM 09 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "ALLAN SCHMIDT RD, BUTLERS RD, CARUANA RD, FINSENS RD, GIN GIN RD, HABERMANNS RD, HARVEYS RD, KOOLBOO RD, LINES RD, ROHDMANNS RD, RUTHS RD, WHALLEYS RD",
-        "SUBURBS": "SOUTH KOLAN"
       }
     },
     {
@@ -3250,7 +3109,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "66",
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
+        "STATUS": "Work delayed. Crew unable to continue.",
         "START": "11:20AM 09 Mar 2025",
         "EST_FIX_TIME": "4:00PM 10 Mar 2025",
         "STREETS": "ESPLANADE, FRESHWATER ST, TORQUAY TCE",
@@ -3343,7 +3202,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "112",
         "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
-        "STATUS": "Crews working on-site",
+        "STATUS": "Work delayed. Crew unable to continue.",
         "START": "9:09AM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "BRYANT ST, HILLYARD ST, HUNTER ST, OLD MARYBOROUGH RD, TAYLOR ST, TORQUAY RD",
@@ -3353,5 +3212,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741512301.952272"
+  "extracted": "1741513201.817814"
 }
