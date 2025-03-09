@@ -2674,6 +2674,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          148.058242,
+          -21.913125
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25MK1816",
+        "TYPE": "PLANNED",
+        "CUSTOMERS_AFFECTED": "3",
+        "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+        "STATUS": "Crews working on-site",
+        "START": "9:00AM 10 Mar 2025",
+        "EST_FIX_TIME": "1:00PM 10 Mar 2025",
+        "STREETS": "GOONYELLA HAY POINT LINE, GOONYELLA RD",
+        "SUBURBS": "MORANBAH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           148.579837,
           -20.401929
         ]
@@ -3192,27 +3213,6 @@
         "EST_FIX_TIME": "2:30PM 12 Mar 2025",
         "STREETS": "FEENEY AVE",
         "SUBURBS": "RASMUSSEN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.80156,
-          -19.250574
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25NQ2673",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to allow maintenance of the electricity network",
-        "STATUS": "Crews working on-site",
-        "START": "8:30AM 10 Mar 2025",
-        "EST_FIX_TIME": "11:30AM 10 Mar 2025",
-        "STREETS": "TOORAK PL",
-        "SUBURBS": "CASTLE HILL"
       }
     },
     {
@@ -5572,27 +5572,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.695609,
-          -26.564485
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25WB2279",
-        "TYPE": "PLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-        "STATUS": "Crews working on-site",
-        "START": "8:30AM 10 Mar 2025",
-        "EST_FIX_TIME": "10:30AM 10 Mar 2025",
-        "STREETS": "WATTLEGROVE RD",
-        "SUBURBS": "INVERLAW"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           152.01714,
           -24.965377
         ]
@@ -6599,5 +6578,5 @@
   ],
   "company": "Ergon",
   "state": "Future",
-  "extracted": "1741562101.203304"
+  "extracted": "1741562400.302009"
 }
