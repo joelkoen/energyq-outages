@@ -1146,6 +1146,107 @@
           {
             "type": "Point",
             "coordinates": [
+              149.149371,
+              -21.014111
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.148154,
+                  -21.01532
+                ],
+                [
+                  149.148256,
+                  -21.015408
+                ],
+                [
+                  149.148558,
+                  -21.015524
+                ],
+                [
+                  149.14895,
+                  -21.01554
+                ],
+                [
+                  149.148959,
+                  -21.015541
+                ],
+                [
+                  149.149994,
+                  -21.015566
+                ],
+                [
+                  149.150358,
+                  -21.015422
+                ],
+                [
+                  149.150621,
+                  -21.015157
+                ],
+                [
+                  149.150744,
+                  -21.014784
+                ],
+                [
+                  149.150464,
+                  -21.012968
+                ],
+                [
+                  149.149723,
+                  -21.012656
+                ],
+                [
+                  149.148348,
+                  -21.013509
+                ],
+                [
+                  149.148139,
+                  -21.013804
+                ],
+                [
+                  149.148103,
+                  -21.013993
+                ],
+                [
+                  149.148097,
+                  -21.014029
+                ],
+                [
+                  149.147999,
+                  -21.01494
+                ],
+                [
+                  149.148154,
+                  -21.01532
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25MK2283",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "44",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Crews on route",
+        "START": "9:42PM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BOARDRIDER BVD, MIST CT, NERINDA PL, WATERSIDE BVD",
+        "SUBURBS": "SHOAL POINT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.207433,
               -18.981624
             ]
@@ -2953,5 +3054,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741520703.740778"
+  "extracted": "1741521001.357786"
 }
