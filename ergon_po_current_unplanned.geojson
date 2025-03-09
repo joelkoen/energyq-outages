@@ -471,6 +471,79 @@
           {
             "type": "Point",
             "coordinates": [
+              148.940163,
+              -21.199765
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.938352,
+                  -21.199311
+                ],
+                [
+                  148.941239,
+                  -21.202762
+                ],
+                [
+                  148.941844,
+                  -21.202881
+                ],
+                [
+                  148.942076,
+                  -21.202344
+                ],
+                [
+                  148.940157,
+                  -21.196801
+                ],
+                [
+                  148.939331,
+                  -21.196649
+                ],
+                [
+                  148.938389,
+                  -21.197699
+                ],
+                [
+                  148.938276,
+                  -21.197979
+                ],
+                [
+                  148.93825,
+                  -21.199021
+                ],
+                [
+                  148.938352,
+                  -21.199311
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25MK2270",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "8:27AM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "ALLANDALE RD",
+        "SUBURBS": "MARIAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.207433,
               -18.981624
             ]
@@ -611,6 +684,67 @@
         "EST_FIX_TIME": "5:00PM 09 Mar 2025",
         "STREETS": "ATHELSTANE STATION, COLSTON STATION, CORY SDNG, COTSWOLD HILL STATION, GLEN KYREE STATION, NAMARVA STATION, WANTALANYA STATION, WARNAMBOOL DNS STATION, WEONA STATION",
         "SUBURBS": "WINTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              147.365161,
+              -19.506019
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  147.364788,
+                  -19.505515
+                ],
+                [
+                  147.364602,
+                  -19.506332
+                ],
+                [
+                  147.364967,
+                  -19.506869
+                ],
+                [
+                  147.365534,
+                  -19.506523
+                ],
+                [
+                  147.36572,
+                  -19.505705
+                ],
+                [
+                  147.365355,
+                  -19.505168
+                ],
+                [
+                  147.364788,
+                  -19.505515
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25NQ3969",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews working on-site",
+        "START": "10:02AM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BECKER RD",
+        "SUBURBS": "BRANDON"
       }
     },
     {
@@ -5142,5 +5276,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741479305.538204"
+  "extracted": "1741479601.628959"
 }
