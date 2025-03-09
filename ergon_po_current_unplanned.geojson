@@ -2837,9 +2837,94 @@
         "STREETS": "BRYANT ST, HILLYARD ST, HUNTER ST, OLD MARYBOROUGH RD, TAYLOR ST, TORQUAY RD",
         "SUBURBS": "PIALBA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.607835,
+              -25.68157
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.599083,
+                  -25.690614
+                ],
+                [
+                  152.614933,
+                  -25.684017
+                ],
+                [
+                  152.615136,
+                  -25.683861
+                ],
+                [
+                  152.616546,
+                  -25.681985
+                ],
+                [
+                  152.616606,
+                  -25.681876
+                ],
+                [
+                  152.617313,
+                  -25.679984
+                ],
+                [
+                  152.617326,
+                  -25.679737
+                ],
+                [
+                  152.615519,
+                  -25.672741
+                ],
+                [
+                  152.614686,
+                  -25.672525
+                ],
+                [
+                  152.598491,
+                  -25.687107
+                ],
+                [
+                  152.598344,
+                  -25.687432
+                ],
+                [
+                  152.59838,
+                  -25.690211
+                ],
+                [
+                  152.599083,
+                  -25.690614
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25WB3608",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "16",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "11:07PM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BRADSHAW RD, OLD BRUCE HWY, OWANYILLA RD, SCHUBERTS RD, TAHLIA LANE",
+        "SUBURBS": "OWANYILLA, TIARO"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741550406.721865"
+  "extracted": "1741550700.298299"
 }
