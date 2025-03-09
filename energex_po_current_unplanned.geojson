@@ -43822,6 +43822,132 @@
           {
             "type": "Point",
             "coordinates": [
+              153.304471,
+              -27.853817
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.303593,
+                  -27.854434
+                ],
+                [
+                  153.303776,
+                  -27.854461
+                ],
+                [
+                  153.303781,
+                  -27.854462
+                ],
+                [
+                  153.304401,
+                  -27.854549
+                ],
+                [
+                  153.304451,
+                  -27.854554
+                ],
+                [
+                  153.304548,
+                  -27.854559
+                ],
+                [
+                  153.304663,
+                  -27.854565
+                ],
+                [
+                  153.30478,
+                  -27.854571
+                ],
+                [
+                  153.304805,
+                  -27.854572
+                ],
+                [
+                  153.305178,
+                  -27.854575
+                ],
+                [
+                  153.305651,
+                  -27.854297
+                ],
+                [
+                  153.30577,
+                  -27.854043
+                ],
+                [
+                  153.305675,
+                  -27.853563
+                ],
+                [
+                  153.305445,
+                  -27.853341
+                ],
+                [
+                  153.305228,
+                  -27.853218
+                ],
+                [
+                  153.30475,
+                  -27.85308
+                ],
+                [
+                  153.304572,
+                  -27.853058
+                ],
+                [
+                  153.303696,
+                  -27.85309
+                ],
+                [
+                  153.303212,
+                  -27.853489
+                ],
+                [
+                  153.303198,
+                  -27.853597
+                ],
+                [
+                  153.303195,
+                  -27.853621
+                ],
+                [
+                  153.303171,
+                  -27.85396
+                ],
+                [
+                  153.303593,
+                  -27.854434
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-834735-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "35",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "7:18AM 09 Mar 2025",
+        "EST_FIX_TIME": "11:00AM 10 Mar 2025",
+        "STREETS": "DALTON ST",
+        "SUBURBS": "UPPER COOMERA",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.365084,
               -27.994571
             ]
@@ -53486,6 +53612,68 @@
           {
             "type": "Point",
             "coordinates": [
+              152.866074,
+              -26.688408
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.866093,
+                  -26.687937
+                ],
+                [
+                  152.865804,
+                  -26.688005
+                ],
+                [
+                  152.865443,
+                  -26.688555
+                ],
+                [
+                  152.866056,
+                  -26.688878
+                ],
+                [
+                  152.866345,
+                  -26.688811
+                ],
+                [
+                  152.866705,
+                  -26.688261
+                ],
+                [
+                  152.866093,
+                  -26.687937
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-837769-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "9:23PM 09 Mar 2025",
+        "EST_FIX_TIME": "12:00AM 10 Mar 2025",
+        "STREETS": "NARROWS RD",
+        "SUBURBS": "NORTH MALENY",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.112717,
               -27.470039
             ]
@@ -56093,8 +56281,8 @@
         "CUSTOMERS_AFFECTED": "135",
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
-        "START": "7:46AM 10 Mar 2025",
-        "EST_FIX_TIME": "11:00PM 10 Mar 2025",
+        "START": "5:43AM 10 Mar 2025",
+        "EST_FIX_TIME": "10:00PM 10 Mar 2025",
         "STREETS": "BARDON AVE",
         "SUBURBS": "BURLEIGH WATERS",
         "ETR_FLAG": "N"
@@ -56425,5 +56613,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741557603.278532"
+  "extracted": "1741558200.255352"
 }
