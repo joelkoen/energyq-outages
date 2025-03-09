@@ -14756,7 +14756,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "282",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "9:42PM 07 Mar 2025",
         "EST_FIX_TIME": "12:00AM 10 Mar 2025",
         "STREETS": "ANNE AVE, ELIZABETH AVE, GOLD COAST HWY, MAIN PL, OLD BURLEIGH RD, PHILIP AVE, QUEENSLAND AVE, SURF PDE, VICTORIA AVE",
@@ -32110,7 +32110,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "1621",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "6:05PM 08 Mar 2025",
         "EST_FIX_TIME": "12:00AM 10 Mar 2025",
         "STREETS": "AMETHYST ST, ARA ST, ARC ST, BANKS CREEK RD, BEDDOES ST, BEN EAN ST, BERESFORD TCE, BERKELEY ST, BOUNDARY RD, BUENA VISTA AVE, CANOPUS ST, CAPELLA ST, CARNELIAN ST, CARRINGTON PL, CAVENDISH RD, CHATSWORTH RD, CONDOR RD, CRUCIS ST, CRYSTAL ST, DIAMOND ST, DORIA ST, DOYLE ST, ESMONDE PL, EVA ST, FEROL ST, FOLLINGTON CRES, GLENLINTON ST, GLYN ST, GOTHA ST, GREENS RD, HERBERT ST, HETHORN ST, HILLOCK ST, HOLLAND RD, ILLIDGE ST, INDUS ST, JACKMAN ST, JASPER ST, JEROME ST, KELSEY ST, LAVINGTON ST, LINGARD ST, MARS ST, METEOR ST, NEWBOLT ST, OCTANTIS ST, OPAL ST, ORION ST, OTWAY ST, PAVO ST, PAXTON ST, PINE MOUNTAIN RD, PROCYON ST, RIGEL ST, SAMUEL ST, SAPPHIRE ST, SATELLITE ST, SECTOR ST, SIRIUS ST, SOLAR ST, SPICA ST, SPRINGLEIGH ST, STONELEIGH ST, THOMAS ST, TOPAZ ST, TURQUOISE ST, VIEW ST, WAVERLEY RD, WOTTON ST, WYNCROFT ST",
@@ -48256,6 +48256,100 @@
           {
             "type": "Point",
             "coordinates": [
+              153.387882,
+              -28.02469
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.38667,
+                  -28.02346
+                ],
+                [
+                  153.387543,
+                  -28.02649
+                ],
+                [
+                  153.388281,
+                  -28.026774
+                ],
+                [
+                  153.388872,
+                  -28.026485
+                ],
+                [
+                  153.389103,
+                  -28.025931
+                ],
+                [
+                  153.388047,
+                  -28.023432
+                ],
+                [
+                  153.388043,
+                  -28.023423
+                ],
+                [
+                  153.3879,
+                  -28.023106
+                ],
+                [
+                  153.387863,
+                  -28.02304
+                ],
+                [
+                  153.387716,
+                  -28.022825
+                ],
+                [
+                  153.387394,
+                  -28.022618
+                ],
+                [
+                  153.387333,
+                  -28.022606
+                ],
+                [
+                  153.386719,
+                  -28.022971
+                ],
+                [
+                  153.386661,
+                  -28.023273
+                ],
+                [
+                  153.38667,
+                  -28.02346
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-834834-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "38",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "5:41AM 09 Mar 2025",
+        "EST_FIX_TIME": "9:30AM 09 Mar 2025",
+        "STREETS": "WITT AVE",
+        "SUBURBS": "CARRARA",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.948333,
               -27.44142
             ]
@@ -50272,8 +50366,8 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "21",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "Awaiting",
-        "START": "10:28AM 09 Mar 2025",
+        "STATUS": "In Progress",
+        "START": "8:13AM 09 Mar 2025",
         "EST_FIX_TIME": "12:00AM 10 Mar 2025",
         "STREETS": "DERRIBONG CL, ILLOURA GR",
         "SUBURBS": "KARANA DOWNS",
@@ -56206,100 +56300,6 @@
           {
             "type": "Point",
             "coordinates": [
-              153.387882,
-              -28.02469
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  153.38667,
-                  -28.02346
-                ],
-                [
-                  153.387543,
-                  -28.02649
-                ],
-                [
-                  153.388281,
-                  -28.026774
-                ],
-                [
-                  153.388872,
-                  -28.026485
-                ],
-                [
-                  153.389103,
-                  -28.025931
-                ],
-                [
-                  153.388047,
-                  -28.023432
-                ],
-                [
-                  153.388043,
-                  -28.023423
-                ],
-                [
-                  153.3879,
-                  -28.023106
-                ],
-                [
-                  153.387863,
-                  -28.02304
-                ],
-                [
-                  153.387716,
-                  -28.022825
-                ],
-                [
-                  153.387394,
-                  -28.022618
-                ],
-                [
-                  153.387333,
-                  -28.022606
-                ],
-                [
-                  153.386719,
-                  -28.022971
-                ],
-                [
-                  153.386661,
-                  -28.023273
-                ],
-                [
-                  153.38667,
-                  -28.02346
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-837483-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "38",
-        "REASON": "Damage Due To Cyclone",
-        "STATUS": "Awaiting",
-        "START": "6:03PM 09 Mar 2025",
-        "EST_FIX_TIME": "3:00AM 10 Mar 2025",
-        "STREETS": "WITT AVE",
-        "SUBURBS": "CARRARA",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               153.030402,
               -26.711148
             ]
@@ -57683,9 +57683,95 @@
         "SUBURBS": "GRIFFIN",
         "ETR_FLAG": "N"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              153.437596,
+              -28.050607
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.435251,
+                  -28.051623
+                ],
+                [
+                  153.437187,
+                  -28.052219
+                ],
+                [
+                  153.437585,
+                  -28.052195
+                ],
+                [
+                  153.439736,
+                  -28.051222
+                ],
+                [
+                  153.440013,
+                  -28.050833
+                ],
+                [
+                  153.440035,
+                  -28.050179
+                ],
+                [
+                  153.439994,
+                  -28.049986
+                ],
+                [
+                  153.439622,
+                  -28.049222
+                ],
+                [
+                  153.438936,
+                  -28.048994
+                ],
+                [
+                  153.437122,
+                  -28.049764
+                ],
+                [
+                  153.43708,
+                  -28.049784
+                ],
+                [
+                  153.435156,
+                  -28.05081
+                ],
+                [
+                  153.435251,
+                  -28.051623
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-837682-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "144",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "5:56PM 09 Mar 2025",
+        "EST_FIX_TIME": "10:00AM 10 Mar 2025",
+        "STREETS": "ARTHUR ST, GOLD COAST HWY, HEDGES AVE, TAMBORINE ST",
+        "SUBURBS": "MERMAID BEACH",
+        "ETR_FLAG": "N"
+      }
     }
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741515001.325194"
+  "extracted": "1741515601.227471"
 }
