@@ -55040,6 +55040,92 @@
           {
             "type": "Point",
             "coordinates": [
+              152.884596,
+              -26.850897
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.873894,
+                  -26.850746
+                ],
+                [
+                  152.890863,
+                  -26.862599
+                ],
+                [
+                  152.89167,
+                  -26.862312
+                ],
+                [
+                  152.895366,
+                  -26.840976
+                ],
+                [
+                  152.895069,
+                  -26.840492
+                ],
+                [
+                  152.89466,
+                  -26.840333
+                ],
+                [
+                  152.89457,
+                  -26.840306
+                ],
+                [
+                  152.88916,
+                  -26.839206
+                ],
+                [
+                  152.889033,
+                  -26.839195
+                ],
+                [
+                  152.8847,
+                  -26.839323
+                ],
+                [
+                  152.884341,
+                  -26.839474
+                ],
+                [
+                  152.873827,
+                  -26.85009
+                ],
+                [
+                  152.873894,
+                  -26.850746
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-838259-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "166",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "6:13AM 10 Mar 2025",
+        "EST_FIX_TIME": "9:30AM 10 Mar 2025",
+        "STREETS": "BAKER-FINCH AVE, BOTTLEBRUSH CT, COMMISSIONERS FLAT RD, COOCHIN ST, DURUNDUR ST, HIGH ST, JULIAN ST, NEILL RD, OLD PEACHESTER RD, OTTO RD, PEACHESTER RD, RANGE RD, STORRS RD, TAROONA CT, VIERITZ RD",
+        "SUBURBS": "PEACHESTER",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.966589,
               -27.417864
             ]
@@ -55357,5 +55443,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741551601.262616"
+  "extracted": "1741551901.443925"
 }
