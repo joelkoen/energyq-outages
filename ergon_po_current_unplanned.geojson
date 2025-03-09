@@ -811,7 +811,7 @@
           {
             "type": "Point",
             "coordinates": [
-              149.148889,
+              149.149371,
               -21.014111
             ]
           },
@@ -820,68 +820,52 @@
             "coordinates": [
               [
                 [
-                  149.148095,
-                  -21.014082
+                  149.148154,
+                  -21.01532
                 ],
                 [
-                  149.148097,
-                  -21.014198
+                  149.148256,
+                  -21.015408
                 ],
                 [
-                  149.148119,
-                  -21.014327
+                  149.148558,
+                  -21.015524
                 ],
                 [
-                  149.148161,
-                  -21.014451
+                  149.14895,
+                  -21.01554
                 ],
                 [
-                  149.148525,
-                  -21.014757
+                  149.148959,
+                  -21.015541
                 ],
                 [
-                  149.14865,
-                  -21.01478
+                  149.149994,
+                  -21.015566
                 ],
                 [
-                  149.148791,
-                  -21.014787
+                  149.150358,
+                  -21.015422
                 ],
                 [
-                  149.149192,
-                  -21.014751
+                  149.150621,
+                  -21.015157
                 ],
                 [
-                  149.149358,
-                  -21.014706
+                  149.150744,
+                  -21.014784
                 ],
                 [
-                  149.149576,
-                  -21.014605
+                  149.150464,
+                  -21.012968
                 ],
                 [
-                  149.149683,
-                  -21.013863
+                  149.149723,
+                  -21.012656
                 ],
                 [
-                  149.149462,
-                  -21.013679
-                ],
-                [
-                  149.149303,
-                  -21.01359
-                ],
-                [
-                  149.148944,
-                  -21.013471
-                ],
-                [
-                  149.148819,
-                  -21.013447
-                ],
-                [
-                  149.148647,
-                  -21.013435
+                  149.148348,
+                  -21.013509
                 ],
                 [
                   149.148139,
@@ -892,8 +876,16 @@
                   -21.013993
                 ],
                 [
-                  149.148095,
-                  -21.014082
+                  149.148097,
+                  -21.014029
+                ],
+                [
+                  149.147999,
+                  -21.01494
+                ],
+                [
+                  149.148154,
+                  -21.01532
                 ]
               ]
             ]
@@ -903,12 +895,12 @@
       "properties": {
         "EVENT_ID": "25MK2283",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "10",
+        "CUSTOMERS_AFFECTED": "44",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Crews working on-site",
         "START": "9:42PM 09 Mar 2025",
         "EST_FIX_TIME": "12:59PM 10 Mar 2025",
-        "STREETS": "MIST CT",
+        "STREETS": "BOARDRIDER BVD, MIST CT, NERINDA PL, WATERSIDE BVD",
         "SUBURBS": "SHOAL POINT"
       }
     },
@@ -1064,91 +1056,6 @@
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "BRIARFIELD ST, MULLIGAN ST, WATER ST",
         "SUBURBS": "MUNDINGBURRA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              146.56843,
-              -19.163416
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  146.566794,
-                  -19.163871
-                ],
-                [
-                  146.567462,
-                  -19.16466
-                ],
-                [
-                  146.568067,
-                  -19.164769
-                ],
-                [
-                  146.569481,
-                  -19.164009
-                ],
-                [
-                  146.569504,
-                  -19.163996
-                ],
-                [
-                  146.569988,
-                  -19.163701
-                ],
-                [
-                  146.570066,
-                  -19.163
-                ],
-                [
-                  146.56912,
-                  -19.162106
-                ],
-                [
-                  146.568503,
-                  -19.162062
-                ],
-                [
-                  146.567176,
-                  -19.16299
-                ],
-                [
-                  146.567151,
-                  -19.163008
-                ],
-                [
-                  146.566858,
-                  -19.163243
-                ],
-                [
-                  146.566794,
-                  -19.163871
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25NQ3997",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "11",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
-        "START": "4:40AM 10 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "TOOLAKEA BEACH RD",
-        "SUBURBS": "BLUEWATER"
       }
     },
     {
@@ -2916,7 +2823,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "16",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "11:07PM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "BRADSHAW RD, OLD BRUCE HWY, OWANYILLA RD, SCHUBERTS RD, TAHLIA LANE",
@@ -2926,5 +2833,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741550700.298299"
+  "extracted": "1741551318.874789"
 }
