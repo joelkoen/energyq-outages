@@ -398,6 +398,91 @@
           {
             "type": "Point",
             "coordinates": [
+              146.167379,
+              -23.883194
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  145.964965,
+                  -23.800337
+                ],
+                [
+                  146.298775,
+                  -24.126233
+                ],
+                [
+                  146.298823,
+                  -24.126274
+                ],
+                [
+                  146.327998,
+                  -24.147976
+                ],
+                [
+                  146.328782,
+                  -24.147748
+                ],
+                [
+                  146.369898,
+                  -24.014225
+                ],
+                [
+                  146.369866,
+                  -24.013903
+                ],
+                [
+                  146.159035,
+                  -23.618624
+                ],
+                [
+                  146.158391,
+                  -23.618412
+                ],
+                [
+                  146.009699,
+                  -23.680967
+                ],
+                [
+                  146.00944,
+                  -23.68123
+                ],
+                [
+                  145.964859,
+                  -23.79988
+                ],
+                [
+                  145.964965,
+                  -23.800337
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25CA4822",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "31",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "4:52AM 10 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "CAPRICORN HWY, JERICHO-BLACKALL RD, JERICHO-MARSTON RD, MENDIP HILLS RD, OFF CAPRICORN HWY, TUMBAR RD",
+        "SUBURBS": "JERICHO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.048539,
               -17.63492
             ]
@@ -2602,5 +2687,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741546501.740041"
+  "extracted": "1741546803.601584"
 }
