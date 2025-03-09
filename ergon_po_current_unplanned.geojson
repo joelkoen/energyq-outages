@@ -2012,99 +2012,6 @@
           {
             "type": "Point",
             "coordinates": [
-              151.913342,
-              -27.612945
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.910154,
-                  -27.613191
-                ],
-                [
-                  151.910333,
-                  -27.615325
-                ],
-                [
-                  151.910901,
-                  -27.615738
-                ],
-                [
-                  151.914845,
-                  -27.615283
-                ],
-                [
-                  151.915268,
-                  -27.614952
-                ],
-                [
-                  151.91653,
-                  -27.610715
-                ],
-                [
-                  151.915977,
-                  -27.610153
-                ],
-                [
-                  151.911478,
-                  -27.610667
-                ],
-                [
-                  151.911115,
-                  -27.610872
-                ],
-                [
-                  151.91103,
-                  -27.610991
-                ],
-                [
-                  151.91102,
-                  -27.611007
-                ],
-                [
-                  151.910675,
-                  -27.611537
-                ],
-                [
-                  151.910627,
-                  -27.611638
-                ],
-                [
-                  151.910173,
-                  -27.613033
-                ],
-                [
-                  151.910154,
-                  -27.613191
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25SW4376",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "23",
-        "REASON": "The loss of supply is due to fallen power lines.  ",
-        "STATUS": "Crews working on-site",
-        "START": "11:02PM 08 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "FRASER ST, HUNT ST, MAAG ST, POSTLE ST",
-        "SUBURBS": "DARLING HEIGHTS"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               151.918652,
               -27.398173
             ]
@@ -3036,6 +2943,75 @@
           {
             "type": "Point",
             "coordinates": [
+              151.70789,
+              -27.071853
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.696784,
+                  -27.065511
+                ],
+                [
+                  151.710841,
+                  -27.081005
+                ],
+                [
+                  151.711702,
+                  -27.080879
+                ],
+                [
+                  151.718997,
+                  -27.063436
+                ],
+                [
+                  151.718535,
+                  -27.062829
+                ],
+                [
+                  151.710991,
+                  -27.062702
+                ],
+                [
+                  151.710898,
+                  -27.062708
+                ],
+                [
+                  151.697091,
+                  -27.064783
+                ],
+                [
+                  151.696784,
+                  -27.065511
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25SW4424",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "4",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "7:44AM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "NARKO WOODLEIGH RD, WOODLEIGH NUTGROVE RD",
+        "SUBURBS": "MACLAGAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.856612,
               -25.28519
             ]
@@ -3596,5 +3572,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741499104.354202"
+  "extracted": "1741499701.724687"
 }
