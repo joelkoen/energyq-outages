@@ -531,7 +531,7 @@
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
         "STATUS": "Outage reported",
         "START": "8:27AM 09 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
+        "EST_FIX_TIME": "6:00PM 09 Mar 2025",
         "STREETS": "ALLANDALE RD",
         "SUBURBS": "MARIAN"
       }
@@ -3984,7 +3984,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "818",
         "REASON": "The loss of supply is due to damage caused by cyclone activity. ",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "7:31AM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "ADINA ST, BURKE ST, BURNAGE ST, CEDAR ST, COHOE ST, COTTESLOE ST, CROWN ST, CURTIS ST, CURZON ST, DARANLEE CT, EAST ST, FLETCHER ST, HERRIES ST, IPSWICH ST, JAMES ST, JARRAH ST, MACKENZIE ST, MAPLE ST, MARANOA CT, MARGARET ST, MONTGOMERY CT, MURLALI CT, OLD TOLL BAR RD, RANGE HWY, ROESSLER ST, RUTHVEN ST, SCOTT ST, SONNENBERG ST, STEVENSON ST, TANT ST, TOURIST RD, TURNBULL ST",
@@ -4688,6 +4688,91 @@
           {
             "type": "Point",
             "coordinates": [
+              151.827648,
+              -27.511245
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.824761,
+                  -27.511002
+                ],
+                [
+                  151.825285,
+                  -27.511652
+                ],
+                [
+                  151.825566,
+                  -27.511824
+                ],
+                [
+                  151.828313,
+                  -27.512469
+                ],
+                [
+                  151.828712,
+                  -27.512414
+                ],
+                [
+                  151.829366,
+                  -27.512045
+                ],
+                [
+                  151.829443,
+                  -27.511992
+                ],
+                [
+                  151.830536,
+                  -27.511072
+                ],
+                [
+                  151.830223,
+                  -27.510296
+                ],
+                [
+                  151.825687,
+                  -27.510021
+                ],
+                [
+                  151.825385,
+                  -27.510089
+                ],
+                [
+                  151.824903,
+                  -27.510357
+                ],
+                [
+                  151.824761,
+                  -27.511002
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25SW4393",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "15",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "9:13AM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "LINORA DR",
+        "SUBURBS": "GOWRIE MOUNTAIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.819699,
               -25.26072
             ]
@@ -5191,5 +5276,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741481103.555006"
+  "extracted": "1741481700.343129"
 }
