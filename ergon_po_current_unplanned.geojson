@@ -605,6 +605,91 @@
           {
             "type": "Point",
             "coordinates": [
+              150.432137,
+              -23.535665
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.420055,
+                  -23.532652
+                ],
+                [
+                  150.420736,
+                  -23.548111
+                ],
+                [
+                  150.420925,
+                  -23.548449
+                ],
+                [
+                  150.422958,
+                  -23.549902
+                ],
+                [
+                  150.42366,
+                  -23.549802
+                ],
+                [
+                  150.44422,
+                  -23.522316
+                ],
+                [
+                  150.443834,
+                  -23.52161
+                ],
+                [
+                  150.437882,
+                  -23.521427
+                ],
+                [
+                  150.437703,
+                  -23.521452
+                ],
+                [
+                  150.423043,
+                  -23.5262
+                ],
+                [
+                  150.422752,
+                  -23.526455
+                ],
+                [
+                  150.420091,
+                  -23.532463
+                ],
+                [
+                  150.420055,
+                  -23.532652
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25CA4801",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "12",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews on route",
+        "START": "7:15PM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "FOUR MILE RD, MCEVOY RD",
+        "SUBURBS": "BOONGARRY, BOULDERCOMBE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.048539,
               -17.63492
             ]
@@ -2692,5 +2777,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741524305.508085"
+  "extracted": "1741524902.418393"
 }
