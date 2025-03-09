@@ -694,67 +694,6 @@
           {
             "type": "Point",
             "coordinates": [
-              147.365161,
-              -19.506019
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  147.364788,
-                  -19.505515
-                ],
-                [
-                  147.364602,
-                  -19.506332
-                ],
-                [
-                  147.364967,
-                  -19.506869
-                ],
-                [
-                  147.365534,
-                  -19.506523
-                ],
-                [
-                  147.36572,
-                  -19.505705
-                ],
-                [
-                  147.365355,
-                  -19.505168
-                ],
-                [
-                  147.364788,
-                  -19.505515
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25NQ3969",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews working on-site",
-        "START": "10:02AM 09 Mar 2025",
-        "EST_FIX_TIME": "11:15AM 09 Mar 2025",
-        "STREETS": "BECKER RD",
-        "SUBURBS": "BRANDON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               151.930402,
               -27.594425
             ]
@@ -1855,7 +1794,7 @@
       "properties": {
         "EVENT_ID": "25SW4349",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "583",
+        "CUSTOMERS_AFFECTED": "96",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Crews working on-site",
         "START": "1:42AM 09 Mar 2025",
@@ -5288,9 +5227,134 @@
         "STREETS": "BRYANT ST, CHARLES ST, CHARLTON ESP, ESPLANADE, HILLYARD ST, HUNTER ST, MAIN ST, OLD MARYBOROUGH RD, PETERS LANE, TAYLOR ST, TORQUAY RD, WATSON ST",
         "SUBURBS": "PIALBA"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.733339,
+              -25.582996
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.68086,
+                  -25.609535
+                ],
+                [
+                  152.697183,
+                  -25.624003
+                ],
+                [
+                  152.697639,
+                  -25.62412
+                ],
+                [
+                  152.724919,
+                  -25.618566
+                ],
+                [
+                  152.725041,
+                  -25.618525
+                ],
+                [
+                  152.786712,
+                  -25.589095
+                ],
+                [
+                  152.786863,
+                  -25.58841
+                ],
+                [
+                  152.749149,
+                  -25.547175
+                ],
+                [
+                  152.748873,
+                  -25.547023
+                ],
+                [
+                  152.722881,
+                  -25.541873
+                ],
+                [
+                  152.722677,
+                  -25.541872
+                ],
+                [
+                  152.707559,
+                  -25.544629
+                ],
+                [
+                  152.707339,
+                  -25.544725
+                ],
+                [
+                  152.705338,
+                  -25.546242
+                ],
+                [
+                  152.705288,
+                  -25.546286
+                ],
+                [
+                  152.686237,
+                  -25.565485
+                ],
+                [
+                  152.686183,
+                  -25.565549
+                ],
+                [
+                  152.68273,
+                  -25.570612
+                ],
+                [
+                  152.682662,
+                  -25.570778
+                ],
+                [
+                  152.679821,
+                  -25.587033
+                ],
+                [
+                  152.679815,
+                  -25.58712
+                ],
+                [
+                  152.680711,
+                  -25.60923
+                ],
+                [
+                  152.68086,
+                  -25.609535
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25WB3573",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "859",
+        "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
+        "STATUS": "Crews working on-site",
+        "START": "10:38AM 09 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "AJAX ST, ALBERT ST, ALICE ST, ALPHA PLANTATION RD, ANZAC AVE, ARNAUD ST, BIDWILL RD, BOND ST, BOONOOROO RD, BUSHNELL ST, CAMBRIDGE ST, CARMEN CL, CARNABY ST, CARNE CT, CASSANDRA CL, CHELSEA CT, CRAN RD, CRIMMENS ST, DIAGONAL RD, DOROTHY CT, EARLS WAY, ECKERT RD, FIVE MILE RD, FOUR MILE RD, FREDERIKSEN RD, GREVILLEA DR, GUAVA ST, HILLCREST AVE, HOFFMAN ST, IAN ST, IINDAH RD E, JOCELYN PDE, JULIAN CT, JUMPO RD, KENT ST, KINBACHER RD, KINGHORN RD, LANGER RD, LYNTON CT, MACKLIN RD, MADISON WAY, MARY ST, MATILDA WAY, MATTHEW PDE, MAYFAIR ST, MCDONALD RD, MINTER RD, NERADA RD, NORWAY ST, OXFORD ST, PULLER ST, RANGE RD, RIORDAN CT, SPRINGVALE RD, THREE MILE RD, TULESCO RD, VINE ST, VOLLMERHAUSE RD, WALKERS POINT RD, WHITE RD, WILLOWBANK RD, WOONGOOL RD, YANGOORA AVE, YARILEE DR, YORK AVE",
+        "SUBURBS": "BIDWILL, BOONOOROO, GRANVILLE, MARYBOROUGH, TINANA, TINANA SOUTH, TUAN"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741480500.273282"
+  "extracted": "1741480801.579709"
 }
