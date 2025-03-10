@@ -445,7 +445,7 @@
             "type": "Point",
             "coordinates": [
               153.273205,
-              -28.209999
+              -28.199646
             ]
           },
           {
@@ -501,52 +501,52 @@
                   -28.225229
                 ],
                 [
-                  153.291543,
-                  -28.225047
+                  153.291565,
+                  -28.225096
                 ],
                 [
-                  153.27325,
-                  -28.190476
+                  153.266775,
+                  -28.159189
                 ],
                 [
-                  153.273126,
-                  -28.190329
+                  153.266331,
+                  -28.158882
                 ],
                 [
-                  153.25951,
-                  -28.179691
+                  153.265305,
+                  -28.158811
                 ],
                 [
-                  153.259216,
-                  -28.17958
+                  153.264958,
+                  -28.158902
                 ],
                 [
-                  153.258367,
-                  -28.179517
+                  153.264371,
+                  -28.159296
                 ],
                 [
-                  153.25793,
-                  -28.17968
+                  153.264211,
+                  -28.159476
                 ],
                 [
-                  153.256859,
-                  -28.180837
+                  153.259541,
+                  -28.169014
                 ],
                 [
-                  153.25675,
-                  -28.181052
+                  153.259525,
+                  -28.169051
                 ],
                 [
-                  153.255805,
-                  -28.186297
+                  153.256018,
+                  -28.178404
                 ],
                 [
-                  153.255803,
-                  -28.186313
+                  153.255993,
+                  -28.178513
                 ],
                 [
-                  153.254648,
-                  -28.19465
+                  153.254645,
+                  -28.194672
                 ],
                 [
                   153.254644,
@@ -560,7 +560,7 @@
       "properties": {
         "EVENT_ID": "INCD-828480-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "425",
+        "CUSTOMERS_AFFECTED": "456",
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "11:29PM 05 Mar 2025",
@@ -40926,7 +40926,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "56",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "1:13AM 09 Mar 2025",
         "EST_FIX_TIME": "12:00AM 11 Mar 2025",
         "STREETS": "BREWER ST, CROFT ST, OLD CLEVELAND RD E, SWAN ST",
@@ -41258,7 +41258,7 @@
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "1:30AM 09 Mar 2025",
-        "EST_FIX_TIME": "12:00AM 10 Mar 2025",
+        "EST_FIX_TIME": "12:00AM 11 Mar 2025",
         "STREETS": "FORMOSA RD",
         "SUBURBS": "GUMDALE",
         "ETR_FLAG": "N"
@@ -52650,7 +52650,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "30",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "9:55PM 09 Mar 2025",
         "EST_FIX_TIME": "12:00AM 11 Mar 2025",
         "STREETS": "HOLROYD ST, LYNDHURST RD, PEACOCK ST, SANDGATE RD",
@@ -54646,7 +54646,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "9",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "6:26AM 10 Mar 2025",
         "EST_FIX_TIME": "12:00AM 11 Mar 2025",
         "STREETS": "GRINDLE RD",
@@ -56594,6 +56594,100 @@
           {
             "type": "Point",
             "coordinates": [
+              153.253965,
+              -27.532218
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.252619,
+                  -27.531931
+                ],
+                [
+                  153.252729,
+                  -27.53243
+                ],
+                [
+                  153.252928,
+                  -27.532708
+                ],
+                [
+                  153.253063,
+                  -27.532796
+                ],
+                [
+                  153.253175,
+                  -27.532851
+                ],
+                [
+                  153.254309,
+                  -27.533249
+                ],
+                [
+                  153.254984,
+                  -27.532944
+                ],
+                [
+                  153.255312,
+                  -27.531844
+                ],
+                [
+                  153.254878,
+                  -27.53128
+                ],
+                [
+                  153.254121,
+                  -27.531205
+                ],
+                [
+                  153.254084,
+                  -27.531203
+                ],
+                [
+                  153.253622,
+                  -27.531188
+                ],
+                [
+                  153.253388,
+                  -27.531231
+                ],
+                [
+                  153.2529,
+                  -27.531436
+                ],
+                [
+                  153.252619,
+                  -27.531931
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-839017-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "36",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "11:27AM 10 Mar 2025",
+        "EST_FIX_TIME": "2:30AM 11 Mar 2025",
+        "STREETS": "COBURG ST W, COURAGEOUS CT, SUNSHINE DR",
+        "SUBURBS": "CLEVELAND",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.966589,
               -27.417864
             ]
@@ -57267,5 +57361,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741569601.27555"
+  "extracted": "1741570205.796398"
 }
