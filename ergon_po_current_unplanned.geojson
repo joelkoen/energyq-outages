@@ -220,75 +220,6 @@
           {
             "type": "Point",
             "coordinates": [
-              146.006898,
-              -23.740826
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  145.965399,
-                  -23.800474
-                ],
-                [
-                  146.028069,
-                  -23.791455
-                ],
-                [
-                  146.028431,
-                  -23.791212
-                ],
-                [
-                  146.048935,
-                  -23.753731
-                ],
-                [
-                  146.048937,
-                  -23.753328
-                ],
-                [
-                  146.010343,
-                  -23.681178
-                ],
-                [
-                  146.00944,
-                  -23.68123
-                ],
-                [
-                  145.964859,
-                  -23.79988
-                ],
-                [
-                  145.965399,
-                  -23.800474
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25CA4822",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "7",
-        "REASON": "The loss of supply is due to fallen power lines.  ",
-        "STATUS": "Crews working on-site",
-        "START": "4:52AM 10 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 10 Mar 2025",
-        "STREETS": "JERICHO-BLACKALL RD",
-        "SUBURBS": "JERICHO"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               149.214395,
               -23.254648
             ]
@@ -771,8 +702,8 @@
           {
             "type": "Point",
             "coordinates": [
-              140.965919,
-              -18.528782
+              141.084381,
+              -18.528774
             ]
           },
           {
@@ -780,12 +711,20 @@
             "coordinates": [
               [
                 [
-                  140.653694,
-                  -18.391854
+                  140.890617,
+                  -18.190071
                 ],
                 [
-                  141.20685,
-                  -18.871409
+                  140.896722,
+                  -18.572797
+                ],
+                [
+                  140.896858,
+                  -18.573106
+                ],
+                [
+                  141.206832,
+                  -18.871392
                 ],
                 [
                   141.207629,
@@ -812,16 +751,16 @@
                   -18.186156
                 ],
                 [
-                  140.893316,
-                  -18.186192
+                  140.893242,
+                  -18.186272
                 ],
                 [
-                  140.653697,
-                  -18.391187
+                  140.890699,
+                  -18.189809
                 ],
                 [
-                  140.653694,
-                  -18.391854
+                  140.890617,
+                  -18.190071
                 ]
               ]
             ]
@@ -831,12 +770,12 @@
       "properties": {
         "EVENT_ID": "25FN3217",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "26",
+        "CUSTOMERS_AFFECTED": "19",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Crews working on-site",
         "START": "6:28PM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "BURKE DEVELOPMENT RD, IFFLEY RD, UNKNOWN ST",
+        "STREETS": "IFFLEY RD, UNKNOWN ST",
         "SUBURBS": "NORMANTON"
       }
     },
@@ -1170,6 +1109,91 @@
         "EST_FIX_TIME": "5:00PM 10 Mar 2025",
         "STREETS": "BLAIR RD, BLAIR SIDING RD, BRUCE HWY, GREGORY RIVER RD",
         "SUBURBS": "CRYSTAL BROOK, GREGORY, GREGORY RIVER, MYRTLEVALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              148.435733,
+              -20.417483
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.427631,
+                  -20.420158
+                ],
+                [
+                  148.434093,
+                  -20.424621
+                ],
+                [
+                  148.434461,
+                  -20.424701
+                ],
+                [
+                  148.443088,
+                  -20.423228
+                ],
+                [
+                  148.443411,
+                  -20.423018
+                ],
+                [
+                  148.44396,
+                  -20.422169
+                ],
+                [
+                  148.444026,
+                  -20.421874
+                ],
+                [
+                  148.443808,
+                  -20.420333
+                ],
+                [
+                  148.443616,
+                  -20.420028
+                ],
+                [
+                  148.429488,
+                  -20.410265
+                ],
+                [
+                  148.42873,
+                  -20.41057
+                ],
+                [
+                  148.427439,
+                  -20.419734
+                ],
+                [
+                  148.427631,
+                  -20.420158
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25MK2314",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "11",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "1:51PM 10 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "THOROGOOD RD",
+        "SUBURBS": "KELSEY CREEK"
       }
     },
     {
@@ -1890,6 +1914,67 @@
         "EST_FIX_TIME": "3:00PM 10 Mar 2025",
         "STREETS": "ARNOLD RD, BEAUARABA RD, BIDDESTON LINTHORPE RD, BROXBURN-LINTHORPE RD, CRONIN RD, FULLER RD, GORE HWY, KENNY RD, LINTHORPE RD, LINTHORPE VALLEY RD, LINTHORPE-BIDDESTON RD, LOVEDAY RD, LUCK RD, MCGRATH RD, MCINTOSH RD, MORAN RD, PADDYS LANE, SOUTHBROOK-LINTHORPE RD, STONELEIGH RD, STOWER RD, WYANGAPINNI RD",
         "SUBURBS": "BIDDESTON, BROXBURN, LINTHORPE, MOUNT TYSON, PITTSWORTH, ROCKVIEW, ROSSVALE, SOUTHBROOK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.551876,
+              -27.211185
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.55267,
+                  -27.210885
+                ],
+                [
+                  150.551307,
+                  -27.210607
+                ],
+                [
+                  150.550703,
+                  -27.210946
+                ],
+                [
+                  150.551083,
+                  -27.211485
+                ],
+                [
+                  150.552446,
+                  -27.211763
+                ],
+                [
+                  150.55305,
+                  -27.211424
+                ],
+                [
+                  150.55267,
+                  -27.210885
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25SW4503",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "1:43PM 10 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "BISLEY RD",
+        "SUBURBS": "TARA"
       }
     },
     {
@@ -2634,5 +2719,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741580102.174409"
+  "extracted": "1741580701.236644"
 }
