@@ -427,115 +427,6 @@
           {
             "type": "Point",
             "coordinates": [
-              149.950436,
-              -23.545665
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  149.819323,
-                  -23.636316
-                ],
-                [
-                  150.031152,
-                  -23.657388
-                ],
-                [
-                  150.031543,
-                  -23.657265
-                ],
-                [
-                  150.037117,
-                  -23.652325
-                ],
-                [
-                  150.037176,
-                  -23.652262
-                ],
-                [
-                  150.082085,
-                  -23.594393
-                ],
-                [
-                  150.082108,
-                  -23.593901
-                ],
-                [
-                  150.016396,
-                  -23.491756
-                ],
-                [
-                  150.016276,
-                  -23.49163
-                ],
-                [
-                  149.965129,
-                  -23.454962
-                ],
-                [
-                  149.964915,
-                  -23.454874
-                ],
-                [
-                  149.838575,
-                  -23.433942
-                ],
-                [
-                  149.83802,
-                  -23.434255
-                ],
-                [
-                  149.819748,
-                  -23.490014
-                ],
-                [
-                  149.819727,
-                  -23.490142
-                ],
-                [
-                  149.818763,
-                  -23.618515
-                ],
-                [
-                  149.818763,
-                  -23.618521
-                ],
-                [
-                  149.818886,
-                  -23.63587
-                ],
-                [
-                  149.819323,
-                  -23.636316
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25CA4864",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "55",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
-        "START": "1:31PM 10 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "ADAMS RD, ENFIELD RD, GILL RD, HANRAHAN RD, OHIO RD, RIVERSLEA RD, ROOKWOOD RD, TARRAWONG RD, THIRSTY CREEK RD, WEIR PARK RD, YARRA RD",
-        "SUBURBS": "EDUNGALBA, GOGANGO, WESTWOOD, WYCARBAH"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               146.561584,
               -23.5022
             ]
@@ -646,7 +537,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "479",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "2:37PM 10 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "AIRPORT RD, ALBRO RD, ALPHA-CLERMONT RD, ALPHA-TAMBO RD, BURNS ST, BYRON ST, CAPRICORN HWY, CLERMONT RD, CRAVEN RD, DEGULLA RD, DERWENT WATER RD, DRYDEN ST, DUNNING ST, FORRESTER-HOBARTVL RD, GOLDSTON ST, GORDON ST, HOOPER ST, JERICHO-BLACKALL RD, JERICHO-MARSTON RD, KILCOOL RD, MACKELLAR ST, MENDIP HILLS RD, MILTON ST, MONKLANDS RD, MOORE ST, NAROUNYAH RD, O'SULLIVANS RD, OFF ALBRO RD, OFF ALPHA-CLERMONT RD, OFF CAPRICORN HWY, OFF FORRESTER RD, OFF MOORE ST, OFF STAR DOWNS RD, OFF TAMBO RD, PINE HILL RD, PORT WINE RD, PORTWINE RD, RAILWAY RES, SCOTT ST, SHAKESPEARE ST, STAR DOWNS RD, SWINBURNE ST, TAMBO RD, TENNYSON ST, TUMBAR RD, UNKNOWN ST",
@@ -1134,7 +1025,7 @@
       "properties": {
         "EVENT_ID": "25MK2313",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "8",
+        "CUSTOMERS_AFFECTED": "7",
         "REASON": "The loss of supply is due to damage caused by storm activity.",
         "STATUS": "Crews working on-site",
         "START": "2:04PM 10 Mar 2025",
@@ -1916,6 +1807,59 @@
           {
             "type": "Point",
             "coordinates": [
+              150.327442,
+              -26.667669
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.327944,
+                  -26.667657
+                ],
+                [
+                  150.327429,
+                  -26.667218
+                ],
+                [
+                  150.32694,
+                  -26.667681
+                ],
+                [
+                  150.327455,
+                  -26.66812
+                ],
+                [
+                  150.327944,
+                  -26.667657
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25SW4511",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "2:50PM 10 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "RYALLS RD",
+        "SUBURBS": "COLUMBOOLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.86215,
               -25.285764
             ]
@@ -2528,5 +2472,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741582200.371999"
+  "extracted": "1741582803.757567"
 }
