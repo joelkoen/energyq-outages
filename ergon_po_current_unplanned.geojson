@@ -1691,7 +1691,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "1:43PM 10 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "BISLEY RD",
@@ -2065,115 +2065,6 @@
           {
             "type": "Point",
             "coordinates": [
-              152.863567,
-              -25.285935
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.862599,
-                  -25.287759
-                ],
-                [
-                  152.865026,
-                  -25.28609
-                ],
-                [
-                  152.865036,
-                  -25.286082
-                ],
-                [
-                  152.865128,
-                  -25.286015
-                ],
-                [
-                  152.865314,
-                  -25.285669
-                ],
-                [
-                  152.865324,
-                  -25.284912
-                ],
-                [
-                  152.865306,
-                  -25.284785
-                ],
-                [
-                  152.865219,
-                  -25.284501
-                ],
-                [
-                  152.864844,
-                  -25.284182
-                ],
-                [
-                  152.864511,
-                  -25.284119
-                ],
-                [
-                  152.864398,
-                  -25.28411
-                ],
-                [
-                  152.863744,
-                  -25.284125
-                ],
-                [
-                  152.863592,
-                  -25.28415
-                ],
-                [
-                  152.862672,
-                  -25.284445
-                ],
-                [
-                  152.862577,
-                  -25.284486
-                ],
-                [
-                  152.862284,
-                  -25.28465
-                ],
-                [
-                  152.862051,
-                  -25.284991
-                ],
-                [
-                  152.861809,
-                  -25.287359
-                ],
-                [
-                  152.862599,
-                  -25.287759
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25WB3593",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "66",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "11:20AM 09 Mar 2025",
-        "EST_FIX_TIME": "4:00PM 10 Mar 2025",
-        "STREETS": "ESPLANADE, FRESHWATER ST, TORQUAY TCE",
-        "SUBURBS": "TORQUAY"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               152.842907,
               -25.28258
             ]
@@ -2371,5 +2262,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741584001.436253"
+  "extracted": "1741584302.667543"
 }
