@@ -1104,8 +1104,8 @@
           {
             "type": "Point",
             "coordinates": [
-              147.345351,
-              -19.582471
+              146.831243,
+              -19.174013
             ]
           },
           {
@@ -1113,56 +1113,36 @@
             "coordinates": [
               [
                 [
-                  147.34482,
-                  -19.585225
+                  146.828128,
+                  -19.171981
                 ],
                 [
-                  147.344983,
-                  -19.585418
+                  146.833575,
+                  -19.176617
                 ],
                 [
-                  147.345502,
-                  -19.585566
+                  146.833976,
+                  -19.176726
                 ],
                 [
-                  147.345832,
-                  -19.585159
+                  146.834172,
+                  -19.176693
                 ],
                 [
-                  147.345985,
-                  -19.582244
+                  146.834398,
+                  -19.175905
                 ],
                 [
-                  147.345986,
-                  -19.582216
+                  146.828755,
+                  -19.171301
                 ],
                 [
-                  147.345956,
-                  -19.579822
+                  146.828087,
+                  -19.171346
                 ],
                 [
-                  147.345498,
-                  -19.579376
-                ],
-                [
-                  147.345004,
-                  -19.579785
-                ],
-                [
-                  147.344892,
-                  -19.580915
-                ],
-                [
-                  147.344891,
-                  -19.580938
-                ],
-                [
-                  147.344717,
-                  -19.584924
-                ],
-                [
-                  147.34482,
-                  -19.585225
+                  146.828128,
+                  -19.171981
                 ]
               ]
             ]
@@ -1170,15 +1150,15 @@
         ]
       },
       "properties": {
-        "EVENT_ID": "25NQ4009",
+        "EVENT_ID": "25NQ4012",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "5",
+        "CUSTOMERS_AFFECTED": "3",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews working on-site",
-        "START": "8:51AM 10 Mar 2025",
+        "STATUS": "Outage reported",
+        "START": "12:06PM 10 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "DICKS BANK RD, FIVEWAYS RD",
-        "SUBURBS": "AYR"
+        "STREETS": "YULE ST",
+        "SUBURBS": "PICNIC BAY"
       }
     },
     {
@@ -1950,6 +1930,59 @@
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "ALBERT ST, CEDARWOOD DR, CHARLES ST, DALE ST, EAST SIDE RD, JACKSON CT, JANE ST, JONES ST, LEE CT, MATTHEW CT, MELISSA CT, NAOMI DR, ORCHARD RD, PARKLAND DR, PERSEVERANCE DAM RD, PERSEVERANCE RD, PINNELL RD, SAMUEL AVE, SOUTH ST, THREE MILE RD, TOOWOOMBA RD, TOWER PARK CT, VICKY AVE",
         "SUBURBS": "CROWS NEST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.909481,
+              -27.545089
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.909985,
+                  -27.545071
+                ],
+                [
+                  151.909461,
+                  -27.544639
+                ],
+                [
+                  151.908976,
+                  -27.545106
+                ],
+                [
+                  151.909501,
+                  -27.545538
+                ],
+                [
+                  151.909985,
+                  -27.545071
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25SW4488",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "10:53AM 10 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "MCDOUGALL ST",
+        "SUBURBS": "TOOWOOMBA"
       }
     },
     {
@@ -2790,5 +2823,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741572601.472939"
+  "extracted": "1741573201.546814"
 }
