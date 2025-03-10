@@ -379,7 +379,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "14",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews working on-site",
         "START": "7:00AM 10 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "HILL ST, HUNTER ST, PATTISON ST",
@@ -1714,107 +1714,6 @@
           {
             "type": "Point",
             "coordinates": [
-              152.028942,
-              -27.389314
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.008816,
-                  -27.386986
-                ],
-                [
-                  152.014153,
-                  -27.396718
-                ],
-                [
-                  152.014369,
-                  -27.396917
-                ],
-                [
-                  152.017019,
-                  -27.398176
-                ],
-                [
-                  152.017211,
-                  -27.398227
-                ],
-                [
-                  152.024102,
-                  -27.398779
-                ],
-                [
-                  152.024423,
-                  -27.398707
-                ],
-                [
-                  152.044034,
-                  -27.387242
-                ],
-                [
-                  152.044153,
-                  -27.387146
-                ],
-                [
-                  152.049069,
-                  -27.381633
-                ],
-                [
-                  152.048811,
-                  -27.38092
-                ],
-                [
-                  152.044616,
-                  -27.379866
-                ],
-                [
-                  152.044465,
-                  -27.379849
-                ],
-                [
-                  152.021947,
-                  -27.38042
-                ],
-                [
-                  152.021728,
-                  -27.380471
-                ],
-                [
-                  152.009035,
-                  -27.386389
-                ],
-                [
-                  152.008816,
-                  -27.386986
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25SW4420",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "34",
-        "REASON": "The loss of supply is due to damage caused by cyclone activity. ",
-        "STATUS": "Crews working on-site",
-        "START": "2:42AM 09 Mar 2025",
-        "EST_FIX_TIME": "3:00PM 10 Mar 2025",
-        "STREETS": "ALF RD, CONNOLLY RD, JONAS RD, LUBACH RD, MOUNT LUKE RD, NEW ENGLAND HWY, PERKINS FLAT RD, ZELLER RD",
-        "SUBURBS": "GEHAM, HAMPTON, MOUNT LUKE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               151.658538,
               -27.636484
             ]
@@ -2719,5 +2618,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741580701.236644"
+  "extracted": "1741581300.240992"
 }
