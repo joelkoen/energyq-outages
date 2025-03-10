@@ -952,7 +952,7 @@
         "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
         "STATUS": "Crews working on-site",
         "START": "1:30PM 10 Mar 2025",
-        "EST_FIX_TIME": "3:30PM 10 Mar 2025",
+        "EST_FIX_TIME": "4:30PM 10 Mar 2025",
         "STREETS": "NOTCH POINT RD",
         "SUBURBS": "ILBILBIE"
       }
@@ -1243,6 +1243,91 @@
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "YULE ST",
         "SUBURBS": "PICNIC BAY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              141.832777,
+              -21.519265
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  141.688108,
+                  -21.496868
+                ],
+                [
+                  141.795574,
+                  -21.542563
+                ],
+                [
+                  141.795603,
+                  -21.542574
+                ],
+                [
+                  141.941667,
+                  -21.594077
+                ],
+                [
+                  141.942293,
+                  -21.593799
+                ],
+                [
+                  141.977446,
+                  -21.495829
+                ],
+                [
+                  141.977402,
+                  -21.495453
+                ],
+                [
+                  141.951626,
+                  -21.455354
+                ],
+                [
+                  141.951257,
+                  -21.455137
+                ],
+                [
+                  141.824247,
+                  -21.444452
+                ],
+                [
+                  141.824023,
+                  -21.444483
+                ],
+                [
+                  141.688126,
+                  -21.496041
+                ],
+                [
+                  141.688108,
+                  -21.496868
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25NQ4039",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "23",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+        "STATUS": "Outage reported",
+        "START": "3:34PM 10 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "ANGUS DOWNS STATION, CLIO ST, FINLAY ST, GLENAGRA STATION, HAMPDEN DOWNS STATION, HULBERT ST, KYNUNA RES, KYNUNA SCHOOL LANE, KYNUNA STATION, LANDSBOROUGH HWY, MIMONG STATION, PERCOL PLAINS STATION, ROSEMEAD STATION",
+        "SUBURBS": "JULIA CREEK, KYNUNA, MCKINLAY"
       }
     },
     {
@@ -2262,5 +2347,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741584900.765074"
+  "extracted": "1741585201.347069"
 }
