@@ -528,8 +528,8 @@
         "EVENT_ID": "25FN3207",
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "4",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Crews working on-site",
+        "REASON": "The loss of supply is due to fallen power lines.  ",
+        "STATUS": "Work delayed - crews unable to continue",
         "START": "3:18PM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "BROWNSVILLE ST, BROWNVILLE RD, COOLGARRA RD, MILES GLY",
@@ -1242,9 +1242,9 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "23",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Work delayed - crews unable to continue",
         "START": "3:34PM 10 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
+        "EST_FIX_TIME": "3:00PM 11 Mar 2025",
         "STREETS": "ANGUS DOWNS STATION, CLIO ST, FINLAY ST, GLENAGRA STATION, HAMPDEN DOWNS STATION, HULBERT ST, KYNUNA RES, KYNUNA SCHOOL LANE, KYNUNA STATION, LANDSBOROUGH HWY, MIMONG STATION, PERCOL PLAINS STATION, ROSEMEAD STATION",
         "SUBURBS": "JULIA CREEK, KYNUNA, MCKINLAY"
       }
@@ -1411,107 +1411,6 @@
           {
             "type": "Point",
             "coordinates": [
-              151.892022,
-              -27.356685
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.84188,
-                  -27.387811
-                ],
-                [
-                  151.851485,
-                  -27.406229
-                ],
-                [
-                  151.852294,
-                  -27.406361
-                ],
-                [
-                  151.885869,
-                  -27.377184
-                ],
-                [
-                  151.88588,
-                  -27.377174
-                ],
-                [
-                  151.922871,
-                  -27.34291
-                ],
-                [
-                  151.922897,
-                  -27.342884
-                ],
-                [
-                  151.938659,
-                  -27.325797
-                ],
-                [
-                  151.938678,
-                  -27.325776
-                ],
-                [
-                  151.942164,
-                  -27.321491
-                ],
-                [
-                  151.941979,
-                  -27.320823
-                ],
-                [
-                  151.927859,
-                  -27.314585
-                ],
-                [
-                  151.927735,
-                  -27.314547
-                ],
-                [
-                  151.885892,
-                  -27.307009
-                ],
-                [
-                  151.885338,
-                  -27.307254
-                ],
-                [
-                  151.841883,
-                  -27.387425
-                ],
-                [
-                  151.84188,
-                  -27.387811
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25SW4341",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "68",
-        "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
-        "STATUS": "Crews working on-site",
-        "START": "12:00AM 09 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "BOODUA-MERINGANDAN RD, COZENS RD, DOUGLAS PLAINBY RD, GOMORAN DOUGLAS RD, GOMORAN-BERGEN RD, GOOMBUNGEE MERINGANDAN RD, GUY RD, KINGSTHORPE HADEN RD, MUNIGANEEN RD, PANSKIS RD, PECHEY MACLAGAN RD, SCHMALING RD, SMOOTHY RD, STENZEL RD, WELKE'S RD, WOODS RD, ZIMMERMAN RD",
-        "SUBURBS": "BOODUA, DOUGLAS, GOOMBUNGEE, GROOMSVILLE, MERINGANDAN, MUNIGANEEN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               152.076,
               -27.37667
             ]
@@ -1591,115 +1490,6 @@
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "COLLINGWOOD RD, ESK HAMPTON RD, NEW ENGLAND HWY",
         "SUBURBS": "HAMPTON"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.658538,
-              -27.636484
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.607619,
-                  -27.605974
-                ],
-                [
-                  151.65045,
-                  -27.676858
-                ],
-                [
-                  151.650477,
-                  -27.676897
-                ],
-                [
-                  151.665364,
-                  -27.696391
-                ],
-                [
-                  151.666008,
-                  -27.696541
-                ],
-                [
-                  151.667847,
-                  -27.695722
-                ],
-                [
-                  151.66797,
-                  -27.695645
-                ],
-                [
-                  151.670009,
-                  -27.693913
-                ],
-                [
-                  151.67007,
-                  -27.69385
-                ],
-                [
-                  151.709362,
-                  -27.645122
-                ],
-                [
-                  151.709456,
-                  -27.644851
-                ],
-                [
-                  151.708696,
-                  -27.609991
-                ],
-                [
-                  151.708622,
-                  -27.609766
-                ],
-                [
-                  151.695876,
-                  -27.591075
-                ],
-                [
-                  151.695589,
-                  -27.590877
-                ],
-                [
-                  151.641754,
-                  -27.576428
-                ],
-                [
-                  151.641257,
-                  -27.576535
-                ],
-                [
-                  151.607713,
-                  -27.605438
-                ],
-                [
-                  151.607619,
-                  -27.605974
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25SW4490",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "118",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "1:55PM 10 Mar 2025",
-        "EST_FIX_TIME": "3:30PM 10 Mar 2025",
-        "STREETS": "ARNOLD RD, BEAUARABA RD, BIDDESTON LINTHORPE RD, BROXBURN-LINTHORPE RD, CRONIN RD, FULLER RD, GORE HWY, KENNY RD, LINTHORPE RD, LINTHORPE VALLEY RD, LINTHORPE-BIDDESTON RD, LOVEDAY RD, LUCK RD, MCGRATH RD, MCINTOSH RD, MORAN RD, PADDYS LANE, SOUTHBROOK-LINTHORPE RD, STONELEIGH RD, STOWER RD, WYANGAPINNI RD",
-        "SUBURBS": "BIDDESTON, BROXBURN, LINTHORPE, MOUNT TYSON, PITTSWORTH, ROCKVIEW, ROSSVALE, SOUTHBROOK"
       }
     },
     {
@@ -1814,6 +1604,107 @@
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "RYALLS RD",
         "SUBURBS": "COLUMBOOLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.523421,
+              -27.225033
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  150.484152,
+                  -27.255214
+                ],
+                [
+                  150.493905,
+                  -27.25777
+                ],
+                [
+                  150.494197,
+                  -27.257768
+                ],
+                [
+                  150.551481,
+                  -27.241877
+                ],
+                [
+                  150.551798,
+                  -27.241618
+                ],
+                [
+                  150.558846,
+                  -27.226303
+                ],
+                [
+                  150.558865,
+                  -27.226253
+                ],
+                [
+                  150.561239,
+                  -27.218716
+                ],
+                [
+                  150.561241,
+                  -27.218709
+                ],
+                [
+                  150.562994,
+                  -27.212756
+                ],
+                [
+                  150.563006,
+                  -27.212579
+                ],
+                [
+                  150.56287,
+                  -27.211698
+                ],
+                [
+                  150.562582,
+                  -27.211351
+                ],
+                [
+                  150.5167,
+                  -27.192297
+                ],
+                [
+                  150.51603,
+                  -27.192516
+                ],
+                [
+                  150.483836,
+                  -27.254591
+                ],
+                [
+                  150.484152,
+                  -27.255214
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25SW4541",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "51",
+        "REASON": "The loss of supply is due to the operating of protective equipment. ",
+        "STATUS": "Outage reported",
+        "START": "2:15PM 10 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "ARNOLDS RD, BISLEY RD, KOGAN RD, RIDGE RD, TARA-KOGAN RD",
+        "SUBURBS": "TARA"
       }
     },
     {
@@ -2283,9 +2174,70 @@
         "STREETS": "ELLERSLIE RD, THOMPSON A RD",
         "SUBURBS": "BROOWEENA, WOOCOO"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.117327,
+              -25.427261
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.117178,
+                  -25.426805
+                ],
+                [
+                  152.116901,
+                  -25.426984
+                ],
+                [
+                  152.116784,
+                  -25.427612
+                ],
+                [
+                  152.117475,
+                  -25.427718
+                ],
+                [
+                  152.117753,
+                  -25.427538
+                ],
+                [
+                  152.117869,
+                  -25.426911
+                ],
+                [
+                  152.117178,
+                  -25.426805
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25WB3644",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "2:26PM 10 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "MOUNT GOONANEMAN RD, REPEATER RD",
+        "SUBURBS": "DALLARNIL"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741585503.7077"
+  "extracted": "1741586101.75746"
 }
