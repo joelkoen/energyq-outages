@@ -917,6 +917,95 @@
           {
             "type": "Point",
             "coordinates": [
+              149.438756,
+              -21.719987
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.428588,
+                  -21.717666
+                ],
+                [
+                  149.429539,
+                  -21.721192
+                ],
+                [
+                  149.429907,
+                  -21.721523
+                ],
+                [
+                  149.440507,
+                  -21.723624
+                ],
+                [
+                  149.440571,
+                  -21.723633
+                ],
+                [
+                  149.448427,
+                  -21.724173
+                ],
+                [
+                  149.448924,
+                  -21.723857
+                ],
+                [
+                  149.448707,
+                  -21.723333
+                ],
+                [
+                  149.435497,
+                  -21.716105
+                ],
+                [
+                  149.435308,
+                  -21.716046
+                ],
+                [
+                  149.433042,
+                  -21.715801
+                ],
+                [
+                  149.432825,
+                  -21.715825
+                ],
+                [
+                  149.428895,
+                  -21.717131
+                ],
+                [
+                  149.428588,
+                  -21.717666
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25MK2305",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "9",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "1:30PM 10 Mar 2025",
+        "EST_FIX_TIME": "3:30PM 10 Mar 2025",
+        "STREETS": "NOTCH POINT RD",
+        "SUBURBS": "ILBILBIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.207433,
               -18.981624
             ]
@@ -1220,7 +1309,7 @@
       "properties": {
         "EVENT_ID": "25SW4338",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "71",
+        "CUSTOMERS_AFFECTED": "38",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Crews working on-site",
         "START": "11:29PM 08 Mar 2025",
@@ -2411,5 +2500,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741577101.248242"
+  "extracted": "1741577406.022625"
 }
