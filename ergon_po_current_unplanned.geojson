@@ -1642,7 +1642,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "57",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
+        "STATUS": "Crews on route",
         "START": "12:28AM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "HIGHFIELDS RD, KOOKABURRA CT, KUHLS RD, WESLEY CT",
@@ -1788,91 +1788,6 @@
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "BAINE RD, BALLANTINE RD, BLANCK RD, CASE RD, CEDAR LANE, CHRISTY RD, CHURCH HOUSE RD, COLLINGWOOD RD, CULLEN RD, DIAMOND RD, DIP RD, ESK HAMPTON RD, GORMAN RD, HAMPTON-ESK RD, HORREX RD, HUMBERDROSS RD, KYNOCH RD, MCERLEAN RD, MCKIRDY RD, MCQUILLAN RD, MUNRO RD, MURPHY RD, NATIONAL PARK RD, NEW ENGLAND HWY, PALMTREE RD, PALMTREE SCHOOL RD, PERSEVERANCE HALL RD, PERSEVERANCE TRIG RD, PHILP RD, POST OFFICE RD, RALPH RD, RAVENSBOURNE DIP RD, RYAN RD, SCHWAGER RD, SEVENTEEN MILE RD, SHEARER RD, SHUM RD, SPENCER RD, TAYLOR RD, WACKERLING RD",
         "SUBURBS": "HAMPTON, PALMTREE, PERSEVERANCE, RAVENSBOURNE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.907637,
-              -27.563957
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.905068,
-                  -27.563076
-                ],
-                [
-                  151.905086,
-                  -27.563194
-                ],
-                [
-                  151.905094,
-                  -27.563234
-                ],
-                [
-                  151.906,
-                  -27.566747
-                ],
-                [
-                  151.906001,
-                  -27.566752
-                ],
-                [
-                  151.906274,
-                  -27.567756
-                ],
-                [
-                  151.907182,
-                  -27.567903
-                ],
-                [
-                  151.910177,
-                  -27.563989
-                ],
-                [
-                  151.910206,
-                  -27.563524
-                ],
-                [
-                  151.90814,
-                  -27.560056
-                ],
-                [
-                  151.907278,
-                  -27.560012
-                ],
-                [
-                  151.905152,
-                  -27.56276
-                ],
-                [
-                  151.905068,
-                  -27.563076
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25SW4372",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "19",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-        "STATUS": "Outage reported",
-        "START": "2:34AM 09 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "GLENVALE RD, MCDOUGALL ST, NASH DR, TWILIGHT ST",
-        "SUBURBS": "GLENVALE"
       }
     },
     {
@@ -3101,9 +3016,78 @@
         "STREETS": "CLAYTON RD, GILLENS CREEK RD, GILLENS SIDING RD, NEW VALLEY RD, PRICE ST, WISES RD",
         "SUBURBS": "ALLOWAY, KENSINGTON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.922174,
+              -26.712076
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  151.920959,
+                  -26.712705
+                ],
+                [
+                  151.923149,
+                  -26.713148
+                ],
+                [
+                  151.923749,
+                  -26.712616
+                ],
+                [
+                  151.923444,
+                  -26.711325
+                ],
+                [
+                  151.92276,
+                  -26.711004
+                ],
+                [
+                  151.92094,
+                  -26.711691
+                ],
+                [
+                  151.920664,
+                  -26.711951
+                ],
+                [
+                  151.920599,
+                  -26.71211
+                ],
+                [
+                  151.920959,
+                  -26.712705
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25WB3622",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "8:33AM 10 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "ALLEN RD, MAJORS RD",
+        "SUBURBS": "NANANGO"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741566302.201535"
+  "extracted": "1741566900.287302"
 }
