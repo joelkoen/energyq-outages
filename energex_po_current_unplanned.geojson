@@ -13826,8 +13826,8 @@
           {
             "type": "Point",
             "coordinates": [
-              153.422337,
-              -27.996524
+              153.425944,
+              -27.994485
             ]
           },
           {
@@ -13835,36 +13835,52 @@
             "coordinates": [
               [
                 [
-                  153.416597,
-                  -27.99526
+                  153.423751,
+                  -27.993837
                 ],
                 [
-                  153.41828,
-                  -27.997941
+                  153.424027,
+                  -27.995145
                 ],
                 [
-                  153.418373,
-                  -27.998048
+                  153.42406,
+                  -27.995243
                 ],
                 [
-                  153.421589,
-                  -28.000777
+                  153.424167,
+                  -27.995459
                 ],
                 [
-                  153.421955,
-                  -28.000902
+                  153.424194,
+                  -27.995506
                 ],
                 [
-                  153.422776,
-                  -28.000881
+                  153.424888,
+                  -27.996562
                 ],
                 [
-                  153.423132,
-                  -28.000739
+                  153.425287,
+                  -27.996784
                 ],
                 [
-                  153.427826,
-                  -27.996299
+                  153.425699,
+                  -27.996813
+                ],
+                [
+                  153.425857,
+                  -27.996802
+                ],
+                [
+                  153.427139,
+                  -27.996533
+                ],
+                [
+                  153.427154,
+                  -27.99653
+                ],
+                [
+                  153.427587,
+                  -27.996426
                 ],
                 [
                   153.427957,
@@ -13899,32 +13915,24 @@
                   -27.992157
                 ],
                 [
-                  153.424746,
-                  -27.992146
+                  153.424395,
+                  -27.992363
                 ],
                 [
-                  153.417662,
-                  -27.993247
+                  153.424003,
+                  -27.992957
                 ],
                 [
-                  153.4173,
-                  -27.993482
+                  153.423954,
+                  -27.993056
                 ],
                 [
-                  153.416618,
-                  -27.994635
+                  153.423763,
+                  -27.993626
                 ],
                 [
-                  153.416564,
-                  -27.994789
-                ],
-                [
-                  153.416537,
-                  -27.994985
-                ],
-                [
-                  153.416597,
-                  -27.99526
+                  153.423751,
+                  -27.993837
                 ]
               ]
             ]
@@ -13934,12 +13942,12 @@
       "properties": {
         "EVENT_ID": "INCD-830477-g",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "1061",
+        "CUSTOMERS_AFFECTED": "188",
         "REASON": "Damage Due To Cyclone",
         "STATUS": "Awaiting",
         "START": "9:55PM 07 Mar 2025",
         "EST_FIX_TIME": "12:00AM 11 Mar 2025",
-        "STREETS": "ADORI ST, BARRANBALI ST, BLONDELL AVE, BURRA ST, CYPRESS AVE, DALPURA ST, DARRAMBAL ST, FERNY AVE, ILLAWONG ST, NORFOLK AVE, OAK AVE, PALM AVE, PARNOO ST, PINE AVE, PURLI ST, RIVER DR, SOUTHERN CROSS DR, STANHILL DR, THOMAS DR, WEEMALA ST",
+        "STREETS": "BLONDELL AVE, CYPRESS AVE, FERNY AVE, NORFOLK AVE, OAK AVE, PALM AVE, PINE AVE, RIVER DR",
         "SUBURBS": "SURFERS PARADISE",
         "ETR_FLAG": "N"
       }
@@ -43984,6 +43992,124 @@
           {
             "type": "Point",
             "coordinates": [
+              153.065293,
+              -27.313314
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  153.063709,
+                  -27.312268
+                ],
+                [
+                  153.063781,
+                  -27.3126
+                ],
+                [
+                  153.063781,
+                  -27.312603
+                ],
+                [
+                  153.063953,
+                  -27.31337
+                ],
+                [
+                  153.063955,
+                  -27.313378
+                ],
+                [
+                  153.063994,
+                  -27.313538
+                ],
+                [
+                  153.064,
+                  -27.31356
+                ],
+                [
+                  153.064072,
+                  -27.313796
+                ],
+                [
+                  153.06412,
+                  -27.313899
+                ],
+                [
+                  153.064338,
+                  -27.314246
+                ],
+                [
+                  153.06448,
+                  -27.314389
+                ],
+                [
+                  153.065063,
+                  -27.314769
+                ],
+                [
+                  153.065336,
+                  -27.314855
+                ],
+                [
+                  153.066279,
+                  -27.314897
+                ],
+                [
+                  153.066726,
+                  -27.314695
+                ],
+                [
+                  153.066861,
+                  -27.314511
+                ],
+                [
+                  153.066878,
+                  -27.314038
+                ],
+                [
+                  153.065541,
+                  -27.311959
+                ],
+                [
+                  153.065103,
+                  -27.311733
+                ],
+                [
+                  153.064206,
+                  -27.311731
+                ],
+                [
+                  153.063709,
+                  -27.312268
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "INCD-835362-g",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "46",
+        "REASON": "Damage Due To Cyclone",
+        "STATUS": "Awaiting",
+        "START": "9:58AM 09 Mar 2025",
+        "EST_FIX_TIME": "3:30PM 10 Mar 2025",
+        "STREETS": "BRIGHTON RD, BRIGHTON TCE, DEAGON ST",
+        "SUBURBS": "SANDGATE",
+        "ETR_FLAG": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               153.111851,
               -27.213897
             ]
@@ -47836,7 +47962,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "116",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "In Progress",
+        "STATUS": "Awaiting",
         "START": "1:00PM 09 Mar 2025",
         "EST_FIX_TIME": "12:00AM 11 Mar 2025",
         "STREETS": "MUSGRAVE ST, RUTLEDGE ST, TWEED ST",
@@ -50684,7 +50810,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "147",
         "REASON": "Damage Due To Cyclone",
-        "STATUS": "Awaiting",
+        "STATUS": "In Progress",
         "START": "5:50PM 09 Mar 2025",
         "EST_FIX_TIME": "12:00AM 11 Mar 2025",
         "STREETS": "ARALUEN AVE, BAHLOO AVE, BINDA ST, CULGOA ST, LIND AVE, MAWARRA ST, PARNKI PDE, TOWNSON AVE, TWENTY FIFTH AVE, TWENTY FOURTH AVE, TWENTY THIRD AVE",
@@ -55186,92 +55312,6 @@
           {
             "type": "Point",
             "coordinates": [
-              152.877277,
-              -27.531211
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.874993,
-                  -27.530958
-                ],
-                [
-                  152.87657,
-                  -27.532133
-                ],
-                [
-                  152.876594,
-                  -27.532149
-                ],
-                [
-                  152.877605,
-                  -27.532815
-                ],
-                [
-                  152.878242,
-                  -27.53279
-                ],
-                [
-                  152.879234,
-                  -27.532005
-                ],
-                [
-                  152.879398,
-                  -27.531742
-                ],
-                [
-                  152.879561,
-                  -27.530869
-                ],
-                [
-                  152.879265,
-                  -27.530381
-                ],
-                [
-                  152.877303,
-                  -27.529616
-                ],
-                [
-                  152.876926,
-                  -27.529606
-                ],
-                [
-                  152.875143,
-                  -27.530188
-                ],
-                [
-                  152.874993,
-                  -27.530958
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "INCD-838820-g",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "11",
-        "REASON": "Damage Due To Cyclone",
-        "STATUS": "Awaiting",
-        "START": "10:33AM 10 Mar 2025",
-        "EST_FIX_TIME": "12:00AM 11 Mar 2025",
-        "STREETS": "OBRIEN RD, REVELL ST",
-        "SUBURBS": "PULLENVALE",
-        "ETR_FLAG": "N"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               152.264612,
               -27.163353
             ]
@@ -56337,5 +56377,5 @@
   ],
   "company": "Energex",
   "state": "Current",
-  "extracted": "1741573801.533921"
+  "extracted": "1741574401.53597"
 }
