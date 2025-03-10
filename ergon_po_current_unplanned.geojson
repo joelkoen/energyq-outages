@@ -521,7 +521,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "2",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Crews working on-site",
+        "STATUS": "Work delayed - crews unable to continue",
         "START": "8:18AM 10 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "RIVERSLEA RD",
@@ -666,6 +666,79 @@
           {
             "type": "Point",
             "coordinates": [
+              149.576511,
+              -22.791793
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  149.551875,
+                  -22.75099
+                ],
+                [
+                  149.600234,
+                  -22.83721
+                ],
+                [
+                  149.600819,
+                  -22.83743
+                ],
+                [
+                  149.601147,
+                  -22.83693
+                ],
+                [
+                  149.586083,
+                  -22.750107
+                ],
+                [
+                  149.585667,
+                  -22.749732
+                ],
+                [
+                  149.556843,
+                  -22.746155
+                ],
+                [
+                  149.556433,
+                  -22.746284
+                ],
+                [
+                  149.551962,
+                  -22.750464
+                ],
+                [
+                  149.551875,
+                  -22.75099
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25CA4855",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "5",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "8:48AM 10 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "ANGLEWOOD RD, MT BISON RD",
+        "SUBURBS": "OGMORE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               145.048539,
               -17.63492
             ]
@@ -691,20 +764,12 @@
                   -17.701619
                 ],
                 [
-                  145.087673,
-                  -17.701478
+                  145.087723,
+                  -17.701418
                 ],
                 [
-                  145.142873,
-                  -17.645654
-                ],
-                [
-                  145.142983,
-                  -17.645472
-                ],
-                [
-                  145.156274,
-                  -17.602666
+                  145.156215,
+                  -17.602787
                 ],
                 [
                   145.156294,
@@ -742,7 +807,7 @@
       "properties": {
         "EVENT_ID": "25FN3207",
         "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "36",
+        "CUSTOMERS_AFFECTED": "18",
         "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
         "STATUS": "Crews working on-site",
         "START": "3:18PM 09 Mar 2025",
@@ -2976,5 +3041,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741570505.149783"
+  "extracted": "1741570801.526225"
 }
