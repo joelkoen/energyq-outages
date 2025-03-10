@@ -2012,6 +2012,107 @@
           {
             "type": "Point",
             "coordinates": [
+              152.068397,
+              -27.271483
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.054047,
+                  -27.261439
+                ],
+                [
+                  152.059122,
+                  -27.27292
+                ],
+                [
+                  152.05915,
+                  -27.272975
+                ],
+                [
+                  152.064426,
+                  -27.281407
+                ],
+                [
+                  152.06478,
+                  -27.281631
+                ],
+                [
+                  152.067653,
+                  -27.282072
+                ],
+                [
+                  152.067708,
+                  -27.282078
+                ],
+                [
+                  152.068668,
+                  -27.28213
+                ],
+                [
+                  152.069021,
+                  -27.282025
+                ],
+                [
+                  152.081369,
+                  -27.272778
+                ],
+                [
+                  152.081525,
+                  -27.272572
+                ],
+                [
+                  152.082746,
+                  -27.269217
+                ],
+                [
+                  152.082515,
+                  -27.268686
+                ],
+                [
+                  152.076188,
+                  -27.265491
+                ],
+                [
+                  152.076058,
+                  -27.265445
+                ],
+                [
+                  152.054633,
+                  -27.260836
+                ],
+                [
+                  152.054047,
+                  -27.261439
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25SW4479",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "391",
+        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+        "STATUS": "Crews working on-site",
+        "START": "10:53AM 10 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "ALBERT ST, CEDARWOOD DR, CHARLES ST, DALE ST, EAST SIDE RD, JACKSON CT, JANE ST, JONES ST, LEE CT, MATTHEW CT, MELISSA CT, NAOMI DR, ORCHARD RD, PARKLAND DR, PERSEVERANCE DAM RD, PERSEVERANCE RD, PINNELL RD, SAMUEL AVE, SOUTH ST, THREE MILE RD, TOOWOOMBA RD, TOWER PARK CT, VICKY AVE",
+        "SUBURBS": "CROWS NEST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               152.856612,
               -25.28519
             ]
@@ -2996,5 +3097,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741568101.663294"
+  "extracted": "1741568401.7762"
 }
