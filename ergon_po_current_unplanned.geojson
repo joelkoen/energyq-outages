@@ -1103,6 +1103,83 @@
           {
             "type": "Point",
             "coordinates": [
+              148.532987,
+              -20.330903
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.526075,
+                  -20.336666
+                ],
+                [
+                  148.539968,
+                  -20.336265
+                ],
+                [
+                  148.540389,
+                  -20.335626
+                ],
+                [
+                  148.535407,
+                  -20.325355
+                ],
+                [
+                  148.534755,
+                  -20.32514
+                ],
+                [
+                  148.528112,
+                  -20.328321
+                ],
+                [
+                  148.527886,
+                  -20.328553
+                ],
+                [
+                  148.52601,
+                  -20.332875
+                ],
+                [
+                  148.525978,
+                  -20.332993
+                ],
+                [
+                  148.525585,
+                  -20.336162
+                ],
+                [
+                  148.526075,
+                  -20.336666
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25MK2313",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "8",
+        "REASON": "The loss of supply is due to damage caused by storm activity.",
+        "STATUS": "Outage reported",
+        "START": "2:04PM 10 Mar 2025",
+        "EST_FIX_TIME": "5:00PM 10 Mar 2025",
+        "STREETS": "BLAIR RD, BLAIR SIDING RD, BRUCE HWY, GREGORY RIVER RD",
+        "SUBURBS": "CRYSTAL BROOK, GREGORY, GREGORY RIVER, MYRTLEVALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.207433,
               -18.981624
             ]
@@ -1816,7 +1893,7 @@
         "TYPE": "UNPLANNED",
         "CUSTOMERS_AFFECTED": "84",
         "REASON": "The loss of supply is due to damage caused by cyclone activity. ",
-        "STATUS": "Crews on route",
+        "STATUS": "Crews working on-site",
         "START": "2:42AM 09 Mar 2025",
         "EST_FIX_TIME": "Under Investigation",
         "STREETS": "CONNOLLY RD, DOUG RD, GEHAM RD, GEHAM STATION RD, GROOMSVILLE RD, MCAULEY RD, MERVYN RD, NEW ENGLAND HWY, PATZWALD RD, PERKINS FLAT RD, PLANT RD, ROBINSON RD, STRACK RD, TED RD",
@@ -2674,5 +2751,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741579500.259148"
+  "extracted": "1741579800.297935"
 }
