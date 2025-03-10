@@ -2169,131 +2169,6 @@
           {
             "type": "Point",
             "coordinates": [
-              152.851205,
-              -25.284573
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.849706,
-                  -25.286031
-                ],
-                [
-                  152.850865,
-                  -25.286083
-                ],
-                [
-                  152.850967,
-                  -25.286078
-                ],
-                [
-                  152.852262,
-                  -25.285889
-                ],
-                [
-                  152.852337,
-                  -25.285873
-                ],
-                [
-                  152.852729,
-                  -25.285757
-                ],
-                [
-                  152.85307,
-                  -25.285365
-                ],
-                [
-                  152.853174,
-                  -25.284178
-                ],
-                [
-                  152.852903,
-                  -25.28374
-                ],
-                [
-                  152.85209,
-                  -25.283369
-                ],
-                [
-                  152.851975,
-                  -25.283332
-                ],
-                [
-                  152.85065,
-                  -25.283063
-                ],
-                [
-                  152.850098,
-                  -25.283304
-                ],
-                [
-                  152.84934,
-                  -25.284707
-                ],
-                [
-                  152.8493,
-                  -25.284809
-                ],
-                [
-                  152.849289,
-                  -25.284856
-                ],
-                [
-                  152.849283,
-                  -25.284889
-                ],
-                [
-                  152.849261,
-                  -25.285026
-                ],
-                [
-                  152.849261,
-                  -25.285027
-                ],
-                [
-                  152.849254,
-                  -25.285074
-                ],
-                [
-                  152.849249,
-                  -25.285124
-                ],
-                [
-                  152.849236,
-                  -25.285569
-                ],
-                [
-                  152.849706,
-                  -25.286031
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25WB3581",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "79",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Work delayed. Crew unable to continue.",
-        "START": "2:13PM 09 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "DOWN ST, HERVEY ST, MCKEAN RD, SCARBOROUGH ST, TORQUAY RD",
-        "SUBURBS": "SCARNESS"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               152.863567,
               -25.285935
             ]
@@ -2689,9 +2564,70 @@
         "STREETS": "CLAYTON RD, GILLENS CREEK RD, GILLENS SIDING RD, NEW VALLEY RD, PRICE ST, WISES RD",
         "SUBURBS": "ALLOWAY, KENSINGTON"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
+              152.455494,
+              -25.800868
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.457914,
+                  -25.801728
+                ],
+                [
+                  152.453608,
+                  -25.799249
+                ],
+                [
+                  152.452922,
+                  -25.799388
+                ],
+                [
+                  152.453074,
+                  -25.800009
+                ],
+                [
+                  152.45738,
+                  -25.802488
+                ],
+                [
+                  152.458066,
+                  -25.802349
+                ],
+                [
+                  152.457914,
+                  -25.801728
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25WB3629",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "2",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Outage reported",
+        "START": "10:32AM 10 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "THOMPSONS RD",
+        "SUBURBS": "GUNDIAH"
+      }
     }
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741574701.97634"
+  "extracted": "1741575301.627396"
 }
