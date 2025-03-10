@@ -978,6 +978,91 @@
           {
             "type": "Point",
             "coordinates": [
+              148.039314,
+              -21.996311
+            ]
+          },
+          {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  148.037076,
+                  -21.996139
+                ],
+                [
+                  148.038529,
+                  -21.996997
+                ],
+                [
+                  148.038555,
+                  -21.997011
+                ],
+                [
+                  148.040016,
+                  -21.997758
+                ],
+                [
+                  148.040292,
+                  -21.997812
+                ],
+                [
+                  148.041324,
+                  -21.997727
+                ],
+                [
+                  148.041658,
+                  -21.996992
+                ],
+                [
+                  148.040996,
+                  -21.996231
+                ],
+                [
+                  148.040837,
+                  -21.996113
+                ],
+                [
+                  148.038063,
+                  -21.99481
+                ],
+                [
+                  148.037481,
+                  -21.994916
+                ],
+                [
+                  148.03697,
+                  -21.995459
+                ],
+                [
+                  148.037076,
+                  -21.996139
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "EVENT_ID": "25MK2303",
+        "TYPE": "UNPLANNED",
+        "CUSTOMERS_AFFECTED": "29",
+        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+        "STATUS": "Crews working on-site",
+        "START": "11:30AM 10 Mar 2025",
+        "EST_FIX_TIME": "Under Investigation",
+        "STREETS": "COOK CT, MACKENZIE DR, MUNRO ST, ROSE ST",
+        "SUBURBS": "MORANBAH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+          {
+            "type": "Point",
+            "coordinates": [
               146.207433,
               -18.981624
             ]
@@ -1839,160 +1924,6 @@
           {
             "type": "Point",
             "coordinates": [
-              152.068397,
-              -27.271483
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  152.054047,
-                  -27.261439
-                ],
-                [
-                  152.059122,
-                  -27.27292
-                ],
-                [
-                  152.05915,
-                  -27.272975
-                ],
-                [
-                  152.064426,
-                  -27.281407
-                ],
-                [
-                  152.06478,
-                  -27.281631
-                ],
-                [
-                  152.067653,
-                  -27.282072
-                ],
-                [
-                  152.067708,
-                  -27.282078
-                ],
-                [
-                  152.068668,
-                  -27.28213
-                ],
-                [
-                  152.069021,
-                  -27.282025
-                ],
-                [
-                  152.081369,
-                  -27.272778
-                ],
-                [
-                  152.081525,
-                  -27.272572
-                ],
-                [
-                  152.082746,
-                  -27.269217
-                ],
-                [
-                  152.082515,
-                  -27.268686
-                ],
-                [
-                  152.076188,
-                  -27.265491
-                ],
-                [
-                  152.076058,
-                  -27.265445
-                ],
-                [
-                  152.054633,
-                  -27.260836
-                ],
-                [
-                  152.054047,
-                  -27.261439
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25SW4479",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "391",
-        "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-        "STATUS": "Crews working on-site",
-        "START": "10:53AM 10 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "ALBERT ST, CEDARWOOD DR, CHARLES ST, DALE ST, EAST SIDE RD, JACKSON CT, JANE ST, JONES ST, LEE CT, MATTHEW CT, MELISSA CT, NAOMI DR, ORCHARD RD, PARKLAND DR, PERSEVERANCE DAM RD, PERSEVERANCE RD, PINNELL RD, SAMUEL AVE, SOUTH ST, THREE MILE RD, TOOWOOMBA RD, TOWER PARK CT, VICKY AVE",
-        "SUBURBS": "CROWS NEST"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.909481,
-              -27.545089
-            ]
-          },
-          {
-            "type": "Polygon",
-            "coordinates": [
-              [
-                [
-                  151.909985,
-                  -27.545071
-                ],
-                [
-                  151.909461,
-                  -27.544639
-                ],
-                [
-                  151.908976,
-                  -27.545106
-                ],
-                [
-                  151.909501,
-                  -27.545538
-                ],
-                [
-                  151.909985,
-                  -27.545071
-                ]
-              ]
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "EVENT_ID": "25SW4488",
-        "TYPE": "UNPLANNED",
-        "CUSTOMERS_AFFECTED": "2",
-        "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-        "STATUS": "Outage reported",
-        "START": "10:53AM 10 Mar 2025",
-        "EST_FIX_TIME": "Under Investigation",
-        "STREETS": "MCDOUGALL ST",
-        "SUBURBS": "TOOWOOMBA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "GeometryCollection",
-        "geometries": [
-          {
-            "type": "Point",
-            "coordinates": [
               152.86215,
               -25.285764
             ]
@@ -2823,5 +2754,5 @@
   ],
   "company": "Ergon",
   "state": "Current",
-  "extracted": "1741573201.546814"
+  "extracted": "1741573852.810239"
 }
